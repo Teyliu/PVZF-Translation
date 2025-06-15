@@ -38,7 +38,7 @@
 		},
 		{
 			"theZombieType": 7,
-			"name": "<size=40>Zumbis Saltarinos de Apoio",
+			"name": "<size=34>Zumbis Saltarinos de Apoio",
 			"introduce": "<size=29><color=black>Os quatro irmãos, antes órfãos problemáticos, desenvolveram personalidades distorcidas e intimidavam os outros na Academia Zumbi. Um dia, eles viram o Zumbi Dançante se apresentando alegremente no palco, e isso os mudou. A partir daquele momento, eles se juntaram a ele para se apresentarem juntos no palco.</color>",
 			"info": "<size=29>Pula sobre uma planta.\n\n<color=black>Resistência: </color><color=#4B0082>270</color>"
 		},
@@ -62,21 +62,21 @@
 		},
 		{
 			"theZombieType": 11,
-			"name": "<size=40>Zumbi Pato NOT IN GAME",
-			"introduce": "<size=29><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
-			"info": "<size=29>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+			"name": "<size=40>Zumbi Pato",
+			"introduce": "<size=29><color=black>Apenas zumbis específicos podem se tornar Zumbis Pato, nem todo zumbi está à altura. Algumas boias estão meio murchas e eles não conseguem lidar com isso — uma vez livres da boia, abandonam para sempre o desejo por cérebros.</color>",
+			"info": "<size=29>Pode se mover na água.\n\n<color=black>Resistência: </color><color=#4B0082>270</color>"
 		},
 		{
 			"theZombieType": 12,
-			"name": "<size=40>Zumbi Pato com Cone NOT IN GAME",
-			"introduce": "<size=29><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-			"info": "<size=29>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+			"name": "<size=40>Zumbi Pato com Cone",
+			"introduce": "<size=29><color=black>Dizem que alunos ruins têm muitos materiais escolares, mas o Zumbi Pato com Cone não concorda, afinal, ele não quer admitir que é um aluno ruim.</color>",
+			"info": "<size=29>Pode se mover na água.\n\n<color=black>Resistência: </color><color=#4B0082>270 + 370</color>"
 		},
 		{
 			"theZombieType": 13,
-			"name": "<size=40>Zumbi Pato com Balde NOT IN GAME",
-			"introduce": "<size=29><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
-			"info": "<size=29>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+			"name": "<size=40>Zumbi Pato com Balde",
+			"introduce": "<size=29><color=black>O Zumbi Pato com Balde não queria usar aquela boia murcha, mas não teve escolha — afinal, ele já está usando aquele balde enferrujado na cabeça.</color>",
+			"info": "<size=29>Pode se mover na água.\n\n<color=black>Resistência: </color><color=#4B0082>270 + 1100</color>"
 		},
 		{
 			"theZombieType": 14,
@@ -122,7 +122,7 @@
 		},
 		{
 			"theZombieType": 21,
-			"name": "<size=40>Zumbi Caixa Diamantada",
+			"name": "<size=34>Zumbi Caixa Diamantada",
 			"introduce": "<size=29><color=black>Hoje à noite, Zumbis Caixa de Diamante revelarão seu deslumbrante mundo prateado. Seus olhos brilham como as estrelas mais brilhantes no céu noturno, e a luz dourada parece fluir como um rio através do tempo, iluminando o caminho incerto à frente. Cada vez que a tampa da caixa é gentilmente aberta, parece destrancar uma porta misteriosa para outro reino.</color>",
 			"info": "<size=29>Esse é o... Zumbi Cabeça-de-Cone? \n\n<color=black>Resistência: </color><color=#4B0082>4400</color>\n<color=black>Características: </color><color=#4B0082>Transforma-se em um Zumbi Caixa Dourada ao morrer.</color>"
 		},
@@ -230,7 +230,7 @@
 		},
 		{
 			"theZombieType": 39,
-			"name": "<size=40>Mega Devorador Biônico",
+			"name": "<size=34>Mega Devorador Biônico",
 			"introduce": "<size=29><color=black>Outra invenção ainda mais maléfica do Dr. Edgar Zumbão, um zumbi do popular 'Plants Girls vs Zombies' em colaboração.</color>",
 			"info": "<size=29>Um Mega Devorador, só que imune a congelamento e que vai investir contra suas defesas de forma feroz e incansável.\n\n<color=black>Resistência: </color><color=#4B0082>6000</color>\n<color=black>Características: </color><color=#4B0082>Imune a hipnose, continua avançando mesmo quando empurrado para trás.</color>"
 		},
@@ -246,24 +246,24 @@
 			"introduce": "<size=29><color=black>O Devorador Blindado é um grande fã da skin 'Cavalier' de seu jogo favorito, o \u0022Zombies Warriors Plus\u0022. Ele gastou uma fortuna encomendando um conjunto de armadura medieval completo feito sob medida para fazer seu cosplay. Porém, quando foi tirá-lo para guardar, descobriu que era bem sob medida e... estava preso nela! E foi assim que ele acabou com uma skin permanente de 'Cadavelier'.</color>\n\n\n\n\n\n<<<<<< Página Anterior",
 			"info": "<size=29>Um devorador super bem equipado com blindagem extra e armamento pesado e devastador.\n\n<color=black>Resistência: </color><color=#4B0082>8000 + 24000</color>\n<color=black>Características: </color><color=#4B0082>Tem metade da velocidade de outros devoradores, não sofre mais que 5000 de dano por ataque, os efeitos de encanto forçado duram metade do tempo, lança um Zumbi Bolichetron e gera 1-3 Zumbinhos toda vez que bate no chão com sua maça.</color>\n\n\n\n>>>>>> Próxima Página"
 		},
-        {
-            "theZombieType": 44,
-            "name": "僵王博士",
-            "introduce": "<color=#3D1400>这里是僵王博士的宝开语？或许是僵王博士的宝开语。</color>",
-            "info": "僵王博士统治着所有的僵尸。\n\n<color=#3D1400>韧性：</color><color=red>60000</color>\n<color=#3D1400>特点：</color><color=red>被打败后出现奖杯。限伤5000后再计算减伤。免疫大部分异常状态，寒冷/冻结/红温除外。有多种攻击模式。可在右半场放下部分普通僵尸，期间可踩扁最右侧4列的植物。可发射冰火球，滚动压扁植物。可在左半场放下3个蹦极僵尸，半血后改为投掷车辆，压扁2x3范围植物。</color>"
-    },
+                {
+			"theZombieType": 44,
+			"name": "Dr Edgar Zumbão",
+			"introduce": "<color=black>Esta é a fala clássica do Dr Zumbão? Talvez seja a fala clássica do Dr Zumbão.</color>",
+			"info": "O Dr Zumbão governa todos os zumbis.\n\n<color=black>Resistência: </color><color=#4B0082>60000</color>\n<color=black>Características: </color><color=#4B0082>Ao ser derrotado, aparece um troféu. O dano é limitado a 5000 antes da redução ser aplicada. Imune à maioria dos estados anormais, exceto frio/congelamento/superaquecimento. Possui múltiplos modos de ataque. Pode invocar zumbis comuns na metade direita do campo, esmagando as 4 colunas mais à direita. Pode lançar bolas de gelo e fogo que rolam e esmagam plantas. Pode invocar 3 zumbis bungee na metade esquerda, e após perder metade da vida, troca para lançar veículos que esmagam plantas em uma área de 2x3.</color>"
+		},
 		{
 			"theZombieType": 45,
 			"name": "<size=40>Zumbi Bungee",
 			"introduce": "<size=29><color=black>O Zumbi Bungee adora correr riscos, um árduo praticante de Bungee jumping. Afinal, de que adianta estar morto se não se vive um pouco?</color>",
 			"info": "<size=29>Desce do céu e rouba uma planta\n\n<color=black>Resistência: </color><color=#4B0082>720</color>"
 		},
-        {
-            "theZombieType": 46,
-            "name": "奖杯僵王博士",
-            "introduce": "<color=#3D1400>这里是奖杯僵王博士的宝开语？或许是奖杯僵王博士的宝开语。</color>",
-            "info": "《植物大战僵尸：融合版》\n\n<color=#3D1400>韧性：</color><color=red>60000</color>\n<color=#3D1400>特点：</color><color=red>拥有僵王博士的特点。出场时禁用手套锤子，2/3血时解锁锤子，1/3血时解锁手套。投掷的车辆还能清空传送带。</color>\n<color=#3D1400>融合配方：</color><color=red>僵王博士+奖杯</color>"
-        },
+                {
+			"theZombieType": 46,
+			"name": "Doutor Zumbão do Troféu",
+			"introduce": "<color=black>Esta é a fala clássica do Doutor Zumbão do Troféu da PopCap? Talvez seja.</color>",
+			"info": "Plantas vs Zumbis Fusion - Guaraná Edition!\n\n<color=black>Resistência: </color><color=#4B0082>60000</color>\n<color=black>Características: </color><color=#4B0082>Possui as características do Doutor Zumbão. Ao aparecer, desativa o Martelo e a Luva; com 2/3 de vida, libera o Martelo; com 1/3 de vida, libera a Luva. Os veículos lançados também limpam a esteira transportadora.</color>\n<color=black>Fórmula de Fusão:</color><color=#4B0082>Doutor Zumbão + Troféu</color>"
+		},
 		{
 			"theZombieType": 47,
 			"name": "<size=40>Yeti",
@@ -307,18 +307,36 @@
             "info": "<size=29>Está nevando! Ao se mover, gera flocos de neve, depois se retira em sentido contrário e convoca 3 zumbis da neve.\n\n<color=black>Resistência: </color><color=#4B0082>720</color>\n<color=black>Características: </color><color=#4B0082>Imune aos ventos das Turbinadas. Gera flocos de neve enquanto se move, resfriando plantas abaixo. Após aparecer, desacelera até parar, então se move na direção oposta. Ao sair da tela, convoca uma Equipe das Neves: 1 Zumbi Escudo Invernal, 1 Zumbi Lança-Neve e 1 Zumbi Tridente de Neve.</color>\n\n\n>>>>>> Próxima Página"
 		},
         {
-		  "theZombieType": 55,
+	     	"theZombieType": 55,
             "name": "<size=40>Zumbi Cabeça de Gelo",
             "introduce": "<size=29><color=black>Esse zumbi se diz ser o criador original da música 'Cabeça de Gelo', só porque tem um cubo de gelo na cabeça. Olha a Pedra!</color>",
-            "info": "<size=29>Zumbi da neve com um bloco de gelo na cabeça.\n\n<color=black>Resistência</color><color=#4B0082>500+370</color>\n<color=black>Características:</color><color=#4B0082>É um zumbi resistente e tem um nível de resistência ao frio de 1.</color>"
+            "info": "<size=29>Zumbi da neve com um bloco de gelo na cabeça.\n\n<color=black>Resistência: </color><color=#4B0082>500+370</color>\n<color=black>Características: </color><color=#4B0082>É um zumbi resistente e tem um nível de resistência ao frio de 1.</color>"
         },
         {
             "theZombieType": 56,
             "name": "<size=40>Besta das Neves",
             "introduce": "<size=29><color=black>O estudo da classificação biológica da Besta das Neves nunca avançou muito. Afinal, não se pode esperar grande conhecimento desses zumbis sem cérebro. Felizmente, o Dr. Edgar Zumbão apresentou um método excelente para diferenciá-los: \u0022O que parecer mais inteligente é a Besta das Neves\u0022</color>",
-            "info": "<size=29>Criatura neutra das regiões nevadas.\n\n<color=black>Resistência:</color><color=#4B0082>1350</color>\n<color=black>Características:</color><color=#4B0082>Quando os zumbis destroem blocos de gelo e não há plantas ou zumbis correspondentes, uma Besta das Neves aparece.</color>"
-        },
-        {
+            "info": "<size=29>Criatura neutra das regiões nevadas.\n\n<color=black>Resistência: </color><color=#4B0082>1350</color>\n<color=black>Características: </color><color=#4B0082>Quando os zumbis destroem blocos de gelo e não há plantas ou zumbis correspondentes, uma Besta das Neves aparece.</color>"
+		},
+                {
+			"theZombieType": 57,
+			"name": "<size=40>Rei Yeti",
+			"introduce": "<size=29><color=black>O Rei Yeti tem mais força, uma cauda mais pesada e inteligência superior em comparação aos outros yetis. Mas o que o tornou líder do grupo? Hah, foi sua impressionante habilidade de salto, que ajudou a tribo a encontrar a origem das nevascas.</color>",
+			"info": "<size=29>Rei das criaturas da tundra.\n\n<color=black>Resistência: </color><color=#4B0082>3000</color>\n<color=black>Características: </color><color=#4B0082>Move-se lentamente e esmaga plantas. Ao entrar, ignora plantas e avança 2 casas. Quando zumbis destroem blocos de gelo, há 25% de chance de surgir um Rei Yeti.</color>"
+		},
+		{
+			"theZombieType": 58,
+			"name": "<size=40>Zumbi Escavador",
+			"introduce": "<size=29><color=black>“Não quero viver neste mundo”, o Zumbi Escavador não encontra nenhuma alegria em sua rotina. Ele só quer cavar obsidiana suficiente para construir um portal místico e fugir daqui. Mesmo que o outro lado do portal seja ainda mais perigoso e monótono, ele não teria como acendê-lo — o único item conhecido para isso no mundo dos zumbis está escondido numa pirâmide misteriosa.</color>",
+			"info": "<size=29>Usa uma picareta de material aleatório para destruir sua linha de frente.\n\n<color=black>Resistência: </color><color=#4B0082>720 + 1400 (DEF I)</color>\n<color=black>Dano: </color><color=#4B0082>50</color>\n<color=black>Características: </color><color=#4B0082>Seus ataques acumulam Quebrantado em plantas defensivas. Ao atingir 100% de Quebrantado, a planta é destruída instantaneamente. Quebrantado = (nº de ataques * valor de Quebrantado) / vida da planta. Surge com uma picareta aleatória com escavação diferente. Contra plantas com resistência abaixo de certo valor, escavação ×5.\nPicareta de Ouro: valor 150, resistência 4000\nPicareta de Ferro: valor 50, resistência 16000\nPicareta de Diamante: valor 100, resistência 32000</color>\n<color=black>Plantas defensivas:</color><color=#4B0082>Família das nozes, abóboras, o Reiburguer e a Pera Polar.</color>"
+		},
+		{
+			"theZombieType": 59,
+			"name": "<size=34>Golfinho Zumbi do Jornal",
+			"introduce": "<size=29><color=black>Seu sonho era se tornar uma sereia, mas o cirurgião responsável pela transformação trocou acidentalmente a parte superior com a inferior.</color>",
+			"info": "<size=29>Fica furioso se for interrompido durante a leitura... e volta para pegar outro jornal em casa?\n\n<color=black>Resistência: </color><color=#4B0082>720 + 720 (DEF II)</color>\n<color=black>Características: </color><color=#4B0082>Ao perder o jornal, aumenta muito a velocidade e inverte a direção. Quando sai do jardim, volta com outro jornal. Se ele sair encantado, isso não acontece.</color>"
+		},
+                {
 			"theZombieType": 100,
 			"name": "<size=40>Zumbi Disparervilha",
 			"introduce": "<size=29><color=black>A habilidade do Zumbi Disparervilha de atacar à distância geralmente assusta as plantas. No entanto, o verdadeiro pânico está com os zumbis, que temem que aqueles que lutam na frente dele sejam alvos por trás.</color>",
@@ -344,13 +362,13 @@
 		},
 		{
 			"theZombieType": 104,
-			"name": "<size=34>Zumbi Disparacereja do Jornal",
+			"name": "<size=30>Zumbi Disparacereja do Jornal",
 			"introduce": "<size=29><color=black>A fruta favorita deste zumbi é cereja, e até seu jornal tem sabor de cereja. O jornal que ele segura é a única coisa que pode moderar sua raiva.</color>",
 			"info": "<size=29>Entra em uma saraivada explosiva de cerejas quando seu jornal é quebrado.\n\n<color=black>Resistência: </color><color=#4B0082>1500 + 500</color>\n<color=black>Características: </color><color=#4B0082>Torna-se temporariamente invencível após seu jornal ser destruído e então começa a disparar cerejas explosivas a cada 0,75 segundos.</color>\n<color=black>Alcance da Explosão: </color><color=#4B0082>Explosão em área, pode ser absorvido por nozes.</color>"
 		},
 		{
 			"theZombieType": 105,
-			"name": "<size=40>Zumbi Caixa Misteriosa",
+			"name": "<size=34>Zumbi Caixa Misteriosa",
 			"introduce": "<size=29><color=black>？？？</color>",
 			"info": "<size=29>Ninguém sabe o que está escondido dentro da caixa...\n\n<color=black>Resistência: </color><color=#4B0082>270 + 370</color>\n<color=black>Características: </color><color=#4B0082>Depois que a caixa cai, gera um zumbi aleatório com 20%/40%/60%/80%/100% da resistência do zumbi original.</color>"
 		},
@@ -380,7 +398,7 @@
 		},
 		{
 			"theZombieType": 110,
-			"name": "<size=36>Zumbi Caixa Misteriosa Dourada",
+			"name": "<size=28>Zumbi Caixa Misteriosa Dourada",
 			"introduce": "<size=29><color=black>？？？</color>",
 			"info": "<size=29>Ninguém sabe o que está escondido dentro da caixa dourada...\n\n<color=black>Resistência: </color><color=#4B0082>270 + 720</color>\n<color=black>Características: </color><color=#4B0082>Depois que a caixa cai, gera um zumbi aleatório com Resistência total.</color>"
 		},
@@ -398,13 +416,13 @@
 		},
 		{
 			"theZombieType": 113,
-			"name": "<size=37>Zumbi Disparervilha na Baleia",
+			"name": "<size=28>Zumbi Disparervilha na Baleia",
 			"introduce": "<size=29><color=black>Qual é a diferença entre o Disparervilha na Baleia e o Yeti na Baleia? Responde o Zumbi Disparervilha na Baleia:'Eu apenas gosto de bumerangue.'</color>",
-			"info": "<size=29>Uma variante do Yeti na Baleia!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Características:</color><color=#4B0082>Dispara ervilhas nas suas plantas antes e depois de pular."
+			"info": "<size=29>Uma variante do Yeti na Baleia!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Características: </color><color=#4B0082>Dispara ervilhas nas suas plantas antes e depois de pular."
 		},
 		{
 			"theZombieType": 114,
-			"name": "<size=40>Zumbi da Porta Metalizado",
+			"name": "<size=34>Zumbi da Porta Metalizado",
 			"introduce": "<size=29><color=black>Zumbi da Porta Metalizado sempre empilha equipamentos de ferro, confundindo os outros zumbis. \"Se os Ímãgumelos conseguem arrancar nossas cabeças, por que não trazemos mais metal?\" Sua lógica bizarra permaneceu válida — até ele conhecer a Magnetizada.</color>",
 			"info": "<size=29>Zumbi da Porta Metalizado adquiriu um equipamento: uma Porta de Tela!\n\n<color=black>Dano: </color><color=#4B0082>80</color>\n<color=black>Resistência: </color><color=#4B0082>270 + 1250 + 1100 + 1100</color>\n<color=black>Características: </color><color=#4B0082>Atira constantemente ervilhas de ferro em suas plantas enquanto tem uma defesa exagerada.</color>"
 		},
@@ -437,7 +455,13 @@
             "name": "<size=40>Zumbi Metalocóptero",
             "introduce": "<size=29><color=black>Diante das dúvidas dos outros, ele tentou provar seu status de veterano mostrando uma foto do grupo metálico dele. \u0022Mas onde você está?\u0022, perguntaram. Ele, segurando a imagem em preto e branco, também ficou confuso.</color>",
             "info": "<size=29>Esse Zumbi Metalocóptero dá risada das Turbinadas!\n\n<color=black>Dano: </color><color=#4B0082>80</color>\n<color=black>Resistência: </color><color=#4B0082>1350+500</color>\n<color=black>Características: </color><color=#4B0082>As hélices no topo podem ignorar os ventos das Turbinadas. Esse zumbi dispara uma ervilha de ferro a cada 1.5 segundo, capaz de empurrar zumbis encantados.</color>"
-        },
+		},
+        {
+			"theZombieType": 120,
+			"name": "<size=40>Zumbi Ruínagumelo</size>",
+			"introduce": "<size=29><color=black>Depois de anos sendo analisada, a biologia do Ruínagumelo foi replicada e implantada no Zumbi Ruínagumelo. O resultado? Um organismo instável e perigoso, mas devotado a uma única função: detonar tudo ao redor, mesmo que em uma potência menor que um Ruínagumelo original.</color></size>",
+			"info": "<size=29>Explode após um tempo, destruindo plantas em certa área.\n\n<color=black>Resistência: </color><color=#4B0082>1350</color>\n<color=black>Características: </color><color=#4B0082>Explode após um tempo em campo, com uma explosão de Ruínagumelo, causando 1800 de dano às plantas em uma área 3×3.</color>\n<color=black>Fraqueza: </color><color=#4B0082>Noz-Ruína</color></size>"
+		},
         {
 			"theZombieType": 200,
 			"name": "<size=40>Zumbarão",
@@ -452,25 +476,25 @@
 		},
 		{
 			"theZombieType": 202,
-			"name": "<size=36>Zumbi Noz-Pélago do Tridente",
+			"name": "<size=28>Zumbi Noz-Pélago do Tridente",
 			"introduce": "<size=29><color=black>\u0022Zumbi Noz-Pélago do Tridente é um pescador habilidoso conhecido por sua precisão excepcional com os quatro tridentes que ele arremessa, o que lhe rendeu o título de rei dos pescadores.\u0022 \u0022Na verdade, eu costumava ser um lançador de dardos em meio período...\u0022 Zumbi Noz-Pélago do Tridente admitiu.</color>",
 			"info": "<size=29>Arremessa um grande número de tridentes.\n\n<color=black>Resistência: </color><color=#4B0082>270+7500</color>\n<color=black>Características: </color><color=#4B0082>Lança 4 tridentes, cada um causando dano às plantas igual a 20% (mínimo de 20) de sua resistência atual.</color>"
 		},
 		{
 			"theZombieType": 203,
-			"name": "<size=34>Zumbi Metralhacerejas do Jornal",
+			"name": "<size=28>Zumbi Metralhacerejas do Jornal",
 			"introduce": "<size=29><color=black>\u0022Estou ficando velho...\u0022 lamentou o Zumbi Metralhacerejas do Jornal. Apesar de conter sua pressão, foi o suficiente para manter plantas e zumbis no chão. \u0022Só esse cara ainda me inspirar a lutar...\u0022 ele murmurou enquanto guardava o jornal.</color>",
 			"info": "<size=29>Causa dano explosivo imenso.\n\n<color=black>Dano: </color><color=#4B0082>400 → 1000 (Enfurecido)</color>\n<color=black>Resistência: </color><color=#4B0082>1500 + 1500</color>\n<color=black>Características: </color><color=#4B0082>Torna-se temporariamente invencível após seu jornal ser quebrado, disparando cerejas explosivas a cada 0,125 segundos.</color>"
 		},
 		{
 			"theZombieType": 204,
-			"name": "<size=40>Zumbi Noz-Rúgbi Blindado",
+			"name": "<size=34>Zumbi Noz-Rúgbi Blindado",
 			"introduce": "<size=29><color=black>Saindo das sombras, o Zumbi Noz-Rúgbi Blindado irradia poder, frieza e uma vibração sinistra. Ele mantém firmemente o segredo de sua força para si mesmo, afirmando que apenas a escuridão mais escura pode criar um ser tão formidável quanto ele. \u0022Onde está minha tinta?\u0022 Dr. Edgar Zumbão perguntou, parecendo perplexo em seu laboratório.</color>",
 			"info": "<size=29>Um velho amigo? Talvez, talvez o tenhamos conhecido antes.\n\n<color=black>Dano: </color><color=#4B0082>100</color>\n<color=black>Resistência: </color><color=#4B0082>3000 + 12000</color>"
 		},
 		{
 			"theZombieType": 205,
-			"name": "<size=40>Zumpelim Classe-Kirov",
+			"name": "<size=34>Zumpelim Classe-Kirov",
 			"introduce": "<size=29><color=black>É um objeto voador enorme? Não, na verdade é um dirigível gigante, resistente e com capacidade de liberar um esquadrão de caças. Mesmo quando destruído, o dirigível ainda causa estragos ao seu redor, fazendo com que outros zumbis mantivessem distância, com medo que a queda os mate.</color>",
 			"info": "<size=29>Reportando aeronave classe Kirov!\n\n<color=black>Resistência: </color><color=#4B0082>3000</color>\n<color=black>Características: </color><color=#4B0082>Invoca um Drone Classe-Kirov para a ação a cada segundo. Cai ao morrer, causando dano às plantas no impacto.</color>"
 		},
@@ -494,7 +518,7 @@
 		},
 		{
 			"theZombieType": 209,
-			"name": "<size=38>Zumbi Rei Palhaço num Pogo</size>",
+			"name": "<size=33>Zumbi Rei Palhaço num Pogo</size>",
 			"introduce": "<size=29><color=black>\u0022Eu só queria seguir a tendência com esse visual,\u0022 Zumbi Rei Palhaço num Pogo diz dando de ombros sempre que sua aparência legal aparece. Mas todos sabem que ele teve uma história de amor que deixou uma marca profunda nele.</color></size>",
 			"info": "<size=29>A bomba está escondida em seu pula-pula.\n\n<color=black>Resistência: </color><color=#4B0082>720 + 4400</color>\n<color=black>Características: </color><color=#4B0082>Se ele morrer enquanto pula, ele explodirá e se transformará em um Zumbi Rei Palhaço.</color></size>"
 		},
@@ -504,7 +528,8 @@
 			"introduce": "<size=29><color=black>\u0022Bolas de peixe? Armadura mecha? Isso é tudo o que importa,\u0022 diz Zumbi Mega-Bolichetron. Ostentando um traje mecânico impressionante, ele sente que é tudo o que ele realmente precisa.</color></size>",
 			"info": "<size=29>O Zumbi Mega-Bolichetron pode mudar de direção.\n\n<color=black>Resistência: </color><color=#4B0082>3000</color></size>"
 		},
-        {   "theZombieType": 211,
+        {   
+            "theZombieType": 211,
 			"name": "<size=40>Zumbarão Travado",
 			"introduce": "<size=29><color=black>Esse dispositivo já lutou em diversas guerras de jardim atuando totalmente na água. Mas agora só sobrou essa casca travada e extremamente resistente.</color>",
 			"info": "<size=29>Esse equipamento já foi de grande utilidade para os zumbis.\n\n<color=black>Resistência: </color><color=#4B0082>3000</color>"
@@ -522,87 +547,27 @@
 		},
 		{
 			"theZombieType": 214,
-			"name": "<size=36>Yeti Metralhabombas na Baleia",
+			"name": "<size=28>Yeti Metralhabombas na Baleia",
 			"introduce": "<size=29><color=black>Yeti Metralhabombas na Baleia sempre acorda de péssimo humor — principalmente quando um colega caçador de baleias o arrasta para o trabalho. Movido pela raiva, ele está pronto para explodir qualquer planta que encontrar seu caminho antes de voltar para tirar uma soneca.</color>",
 			"info": "<size=29>Salta e destrói por trás de sua defesa atirando cerejas explosivas!\n\n<color=black>Resistência: </color><color=#4B0082>1500</color>\n<color=black>Características: </color><color=#4B0082>Começa a atirar cerejas explosivas 3 segundos após entrar no gramado.</color>"
 		},
 		{
 			"theZombieType": 215,
-			"name": "<size=32>Zumbi Caixa Misteriosa Diamantada",
+			"name": "<size=28>Zumbi Caixa Misteriosa Diamantada",
 			"introduce": "<size=29><color=black>！！！</color>",
 			"info": "<size=29>Ninguém sabe o que está escondido dentro da caixa azul...\n\n<color=black>Resistência: </color><color=#4B0082>20000 + 1100</color>\n<color=black>Características: </color><color=#4B0082>Depois que a caixa cai, gera um zumbi aleatório com Resistência total.</color>"
 		},
 		{
 			"theZombieType": 216,
-			"name": "<size=38>Zumbi Carroça de Tridentes",
+			"name": "<size=32>Zumbi Carroça de Tridentes",
 			"introduce": "<size=29><color=black>O Zumbi Carroça de Tridentes é um \"perfeccionista\". Ele acha que seu veículo está um pouco surrado, então o carrega com tridentes. Mas fiel à sua natureza perfeccionista, ele não vai parar até que todos os espaços sejam preenchidos.</color>\n\n\n\n\n\n\n\n<<<<<< Página Anterior",
 			"info": "<size=29>Lança uma salva de tridentes em sua defesa!\n\n<color=black>Resistência: </color><color=#4B0082>1350+4400</color>\n<color=black>Características: </color><color=#4B0082>Cada ataque lança 14 tridentes em rápida sucessão, após uma breve pausa, dispara outros 14 tridentes. Os tridentes não atingem as plantas diretamente, são lançados em um ângulo só e em velocidade fixa, causando dano a qualquer planta que atingirem pelo caminho. Depois de lançar os tridentes, avança em linha reta atropelando tudo em seu caminho.</color>\n\n\n>>>>>> Próxima Página"
 		},
 		{
 			"theZombieType": 217,
-			"name": "<size=40>Zumbi Saltarino Veterano",
+			"name": "<size=34>Zumbi Saltarino Veterano",
 			"introduce": "<size=29><color=black>Todos os zumbis ficam impressionados com as incríveis habilidades de salto com vara do Zumbi Saltarino Veterano 'Ah, é apenas meu talento', diz o Zumbi Saltarino Veterano. Mas a verdade é que ele trabalha em dois empregos por dia, e como dizem, dobro de trabalho, dobro de salto.</color>",
-			"info": "<size=29>Pode pular sobre 2 blocos.\n\n<color=black>Resistência: </color><color=#4B0082>3000</colorCaracterísticas:</color><color=#4B0082>Pode pular sobre 2 espaços, mas pode ser bloqueado por Nozes Altas</color>"
-		},
-		{
-			"theZombieType": 218,
-			"name": "<size=40>Zumbi Pozeidon",
-			"introduce": "<size=29><color=black>Esse zumbi já foi um velho lobo do mar, um aventureiro que viajou pelos 7 mares em busca de um tesouro antigo. Pórem, ele descobriu algo maior que um mero tesouro, e isso lhe rendeu a sua aparência e força atual, através de um grande tridente de poderes desconhecidos por todos... inclusive por ele mesmo, por isso ele simplesmente o joga por ai.</color>\n\n\n\n\n\n<<<<<< Página Anterior",
-			"info": "<size=29>Joga seu tridente divino em sua defesa!\n\n<color=black>Resistência: </color><color=#4B0082>8000+24000</color>\n<color=black>Características: </color><color=#4B0082>É imune a Encantamentos e Carnívoras, não sofre mais de 5000 de dano. Enquanto estiverem no jardim, todos os Mega-Zumbis do Tridente atacarão continuamente, com todos os tridentes causando 5 vezes o dano. Seus tridentes lançados podem matar instantaneamente a maioria das plantas e ao pousar, bloqueiam projéteis. Se não forem destruídos, eles causam uma grande quantidade de dano às plantas ao sumirem.</color>\n\n>>>>>> Próxima Página"
-		},
-		{
-			"theZombieType": 219,
-			"name": "<size=40>Zumbi Giga-Bolichetron",
-			"introduce": "<size=29><color=black>O Zumbi Giga-Bolichetron foi projetado como uma versão miniatura e mais precisa do Noz-Mechatron, mas um erro nas medidas resultou em algo... muito maior. Os engenheiros, percebendo o erro tarde demais, decidiram seguir em frente.</color>",
-			"info": "<size=29>Absorve dano para todos os zumbis no gramado!\n\n<color=black>Resistência: </color><color=#4B0082>12000</color>\n<color=black>Características: </color><color=#4B0082>É imune a Encantamentos e Carnívoras, com limite de 5000 de dano por golpe. Defende quase todos os zumbis e tem um escudo temporário, sofrendo dano apenas uma vez a cada 0,2 segundos.</color></color>"
-		},
-		{
-			"theZombieType": 220,
-			"name": "<size=38>Zumbi Noz-Rúgbi Reforçado",
-			"introduce": "<size=29><color=black>Esse zumbi totalmente reforçado é fruto de um intensivo treinamento, a famosa \u0022Semana do Inferno\u0022, o mais árduo dos treinamentos, superado apenas por aqueles que tem a incrível capacidade de aguentar tanto estresse quanto pais com filhos mal-criados.</color>\n\n\n\n\n\n\n\n<<<<<< Página Anterior",
-			"info": "<size=29>Zumbi Noz-Rúgbi Reforçado veio derrubar sua defesa!\n\n<color=black>Dano: </color><color=#4B0082>200</color>\n<color=black>Resistência: </color><color=#4B0082>8000+24000</color>\n<color=black>Características: </color><color=#4B0082>Imune a Empurrões, Encantamentos e Carnívoras, não sofre mais que 5000 de dano por golpe. Enquanto estiver no jardim, todas as plantas são incapazes de curar e qualquer tentativa de cura causará 0.1x de dano baseado em seu dano. Mata plantas quase instantaneamente e as transforma em um Zumbi Noz-Rúgbi Blindado. Ele pode duplicar seu ataque e aumentar a velocidade em 0,3 por planta devorada (máximo de 3).</color>\n>>>>>> Próxima Página"
-		},
-		{
-			"theZombieType": 221,
-			"name": "<size=40>Artilharia Classe-Kirov",
-			"introduce": "<size=29><color=black>O que dizer sobre essa engenharia ultra tecnológica do Dr. Edgar Zumbão? \u0022Todo esse arsenal de ponta é simplesmente incrível\u0022, disse o zumbi que a opera. \u0022Para os zumbis, isso é absoluto cinema!\u0022</color>\n\n\n\n\n\n\n\n\n<<<<<< Página Anterior",
-			"info": "<size=29>Dispara bombas e convoca Drones para devastar geral.\n\n<color=black>Resistência: </color><color=#4B0082>12000</color>\n<color=black>Características: </color><color=#4B0082>Aparece apenas no Purgatório após selecionar o efeito, imune a Empurrões, Encantamentos, Carnívoras e aeronaves caindo por Eletrocactos, não sofre mais que 5000 de dano por golpe. Ao aparecer em terra, ele avança em alta velocidade, esmagando as plantas na frente. Com um tempo de invencibilidade e decola, invocando um Zumpelim Classe-Kirov a cada 3 segundos e lançando bombas que explodem ao pousar, causando dano às plantas em área.</color>\n>>>>>> Próxima Página"
-		},
-		{
-			"theZombieType": 222,
-			"name": "<size=40>Zumbi Turnê Mundial",
-			"introduce": "<size=29><color=black>Este palco meticulosamente elaborado é onde o ele pode finalmente ignorar todas as críticas e mergulhar em sua performance antes que o palco desmorone.</color>",
-			"info": "<size=29>Ele dedicou toda a sua vida à paixão pelas apresentações.\n\n<color=black>Resistência: </color><color=#4B0082>32000</color>\n<color=black>Características: </color><color=#4B0082>Aparece apenas no Purgatório após selecionar seu efeito, imune a Encantamentos e Carnívoras, não leva mais do que 5.000 de dano por golpe. Concede imunidade a congelamento a zumbis próximos e invoca 4 Zumbis Superstar a cada poucos segundos. Gera 2 Michael Zumbonis e um Zumbi Superstar ao morrer.</color>"
-		},
-		{
-			"theZombieType": 223,
-			"name": "<size=40>Professor Zerejaz",
-			"introduce": "<size=29><color=black>O Professor Zerejaz é obcecado pelo estudo de artefatos científicos, especialmente explosivos. Há rumores de que Cerejazilla foi originalmente sua criação!</color>\n\n\n\n\n\n\n\n\n\n<<<<<< Página Anterior",
-			"info": "<size=29>Um grande professor zumbi, mesmo tendo poucos pensamentos na cabeça.\n\n<color=black>Resistência: </color><color=#4B0082>1200+12000+1500</color>\n<color=black>Características: </color><color=#4B0082>Imune a Empurrões, Encantamentos e Carnívoras, não sofre mais que 5000 de dano a cada golpe, fica invulnerável quando seu jornal é destruído, converte até 30 zumbis próximos em Zumbis Metralhabombas enfurecidos. Ele então atira uma saraivada de cerejas e catapulta bombas enquanto acelera. Plantas espinho destroem seu jornal instantâneamente.</color>\n\n>>>>>> Próxima Página"
-		},
-		{
-			"theZombieType": 224,
-			"name": "<size=40>Zumbi Rainha Palhaça",
-			"introduce": "<size=29><color=black>O olhar da Rainha por si só é suficiente para fazer seus servos tremerem. Ninguém ousa desafiá-la. Mas o poder não é seu único prazer — ela adora presentear! Dentro de sua caixa de presentes especiais, brinquedos e bugigangas aguardam por novos donos... junto com bombas novinhas em folha! \"Eu adoro surpresinhas, teh-he~\" diz a Rainha.</color>\n\n<<<<<< Página Anterior",
-			"info": "<size=29>A Zumbi Rainha Palhaça adora criar \"cenas explosivas.\"\n\n<color=black>Resistência: </color><color=#4B0082>32000</color>\n<color=black>Características: </color><color=#4B0082>Recebe no máximo 5000 de dano por golpe antes de qualquer redução de dano. Imune a Encantamentos e Carnívoras. Recupera 3000 de Resistência toda vez que passa por uma explosão de caixa-surpresa. Emerge de sua caixa em intervalos regulares, exibindo efeitos de invocação.</color>\n\n\n\n>>>>>> Próxima Página\n<color=black>Invocação: </color><color=#4B0082>Ao emergir, pode invocar:\n1. Zumbis Rei Palhaço da 5ª coluna em diante.\n2. Zumbis Rei Palhaço num Pogo da 5ª coluna em diante.\n3. Explosões em todos os ladrilhos da coluna em que está.</color>"
-		},
-        {
-            "theZombieType": 225,
-            "name": "<size=35>Zumbi Metralhervilhas Blindado",
-            "introduce": "<size=29><color=black>Azeitona Preta Metralhadora é um guerreiro de aço: com um corpo de aço, uma vontade de aço, balas de aço e — após ser denunciado por colegas — uma atitude de aço. Ele acredita firmemente que os zumbis recuarem diante de suas balas só pode significar que eles não passaram por um treinamento igualmente de aço.</color>",
-            "info": "<size=29>Guerreiro destemido! Ele jamais cessará seus passos!\n\n<color=black>Dano: </color><color=#4B0082>80</color>\n<color=black>Resistência: </color><color=#4B0082>3000+3000</color>\n<color=black>Características: </color><color=#4B0082>Imune a Empurrões. Dispara ervilhas de ferro a cada 0.1 segundo e empurra zumbis encantados.</color>"
-        },
-        {
-            "theZombieType": 226,
-            "name": "<size=40>Zumbi Esquadrão Alfa",
-            "introduce": "<size=29><color=black>\u0022A guerra é a espada com a qual conquistamos as terras sob o sol e a vitória é um objetivo que certamente será alcançado\u0022, diz o líder do Esquadrão Alfa. \u0022Capitão, acabei de derrubar uma Fera das Neves\u0022, disse o companheiro, \u0022Deixe-a. Isso não é um troféu de guerra, apenas atrasará nossa vitória maior\u0022, responde o líder. \u0022Depois desta guerra, o novo livro do capitão será publicado?\u0022 Depois de questionar, há um breve silêncio, e a resposta final... \u0022Quando eu morrer!\u0022</color>\n\n\n\n<<<<<< Página Anterior",
-            "info": "<size=29>O Esquadrão Alfa aparecem como unidade coletiva de zumbis.\n\n<color=black>Dano: </color><color=#4B0082>500x2</color>\n<color=black>Resistência: </color><color=#4B0082>6000+6000</color>\n<color=black>Características: </color><color=#4B0082>São imunes a encantamento. Normalmente vem em duplas. Quando aparecem como zumbis líderes, surgem 5 por fila mas como um único grupo, com vida multiplicada por 5. Ao receber dano letal e não estiver em estado crítico, entra em estado crítico em vez de morrer, caso contrário, todo o grupo morre junto.</color>\n\n>>>>>> Próxima Página\n<color=black>Estado Crítico: </color><color=#4B0082>No estado crítico, tornam-se imunes a dano, a recuo, não são alvos das plantas mas ainda bloqueiam projéteis. Após 10 segundos, ressuscitam com vida cheia e avançam 2.5 espaços, causando 500 de dano a cada planta que colidirem e liberando uma explosão no final. Ao sofrerem algum dano de morte instantânea, o Zumbi Esquadrão Alfa e seu companheiro morrem imediatamente.</color>\n\n\n\n\n>>>>>> Próxima Página"
-		},
-        {
-            "theZombieType": 227,
-            "name": "<size=36>Zumbi Noz-Gelada com Garras",
-            "introduce": "<size=29><color=black>Todos pensam que as garras dele são armas mortais muito bem planejadas para atacar, mas na verdade não é assim que acontece... \u0022Caramba, está tão frio aqui que essas placas surgiram em minhas mãos não sei de onde!!!\u0022</color>",
-            "info": "<size=29>Um Zumbi Noz-Gelada, mas com garras mortais.\n\n<color=black>Dano: </color><color=#4B0082>500</color>\n<color=black>Resistência: </color><color=#4B0082>720 + 2200</color>\n<color=black>Características: </color><color=#4B0082>Desfere golpes mortais que causam muito dano. Quando atacado por Cataclismogumelos ou Cactaclísmicos, em vez de ser encantado, gera um novo Zumbi Noz-Gelada com Garras para auxiliar.</color>"
-        }
+			"info": "<size=29>Pode pular sobre 2 blocos.\n\n<color=black>Resistência: </color><color=#4B0082>3000</colorCaracterísticas: </color><color=#4B0082>Pode pular sobre 2 espaços, mas pode ser bloqueado por Nozes Altas</color>"
+		}
     ]
 }
