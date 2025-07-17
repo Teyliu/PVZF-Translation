@@ -3898,7 +3898,7 @@
     },
     {
       "seedType": 921,
-      "name": "Bodriozilla",
+      "name": "bodriozilla",
       "introduce": "<size=39><color=#3D1400>Bodriozilla, con su diente de oro y actitud de ex estrella, declara: \"El protagonismo es para rookies. Yo solo quiero paz... y zombis envenenados.\" Sus fans lo extrañan, pero él prefiere el anonimato tóxico.</color></size>",
       "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Proyectiles aplican <color=red>2 Puntos de Veneno</color> por impacto.\n\n<color=#3D1400>Especial:</color>\n- <color=red>Transformación:</color> Usa <color=red>Petacereza → Cerezilla</color> | <color=red>Ajo → Bodriozilla</color>.\n- <color=red>Dureza:</color> 8000 (no se cura con explosiones).\n\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Cerezilla + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Allium Defensus Giganteus</color></size>",
       "cost": "<size=33>Costo: <color=red>650</color>   Recarga: <color=red>110 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
@@ -4455,7 +4455,7 @@
     {
       "seedType": 1021,
       "name": "Nuecita",
-      "introduce": "<size=42><color=#3D1400>¿Nuez o seta?, ¿Por qué preocuparse por las etiquetas? De todas formas, los frutos secos no van a decirte que en realidad es un fem... Matsutake disfrazado.</color></size>",
+      "introduce": "<size=42><color=#3D1400>¿Por qué hacer distinciones? es solo un hongo matsutake.</color></size>",
       "info": "<size=42>A pesar de su tamaño, la Nuecita puede ser un defensor incondicional.\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Fusión: </color><color=red>Seta Desesporada + Nuez\n<color=#3D1400>Nombre Científico: </color><color=red>Puffia juglans</color></size>",
       "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
