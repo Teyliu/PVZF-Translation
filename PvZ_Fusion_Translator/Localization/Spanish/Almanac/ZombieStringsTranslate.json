@@ -51,8 +51,8 @@
     },
     {
       "theZombieType": 9,
-      "name": "Zombi All-Star",
-      "introduce": "<size=39><color=#3D1400>El Zombi All-Star es una estrella del deporte entre los zombis, admirado por muchos por su heroica presencia en el campo. Muchas compañías quieren contratarlo, pero sus demandas salariales son altas: un sueldo anual de 10,000 cerebros.</color></size>",
+      "name": "Zombi Futbolista",
+      "introduce": "<size=39><color=#3D1400>El Zombi Futbolista es una estrella del deporte entre los zombis, admirado por muchos por su heroica presencia en el campo. Muchas compañías quieren contratarlo, pero sus demandas salariales son altas: un sueldo anual de 10,000 cerebros.</color></size>",
       "info": "<size=39>Corre súper rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+1400</color></size>"
     },
     {
@@ -117,26 +117,26 @@
     },
     {
       "theZombieType": 20,
-      "name": "Zombi Pescador",
-      "introduce": "<size=39><color=#3D1400>El Zombi Pescador era originalmente un lanzador de jabalina que se convirtió en pescador tras retirarse. Sin embargo, cuando fue al río a pescar, se hundió porque no sabía nadar. Cuando llegó a la orilla, se dio cuenta de que se había convertido en lo que es ahora.</color></size>",
+      "name": "Zombi Tridentis",
+      "introduce": "<size=39><color=#3D1400>El Zombi Tridentis era originalmente un lanzador de jabalina que se convirtió en pescador tras retirarse. Sin embargo, cuando fue al río a pescar, se hundió porque no sabía nadar. Cuando llegó a la orilla, se dio cuenta de que se había convertido en lo que es ahora.</color></size>",
       "info": "<size=39>Lanza un tridente para atacar tus plantas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características: </color><color=#4B0082>Lanza un tridente, causando daño a las plantas igual al 20% (mínimo de 20) de su dureza actual.\n<color=#3D1400>Rango de búsqueda: </color><color=#4B0082>3.5 baldosas al frente</color></size>"
     },
     {
       "theZombieType": 21,
-      "name": "Zombi Deluxe",
-      "introduce": "<size=39><color=#3D1400>Esta noche, los Zombis Deluxe revelarán su deslumbrante mundo plateado. Sus ojos brillan como las estrellas más brillantes en el cielo nocturno, y la luz dorada parece fluir como un río a través del tiempo, iluminando el camino incierto por delante. Cada vez que la tapa de la caja se abre suavemente, se siente como abrir una puerta misteriosa a otro reino.</color></size>",
+      "name": "Zombi Cara-Diamante",
+      "introduce": "<size=39><color=#3D1400>Esta noche, los Zombis Cara-diamante revelarán su deslumbrante mundo plateado. Sus ojos brillan como las estrellas más brillantes en el cielo nocturno, y la luz dorada parece fluir como un río a través del tiempo, iluminando el camino incierto por delante. Cada vez que la tapa de la caja se abre suavemente, se siente como abrir una puerta misteriosa a otro reino.</color></size>",
       "info": "<size=39>¿Es este... un Zombi Caracono? \n\n<color=#3D1400>Dureza: </color><color=#4B0082>4400</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se convierte en un Zombi Dorado al morir.</color></size>"
     },
     {
       "theZombieType": 22,
-      "name": "Zombi Dorado",
+      "name": "Zombi Cara-Dorado",
       "introduce": "<size=39><color=#3D1400>\"Debajo de la caja dorada, esperan otras cajas de diferentes colores. ¿Puedes adivinar de qué está hecha la caja de adentro?\"</color></size>",
       "info": "<size=39>¿Es este... un Zombi Caracono? \n\n<color=#3D1400>Dureza: </color><color=#4B0082>2200</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se convierte en un Zombi Plata al morir.</color></size>"
     },
     {
       "theZombieType": 23,
-      "name": "Zombi Plateado",
-      "introduce": "<size=39><color=#3D1400>El Zombi Plata piensa en la caja en su cabeza como una olla, así que debe ser una. Dada su mentalidad, ¿por qué no adoptar su perspectiva? Y ves la marca de exclamación en su caja, ¿verdad?</color></size>",
+      "name": "Zombi Cara-Plateado",
+      "introduce": "<size=39><color=#3D1400>El Zombi Cara-Plata piensa en la caja en su cabeza como una olla, así que debe ser una. Dada su mentalidad, ¿por qué no adoptar su perspectiva? Y ves la marca de exclamación en su caja, ¿verdad?</color></size>",
       "info": "<size=39>¿Es este... un Zombi Caracono? \n\n<color=#3D1400>Dureza: </color><color=#4B0082>1100</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se convierte en un Zombi Caracono al morir.</color></size>"
     },
     {
@@ -171,15 +171,15 @@
     },
     {
       "theZombieType": 29,
-      "name": "Zombicóptero",
+      "name": "Vejezombi férreo-cóptero",
       "introduce": "<size=39><color=#3D1400>\"Amigos, ¿sabían sobre el dirigible de Berlín? Inspiró mi diseño…\" Todos los zombis quieren esconderse del Zombicóptero, no solo porque habla demasiado sobre el dirigible, sino también porque el ruido de la hélice de su globo es insoportable.</color></size>",
-      "info": "<size=39>¡El Zombicóptero no le teme al Trebolador!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+2200+500</color>\n<color=#3D1400>Características: </color><color=#4B0082>La hélice en la parte superior puede contrarrestar los vientos del Trebolador.</color></size>"
+      "info": "<size=39>¡el Vejezombi férreo-cóptero no le teme al Trebolador!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+2200+500</color>\n<color=#3D1400>Características: </color><color=#4B0082>La hélice en la parte superior puede contrarrestar los vientos del Trebolador.</color></size>"
     },
     {
       "theZombieType": 30,
-      "name": "Zombiyaso con Caja",
-      "introduce": "<size=39><color=#3D1400>Para cada zombi payaso, la autodestrucción es la forma más alta de arte, y el Zombiyaso sobresale por encima de todos. \"¡El Zombiyaso nunca se quitará la máscara ni soltará la caja de regalo en su mano!\"</color></size>",
-      "info": "<size=39>¡El Zombiyaso también puede explotar después de su muerte!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+370</color>\n<color=#3D1400>Características: </color><color=#4B0082>Después de explotar, duplica su velocidad y puede autodestruirse para convertirse en un Zombi con Cajita. Cuanto más rápido explote, mayor es la posibilidad de morir.</color></size>"
+      "name": "Payazombi",
+      "introduce": "<size=39><color=#3D1400>Para cada zombi payaso, la autodestrucción es la forma más alta de arte, y el Payazombi sobresale por encima de todos. \"¡El Payazombi nunca se quitará la máscara ni soltará la caja de regalo en su mano!\"</color></size>",
+      "info": "<size=39>¡El Payazombi también puede explotar después de su muerte!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+370</color>\n<color=#3D1400>Características: </color><color=#4B0082>Después de explotar, duplica su velocidad y puede autodestruirse para convertirse en un Zombi con Cajita. Cuanto más rápido explote, mayor es la posibilidad de morir.</color></size>"
     },
     {
       "theZombieType": 31,
@@ -315,15 +315,15 @@
     },
     {
       "theZombieType": 56,
-      "name": "Hielabestia",
-      "introduce": "<size=39><color=#3D1400>La búsqueda de la clasificación biológica de las Hielabestias han tenido poco progreso. Después de todo, no puedes esperar zombis sin cerebro siendo académicamente inteligentes. La mayoría nisiquiera puede distinguir una Hielabestia real a un Zombi Yeti. Por lo menos, el Dr. Edgar sugirió un método brillante: distinguiéndolos por quien se ve mas inteligente. El mas inteligente es la Hielabestia.</color>",
-      "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+      "name": "Bestia Yeti",
+      "introduce": "<size=39><color=#3D1400>La búsqueda de la clasificación biológica de las Bestia Yeti han tenido poco progreso. Después de todo, no puedes esperar zombis sin cerebro siendo académicamente inteligentes. La mayoría nisiquiera puede distinguir una Bestia Yeti real a un Zombi Yeti. Por lo menos, el Dr. Edgar sugirió un método brillante: distinguiéndolos por quien se ve mas inteligente. El mas inteligente es la Bestia Yeti.</color>",
+      "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Bestia Yeti aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
     },
     {
       "theZombieType": 57,
-      "name": "Hielabestia Anciana",
-      "introduce": "<size=39><color=#3D1400>Más fuerte, más sabio y con una cola más pesada que otras Hielabestias, lo que realmente la convirtió en líder fue su notable salto; guiando a sus parientes hasta la fuente de la cascada congelada.</color>",
-      "info": "<size=39>Cúspide de la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece, con una chance de 1/4 de que se transforme en una Hielabestia Anciana. Al aparecer, salta 2 casillas hacia adelante. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+      "name": "Bestión Yeti",
+      "introduce": "<size=39><color=#3D1400>Más fuerte, más sabio y con una cola más pesada que otras bestias yetis, lo que realmente la convirtió en líder fue su notable salto; guiando a sus parientes hasta la fuente de la cascada congelada.</color>",
+      "info": "<size=39>Cúspide de la nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Bestia Yeti aparece, con una chance de 1/4 de que se transforme en un Bestión Yeti. Al aparecer, salta 2 casillas hacia adelante. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
     },
     {
       "theZombieType": 58,
@@ -333,38 +333,38 @@
     },
     {
       "theZombieType": 59,
-      "name": "Delfín Lector",
+      "name": "Zombodelfín Lector",
       "introduce": "<size=39><color=#3D1400>Una vez soñó con convertirse en una sirena, pero el cirujano que debía hacer su sueño realudad confundió completamente sus mitades superior e inferior. Haciendo...esto.</color>",
       "info": "<size=39>Se enoja DEMASIADO cuando interrumpen su lectura... luego vuelve a casa a buscar otro periódico.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Al romper su periódico, corre rápidamente a la dirección opuesta a buscar otro. Restaura toda su vida al hacer esto.</color>"
     },
     {
       "theZombieType": 61,
-      "name": "Delfín All-Star",
-      "introduce": "<size=39><color=#3D1400>Este tipo se mueve tan rápido en el campo de fútbol como pez en el agua. Se supone que era metáfora, pero.. se lo tomó enserio y inundó el campo. ¿Que tonoto, no?</color>",
+      "name": "Zombodelfín Futbolista",
+      "introduce": "<size=39><color=#3D1400>Este tipo se mueve tan rápido en el campo de fútbol como pez en el agua. Se supone que era metáfora, pero.. se lo tomó enserio y inundó el campo. ¡Vaya!, ¿Que tonto, no?</color>",
       "info": "<size=39>Emocionado por mostrar su casco con estilo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+1400</color>\n<color=#3D1400>Características:</color><color=#4B0082>Ignora la colisión con plantas mientras usa el casco. Al llegar a la primera columna o al borde del jardín, recupera todos sus PS, se equipa un nuevo casco y se da la vuelta.</color>"
     },
     {
       "theZombieType": 62,
-      "name": "Copitobestia",
-      "introduce": "<size=39><color=#3D1400>Aunque era solo un cachorrito, Copitobestia tenía grandes sueños: dominar la tundra como la poderosa Hielabestia Anciana, no andar con traviesos Zombiditos. Se escapó del campamento para hacerse reconocido... y accidentalmente entró en el territorio de las plantas. ¡Uf!</color>",
-      "info": "<size=39>Una Hielabestia pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color><color=#4B0082>Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales, muriendo.</color>"
+      "name": "Minibestia Yeti",
+      "introduce": "<size=39><color=#3D1400>Aunque era solo un cachorrito, la pequeña Minibestia tenía grandes sueños: dominar la tundra como la poderosa Yeti Bestión, no andar con traviesos Zombiditos. Se escapó del campamento para hacerse reconocido... y accidentalmente entró en el territorio de las plantas. ¡Uf!</color>",
+      "info": "<size=39>Una bestia Yeti pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color><color=#4B0082>Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales, muriendo.</color>"
     },
     {
       "theZombieType": 100,
-      "name": "Vegezombi Guisante",
-      "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Guisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",
+      "name": "Vegezombi Lanzaguisante",
+      "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Lanzaguisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",
       "info": "<size=39>Dispara guisantes para atacar tus plantas.\n\n<color=#3D1400>Daño:</color><color=#4B0082> 20</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color>\n<color=#3D1400>Ocupación: </color><color=#4B0082>Pistola Zombie</color></size>"
     },
     {
       "theZombieType": 101,
-      "name": "Vegezombi Cereza",
-      "introduce": "<size=39><color=#3D1400>El Zombi Cereza es un estudiante de secundaria de 17 años con una cabeza de planta que crece de su cuello. Su fruta favorita son las cerezas, y debido a su linaje papal, los zombis lo llaman cariñosamente el \"Rey Hoja\".</color></size>",
+      "name": "Vegezombi Lanzacereza",
+      "introduce": "<size=39><color=#3D1400>El Zombi lanzacereza es un estudiante de secundaria de 17 años con una cabeza de planta que crece de su cuello. Su fruta favorita son las cerezas, y debido a su linaje papal, los zombis lo llaman cariñosamente el \"Rey Hoja\".</color></size>",
       "info": "<size=39>Dispara balas de cereza para atacar tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>60</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
       "theZombieType": 102,
-      "name": "Vegezombi Cerezaxplosivo",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Cerezaxplosivo ama escuchar \"Cherry Bomb\" de The Runaways, lo que podría explicar su ardiente pasión. Sin embargo, nadie sabe cómo aprendió a encender fuegos artificiales con su boca.</color></size>",
+      "name": "Vegezombi Cerezaxplosivas",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Cerezaxplosivas ama escuchar \"Cherry Bomb\" de The Runaways, lo que podría explicar su ardiente pasión. Sin embargo, nadie sabe cómo aprendió a encender fuegos artificiales con su boca.</color></size>",
       "info": "<size=39>Dispara cerezas explosivas para atacar tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "theZombieType": 104,
-      "name": "Vegezombi Lector",
+      "name": "Vegezombi Cereza-Lector",
       "introduce": "<size=39><color=#3D1400>La fruta favorita de este zombi son las cerezas, y hasta su periódico tiene sabor a cereza. El periódico que sostiene es lo único que puede calmar su ira.</color></size>",
       "info": "<size=39>Se convierte en una ráfaga explosiva de cerezas cuando se rompe su periódico.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1500+200</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se molesta temporalmente después de romperse el periódico, luego dispara cerezas explosivas cada 0.75 segundos.\n<color=#3D1400>Rango de explosión: </color><color=#4B0082>Salpicadura en cruz, puede ser absorbida por petanueces.</color></size>"
     },
@@ -405,8 +405,8 @@
     },
     {
       "theZombieType": 109,
-      "name": "Vegezombi All-Star",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi All-Star era una vez solo un Zombi Deportista ordinario, hasta que un día chocó con una nuez que estaba esparciendo fertilizante. \"¡No sé cómo este tipo terminó en mi cabeza; me está sofocando!\" lamentó el Vegezombi All-Star.</color></size>",
+      "name": "Vegezombi Alto-Futbolista",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Alto-Futbolista era una vez solo un Zombi Deportista ordinario, hasta que un día chocó con una nuez que estaba esparciendo fertilizante. \"¡No sé cómo este tipo terminó en mi cabeza; me está sofocando!\" lamentó el Vegezombi Alto-Futbolista.</color></size>",
       "info": "<size=39>Zombi de alta armadura que también puede correr muy rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+4400</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer un casco de rugby cuando sea destruido por balas.</color></size>"
     },
     {
@@ -417,7 +417,7 @@
     },
     {
       "theZombieType": 111,
-      "name": "Vegezombi Ártico",
+      "name": "Vegezombi Alt-Ártico",
       "introduce": "<size=39><color=#3D1400>Opiniones abundan sobre la cabeza del Vegezombi Nuez Ártico: algunos creen que quiere alejarse del frío, otros piensan que es por los experimentos del Dr. Edgar. Solo él sabe que el casco apareció tras comer un hongo azul.</color></size>",
       "info": "<size=39>Un zombi robusto que también puede anular el daño de los proyectiles de hielo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+2200</color>\n<color=#3D1400>Características: </color><color=#4B0082>Inmunidad a los proyectiles congelados o de hielo.</color></size>"
     },
@@ -429,14 +429,14 @@
     },
     {
       "theZombieType": 113,
-      "name": "Vegezombi con Beluga",
+      "name": "Vegezombi con VegeBeluga",
       "introduce": "<size=39><color=#3D1400>¿Que hace este zombi tan especial como el Yeti con Beluga? El Vegezombi responde: \u0022A mi simplemente me gusta jugar búmeran.\u0022</color>",
       "info": "<size=39>¡Una variante del Yeti con Beluga!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Especial: </color><color=#4B0082>Dispara guisantes a tus plantas antes y despues de saltar.</color>"
     },
     {
       "theZombieType": 114,
-      "name": "Vegezombi Portero",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Portero siempre carga equipo de hierro, desconcertando a otros zombis. \u0022Si las Magnetosetas pueden arrancarnos la cabeza, ¿por qué no traemos más metal?\u0022 Su lógica funcionó... hasta que conoció a Trebolaimán.</color>",
+      "name": "Vegezombi Full-metal",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Full-metal siempre carga equipo de hierro, desconcertando a otros zombis. \u0022Si las Magnetosetas pueden arrancarnos la cabeza, ¿por qué no traemos más metal?\u0022 Su lógica funcionó... hasta que conoció a Trebolaimán.</color>",
       "info": "<size=39>Este zombi dispara guisantes de hierro mientras se protege con una Puerta Mosquitera.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>1350+1100+1100</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Exmiembro del \u0022Club de Coleccionistas de Lavadoras\u0022.</color></size>"
     },
     {
@@ -459,15 +459,15 @@
     },
     {
       "theZombieType": 118,
-      "name": "Vegezombi Sargento",
+      "name": "Vegezombi Comanda-guisantes",
       "introduce": "<size=39><color=#3D1400>Lo último que recuerda este zombi es haberse tragado una máquina lanza-guisantes. Ahora, dispara guisantes a velocidad letal. \u0022¡Es como un tirachinas... pero en mi estómago!\u0022</color>",
       "info": "<size=39>Descarga ráfagas de guisantes sin piedad.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>270+1400</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Lanzador de béisbol retirado. Campeón de \u0022GuisanteBall 3000\u0022 (descalificado por usar munición viva).</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dispara 5 guisantes/segundo. Prefiere el caos a la puntería.</color></size>"
     },
     {
       "theZombieType": 119,
-      "name": "Guisanticóptero",
-      "introduce": "<size=39><color=#3D1400>Frente a las dudas de los otros zombis, el Guisanticóptero intenta probar que es un miembro fundador mostrando una foto grupal de zombis. \u0022Pero… ¿dónde estás tú?\u0022, preguntan los demás zombis. Él, sosteniendo la película en blanco y negro, también se queda confundido.</color></size>",
-      "info": "<size=39>¡El Guisanticóptero puede disparar mientras flota!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350+500</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Recolector de guisantes que encuentra por el jardín.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tiene las mismas características que Zombicóptero, pero puede disparar plantas terrestres.</color></size>"
+      "name": "VegeFérreo-Guisanticóptero",
+      "introduce": "<size=39><color=#3D1400>Frente a las dudas de los otros zombis, el VejeFérreo-Guisanticóptero intenta probar que es un miembro fundador mostrando una foto grupal de zombis. \u0022Pero… ¿dónde estás tú?\u0022, preguntan los demás zombis. Él, sosteniendo la película en blanco y negro, también se queda confundido.</color></size>",
+      "info": "<size=39>¡El VejeFérreo-Guisanticóptero puede disparar mientras vuela!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350+500</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Recolector de guisantes que encuentra por el jardín.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tiene las mismas características que Vege-Férreocóptero, pero puede disparar plantas terrestres.</color></size>"
     },
     {
       "theZombieType": 120,
@@ -477,8 +477,8 @@
     },
     {
       "theZombieType": 200,
-      "name": "Zombi Submarinón",
-      "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
+      "name": "Tiburomarino",
+      "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Tiburomarino mientras aumentaba la potencia del submarino en una marcha.</color></size>",
       "info": "<size=39>He oído que este zombi está relacionado con cierto pez robot.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color></size>"
     },
     {
@@ -489,25 +489,25 @@
     },
     {
       "theZombieType": 202,
-      "name": "Vegezombi Pescador",
+      "name": "Vejealti-Tridentis",
       "introduce": "<size=39><color=#3D1400>El Vegezombi Pescador es un pescador experto conocido por su precisión excepcional con los cuatro tridentes que lanza, ganándose el título de rey de los pescadores. \"De hecho, solía ser un lanzador de jabalina a tiempo parcial...\" admitió el Vegezombi Pescador.</color></size>",
       "info": "<size=39>Lanza una gran cantidad de tridentes a tus plantas de una vez.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+7500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Lanza 4 tridentes, cada uno causando daño a las plantas igual al 20% (mínimo de 20) de su dureza actual.</color></size>"
     },
     {
       "theZombieType": 203,
-      "name": "Vegezombi Becario",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Becarioxplosivo, sintiéndose viejo, murmuró: \"Solo ese tipo aún puede inspirarme a luchar,\" mientras guardaba el periódico y se alejaba.</color></size>",
+      "name": "Vegezombi Veterano",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Veterano, sintiéndose viejo, murmuró: \"Solo ese tipo aún puede inspirarme a luchar,\" mientras guardaba el periódico y se alejaba.</color></size>",
       "info": "<size=39>Inflige un daño inmenso.\n\n<color=#3D1400>Daño:</color><color=#4B0082> 400 → 1000 (Enfurecido)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1500+1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se vuelve temporalmente invencible después de romperse el periódico, disparando cerezas explosivas cada 0.125 segundos.</color></size>"
     },
     {
       "theZombieType": 204,
-      "name": "Vegezombi Letal-Star",
+      "name": "Vegealti-Gigafutbolista",
       "introduce": "<size=39><color=#3D1400>Saliendo de las sombras, el Vegezombi Letal-Star irradia poder, frialdad y un aura siniestra. Guarda celosamente el secreto de su fuerza, afirmando que solo la oscuridad más profunda puede crear un ser tan formidable como él. \"¿Dónde está mi pintura?\" preguntó el Dr. Edgar, luciendo perplejo en su laboratorio.</color></size>",
       "info": "<size=39>¿Un viejo amigo? Tal vez, quizá lo hayamos conocido antes.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+12000</color></size>"
     },
     {
       "theZombieType": 205,
-      "name": "Zomppelín Kírov",
+      "name": "Tiburokirov",
       "introduce": "<size=39><color=#3D1400>¿Era SuperZombi?, ¿Zombi Globo? en realidad, era un gigantesco dirigible, resistente y capaz de liberar luchadores. Incluso destruido, sigue causando estragos y los zombis mantienen su distancia por temor a un choque fatal.</color></size>",
       "info": "<size=39>¡Kírov informando!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un mini Kírov en acción cada segundo. Al estrellarse tras su muerte, causa un inmenso daño a las plantas en el impacto.</color></size>"
     },
@@ -519,8 +519,8 @@
     },
     {
       "theZombieType": 207,
-      "name": "Zombi Mercury",
-      "introduce": "<size=39><color=#3D1400>Zombi Mercury siempre ha brillado en el escenario con su carisma y estilo incomparable. Su presencia electrizante y movimientos únicos han convertido cada batalla en un espectáculo inolvidable. ¿Se escuchan los acordes de 'We Are the Champions'?</color></size>",
+      "name": "Moon Jackson",
+      "introduce": "<size=39><color=#3D1400>Moon Jackson siempre ha brillado en el escenario con su carisma y estilo incomparable. Su presencia electrizante y movimientos únicos han convertido cada batalla en un espectáculo inolvidable. ¿Se escuchan los acordes de 'We Are the Champions'?</color></size>",
       "info": "<size=39>Se desliza a gran velocidad en tus defensas, ¡es un oponente aterrador!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Entra deslizándose, reduciendo daño en un 90% mientras se desliza, y luego invoca a los Zombis Bailarines.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ídolo del Baile Zombie</color></size>"
     },
     {
@@ -531,20 +531,20 @@
     },
     {
       "theZombieType": 209,
-      "name": "Pogozombi Bromista",
-      "introduce": "<size=39><color=#3D1400>\u0022En realidad, mi apariencia es solo para seguir la moda.\u0022 Cuando se habla de su genial aspecto, el Pogozombi Bromista siempre se encoge de hombros, pero todos saben que tiene un pasado amoroso inolvidable.</color></size>",
-      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Zombiyaso.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Actor de payaso, hace exclusivamente bromas de frutas.</color></size>"
+      "name": "PogoPayazombi",
+      "introduce": "<size=39><color=#3D1400>\u0022En realidad, mi apariencia es solo para seguir la moda.\u0022 Cuando se habla de su genial aspecto, el PogoPayazombi siempre se encoge de hombros, pero todos saben que tiene un pasado amoroso inolvidable.</color></size>",
+      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Si muere mientras está saltando, se autodestruye y se convierte en el Payazombi.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Actor de payaso, hace exclusivamente bromas de frutas.</color></size>"
     },
     {
       "theZombieType": 210,
-      "name": "Nuez Kírov",
-      "introduce": "<size=39><color=#3D1400>\u0022¿Tiburones?, ¿Dureza mecánica? Eso no importa,\u0022 dice la Nuez Kírov. \u0022Lo que importa es tener una armadura, yo soy Kírov\u0022.</color></size>",
-      "info": "<size=39>La Nuez Kírov puede girar.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Zomboliche</color></size>"
+      "name": "Nuez Rotomarino",
+      "introduce": "<size=39><color=#3D1400>\u0022¿Tiburones?, ¿Dureza mecánica? Eso no importa,\u0022 dice la Nuez Rotomarino. \u0022Lo que importa es tener una armadura, yo soy Kírov\u0022.</color></size>",
+      "info": "<size=39>La Nuez Rotomarino puede girar.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Zomboliche</color></size>"
     },
     {
       "theZombieType": 211,
-      "name": "Submarinón Terrestre",
-      "introduce": "<size=39><color=#3D1400>\u0022Esto es horrible.\u0022 Reclama el Submarinón Terrestre. \u0022No se como he quedado en este estado. Estaba tomando una siesta y el dia siguiente mi submarino aparece enterrado como si estuviera descompuesto. ¡Me costará un mundo llevarlo de nuevo a su hábitat!\u0022</color></size>",
+      "name": "Tiburomarino Atascado",
+      "introduce": "<size=39><color=#3D1400>\u0022Esto es horrible.\u0022 Reclama el Tiburomarino Atascado. \u0022No se como he quedado en este estado. Estaba tomando una siesta y el dia siguiente mi submarino aparece enterrado como si estuviera descompuesto. ¡Me costará un mundo llevarlo de nuevo a su hábitat!\u0022</color></size>",
       "info": "<size=39>Es incapaz de moverse.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000\n(Este zombi no se puede encontrar mientras juegas.)</color></size>"
     },
     {
@@ -561,8 +561,8 @@
     },
     {
       "theZombieType": 214,
-      "name": "Vegezombixplosivo con Delfín",
-      "introduce": "<size=39><color=#3D1400>Vegezombixplosivo con Delfín siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
+      "name": "Vegezombixplosivo con Vegebeluga",
+      "introduce": "<size=39><color=#3D1400>Vegezombixplosivo con beluga siempre se despierta de muy mal humor, especialmente cuando un compañero ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino para regresar a tomar una siesta.</color>",
       "info": "<size=39>¡Salta y demuele desde detrás de tu defensa disparando cerezas explosivas!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Comienza a disparar cerezas explosivas 3 segundos después de entrar en tu césped.</color>"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "theZombieType": 216,
-      "name": "Zombirtaria",
+      "name": "Vege-Zombirtaria",
       "introduce": "<size=39><color=#3D1400>Zombirtaria es un perfeccionista... si por perfección entendemos \"llenar un cañón con 28 tridentes\". Su lema: \"¿Por qué disparar uno cuando puedes disparar TODOS?\" Spoiler: nadie le explicó el concepto de 'sobrecarga'.</color>",
       "info": "<size=39>Lanza 28 tridentes en dos oleadas destructivas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>1350+4400</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de artillería medieval. Récord Guinness Zombi: \u0022Mayor cantidad de tridentes en un vehículo tamaño golf\u0022.</color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Descarga 14 tridentes → pausa dramática → ¡otros 14! Ángulo fijo, precisión... cuestionable.</color></size>"
     },
@@ -591,19 +591,19 @@
     },
     {
       "theZombieType": 219,
-      "name": "Nuez Kírov Gigante",
+      "name": "Nuez Roto-Gigamarino",
       "introduce": "<size=39><color=#3D1400>Este zombi era un prototipo de nuez mecánica... hasta que un error de cálculo lo convirtió en una montaña rodante. Ahora, aplasta jardines como si fueran migajas.</color>",
       "info": "<size=39>Absorbe daño para todos los zombis en el campo.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>90000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de demoliciones. Especialista en \u0022rediseños catastróficos\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda los rasgos de Nuez Kírov. No puede recibir daño mayor a 100.</color></size>"
     },
     {
       "theZombieType": 220,
-      "name": "Vegezombi Abanderado",
-      "introduce": "<size=39><color=#3D1400>Líder de la horda y amante del caos. Su bandera no marca territorio... ¡marca dónde caerán las plantas!</color>",
-      "info": "<size=39>Anula curaciones y transforma plantas en zombis.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>200 cada mordisco</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>24000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>General táctico. Creador del curso \u0022Cómo liderar zombis con estilo\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Es inmune a ser empujado, y anula la curación de plantas, convirtiéndolos en x0.1 de daño contra si mismo. Instantáneamente mata a plantas no defensivas. Dobla su ataque cada 3s, recupera 6000 PS de su armadura y convierte plantas en Vegezombis Letal-Stars. ¡Huye si ves su sonrisa!</color></size>"
+      "name": "Líder Veje-Altísimo Gigafutbolista",
+      "introduce": "<size=39><color=#3D1400>Líder de la horda y amante del caos. Su bandera no marca territorio... ¡marcará dónde caerán las plantas!</color>",
+      "info": "<size=39>Anula curaciones y transforma plantas en zombis.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>200 cada mordisco</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>24000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>General táctico. Creador del curso \u0022Cómo liderar zombis con estilo\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Es inmune a ser empujado, y anula la curación de plantas, convirtiéndolos en x0.1 de daño contra si mismo. Instantáneamente mata a plantas no defensivas. Dobla su ataque cada 3s, recupera 6000 PS de su armadura y convierte plantas en Vegezombis Alti-Gigafutbolistas. ¡Huye si ves su sonrisa!</color></size>"
     },
     {
       "theZombieType": 221,
-      "name": "Zombot Kírov",
+      "name": "KirovMarín Máximo",
       "introduce": "<size=39><color=#3D1400>Este zombi volador no necesita alas... ¡tiene motores a chorro y una actitud explosiva!</color>",
       "info": "<size=39>Bombardea tu jardín y llama refuerzos aéreos.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>15000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Piloto de combate. Graduado con honores en la Academia de Caos Aéreo.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Aplasta y avanza rapidamente en tierra. Al tener 2/3 de vida, este se transforma en su modo aéreo, invoca Zompelines en todas las líneas cada 3s y lanza bombas. ¡Inmune a imanes y a ser derribado por Magnetocactus!</color></size>"
     },
@@ -621,15 +621,15 @@
     },
     {
       "theZombieType": 224,
-      "name": "Payasa Zorpresa",
-      "introduce": "<size=39><color=#3D1400>La Payasa Zorpresa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
-      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después, explota la columna donde ella está. También hace aparecer un MONTÓN de Zombis Payasos al hacer esto.</color></size>"
+      "name": "Princesa Payaso en la caja",
+      "introduce": "<size=39><color=#3D1400>La Princesa Payasa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
+      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la elimines del campo antes de que llegue a tus plantas. O no, de todas formas es gracioso ver que todo explote.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después, explota la columna donde ella está. También hace aparecer un MONTÓN de Zombis Payasos al hacer esto.</color></size>"
     },
     {
       "theZombieType": 225,
-      "name": "Vegezombi Ferreosargento",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Ferreosargento es un guerrero de acero: con un cuerpo de acero, una voluntad de acero, balas de acero… y una actitud de acero incluso después de recibir quejas de sus compañeros. Él está convencido de que si los zombis retroceden por sus balas, es porque no han pasado por un entrenamiento igual de férreo.</color>",
-      "info": "<size=39>¡Un guerrero intrépido! ¡Jamás detiene su avance!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000+3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Sargento militar; enseña a los zombis como mejorar a combatir constantemente.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune al retroceso. Dispara un guisante de hierro cada 0.1 segundos. Puede repeler zombis encantados.</color></size>"
+      "name": "Vegezombi Comanda-Férreos",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Comanda-Férreos es un guerrero de acero: con un cuerpo de acero, una voluntad de acero, balas de acero… y una actitud de acero incluso después de recibir quejas de sus compañeros. Él está convencido de que si los zombis retroceden por sus balas, es porque no han pasado por un entrenamiento igual de duro como el metal.</color>",
+      "info": "<size=39>¡Un guerrero intrépido! ¡Jamás detiene su avance!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000+3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Sargento militar; enseña a los zombis como mejorar a combatir constantemente.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune al retroceso. Dispara un guisante de hierro cada 0.1 segundos. Puede repeler zombis encantados como lo haria cualquier guisante férreo a zombi común.</color></size>"
     },
     {
       "theZombieType": 226,
@@ -651,122 +651,122 @@
     },
     {
       "theZombieType": 300,
-      "name": "Vegezombi Becario - T1",
-      "introduce": "<size=39><color=#3D1400>\"Siempre hay más en la vida que solo acertijos matemáticos... como el junco fuera de la ventana... o la luz de la luna de esta noche\", murmura Vegezombi Becario (T1). \"Pero primero, necesito resolver este sudoku. Es... sorprendentemente difícil\".</color>",
+      "name": "Vegezombi Veterano - T1",
+      "introduce": "<size=39><color=#3D1400>\"Siempre hay más en la vida que solo acertijos matemáticos... como el junco fuera de la ventana... o la luz de la luna de esta noche\", murmura Vegezombi Veterano (T1). \"Pero primero, necesito resolver este sudoku. Es... sorprendentemente difícil\".</color>",
       "info": "<size=39>Tier 1. Lanza una ráfaga de cerezas explosivas al romper su periódico.\n\n<color=#3D1400>Daño: </color><color=#4B0082>400 (mordiscos) 1000 (cerezas)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1500+1500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Después de perder su periódico, dispara 4 cerezas explosivas cada 0.5s.</color>"
     },
     {
       "theZombieType": 301,
-      "name": "Vegezombi Becario - T2",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Becario (T2), un reconocido profesor de demolición de la Universidad Internacional Zombi, solo aceptó venir después de que el Profesor Zavier le prometiera tres cosas: pastel de cereza, grandes explosiones y Zuma. \"El loquito de Zavier no me mintió, jeje.\", afirma.</color>",
+      "name": "Vegezombi Veterano - T2",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Veterano (T2), un reconocido profesor de demolición de la Universidad Internacional Zombi, solo aceptó venir después de que el Profesor Zavier le prometiera tres cosas: pastel de cereza, grandes explosiones y Zuma. \"El loquito de Zavier no me mintió, jeje.\", afirma.</color>",
       "info": "<size=39>Tier 2. Lanza cerezas sin importar el estado de su periódico.\n\n<color=#3D1400>Daño: </color><color=#4B0082>400 (mordiscos) 1000 (cerezas)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Dispara 4 cerezas explosivas cada 1.5s, sin importar que se ha roto su periódico o no.</color>"
     },
     {
       "theZombieType": 302,
-      "name": "Vegezombi Becario - T3",
-      "introduce": "<size=39><color=#3D1400>Para avanzar en las ciencias de los explosivos, el Vegezombi Becario (T3) se va al extranjero. ¿Lleva su alijo de pastel de cereza atado a la espalda? Solo forma parte de su preparación.</color>",
+      "name": "Vegezombi Veterano - T3",
+      "introduce": "<size=39><color=#3D1400>Para avanzar en las ciencias de los explosivos, el Vegezombi Veterano (T3) se va al extranjero. ¿Lleva su alijo de pastel de cereza atado a la espalda? Solo forma parte de su preparación.</color>",
       "info": "<size=39>Tier 3. Preparado y armado para destruir tu defensa.\n\n<color=#3D1400>Daño: </color><color=#4B0082>400 (mordiscos) 1000 (cerezas)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Cuando se enoja, toma su paquete de munición y dispara 1 cereza adicional cada 0,5 s.<color=#4B0082></color>"
     },
     {
       "theZombieType": 303,
-      "name": "Vegezombi Letal-Star - T1",
-      "introduce": "<size=39><color=#3D1400>Cansado de ser el centro de atención, Zombi Letal-Star (T1) cambió su camiseta roja brillante por una negra que se camufla con la noche. Desafortunadamente, su nueva apariencia lo hace parecer más un ladrón que un futbolista.</color>",
+      "name": "Zombi Gigafutbolista - T1",
+      "introduce": "<size=39><color=#3D1400>Cansado de ser el centro de atención, el Zombi Gigafutbolista (T1) cambió su camiseta roja brillante por una negra que se camufla con la noche. Desafortunadamente, su nueva apariencia lo hace parecer más un ladrón que un futbolista.</color>",
       "info": "<size=39>Tier 1. ¿Un viejo amigo? Si, volvió.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>"
     },
     {
       "theZombieType": 304,
-      "name": "Vegezombi Letal-Star - T2",
-      "introduce": "<size=39><color=#3D1400>Emergiendo de las profundidades de un reino inquietante, Vegezombi Letal-Star (T2), un fanático del fútbol, ​​es un misterio viviente. Representa la oscuridad, la peligrosidad y la desorientación. Ni siquiera él recuerda sus orígenes; solo que el pasado se siente como un sueño lúcido que se desvanece con el amanecer.</color>",
+      "name": "Vegealti-Gigafutbolista - T2",
+      "introduce": "<size=39><color=#3D1400>Emergiendo de las profundidades de un reino inquietante, El Vegealti-Gigafutbolista (T2), un fanático del fútbol, ​​es un misterio viviente. Representa la oscuridad, la peligrosidad y la desorientación. Ni siquiera él recuerda sus orígenes; solo que el pasado se siente como un sueño lúcido que se desvanece con el amanecer.</color>",
       "info": "<size=39>Tier 2. Guerrero reforzado, sin miedo en la noche.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000+12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Recupera 5% de su dureza máxima cada 3s.</color>"
     },
     {
       "theZombieType": 305,
-      "name": "Vegezombi Letal-Star - T3",
-      "introduce": "<size=39><color=#3D1400>Mano derecha del Vegezombi Abanderado, el Vegezombi Letal-Star (T3) goza de la admiración de sus subordinados y de la confianza de sus superiores. Es leal, hábil y le confunde que las condecoraciones nunca lleguen en forma de cerebros frescos.</color>",
+      "name": "Vegealti-Gigafutbolista - T3",
+      "introduce": "<size=39><color=#3D1400>Mano derecha del Líder Veje-Altísimo; el Vegealti-Gigafutbolista (T3) goza de la admiración de sus subordinados y de la confianza de sus superiores. Es leal, hábil y pero solo tiene una objeción; que las condecoraciones nunca lleguen en forma de cerebros frescos.</color>",
       "info": "<size=39>Tier 3. ¡Aniquila facilmente tu defensa!\n\n<color=#3D1400>Daño: </color><color=#4B0082>200 (mordiscos)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>24000+24000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Inmune al empujamiento, relentizacion y a las mantequillas. Al morder una planta, esta tendrá su curación desactivada. Sus victimas toman el triple de daño por 1s.</color>"
     },
     {
       "theZombieType": 306,
-      "name": "Vegezombi Ferreolíder - T3",
+      "name": "Vegezombi Férreolíder - T3",
       "introduce": "<size=39><color=#3D1400>Temido en el campo de batalla, amado fuera de él. El Vegezombi Ferreolíder deslumbra a las tropas con su truco característico: esconder balas en su estandarte.</color>",
       "info": "<size=39>Tier 3. ¡Aniquila facilmente tu defensa, con guisantes!\n\n<color=#3D1400>Daño: </color><color=#4B0082>200 (mordiscos), 80/0.1s (guisantes)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>24000+24000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Inmune al empujamiento, relentizacion y a las mantequillas.</color>"
     },
     {
       "theZombieType": 307,
-      "name": "Zombi Mercury - T1",
-      "introduce": "<size=39><color=#3D1400>Ídolo pop y favorito de la fanaticada, el Zombi Mercury (T1), no puede ir a ningún lado sin una multitud de fans gritando. Está aprendiendo nuevos movimientos no solo para su tur mundial, sino también para esquivar a las fangirls.</color>",
+      "name": "Moon Jackson - T1",
+      "introduce": "<size=39><color=#3D1400>Ídolo pop y favorito de la fanaticada, el Moon Jackson (T1), no puede ir a ningún lado sin una multitud de fans gritando. Está aprendiendo nuevos movimientos no solo para su tour mundial, sino también para esquivar a las fangirls que parecen seguirle a todos lados.</color>",
       "info": "<size=39>Tier 1. Entra en moonwalk con bailarines de respaldo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Entra con un moonwalk de 3s y luego invoca a 4 Zombis Bailarines.</color>"
     },
     {
       "theZombieType": 308,
-      "name": "Zombi Mercury - T2",
-      "introduce": "<size=39><color=#3D1400>En la cima de la fama, el poder y el rendimiento, el comandante Zombi Mercury (T2) solo necesita un escenario para compartir su alegría con el mundo.</color>",
+      "name": "Moon Jackson - T2",
+      "introduce": "<size=39><color=#3D1400>En la cima de la fama, el poder y el rendimiento, el comandante Moon Jackson (T2) solo necesita un escenario para compartir su alegría con el mundo.</color>",
       "info": "<size=39>Tier 2. Hace moonwalks con estilo, luego divierte a la multitud.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Entra con un moonwalk deslizante de 3s. Al llegar a la cuarta columna o ser bloqueado, finaliza el paso lunar e invoca a 4 Zombis Bailarines.</color>"
     },
     {
       "theZombieType": 309,
-      "name": "Zombi Mercury - T3",
+      "name": "Moon Jackson - T3",
       "introduce": "<size=39><color=#3D1400>Pasos veloces, giros de dioses. El prodigio de la danza ha superado la edad de la Academia Edgar. Ahora, recién salido de la Academia de Danza Jackson, está grabando un video musical con la ayuda de su guardaespaldas. No olvides filmar su característica inclinación de 45°, si es que sobrevives.</color>",
       "info": "<size=39>Tier 3. Llegada elegante, encore deslumbrante.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Ignora las plantas durante 3s mientras se desliza con un moonwalk hacia la cuarta columna. Luego invoca 8 Bailarines Expertos.</color>"
     },
     {
       "theZombieType": 310,
-      "name": "Submarinón-X - T1",
+      "name": "Tiburomarino-X - T1",
       "introduce": "<size=39><color=#3D1400>Una imitación desarrollada por un rival de Gfishtus Corps. Se dice que funciona de forma idéntica al original, pero Gfishtus insiste en que este modelo presenta fugas.</color>",
-      "info": "<size=39>Tier 1. La última unidad de submarinón producida por Dr. Zomboss.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Se mueve por el agua, aplastando toda planta que se encuentre.</color>"
+      "info": "<size=39>Tier 1. La última unidad de Tiburomarino producida por Dr. Zomboss.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Se mueve por el agua, aplastando toda planta que se encuentre.</color>"
     },
     {
       "theZombieType": 311,
-      "name": "Submarinón-A - T2",
-      "introduce": "<size=39><color=#3D1400>Las armas \"impecables\" están sobrevaloradas. La verdadera victoria reside en un fuego de misiles abrumador que cae del cielo. Este submarino mina-dor modificado funciona como un silo submarino móvil de misiles, el iniciador de ese fuego.</color>",
+      "name": "Tiburomarino-A - T2",
+      "introduce": "<size=39><color=#3D1400>Las armas \"impecables\" están sobrevaloradas. La verdadera victoria reside en un fuego de misiles abrumador que cae del cielo. Este es un submarino mina-dor modificado que funciona como un silo submarino móvil de misiles, el iniciador de ese fuego.</color>",
       "info": "<size=39>Tier 2. Lanza bombas sin parar a tu defensa frontera.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Lanza una bomba dos casillas al frente suyo cada 1.5s. Esta bomba explota como una explosión de una Cajita Sorpresa, pero puede ser destruida si toma 1000 de daño mientras va en el aire.</color>"
     },
     {
       "theZombieType": 312,
-      "name": "Submarinón-B - T2",
+      "name": "Tiburomarino-B - T2",
       "introduce": "<size=39><color=#3D1400>El único propósito de este submarino turboalimentado: cargar contra las líneas enemigas y destruirlas, creando puntos débiles para que sus aliados ataquen. Los críticos dicen que sacrifica demasiado por la velocidad, pero Edgar se encoge de hombros: \"Solo necesito avanzar, cueste lo que cueste\".</color>",
       "info": "<size=39>Tier 2. Avanza rápidamente hacia tu defensa.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Avanza muy rápido comparado a su evolución anterior.</color>"
     },
     {
       "theZombieType": 313,
-      "name": "Submarinón-A - T3",
-      "introduce": "<size=39><color=#3D1400>El dominador definitivo del campo de batalla, este submarino es, de alguna manera, creación de ambos Edgar y Gfishtus. Tras solucionar el problema de la inundación de misiles, ahora está impecable, salvo por las algas que ocasionalmente atascan la hélice.</color>",
+      "name": "Tiburomarino-A - T3",
+      "introduce": "<size=39><color=#3D1400>El dominador definitivo del campo de batalla, este submarino es, de alguna manera, creación de ambos Edgar y Gfishtus. El día de su nacimiento, el cielo no pudo evitar una lluvia torrencial de celebración. Tras solucionar el problema de la humedad dentro los misiles, ahora está impecable, si, todo salvo por las algas que ocasionalmente atascan la hélice.</color>",
       "info": "<size=39>Tier 3. Se levanta para bombardear la defensa trasera con misiles.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. En la superficie, dispara 2 misiles cada 1.5s dirigidos a la última columna. Este misil explota como una explosión de una Cajita Sorpresa, pero puede ser destruida si toma 1000 de daño mientras va en el aire.</color>"
     },
     {
       "theZombieType": 314,
-      "name": "Submarinón-B - T3",
+      "name": "Tiburomarino-B - T3",
       "introduce": "<size=39><color=#3D1400>La innovación más orgullosa de Edgar, diseñada para máxima aceleración. Toda la tripulación debe superar brutales pruebas de centrifugación de fuerza-G. \"Es como si diez Zombisteins se sentaran sobre ti\", dice un superviviente.</color>",
       "info": "<size=39>Tier 3. Agresivamente choca, choca, y choca hasta destruir tus plantas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Por unidad, duplica la velocidad de movimiento de todos los zombis en un área de 3x3 (se acumula solo 2 veces).</color>"
     },
     {
       "theZombieType": 315,
-      "name": "Vegezombi Pescador - T1",
+      "name": "Zombi Tridentis Encascado- T1",
       "introduce": "<size=39><color=#3D1400>Con una vestimenta impermeable y un tridente brillante en la mano, está listo para pescar. No olvides el casco: no es protección contra plantas, sino contra otros pescadores celosos.</color>",
       "info": "<size=39>Tier 1. Lanza tridentes hacia tus plantas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Entre 6 y 9s después de entrar o al ser bloqueado, lanza 4 tridentes a la última columna. Cada tridente inflige daño a las plantas equivalente al 20% (mínimo 60) de su durabilidad actual.</color>"
     },
     {
       "theZombieType": 316,
-      "name": "Vegezombi Pescador - T2",
+      "name": "Vegealti-tridentis - T2",
       "introduce": "<size=39><color=#3D1400>Armado con gotas para los ojos y un casco de Nuez Alta reforzada, está listo para pescar la captura del día, o a sus rivales.</color>",
       "info": "<size=39>Tier 2. ¡No puedes evitar sus tridentes! \n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Entre 6 y 9s después de entrar o al ser bloqueado, lanza 8 tridentes aleatoriamente a plantas 4 casillas adelante suyo. Daño base de tridentes +100.</color>"
     },
     {
       "theZombieType": 317,
-      "name": "Vegezombi Pescador - T3",
-      "introduce": "<size=39><color=#3D1400>Un poderoso guerrero que alguna vez fue designado para trabajar con montacargas, hasta que falló la prueba del tamaño del casco. Así que ahora simplemente lanza más tridentes, con más fuerza.</color>",
+      "name": "Vegealti-tridentis - T3",
+      "introduce": "<size=39><color=#3D1400>Un poderoso guerrero que alguna vez fue designado para trabajar con montacargas, hasta que falló la prueba del montacargas debido a que el tamaño de su cabeza revolcaria el carro solo con voltear. Así que ahora simplemente lanza todos los tridentes a mano, solo que con más fuerza.</color>",
       "info": "<size=39>Tier 3. Mucho tridente, ¿No?\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000+12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Entre 6 y 9s después de entrar o al ser bloqueado, lanza 12 tridentes agrupados. Daño base de tridentes +300.</color>"
     },
     {
       "theZombieType": 318,
       "name": "Minero Netherita - T1",
-      "introduce": "<size=39><color=#3D1400>Con un pico de netherita y una licencia de minería falsificada, este zombi se dispuso a cerrar un trato de carbón con la Reina Carmesí, aunque la granja de Esqueletos Wither de los Piglins podría resultar una dura competencia.</color>",
-      "info": "<size=39>Tier 1. Mina tus plantas con su grande pico...jeje.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Sus ataques acumula +2000 de progreso de minería contra plantas defensivas; al alcanzar el 100%, mata instantáneamente a la planta que estaba minando.</color>"
+      "introduce": "<size=39><color=#3D1400>Con un pico de netherita y una licencia de minería falsificada, este zombi se dispuso a cerrar un trato de cargas de carbón con la Reina Endoflama, aunque la granja de Esqueletos Wither de los Piglins podría resultar una dura competencia.</color>",
+      "info": "<size=39>Tier 1. Mina tus plantas con su costoso pico de netherite.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Sus ataques acumula +2000 de progreso de minería contra plantas defensivas; al alcanzar el 100%, mata instantáneamente a la planta que estaba minando.</color>"
     },
     {
       "theZombieType": 319,
       "name": "Minero Netherita - T2",
-      "introduce": "<size=39><color=#3D1400>Elogiado en concursos de excavación por su taladro de netherita construido junto con lava. Aunque siempre olvida mencionar que su azada también es de netherita, ¡Ay, la dedicación!</color>",
+      "introduce": "<size=39><color=#3D1400>Elogiado en concursos de excavación por su taladro de netherita construido junto con lava. Aunque siempre olvida mencionar que su casco, y por sobretodo azada, también es de netherita, ¡Ay, la dedicación!</color>",
       "info": "<size=39>Tier 2. Taladra túneles, pero se pierde muy rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Cada ataque acumula +4000 de progreso, excava bajo tierra, sin ser afectado por Magnetosetas, y surge aleatoriamente entre las columnas 2 a 8.</color>"
     },
     {
@@ -785,7 +785,7 @@
       "theZombieType": 322,
       "name": "Zombisquí Jackson - T2",
       "introduce": "<size=39><color=#3D1400>\"¡Hemos añadido más capas al blindaje frontal!\" El vehículo recientemente renovado es ahora el orgullo de Zombi Jackson, aunque lamenta que los espacios entre las capas del blindaje aún no sean lo suficientemente amplios como para acomodar a más Zombis Bailarines.</color>",
-      "info": "<size=39>Tier 2. Lleva una nueva capa de blindaje.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Aplasta plantas. Tiene 66% reducción de daño, y invoca a un Zombisquí Jackson (T1) al morir.</color>"
+      "info": "<size=39>Tier 2. Lleva una nueva capa de blindaje. ¿por si acaso no?\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Aplasta plantas. Tiene 66% reducción de daño, y invoca a un Zombisquí Jackson (T1) al morir.</color>"
     },
     {
       "theZombieType": 323,
@@ -795,37 +795,37 @@
     },
     {
       "theZombieType": 324,
-      "name": "Pogozombi Bromista - T1",
+      "name": "PogoPayazombi - T1",
       "introduce": "<size=39><color=#3D1400>No lo molestes, está enamorado. No está de humor para escuchar tu opinión pesimista sobre su romance, y si lo intentas, te encontrarás con una reacción emocional explosiva.</color>",
-      "info": "<size=39>Tier 1. Ojalá tengas una Magnetoseta para contraatacar a este tipo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de Pogozombi. No pierde su pogo si es empujado por Paraplantas, y si muere mientras sigue sosteniendo este, suelta una explosion de cajita sorpresa.</color>"
+      "info": "<size=39>Tier 1. Ojalá tengas una Magnetoseta para contraatacar a este tipo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000+3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de PogoPayazombi. No pierde su pogo si es empujado por Paraplantas, y si muere mientras sigue sosteniendo este, suelta una explosion de cajita sorpresa.</color>"
     },
     {
       "theZombieType": 325,
-      "name": "Pogozombi Bromista - T2",
+      "name": "PogoPayazombi - T2",
       "introduce": "<size=39><color=#3D1400>En una ocasión, tuvo problemas con las bajas ventas de pogos, sandías y cajitas sorpresa. Así que consultó a Zombipulta. \"Tienes que imaginar la sandía y la caja sorpresa como una sola\", le aconsejaron. A juzgar por el éxito explosivo, funcionó.</color>",
-      "info": "<size=39>Tier 2. Carga y hace un gran salto.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Si aparece en el lado derecho del campo, carga por 5s y hace un largo salto, pasando por unas 4 casillas.</color>"
+      "info": "<size=39>Tier 2. Carga y hace un gran salto. Que no te confunda esta descripcion de T2, lee el original para seguir con su historia de romance fallido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000+6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Si aparece en el lado derecho del campo, carga por 5s y hace un largo salto, pasando por unas 4 casillas.</color>"
     },
     {
       "theZombieType": 326,
-      "name": "Pogozombi Bromista - T3",
-      "introduce": "<size=39><color=#3D1400>Después de mucho tiempo, por fin ha superado el dolor de su ruptura. Ahora viste colores llamativos y está listo para cortejar a una nueva diosa. Ahora está tras la Payasa Zorpresa. Esperemos que su resistencia emocional haya mejorado.</color>",
+      "name": "PogoPayazombi - T3",
+      "introduce": "<size=39><color=#3D1400>Después de mucho tiempo, por fin ha superado el dolor de su ruptura. Ahora viste elegantemente y está listo para cortejar a una nueva diosa. Pero pobrecito. ¡¿su nuevo objetivo es la Reina Payaso Zombi?!... vaya... esperemos que pueda soportarlo mejor que antes.</color>",
       "info": "<size=39>Tier 3. Con un sistema de carga mejorado, el humo de su pogo esconde su señuelo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000+12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (tiempo de carga baja a 0.75s). Revive si muere manteniendo su pogo, ay caray.</color>"
     },
     {
       "theZombieType": 327,
-      "name": "Zomppelín Kírov - T1",
+      "name": "TiburoKirov - T1",
       "introduce": "<size=39><color=#3D1400>Como las piezas de alta gama no son tan baratos, la Corporación Gfishtus pensó que sería rentable crear un modelo simplificado para ataques a menor escala. Aunque al final, solo crearon una nave asombrosamente similar al modelo original del Dr. Zomboss...</color>",
       "info": "<size=39>Tier 1. Un zomppelín que ocasionalmente bota cajitas sorpresas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Se derriba al recibir 20 estrellas de Emperador Estelar.</color>"
     },
     {
       "theZombieType": 328,
-      "name": "Zomppelín Kírov - T2",
-      "introduce": "<size=39><color=#3D1400>Este Zomppelín Kírov (T2) es un producto esencial de la Corporación Gfishtus, y la compañía afirma utilizar tecnología de drones de vanguardia. Pero si examinas detenidamente los restos de sus secuaces, a menudo encontrarás \"CCCP\" pintado en rojo.</color>",
-      "info": "<size=39>Tier 2. Un zomppelín que bota Drones Kírov.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (Se derriba con 30 estrellas). Cada ~2 segundos, invoca un Dron Kírov con 0.1× de sus propios PS.</color>"
+      "name": "TiburoKirov - T2",
+      "introduce": "<size=39><color=#3D1400>Este TiburoKirov (T2) es un producto esencial de la Corporación Gfishtus, y la compañía afirma utilizar tecnología de drones de vanguardia. Pero si examinas detenidamente los restos de sus secuaces, a menudo encontrarás \"CCCP\" pintado en rojo.</color>",
+      "info": "<size=39>Tier 2. Un zomppelín que genera Drones Kírov.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (Se derriba con 30 estrellas). Cada ~2 segundos, invoca un Dron Kírov con 0.1× de sus propios PS.</color>"
     },
     {
       "theZombieType": 329,
-      "name": "Zomppelín Kírov - T3",
+      "name": "TiburoKirov - T3",
       "introduce": "<size=39><color=#3D1400>¡Infiltración a gran altitud! ¡Reconocimiento y asalto integrados! ¡Cobertura total de potencia de fuego! ¡Combate no tripulado totalmente digitalizado! ¡La Corporación Gfishtus presenta con orgullo el Kírov 2.0! Es la bestia definitiva, salvo por su alcance de vuelo ridículamente corto, que lo relega a ser una simple fragata bajo una nave nodriza más grande. La nave nodriza, por supuesto, se vende por separado.</color>",
       "info": "<size=39>Tier 3. Un zomppelín que te arruina el campo si no tienes protección contra cajitas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (Se derriba con 40 estrellas). Cada ~4 segundos, invoca 2 Drones Kami-Kírov para diezmar rápidamente la linea en la que está.</color>"
     },
@@ -855,14 +855,14 @@
     },
     {
       "theZombieType": 334,
-      "name": "Zombirtaria - T2",
+      "name": "Veje-Zombirtaria - T2",
       "introduce": "<size=39><color=#3D1400>Entrenar con la Zombirtaria (T2) implica ejercicios de precisión únicos. Como los tridentes no pueden cambiar de trayectoria en el aire, el conductor debe reposicionar todo el carro para apuntar. \"Ajusta un poco... más... solo un poquito...\" ¡Chapoteo! El carro cae en un estanque cercano.</color>",
       "info": "<size=39>Tier 2. Suelta una carga mas grande de tridentes.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>6000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (dispara 14 tridentes por salva.).</color>"
     },
     {
       "theZombieType": 335,
-      "name": "Zombirtaria - T3",
-      "introduce": "<size=39><color=#3D1400>Un veterano guerrero tridente, condecorado y curtido, se ha unido a la División Tridente como su nueva unidad. Ha cazado Hielabestias en la tundra y luchado contra cocodrilos en los pantanos. Ahora está ante ti, listo para la batalla. A ver, ¿podrás aguantarte esta?</color>",
+      "name": "Veje-Zombirtaria - T3",
+      "introduce": "<size=39><color=#3D1400>Un veterano guerrero tridente, condecorado y curtido, se ha unido a la División Tridente como su nueva unidad. Ha cazado Bestias yeti en la tundra y luchado contra cocodrilos en los pantanos. Ahora está ante ti, listo para la batalla. A ver, ¿podrás aguantarte esta? ¡lo dudo mucho!</color>",
       "info": "<size=39>Tier 3. Dispersa sus tridentes restantes al morir.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores. Al morir, los tridentes no utilizados se dispersan aleatoriamente dentro de 3.5 casillas en su carril y dañan todas las plantas alcanzadas.</color>"
     }
   ]
