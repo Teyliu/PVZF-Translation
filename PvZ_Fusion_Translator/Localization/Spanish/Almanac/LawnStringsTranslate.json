@@ -1124,8 +1124,8 @@
     },
     {
       "seedType": 242,
-      "name": "Princesa Carmesí",
-      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Carmesí ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
+      "name": "Princesa Endoflama",
+      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Endoflama ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
       "info": "<size=39>¡Dispara soles ardientes que impactan zombis! Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa Odisea: Clásica</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Resistencia: </color><color=red>1000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
@@ -3758,9 +3758,9 @@
     },
     {
       "seedType": 901,
-      "name": "Cerezantralladora Explosiva",
-      "introduce": "<size=39><color=#3D1400>\u0022No entiendo por qué Guisantralladora tiene tantos fans. Mi hermano y yo también podemos disparar cuatro balas\u0022, comentó Cerezantralladora Explosiva con envidia. La verdad es que todos aprecian a Guisantralladora por su amabilidad y sus increíbles talentos culinarios.</color></size>",
-      "info": "<size=39>La Cerezantralladora Explosiva es la mejor infligiendo daño terrestre.\n\n<color=purple>Mejoras de Odisea:</color>\n- Las cerezas explosivas que lanza hacen <color=red>x3 de daño</color>\n- Intervalos de Ataque reducidos a la mitad</color>\n\n<color=#3D1400>Daño: </color><color=red>300×4/1.5 Segundos</color>\n<color=purple>Mejoras Mutuas:</color>\n- Si tienes todos los modificadores de Cerezantralladora Explosiva y Apisonantorcha Infernal, Cerezantralladora Explosiva lanzará 12 cerezas por ataque, y los Apisonaflores invocados por Apisonantorcha Infernal quemarán la fila entera.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cerezantralladora + Lanzacerezas Explosiva</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus pyroclastica</color></size>",
+      "name": "Peta-Cerezantralladora",
+      "introduce": "<size=39><color=#3D1400>\u0022No entiendo por qué Guisantralladora tiene tantos fans. Mi hermano y yo también podemos disparar cuatro balas\u0022, comentó Peta-Cerezantralladora con envidia. La verdad es que todos aprecian a Guisantralladora por su amabilidad y sus increíbles talentos culinarios.</color></size>",
+      "info": "<size=39>La Peta-Cerezantralladora es la mejor infligiendo daño terrestre.\n\n<color=purple>Mejoras de Odisea:</color>\n- Las cerezas explosivas que lanza hacen <color=red>x3 de daño</color>\n- Intervalos de Ataque reducidos a la mitad</color>\n\n<color=#3D1400>Daño: </color><color=red>300×4/1.5 Segundos</color>\n<color=purple>Mejoras Mutuas:</color>\n- Si tienes todos los modificadores de Peta-Cerezantralladora y Apisonantorcha Infernal, Peta-Cerezantralladora lanzará 12 cerezas por ataque, y los Apisonaflores invocados por Apisonantorcha Infernal quemarán la fila entera.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cerezantralladora + Lanzapeta-cerezas</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus pyroclastica</color></size>",
       "cost": "<size=33>Costo: <color=red>950</color>   Recarga: <color=red>187.5 Segundos</color>\nPlantas Requeridas: <color=red>8\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -3849,15 +3849,15 @@
     },
     {
       "seedType": 914,
-      "name": "Colipulta",
-      "introduce": "<size=39><color=#3D1400>Colipulta: el resultado de combinar un buffet vegetal con una armería. Su lema: \"¿No sabes qué bala usar? ¡Usa todas!\" Los zombis no saben si huir... o pedir la receta.</color></size>",
+      "name": "Toxipulta",
+      "introduce": "<size=39><color=#3D1400>Toxipulta: el resultado de combinar un buffet vegetal con una armería. Su lema: \"¿No sabes qué bala usar? ¡Usa todas!\" Los zombis no saben si huir... o pedir la receta.</color></size>",
       "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Mecánica de Ataque:</color>\n- <color=red>42% ráfaga</color> (3 balas) / <color=red>42% dispersión</color> (1 bala por zombi en fila).\n- Balas: col (<color=red>20</color>), maíz (<color=red>15</color>), melón (<color=red>39</color>).\n\n<color=#2E8B57>Sistema Venenoso:</color>\n- <color=red>25%</color> de balas de ajo (aplican <color=red>1 Punto de Veneno</color>).\n\n\n<color=purple>Mejoras de Odisea:</color>\n- Chance de Ataque de dispersión al <color=red>100%</color>.\n- NV1 - Acumular puntos venenosos envenenará inmediatamente al zombi y el límite del Valor Venenoso → 120. NV2 - Límite del Valor Venenoso Eliminado</color>.\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Tacopulta + Cebollipulta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Caulipultus Chaoticus</color></size>",
       "cost": "<size=33>Costo: <color=red>850</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 915,
       "name": "Mazorcañón Cristalino",
-      "introduce": "<size=39><color=#3D1400>El hielo es su vestimenta y el negro es su advertencia. Cada disparo contiene el poder de destruir cielo y tierra, cubriendo el mundo de escarcha. Los zombis marcados por él no necesitan prepararse, ya que, después del destello, no quedará nada.</color></size>",
+      "introduce": "<size=39><color=#3D1400>El frío hielo es su atiendo, El negro oscuro es su advertencia. Cada una de sus balas contiene el poder para destruir el mundo, tornando cielo y tierra, Invierno. Los zombis a los que apunta, no intentarán nada. Porque después del destello del gran relámpago, Nada. quedará.</color></size>",
       "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nEl Mazorcañón Cristalino tiene el poder de destruir cielo y tierra.\n\n<color=#3D1400>Daño:</color> <color=red>Área de impacto de 3×3 con 1800 más 1800 + 30% del valor de vida máxima en todo el jardín. Daño del cañón secundario es de 300x2/1.5 segundos, con efecto de ralentización</color>\n<color=#3D1400>Recarga:</color> <color=red>36 segundos</color>\n\n<color=purple>Mejoras de Odisea:</color>\n- Daño del estallido principal multiplicado por <color=red>4</color>\n- Su tiempo de recarga <color=red>se reduce a 12 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Crio-cañón + Criogeniseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Crystallus Nucleos</color></size>",
       "cost": "<size=33>Costo: <color=red>700, 850</color>   Recarga: <color=red>165 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
@@ -3898,8 +3898,8 @@
     },
     {
       "seedType": 921,
-      "name": "Bodriozilla",
-      "introduce": "<size=39><color=#3D1400>Bodriozilla, con su diente de oro y actitud de ex estrella, declara: \"El protagonismo es para rookies. Yo solo quiero paz... y zombis envenenados.\" Sus fans lo extrañan, pero él prefiere el anonimato tóxico.</color></size>",
+      "name": "Ajizilla",
+      "introduce": "<size=39><color=#3D1400>Ajizilla, con su diente de oro y actitud de ex estrella, declara: \"El protagonismo es para rookies. Yo solo quiero paz... y zombis envenenados.\" Sus fans lo extrañan, pero él prefiere el anonimato tóxico.</color></size>",
       "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Proyectiles aplican <color=red>2 Puntos de Veneno</color> por impacto.\n\n<color=#3D1400>Especial:</color>\n- <color=red>Transformación:</color> Usa <color=red>Petacereza → Cerezilla</color> | <color=red>Ajo → Bodriozilla</color>.\n- <color=red>Dureza:</color> 8000 (no se cura con explosiones).\n\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Cerezilla + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Allium Defensus Giganteus</color></size>",
       "cost": "<size=33>Costo: <color=red>650</color>   Recarga: <color=red>110 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
@@ -3919,7 +3919,7 @@
     },
     {
       "seedType": 924,
-      "name": "Seta Chamán",
+      "name": "Dulceta",
       "introduce": "<size=39><color=#3D1400>\"¡Con el poder del amor y la amistad, hasta un zombi podrido sin corazón latiente se volverá nuestro aliado! Claro, junto con esporas sospechosas... <b>totalmente seguras</b> para humanos. Al menos por ahora...\"</color></size>",
       "info": "<size=39>Carisma máxima.\n\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color>\n- Proyectiles con <color=red>explosión de 1 casilla</color> (sin reducción de daño).\n- <color=red>No pueden ser consumidos</color> por zombis.\n- Alimentarla con metales otorga <color=red>1 nivel de carga</color> (30s, máximo 2).\n  - <color=red>1 carga</color>: 2 disparos/ataque.\n  - <color=red>2 cargas</color>: 4 disparos/ataque.\n- <color=#8B0000>Sistema Magnético</color>: <color=red>+5% daño por planta</color> en el sistema.\n\n<color=purple>Mejoras de Odisea:</color>\n- <color=red>Umbral de Encanto</color> aumentado (<color=red>50% → 100%</color>)\n- <color=red>Su carga no baja bajo 2; máxima carga incrementada a 3 | Intervalos de Ataque → 1 Segundo</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Coraseta + Hipnomagneta</color>\n<color=#3D1400>Nombre científico: </color><color=red>Mycena fascinator</color></size>",
       "cost": "<size=33>Costo: <color=red>350, 725</color>   Recarga: <color=red>825 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
@@ -4024,9 +4024,9 @@
     },
     {
       "seedType": 939,
-      "name": "Dron Cerezantralladora",
-      "introduce": "<size=39><color=#3D1400>La Dron Cerezantralladora originalmente era una máquina de registro de velocidad de disparo desarrollada por la Cerezantralladora Explosiva, pero recientemente, para enfrentar la oleada de zombis, añadió la función de disparar balas de cereza reales, ganándose elogios explosivos.</color></size>",
-      "info": "<size=39>Imita la velocidad de ataque de la planta debajo suya.\n\n<color=#3D1400>Daño:</color> <color=red>30*2 cada 2s (Sin planta debajo)\n<color=#3D1400>Especial:</color> <color=red>Subespecie de la Cerezantralladora Explosiva que se puede cambiar entre la pala y Trebolador; ocupa un espacio aéreo. Si hay una planta atacante debajo, la velocidad de ataque se iguala a la de esa planta (mínimo 2 segundos). En mapas de 5/6 filas, puede haber un máximo de 10/12 unidades.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cerezantralladora Explosiva + Trebolador</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus pyroclaerum</color></size>",
+      "name": "Dron Petacerezantralladora",
+      "introduce": "<size=39><color=#3D1400>La Dron Petacerezantralladora originalmente era una máquina de registro de velocidad de disparo desarrollada por la Peta-cerezantralladora, pero recientemente, para enfrentar la oleada de zombis, añadió la función de disparar balas de cereza reales, ganándose elogios explosivos.</color></size>",
+      "info": "<size=39>Imita la velocidad de ataque de la planta debajo suya.\n\n<color=#3D1400>Daño:</color> <color=red>30*2 cada 2s (Sin planta debajo)\n<color=#3D1400>Especial:</color> <color=red>Subespecie de la Peta-cerezantralladora que se puede cambiar entre la pala y Trebolador; ocupa un espacio aéreo. Si hay una planta atacante debajo, la velocidad de ataque se iguala a la de esa planta (mínimo 2 segundos). En mapas de 5/6 filas, puede haber un máximo de 10/12 unidades.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Peta-cerezantralladora + Trebolador</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus pyroclaerum</color></size>",
       "cost": "<size=33>Costo: <color=red>1050</color>   Recarga: <color=red>202.5 Segundos</color>\nPlantas Requeridas: <color=red>9\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4046,8 +4046,8 @@
     {
       "seedType": 942,
       "name": "Ferreonexo",
-      "introduce": "<size=39><color=#3D1400>Lo que siempre temieron las Ferrosetitas finalmente ocurrió: fueron atrapados por la Magnetoseta, y nadie pudo separarlas. Quizás fue una bendición disfrazada, ya que los materiales acumulados por la Magnetoseta les ayudaron a actualizar su equipo, y ahora son un verdadero 'ejército de acero'.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\n¡Ataca enemigos terrestres y aéreos simultaneamente!\n\n<color=#3D1400>Dureza: </color><color=red>6000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 por segundo (Ametralladora), 240 cada 2s (Cañón); 400 cada 3s (Francotirador)\n<color=#3D1400>Especial:</color> <color=red>El cañón solo dispara a enemigos aéreos, causando daño explosivo dentro de una casilla; el y la ametralladora pueden repeler zombis. El francotirador tiene las mismas características de Francoguisantes.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El daño del francotirador aumenta a 1 millón, con 1/3 de probabilidad de disparar varias veces instantáneamente, pero el intervalo de disparo se duplica.\n- Distancia de empuje y daño de salpicadura del cañón x3..</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ferrosetita (x3 en una casilla) + Magnetoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ferrocystis magnytum</color></size>",
+      "introduce": "<size=39><color=#3D1400>Lo que siempre temieron las Ferroguisantito finalmente ocurrió: fueron atrapados por la Magnetoseta, y nadie pudo separarlas. Quizás fue una bendición disfrazada, ya que los materiales acumulados por la Magnetoseta les ayudaron a actualizar su equipo, y ahora son un verdadero 'ejército de acero'.</color></size>",
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\n¡Ataca enemigos terrestres y aéreos simultaneamente!\n\n<color=#3D1400>Dureza: </color><color=red>6000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 por segundo (Ametralladora), 240 cada 2s (Cañón); 400 cada 3s (Francotirador)\n<color=#3D1400>Especial:</color> <color=red>El cañón solo dispara a enemigos aéreos, causando daño explosivo dentro de una casilla; el y la ametralladora pueden repeler zombis. El francotirador tiene las mismas características de Francoguisantes.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El daño del francotirador aumenta a 1 millón, con 1/3 de probabilidad de disparar varias veces instantáneamente, pero el intervalo de disparo se duplica.\n- Distancia de empuje y daño de salpicadura del cañón x3..</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ferroguisantito (x3 en una casilla) + Magnetoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ferrocystis magnytum</color></size>",
       "cost": "<size=33>Costo: <color=red>400, 700</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>7 (+ Cubo)\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4059,9 +4059,9 @@
     },
     {
       "seedType": 944,
-      "name": "Electroseta",
-      "introduce": "<size=39><color=#3D1400>Electroseta domina el hierro con truenos explosivos. Otorga a su pueblo magnetismo eterno y construye un reino de electricidad. Sin embargo, más allá de sus conquistas militares y logros políticos, aún sufre dolores de cabeza en la búsqueda de una reina con una polaridad opuesta.</color></size>",
-      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> y el <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\nExtremadamente magnético, absorbe rápidamente objetos metálicos y los convierte en cerezas explosivas.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda los rasgos de Luminimán; Recarga de absorción de objetos: 0.5s\n- Puede atraer los pogos de Pogozombis Bromistas y convertirlos en Cajitas Sorpresa. También hace lo mismo con los Drones Kírov, matándolos instantáneamente.\n- Hace 300 de daño cada 0.5s a un Vegezombi Pescador o un Vegezombi Letal-Star en su rango.\n- Lanza los metales absorbidos después de 3s, haciendo el mismo daño en área que cerezas explosivas.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Daño a Vegezombis Pescadores/Vegezombis Letal-Stars x3, puede agarrar el triple de objetos</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Luminimán + Magnetoseta Carmesí</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magneto-cyber electris</color></size>",
+      "name": "Electromagna",
+      "introduce": "<size=39><color=#3D1400>Electromagna domina el hierro con truenos explosivos. Otorga a su pueblo magnetismo eterno y construye un reino de electricidad. Sin embargo, más allá de sus conquistas militares y logros políticos, aún sufre dolores de cabeza en la búsqueda de una reina con una polaridad opuesta.</color></size>",
+      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> y el <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\nExtremadamente magnético, absorbe rápidamente objetos metálicos y los convierte en cerezas explosivas.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda los rasgos de Luminimán; Recarga de absorción de objetos: 0.5s\n- Puede atraer los pogos de Pogopayazombis y convertirlos en Cajitas Sorpresa. También hace lo mismo con los Drones Kírov, matándolos instantáneamente.\n- Hace 300 de daño cada 0.5s a un Vege alti-tridentis o un Vege alti-gigafutbolista en su rango.\n- Lanza los metales absorbidos después de 3s, haciendo el mismo daño en área que cerezas explosivas.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Daño a Vegezombis alti-tridentis y alti-gigafutbolistas x3, puede agarrar el triple de objetos</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Luminimán + Magnetimpacto</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magneto-cyber electris</color></size>",
       "cost": "<size=33>Costo: <color=red>375, 525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4335,16 +4335,16 @@
     },
     {
       "seedType": 1004,
-      "name": "Lanzavellanas",
-      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a rociar.\u0022 Lanzavellanas siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Bolera y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
-      "info": "<size=39>Lanzavellanas lanza nuecitas que atraviesan toda una fila de zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s, perforante</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Ballistica</color></size>",
+      "name": "Lanzanueces",
+      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a pegar.\u0022 Lanzanueces siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Bolera y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
+      "info": "<size=39>Lanzanueces lanza nuecitas que atraviesan toda una fila de zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s, perforante</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Ballistica</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1005,
-      "name": "Lanzacerezas Explosiva",
-      "introduce": "<size=39><color=#3D1400>Te presentamos a Lanzacerezas Explosiva, la asesina de plantas definitiva. Está más irritable que nunca: ¿quién iba a pensar que la cálida y simpática Lanzacerezas se tragaría otra cereza especial? No tientes a la suerte con ella. Esa cereza atascada en su garganta podría ser su próximo disparo: ¡su cara ya se está poniendo roja!</color></size>",
-      "info": "<size=39>Las balas disparadas por Lanzacerezas Explosiva causarán daños por explosión en área.\n\n<color=#3D1400>Daño: </color><color=red>300/3 Segundos</color>\n<color=#3D1400>Fórmula: </color><color=red>Lanzacerezas + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus explodens</color></size>",
+      "name": "Lanzapetacerezas",
+      "introduce": "<size=39><color=#3D1400>Te presentamos a Lanzapetacerezas, la asesina de plantas definitiva. Está más irritable que nunca: ¿quién iba a pensar que la cálida y simpática Lanzacerezas se tragaría otra cereza especial? No tientes a la suerte con ella. Esa cereza atascada en su garganta podría ser su próximo disparo: ¡su cara ya se está poniendo roja!</color></size>",
+      "info": "<size=39>Las balas disparadas por Lanzapetacerezas causarán daños por explosión en área.\n\n<color=#3D1400>Daño: </color><color=red>300/3 Segundos</color>\n<color=#3D1400>Fórmula: </color><color=red>Lanzacerezas + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus explodens</color></size>",
       "cost": "<size=39>Costo: <color=red>400</color>   Recarga: <color=red>107.5 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
     },
     {
@@ -4384,22 +4384,22 @@
     },
     {
       "seedType": 1011,
-      "name": "Lanzacabezas",
-      "introduce": "<size=39><color=#3D1400>Planta Carroñívora siempre ha envidiado la habilidad de Lanzacabezas para escupir restos de zombis, y ha intentado aprender el truco más de una vez. Pero no sabía que el secreto no era una habilidad especial, sino que la boca de Lanzacabezas estaba ligeramente deformada, causando que trozos de zombi salieran al masticar.</color></size>",
-      "info": "<size=39>Lanzacabezas puede disparar partes de zombi después de morder.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Tras atacar a un zombi, escupe partes rodantes de este que cada 2.5s infligen 80 de daño y perforan toda la línea.</color>\n<color=#3D1400>Fusión: </color><color=red>Planta Carroñívora + Lanzaguisantes</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Dionaeformis</color></size>",
+      "name": "Lanzacarroña",
+      "introduce": "<size=39><color=#3D1400>Planta Carroñívora siempre ha envidiado la habilidad de Lanzacarroña para escupir restos de zombis, y ha intentado aprender el truco más de una vez. Pero no sabía que el secreto no era una habilidad especial, sino que la boca de Lanzacabezas estaba ligeramente deformada, causando que trozos de zombi salieran de su boca al masticar.</color></size>",
+      "info": "<size=39>Lanzacarroña puede disparar partes de zombi después de morder.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Tras atacar a un zombi, escupe partes rodantes de este que cada 2.5s infligen 80 de daño y perforan toda la línea.</color>\n<color=#3D1400>Fusión: </color><color=red>Planta Carroñívora + Lanzaguisantes</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Dionaeformis</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1012,
-      "name": "Muerdecorteza",
-      "introduce": "<size=39><color=#3D1400>Como planta joven, Muerdecorteza era notoriamente quisquillosa con la comida, nunca tragaba zombis de un bocado, lo que frustraba a sus padres. Tras mucha persuasión, Muerdecorteza aprendió finalmente a consumir zombis enteros, igual que sus predecesores. \u0022¡No soy exigente! Solo quiero imitar cómo comen los zombis. Debería probar algo nuevo, ¿no? Definitivamente no es porque no tengo cuello, lo que hace inconveniente tragar de un bocado.\u0022 dijo Muerdecorteza mientras masticaba un zombi.</color></size>",
-      "info": "<size=39>Muerdecorteza puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Daño:</color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Planta Carroñívora\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans phagocyticus</color></size>",
+      "name": "Nuez Carroñívora",
+      "introduce": "<size=39><color=#3D1400>Como planta joven, La nuez carroñivora era notoriamente quisquillosa con la comida, nunca tragaba zombis de un bocado, lo que frustraba a sus padres. Tras mucha persuasión, Nuezcarroñívora aprendió finalmente a consumir zombis enteros, igual que sus predecesores. \u0022¡No soy exigente! Solo quiero imitar cómo comen los zombis. Debería probar algo nuevo, ¿no? Definitivamente no es porque no tengo cuello, lo que hace inconveniente tragar de un bocado.\u0022 dijo Nuez Carroñivora mientras masticaba un zombi.</color></size>",
+      "info": "<size=39>Nuez Carroñívora puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Daño:</color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Planta Carroñívora\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans phagocyticus</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1013,
-      "name": "Cephazilla",
-      "introduce": "<size=39><color=#3D1400>CephaZilla saborea cada comida, a pesar de su boca más pequeña. \u0022Los bocones son descuidados y no van al gimnasio; se desmoronan en primera línea.\u0022 se burla. \u0022Solo como la esencia de la carne de zombi y escupo el resto.\u0022 Sonríe, aunque su patio trasero se está llenando de sobras.</color></size>",
+      "name": "Carnizilla",
+      "introduce": "<size=39><color=#3D1400>Carnizilla saborea cada comida, a pesar de su boca más pequeña. \u0022Los bocones son descuidados y no van al gimnasio; se desmoronan en primera línea.\u0022 se burla. \u0022Solo como la esencia de la carne de zombi y escupo el resto.\u0022 Sonríe, aunque su patio trasero se está llenando de sobras.</color></size>",
       "info": "<size=39>Cephazilla puede ser tanto un bastión como un feroz atacante.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Comer zombis restaura 100 de Dureza e inflige 200 de daño, mientras escupe balas rodantes que infligen 80 de daño y perforan infinitamente. Los zombis con HP < 500 y sin armadura mueren al instante, lo que restaura 200 de Dureza y genera balas que infligen 20 de daño, perforan 5 veces y derriban a los zombis.</color>\n<color=#3D1400>Fórmula: </color><color=red>Lanzaguisante + Nuez + Carroñivora\n<color=#3D1400>Nombre Científico: </color><color=red>Cephalos Phagocyticus</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
     },
@@ -4412,15 +4412,15 @@
     },
     {
       "seedType": 1015,
-      "name": "Tragarraíz",
-      "introduce": "<size=39><color=#3D1400>Deliciosas y tentadoras, las Patatapum saben igual que el puré de patatas autocalentable, lo que les ha valido muy buenas críticas de los zombis. Entre ellos, las patatas fritas se llevan la palma en popularidad. Mientras los zombis acuden en masa al tentador aroma de las patatas fritas, no tienen ni idea de que también serán deleitados con sabrosas patatas fritas. \u0022Espera y verás.\u0022 Tragarraíz dice con la boca llena, \u0022Sus nutrientes pronto se convertirán en nuevas minas.\u0022</color></size>",
-      "info": "<size=39>Después de tragar a un zombi, la Tragarraíz hará crecer una Patatapum delante de ella.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Especial: </color><color=red>Planta una Patatapum delante de ella al tragarse a un zombi.</color>\n<color=#3D1400>Fórmula: </color><color=red>Patatapum + Carroñivora\n<color=#3D1400>Nombre Científico: </color><color=red>Drosera Tuberosus</color></size>",
+      "name": "Mina Carroñívora",
+      "introduce": "<size=39><color=#3D1400>Deliciosas y tentadoras, las Patatapum saben igual que el puré de patatas autocalentable, lo que les ha valido muy buenas críticas de los zombis. Entre ellos, las patatas fritas se llevan la palma en popularidad. Mientras los zombis acuden en masa al tentador aroma de las patatas fritas, no tienen ni idea de que también serán deleitados con sabrosas patatas fritas. \u0022Espera y verás.\u0022 Mina Carroñívora dice con la boca llena, \u0022Sus nutrientes pronto se convertirán en nuevas minas.\u0022</color></size>",
+      "info": "<size=39>Después de tragar a un zombi, la Mina Carroñívora hará crecer una Patatapum delante de ella.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Especial: </color><color=red>Planta una Patatapum delante de ella al tragarse a un zombi.</color>\n<color=#3D1400>Fórmula: </color><color=red>Patatapum + Carroñivora\n<color=#3D1400>Nombre Científico: </color><color=red>Drosera Tuberosus</color></size>",
       "cost": ""
     },
     {
       "seedType": 1016,
-      "name": "Carroñívora Carmesí",
-      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carroñívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carroñívora Carmesí terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
+      "name": "Carroñívora-Cerezada",
+      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carroñívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carroñívora-Cerezada terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
       "info": "<size=39>Cierra las fauces con tanta fuerza que produce una explosión masiva.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea + 1800 (área de 3×3)</color>\n<color=#3D1400>Especial: </color><color=red>Crea una explosión de Petacereza al morder a un zombi.</color>\n<color=#3D1400>Formula: </color><color=red>Planta Carroñívora + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Sarracenia Explodio</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -4503,9 +4503,9 @@
     },
     {
       "seedType": 1028,
-      "name": "Nuez All-Star",
-      "introduce": "<size=39><color=#3D1400>Nuez All-Star tenía un aspecto feroz, lo que hizo que algunas plantas pequeñas que no conocían la verdad se sintieran asustadas por su aspecto. Sin embargo, las plantas que entendían a Nuez All-Star sabían que bajo su aspecto serio había una fuerte determinación de proteger a sus compañeros. Sin duda, el casco robado aumentaba su confianza.</color></size>",
-      "info": "<size=39>Nuez All-Star es capaz de aguantar una enorme cantidad de daño.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez Alta + Casco de Rugby\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Altustar</color></size>",
+      "name": "Nuez Alta-Futbolista",
+      "introduce": "<size=39><color=#3D1400>La Nuez Alta-Futbolista tenía un aspecto feroz, lo que hizo que algunas plantas pequeñas que no conocían la verdad se sintieran asustadas por su aspecto. Sin embargo, las plantas que entendían a Nuez Alta-Futbolista sabían que bajo su aspecto serio había una fuerte determinación de proteger a sus compañeros. Sin duda, el casco robado aumentaba su confianza.</color></size>",
+      "info": "<size=39>Nuez Alta-Futbolista es capaz de aguantar una enorme cantidad de daño.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez Alta + Casco de Rugby\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Altustar</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>50 Segundos</color>\nPlantas Requeridas: <color=red>1 (+ Casco All-Star)</color></size>"
     },
     {
@@ -4657,9 +4657,9 @@
     },
     {
       "seedType": 1050,
-      "name": "Zampalga Voraz",
-      "introduce": "<size=39><color=#3D1400>Zampalga Voraz destaca como un verdadero filósofo entre las plantas. A menudo murmura, \"¿Soy el calabacín o soy el alga?\" o reflexiona sobre preguntas profundas como, \"¿De dónde viene la hierba y a dónde va?\" Sin embargo, su desinterés por la higiene personal y su cabello desaliñado hacen que las demás plantas prefieran mantener distancia.</color></size>",
-      "info": "<size=39>Zampalga Voraz puede arrastrar tres zombis al agua.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea*3</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Apisonaflor + Zampalga\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Philo</color></size>",
+      "name": "Zampalga Zambullante",
+      "introduce": "<size=39><color=#3D1400>Zampalga Zambullante destaca como un verdadero filósofo entre las plantas. A menudo murmura, \"¿Soy acaso calabacín o alga?\" o reflexiona sobre preguntas profundas como, \"¿De dónde viene la hierba y a dónde va?\" Sin embargo, su desinterés por la higiene personal y su cabello desaliñado hacen que las demás plantas prefieran mantener distancia.</color></size>",
+      "info": "<size=39>Zampalga Zambullante puede arrastrar tres zombis al agua.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea*3</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Apisonaflor + Zampalga\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Philo</color></size>",
       "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4706,7 +4706,7 @@
     },
     {
       "seedType": 1057,
-      "name": "Apisonaflor Enflamada",
+      "name": "Apisonaflor Enflamado",
       "introduce": "<size=39><color=#3D1400>Los Apisonaflores Enflamados siempre saltan uno tras otro desde Apisonantorcha.\u0022¡Hace demasiado calor en este horno, casi me derrito!\u0022 Gritaron varios Apisonaflores Enflamados juntos.</color></size>",
       "info": "<size=39>Una Apisonaflor quemada. Aparece despues de que 60 guisantes pasen por Apisonantorcha.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbita Maxima</color></size><size=39>",
       "cost": "<size=39>Planta Requerida: <color=red>Apisonantorcha</color></size>"
@@ -4916,8 +4916,8 @@
     },
     {
       "seedType": 1087,
-      "name": "Calabaza Encantada",
-      "introduce": "<size=39><color=#3D1400>Calabaza Encantada insiste en que frecuentemente encuentra fantasmas, pero ¿realmente existen? ¿Quién puede decirlo con certeza? Quizás simplemente fue arrastrado a otra ronda de festividades de Halloween por alguien deseoso de un buen susto.</color></size>",
+      "name": "Calabaza Iluminada",
+      "introduce": "<size=39><color=#3D1400>Calabaza Iluminada insiste en que frecuentemente encuentra fantasmas, pero ¿realmente existen? ¿Quién puede decirlo con certeza? Quizás simplemente fue arrastrado a otra ronda de festividades de Halloween por alguien deseoso de un buen susto.</color></size>",
       "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> (Generador)\n\n<color=#3D1400>Sistema Lúmina:</color>\n- Genera <color=red>1 Nivel Lúmina</color> en área <color=red>3x3</color>.\n- Restaura a sí misma <color=red>150 de Dureza</color> por Nivel Lúmina cada <color=red>15s</color>.\n\n<color=#3D1400>Especial:</color> <color=red>Disipa niebla en su área.\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Planterna + Calabaza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Luminescens</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5365,16 +5365,16 @@
     },
     {
       "seedType": 1151,
-      "name": "Nuez Kírov",
-      "introduce": "<size=39><color=#3D1400>Nuez Kírov siempre ha sido apasionada por la protección ambiental. 'Tengo una relación de amor-odio con los Zombis; contaminan el ambiente, pero también me traen riqueza. ¿No es poseer propiedades y un remolque el sello del éxito? ¡El césped está limpio gracias a mí!'</color>",
-      "info": "<size=39>Podría ser solo otra bola de pescado. ¿Quién sabe?\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial: </color><color=red>Cuando desaparecen los restos metálicos de los Zombis, restaura 8000 HP a todas las Nuez Kírov en el campo. Usar una Nuez Férrea en ella restaura 8000 HP al instante y convoca un Submarinón. La curación puede exceder el HP máximo. Tiene la misma propiedad anti-aplastamiento que Cerezilla; el daño recibido se limita a 8000 por golpe. Redirige el daño hacia sí misma en un área de 3×3.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Nuez + Fragmento de Kírov</color>\n<color=#3D1400>Nombre científico: </color><color=red>Nux kiroviensis</color>",
+      "name": "Nuez Rotomarino",
+      "introduce": "<size=39><color=#3D1400>Nuez Rotomarino siempre ha sido apasionada por la protección ambiental. 'Tengo una relación de amor-odio con los Zombis; contaminan el ambiente, pero también me traen riqueza. ¿No es poseer propiedades y un remolque el sello del éxito? ¡El césped está limpio gracias a mí!'</color>",
+      "info": "<size=39>Podría ser solo otra bola de pescado. ¿Quién sabe?\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial: </color><color=red>Cuando desaparecen los restos metálicos de los Zombis, restaura 8000 HP a todas las Nuez Kírov en el campo. Usar una Nuez en ella restaura 8000 HP al instante y convoca un Tiburomarino. La curación puede exceder el HP máximo. Tiene la misma propiedad anti-aplastamiento que Cerezilla; el daño recibido se limita a 8000 por golpe. Redirige el daño hacia sí misma en un área de 3×3.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Nuez + Fragmento Tiburomarino</color>\n<color=#3D1400>Nombre científico: </color><color=red>Nux kiroviensis</color>",
       "cost": "<size=39>Costo: <color=red>50</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>1 (+ Fragmento Kírov)</color></size>"
     },
     {
       "seedType": 1152,
-      "name": "Ferrosetita",
-      "introduce": "<size=39><color=#3D1400>Ferrosetita tiene una preocupación constante: le aterra que Magnetoseta lo atraiga accidentalmente. '¿Dónde fueron mis tornillos?' Mientras Crazy Dave se acerca, parece que está a punto de tener una nueva preocupación.</color>",
-      "info": "<size=39>Las Ferrosetitas también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Objeto Metálico</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
+      "name": "Ferroguisantito",
+      "introduce": "<size=39><color=#3D1400>Ferroguisantito tiene una preocupación constante: le aterra que Magnetoseta lo atraiga accidentalmente. '¿Dónde fueron mis tornillos?' Mientras Crazy Dave se acerca, parece que está a punto de tener una nueva preocupación.</color>",
+      "info": "<size=39>Las Ferroguisantito también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Objeto Metálico</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
     },
     {
@@ -5428,8 +5428,8 @@
     },
     {
       "seedType": 1160,
-      "name": "Humoseta All-Star",
-      "introduce": "<size=39><color=#3D1400>'Siempre he soñado con ser un jugador de rugby, y ahora finalmente tengo este sombrero de gloria,' dijo Humoseta All-Star con orgullo. 'Pero hoy, he decidido tomar un descanso al margen.' En realidad, solo es un guardia de seguridad del estadio, manteniendo a los fanáticos demasiado entusiastas alejados con sus esporas.</color></size>",
+      "name": "Humoseta Delantera",
+      "introduce": "<size=39><color=#3D1400>'Siempre he soñado con ser un jugador de rugby, y ahora finalmente tengo este sombrero de gloria,' dijo Humoseta Delantera con orgullo. 'Pero hoy, he decidido tomar un descanso al margen.' En realidad, solo es un guardia de seguridad del estadio, manteniendo a los fanáticos demasiado entusiastas alejados con sus esporas.</color></size>",
       "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>).\n\n<color=#3D1400>Sistema Magnético:</color>\n- Potencia a <color=red>Atacantes/Defensores Magnéticos</color> al aumentar el sistema.</color>\n<color=#3D1400>Daño: </color><color=red>60/1.5s</color> (perfora armaduras)\n<color=#3D1400>Especial: </color><color=red>Daña tanto al zombi como a su armadura</color>\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Fórmula: </color><color=red>Humoseta Férrea + Casco de Rugby</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rugbyus</color></size>",
       "cost": "<size=39>Costo: <color=red>175, 325</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo, Casco All-Star)</color></size>"
     },
@@ -5463,16 +5463,16 @@
     },
     {
       "seedType": 1165,
-      "name": "Sargente Níveo",
-      "introduce": "<size=39><color=#3D1400>Como comandante de la familia de los guisantes, la Sargente Níveo tiene tal presencia que incluso a kilómetros de distancia, las plantas y zombis tiemblan de miedo. Sin embargo, nunca habla sobre su habilidad para congelar rápidamente. Hasta que un día, un pequeño guisante, sin querer, abrió su diario: \"Si hubiera sabido que no debía apostar con el Francoguisantes Ígneo, no solo casi me congelo hasta morir en la tundra, sino que ahora me veo así. Esta noche tengo que traer a ese tipo y hacer que coma tres grandes tazones de chile picante.\"</color></size>",
-      "info": "<size=39>Dispara guisantes que acumulan <color=red>10 Puntos Criogénicos</color> por impacto. Al alcanzar <color=red>100 Puntos</color>, el zombi se congela durante <color=red>5 segundos</color>. Cada congelación aumenta el umbral en <color=red>+100</color> (máximo <color=red>400</color>).\n\n<color=#3D1400>Daño Base: </color><color=red>20×6/1.5 Segundos</color>\n<color=#3D1400>Daño Amplificado: </color><color=red>x4</color> contra zombis congelados\n<color=#3D1400>Especial: </color><color=red>3% de probabilidad de disparar 20 guisantes en 0.02 segundos</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Sargente Guisante + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum cryorapidicaudex</color></size>",
+      "name": "Comandante Hielaguisantes",
+      "introduce": "<size=39><color=#3D1400>Como comandante de la familia de los guisantes, Comandante Hielaguisantes tiene tal presencia que incluso a kilómetros de distancia, las plantas y zombis tiemblan de miedo. Sin embargo, nunca habla sobre su habilidad para congelar rápidamente. Hasta que un día, un pequeño guisante, sin querer, abrió su diario: \"Si hubiera sabido que no debía apostar con el Francoguisantes Ígneo, no solo casi me congelo hasta morir en la tundra, sino que ahora me veo así. Esta noche tengo que traer a ese tipo y hacer que coma tres grandes tazones de chile picante.\"</color></size>",
+      "info": "<size=39>Dispara guisantes que acumulan <color=red>10 Puntos Criogénicos</color> por impacto. Al alcanzar <color=red>100 Puntos</color>, el zombi se congela durante <color=red>5 segundos</color>. Cada congelación aumenta el umbral en <color=red>+100</color> (máximo <color=red>400</color>).\n\n<color=#3D1400>Daño Base: </color><color=red>20×6/1.5 Segundos</color>\n<color=#3D1400>Daño Amplificado: </color><color=red>x4</color> contra zombis congelados\n<color=#3D1400>Especial: </color><color=red>3% de probabilidad de disparar 20 guisantes en 0.02 segundos</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Comandante Guisantes + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum cryorapidicaudex</color></size>",
       "cost": ""
     },
     {
       "seedType": 1166,
-      "name": "Magnetoseta Carmesí",
-      "introduce": "<size=39><color=#3D1400>\"Vender adecuadamente también es una habilidad\", dijo la Magnetoseta Carmesí. Ese tipo de odio que se convierte en amor, solo Magnetoseta Carmesí puede hacerlo. Antes, lo que más odiaba era la cereza. En realidad, todavía lo hace, pero tal vez ha encontrado una oportunidad de negocio.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
+      "name": "Magnetimpacto",
+      "introduce": "<size=39><color=#3D1400>\"Vender adecuadamente también es una habilidad\", dijo Magnetimpacto. Ese tipo de odio que se convierte en amor, solo Magnetimpacto puede hacerlo. Antes, lo que más odiaba era la cereza. En realidad, todavía lo hace, pero tal vez ha encontrado una oportunidad de negocio.</color></size>",
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a Magnetimpacto para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
       "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5484,8 +5484,8 @@
     },
     {
       "seedType": 1168,
-      "name": "Sargente Guisante",
-      "introduce": "<size=39><color=#3D1400>Frente a los zombis más locos y los compañeros más poderosos, la Sargente Guisante siente la presión de los desafíos constantes, y su temperamento se vuelve más explosivo. Sin embargo, cuando las plantas miran a la máquina disparando guisantes a gran velocidad, siempre se impresionan por su estética de violencia pura. Incluso la Guisantralladora ha decidido pedir su número de hoja.</color>",
+      "name": "Comandante Guisantes",
+      "introduce": "<size=39><color=#3D1400>Frente a los zombis más locos y los compañeros más poderosos, la Comandante Guisantes siente la presión de los desafíos constantes, y su temperamento se vuelve más explosivo. Sin embargo, cuando las plantas miran a la máquina disparando guisantes a gran velocidad, siempre se impresionan por su estética de violencia pura. Incluso la Guisantralladora ha decidido pedir su número de hoja.</color>",
       "info": "<size=39>Dispara guisantes para atacar a los zombis, con una pequeña probabilidad de disparar una gran cantidad de guisantes.\n\n<color=#3D1400>Daño:</color> <color=red>20×6/1.5 segundos</color>\n<color=#3D1400>Habilidad especial:</color> <color=red>3×20/0.02 segundos</color>\n<color=#3D1400>Características:</color> <color=red>Hay un 3% de probabilidad de disparar una gran cantidad de guisantes cada vez que dispara.</color>\n<color=#3D1400>Receta de Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Francoguisantes</color>\n<color=#3D1400>Nombre científico: </color><color=red>Pisum rapidicaudex</color>",
       "cost": ""
     },
@@ -5540,8 +5540,8 @@
     },
     {
       "seedType": 1176,
-      "name": "Atrapasueños",
-      "introduce": "<size=39><color=#3D1400>Las plantas siempre se preguntan por qué el Atrapasueños siempre empuja a los zombis hacia atrás. El Atrapasueños responde: “Como el trebolador siempre empuja a los zombis en la dirección opuesta a la que están mirando, ¿no es normal que también empuje a los zombis hipnotizados en la dirección opuesta?” Pero en realidad, solo tiene un sentido de dirección perdido.</color>",
+      "name": "HipnoTrébol",
+      "introduce": "<size=39><color=#3D1400>Las plantas siempre se preguntan por qué el HipnoTrébol siempre empuja a los zombis hacia atrás. HipnoTrébol responde: “Como el trebolador siempre empuja a los zombis en la dirección opuesta a la que están mirando, ¿no es normal que también empuje a los zombis hipnotizados en la dirección opuesta?” Pero en realidad, solo tiene un sentido de dirección perdido.</color>",
       "info": "<size=39>¡Puede atraer a los zombis hipnotizados hacia atrás!\n\n<color=#3D1400>Características:</color> <color=red>Puede atraer a todos los zombis hipnotizados hacia atrás.</color>\n<color=#3D1400>Receta de Fórmula de Fusión:</color> <color=red>Hipnoseta + Trebolador\n<color=#3D1400>Nombre científico: </color><color=red>Trifolium reversus</color>",
       "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5808,8 +5808,8 @@
     },
     {
       "seedType": 1214,
-      "name": "Cronoseta",
-      "introduce": "<size=39><color=#3D1400>¿Sabias que, tecnicamente, solo existe una Cronoseta? Esto fue sorprendente para muchas plantas al darse cuenta que, en vez de que la Cronoseta sea una especie, es solo una que se ha accidentalmente clonado tras viajar constantemente entre el futuro, pasado y presente.</color></size>",
+      "name": "CronoPetaseta",
+      "introduce": "<size=39><color=#3D1400>¿Sabias que, tecnicamente, solo existe una CronoPetaseta? Esto fue sorprendente para muchas plantas al darse cuenta que, en vez de que la CronoPetaseta sea una especie, es solo una que se ha accidentalmente clonado tras viajar constantemente entre el futuro, pasado y presente.</color></size>",
       "info": "<size=39>Parte del <color=#6FFFDB>Sistema Temporal</color> y el <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto)\nUna Petaseta con poderes hipertemporales.</color>\n\n<color=#3D1400>Daño: </color><color=red>1800 (área de 7x7)</color>\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo\n<color=#6FFFDB>Estado Temporal: <color=red>Los zombis en este estado quedan inmóviles, acumulando tiempo de espera. Cuando el tiempo alcanza (Salud del Zombi/30) segundos, son eliminados. Al finalizar el estado, reciben daño igual a 30 veces el tiempo de espera.\n<color=#3D1400>Especial:</color> <color=red>Tiene las características de Petaseta. La explosión aplica 30 segundos del Estado Temporal a todos los zombis afectados.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Fatalomyces chronomythex</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Cronofragmento + Petaseta Magnética</color></size>",
       "cost": "<size=39>Costo: <color=red>225, 375</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cronofragmento)</color></size>"
     },
