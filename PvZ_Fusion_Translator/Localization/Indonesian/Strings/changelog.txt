@@ -2,81 +2,106 @@
 Sumber resmi PvZ Fusion cuma ada di Bilibili dev, 蓝飘飘fly ya!</color>
 Terjemahan yang asli cuma dari komunitas ini: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> sama halaman GitHub resminya.
 Jauhin web kayak <color=#8B0000>pvzfusion.net</color> atau <color=#8B0000>pvzfusion.pro</color> karena mereka cuma nyomot hasil kerjaan kita tanpa izin.
-Kalau mau ganti bahasa terjemahannya, pastiin lu cek menu "Bahasa" di pojok kanan bawah menu ini.
+Kalau mau ganti bahasa terjemahannya, pastiin mu cek menu "Bahasa" di pojok kanan bawah menu ini.
 Mampir ke komunitas kita buat dapet info update terbaru sama bantuan teknis.
 
-<align=center><size=130%>Tanaman vs. Zombi: Fusi - Catatan Pembaruan 3.5</size></align>
+<align=center><size=130%>Tanaman Lawan Zombi: Fusi - Catatan Pembaruan 3.6</size></align>
 
-1. Level Kustom & Editor Level Dewa!
-- Editor Level Baru: Sekarang lu bisa bebas bikin peta sendiri buat dimainin lokal atau nyobain map online keren hasil kreasi tim Fusion.
-- Pengaturan Dasar: Atur peta, nama level, jumlah gelombang, sampe tanaman yang dipasang duluan.
-- Mode Permainan: Bisa pake mode Sabuk Berjalan (Conveyor), jadi Zombi (Gw, Zombi), atau pecahin pot (Vasebreaker). Bisa atur cooldown tiap wave sama tips awal juga.
-- Pengaturan Kartu: Atur jumlah slot kartu, tanaman pilihan, harga kartu, sampe waktu tunggu (cooldown).
-- Syarat Menang: Bisa lu atur sendiri, misal harus bantai zombi tertentu atau berhasil makan otak yang cukup.
-- Mode The Gods: Desain jalur upgrade sendiri buat level kustom "The Gods" dan atur atributnya sesuka hati.
-- Pengaturan Munculnya Zombi: Atur seberapa barbar zombi yang muncul di tiap gelombang secara detail.
-- Pengaturan Gacha: Atur hoki-hokian kayak kecepatan atau ukuran zombi biar mainnya makin absurd.
+1. Pembaruan Mode Perjalanan
+- Mode Perjalanan baru memungkinkan pemain untuk memilih kombinasi rute pemimpin, tingkat kesulitan, dan progres level untuk kebebasan yang lebih besar.
 
-2. Tanaman Baru
-- Fusi Biasa:
-  - Senter Kipli Kembar Tiga (Kipli Kembar Tiga + Lampu Lentera)
-  - Pot Hipno (Jamur Hipno + Pot Bunga)
-  - Senter Kipliter (Kipliter + Lampu Lentera)
-  - Senter Kiplilit (Kiplilit + Lampu Lentera)
-  - Senter Gatling (Kipli Gatling + Lampu Lentera)
-  - Cabe Bocil (Cabe > Jamur Bocil)
-  - Kacang Racun (Kipli + Bawang Putih)
-  - Kipliter Racun (Kipliter + Bawang Putih)
-  - Kiplilit Racun (Kiplilit + Bawang Putih)
-  - Kipli Gatling Racun (Kipli Gatling + Bawang Putih)
-  - Jamur Gemoy Gahar (Jamur Gemoy + Layu Bakar)
-  - Chomper Geprek (Chomper + Jamur Geprek)
-- Fusi Odisei:
-  - Umum:
-    - Snter Sultan (Kayu Bakar Sultan + Lampu Lentera)
-    - Penggali Kubur Jahat (Grim Arbiter + Ranjau Kentang)
-  - Langka:
-    - Bambu Pencabut Nyawa (Lifereaver Spruce + Bamblock)
-    - Jamur Lubang Hitam (Maelonstrom + Doom-shroom)
-    - Photon Splitter (Split Beam + Chrono Pea)
-- Spesial:
-  - Guci Emas Daur Ulang
+- Penyegaran afiks tidak lagi menghasilkan kemunculan afiks yang sebelumnya telah dilihat kecuali Anda telah menjelajahi semua afiks lainnya.
+Waktu Toko Perjalanan dan pemilihan pemimpin telah diundur dua putaran untuk memanfaatkan poin dengan lebih baik. Jumlah pemimpin yang diperlukan untuk dipilih di Purgatory dan tingkat kesulitan yang lebih tinggi telah ditingkatkan dari 4 menjadi 6.
 
-3. Zombi Baru
-- Umum:
-  - Zombi Loncat Galah Krono
-- Odisei (Makin Ngeri):
-  - UFO D.A.M.P.
-  - Alpha Assassin Hitman (Zombi Pembunuh Bayaran)
+- Rute baru untuk Grandmaster Rugbi Hitam dan Zombi Mobil Panggung telah ditambahkan, dan afiks kemunculan dan zombie untuk setiap rute telah dibedakan.
+
+- Raksasa Obsidian Ultimate dan Raja Imp Ultimate sekarang tersedia sebagai pemimpin yang dapat dipilih, tidak lagi terbatas pada rute masing-masing.
+
+- Panggung perjalanan sebelum versi 3.5 masih dapat diakses melalui opsi "Panggung Preset" di pojok kanan bawah.
+
+2. Tumbuhan Baru 
+- Tumbuhan Dasar: 
+  - Bom Salju 
+- Tumbuhan Biasa: 
+  - Panah
+  - Kayu Obor Bawang
+  - Labu Geprek Air
+  - Kaktus Jamur Gemoy
+  - Kayu Obor Hipno
+  - Jamur Rumput Air
+  - Kubis Api
+  - Kubis Kiamat
+  - Jagung Membara
+  - Ranjau Kentang Es 
+
+- Tanaman King: 
+  - King Kipli Gatling Rugbi Hitam
+  - King Kipli Sniper Waktu
+  - King Gatling Es Bocil
+  - King Gatling Matahari Bocil
+  - King Kipli Erosi Bayangan
+  - King Cabai Obsidian Bocil 
+
+- Kartu Merah Misterius: 
+  - Jamur Semprot Bayangan
+  - Kacang Matahari Kembar Utama
+
+Kelompok penyebaran Jamur Gemoy, Jamur Penakut, dan Jamur Bocil kini mempunyai ID tersendiri.
+
+3. Zombie Baru
+- Zombi Reguler: 
+  - Zombi Pelatih Galah
+  - Zombi Koran Ember
+  - Zombi Penguin
+  - Zombi Padang Salju
+  - Zombi Es Biru, Zombi Kaisar Penguin
+  - Zombi Kipli Gatling
+  - Zombi Kipli Gatling Es
 
 4. Skin Baru
-- Thunder Bunnyon berubah jadi Halloween Thunder Bunnyon (Edisi Halloween).
+- Labu Laser – Pangeran Aliran Bintang
 
 5. Level Baru
-- 3 Level Pecahin Vas Baru: Termasuk Pot Obsidian dan Pot Hipno. Selesain semua buat ngebuka Guci Emas Daur Ulang.
-- Permainan Kecil Baru - Nutsweeper: Cari ranjau pake kacang (makin susah gamenya, ranjaunya makin banyak).
-- 3 Level Gacha Baru: Seri Chaos (Penuh Kekacauan).
-- Level Petualangan Baru buat mode "Gw, Zombi".
-- Level Showcase Fusion baru buat pamer kekuatan tanaman.
-- Kolam Tanpa Akhir - Serenity: Mode tanpa batas di kolam, mirip mode Bertahan Idup: Tanpa Akhir di PvZ 1.
+- Mini-Game:
+  - Tantangan Penyortiran Zombie: Arahkan zombie ke posisi yang benar dengan terus menyesuaikan Panah. Tanaman Panah dapat digunakan untuk membuat level pertahanan menara dalam Mode Super Kustom.
+  - Apakah Aku Zombie? 
+Raja: Menempatkan kartu zombie akan menghasilkan Api Lotus yang sesuai, terus menerus menghasilkan zombie yang terpesona untuk bertarung.
+  - Raja Ritme: Kendalikan ritme untuk menghadapi zombie.
 
-6. Sinergi Baru - Photon Splitter
-- Photon Splitter bisa nembak ke Atomheart Plantern di depannya (klik buat pilih) buat ngisi energi.
-- Pas energi tembus 10k, cahayanya makin terang, damage makin pedes, dan zombi jadi lemot di sekitarnya.
-- Pas tembus 100k, bakal meledak jadi Lubang Hitam yang bantai semua zombi di layar! (Peringatan: Banyak efek cahaya kedap-kedip).
+- Petualangan Bintang: Bab Lapangan Salju Ditambahkan
+- Permainan Perjalanan: Mekanisme Pertempuran Numerik: Tanaman pamungkas tidak dapat digunakan di level ini. Semua atribut tanaman dasar telah ditingkatkan secara signifikan. Beberapa kartu tanaman sekarang tersedia di slot kartu untuk penanaman dan pembersihan lapangan yang mudah dan cepat. Zombie akan kembali ke titik penyimpanan otomatis bendera sebelumnya setiap kali mereka memasuki markas. Memuat ulang akan mengakibatkan hilangnya atribut zombie dan tanaman. Ada batasan jumlah pemuatan ulang.
 
-7. Gacha Modifier
-- Level Gacha sekarang punya modifier eksklusif yang bisa didapetin dari kejadian random pas main.
+- Mode Misteri: 
+  - Takdir Baru Kesulitan: Dalam kesulitan ini, kartu tanaman tidak mengonsumsi daya tahan, dan zombie akan menerima buff acak.
 
-8. Penyesuaian Keseimbangan Odyssey
-- Apeacalypse Railgun: Gak otomatis nembak Atomheart lagi, sekarang harus lu klik manual biar dapet efek ledakan Doom-shroom dan efek lambat.
-- Grim Arbiter: Sekarang bikin bayangan zombi terkuat di depannya. Damage yang diterima bayangan itu bakal dibagi ke semua zombi sejenis di layar.
-- Thunder Bunnyon: Petirnya sekarang ngurangin status pertahanan (Damage Reduction) zombi biar gak alot lagi.
+6. Acara Level Kustom: Kustomisasi Super sekarang memungkinkan pengaturan acara level dengan membuat, memodifikasi, dan menghubungkan node. Kustomisasi Super sekarang memungkinkan pembuatan level "Raja Ritme" dan level pertahanan menara menggunakan tanaman Panah.
 
-9. Menu Simpan Data (Save File)
-- Menu Pencapaian sekarang diganti jadi menu buat bikin banyak slot Save Data (bisa punya banyak profil pemain).
+7. Peta Baru - Malam Lapangan Salju: Sebuah kamp yang tenang tampaknya menyimpan masa lalu yang tersembunyi… Peta ini tidak secara otomatis menyediakan pupuk.
 
-10. Fitur "True Endless"
-- Kalau diaktifin, mode ini bakal lewatin video singkat antar ronde di mode Tanpa Akhir dan ngasih waktu bentar buat rapihin tanaman lu.
+8. Atribut Sinergi Baru: Pertempuran Mini (Raja Wibu Mini ∞ Raja Gatling Es Bocil)
 
-11. Perbaikan berbagai bug dan optimasi biar permainan biar makin lancar jaya.
+9. Penyesuaian Keseimbangan Terkait Perjalanan:
+  - Labu Laser: Menambahkan kemampuan untuk mengurangi koefisien armor zombie saat digunakan oleh wingman.
+
+  - Kipli Mesin Obsidian: Kemampuan yang sepenuhnya dirombak. Permainan sekarang mengakumulasikan total perubahan kesehatan semua tanaman untuk meningkatkan kerusakan dan frekuensi serangan, mengonsumsi semua kesehatan pada level tinggi untuk dengan cepat melepaskan serangan efek area yang kuat.
+
+  - Clown Blast King: Kerusakan ledakan dikurangi menjadi 500
+
+10. Optimasi Teks
+  - Mekanisme Racun Bawang Putih: Sekarang menggunakan "Efek Sangat Beracun" untuk merujuk pada efek "secara langsung menimbulkan racun dan menyebabkan zombie dengan nilai bawang putih 5 melebihi batas nilai bawang putih mereka."
+  - Mengubah nama efek Diam dan Beku: "Diam" → "Beku," "Beku" → "Terikat Es" agar sesuai dengan deskripsi dengan visual barunya.
+  - Menambahkan nama ke beberapa entri zombie.
+  - Merombak Buku Panduan.
+  - Mengoptimalkan antarmuka deskripsi entri; sekarang... Deskripsi resep subspesies tanaman selalu menjadi kalimat pertama dari deskripsi entri.
+
+  - Memperbaiki dan mengoptimalkan beberapa teks dalam game.
+
+11. Optimasi lainnya
+  - Sekarang, hanya resep fusi yang dapat dilihat untuk tanaman yang belum difusi atau ditemui; konten ensiklopedia akan disembunyikan.
+  - Anda dapat membuka seluruh ensiklopedia dengan satu klik di pengaturan (ini dapat memengaruhi pengalaman bermain game).
+  - Petualangan Perjalanan telah dikerjakan ulang dan saat ini sedang terus dioptimalkan.
+  - Anda tidak akan lagi tidak dapat menggabungkan tanaman dalam Mode Perjalanan karena belum menyelesaikan Petualangan Perjalanan.
+  - Pintu masuk ke Pertahanan Taman telah dipindahkan ke sudut kanan atas Taman Zen.
+
+12. Memperbaiki beberapa bug yang diketahui dan mengoptimalkan pengalaman bermain game.
+  - Memperbaiki bug di [Level Kustom Super] di mana level online tidak dapat diaktifkan.

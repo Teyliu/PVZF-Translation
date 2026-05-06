@@ -481,6 +481,48 @@
             "info": "<size=14><color=blue>Bergerak maju dengan langkah lincah untuk menghindari tanaman.\n\n<color=black>Ketahanan: </color><color=red>270 + 1400 (Tipe 1)</color>\n<color=black>Fitur: </color><color=red>Mengabaikan rintangan tanaman (melewatinya tanpa memakan atau berhenti). Helm dapat ditarik oleh Jamur Magnet.</color></color></size>"
         },
         {
+            "theZombieType": 80,
+            "name": "Zombi Galah Dimensi",
+            "introduce": "<color=#3D1400>Mengandalkan kemampuan teleportasi uniknya, Zombi Galah Dimensi dapat dengan mudah menantang ketinggian lompatan apa pun dan 100% melewati palang. Sekarang satu-satunya masalah yang membuatnya pusing adalah dia sering mendarat di kursi penonton.</color>",
+            "info": "<size=14><color=blue>Menggunakan galah untuk membuka turbulensi Dimensi dan melompat ke tempat yang tak terduga.\n\n<color=black>Ketahanan: </color><color=red>720 + 1100 (Tipe 1)</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color><color=red>Saat melompati tanaman, ia akan berteleportasi satu kotak secara acak ke arah atas, bawah, kiri, atau kanan. Saat mati, ia menjatuhkan Fragmen Dimensi.</color></color></size>"
+        },
+        {
+            "theZombieType": 81,
+            "name": "Zombi Pelatih Galah",
+            "introduce": "<color=#3D1400>\"Jangan pergi, oke?\" Sungguh kalimat yang menyentuh hati. Sayangnya, itu keluar dari mulut Zombi Pelatih Galah. Setiap Zombi Galah bisa menebak apa yang akan dia katakan selanjutnya: \"Jangan pergi sebelum kalian semua lari!\"</color>",
+            "info": "<size=14><color=blue>Membimbing latihan lompat jauh; jika buku panduannya hancur, ia akan meneriaki muridnya dan maju sendiri untuk memimpin.\n\n<color=black>Ketahanan: </color><color=red>720 + 720 (Tipe 2)</color>\n<color=black>Kecepatan: </color><color=red>Lambat, setelah koran hancur menjadi sedang-cepat</color>\n<color=black>Fitur: </color><color=red>Meningkatkan jarak lompatan semua zombi tipe galah di baris yang sama. Setelah korannya hancur, peningkatan jarak bertambah besar dan ia akan memanggil satu Zombi Galah di baris tersebut.</color></color></size>"
+        },
+        {
+            "theZombieType": 82,
+            "name": "Zombi Koran Ember",
+            "introduce": "<color=#3D1400>Apa persamaan antara gerobak dorong taman, mesin popcorn, dan Zombi Koran Ember? Mereka semua sekeras besi, dicat merah, sangat tua, dan berderit saat bergerak.</color>",
+            "info": "<size=14><color=blue>Sangat percaya pada perlindungan benda berbahan besi, dan berbagi pengalaman dengan rekannya melalui koran.\n\n<color=black>Ketahanan: </color><color=red>270 + 1100 (Tipe 1) + 1100 (Tipe 2)</color>\n<color=black>Kecepatan: </color><color=red>Lambat, setelah koran hancur menjadi sedang-cepat</color>\n<color=black>Fitur: </color><color=red>Saat muncul, ia dan semua zombi tipe koran lainnya di baris yang sama mendapatkan 50 poin Armor. Setelah korannya hancur, bonus tersebut meningkat menjadi 100 poin.</color>\n<color=black>Kelemahan: </color><color=red>Jamur Magnet (Ember dapat ditarik).</color></color></size>"
+        },
+        {
+            "theZombieType": 83,
+            "name": "Pinguin Zombi",
+            "introduce": "<color=#3D1400>Mereka sebenarnya adalah kawanan pinguin asli yang sering berjasa di padang salju, sehingga Dokter memberi mereka lensa kontak zombi dan gelar \"Zombi\". Sejujurnya, jika mereka mengerti apa arti \"Zombi\", mereka pasti akan menolak penghargaan ini.</color>",
+            "info": "<size=14><color=blue>Makhluk padang salju yang tampak lucu, namun bisa menjadi sangat berbahaya di lingkungan favoritnya.\n\n<color=black>Ketahanan: </color><color=red>1350</color>\n<color=black>Kecepatan: </color><color=red>Sedang-cepat, menjadi cepat saat meluncur</color>\n<color=black>Fitur: </color><color=red>Ketahanan dingin Level 1. Bergerak dengan melompat; saat mendarat, memberikan 100 damage sebanyak 2 kali pada tanaman di areanya. Jika di atas jalur es, ia akan meluncur melindas tanaman. Jika ada badai salju, ia bisa meluncur tanpa perlu jalur es.</color></color></size>"
+        },
+        {
+            "theZombieType": 84,
+            "name": "Zombi Padang Salju",
+            "introduce": "<color=#3D1400>Zombi Padang Salju merasa dirinya berbeda dari zombi di luar sana; dia punya bekas luka membeku di dadanya yang ia anggap sebagai lencana petualang. Tapi dia tidak pernah berani melepas jaketnya untuk pamer, karena takut bekas luka kedua akan muncul.</color>",
+            "info": "<size=14><color=blue>Zombi biasa yang mendiami wilayah padang salju.\n\n<color=black>Ketahanan: </color><color=red>270</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color><color=red>Ketahanan dingin Level 1.</color></color></size>"
+        },
+        {
+            "theZombieType": 85,
+            "name": "Zombi Es Biru",
+            "introduce": "<color=#3D1400>Tenang saja, meski lapisan es di dalamnya mencair semua, otaknya tidak akan kemasukan air (bocor) kok.</color>",
+            "info": "<size=14><color=blue>Zombi padang salju yang menggunakan tumpukan balok es sebagai pelindung.\n\n<color=black>Ketahanan: </color><color=red>270 + 1100 (Tipe 1)</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color><color=red>Ketahanan dingin Level 1.</color></color></size>"
+        },
+        {
+            "theZombieType": 86,
+            "name": "Zombi Kaisar Pinguin",
+            "introduce": "<color=#3D1400>Pinguin zombi yang meluncur paling cepat akan diangkat menjadi Kaisar Pinguin. Tugas utamanya adalah merintis jalan; sebagian besar pinguin zombi hanya berani menginjak es padat yang sudah dilewatinya. Namun karena tidak pernah kekurangan makanan, berat badannya membuat ia hampir hanya bisa meluncur saat ada badai salju saja.</color>",
+            "info": "<size=14><color=blue>Raja di antara para pinguin, mampu menciptakan lingkungan yang sesuai untuk kawanannya.\n\n<color=black>Ketahanan: </color><color=red>1440</color>\n<color=black>Kecepatan: </color><color=red>Sedang-cepat, menjadi sangat cepat saat meluncur</color>\n<color=black>Fitur: </color><color=red>Ketahanan dingin Level 1. Bergerak dengan melompat; saat mendarat memberikan 500 damage sebanyak 2 kali pada tanaman di areanya. Jika di atas jalur es, ia meluncur melindas tanaman. Jika areanya adalah padang salju, saat muncul ia akan langsung memicu efek badai salju di lapangan, dan bisa meluncur tanpa jalur es selama badai berlangsung.</color></color></size>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zombi Penembak Kacang",
             "introduce": "<color=#3D1400>Kemampuan bertempur jarak jauhnya membuat tanaman ketakutan, tapi di sisi zombi pun terjadi kepanikan. Zombi yang bertarung di depannya selalu merasa cemas kalau-kalau mereka akan tertembak dari belakang oleh kawan sendiri.</color>",
@@ -659,6 +701,18 @@
             "name": "Zombi Kacang Matahari Kembar",
             "introduce": "<color=#3D1400>Dia memiliki penampilan lebih mewah, kepala lebih keras, dan kemampuan lebih kuat dari rekan-rekannya. Tapi yang paling ia banggakan—dan membuatnya memenangkan penghargaan zombi terunik—adalah fakta bahwa dia memiliki empat mata.</color>",
             "info": "<size=14><color=blue>Menggunakan sinar mataharimu untuk membatasi Damage yang diterimanya.\n\n<color=black>Ketahanan: </color><color=red>270 + 1100 (Tipe 1)</color>\n<color=black>Fitur: </color><color=red>Kebal serangan instan. Setiap 15 detik memotong 25 matahari. Saat diserang, ia mengonsumsi 5 matahari untuk membatasi Damage yang diterima menjadi hanya 20 poin saja.</color></color></size>"
+        },
+        {
+            "theZombieType": 130,
+            "name": "Zombi Kipli Gatling",
+            "introduce": "<color=#3D1400>Daya tembaknya yang luar biasa memungkinkan dia menghadapi tantangan dengan gaya paling keren kapan pun. Suka atau tidak, ini sudah menjadi ciri khasnya di mata para zombi. Di tempat umum, orang-orang tidak mengingat namanya, melainkan memanggilnya \"pria dengan penutup kepala aneh\", yang terkadang membuatnya merasa sedikit sakit hati.</color>",
+            "info": "<size=14><color=blue>Menembakkan banyak peluru Kipli untuk menyerang tanamanmu.\n\n<color=black>Damage Peluru: </color><color=red>20</color>\n<color=black>Ketahanan: </color><color=red>500</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color><color=red>Menembakkan empat butir Kipli setiap 1.5 detik.</color></color></size>"
+        },
+        {
+            "theZombieType": 131,
+            "name": "Zombi Kipli Gatling Es",
+            "introduce": "<color=#3D1400>Zombi Kipli Gatling Es sangat takut dingin; dia membungkus dirinya dengan jaket katun yang tebal. Dia terus-menerus mengeluarkan hawa dingin dari dalam tubuhnya dan menyatukannya ke dalam peluru Kipli yang ia tembakkan. Dia bahkan menolak memakan otak yang suhunya di bawah 20°C, namun tubuhnya tetap saja gemetar kedinginan.</color>",
+            "info": "<size=14><color=blue>Menembakkan banyak peluru Kipli Es untuk membekukan tanamanmu.\n\n<color=black>Damage Peluru: </color><color=red>20</color>\n<color=black>Ketahanan: </color><color=red>500</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color><color=red>Menembakkan empat butir Kipli Es setiap 1.5 detik. Memiliki peluang untuk membekukan tanaman; memberikan damage ×4 pada tanaman yang sedang dalam status beku.</color></color></size>"
         },
         {
             "theZombieType": 200,
@@ -931,6 +985,19 @@
             "info": "<size=14><color=blue>Mengendalikan roh dan senjata, memerintahkan keabadian abadi.\n\n<color=black>Ketahanan: </color><color=red>15000 x 4 Fase</color>\n<color=black>Fitur: </color><color=red>Zombi Pemimpin. Tidak bergerak. Memiliki 4 fase; setiap ganti fase akan meledakkan area sekitarnya. Dia akan mencuri alat pemain:\n1. Curi Palu: Menyerang tanaman HP tertinggi setiap 3 detik (Damage: </color><color=red>1000</color><color=red>).\n2. Curi Sarung Tangan: Memindahkan zombi ke depan 2 kotak.\n3. Curi Sekop: Menghapus tanaman dengan harga matahari terendah.\n4. Fase Akhir: Menggunakan ketiga kemampuan di atas sekaligus.</color></color></size>"
         },
         {
+            "theZombieType": 245,
+            "name": "UFO Mekanik Spesial",
+            "introduce": "<color=#3D1400>Setelah dimodifikasi, UFO Mekanik Spesial ini mengalami peningkatan signifikan dalam hal kekerasan, kekuatan, daya tahan baterai, hingga penilaian ramah lingkungan. Dr. Edgar menyebutnya sebagai kemajuan teknologi terhebatnya minggu lalu. \"Aku telah membuang semua cacat dari model lama,\" katanya, \"termasuk pilotnya.\"</color>",
+            "info": "<size=14><color=blue>Menyebarkan medan magnet untuk memblokir bantuan perlindungan tanaman dan memperkuat fisik zombi.\n\n<color=black>Ketahanan: </color><color=red>4500</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color><color=red>Tanaman yang berada tepat di bawahnya tidak dapat menerima bantuan perlindungan (shared damage) selama 1 detik; Zombi yang pernah berada di bawahnya mendapatkan koefisien Armor +100 (tidak dapat ditumpuk).</color></color></size>"
+        },
+        {
+            "theZombieType": 246,
+            "name": "Penembak Alpha",
+            "introduce": "<color=#3D1400>Dia adalah pemburu bayangan dari pasukan khusus zombi. Dia mengintai di sudut tergelap, membidik di saat paling hening, dan bertekad menjadi taring dari Alpha Squad pamungkas. Dia mendengarkan lagu peperangan, menyambung nadanya di ujung kabut, dan melodi akrab itu terus terngiang hingga detik terakhirnya.</color>",
+            "info": "<size=14><color=blue>Mengintai tanaman belakang dari kejauhan, bergerak sendiri, dan membunuh dalam enam tembakan.\n\n<color=black>Ketahanan: </color><color=red>3000 + 3000 (Tipe 1)</color>\n<color=black>Damage Jarak Jauh: </color><color=red>500</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color><color=red>Imun terhadap Pesona (Charm) dan Pukul Mundur (Knockback). Setelah bergerak ke kolom paling kanan peta, ia mulai menyerang tanaman non-carrier paling kiri di barisnya setiap ~2 detik (terpengaruh oleh perlindungan Labu dan perlambatan es). Setiap tembakan ke-6 memberikan instakill; hitungan diulang jika terkena efek pindah baris.</color></color></size>"
+        },
+        {
+            
             "theZombieType": 300,
             "name": "Zombi Pelajar Gatling Ceri (Level 1)",
             "introduce": "<color=#3D1400>\"Ada yang lebih penting dari matematika, seperti indahnya malam ini,\" gumamnya. Namun, dia harus menyelesaikan Sudoku yang sulit ini dulu.</color>",
@@ -1145,27 +1212,6 @@
             "name": "Kereta Trisula Martir",
             "introduce": "<color=#3D1400>Seorang prajurit elit trisula datang sebagai pengemudi baru. Dia pernah berburu monster salju dan bertarung dengan buaya. Sekarang dia di depanmu, sanggupkah kamu menghindari serangannya?</color>",
             "info": "<size=14><color=blue>Menumpahkan banyak trisula; trisula yang dibawa memiliki kemampuan meledak secara menyebar.\n\n<color=black>Ketahanan: </color><color=red>6000 + 6000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=red>Zombi Level 3. Memiliki fitur versi berat. Saat hancur, sisa trisula yang belum ditembakkan akan jatuh secara acak di area sekitar 3.5 kotak dan melukai tanaman.</color></color></size>"
-        },
-        {
-            "theZombieType": 80,
-            "name": "Zombi Pelompat Waktu",
-            "introduce": "<color=#3D1400>Mengandalkan kemampuan teleportasi uniknya, Zombi Pelompat Waktu dapat dengan mudah menantang ketinggian lompatan galah apa pun dan pasti berhasil melewati palangnya. Satu-satunya masalah yang membuatnya pening sekarang adalah dia sering mendarat di kursi penonton.</color>",
-            "info": "<size=14><color=blue>Menggunakan galah untuk membuka retakan ruang-waktu dan melompat ke tempat yang tak terduga.\n\n<color=black>HP: </color><color=red>720+1100 (Armor)</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Saat melompati tanaman, ia akan berteleportasi satu kotak secara acak ke arah atas, bawah, kiri, atau kanan.\n(2) Saat tereliminasi, menjatuhkan pecahan waktu.</color></indent></color></size>",
-            "cost": ""
-        },
-        {
-            "theZombieType": 245,
-            "name": "UFO Mekanik Spesial",
-            "introduce": "<color=#3D1400>Setelah dimodifikasi, UFO Mekanik Spesial ini memiliki peningkatan signifikan dalam hal ketahanan, kekuatan, durasi baterai, hingga peringkat ramah lingkungan. Dr. Edgar menyebutnya sebagai kemajuan teknologi terhebatnya minggu lalu. \"Aku sudah membuang semua kekurangan dari model lama,\" katanya, \"termasuk pilotnya.\"</color>",
-            "info": "<size=14><color=blue>Menyebarkan medan magnet untuk memblokir bantuan pertahanan tanaman dan memperkuat fisik zombi.\n\n<color=black>HP: </color><color=red>4500</color>\n<color=black>Kecepatan: </color><color=red>Sedang</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman yang berada di bawahnya tidak bisa menerima bantuan pertahanan (indestructible support) selama 1 detik.\n(2) Zombi yang pernah berada di bawahnya akan mendapatkan tambahan koefisien armor +100 (tidak dapat ditumpuk).</color></indent></color></size>",
-            "cost": ""
-        },
-        {
-            "theZombieType": 246,
-            "name": "Alpha Sniper",
-            "introduce": "<color=#3D1400>Dia adalah pemburu bayangan dari pasukan khusus zombi. Dia mengintai di sudut tergelap, membidik di momen paling sunyi, dan bertekad menjadi taring dari tim Ultimate Alpha. Dia mendengarkan lagu perang, menyambung nadanya di ujung kabut, melantunkan melodi familiar itu hingga detik terakhir hidupnya.</color>",
-            "info": "<size=14><color=blue>Mengincar tanaman barisan belakang dari jarak jauh, bergerak sendirian, dan membunuh dalam enam tembakan.\n\n<color=black>HP: </color><color=red>3000+3000 (Armor)</color>\n<color=black>Damage Jarak Jauh: </color><color=red>500</color>\n<color=black>Kecepatan: </color><color=red>Lambat</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek hipnotis dan pukul mundur (knockback).\n(2) Mulai menyerang setelah bergerak ke kolom paling kanan peta. Setiap sekitar 2 detik, menembak tanaman non-media paling kiri di barisnya (terpengaruh oleh perlindungan Pumpkin dan perlambatan efek dingin).\n(3) Setiap tembakan ke-6 akan memberikan instakill (pasti mati). Hitungan tembakan akan diulang (reset) jika ia berpindah baris.</color></indent></color></size>",
-            "cost": ""
         }
     ]
 }

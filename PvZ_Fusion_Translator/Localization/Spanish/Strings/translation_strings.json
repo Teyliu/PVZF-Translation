@@ -2180,7 +2180,7 @@
     "扫雷": "Buscanueces",
     "坚果血量/价格为周围8格子内雷的数量，如果开到地雷则游戏失败\n左键坚果时，如果周围已经有该坚果对应数量的标记，则自动打开剩余罐子\n可以使用极寒冰豆标记地雷，樱桃三叶草作为备用标记\n路灯花可以照亮周围8格的罐子，上面的数字为5x5范围内地雷的数量": "El coste/PS de la nuez es igual al número de minas en las 8 casillas circundantes. Abrir una mina resulta en una derrota instantánea.\nAl hacer clic izquierdo en una Nuez se abrirán automáticamente los jarrones restantes si los marcadores circundantes coinciden con su número.\nSeñala las minas con los Arandanos Gelidos; utiliza los Drons Cereza como marcadores de respaldo.\nPlanterna revela los jarrones en las 8 casillas circundantes; el número que se muestra es el recuento de minas dentro de un área de 5×5 dentro de un área de 5×5",
     "该格子已被标记，若想扫雷请移除上方的植物": "¡Esta casilla está marcada! Retire el marcador primero antes de abrirlo.!",
-    "不走寻常路": "El jarrón\n Sedentario ",
+    "不走寻常路": "El Jarrón\nSedentario ",
     "绝对火力": "Jarrónpocalipsis!",
     "有内鬼": "Jarrón de la suerte",
     "黑曜石罐子一定开出植物\n开出的植物获得无敌时间以及更多血量": "Se garantiza que el jarrón de obsidiana contiene una planta.\nLa planta que genera gana un tiempo de invulnerabilidad y PS extra.",

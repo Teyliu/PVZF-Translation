@@ -306,5 +306,12 @@
   "^: (\\d+)$": ": {0}",
   "^\n价格：(\\d+)$": "\nHarga: {0} ",
   "生命值：(\\d+)\n攻击力：(\\d+)\n攻击间隔：([^\\s]+)秒\n价格：(\\d+)\n冷却：([^\\s]+)秒\n暴击率：([^\\s]+)%\n暴击伤害：([^\\s]+)%\n伤害加成：([^\\s]+)%\n赋能：([^\\s]+)": "HP: {0}\nDamage: {1}\nJeda Serang: {2} dtk\nHarga: {3}\nCooldown: {4} dtk\nPeluang Kritis: {5}%\nDamage Kritis: {6}%\nNambah Damage: {7}%\nBuff Extra: {8}",
-  "出怪等级: (\\d+)\n出怪权重: (\\d+)": "Biaya Muncul: {0}\nPeluang Muncul: {1}"
+  "出怪等级: (\\d+)\n出怪权重: (\\d+)": "Biaya Muncul: {0}\nPeluang Muncul: {1}",
+  "^([^\\s:]+)\\+([^\\s:]+)": "{0} + {1}",
+  "^或 ([^\\s:]+)\\+([^\\s:]+)": "atau {0} + {1}",
+  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n([^\\s]+)\nup刷新倒计时：\n(\\d+)": "Jumlah Seri:\n{0}/{1}\nNaik Sekarang:\n{2}\nNaik dalam: \n{3}s",
+  "^旅行冒险 ([^\\s:]+)": "Petualangan Odisei: {0}",
+  "^第([^\\s:]+)拍$": "Beat: {0}",
+  "^歌曲: ([^\\s:]+)$": "Nama Lagu: {0}",
+  "已记录: (\\d+) 个音符": "Direkam: {0} Not"
 }

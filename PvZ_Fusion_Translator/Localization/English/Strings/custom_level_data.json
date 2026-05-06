@@ -35,6 +35,10 @@
         "name": "Odyssey Gacha: Vasebreaker",
         "startTip": ""
     },
+    "level_1774021232832_2o5a8h8md": {
+        "name": "Odyssey Gacha: Purgatory of Diamond",
+        "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
+    },
     "level_1774109191871_tfirdlefk": {
         "name": "The Gods: Through Time and Space",
         "startTip": ""
@@ -210,5 +214,13 @@
     "level_1777604901602_31yl7qzdo": {
         "name": "3.6.1 Mini-game <b><color=#FF0000>Ada</color><color=#FFE300>pta</color><color=#62FF00>bil</color><color=#1B00FF>ity</color></b> ",
         "startTip": "<color=#FF0000><b>【This level has set spawns and is quite hard! It's recommended to play on difficulty 4 or lower!】</color>\n<color=#FFE300>【This level has a large amount of changes, remember to view modifiers and check the stats of plants!】</color></b>\n<color=#62FF00><i>A good gardener is prepared for any situation.</i></color>\n\n\n\n\n\n\n\n\n\n<size=25>In this level, you control a plant that can infinitely revive and transform.\nTry switching to the appropriate form to deal with problematic zombies!</size>\n<size=16>Tip: If you start to get overwhelmed, try using instant plants! First purchases are half off~</size>\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777766039181_4jney3lxg": {
+        "name": "3.6.1 Mini-game Royal Gardener",
+        "startTip": "<size=18>Starting from wave 10, plants placed on Spike Pots must meet specific <color=yellow> AREA</color> requirements (exact conditions shown at wave 6)\n<color=yellow>[AREA]</color> is defined as: plants of the same type connect with each other to form a zone,\nand the number of tiles in that zone is its <color=yellow>AREA</color>.\n<color=#00FFFF>Tip: You can right-click any plant to view the area of the region it belongs to."
+    },
+    "level_1777864409435_65houbxs9": {
+        "name": "3.6.1 Mini-game Energy Crisis",
+        "startTip": "Look! It's an energy node — protect it!\nClick the node to generate energy (Obsidian Mine; the generation rate increases with each wave.\nThe packets in your slots are zombie bases: they cost no sun, but cannot attack and have very low HP.\nClick a base to spend the displayed sun and summon the corresponding zombie. Threepeaters can deploy in 3 lanes.\n</color></color></color></color></color></color></color><color=#FE0304><color=#FEf></color></color></color><color=#FE0304>Fusion is disabled. Slow-mode and fertilizer are not recommended. Recommended difficulty: 3 or below.</color>"
     }
 }

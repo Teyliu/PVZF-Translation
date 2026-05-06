@@ -281,10 +281,24 @@
             "cost": "<size=14>Biaya: <color=red>50</color>\nCooldown: <color=red>15 Detik</color></size>"
         },
         {
+            "seedType": 40,
+            "name": "Bom Salju",
+            "introduce": "<size=14><color=black>Demi bertahan hidup di padang salju yang dingin, Bom Salju berevolusi dengan menumbuhkan bulu putih di sekujur tubuhnya. Namun, bulu-bulu ini sering kali membuatnya merasa kesal; selain karena mudah rontok, tanaman lain juga tidak tahan untuk tidak mengelus kepalanya, seolah-olah sedang mengelus tanaman randa tapak liar.</color></size>",
+            "info": "<size=14><color=#0d266b>Meledakkan lingkaran bola salju untuk menghantam zombi secara langsung, sekaligus memberikan hawa dingin pada tanaman.\n\n<color=black>Damage: </color><color=red>600×7</color>\n<color=black>Karakteristik: </color><color=red>Bola salju yang mengarah ke kiri akan memberikan 1 damage pada tanaman dan membekukan tanaman dalam area 3×3; bola salju lainnya akan memberikan 600 damage pada zombi serta memberikan efek beku Level 1 selama 1 detik.</color></size>",
+            "cost": "<size=14>Biaya: <color=red>100</color>\nCooldown: <color=red>30 Detik</color></size>"
+        },
+        {
+            "seedType": 219,
+            "name": "Panah",
+            "introduce": "<size=14><color=black>Panah adalah bagian yang tak terpisahkan dari pengoperasian ban berjalan. Berkat keberadaannya, paket benih dapat terus dikirim dari belakang ke garis depan. Bahkan setelah dibongkar, ia tetap mempertahankan fungsinya untuk mengatur arah.</color></size>",
+            "info": "<size=14><color=#0d266b>Meminta para zombi untuk mengikuti arah petunjuk, jangan berdesakan, dan maju dengan tertib.\n\n<color=black>Karakteristik: </color>\n<indent=5%><color=red>(1) Tidak dapat dipindahkan dengan sarung tangan.\n\n(2) Setelah diklik, Anda dapat memilih Panah lain di baris atau kolom yang sama untuk dijadikan sebagai titik tujuan.\n\n(3) Membuat zombi yang menyentuhnya bergerak menuju titik tujuan yang telah ditentukan.</color></indent></size>",
+            "cost": ""
+        },
+        {
             "seedType": 220,
             "name": "Vas Emas",
             "introduce": "<color=#3D1400>Vas Emas adalah platform barter terbesar di antara para tanaman. Dia menemukan saluran perdagangan baru untuk barang-barang bekas yang tidak terpakai, dan tentu saja, memberikan kesempatan serta transportasi bagi tanaman yang ingin bepergian ke tempat-tempat acak.</color>",
-            "info": "<color=#0d266b>Mendaur ulang tanaman yang tidak diinginkan menjadi kejutan.\n\n<color=#3D1400>Syarat Buka: </color><color=red>Selesaikan [Pecahin Pot], [Pecahin Vas 2], [Reaksi Berantai]</color>\n<color=#3D1400>Fitur: \n</color><color=red>(1)Klik untuk memecahkan pot, dapatkan kartu tanaman sesuai dengan nilai energi yang tersimpan:\n1 poin: Tanaman Dasar\n2 poin: Tanaman Seri Normal\nMin. 3 poin: Tanaman Seri Super\nJika pernah mengisi Tanaman Seri King/Queen, pasti menjatuhkan kartu Tanaman Seri King/Queen</color>\n<color=#3D1400></color><color=red>(2)Saat energi kurang dari 3, gunakan Glove untuk memasukkan tanaman ke dalam guna mengisi energi. Tanaman Dasar/Normal/Super masing-masing memberikan 1/2/3 poin</color>",
+            "info": "<color=#0d266b>Mendaur ulang tanaman yang tidak diinginkan menjadi kejutan.\n\n<color=#3D1400>Syarat Buka: </color><color=red>Selesaikan [Pecahin Pot], [Pecahin Vas 2], [Reaksi Berantai]</color>\n<color=#3D1400>Fitur: \n</color><color=red>(1)Klik untuk memecahkan pot, dapatkan kartu tanaman sesuai dengan nilai energi yang tersimpan:\n1 poin: Tanaman Dasar\n2 poin: Tanaman Seri Normal\nMin. 3 poin: Tanaman Seri Super\nJika pernah mengisi Tanaman Seri Ultimate, pasti menjatuhkan kartu Tanaman Seri Ultimate</color>\n<color=#3D1400></color><color=red>(2)Saat energi kurang dari 3, gunakan Glove untuk memasukkan tanaman ke dalam guna mengisi energi. Tanaman Dasar/Normal/Super masing-masing memberikan 1/2/3 poin</color>",
             "cost": "Biaya: <color=red>200</color>\nWaktu Tunggu: <color=red>30 detik</color>"
         },
         {
@@ -323,13 +337,6 @@
             "cost": "<size=14>Biaya: <color=red>Gratis (Kartu Spesial)</color></size>"
         },
         {
-            "seedType": 40,
-            "name": "Kado",
-            "introduce": "<size=14><color=black>Kado selalu terlihat ceria dengan pita merahnya. Dia suka sekali membuat orang penasaran. \"Apa isinya?\" tanya Kacang. Kado hanya tersenyum misterius. Baginya, kejutan adalah bumbu terbaik dalam hidup.</color></size>",
-            "info": "<size=14><color=#0d266b>Memberikan tanaman atau bantuan acak saat dibuka.\n\n<color=black>Karakteristik: </color><color=red>Dapat ditanam di atas tanaman lain atau di lahan kosong. Saat dihancurkan atau dipicu, akan memunculkan tanaman fusi atau item bantuan secara acak untuk membantumu bertahan.</color></size>",
-            "cost": "<size=14>Biaya: <color=red>Sesuai Level</color>\nCooldown: <color=red>30 Detik</color></size>"
-        },
-        {
             "seedType": 233,
             "name": "Kado Es",
             "introduce": "<size=14><color=black>Kado Es sebenarnya adalah Kado biasa yang terlalu lama ditinggalkan di luar saat badai salju. Sekarang, pitanya membeku dan isinya jadi jauh lebih dingin dari biasanya. Zombi yang mencoba membukanya bakal dapet kejutan yang bikin beku!</color></size>",
@@ -347,7 +354,7 @@
             "seedType": 227,
             "name": "Penduplikat Diamond",
             "introduce": "<size=14><color=black>Seorang pedagang sejati tanpa pendirian yang bebas keluar masuk antara pihak tanaman dan zombie untuk perdagangan gelap. Baginya, nasibmu bukan urusannya, karena \"Barang yang sudah dibeli tidak dapat dikembalikan\".</color></size>",
-            "info": "<size=14><color=#0d266b>Memunculkan entitas acak setelah durasi singkat di medan tempur.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Super Random (Selesaikan Super Random: Diamond Imitation)</color>\n<color=black>Fitur Utama: </color><color=red>1.5 detik setelah muncul, menghasilkan tanaman, zombie, atau event acak.</color>\n<color=black>Detail Peluang: </color>\n<indent=5%><color=red>(1) Tanaman Seri King/Queen (10%), Surprise Box (50%).\n(2) Zombie Ultimate/Boss (20%), Zombie Normal (15%), Event Acak (5%).\n(3) Zombie yang muncul memiliki Ketahanan acak 0.8/1/1.2x.</color></indent>\n\n<color=black>Daftar Event: </color>\n<indent=5%><color=red>(1) +200 Matahari. (2) +1 Travel Entry. (3) Instakill radius 1.5 kotak. ④ 4000 Damage pada tanaman area 3x3. ⑤ Barisan bola api bergulir ke kanan.</color></indent></size>",
+            "info": "<size=14><color=#0d266b>Memunculkan entitas acak setelah durasi singkat di medan tempur.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Super Random (Selesaikan Super Random: Diamond Imitation)</color>\n<color=black>Fitur Utama: </color><color=red>1.5 detik setelah muncul, menghasilkan tanaman, zombie, atau event acak.</color>\n<color=black>Detail Peluang: </color>\n<indent=5%><color=red>(1) Tanaman Seri Ultimate (10%), Surprise Box (50%).\n(2) Zombie Ultimate/Boss (20%), Zombie Normal (15%), Event Acak (5%).\n(3) Zombie yang muncul memiliki Ketahanan acak 0.8/1/1.2x.</color></indent>\n\n<color=black>Daftar Event: </color>\n<indent=5%><color=red>(1) +200 Matahari. (2) +1 Travel Entry. (3) Instakill radius 1.5 kotak. ④ 4000 Damage pada tanaman area 3x3. ⑤ Barisan bola api bergulir ke kanan.</color></indent></size>",
             "cost": "<size=14>Biaya: <color=red>25</color>\nCooldown: <color=red>15 Detik</color></size>"
         },
         {
@@ -431,7 +438,7 @@
             "seedType": 240,
             "name": "Padi Obsidian",
             "introduce": "<size=14><color=black>Patung gandum ini konon hasil dari permainan menyambung bangunan para tanaman. Dia merasa senang dianggap sebagai simbol misterius di taman. Siapa yang tidak suka jika citra dirinya dipajang di mana-mana?</color></size>",
-            "info": "<size=14><color=#0d266b>Berubah menjadi tanaman Ultimate acak secara berkala.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Travel</color>\n<color=black>Fitur Khusus: </color><color=red>Setiap 30 detik, berubah menjadi Tanaman Seri King/Queen acak (kecuali Greedy Shroom).</color></size>",
+            "info": "<size=14><color=#0d266b>Berubah menjadi tanaman Ultimate acak secara berkala.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Travel</color>\n<color=black>Fitur Khusus: </color><color=red>Setiap 30 detik, berubah menjadi tanaman seri Ultimate acak (kecuali Greedy Shroom).</color></size>",
             "cost": "<size=14>Biaya: <color=red>500</color>\nCooldown: <color=red>70 Detik</color></size>"
         },
         {
@@ -573,6 +580,20 @@
             "introduce": "<size=14><color=black>Berasal dari jurang terdalam, dia menguasai ilusi hampa yang mampu menjinakkan monster terkuat. Di sisi lain, dia sebenarnya adalah kolektor berat action figure zombie.</color></size>",
             "info": "<size=14><color=#0d266b>Memanggil pemimpin zombie yang telah terpesona untuk bertarung di pihakmu.\n\n<color=black>Fitur Utama: </color><color=red>1.5 detik setelah muncul, memanggil satu dari tiga pemimpin zombie secara acak:</color>\n<indent=5%><color=red>(1) Obsidian Gargantuar: Memberikan 90% pengurangan damage bagi seluruh tanaman.\n(2) General Black-Olive: Memulihkan HP tanaman di seluruh area setiap 3 detik.\n(3) Professor Z: Menembakkan bom ceri setiap 0.1 detik dan mengubah zombie kecil menjadi pasukan zombie kita.</color></indent></size>",
             "cost": "<size=14>Biaya: <color=red>0</color>\nCooldown: <color=red>--</color></size>"
+        },
+        {
+            "seedType": 306,
+            "name": "Jamur Semprot Bayangan",
+            "introduce": "<size=14><color=black>Ia tercipta dari sisa-sisa abu saat alam semesta pertama kali terbentuk, berselimut kegelapan dan berbantal bayang-bayang. Tidur panjangnya tidak mengikis kekuatannya; siapa pun lawannya, ia hanya membalas dengan tatapan meremehkan. Di waktu senggang, ia juga sangat teliti merawat rambut indahnya.</color></size>",
+            "info": "<size=14><color=#0d266b>Menyemprotkan kabut racun dan duri beracun untuk mengikis zombi dengan cepat, menjadi semakin kuat seiring berjalannya pertempuran.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Misteri</color>\n<color=black>Damage: </color><color=red>100×2/0.5 detik</color>\n<color=black>Karakteristik: </color>\n<indent=5%><color=red>(1) Saat menyerang, menyemprotkan kabut ke seluruh baris di depannya dan menembakkan 2 proyektil dari pusaran.\n(2) Kabut: Penetrasi tak terbatas, memberikan 1 efek 'Garlic' dan racun mematikan. Hanya memberikan damage 3% dari total HP zombi jika HP zombi di bawah 50%.\n(3) Proyektil: Penetrasi 2 kali, memberikan efek 'Garlic' dan racun pada area kecil. Menghasilkan damage tertinggi antara damage racun atau damage proyektil.\n(4) Setelah menyerang 15/30 kali, frekuensi serangan akan meningkat di setiap tahapnya.</color></indent></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 307,
+            "name": "Kacang Matahari Kembar Utama",
+            "introduce": "<size=14><color=black>\"Seperti apa rupa taman di masa depan?\" Demi melihat masa depan, Kacang Matahari Kembar dari masa lalu menciptakan alat pemindah ruang-waktu bertenaga cahaya matahari untuk datang ke masa kini. Awalnya ia hanya berencana melihat-lihat lalu pulang, namun setelah melihat dirinya yang menghancurkan laboratorium, dirinya yang bertubuh zombi, dan dirinya yang melewatkan pesta es krim di pantai, ia memutuskan untuk tetap di sini dan membantu.</color></size>",
+            "info": "<size=14><color=#0d266b>Mendapatkan matahari saat menerima damage. Dapat secara manual mengonsumsi matahari untuk memulihkan HP dan memanggil Kacang Matahari raksasa di depannya.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Misteri</color>\n<color=black>Ketahanan: </color><color=red>4000</color>\n<color=black>Fitur Khusus: </color>\n<indent=5%><color=red>(1) Saat terluka, ia kebal terhadap damage tersebut, namun menerima damage tetap sebesar 50 dan menjatuhkan 15 matahari.\n(2) Mengetuk tanaman akan mengonsumsi 500 matahari untuk memulihkan HP sepenuhnya (1x lipat ketahanan) dan menciptakan Giant Kacang Matahari di petak depannya.</color></indent></size>",
+            "cost": ""
         },
         {
             "seedType": 350,
@@ -765,7 +786,7 @@
         },
         {
             "seedType": 908,
-            "name": "Kipli Gatling Bocil Es",
+            "name": "Bocil Gatling Es",
             "introduce": "<size=14><color=black>Bocil-bocil yang dulu ingin ikut perang kini sudah jadi veteran tangguh yang siap menuntaskan tugas apa pun.</color></size>",
             "info": "<size=14><color=#0d266b>Menembakkan 4 peluru duri es per putaran.\n\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Bocil + Jamur Es atau Kipli Gatling Es + Jamur Bocil</color>\n<color=black>Damage: </color><color=red>20×4 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Penetrasi 2x & 5 poin beku. Damage x4 ke zombie yang beku atau kebal dingin lv 0.</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Tak Terhentikan: Peluru penetrasi tak terbatas. Hit pada zombie membelah peluru (±15°) dengan peningkatan damage.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Beku Sampai Jantung: Damage ke zombie beku x12; Buka sub-spesies Matahari.</color></indent></color></size>",
             "cost": null
@@ -844,7 +865,7 @@
             "seedType": 919,
             "name": "Trikipli Phoenix",
             "introduce": "<color=#3D1400>Tak ada yang tahu apakah api benar-benar membawa kehidupan baru. Tanaman lain hanya menjadi abu, tapi dia menjadi legenda baru. “Aku harus berhasil demi mereka.”</color>",
-            "info": "<size=14><color=#0d266b>Lahir kembali dari abu phoenix.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Tiga Baris Arang + Cabai</color>\n<color=black>Damage: </color><color=red>160×3 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menembakkan kacang api phoenix yang menembus 2x dan memberikan status Overheat (Red-hot).\n(2) Saat muncul dan mati, melepaskan efek Jalapeno di setiap baris seluruh lapangan.</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Amarah Membara: Peluru api memberikan status Overheat; Bonus damage Overheat +100%.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembusan Seratus Langkah: Peluru phoenix penetrasi tak terbatas & bonus damage ledakan. Buka sub-spesies Kipli Phoenix Terbang.</color></indent></color></size>",
+            "info": "<size=14><color=#0d266b>Lahir kembali dari abu phoenix.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Tiga Baris Arang + Cabai</color>\n<color=black>Damage: </color><color=red>160×3 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menembakkan kacang api phoenix yang menembus 2x dan memberikan status Overheat (Red-hot).\n(2) Saat muncul dan mati, melepaskan efek Jalapeno di setiap baris seluruh lapangan.</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Amarah Membara: Peluru api memberikan status Overheat; Bonus damage Overheat +100%.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembusan Seratus Langkah: Peluru phoenix penetrasi tak terbatas & bonus damage ledakan. Buka sub-spesies Trikipli Phoenix Terbang.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -905,8 +926,8 @@
         },
         {
             "seedType": 928,
-            "name": "King Jamur Halusinasi",
-            "introduce": "<color=#3D1400>Bagaimana dia bisa membuat raksasa tunduk? Di tengah keraguan, King Jamur Halusinasi duduk di menara tinggi sambil meminum nektar mimpi: “Musnah? Tidak, aku hanya membuat mereka lahir kembali dalam ilusi.”</color>",
+            "name": "Ratu Jamur Halusinasi",
+            "introduce": "<color=#3D1400>Bagaimana dia bisa membuat raksasa tunduk? Di tengah keraguan, Ratu Jamur Halusinasi duduk di menara tinggi sambil meminum nektar mimpi: “Musnah? Tidak, aku hanya membuat mereka lahir kembali dalam ilusi.”</color>",
             "info": "<size=14><color=#0d266b>Menghipnotis zombie dalam area luas dan memberikan efek nuklir saat mereka mati.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Jamur Nuklir Es + Jamur Nuklir</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Melepaskan efek nuklir tanpa damage yang menghipnotis zombie di area luas. Zombie yang terhipnotis akan meledak saat mati/keluar layar (tanpa meninggalkan lubang).</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Fusi Nuklir Terkendali: Semua efek nuklir tidak meninggalkan lubang. Buka sub-spesies Jamur Serakah.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Kekuatan Massa: Saat meledak panggil 3 Gargantuar terpesona. Tiap zombie yang terhipnotis akan memanggil Mobil Es terpesona di sampingnya.</color></indent></color></size>",
             "cost": null
         },
@@ -968,7 +989,7 @@
         },
         {
             "seedType": 937,
-            "name": "Ratu Payung Lampu",
+            "name": "King Payung Lampu",
             "introduce": "<color=#3D1400>Mantan kepala panti asuhan Plant, daunnya yang lebar selalu jadi mainan terbaik anak-anak. “Oh? Mau coba permen kapas ini, Nak?”</color>",
             "info": "<size=14><color=#0d266b>Payung yang menembakkan laser dan bisa menyembuhkan tanaman sekitar.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Payung Lampu + Kaktus Lampu</color>\n<color=black>Ketahanan: </color><color=red>1000 | Damage: 300 / detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Prioritas target udara (damage x3 ke udara).\n(2) Menyerang hingga 4 target dengan laser (jangkauan baris tergantung level cahaya).\n(3) Mengonsumsi energi untuk menyembuhkan 2 tanaman di area 3x3 tiap 2 detik.\n(4) Jika ada Payung Kunang-Kunang di kotak atas/bawah, laser akan menyatu: melacak seluruh layar, damage x2, target naik jadi 6, dan memicu ledakan area tiap 6 detik.</color></indent></color></size>",
             "cost": null
@@ -977,7 +998,7 @@
             "seedType": 938,
             "name": "King Jamur Serakah",
             "introduce": "<color=#3D1400>“Ketakutan dan keraguan itu kecil dibanding keserakahan,” ucapnya sambil melempar koin ke jurang. Dia ahli memanipulasi nafsu dasar manusia. “Keluar lah, aku tahu kau bersembunyi di sana.”</color>",
-            "info": "<size=14><color=#0d266b>Memanggil bos zombie dan zombie Ultimate yang memiliki hadiah tinggi. Risiko tinggi, hadiah tinggi!\n<color=blue>Varian King Jamur Halusinasi</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Gacha skill di Mode Travel</color>\n<color=black>Resep Konversi: </color><color=red>Jamur Nuklir ←→ Bunga Koin (Marigold)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memanggil bos spesifik (seperti Profesor Z atau Ratu Salju) dan zombie Ultimate di tiap kolom.\n(2) Memberikan banyak Matahari, koin, poin skor (1500), dan kartu kotak hadiah saat bos/ultimate zombie mati.</color></indent></color></size>",
+            "info": "<size=14><color=#0d266b>Memanggil bos zombie dan zombie Ultimate yang memiliki hadiah tinggi. Risiko tinggi, hadiah tinggi!\n<color=blue>Varian Ratu Jamur Halusinasi</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Gacha skill di Mode Travel</color>\n<color=black>Resep Konversi: </color><color=red>Jamur Nuklir ←→ Bunga Koin (Marigold)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memanggil bos spesifik (seperti Profesor Z atau Ratu Salju) dan zombie Ultimate di tiap kolom.\n(2) Memberikan banyak Matahari, koin, poin skor (1500), dan kartu kotak hadiah saat bos/ultimate zombie mati.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -1003,9 +1024,9 @@
         },
         {
             "seedType": 942,
-            "name": "Pasukan Bocil Besi",
-            "introduce": "<color=#3D1400>Ketakutan Kipli Besi Bocil jadi nyata: mereka benar-benar menempel pada Magnet dan tidak bisa dilepas. Tapi berkat itu, mereka mendapat upgrade perlengkapan menjadi “Pasukan Baja” sejati.</color>",
-            "info": "<size=14><color=#0d266b>Pasukan Bocil Besi Bocil multifungsi: penembak jitu dan pertahanan udara.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Besi Bocil x3 + Magnet</color>\n<color=black>Ketahanan: </color><color=red>6000</color>\n<color=black>Jenis Serangan: </color>\n<indent=5%><color=red>(1) Gatling: 80x4, efek pukul mundur & damage tambahan pada armor.\n(2) Anti-Udara: 240/2 detik, target udara saja, damage ledakan area.\n(3) Penembak Jitu: 400/3 detik, target seluruh layar. Tiap tembakan ke-6 memberikan Headshot (1 juta damage).</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Tembakan Kepala: Jeda sniper jadi 7.5 detik tapi tiap tembakan selalu Headshot.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembak!: Damage ledakan anti-udara x3 dan jarak pukul mundur x2.</color></indent></color></size>",
+            "name": "Pasukan Kipli Ember",
+            "introduce": "<color=#3D1400>Ketakutan Kipli Ember Bocil jadi nyata: mereka benar-benar menempel pada Magnet dan tidak bisa dilepas. Tapi berkat itu, mereka mendapat upgrade perlengkapan menjadi “Pasukan Baja” sejati.</color>",
+            "info": "<size=14><color=#0d266b>Pasukan Kipli Ember Bocil multifungsi: penembak jitu dan pertahanan udara.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Ember Bocil x3 + Magnet</color>\n<color=black>Ketahanan: </color><color=red>6000</color>\n<color=black>Jenis Serangan: </color>\n<indent=5%><color=red>(1) Gatling: 80x4, efek pukul mundur & damage tambahan pada armor.\n(2) Anti-Udara: 240/2 detik, target udara saja, damage ledakan area.\n(3) Penembak Jitu: 400/3 detik, target seluruh layar. Tiap tembakan ke-6 memberikan Headshot (1 juta damage).</color></indent>\n\n<color=black>Skill 1: </color>\n<indent=5%><color=red>Tembakan Kepala: Jeda sniper jadi 7.5 detik tapi tiap tembakan selalu Headshot.</color></indent>\n<color=black>Skill 2: </color>\n<indent=5%><color=red>Tembak!: Damage ledakan anti-udara x3 dan jarak pukul mundur x2.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -1137,8 +1158,8 @@
         {
             "seedType": 961,
             "name": "King Kipas Magnet",
-            "introduce": "<color=#3D1400>Setelah memasang perangkat levitasi magnetik terbaru, Pasukan Bocil Besi akhirnya menjadi tim elit yang bisa menyerang di mana saja. Meskipun karena keterbatasan teknologi mereka tidak bisa lagi membawa senjata berat dan harus kembali menggunakan senapan mesin, hal itu tidak memadamkan tekad mereka untuk membasmi zombie dengan bebas.</color>",
-            "info": "<size=14><color=#0d266b>Pasukan Jamur Kipli Besi dengan mobilitas tinggi yang bisa dikerahkan ke seluruh lapangan.\n<color=blue>Varian Pasukan Bocil Besi</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Ambil skill di Mode Travel</color>\n<color=#3D1400>Resep Konversi: </color><color=red>Pasukan Bocil Besi + Kipas Magnet</color>\n<color=black>Ketahanan: </color><color=red>6000</color>\n<color=black>Damage: </color><color=red>80×3</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Klik manual untuk memindahkan unit ke kotak mana pun di lapangan.\n(2) Menembakkan peluru besi setiap 1/6 detik yang memberikan efek pukul mundur.\n(3) Memberikan damage tambahan berdasarkan sisa HP pelindung zombie.</color></indent></color></size>",
+            "introduce": "<color=#3D1400>Setelah memasang perangkat levitasi magnetik terbaru, Pasukan Kipli Ember akhirnya menjadi tim elit yang bisa menyerang di mana saja. Meskipun karena keterbatasan teknologi mereka tidak bisa lagi membawa senjata berat dan harus kembali menggunakan senapan mesin, hal itu tidak memadamkan tekad mereka untuk membasmi zombie dengan bebas.</color>",
+            "info": "<size=14><color=#0d266b>Pasukan Jamur Kipli Ember dengan mobilitas tinggi yang bisa dikerahkan ke seluruh lapangan.\n<color=blue>Varian Pasukan Kipli Ember</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Ambil skill di Mode Travel</color>\n<color=#3D1400>Resep Konversi: </color><color=red>Pasukan Kipli Ember + Kipas Magnet</color>\n<color=black>Ketahanan: </color><color=red>6000</color>\n<color=black>Damage: </color><color=red>80×3</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Klik manual untuk memindahkan unit ke kotak mana pun di lapangan.\n(2) Menembakkan peluru besi setiap 1/6 detik yang memberikan efek pukul mundur.\n(3) Memberikan damage tambahan berdasarkan sisa HP pelindung zombie.</color></indent></color></size>",
             "cost": null
         },
         {
@@ -1220,7 +1241,7 @@
         },
         {
             "seedType": 973,
-            "name": "King Bawang Kelinci",
+            "name": "Bawang Kelinci",
             "introduce": "<color=#3D1400>“Kami adalah tim sihir dari Menara Sihir Musim Dingin. Lihat syal bulu kami, tidak ada yang lebih hangat dari ini, bahkan sihir petir sekalipun tidak bisa menandinginya.” Pasukan Bawang Kelinci menggoyangkan telinga panjang mereka... Mengenai kenapa bawang bombay punya telinga kelinci? Pertanyaan ini membingungkan para ahli biologi, tapi mereka sendiri tampak sangat senang dengan kondisi ini.</color>",
             "info": "<size=14><color=#0d266b>Menghimpun kekuatan tim untuk melepaskan petir berantai dan membantu Ekor Kucing Ajaib.\n<color=blue>Varian Ekor Kucing Ajaib</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Ambil skill di Mode Travel</color>\n<color=#3D1400>Resep Konversi: </color><color=red>Ekor Kucing ←→ Bawang Bombay Petir</color>\n<color=black>Damage: </color><color=red>100 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Dapat mengatur satu unit sebagai Kapten (efek petir di kepala) untuk melepaskan petir berantai ke 5 zombie.\n(2) Setiap anggota tim (bukan kapten) akan meningkatkan damage kapten sebesar 1.5x.\n(3) Saat petir membunuh zombie, memicu Ekor Kucing Ajaib untuk memanggil drone bantuan.</color></indent></color></size>",
             "cost": null
@@ -1234,9 +1255,9 @@
         },
         {
             "seedType": 975,
-            "name": "Ratu Lampu Kristal",
-            "introduce": "<color=#3D1400>Dingin adalah nama tengah bagi Ratu Lampu Kristal. Dia menyebut dirinya sebagai pembalas dendam, mengunci setiap zombie yang berdosa dengan presisi dan menembakkan panah tajam bernama 'Penghakiman'. Meskipun sifat dinginnya membuat bibit tanaman lain ketakutan, dia tetap rutin menyumbang ke panti asuhan Plant selama sepuluh tahun. Bangunan itu selalu mengingatkannya pada kehidupan bahagia yang dulu pernah ia miliki.</color>",
-            "info": "<size=14><color=#0d266b>Memancarkan cahaya dingin dan menembakkan duri es pelacak. Dapat mengonsumsi energi untuk beralih ke mode fokus damage tinggi.\n<color=blue>Sub-spesies Lampion Peri</color>\n\n<color=black>Syarat: </color><color=red>Dapatkan kartu di Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Ratu Payung Lampu ↔ Jamur Es</color>\n<color=black>Damage: </color><color=red>80 / 0.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki fungsi dasar Lampu.\n(2) Mengunci zombie terdekat (bisa target udara). Damage duri es meningkat 2x pada target beku (Chill) dan 4x pada target beku total (Frozen).\n(3) Mode Tersebar: Menyerang 6 target sekaligus. Mengumpulkan 1 energi per serangan. Saat mencapai 40 poin, otomatis pindah ke Mode Fokus.\n(4) Mode Fokus: Menyerang 1 target saja. Mengonsumsi 2 energi per serangan untuk meningkatkan damage peluru sebesar 6x lipat.</color></indent></color></size>",
+            "name": "King Lampu Kristal",
+            "introduce": "<color=#3D1400>Dingin adalah nama tengah bagi King Lampu Kristal. Dia menyebut dirinya sebagai pembalas dendam, mengunci setiap zombie yang berdosa dengan presisi dan menembakkan panah tajam bernama 'Penghakiman'. Meskipun sifat dinginnya membuat bibit tanaman lain ketakutan, dia tetap rutin menyumbang ke panti asuhan Plant selama sepuluh tahun. Bangunan itu selalu mengingatkannya pada kehidupan bahagia yang dulu pernah ia miliki.</color>",
+            "info": "<size=14><color=#0d266b>Memancarkan cahaya dingin dan menembakkan duri es pelacak. Dapat mengonsumsi energi untuk beralih ke mode fokus damage tinggi.\n<color=blue>Sub-spesies Lampion Peri</color>\n\n<color=black>Syarat: </color><color=red>Dapatkan kartu di Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>King Payung Lampu ↔ Jamur Es</color>\n<color=black>Damage: </color><color=red>80 / 0.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki fungsi dasar Lampu.\n(2) Mengunci zombie terdekat (bisa target udara). Damage duri es meningkat 2x pada target beku (Chill) dan 4x pada target beku total (Frozen).\n(3) Mode Tersebar: Menyerang 6 target sekaligus. Mengumpulkan 1 energi per serangan. Saat mencapai 40 poin, otomatis pindah ke Mode Fokus.\n(4) Mode Fokus: Menyerang 1 target saja. Mengonsumsi 2 energi per serangan untuk meningkatkan damage peluru sebesar 6x lipat.</color></indent></color></size>",
             "cost": ""
         },
         {
@@ -1278,7 +1299,7 @@
             "seedType": 981,
             "name": "King Nuklir Es",
             "introduce": "<color=#3D1400>King Nuklir Es benar-benar definisi dari \"Nuklir Musim Dingin\". Namun, meski tubuhnya terbuat dari es, dia sangat menyukai musim panas, terutama berjalan-jalan di pantai menikmati sinar matahari. Dia sangat kesal karena dirinya tidak bisa menjadi cokelat (tanning).</color>",
-            "info": "<size=14><color=#0d266b>Membekukan ruang dan waktu serta menciptakan aliran es untuk melenyapkan musuh. Gunakan kartu Doom-shroom untuk meningkatkan level energi.\n<color=blue>Subspesies King Semangka Es</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Semangka Es ←→ Jamur Nuklir</color>\n<color=black>Damage: </color><color=red>3600 (Area/Abu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tidak meledak secara otomatis.\n(2) Setelah diklik, pilih lokasi ledakan. Saat meledak, memicu efek Doom-shroom dan status teleportasi 30 detik. Menghentikan sementara stage, menciptakan 5 set gerbang dimensi vertikal selama 10 detik di pusat ledakan.\n(3) Energi awal level 1. Gunakan kartu Doom-shroom padanya untuk menaikkan level:\n- Lv.1: 1 aliran es antar gerbang, membekukan stage 1 detik.\n- Lv.2: Damage ledakan x3, 2 aliran es, membekukan stage 3 detik.\n- Lv.3: Damage ledakan x3, 5 aliran es, membekukan stage 10 detik. Memberikan 10x damage ke zombie terkuat di pusat ledakan dan mengembalikan 1 kartu King Semangka Es. Tahap ini tidak stabil dan akan meledak dalam 10 detik.\n(4) Aliran es memberikan 10 damage setiap 0.02 detik, efek dingin, dan menambah durasi tunggu teleportasi 1 detik (bisa target udara). Saat gerbang hilang, memberikan damage area radius 1.5 kotak dan efek beku 10 detik.</color></indent></color></size>",
+            "info": "<size=14><color=#0d266b>Membekukan ruang dan waktu serta menciptakan aliran es untuk melenyapkan musuh. Gunakan kartu Doom-shroom untuk meningkatkan level energi.\n<color=blue>Subspesies King Semangka Es</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Semangka Es ←→ Jamur Nuklir</color>\n<color=black>Damage: </color><color=red>3600 (Area/Abu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tidak meledak secara otomatis.\n(2) Setelah diklik, pilih lokasi ledakan. Saat meledak, memicu efek Doom-shroom dan status teleportasi 30 detik. Menghentikan sementara stage, menciptakan 5 set gerbang dimensi vertikal selama 10 detik di pusat ledakan.\n(3) Energi awal level 1. Gunakan kartu Doom-shroom padanya untuk menaikkan level:\n- Lv.1: 1 aliran es antar gerbang, membekukan stage 1 detik.\n- Lv.2: Damage ledakan x3, 2 aliran es, membekukan stage 3 detik.\n- Lv.3: Damage ledakan x3, 5 aliran es, membekukan stage 10 detik. Memberikan 10x damage ke zombie terkuat di pusat ledakan dan mengembalikan 1 kartu Ultimate Ice God Melon. Tahap ini tidak stabil dan akan meledak dalam 10 detik.\n(4) Aliran es memberikan 10 damage setiap 0.02 detik, efek dingin, dan menambah durasi tunggu teleportasi 1 detik (bisa target udara). Saat gerbang hilang, memberikan damage area radius 1.5 kotak dan efek beku 10 detik.</color></indent></color></size>",
             "cost": ""
         },
         {
@@ -1297,9 +1318,51 @@
         },
         {
             "seedType": 984,
-            "name": "King Kipli Dobel",
+            "name": "King Kipli Dimensi Dobel",
             "introduce": "<color=#3D1400>\"Waktu sungguh aneh. Sedetik lalu aku adalah penjaga terakhir di rumput yang hancur, sedetik kemudian seolah pertempuran itu tak pernah terjadi, dan kita melawan zombie yang sama dengan strategi berbeda.\" Kepala depan punya banyak cerita, sementara kepala belakang hanya menghela napas, \"Kenapa aku selalu ditaruh di belakang...\"</color>",
             "info": "<size=14><color=#0d266b>Menerima, menyuplai, dan memanfaatkan energi cahaya untuk melenyapkan target dalam ruang dan waktu.\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Fusion: </color><color=red>Kipli Lampu Dobel + Kipli Dimensi</color>\n<color=black>Damage: </color><color=red>40</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Mendapat energi cahaya setiap 0.5 detik (maks 1000). Konsumsi saat menyerang/menyuplai adalah (1+energi x 10%).\n(2) Bisa menyuplai energi ke Ultimate Lampu Arus di depannya, atau Lampu/Trilampu Kaya (tidak boleh bersebelahan). Klik diri sendiri untuk menyerang zombie.\n(3) Menyuplai energi setiap 0.1 detik, menambah energi target sebesar 10% damage-nya (meningkat sesuai energi yang dikonsumsi).\n(4) Menyerang setiap 0.2 detik dengan bonus damage dari energi dan efek teleportasi (seperti Super-time Kipli). Laser diperkuat jika ada Lampu/Trilampu Kaya dalam area 3x3.</color></indent>\n<color=black>Skill 1: </color><color=red>Layar Energi: Batas energi naik jadi 2000 (Lv.2 jadi 10000).</color>\n<color=black>Skill 2: </color><color=red>Kompensasi Energi: Efisiensi suplai +50%. Jika energi target <1000, efisiensi +250%.</color>\n<color=black>Sinergi: </color><color=red>Supernova: Bisa menyuplai energi ke Lampu di baris lain. Batas energi Lampu naik jadi 100rb. Saat energi >10rb, masuk mode Super-charge. Saat maksimal, akan runtuh jadi singularitas yang menghisap semua zombie non-boss dan meledak 100x damage abu ke seluruh layar.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 985,
+            "name": "King Kipli Gatling Rugbi Hitam",
+            "introduce": "<color=#3D1400>Sebagai wakil ketua Federasi Ragbi Internasional, King Kipli Gatling Rugbi Hitam dikenal sangat tegas. Setiap malam ia begadang untuk memoles peluru dalam jumlah besar, siap untuk menumpahkannya di lapangan keesokan harinya guna meluapkan amarahnya kepada para peserta yang sama sekali tidak mengerti Ragbi.</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan enam peluru penghambat sekaligus, dan memiliki peluang untuk menumpahkan hujan peluru bagaikan badai baja.\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Resep Fusi: </color><color=red>Kipli Gatling Rugbi + Kipli Ember</color>\n<color=black>Ketahanan: </color><color=red>4000</color>\n<color=black>Damage: </color><color=red>80×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman Tipe Besi.\n(2) Setiap serangan memiliki peluang 2% memicu Ultimate Skill: Memulihkan HP sepenuhnya, dan selama 5 detik, menembakkan 3 peluru besi Ragbi setiap 0.02 detik secara menyebar.\n(3) Peluru memiliki karakteristik Kipli Ember dan kacang Ragbi (memberikan efek pukul mundur dan damage tambahan pada armor musuh; membuat zombie Ragbi merah berbalik arah dan kabur).</color></indent>\n<color=black>Skill 1: </color><color=red>Ledakan Kecepatan: Peluang Ultimate Skill seri Super Gatling Kipli dan tanaman ini meningkat 3x lipat; Seri Sniper Kipli akan langsung menyerang setelah melakukan headshot.</color>\n<color=black>Skill 2: </color><color=red>Tembakan Presisi: Damage Ultimate Skill meningkat 2x lipat dan tidak lagi menyebar; Jumlah serangan yang dibutuhkan seri Sniper Kipli untuk headshot berkurang 3.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 986,
+            "name": "King Kipli Sniper Waktu",
+            "introduce": "<color=#3D1400>Meskipun King Kipli Sniper Waktu selalu memiliki teropong bidik di senjatanya, ia sebenarnya tidak pernah menggunakannya. \"Aku tidak butuh benda itu, karena aku tidak membidik target di depanku. Yang aku bidik dan bunuh adalah masa lalu target yang lemah, sehingga menciptakan masa kini di mana ia sudah mati. Dan di masa depan yang aku lihat,\" ia tersenyum, \"aku akan selalu menang.\"</color>",
+            "info": "<size=14><color=#0d266b>Menggunakan bidikan sniper untuk menghentikan ruang-waktu target, dan meluncurkan serangan kombo dengan bantuan sniper lainnya.\n<color=blue>Subspesies King Kipli Gatling Rugbi Hitam</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Kipli Gatling Rugbi Hitam + Fragmen Dimensi</color>\n<color=black>Damage: </color><color=red>900 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Mencari target di seluruh area depan, dapat menyerang target udara.\n(2) Serangan memberikan status teleportasi selama 4 detik. Memberikan efek yang sama dengan Space-Time Kipli pada Zombie Leader atau zombie dalam status teleportasi. Setiap serangan ke-6 memberikan Headshot dengan damage 1 juta.\n(3) Setiap kali tanaman seri Sniper Kipli lainnya menyerang 8 kali, ia akan langsung meluncurkan 6 serangan tambahan.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 987,
+            "name": "King Gatling Es Bocil",
+            "introduce": "<color=#3D1400>Setelah bertahun-tahun menjalani kehidupan militer, para anggota unit King Gatling Es Bocil telah dipromosikan menjadi perwira dari sebuah legiun besar. \"Mungkin di mata prajurit lain, sosok kami sudah terlihat sangat gagah dan tinggi.\" Kenyataannya, tinggi badan mereka tetap saja mungil.</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan kerucut es yang menembus zombi; semakin kuat hawa dingin pada zombi, semakin besar damage yang diterima.\n<color=blue>Bentuk Evolusi Bocil Gatling Es</color>\n\n<color=black>Syarat: </color><color=red>Kumpulkan kedua Skill bentuk dasar</color>\n<color=black>Resep Fusi: </color><color=red>Bocil Gatling Es + Kipli</color>\n<color=black>Damage: </color><color=red>40×4 / 1.5 detik</color>\n<color=black>Karakteristik: </color><color=red>Rendah, bisa ditanam rapat (密植)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menembus 2 kali, memberikan efek dingin dan 5 poin pembekuan. Damage meningkat 4x lipat pada zombie yang sudah beku atau imun terhadap efek dingin Level 0.\n(2) Setiap peluru ke-4 berubah menjadi Kerucut Es Cepat dengan penetrasi tak terbatas. Memberikan efek beku 4 detik dan damage 12x lipat pada zombie dingin; jika zombie sudah beku, status beku dilepas namun memberikan damage 48x lipat.</color></indent>\n<color=black>Sinergi: </color><color=red>Operasi Kecil: Jika ditanam rapat di kotak yang sama dengan Ultimate Mini-Pitcher, peluru tanaman ini memberikan efek 'Garlic', dan Kerucut Es Cepat mendapatkan fitur Mini-Garlic Butter; peluru Mini-Pitcher akan membelah sekali lagi serta memberikan efek dingin dan 5 poin pembekuan.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 988,
+            "name": "King Gatling Matahari Bocil",
+            "introduce": "<color=#3D1400>Meskipun telah meraih banyak prestasi dan medali, yang paling disukai oleh unit King Gatling Matahari Bocil adalah karangan bunga rumput yang dibuat oleh warga lokal saat mereka berada di \"Korps Pembangunan Teluk Matahari\". Mereka memakai karangan bunga itu di helm tempur mereka dan memamerkannya dengan bangga kepada setiap rekan seperjuangan.</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan kerucut cahaya yang menembus zombi, membuat hasil panen matahari bersinar terang memenuhi ruangan.\n<color=blue>Bentuk Evolusi Subspesies Bocil Gatling Es</color>\n\n<color=black>Syarat: </color><color=red>Kumpulkan kedua Skill bentuk dasar</color>\n<color=black>Resep Fusi: </color><color=red>Bocil Gatling Matahari + Kipli</color>\n<color=black>Konversi: </color><color=red>Jamur Es ←→ Bunga Matahari</color>\n<color=black>Damage: </color><color=red>40×4 / 1.5 detik</color>\n<color=black>Karakteristik: </color><color=red>Rendah, bisa ditanam rapat</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menembus 2 kali. Dua hit pertama menghasilkan 5 matahari. Jika matahari di atas 15.000, mengonsumsi 5 matahari untuk meningkatkan damage serangan ini sebesar (1+jumlah hit) kali lipat.\n(2) Setiap peluru ke-4 menjadi Kerucut Cahaya Cepat (penetrasi tak terbatas). Setiap hit meningkatkan perolehan matahari sebesar 1% dan batas maksimal matahari sebesar 100 selama 3 detik.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 989,
+            "name": "King Kipli Erosi Bayangan",
+            "introduce": "<color=#3D1400>\"Kekuatan kelengkungan ruang membuat kami kuat, tidak hanya memungkinkan kami menggunakan materi gelap, tetapi juga mengubah lintasan peluru agar mengorbit lubang hitam dengan stabil,\" kata kepala depan. Kepala belakang menambahkan: \"Karena pelipatan ruang pula, aku bisa membaca jurnal penelitian yang sama dengan yang di depan dan memikirkan misteri alam semesta secara bersamaan. Itulah mengapa kami menjadi salah satu fisikawan paling berilmu di halaman ini.\"</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan peluru erosi racun yang terus mempengaruhi objek di sekitarnya, bahkan lubang hitam sekalipun tidak luput.\n<color=blue>Subspesies King Kipli Dimensi Dobel</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Kipli Dimensi Dobel ←→ Bawang</color>\n<color=black>Damage: </color><color=red>40×3 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menembakkan peluru erosi racun yang melacak target di seluruh baris depan dengan penetrasi tak terbatas.\n(2) Peluru Erosi: Bergerak lurus setelah mengenai zombi. Setiap 0.02 detik memberikan damage dan 1 poin efek 'Garlic' pada zombi yang disentuh.\n(3) Jika tertangkap gravitasi Ultimate Black Hole, peluru tidak akan terserap melainkan mengorbit di sekitarnya, serta memberikan efek racun mematikan dan 30 poin 'Garlic' saat Black Hole meledak.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 990,
+            "name": "King Cabai Obsidian Bocil",
+            "introduce": "<color=#3D1400>King Cabai Obsidian Bocil menatap dengan marah menggunakan mata tunggalnya. Matanya terasa kering hingga terasa terbakar, namun tubuh obsidiannya membuatnya tidak bisa berkedip sama sekali, yang membuatnya semakin kesal.</color>",
+            "info": "<size=14><color=#0d266b>Menciptakan cincin kristal untuk melindungi tanaman di dekatnya, dan mengonsumsi energi untuk menyelamatkan mereka di saat kritis.\n<color=blue>Subspesies King Cabai Obsidian</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Cabai Obsidian ←→ Jamur Bocil</color>\n<color=black>Ketahanan: </color><color=red>8000</color>\n<color=black>Damage: </color><color=red>1800 (Abu/Instant)</color>\n<color=black>Karakteristik: </color><color=red>Rendah, bisa ditanam rapat</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Muncul tanpa energi, maksimal 3 lapis. Mendapat 1 lapis energi setiap kali ada 500 zombi mati (total dari kedua pihak).\n(2) Memiliki Cincin Obsidian pendamping. Klik untuk memindahkannya ke tanaman lain sebagai target perlindungan hingga tanaman tersebut mati. Target bisa diganti berulang kali.\n(3) Saat mati, memicu efek Cabai secara berurutan (imun terhadap pengurangan damage) dan efek Jamur Es.\n(4) Maksimal tanaman di lapangan: (Jumlah baris peta + 2).\n\n(Cincin Obsidian):\n(1) Setiap 0.5 detik, memberikan damage 1/6x Attack ke zombie yang menyentuhnya, memberikan efek dingin, dan memulihkan 10% dari damage tersebut ke HP target perlindungan.\n(2) Jika target perlindungan akan mati karena damage, konsumsi 1 lapis energi untuk menyisakan 1 HP, lalu: Memulihkan 100% HP, memicu efek Cabai di posisinya, dan melepaskan efek Jamur Es.</color></indent></color></size>",
             "cost": ""
         },
         {
@@ -1444,7 +1507,7 @@
         },
         {
             "seedType": 1020,
-            "name": "Kipli Besi",
+            "name": "Kipli Ember",
             "introduce": "<color=#3D1400>“Aku mewarisi tekad para pendahulu, tidak ada alasan untuk jatuh di sini!” Dia selalu menekankan kesiapannya untuk berkorban. “Tapi, helm itu kan hasil jarahan dari Zombie Ember?” “Itu namanya... meminjam kekuatan musuh untuk menerjang ombak!”</color>",
             "info": "<size=14><color=#0d266b>Kipli yang sangat keras, menembakkan peluru besi yang memukul mundur musuh.\n\n<color=black>Ketahanan: </color><color=red>2000</color>\n<color=black>Damage: </color><color=red>80 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Termasuk tanaman tipe besi. Memberikan efek pukul mundur.\n(2) Memberikan damage tambahan berdasarkan sisa HP pelindung zombie.\n(3) Mengurangi damage ledakan ceri yang diterima sebesar 50% dan bisa pulih dengan mengonsumsi logam.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli + Ember Besi (Item)</color></color></size>",
             "cost": null
@@ -1671,7 +1734,7 @@
             "seedType": 1052,
             "name": "Super Kayu Obor",
             "introduce": "<color=#3D1400>“Panas banget!” seru Super Kayu Obor dengan kesal. Dia bersikeras bahwa cuaca panaslah yang membuat kulitnya merah seperti Cabai di sebelahnya, bahkan api di kepalanya pun ikut berubah merah. Mungkin ini saatnya dia pergi berlibur ke “Area Kereta Luncur” untuk mendinginkan diri.</color>",
-            "info": "<size=14><color=#0d266b>Kayu Obor dengan api yang berkobar hebat, memiliki kemampuan membakar yang sangat kuat.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memperkuat peluru yang lewat: Kacang, Kacang Kentang, Peluru Api Level Rendah (+40 Damage); Kacang Es (berubah jadi Kacang Biasa); Kacang Hipnotis (+30 Damage); Kacang Pedas (+30 Damage, berubah jadi Peluru Api Merah); Ceri, Peluru Besi, Sun, Queen Sun (Damage x4, Sun yang didapat menjadi 15).\n(2) Memberikan 40 Fire Damage setiap 1.5 detik ke zombie sekitar.\n(3) Melepaskan efek ledakan Cabai saat mati.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kayu Obor Cabai + Cabai</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kayu Obor dengan api yang berkobar hebat, memiliki kemampuan membakar yang sangat kuat.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memperkuat peluru yang lewat: Kacang, Kacang Kentang, Peluru Api Level Rendah (+40 Damage); Kacang Es (berubah jadi Kacang Biasa); Kacang Hipnotis (+30 Damage); Kacang Pedas (+30 Damage, berubah jadi Peluru Api Merah); Ceri, Peluru Besi, Matahari, Ratu Matahari (Damage x4, Matahari yang didapat menjadi 15).\n(2) Memberikan 40 Fire Damage setiap 1.5 detik ke zombie sekitar.\n(3) Melepaskan efek ledakan Cabai saat mati.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kayu Obor Cabai + Cabai</color></color></size>",
             "cost": null
         },
         {
@@ -2461,9 +2524,9 @@
         },
         {
             "seedType": 1165,
-            "name": "Super Kipli Gatling Es",
-            "introduce": "<color=#3D1400>Super Kipli Gatling Es selalu tampil dingin. Bahkan saat marah pada zombie, dia hanya akan memuntahkan banyak kacang es sebagai peringatan agar mereka lebih berhati-hati di kehidupan selanjutnya.</color>",
-            "info": "<size=14><color=#0d266b>Super Gatling yang menembakkan Kacang Es.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap serangan punya peluang 2% memicu Ultimate: Selama 5 detik, menembakkan 3 kacang es setiap 0.02 detik ke arah acak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Super Kipli Gatling + Jamur Es</color></color></size>",
+            "name": "Gatling Super Es",
+            "introduce": "<color=#3D1400>Gatling Super Es selalu tampil dingin. Bahkan saat marah pada zombie, dia hanya akan memuntahkan banyak kacang es sebagai peringatan agar mereka lebih berhati-hati di kehidupan selanjutnya.</color>",
+            "info": "<size=14><color=#0d266b>Super Gatling yang menembakkan Kacang Es.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap serangan punya peluang 2% memicu Ultimate: Selama 5 detik, menembakkan 3 kacang es setiap 0.02 detik ke arah acak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Es</color></color></size>",
             "cost": null
         },
         {
@@ -2477,14 +2540,14 @@
             "seedType": 1167,
             "name": "Kipli Sniper Api",
             "introduce": "<color=#3D1400>“Aku membawa surat undangan buatanku sendiri, meski agak panas di tangan.” Kata-katanya membuat zombie bergidik. Meski terlihat sulit didekati, dia sebenarnya merasa dirinya sangat tampan.</color>",
-            "info": "<size=14><color=#0d266b>Membidik zombie secara berkala, memberikan damage besar dan efek panas.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>300 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki kemampuan Kipli Sniper.\n(2) Serangan memberikan 100 damage area kecil. Hit langsung dan percikan memberikan efek panas (Red Warm).</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Cabai</color></color></size>",
+            "info": "<size=14><color=#0d266b>Membidik zombie secara berkala, memberikan damage besar dan efek panas.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>300 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memiliki kemampuan Kipli Sniper.\n(2) Serangan memberikan 100 damage area kecil. Hit langsung dan percikan memberikan efek panas (Red Warm).</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Cabai</color></color></size>",
             "cost": null
         },
         {
             "seedType": 1168,
-            "name": "Super Kipli Gatling",
+            "name": "Kipli Gatling Super",
             "introduce": "<color=#3D1400>Pekerjaan tanpa henti membuatnya kesal, dan serangan zombie yang tak habis-habis menambah tekanannya. Dia melampiaskannya dengan menembak zombie secara gila-gilaan, yang malah memicu serangan lebih besar... siklus yang mengerikan.</color>",
-            "info": "<size=14><color=#0d266b>Menembakkan enam kacang sekaligus, dengan peluang menembakkan banyak peluru acak.\n\n<color=black>Syarat: </color><color=red>Mode Perjalanan</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 2% memicu Ultimate: Selama 5 detik, tiap 0.02 detik menembakkan 3 peluru acak (Kacang biasa, Es, Api, atau Hipnotis).\n(2) Dapat bertransformasi dengan Kipli Sniper.</color></indent>\n<color=#3D1400>Resep Transformasi: </color><color=red>Kipli ←→ Kipli</color></color></size>",
+            "info": "<size=14><color=#0d266b>Menembakkan enam kacang sekaligus, dengan peluang menembakkan banyak peluru acak.\n\n<color=black>Syarat: </color><color=red>Mode Odisei</color>\n<color=black>Damage: </color><color=red>20×6 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 2% memicu Ultimate: Selama 5 detik, tiap 0.02 detik menembakkan 3 peluru acak (Kacang biasa, Es, Api, atau Hipnotis).\n(2) Dapat bertransformasi dengan Kipli Sniper.</color></indent>\n<color=#3D1400>Resep Transformasi: </color><color=red>Kipli ←→ Kipli</color></color></size>",
             "cost": null
         },
         {
@@ -2769,23 +2832,23 @@
         },
         {
             "seedType": 1209,
-            "name": "Pelempar Jagung Magnet",
-            "introduce": "<color=#3D1400>“Orang tua pun harus belajar mengikuti zaman,” kata si Pelempar Jagung. “Kekuatan magnet ini sungguh membuka mataku.” Meski kadang tetangga mengiranya sebagai pengumpul barang rongsokan.</color>",
-            "info": "<size=14><color=#0d266b>Pelempar jagung yang dapat bergabung dengan benda logam untuk berubah bentuk.\n\n<color=black>Damage: </color><color=red>60 / 3 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 25% melempar Mentega Magnet (80 damage) yang menghentikan target selama 4 detik.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Pelempar Jagung + Jamur Magnet</color></color></size>",
+            "name": "Jagung Magnet",
+            "introduce": "<color=#3D1400>“Orang tua pun harus belajar mengikuti zaman,” kata si Jagung. “Kekuatan magnet ini sungguh membuka mataku.” Meski kadang tetangga mengiranya sebagai pengumpul barang rongsokan.</color>",
+            "info": "<size=14><color=#0d266b>Jagung yang dapat bergabung dengan benda logam untuk berubah bentuk.\n\n<color=black>Damage: </color><color=red>60 / 3 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 25% melempar Mentega Magnet (80 damage) yang menghentikan target selama 4 detik.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Jagung + Jamur Magnet</color></color></size>",
             "cost": ""
         },
         {
             "seedType": 1210,
             "name": "Jagung Dimensi",
             "introduce": "<color=#3D1400>“Kalian pasti pernah nonton Interstellar,” dia selalu membicarakan film favoritnya. “Pasti ada hubungan antara ladang jagung di awal film dengan lubang hitam di akhir!” serunya yakin.</color>",
-            "info": "<size=14><color=#0d266b>Menggunakan kekuatan lubang hitam untuk memperlambat musuh dan mempercepat penghapusan ruang-waktu.\n\n<color=black>Damage: </color><color=red>80 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 25% melempar Biji Lubang Hitam (100 damage) yang menciptakan lubang hitam.\n(2) Lubang hitam menarik zombie (lambat 25%-80%) selama 2 detik.\n(3) Saat lubang hitam meledak, memberikan damage area dan menambah 30 detik waktu tunggu Teleportasi pada zombie.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Pelempar Jagung Magnet + Fragmen Dimensi</color></color></size>",
+            "info": "<size=14><color=#0d266b>Menggunakan kekuatan lubang hitam untuk memperlambat musuh dan mempercepat penghapusan ruang-waktu.\n\n<color=black>Damage: </color><color=red>80 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluang 25% melempar Biji Lubang Hitam (100 damage) yang menciptakan lubang hitam.\n(2) Lubang hitam menarik zombie (lambat 25%-80%) selama 2 detik.\n(3) Saat lubang hitam meledak, memberikan damage area dan menambah 30 detik waktu tunggu Teleportasi pada zombie.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jagung Magnet + Fragmen Dimensi</color></color></size>",
             "cost": ""
         },
         {
             "seedType": 1211,
             "name": "Jagung Ember",
             "introduce": "<color=#3D1400>Dia sedang mencari cat anti karat karena menteganya sering beraroma besi. “Mentega berkarat mungkin hanya cocok untuk menyerang zombie, bukan untuk membuat kue,” keluhnya.</color>",
-            "info": "<size=14><color=#0d266b>Pelempar jagung yang sekeras besi, menembakkan jagung besi yang sangat efektif melawan pelindung.\n\n<color=black>Ketahanan: </color><color=red>2000</color> | <color=black>Damage: </color><color=red>80 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman tipe Besi.\n(2) Peluang 25% melempar Mentega Besi (100 damage): Menghentikan target 4 detik dan memberikan damage tambahan berdasarkan HP peluru/helm zombie.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Pelempar Jagung Magnet + Ember</color></color></size>",
+            "info": "<size=14><color=#0d266b>Jagung yang sekeras besi, menembakkan jagung besi yang sangat efektif melawan pelindung.\n\n<color=black>Ketahanan: </color><color=red>2000</color> | <color=black>Damage: </color><color=red>80 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tanaman tipe Besi.\n(2) Peluang 25% melempar Mentega Besi (100 damage): Menghentikan target 4 detik dan memberikan damage tambahan berdasarkan HP peluru/helm zombie.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jagung Magnet + Ember</color></color></size>",
             "cost": ""
         },
         {
@@ -3022,7 +3085,7 @@
         {
             "seedType": 1245,
             "name": "Jamur Matahari Gemoy",
-            "introduce": "<color=#3D1400>Dia adalah bankir senior. Menabung matahari di banknya memberikan bunga tinggi. “Ini tabungan berjangka, kau belum bisa mengambilnya sekarang,” katanya pada Sun-nut yang butuh uang cepat.</color>",
+            "introduce": "<color=#3D1400>Dia adalah bankir senior. Menabung matahari di banknya memberikan bunga tinggi. “Ini tabungan berjangka, kau belum bisa mengambilnya sekarang,” katanya pada Kacang Matahari yang butuh uang cepat.</color>",
             "info": "<size=14><color=#0d266b>Produsen surya yang menyerap matahari sekitar dan menambah nilainya.\n\n<color=black>Produksi: </color><color=red>25 / 20 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Menyerap matahari dalam radius 5x5, meningkatkan nilainya sebesar 30% dan menyimpannya.\n(2) Saat berproduksi, dia mengeluarkan simpanan tersebut dalam kelipatan 25.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Bunga Matahari + Jamur Gemoy</color></color></size>",
             "cost": ""
         },
@@ -3205,7 +3268,7 @@
             "seedType": 1271,
             "name": "Trigatling Super",
             "introduce": "<color=#3D1400>Trio ini menunjukkan dedikasi tinggi di kamp latihan. Mereka menembak serentak dan menyelesaikan perselisihan dengan cepat. Mereka mendapat gelar “Serbu Tiga Jalur Utama”.</color>",
-            "info": "<size=14><color=#0d266b>Kipli Gatling super yang menyerang di tiga jalur sekaligus.\n<color=red>Hanya untuk Mode Travel.</color>\n\n<color=black>Damage: </color><color=red>(20x6) x3 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill utama: Selama 5 detik, menembakkan kacang damage 3x lipat setiap 0.02 detik ke tiga jalur.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Super Kipli Gatling + Trikipli</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kipli Gatling super yang menyerang di tiga jalur sekaligus.\n<color=red>Hanya untuk Mode Travel.</color>\n\n<color=black>Damage: </color><color=red>(20x6) x3 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill utama: Selama 5 detik, menembakkan kacang damage 3x lipat setiap 0.02 detik ke tiga jalur.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Trikipli</color></color></size>",
             "cost": ""
         },
         {
@@ -3338,7 +3401,7 @@
             "seedType": 1290,
             "name": "Pasukan Penembak Jitu",
             "introduce": "<color=#3D1400>Pasukan ini sering berkata: “Dunia ini luas, yang bersatu akan berpisah, yang berpisah akan bersatu... termasuk kau.” Saat tidak bertempur, dia selalu membaca Kisah Tiga Kerajaan. “Aku adalah penembak jitu terpintar!”</color>",
-            "info": "<size=14><color=#0d266b>Kompi Jamur Bocil penembak jitu. Bisa memencar untuk serangan titik tunggal atau bersatu untuk ledakan area.\n<color=red>Hanya untuk Mode Perjalanan.</color>\n\n<color=black>Kerusakan: </color><color=red>500x3 / 3 detik (Memencar) | 1500 / 0.5 detik (Bersatu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tipe rendah. Saat memencar, setiap serangan ke-6 adalah Headshot dengan kerusakan 1 juta.\n(2) Setelah menyerang 15 kali, mereka akan bersatu selama 15 detik.\n(3) Saat bersatu, serangan menyebabkan kerusakan ledakan di radius 1 kotak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jamur Bocil x3 + Sniper</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kompi Jamur Bocil penembak jitu. Bisa memencar untuk serangan titik tunggal atau bersatu untuk ledakan area.\n<color=red>Hanya untuk Mode Odisei.</color>\n\n<color=black>Kerusakan: </color><color=red>500x3 / 3 detik (Memencar) | 1500 / 0.5 detik (Bersatu)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tipe rendah. Saat memencar, setiap serangan ke-6 adalah Headshot dengan kerusakan 1 juta.\n(2) Setelah menyerang 15 kali, mereka akan bersatu selama 15 detik.\n(3) Saat bersatu, serangan menyebabkan kerusakan ledakan di radius 1 kotak.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Jamur Bocil x3 + Sniper</color></color></size>",
             "cost": ""
         },
         {
@@ -3352,7 +3415,7 @@
             "seedType": 1292,
             "name": "Hipno Gatling Super",
             "introduce": "<color=#3D1400>Dia adalah penggemar zombie yang tak tertolong. Dia tidak bosan-bosan mengecat setiap peluru kacangnya dengan warna merah muda dan mengamati kilau api saat peluru itu dinyalakan. “Ini hadiah untuk para zombie,” katanya.</color>",
-            "info": "<size=14><color=#0d266b>Super Kipli Gatling yang menembakkan kacang hipno.\n<color=red>Hanya untuk Mode Perjalanan.</color>\n\n<color=black>Kerusakan: </color><color=red>30x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu kemampuan utama: Selama 5 detik, menembakkan 3 peluru kacang hipno setiap 0.02 detik secara menyebar.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Super Kipli Gatling + Jamur Hipno</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan kacang hipno.\n<color=red>Hanya untuk Mode Odisei.</color>\n\n<color=black>Kerusakan: </color><color=red>30x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu kemampuan utama: Selama 5 detik, menembakkan 3 peluru kacang hipno setiap 0.02 detik secara menyebar.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Jamur Hipno</color></color></size>",
             "cost": ""
         },
         {
@@ -3611,7 +3674,7 @@
             "seedType": 1329,
             "name": "Sniper Bawang",
             "introduce": "<color=#3D1400>Sniper Bawang sebenarnya tidak membawa Bawang, tapi tetap dijauhi karena bau bawang yang menyengat. Dia beralasan, “Bawang ini hanya untuk pencegahan penyakit.” Tentu saja, zombie tidak setuju dengan alasan itu.</color>",
-            "info": "<size=14><color=#0d266b>Menciptakan kabut racun menular yang menyebar seperti Bawang melalui korbannya.\n\n<color=black>Kondisi: </color><color=red>Mode Perjalanan</color>\n<color=black>Kerusakan: </color><color=red>500 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menciptakan kabut racun menular. Headshot menciptakan kabut yang lebih ganas.\n(2) Kabut bergerak acak selama 15 detik, memberikan efek mentega bawang dan poin status Bawang tiap detik.\n(3) Poin Bawang memberikan kerusakan (20x poin). Zombie yang HP-nya rendah akan mati seketika dan meledak menjadi kabut baru.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Bawang</color></color></size>",
+            "info": "<size=14><color=#0d266b>Menciptakan kabut racun menular yang menyebar seperti Bawang melalui korbannya.\n\n<color=black>Kondisi: </color><color=red>Mode Odisei</color>\n<color=black>Kerusakan: </color><color=red>500 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan menciptakan kabut racun menular. Headshot menciptakan kabut yang lebih ganas.\n(2) Kabut bergerak acak selama 15 detik, memberikan efek mentega bawang dan poin status Bawang tiap detik.\n(3) Poin Bawang memberikan kerusakan (20x poin). Zombie yang HP-nya rendah akan mati seketika dan meledak menjadi kabut baru.</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Sniper + Bawang</color></color></size>",
             "cost": ""
         },
         {
@@ -3625,7 +3688,7 @@
             "seedType": 1331,
             "name": "Super Gatling Ceri",
             "introduce": "<color=#3D1400>Dalam upacara penghargaan kompetisi menembak cepat, dia membocorkan rahasianya: “Aku pakai peluru ceri khusus yang kecil agar bisa disimpan banyak, dan karena lengket, mereka bisa ditembakkan dalam jumlah besar sekaligus.”</color>",
-            "info": "<size=14><color=#0d266b>Super Kipli Gatling yang menembakkan ceri setengah matang.\n\n<color=black>Kondisi: </color><color=red>Mode Perjalanan</color>\n<color=black>Kerusakan: </color><color=red>20x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill ulti: Selama 5 detik, menembakkan hujan ceri setengah matang setiap 0.02 detik yang meledak seketika saat kena hit.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Super Kipli Gatling + Bom Ceri</color></color></size>",
+            "info": "<size=14><color=#0d266b>Kipli Gatling Super yang menembakkan ceri setengah matang.\n\n<color=black>Kondisi: </color><color=red>Mode Odisei</color>\n<color=black>Kerusakan: </color><color=red>20x6 / 1.5 detik</color>\n<color=black>Fitur: </color><color=red>Peluang 2% memicu skill ulti: Selama 5 detik, menembakkan hujan ceri setengah matang setiap 0.02 detik yang meledak seketika saat kena hit.</color>\n<color=#3D1400>Resep Fusi: </color><color=red>Kipli Gatling Super + Bom Ceri</color></color></size>",
             "cost": ""
         },
         {
@@ -3952,7 +4015,7 @@
         },
         {
             "seedType": 1378,
-            "name": "Pelempar Kubis Geprek",
+            "name": "Kubis Geprek",
             "introduce": "<color=#3D1400>“Robot pintar sangat berguna, aku memesan satu yang mirip denganku untuk meningkatkan efisiensi lemparan,” kata Cabbage Labu Geprek-pult. Saat pertempuran dimulai, dia melompat ke keranjang versi dirinya yang lebih besar, lalu terdengar robot itu berkata hal yang sama...</color>",
             "info": "<size=14><color=#0d266b>Melempar Kubis kecil yang bisa melempar Kubis yang lebih kecil lagi.\n\n<color=black>Damage: </color><color=red>60 (Tindih) / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Melempar Kubis sedang yang memberikan damage tindih area saat mendarat.\n(2) Kubis sedang tersebut akan melemparkan dua Kubis kecil (damage 50%).\n(3) Kubis kecil tersebut akan melempar dua tunas kubis terakhir (damage 25%).</color></indent>\n<color=#3D1400>Resep Fusi: </color><color=red>Kubis + Labu Geprek</color></color></size>",
             "cost": ""
@@ -4039,6 +4102,83 @@
             "name": "Chomper Geprek",
             "introduce": "<color=#3D1400>\"Lapar... aku sangat lapar!\" Teriaknya sambil menerjang zombi. Tak peduli seberapa banyak zombi yang ada, perutnya seolah tak punya dasar. Lihat, Gargantuar datang! Akhirnya dia bisa kenyang... eh, sepertinya agak kekenyangan sekarang.</color>",
             "info": "<size=14><color=#0d266b>Geprek yang rakus; jika perutnya puas, dia akan tetap di lapangan untuk mencari makanan berikutnya.\n\n<color=black>Damage: </color><color=red>1800 (Labu Geprek/Gepeng)</color>\n<color=black>Jangkauan: </color><color=red>1 kotak di sebelah kanan.</color>\n<color=black>Fitur: </color>\n<color=red>(1) Saat menyerang, ia bisa menelan satu zombi. Jika zombi tidak bisa ditelan, ia tetap memberikan damage fisik.</color>\n<color=red>(2) Jika berhasil menelan, ia akan kembali ke posisi semula di lapangan alih-alih menghilang.</color>\n<color=black>Resep Fusi: </color><color=red>Labu Geprek + Chomper</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1391,
+            "name": "Kayu Obor Bawang",
+            "introduce": "<color=#3D1400>Aroma segar Bawang begitu menenangkan hati, dan panggangan api mengangkat aroma ini ke tingkat yang lebih tinggi. Kayu Obor Bawang Beracun menarik napas dalam-dalam, terhanyut dalam aroma indah ini, dan merasa kasihan pada tanaman lain yang tidak bisa menghargai keindahan tersebut.</color>",
+            "info": "<size=14><color=#0d266b>Memanggang Kipli yang lewat dan membuat racunnya menjadi sangat pekat.\n\n<color=black>Fitur Efek Peluru: </color>\n<indent=5%><color=red>• Kipli: Damage +10, berubah menjadi Kipli Bawang.\n• Kipli Bawang: Damage ×2, berubah menjadi Kipli Bawang Beracun (Serangan langsung memberikan 1 poin Garlic, efek racun mematikan, dan menciptakan penghalang racun dengan efek percikan area mirip Kipli Api).</color></indent>\n<color=black>Resep Fusi: </color><color=red>Kayu Obor + Bawang</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1392,
+            "name": "Labu Geprek Air",
+            "introduce": "<color=#3D1400>Labu Geprek Air adalah penjaga pantai di area wisata; semua orang kagum bagaimana tubuhnya yang berat bisa berenang bebas di atas air. Mengenai kemampuan berenangnya, ia selalu merahasiakannya dan hanya berkata: \"Ini tidak semudah yang terlihat.\" Faktanya, ia bisa mengapung berkat topi balon yang memberikan daya angkat, dan produsen topi itu sudah bangkrut sepuluh tahun lalu.</color>",
+            "info": "<size=14><color=#0d266b>Labu Geprek tipe air.\n\n<color=black>Damage: </color><color=red>1800 (Geprek)</color>\n<color=black>Jangkauan: </color><color=red>0.5 kotak di kiri ~ 1 kotak di kanan</color>\n<color=black>Resep Fusi: </color><color=red>Jamur Air (Dasar) + Labu Geprek</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1393,
+            "name": "Kaktus Jamur Gemoy",
+            "introduce": "<color=#3D1400>\"Kabut di sini terlalu tebal, aku hampir tidak bisa bernapas.\" Kaktus Jamur Gemoy menggerutu sambil meregangkan tubuhnya, mengangkat lubang pernapasan di kepalanya ke atas kabut agar merasa lebih baik. \"Akhirnya lega, tapi tidak boleh lebih tinggi lagi, kalau tidak aku akan kekurangan oksigen.\"</color>",
+            "info": "<size=14><color=#0d266b>Menyemprotkan kabut untuk menyerang musuh rendah, dan memanjangkan tudungnya untuk fokus pada serangan udara.\n\n<color=black>Damage: </color><color=red>40 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Jangkauan 4.5 kotak, penetrasi tak terbatas, dapat menembus armor tipe 2.\n(2) Klik untuk mengganti mode tempur:\n• Mode Rendah: Menyerang darat dan udara sekaligus.\n• Mode Tinggi: Damage ×4, hanya menyerang udara.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Jamur Besar + Kaktus</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1394,
+            "name": "Kayu Obor Hipno",
+            "introduce": "<color=#3D1400>Sebagai bintang baru di pesta dansa kolam renang, Kayu Obor Hipno langsung memikat banyak penggemar termasuk zombi dan Kipli saat debutnya. Antusiasme yang membara dan sifat suka menolong adalah ciri khasnya. Namun seperti figur publik lainnya, ia menderita karena rumor operasi plastik dan penggunaan bedak berlebih yang terus menghantuinya.</color>",
+            "info": "<size=14><color=#0d266b>Kayu Obor yang penuh pesona, mampu memanggil Zombi Gatling dari cahaya apinya untuk bertarung.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Setiap mempengaruhi lebih dari 60 peluru, memanggil satu Zombi Gatling di pihak tanaman.\n*Kipli Pesona dihitung sebagai 4 peluru, peluru dari zombi sendiri tidak dihitung.\n(2) Efek Peluru:\n• Kipli Pesona: Terbakar, Damage +30.\n• Kipli Biasa: Terbakar, Damage +20.\n• Kipli Es: Kembali menjadi Kipli biasa.\n(3) Saat dimakan, akan memikat (charm) zombi tersebut, lalu berubah kembali menjadi Kayu Obor biasa.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Kayu Obor + Jamur Pesona</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1395,
+            "name": "Jamur Rumput Air",
+            "introduce": "<color=#3D1400>Jamur Rumput Air memiliki pandangan unik tentang seni; menurutnya kekacauan ekstrem adalah puncak keindahan. Sama seperti rambut keritingnya yang tidak pernah dirawat namun tumbuh dengan gayanya sendiri. Karena alasan itulah, ia absen dari semua misi pembersihan zombi di dasar sungai.</color>",
+            "info": "<size=14><color=#0d266b>Mengeluarkan tentakel rumput air untuk mencambuk zombi di depannya secara terus-menerus.\n\n<color=black>Damage: </color><color=red>30×3 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Menyerang semua zombi dalam jangkauan 4.5 kotak di depan sebanyak 3 kali. Setiap serangan memberikan 1 poin status 'Seaweed' dan efek tambahan:\n• Serangan 1: Tambahan 1 poin status Seaweed.\n• Serangan 2: Tambahan damage sebesar 5 × poin Seaweed.\n• Serangan 3: Efek pukul mundur (Knockback).</color></indent>\n<color=black>Resep Fusi: </color><color=red>Rumput Belit (Dasar) + Jamur Besar</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1396,
+            "name": "Koloni Difusi Jamur Gemoy",
+            "introduce": "<color=#3D1400></color>",
+            "info": "<size=14><color=#0d266b>Tumpukan jamur yang terbentuk dari penyebaran Jamur Bocil oleh Jamur Gemoy.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>Menciptakan Jamur Bocil di kotak-kotak depan (jumlah berkurang setiap kotak menjauh), lalu berubah kembali menjadi Jamur Besar. Semakin banyak Jamur Bocil yang dikonsumsi saat fusi, semakin banyak yang dihasilkan.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Jamur Bocil (Dasar) + Jamur Besar</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1397,
+            "name": "Koloni Difusi Jamur Penakut",
+            "introduce": "<color=#3D1400></color>",
+            "info": "<size=14><color=#0d266b>Kelompok jamur yang terbentuk dari penyebaran Jamur Bocil oleh Jamur Penakut.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>Menciptakan Jamur Bocil secara merata di tiga kotak (depan, atas, bawah—prioritas depan), lalu berubah kembali menjadi Jamur Penakut. Semakin banyak Jamur Bocil yang dikonsumsi saat fusi, semakin banyak yang dihasilkan.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Jamur Bocil (Dasar) + Jamur Penakut</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1398,
+            "name": "Kubis Api",
+            "introduce": "<color=#3D1400>Berkat kemahirannya menggunakan cabai, restoran \"Sichuan Wangi\" miliknya selalu ramai. Sang pemilik, Kubis Meledak, memiliki sifat seperti cabai: berani, bersemangat, dan penuh gairah. Hanya satu hal yang perlu diingat: segera pergi setelah kenyang, atau dia akan memberimu porsi tambahan secara gratis.</color>",
+            "info": "<size=14><color=#0d266b>Melemparkan kubis pedas yang akan pecah menjadi banyak kubis kecil saat mengenai target.\n\n<color=black>Damage: </color><color=red>60 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setelah mengenai target, peluru pecah ke setiap kotak dalam area 3x3 menjadi peluru kecil dengan damage 1/3 dari aslinya. Semua peluru memberikan efek 'Red Hot' sebelum menghasilkan damage.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Kubis + Cabai</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1399,
+            "name": "Kubis Kiamat",
+            "introduce": "<color=#3D1400>\"Aku adalah pemburu di kegelapan malam,\" begitulah cara Kubis Kiamat mendefinisikan dirinya. Warna kulitnya memang sempurna untuk bersembunyi di malam hari, namun mata merahnya sering membocorkan keberadaannya. Meskipun begitu, ia menolak memakai kacamata hitam, katanya itu adalah \"Tatap Sang Maut\"... padahal sebenarnya dia tidak tahu di mana letak telinga untuk menyangkutkan gagang kacamata.</color>",
+            "info": "<size=14><color=#0d266b>Melemparkan kubis dengan damage tinggi yang akan meledak jika mengenai target dalam status 'Ember' (sisa ledakan).\n\n<color=black>Damage: </color><color=red>1800 / 15 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Saat mengenai zombi yang berada dalam status Ember, menghasilkan ledakan area kecil sebesar 1/3 damage tanpa pengurangan damage jarak.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Kubis + Jamur Nuklir</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1400,
+            "name": "Jagung Membara",
+            "introduce": "<color=#3D1400>\"Bahan popcorn di toko kami dijamin alami dan bebas polusi!\" Jagung Membara sering berpromosi. Namun, para pelanggan selalu meragukannya karena mentega di tokonya tidak pernah meleleh meski terkena api yang sangat panas.</color>",
+            "info": "<size=14><color=#0d266b>Melemparkan potongan mentega panas yang melepaskan energi panas saat mengenai target, membangkitkan semangat tempur tanaman tipe api.\n\n<color=black>Damage: </color><color=red>30 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Memberikan status 'Red Hot' sebelum menghasilkan damage.\n(2) Peluang 25% melempar Mentega Merah (50 damage) yang memberikan efek imobilisasi 4 detik, memicu ledakan Cabai, dan memberikan bonus 50% Attack selama 6 detik bagi tanaman api yang terkena apinya (Tanaman Seri Ultimate hanya mendapat bonus 25%).</color></indent>\n<color=black>Resep Fusi: </color><color=red>Jagung + Cabai</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1401,
+            "name": "Ranjau Kentang Es",
+            "introduce": "<color=#3D1400>\"Aku adalah tokoh utama di medan perang,\" pikir Ranjau Kentang Es, \"dan tokoh utama selalu muncul di saat terakhir.\" Sebelum beraksi, ia bahkan mengubur dirinya di tanah yang sejuk untuk beristirahat cukup, tentu saja sambil memastikan gaya rambutnya yang sempurna tetap berada di luar agar tidak kotor.</color>",
+            "info": "<size=14><color=#0d266b>Mengkonsentrasikan kekuatan es; hanya dengan sedikit percikan, ia bisa terus mengembang dan meledak.\n\n<color=black>Damage: </color><color=red>1800</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Saat muncul ke permukaan atau meledak, ia melepaskan ledakan es: Memberikan status beku 4 detik pada zombi dalam area 3x3, menghasilkan 1/3 damage, dan memicu ledakan es mikro tambahan pada 8 kotak di sekitarnya jika ada zombi di sana.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Ranjau Kentang + Jamur Es</color></color></size>",
             "cost": ""
         }
     ]
