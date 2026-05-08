@@ -463,6 +463,42 @@
             "info": "<size=36>Nhảy qua cây 1 cách bất định.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Sau khi nhảy qua cây, nó sẽ nhảy lên phía trước, sau, hoặc trên dưới hàng của nó. Khi bị tiêu diệt sẽ rớt ra Mảnh Vỡ Thời Không.</color></color>"
         },
         {
+            "theZombieType": 81,
+            "name": "Zombie Huấn Luyện Viên",
+            "introduce": "<size=36><color=black>'Đừng có đi bộ!' Zombie Huấn Luyện Viên luôn nói thế với đám đu xà, và tụi Zombie đu xà luôn đoán được những gì ông ta nói tiếp theo 'Đừng có đi bộ! Chạy nhanh lên, lũ ngốc!'</color>",
+            "info": "<size=36>Động viên các Zombie Đu Xà\n\n<color=black>Máu: </color><color=#4B0082>720+7200 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Khi ra sân, tăng khoảng cách nhảy cho Zombie Đu Xà cùng hàng. Khi mất báo, triệu hồi 1 Zombie Đu Xà và tăng mạnh khoảng cách nhảy cho Zombie Đu Xà cùng hàng.</color></color>"
+        },
+        {
+            "theZombieType": 82,
+            "name": "Zombie Đọc Báo Xô Sắt",
+            "introduce": "<size=36><color=black>Xe cắt cỏ, máy làm bỏng ngô và xô sắt có điểm chung là gì? Tất cả đều sơn đỏ, cũ kĩ và thường hay cót két khi di chuyển.</color>",
+            "info": "<size=36>Zombie Đọc Báo nhưng bền hơn\n\n<color=black>Máu: </color><color=#4B0082>270+1100 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Khi ra sân, toàn bộ Zombie đọc báo trên sân nhận 50 giáp (giảm 33% sát thương nhận vào). Nếu mất báo, tăng 100 giáp cho toàn bộ Zombie đọc báo trên sân (giảm 33% sát thương nhận vào).</color></color>"
+        },
+        {
+            "theZombieType": 83,
+            "name": "Chim Cánh Cụt",
+            "introduce": "<size=36><color=black>Đám cánh cụt này đã tạo nên nhiều chiến tích trên sân vườn, nên Zomboss đã cho nó danh hiệu 'Zombie'. Mà lỡ đám cánh cụt biết Zombie nghĩa là gì thì tụi nó sủi cả giờ.</color>",
+            "info": "<size=36>Nó là 1 con cánh cụt\n\n<color=black>Sát Thương:</color><color=#4B0082> 100\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Khả Năng: </color><color=#4B0082>Di chuyển bằng cách nhảy hoặc trượt trên mặt băng hoặc khi bão tuyết đang xảy ra. Tấn công bằng cách nhảy vào cây. Kháng lạnh cấp 1.</color></color>"
+        },
+        {
+            "theZombieType": 84,
+            "name": "Zombie Tuyết",
+            "introduce": "<size=36><color=black>Biến thể dành riêng cho sân tuyết, nó tự nhận bản thân là một nhà thám hiểm chuyên nghiệp vì nhũng vết cào, nhưng khá là hài rằng, nó quá sợ lạnh nên không dám cởi áo khoác ra.</color>",
+            "info": "<size=36>Zombie cơ bản tại sân tuyết\n\n<color=black>Máu: </color><color=#4B0082>270</color>\n<color=black>Khả Năng: </color><color=#4B0082>Kháng lạnh cấp 1.</color></color>"
+        },
+        {
+            "theZombieType": 85,
+            "name": "Zombie Khối Băng",
+            "introduce": "<size=36><color=black>Biến thể sử dụng băng thay vì xô sắt làm giáp. Nhưng đừng lo, kể cả khi băng tan, não của nó không bị úng nước đâu.</color>",
+            "info": "<size=36>Dùng cục băng làm giáp\n\n<color=black>Máu: </color><color=#4B0082>270+1100 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Kháng lạnh cấp 1.</color></color>"
+        },
+        {
+            "theZombieType": 86,
+            "name": "Vua Cánh Cụt",
+            "introduce": "<size=36><color=black>Đám cánh cụt này đã tạo nên nhiều chiến tích trên sân vườn, nên Zomboss đã cho nó danh hiệu 'Zombie'. Mà lỡ đám cánh cụt biết Zombie nghĩa là gì thì tụi nó sủi cả giờ.</color>",
+            "info": "<size=36>Nó là 1 con cánh cụt, nhưng là con đầu đàn\n\n<color=black>Sát Thương:</color><color=#4B0082> 500\n<color=black>Máu: </color><color=#4B0082>1440</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Nhảy lên phía trước, gây 500*2 sát thương lên cây nó nhảy trúng.\n<color=black>•</color> Nếu có đường băng, nó sẽ trượt và khi trúng cây, nghiền nát cây.\n<color=black>•</color> Kháng lạnh cấp 1.\n<color=black>•</color> Khi ra sân, nó sẽ tạo ra bão tuyết. Khi đó nó có thể trượt mà không cần đường băng.</color></color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zombie Đậu Hà Lan",
             "introduce": "<size=36><color=black>Khả năng chiến đấu từ xa của zombie đậu hà lan thường khiến cây sợ hãi, nhưng những zombie mặt khác luôn sợ hãi vì chúng luôn sợ rằng nó sẽ tấn công chúng từ phía sau.</color>",

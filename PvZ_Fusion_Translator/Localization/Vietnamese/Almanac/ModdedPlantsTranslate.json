@@ -368,6 +368,13 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Thực Thần Thập Tử + Đậu Cao Xạ"
     },
     {
+      "seedType": 1968,
+      "name": "Mộng Lạc Nhiệt Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Mộng Lạc Nhiệt Hạch vô cùng nóng nảy, vậy nên tốt nhất đừng động vào cô ấy. Còn lý do à? Thì chắc là tại mới đè trượt Hoa Lan Xác Sống ấy mà.",
+      "info": "<size=36>Bí Nhiệt Hạch nhưng mạnh hơn.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>1800</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Phân loài của Bom Anh Đào Nhiệt Hạch, chuyển đổi qua lại bằng Mộng Lạc và Bom Anh Đào.\n<color=black>•</color> Có mọi khả năng của Bí Nhiệt Hạch.\n<color=black>•</color> Mỗi khi đè trúng 1 Zombie sẽ tăng 1800 sát thương, tối đa gây 7200 sát thương.\n<color=black>•</color> Khi có Hoa Lan Lửa trong phạm vi, đè Hoa Lan Lửa và kích nổ tại ô của Hoa Lan Lửa. Khi đó sẽ không để lại hố và hoàn trả lại thẻ cây.\n<color=black>•</color> Khi có Hoa Lan Xác Sống trong phạm vi, đè Hoa Lan Xác Sống và kích nổ tại ô của Hoa Lan Xác Sống. Khi đó sẽ không để lại hố và bắn đạn nguyên tử, đồng thời hoàn trả lại thẻ cây.\n<color=black>•</color> Nếu đè không trúng Zombie, hoàn trả lại thẻ cây.",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Bom Anh Đào Nhiệt Hạch + Mộng Lạc</color>"
+    },
+    {
       "ALL_GAME Mod": ""
     },
     {
@@ -3039,8 +3046,8 @@
     {
       "seedType": 5130,
       "name": "Regent",
-      "introduce": "<align=justified><size=36><color=#3D1400>Tới từ game Slay The Spire 2 và là 1 trong 5 nhân vật chính trong tựa game roguelike này.</color></color>",
-      "info": "<size=36>Kẻ đứng đầu với sức mạnh không tưởng\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>18000/3 giây</color>\n<color=#3D1400>Máu: </color><color=red>16000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Miễn nhiễm với nghiền nát và chỉ nhận tối đa 8000 sát thương.\n<color=black>•</color> Mỗi 5 giây sẽ hồi 8000 giáp. \n<color=black>•</color> Mỗi 30 giây sẽ vào trạng thái chiến đấu, khi đó sẽ tấn công gây vụ nổ 3x3 ô lên Zombie.</color>",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tới từ hành tinh xa xôi, hắn ta đáp xuống đây cùng với đàn em của mình, với mục tiêu đơn giản là chinh phục cả thế giới này và trở thành vua.</color></color>",
+      "info": "<size=36>Vị vua của sự kiêu hẵng.\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>18000/3 giây</color>\n<color=#3D1400>Máu: </color><color=red>16000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Miễn nhiễm với nghiền nát và chỉ nhận tối đa 8000 sát thương.\n<color=black>•</color> Mỗi 5 giây sẽ hồi 8000 giáp. \n<color=black>•</color> Mỗi 30 giây sẽ vào trạng thái chiến đấu, khi đó sẽ tấn công gây vụ nổ 3x3 ô lên Zombie.</color>",
       "cost": "\n<size=36><color=#3D1400>Giá: <color=red>1200</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>25 giây</color>"
     },
     {

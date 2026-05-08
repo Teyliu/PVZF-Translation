@@ -141,6 +141,6 @@
     },
     "level_1775048626512_f9xv3240i": {
         "name": "Lỗi: File Dữ Liệu Hỏng",
-        "startTip": "Phát hiện file dữ liệu hỏng, đang chạy tiến trình hồi phục.\n<color=#FF0000>Hồi phục thất bại!</color>\nLỗi: File màn chơi  <color=#6C6C6C>kết hợp</color> với các file khác!\n"
+        "startTip": "Phát hiện file dữ liệu hỏng, đang chạy tiến trình hồi phục.\n<color=#FF0000>Hồi phục thất bại!</color>\nLỗi: File màn chơi <color=#6C6C6C>kết hợp</color> với các file khác!\n"
     }
 }
