@@ -270,7 +270,7 @@
             "seedType": 38,
             "name": "Aloe Aqua",
             "introduce": "<align=left><size=36><color=black>Aloe Aqua thought opening a spa in the snowy plains would be relaxing—until she realized no one wants a cold soak in subzero weather. At least the snow keeps the towels crisp.</color>",
-            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze.</color>",
+            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze and glaciation.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -2762,7 +2762,7 @@
             "seedType": 1218,
             "name": "Soak-me-not",
             "introduce": "<align=left><size=36><color=black>After equipping a high-pressure water jet, Soak-me-not greatly improved her cutting efficiency. But there's one downside — flowing water is hard to come by on the snowy plains.</color>",
-            "info": "<size=36>Cold-resistant, deals more damage when it's sufficiently cold and applies chill when there are ice charges.\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, inflict Deep Chill and add 1 Cryo Point, but have an 1/9 chance to use up a charge. </color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze.</color>",
+            "info": "<size=36>Cold-resistant, deals more damage when it's sufficiently cold and applies chill when there are ice charges.\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, inflict Deep Chill and add 1 Cryo Point, but have an 1/9 chance to use up a charge. </color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze and glaciation..</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Saw-me-not + Aloe Aqua</color>"
         },
         {
