@@ -436,5 +436,6 @@
   "^([\\s\\S]+)，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}, ID: {1}\nSaved at: {2}\nVersion: {3}",
   "^([\\s\\S]+)\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}\nSaved at: {1}\nVersion: {2}",
   "^([\\s\\S]+)，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：": "{0}, ID: {1}\nSaved at: {2}\nVersion: N/A",
-  "^，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：$": "No Name, ID: {0}\nSaved at: {1}\nVersion: N/A"
+  "^，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：$": "No Name, ID: {0}\nSaved at: {1}\nVersion: N/A",
+  "保存成功，编号：(\\d+)": "Progress saved with ID: {0}"
 }
