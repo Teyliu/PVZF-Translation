@@ -84,6 +84,7 @@ Please visit our community for future updates and support.
   - Odyssey Gacha: Gacha Box
   - Wheelbarrow Challenge
   * (Note: Completing this mini-game will unlock the new Wheelbarrow tool permanently.)
+  * (You can store a plant inside the Wheelbarrow to re-plant it later on.)
   - Time Attack
 
 6. Balance Adjustments
