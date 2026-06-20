@@ -4141,7 +4141,7 @@
             "seedType": 1407,
             "name": "Pumpkommando",
             "introduce": "<align=left><size=36><color=black>\"I'm already at full capacity!\" Pumpkommando shouts. \"Packed with pea bullets!\" Even though he always says this, he still tries to squeeze in a bit more space at the end, letting plants hide inside him to block zombie attacks.</color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
+            "info": "<size=36>A pumpkin who has taken inspiration from Pea-storm Commando.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-storm Commando > Pumpkin</color>"
         },
         {

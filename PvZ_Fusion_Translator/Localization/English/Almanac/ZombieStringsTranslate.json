@@ -526,13 +526,13 @@
             "theZombieType": 87,
             "name": "Aluminum-head Zombie",
             "introduce": "<align=left><size=36><color=black>Aluminum-Shield Zombie is delightfully ecstatic that Magnet-shroom can't absorb his armor, but at the same time he's a bit puzzled — after all, silver-gray and hard things are Iron. That's just common sense for us zombies! \"Aluminum? What is that?\"</color>",
-            "info": "<size=36>Wears a sturdy and insulating aluminum helmet.\n\n<color=black>Toughness: </color><color=4B0082>270 + 1470(Type 1)</color>\n<color=black>Movement Speed: </color><color=4B0082>Slow</color>"
+            "info": "<size=36>Wears a sturdy and insulating aluminum helmet.\n\n<color=black>Toughness: </color>270 + 1470 (Type 1)\n<color=black>Movement Speed: </color>Slow</color>"
         },
         {
             "theZombieType": 88,
             "name": "Mammoth Zombie",
             "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>Toughness: </color><color=4B0082>6000</color>\n<color=black>Movement Speed: </color><color=4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>Immune to knockback. When moving forward, crushes plants and pushes non-mini-boss zombies beside its feet forward.</color>"
+            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>Toughness: </color>6000\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082>Immune to knockback. When moving forward, crushes plants and pushes non-mini-boss zombies beside its feet forward.</color>"
         },
         {
             "theZombieType": 100,
