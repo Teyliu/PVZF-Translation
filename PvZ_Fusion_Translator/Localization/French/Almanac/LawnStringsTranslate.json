@@ -4059,6 +4059,132 @@
             "introduce": "<align=left><size=36><color=black>\" Le brouillard est trop épais ! Je n’arrive plus à respirer ! \" s’exclame Champi-saguaro en étirant son corps pour faire dépasser ses pores respiratoires au-dessus du brouillard. \" Ah, beaucoup mieux… même si je ne peux pas monter plus haut, sinon l’air finira vite par manquer d’oxygène ! \"</color>",
             "info": "<size=36>Tire de lourdes fumées pour frapper les ennemis volant à basse altitude. Peut s’étendre pour se concentrer sur les cibles aériennes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (Perforant)</color>\n<color=black>Spécial : </color><color=#8B0000>Cliquez pour alterner entre différents modes d’attaque :\n<color=black>-</color> Basse altitude : touche les ennemis terrestres et aériens ;\n<color=black>-</color> Haute altitude : dégâts ×4, anti-aérien uniquement.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Cactus</color>"
+        },
+        {
+            "seedType": 220,
+            "name": "Vase de Recyclage Doré",
+            "introduce": "<color=#3D1400>Vase de Recyclage Doré est la plus grande plateforme de troc parmi les plantes. En tant que fondateur, le Vase de Recyclage Doré aide les plantes à échanger leurs objets d’occasion inutilisés, tout en offrant à celles en quête d’un voyage imprévisible une opportunité — et un moyen — d’y parvenir.</color>",
+            "info": "Recycle les plantes indésirables pour les transformer en surprises.\n\n<color=#3D1400>Conditions de déblocage : </color><color=red>Terminer Vasebreaker : The Vase Less Travelled by, De-vase-tating! et Potluck</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsque la charge est inférieure à 3, vous pouvez utiliser le Gant pour y placer des plantes afin qu’il gagne de la charge. Les plantes de base/fusions simples/fusions avancées accordent respectivement 1/2/3 charges.\n<color=black>•</color> Touchez le vase pour le briser. Fait tomber un paquet de graines selon la charge stockée :\n-1 charge : plante de base\n-2 charges : fusion simple\n-3 charges ou plus : fusion avancée\n\n<color=black>•</color> Si une plante Odyssée y a déjà été stockée, il donnera toujours une plante Odyssée.</color>",
+            "cost": "Coût : <color=red>200</color>\nRecharge : <color=red>30s</color>"
+        },
+        {
+            "seedType": 219,
+            "name": "Flèche de Signalisation",
+            "introduce": "<align=left><size=36><color=black>Les Flèches de Signalisation sont des composants essentiels des systèmes de convoyeurs. Grâce à elles, les paquets de graines continuent de circuler régulièrement de l’arrière vers les lignes de front. Même retirées des convoyeurs, elles conservent leur capacité à diriger les déplacements.</color>",
+            "info": "<size=36>Zombies, veuillez suivre les indications. Ne poussez pas ; avancez de manière ordonnée.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ne peut pas être déplacée avec le Gant.\n<color=black>•</color> Cliquez pour sélectionner une autre Flèche de Signalisation dans la même ligne ou colonne afin de la définir comme destination.\n<color=black>•</color> Les zombies qui la touchent seront redirigés vers la destination définie.\n<color=black>•</color> Utilisée dans Zombie Sorter & Super Level Editor pour créer des niveaux TD.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 221,
+            "name": "Animation de Fusion",
+            "introduce": "<color=#3D1400></color>",
+            "info": "Ce n’est pas une plante. Il s’agit d’une animation montrant des plantes de base fusionnant pour créer une plante Odyssée. Vous devez avoir l’option \"Odyssée simplifiée\" activée.",
+            "cost": ""
+        },
+        {
+            "seedType": 40,
+            "name": "Lichen Givré",
+            "introduce": "<align=left><size=36><color=black>Pour survivre dans la toundra gelée, Lichen Givré a développé un doux manteau de duvet blanc. Mais cela lui attire plus d’ennuis qu’autre chose : il perd constamment ses poils, et les autres plantes ne peuvent s’empêcher de le caresser comme si il était un pissenlit sauvage.</color>",
+            "info": "<size=36>Explose en un anneau de boules de neige, refroidissant plantes et zombies à proximité.\n\n<color=black>Dégâts : </color><color=#8B0000>600×7</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les boules de neige tirées vers la gauche infligent 1 dégât aux plantes et gèlent les plantes dans une zone de 3×3.\n<color=black>•</color> Toutes les autres boules de neige infligent 600 dégâts aux zombies et appliquent Gel Profond pendant 1 seconde.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 1396,
+            "name": "Propagation de Champi-gnon : Champi-fumé",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-fumé.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-fumé à la place du Champi-gnon et fait apparaître des Champi-gnon à intervalles réguliers devant lui (avec un nombre décroissant selon la distance). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
+            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-fumé + Champi-gnon</color>"
+        },
+        {
+            "seedType": 1397,
+            "name": "Propagation de Champi-gnon : Champi-peureux",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-peureux.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-peureux à la place du Champi-gnon et fait apparaître des Champi-gnon de manière équilibrée sur les cases avant, supérieure et inférieure adjacentes (en privilégiant la case avant). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
+            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-peureux + Champi-gnon</color>"
+        },
+        {
+            "seedType": 306,
+            "name": "Fumigateur d'Éclipse",
+            "introduce": "<align=left><size=36><color=black>Né des cendres dispersées à l'aube de l'univers, il dort enveloppé de ténèbres, les ombres pour oreiller. Des âges de sommeil n'ont en rien émoussé à sa puissance. Quel que soit l'ennemi, il ne l'affronte qu'avec dédain. À ses heures perdues, il prend cependant grand soin de sa luxuriante chevelure.</color>",
+            "info": "<size=36>Crache une brume toxique et des pics de venin qui corrodent rapidement les zombies, gagnant en puissance plus l'attaque se prolonge.\n\n<color=#4A2900>Condition d'utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> En attaquant, projette une brume toxique sur toute la ligne et tire 2 projectiles depuis un vortex.\n<color=black>•</color> Brume Toxique : perforation infinie ; applique 1 point de Poison et inflige l'Effet Toxique ; inflige 3 % des PV max aux zombies sous la moitié de leurs PV.\n<color=black>•</color> Projectiles : perforent jusqu'à 2 fois ; à l'impact, appliquent 1 point de Poison et infligent l'Effet Toxique dans une petite zone, infligeant soit les dégâts de poison, soit les dégâts du projectile, selon le plus élevé.\n<color=black>•</color> Attaque plus vite après 15 attaques consécutives, et encore plus vite après 30.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 307,
+            "name": "Double Noix-solaire Primitive",
+            "introduce": "<align=left><size=36><color=black>\" À quoi ressemblera le jardin du futur ? \" Pour le découvrir, la Double Noix-solaire du passé construisit une machine temporelle alimentée par la lumière et voyagea jusqu'au présent. Elle comptait jeter un coup d'œil rapide puis repartir, mais après avoir vu des versions d'elle-même saccager un laboratoire, habiter le corps d'un zombie, et même manquer une fête de glaces à la plage, elle décida de rester un moment pour remettre les choses en ordre.</color>",
+            "info": "<size=36>Génère du Soleil lorsqu'elle subit des dégâts. Peut dépenser du Soleil pour se soigner et invoquer une Noix Solaire Géante devant elle.\n\n<color=#4A2900>Condition d'utilisation : Mode Récolte</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu'elle subit des dégâts, annule le coup, subit à la place 50 dégâts fixes et produit 15 Soleil.\n<color=black>•</color> Cliquez pour dépenser 500 Soleil afin de restaurer 100 % de sa Robustesse et créer une Noix Solaire Géante sur la case devant elle.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 985,
+            "name": "Commando Chevrotine",
+            "introduce": "<color=#3D1400>En tant que vice-président de la Fédération internationale de rugby, Commando Chevrotine est réputé pour sa sévérité. Chaque nuit, il veille à forger assez de munitions pour le lendemain, prêt à les déchaîner sur le terrain en signe de fureur envers ceux qui, à l'évidence, ne comprennent rien au football américain.</color>",
+            "info": "Tire six Pois de Fer par attaque, avec une chance de déchaîner une tempête de balles d'acier.\n\n<color=#3D1400>Conditions d'utilisation : Mode Odyssée | Déblocable</color>\n<color=#3D1400>Robustesse : </color><color=#8B0000>4000</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>80×6/1,5s</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Plante métallique. Chaque attaque a 2 % de chance de déclencher sa Capacité Ultime : restaure 100 % de sa Robustesse, puis tire pendant 5 s 3 Pois Quarterback dispersés toutes les 0,02 s.\n<color=black>•</color> Les projectiles combinent les effets du Pois de Fer et du Pois Quarterback (repoussent et infligent des dégâts bonus égaux aux PV d'armure de Type 2 de la cible ; les Zombies Quarterback teintés de rouge touchés font demi-tour et s'enfuient).</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Chances de déclenchement de la Capacité Ultime de tous les Commandos ×3\n2. Dégâts de la Capacité Ultime de tous les Commandos ×2 et ne se dispersent plus</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse Quarterback + Pois Renforcé</color>"
+        },
+        {
+            "seedType": 986,
+            "name": "Pois Sniper Synchroniseur",
+            "introduce": "<color=#3D1400>Bien que son fusil soit toujours équipé d'une lunette, Pois Sniper Synchroniseur ne s'en est jamais servi. \" Je n'en ai pas besoin. Je ne vise pas ce qui est devant moi. Je vise le passé plus faible de ma cible. C'est ainsi que je crée un présent où elle est déjà morte. Et dans le futur que je vois \", ricane-t-il, \" je gagne toujours. \"</color>",
+            "info": "Verrouille ses cibles dans l'espace-temps grâce à des tirs de précision et enchaîne les attaques par coordination de tireurs.\n\n<color=#3D1400>Conditions d'utilisation : Mode Odyssée | Déblocable avec Commando Chevrotine</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>900/3s</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce de Commando Chevrotine. Cible n'importe où devant lui ; peut toucher les ennemis volants.\n<color=black>•</color> Les attaques appliquent l'effet Chronofaille pendant 4 s. Les effets sur les zombies Mini-boss et déjà sous Chronofaille sont identiques à ceux du Pois Temporel. Chaque 6e tir est un Tir à la Tête infligeant 1M de dégâts.\n<color=black>•</color> Après que les autres Pois Sniper de la pelouse ont tiré 8 fois, Pois Sniper Synchroniseur tire immédiatement 6 fois de plus.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Tous les Pois Sniper tirent désormais un coup supplémentaire après un Tir à la Tête\n2. Nombre de tirs requis avant de déclencher un Tir à la Tête pour tous les Pois Sniper -3</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Casque de Football <-> Noyau Temporel</color>"
+        },
+        {
+            "seedType": 987,
+            "name": "Sulfateuse Champi-stalactite Épique",
+            "introduce": "<align=left><size=36><color=black>Après des années de service militaire, l'unité Sulfateuse Champi-stalactite Épique a accédé au rang d'officier au sein d'une immense armée. \" Nous devons paraître bien imposants aux yeux des troupes désormais \", disent-ils. En réalité, ils sont toujours aussi minuscules.</color>",
+            "info": "<size=36>Tire des stalactites perforantes. Plus l'accumulation de Gel sur les zombies est élevée, plus ils subissent de dégâts.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocage automatique après obtention des 2 Modificateurs de la Sulfateuse Champi-stalactite</color>\n<color=black>Dégâts : </color><color=#8B0000>40×4/1,5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion de la Sulfateuse Champi-stalactite, dont elle hérite des autres traits.\n<color=black>•</color> Petite plante. Les projectiles perforent jusqu'à 2 fois, appliquent l'effet Gel et infligent 5 points de Cryo. Inflige ×4 dégâts aux zombies Gelé ou immunisés au Gel/à la Congélation.\n<color=black>•</color> Chaque 4e tir devient une Stalactite Glaciaire à perforation infinie. Sur les zombies sous effet Gel, applique la Congélation pendant 4 s et inflige 12× de dégâts ; si la cible est déjà Gelée, retire la Congélation et inflige à la place 48× de dégâts.\n<color=black>Modificateurs principaux d'Odyssée :\n</color><color=#8B0000>1. Perforation portée à l'infini ; les 5 premiers impacts des tirs horizontaux se divisent chacun en 2 nouveaux projectiles à ±15°, infligeant (20 × nombre de divisions) % de dégâts supplémentaires | Effets également appliqués aux variantes Épiques\n2. Dégâts contre les zombies Gelé et immunisés au Gel augmentés de 12× | Effets également appliqués aux variantes Épiques</color>\n\n<color=black>Modificateur de synergie Lance-gangrène :</color><color=#8B0000>\n<color=black>•</color> Vous devez avoir débloqué tous les modificateurs de la Sulfateuse Champi-stalactite et du Lance-fléau avant que cette synergie soit disponible dans la boutique pour 15k.\n<color=black>•</color> Lorsque le Lance-gangrène et la Sulfateuse Champi-stalactite Épique sont plantés sur la même case, les projectiles du premier se divisent une fois de plus, appliquent l'effet Gel et infligent 5 points de Cryo ; tandis que ceux de la seconde appliquent l'Effet Toxique ; les deux gagnent des propriétés de mini-beurre-d'ail.</color>",
+            "cost": "\n<size=36>Formule de Promotion : <color=#8B0000>Pisto-pois > Sulfateuse Champi-stalactite</color>"
+        },
+        {
+            "seedType": 988,
+            "name": "Sulfateuse Champi-rayon-solaire Épique",
+            "introduce": "<align=left><size=36><color=black>Malgré d'innombrables honneurs et médailles, l'unité Sulfateuse Champi-rayon-solaire Épique chérit avant tout autre chose : les couronnes d'herbe tressées pour elle par les habitants durant son passage au sein du \" Corps de la Baie Ensoleillée \". Ils les portent fièrement sur leurs casques et les exhibent à chaque camarade.</color>",
+            "info": "<size=36>Tire des cônes de lumière perforants, portant la production de Soleil à des niveaux éclatants.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocage automatique après obtention des 2 Modificateurs de la Sulfateuse Champi-stalactite</color>\n<color=black>Dégâts : </color><color=#8B0000>40×4/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion de la Sulfateuse Champi-rayon-solaire, dont elle hérite des autres traits ; sous-espèce de la Sulfateuse Champi-stalactite Épique.\n<color=black>•</color> Les projectiles perforent jusqu'à 2 fois. Les 2 premiers impacts génèrent chacun 5 Soleil. Après 2 perforations, si le Soleil > 15 000, consomme 5 Soleil pour multiplier les dégâts de cet impact par (1 + nombre d'impacts).\n<color=black>•</color> Chaque 4e tir devient un Cône de Lumière Astral à perforation infinie. Chaque impact augmente le gain de Soleil de 1 % pendant 3 s et relève le plafond de Soleil de 100.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Perforation portée à l'infini ; les 5 premiers impacts des tirs horizontaux se divisent chacun en 2 nouveaux projectiles à ±15°, infligeant (20 × nombre de divisions) % de dégâts supplémentaires | Effets également appliqués aux variantes Épiques</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Champi-glace <-> Tournesol</color>\nFormule de Promotion : <color=#8B0000>Pisto-pois > Sulfateuse Champi-rayon-solaire</color>"
+        },
+        {
+            "seedType": 989,
+            "name": "Orbiteur d'Axions",
+            "introduce": "<color=#3D1400>\" La puissance de la courbure de l'espace-temps nous rend forts. Elle nous permet d'exploiter la matière noire et de courber librement les trajectoires, jusqu'à orbiter autour d'un trou noir \", dit la tête de devant. Celle de derrière ajouta : \" Et grâce au repliement de l'espace, nous pouvons lire le même article en même temps, méditant ensemble sur les mystères de l'univers. C'est ainsi que nous sommes devenus parmi les physiciens les plus érudits de la pelouse. \"</color>",
+            "info": "Tire des projectiles corrosifs qui affectent continuellement les cibles proches, trous noirs compris.\n\n<color=#3D1400>Conditions d'utilisation : Mode Odyssée | Déblocable avec le Séparateur de Photons</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>40×3/1,5s</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce du Séparateur de Photons. Tire des projectiles corrosifs à tête chercheuse sur toute la ligne, à perforation infinie.\n<color=black>•</color> Les tirs corrosifs poursuivent en ligne droite après avoir touché une cible, infligeant des dégâts toutes les 0,02 s et appliquant 1 point de Poison.\n<color=black>•</color> S'il est capturé par un Trou Noir Ultime, il n'est pas absorbé mais se met en orbite autour de lui ; à la détonation, applique l'Effet Toxique et 30 points de Poison aux cibles.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Rayon de dégâts des projectiles +50 %\n2. Tire désormais 2 projectiles supplémentaires à chaque attaque</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Planterne <-> Ail</color>"
+        },
+        {
+            "seedType": 990,
+            "name": "Pleureur Habanero",
+            "introduce": "<color=#3D1400>Pleureur Habanero fusille du regard de son œil unique. Celui-ci brûle d'une fureur sèche, mais son corps d'obsidienne l'empêche de cligner — ce qui ne fait que l'irriter davantage.</color>",
+            "info": "Génère un anneau d'obsidienne pour protéger les plantes, et peut dépenser de l'énergie pour les sauver dans les moments critiques.\n\n<color=#3D1400>Conditions d'utilisation : Mode Odyssée | Déblocable avec Cryolina Reaper</color>\n<color=#3D1400>Robustesse : </color><color=#8B0000>8000</color>\n<color=#3D1400>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce de Cryolina Reaper. Petite plante, empilable. Vous ne pouvez en avoir au maximum que (nombre de lignes + 2) sur la pelouse à la fois.\n<color=black>•</color> Entre sur le terrain avec 0 charge d'âme. Peut en stocker jusqu'à 3 maximum. Gagne 1 charge pour chaque tranche de 500 zombies éliminés, quel que soit le camp.\n<color=black>•</color> Possède un Anneau d'Obsidienne lié. Cliquez pour l'assigner à une autre plante comme cible de protection ; se réinitialise à la mort de la cible. Peut être réassigné à l'infini en recliquant sur le Pleureur Habanero. L'Anneau d'Obsidienne inflige 1/6 de la Puissance d'attaque aux zombies à son contact (ignore la réduction des dégâts), applique l'effet Gel et soigne la plante protégée de 10 % des dégâts infligés. Lorsque la plante protégée devrait mourir, consomme 1 charge pour la laisser à 1 PV, puis : restaure 100 % de sa Robustesse, déclenche un effet Jalapeño à son emplacement (ignore la réduction des dégâts) et déclenche un effet Champi-glace.\n<color=black>•</color> À sa mort, déclenche un effet Jalapeño (ignore la réduction des dégâts), puis un effet Champi-glace.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Plafond de charges d'âme augmenté à 10 ; gagne désormais 1 charge d'âme à chaque mort de Mini-boss\n2. Lorsqu'une charge d'âme est utilisée, confère également 1 s d'invincibilité à toutes les plantes</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Tuberfuse <-> Champi-gnon</color>"
+        },
+        {
+            "seedType": 1392,
+            "name": "Éclabousseur",
+            "introduce": "<align=left><size=36><color=black>Éclabousseur travaille comme maître-nageur dans une station balnéaire. Tout le monde s'étonne qu'un corps aussi lourd puisse glisser sans effort sur l'eau. Quand on l'interroge, il répond toujours : \" Ce n'est pas si facile à faire. \" En vérité, il flotte grâce à un chapeau-ballon gonflable, dont le fabricant Hopcap a fait faillite il y a dix ans.</color>",
+            "info": "<size=36>Écraseur aquatique.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur > Champi-mer</color>"
+        },
+        {
+            "seedType": 1398,
+            "name": "Lance-kimchi",
+            "introduce": "<align=left><size=36><color=black>Grâce à sa maîtrise de la sauce pimentée, son restaurant coréen ne désemplit jamais. Son propriétaire, Lance-kimchi, est tout aussi ardent, audacieux, passionné et intense. Il n'y a qu'une chose à retenir en mangeant chez lui : une fois rassasié, partez vite… ou il vous resservira une tournée.</color>",
+            "info": "<size=36>Projette des choux épicés et brûlants qui explosent en choux plus petits à l'impact.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3s</color>\n<color=black>Spécial : </color><color=#8B0000>À l'impact, le projectile se divise en projectiles plus petits sur une zone de 3×3 (1/3 des dégâts chacun), appliquant tous l'effet Enflammé avant d'infliger des dégâts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño + Lance-chou</color>"
+        },
+        {
+            "seedType": 1399,
+            "name": "Lance-dégâts",
+            "introduce": "<align=left><size=36><color=black>\" Je suis le chasseur de la nuit \", déclare-t-il. Sa peau sombre se fond parfaitement dans l'obscurité, mais ses yeux rouges lumineux le trahissent souvent. Pourtant, Lance-dégâts refuse de porter des lunettes de soleil, appelant cela \" le regard de la mort \"… bien qu'en vérité, il n'arrive simplement pas à retirer ses lentilles.</color>",
+            "info": "<size=36>Lance des choux à hauts dégâts qui déclenchent des explosions sur les cibles Irradiées.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/15s</color>\n<color=black>Spécial : </color><color=#8B0000>En touchant des zombies Irradiés, le projectile provoque une petite explosion de zone infligeant 1/3 des dégâts sans atténuation.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Lance-chou</color>"
+        },
+        {
+            "seedType": 1400,
+            "name": "Lance-popcorn",
+            "introduce": "<align=left><size=36><color=black>\" Notre popcorn est fait à 100 % d'ingrédients naturels ! \" vante fièrement Lance-popcorn. Pourtant, les clients mettent souvent sa parole en doute, surtout parce que son beurre semble perpétuellement brûlant et impossible à refroidir.</color>",
+            "info": "<size=36>Lance du beurre de magma qui enflamme les ennemis et renforce les plantes de type feu.\n\n<color=black>Dégâts : </color><color=#8B0000>30/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les projectiles appliquent l'altération Enflammé avant d'infliger des dégâts.\n<color=black>•</color> A 25 % de chance de lancer du Beurre de Magma (50 dégâts) : applique un étourdissement de 4 s, déclenche un effet Jalapeño sur toute la ligne infligeant 50 dégâts, et confère aux plantes de feu (fusions de Jalapeño) +50 % de dégâts d'attaque pendant 6 s (+25 % pour celles d'Odyssée).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño + Lance-maïs</color>"
         }
     ]
 }

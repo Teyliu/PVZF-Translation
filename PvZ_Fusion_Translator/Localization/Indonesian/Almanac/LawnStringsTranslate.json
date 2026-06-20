@@ -282,10 +282,24 @@
         },
         {
             "seedType": 40,
-            "name": "Bom Salju",
-            "introduce": "<size=14><color=black>Demi bertahan hidup di padang salju yang dingin, Bom Salju berevolusi dengan menumbuhkan bulu putih di sekujur tubuhnya. Namun, bulu-bulu ini sering kali membuatnya merasa kesal; selain karena mudah rontok, tanaman lain juga tidak tahan untuk tidak mengelus kepalanya, seolah-olah sedang mengelus tanaman randa tapak liar.</color></size>",
+            "name": "Rumput Salju",
+            "introduce": "<size=14><color=black>Demi bertahan hidup di padang salju yang dingin, Rumput Salju berevolusi dengan menumbuhkan bulu putih di sekujur tubuhnya. Namun, bulu-bulu ini sering kali membuatnya merasa kesal; selain karena mudah rontok, tanaman lain juga tidak tahan untuk tidak mengelus kepalanya, seolah-olah sedang mengelus tanaman randa tapak liar.</color></size>",
             "info": "<size=14><color=#0d266b>Meledakkan lingkaran bola salju untuk menghantam zombi secara langsung, sekaligus memberikan hawa dingin pada tanaman.\n\n<color=black>Damage: </color><color=red>600×7</color>\n<color=black>Karakteristik: </color><color=red>Bola salju yang mengarah ke kiri akan memberikan 1 damage pada tanaman dan membekukan tanaman dalam area 3×3; bola salju lainnya akan memberikan 600 damage pada zombi serta memberikan efek beku Level 1 selama 1 detik.</color></size>",
             "cost": "<size=14>Biaya: <color=red>100</color>\nCooldown: <color=red>30 Detik</color></size>"
+        },
+        {
+            "seedType": 217,
+            "name": "Hologram Kacang Obsidian Tinggi",
+            "introduce": "<color=#3D1400>Sebagai tanaman yang sudah berakar kuat, Kacang Obsidian sangat benci dipindah-pindahkan secara sering. Karena itu, ia menghabiskan banyak uang untuk membeli perangkat proyeksi hologram dari Pemakan Zombi Maut agar para proyeksi tersebut bisa menggantikannya menjaga garis pertahanan. Yang membuatnya bingung adalah, mengapa saat hologram-hologram ini terluka, dirinya sendiri juga ikut merasakan sakit?</color>",
+            "info": "<size=14><color=#0d266b>Proyeksi hologram dari Kacang Obsidian.\n\n<color=black>HP: </color><color=red>20000</color>\n<color=black>Karakteristik: </color><color=red>Tinggi Besar</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap lindasan dan efek pukul mundur (Knockback).\n(2) Semua damage yang diterima akan dialihkan sepenuhnya ke Kacang Obsidian Tinggi Ultimate yang bertindak sebagai tubuh aslinya.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 218,
+            "name": "Sukulen Cakar Beruang",
+            "introduce": "<color=#3D1400>\"Kalau liburan, enaknya pergi ke mana ya?\" Sukulen Cakar Beruang sering memikirkan pertanyaan ini. Meskipun ia sendiri sangat malas dan hanya suka tiarap di tempat tanpa mau bergerak, ia sangat senang membantu peluru-peluru yang bertugas untuk terbang ke segala arah demi mencari pemandangan yang unik.</color>",
+            "info": "<size=14><color=#0d266b>Menggunakan tubuhnya yang elastis untuk memantulkan peluru tanaman.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>Mengubah jalur peluru non-tracking milik pihak tanaman yang menyentuhnya: Jalur peluru yang mengarah ke kiri akan diubah menjadi bergeser ke kanan, sedangkan jalur lainnya akan diubah menjadi bergeser ke kiri. Maksimal mengubah 29 peluru setiap 1.5 detik.</color></indent></color></size>",
+            "cost": ""
         },
         {
             "seedType": 219,
@@ -593,6 +607,13 @@
             "name": "Kacang Matahari Kembar Utama",
             "introduce": "<size=14><color=black>\"Seperti apa rupa taman di masa depan?\" Demi melihat masa depan, Kacang Matahari Kembar dari masa lalu menciptakan alat pemindah ruang-waktu bertenaga cahaya matahari untuk datang ke masa kini. Awalnya ia hanya berencana melihat-lihat lalu pulang, namun setelah melihat dirinya yang menghancurkan laboratorium, dirinya yang bertubuh zombi, dan dirinya yang melewatkan pesta es krim di pantai, ia memutuskan untuk tetap di sini dan membantu.</color></size>",
             "info": "<size=14><color=#0d266b>Mendapatkan matahari saat menerima damage. Dapat secara manual mengonsumsi matahari untuk memulihkan HP dan memanggil Kacang Matahari raksasa di depannya.\n\n<color=black>Syarat Pakai: </color><color=red>Mode Misteri</color>\n<color=black>Ketahanan: </color><color=red>4000</color>\n<color=black>Fitur Khusus: </color>\n<indent=5%><color=red>(1) Saat terluka, ia kebal terhadap damage tersebut, namun menerima damage tetap sebesar 50 dan menjatuhkan 15 matahari.\n(2) Mengetuk tanaman akan mengonsumsi 500 matahari untuk memulihkan HP sepenuhnya (1x lipat ketahanan) dan menciptakan Giant Kacang Matahari di petak depannya.</color></indent></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 308,
+            "name": "Kacang Tinggi Abadi",
+            "introduce": "<color=#3D1400>Saat Kacang Tinggi Abadi terbangun dari mimpinya, dunia di hadapannya sudah berubah total dari apa yang ia ingat. Ia tidak tahu sudah berapa lama ia tertidur, ia hanya ingat bahwa selama tidurnya ia tampaknya telah dipindahkan berkali-kali. Belakangan saat mengobrol dengan tanaman taman lainnya, ia baru tahu bahwa dirinya sempat dijadikan patung kuno dan diperjualbelikan selama beberapa abad.</color>",
+            "info": "<size=14><color=#0d266b>Kemiri Tinggi yang tak hancur-hancur, kekerasannya selalu berada di arah yang berbeda dari angka normal.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Misterius</color>\n<color=black>HP: </color><color=red>640000</color>\n<color=black>Karakteristik: </color><color=red>Tinggi Besar</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap lindasan dan efek pukul mundur (Knockback).\n(2) Imun terhadap segala jenis damage.\n(3) Imun terhadap nilai sekop (tidak bisa digali/dihapus).</color></indent></color></size>",
             "cost": ""
         },
         {
@@ -1363,6 +1384,41 @@
             "name": "King Cabai Obsidian Bocil",
             "introduce": "<color=#3D1400>King Cabai Obsidian Bocil menatap dengan marah menggunakan mata tunggalnya. Matanya terasa kering hingga terasa terbakar, namun tubuh obsidiannya membuatnya tidak bisa berkedip sama sekali, yang membuatnya semakin kesal.</color>",
             "info": "<size=14><color=#0d266b>Menciptakan cincin kristal untuk melindungi tanaman di dekatnya, dan mengonsumsi energi untuk menyelamatkan mereka di saat kritis.\n<color=blue>Subspesies King Cabai Obsidian</color>\n\n<color=black>Syarat: </color><color=red>Beli resep di Mode Travel</color>\n<color=black>Konversi: </color><color=red>King Cabai Obsidian ←→ Jamur Bocil</color>\n<color=black>Ketahanan: </color><color=red>8000</color>\n<color=black>Damage: </color><color=red>1800 (Abu/Instant)</color>\n<color=black>Karakteristik: </color><color=red>Rendah, bisa ditanam rapat</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Muncul tanpa energi, maksimal 3 lapis. Mendapat 1 lapis energi setiap kali ada 500 zombi mati (total dari kedua pihak).\n(2) Memiliki Cincin Obsidian pendamping. Klik untuk memindahkannya ke tanaman lain sebagai target perlindungan hingga tanaman tersebut mati. Target bisa diganti berulang kali.\n(3) Saat mati, memicu efek Cabai secara berurutan (imun terhadap pengurangan damage) dan efek Jamur Es.\n(4) Maksimal tanaman di lapangan: (Jumlah baris peta + 2).\n\n(Cincin Obsidian):\n(1) Setiap 0.5 detik, memberikan damage 1/6x Attack ke zombie yang menyentuhnya, memberikan efek dingin, dan memulihkan 10% dari damage tersebut ke HP target perlindungan.\n(2) Jika target perlindungan akan mati karena damage, konsumsi 1 lapis energi untuk menyisakan 1 HP, lalu: Memulihkan 100% HP, memicu efek Cabai di posisinya, dan melepaskan efek Jamur Es.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 991,
+            "name": "King Jamur Popcorn Vulkanik",
+            "introduce": "<color=#3D1400>Kunci utama untuk membuat domba guling yang lezat adalah mengendalikan tingkat kepanasan api dengan pas. Jika terlalu kecil, bagian dalamnya tidak akan matang; jika terlalu besar, akan mudah gosong. Terlebih lagi, jangan pernah mengira King Jamur Popcorn Vulkanik sebagai alat pemanggang, karena hal itu hanya akan membuat seluruh tubuh domba terpanggang hingga menyisakan tulang, lalu menempel di atas kepalanya.</color>",
+            "info": "<size=14><color=#0d266b>Berkumpul bersama elemen api untuk saling menghangatkan, membuat semangat bertempur meluap membara, dan memerintahkan para Jamur Vulcan untuk menyerang dan membakar bersama.\n<color=blue>Subspesies King Per Semangka</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Beli resep di Mode Perjalanan (Travel Mode)</color>\n<color=black>Resep Konversi: </color><color=red>King Per Semangka ←→ Jagung</color>\n<color=black>HP: </color><color=red>3000</color>\n<color=black>Damage: </color><color=red>300</color>\n<color=black>Jangkauan Serang: </color><color=red>Baris ini dan baris tetangga</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Setiap 1 detik, berdasarkan jarak grid antara tanaman tipe api dalam jangkauan 5×5 dengan dirinya sendiri, setiap tanaman dapat memberikan maksimal 5 poin energi panas, batas maksimal energi panas adalah 300.\n(2) Tidak mengunci musuh (tidak otomatis menyerang). Menyerang sekali saat terluka atau saat diklik secara manual.\n(3) Serangan akan menghabiskan energi panas sebanyak mungkin untuk menembakkan blok minyak merah ke setiap zombi dalam jangkauan, setiap tembakan menghabiskan 100 energi panas. Setelah 1.5 detik, memicu semua Jamur Pegas Vulcan Ultimate dalam jangkauan 3×3 untuk bersama-sama menyerang target dengan HP tertinggi, serangan ini dianggap sebagai tembakan klik.\n(4) Saat blok minyak merah mengenai target, akan memberikan status tertahan (immobile) selama 4 detik, melepaskan efek Cabai Jalapeno dengan damage setara, serta membuat tanaman tipe api yang terpengaruh oleh api tersebut mendapatkan bonus 50% Attack Power selama 6 seken.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 992,
+            "name": "Jamur Es Hening",
+            "introduce": "<color=#3D1400>Adat istiadat Zaman Es selalu menggantungkan tanduk dari mangsa yang berhasil ditangkap pada tubuh sendiri untuk memamerkan kekuatan militer mereka. Hal ini juga berlaku bagi Jamur Es Hening; duri-duri es yang tak terhitung jumlahnya di atas kepalanya adalah trofi kemenangannya—tentu saja yang ia buru bukanlah mangsa biasa, melainkan seluruh Zaman Es, memotong angin dingin dunia untuk dijadikan hiasan di atas kepalanya.</color>",
+            "info": "<size=14><color=#0d266b>Memanggil duri es dari tanah untuk membekukan zombi dengan cepat. Efek dingin ekstrem terakumulasi selapis demi selapis, sekeras gletser.\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Perjalanan (Travel Mode)</color>\n<color=black>Resep Fusi: </color><color=red>Nuklir Es + Jamur Es</color>\n<color=black>Damage: </color><color=red>300</color>\n<color=black>Jangkauan Kunci Musuh: </color><color=red>Radius 5.2 kotak</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Setiap 1 detik, melepaskan duri tajam ke zombi terdekat dalam jangkauan, memberikan status beku selama 10 detik, menghasilkan splash damage setara pada radius 1.5 kotak, memberikan status dingin, dan memberikan 50 poin nilai pembekuan.\n(2) Setiap 60 kali menyerang, memberikan tambahan damage abu (ash damage) sebesar 6 kali Attack Power ke seluruh zombi di lapangan dan memberikan status beku selama 5 detik, kemudian mendapatkan 1 lapis Kekuatan Es Ekstrem (maksimal 50 lapis per babak).\n(3) Melepaskan efek Jamur Doom Es saat mati.\n(4) Setiap lapis Kekuatan Es Ekstrem memberikan bonus 3% damage. Untuk 200 lapis pertama, setiap lapis memberikan tambahan 1% Attack Speed dan jangkauan damage, serta setiap 10 lapis meningkatkan nilai pembekuan dari splash damage sebanyak 5 poin.</color></indent>\n<color=black>Atribut 1: </color><color=red>Es Menggantung Ratusan Kaki: Membuka subspesies Jamur Es Kehancuran. Jamur Es Hening mendapatkan tambahan 100 lapis Kekuatan Es Ekstrem; Jamur Es Kehancuran mendapatkan tambahan 100% Attack Power.</color>\n<color=black>Atribut 2: </color><color=red>Membekukan Ribuan Mil: Jangkauan kunci musuh Jamur Es Hening berlipat ganda, interval serangan koordinasi Jamur Es Kehancuran berkurang setengah.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 993,
+            "name": "Kucing Magic · Chroma (Air)",
+            "introduce": "<color=#3D1400>\"Kucing Magic paling imut, muncul dengan berkilau!\"\nBersamaan dengan sekelebat cahaya, Kucing Magic yang telah berganti kostum baru muncul di taman. Tidak ada yang tahu mengapa dia muncul di sini, apakah demi keadilan dunia? Atau demi cinta dan perdamaian? \"Tentu saja untuk menjadi Kucing Magic yang paling imut, meow!\"</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan peluru sihir pelacak ke seluruh lapangan, serta dapat menggunakan sihir warna-warni untuk menyadarkan musuh.\n<color=blue>Tanaman Kolaborasi \"Plants Girl vs Zombies\"</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Perjalanan (Travel Mode)</color>\n<color=black>Resep Fusi: </color><color=red>Kucing Magic (Sebagai alas) + Jamur Hipno</color>\n<color=black>Damage: </color><color=red>300 × 2 / 1.5 detik</color>\n<color=black>Karakteristik: </color><color=red>Akuatik (Air)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan mengunci musuh di seluruh lapangan, memprioritaskan target udara.\n(2) Klik manual untuk memilih satu lokasi pada baris ini, melepaskan sihir warna-warni di dasar kotak target untuk menghipnotis zombi dalam radius 1 kotak, bisa mengenai target udara. Setelah dilepaskan, memasuki waktu cooldown selama 50 detik; setiap butir peluru saat menyerang akan mengurangi waktu cooldown sebanyak 1 detik.</color></indent>\n<color=black>Atribut 1: </color><color=red>Pesta Kolam Renang: Cooldown sihir warna-warni berkurang menjadi 25 detik, radius hipnotis meningkat 0.5 kotak.</color>\n<color=black>Atribut 2: </color><color=red>Cinta dan Kenangan: Zombi yang terhipnotis oleh sihir warna-warni akan menghasilkan tambahan 30% damage yang mengabaikan damage reduction saat menggigit.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 994,
+            "name": "Kucing Magic · Chroma (Darat)",
+            "introduce": "<color=#3D1400>\"Kucing Magic paling imut, muncul dengan berkilau!\"\nBersamaan dengan sekelebat cahaya, Kucing Magic yang telah berganti kostum baru muncul di taman. Tidak ada yang tahu mengapa dia muncul di sini, apakah demi keadilan dunia? Atau demi cinta dan perdamaian? \"Tentu saja untuk menjadi Kucing Magic yang paling imut, meow!\"</color>",
+            "info": "<size=14><color=#0d266b>Menembakkan peluru sihir pelacak ke seluruh lapangan, serta dapat menggunakan sihir warna-warni untuk menyadarkan musuh.\n<color=blue>Subspesies Kucing Magic · Chroma (Air)</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Mode Perjalanan (Travel Mode)</color>\n<color=black>Resep Fusi: </color><color=red>Jamur Hipno (Sebagai alas) + Kucing Magic</color>\n<color=black>Resep Konversi: </color><color=red>Sekop Gali ←→ Sekop Gali</color>\n<color=black>Damage: </color><color=red>300 × 2 / 1.5 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Serangan mengunci musuh di seluruh lapangan, memprioritaskan target udara.\n(2) Klik manual untuk memilih satu lokasi pada baris ini, melepaskan sihir warna-warni di dasar kotak target untuk menghipnotis zombi dalam radius 1 kotak, bisa mengenai target udara. Setelah dilepaskan, memasuki waktu cooldown selama 50 detik.</color></indent></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 995,
+            "name": "Jamur Es Kehancuran",
+            "introduce": "<color=#3D1400>Tidak ada yang tahu dari mana Jamur Es Kehancuran berasal. Ia tidak suka berkomunikasi, membenci mamut, dan memiliki hubungan yang sangat buruk dengan Jamur Doom Es Dewa Odin Ultimate. Ia hanya membisu sambil menumpahkan hawa dingin dari dalam tubuhnya; dari hawa dingin yang keruh itu, tercium aroma salju kotor beradiasi nuklir yang memenuhi udara setelah kehancuran dunia.</color>",
+            "info": "<size=14><color=#0d266b>Melepaskan ledakan es berfrekuensi tinggi secara sinergis dengan serangan es. Efek dingin ekstrem menggema berulang kali, layaknya badai salju gletser.\n<color=blue>Subspesies Jamur Es Hening</color>\n\n<color=black>Syarat Penggunaan: </color><color=red>Undian resep di Mode Perjalanan (Travel Mode)</color>\n<color=black>Resep Konversi: </color><color=red>Jamur Es Hening ←→ Jamur Nuklir</color>\n<color=red>*Saat Jamur Es Hening meninggalkan lapangan karena konversi, tidak akan memicu efek kematian (Last Words/Death Rattle).</color>\n<color=black>Damage: </color><color=red>300</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Tidak mengunci musuh secara otomatis. Saat tanaman tipe es menyerang zombi, ia akan bersinergi menghasilkan damage dalam radius 1.5 kotak, memberikan status dingin, lalu memasuki cooldown selama 0.1 detik.\n(2) Setelah serangan sinergis, mendapatkan bonus Attack Power sebesar (Total Lapis Kekuatan Es Ekstrem ÷ Jumlah Jamur Es Kehancuran)%, bonus ini tidak dapat ditumpuk.</color></indent></color></size>",
             "cost": ""
         },
         {
@@ -4179,6 +4235,188 @@
             "name": "Ranjau Kentang Es",
             "introduce": "<color=#3D1400>\"Aku adalah tokoh utama di medan perang,\" pikir Ranjau Kentang Es, \"dan tokoh utama selalu muncul di saat terakhir.\" Sebelum beraksi, ia bahkan mengubur dirinya di tanah yang sejuk untuk beristirahat cukup, tentu saja sambil memastikan gaya rambutnya yang sempurna tetap berada di luar agar tidak kotor.</color>",
             "info": "<size=14><color=#0d266b>Mengkonsentrasikan kekuatan es; hanya dengan sedikit percikan, ia bisa terus mengembang dan meledak.\n\n<color=black>Damage: </color><color=red>1800</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Saat muncul ke permukaan atau meledak, ia melepaskan ledakan es: Memberikan status beku 4 detik pada zombi dalam area 3x3, menghasilkan 1/3 damage, dan memicu ledakan es mikro tambahan pada 8 kotak di sekitarnya jika ada zombi di sana.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Ranjau Kentang + Jamur Es</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1402,
+            "name": "Rebung Salju",
+            "introduce": "<color=#3D1400>Membuat orang-orangan salju adalah hiburan paling umum di padang salju, dan Rebung Salju sangat suka mengubah dirinya menjadi orang-orangan salju. Berbaur di dalam tumpukan salju tidak hanya menyamarkan dirinya, tetapi juga membuatnya bisa menghukum dengan kejam para zombi yang suka menendang orang-orangan salju sembarangan. Mendengar jeritan mereka yang menggema di padang belantara benar-benar sebuah pelajaran yang menusuk hingga ke tulang.</color>",
+            "info": "<size=14><color=#0d266b>Rebung musim dingin yang dilapisi bulu putih halus, bulunya akan \"berdiri tegak\" saat melawan zombi.\n\n<color=black>HP: </color><color=red>1500</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek beku (frozen) dan pembekuan es (icebound).\n(2) Setelah diserang zombi, ia akan meledakkan lingkaran bola salju; 5 di antaranya adalah bola salju hitam dengan damage 100, dan 3 sisanya adalah bola salju putih.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Rebung + Rumput Salju</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1403,
+            "name": "Teratai Duri Bersalju",
+            "introduce": "<color=#3D1400>Menurut legenda, teratai padang salju tumbuh di puncak gunung salju yang berbahaya, dan hanya orang-orang pemberani yang dapat melihatnya. Teratai Duri Salju tidak setuju dengan hal itu; ia tumbuh di kaki gunung yang biasa saja, mengerahkan setiap jengkal kekuatannya untuk menembus tanah beku dan lapisan salju. Warna hitam tanah yang menempel pada daunnya menceritakan kerja kerasnya. Tidak perlu mendaki hingga ke puncak gunung, bisa melangkah kaki ke padang salju saja sudah merupakan keberanian yang luar biasa, dan Teratai Duri Salju adalah medali dari keberanian tersebut.</color>",
+            "info": "<size=14><color=#0d266b>Teratai es yang akan mengirimkan hawa dingin salju dalam jumlah besar ke tanaman di sekitarnya.\n\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek beku (frozen) dan pembekuan es (icebound).\n(2) Mendapatkan 1 lapis status充能 (Charge/Energi) setiap 5 detik. Saat terkena serangan berefek beku atau badai salju, masing-masing akan memberikan 1 atau 60 lapis energi.\n(3) Saat mengumpulkan energi, ia dapat mengonsumsi 5 lapis energi untuk terbangun. Saat terbangun, ia memulihkan 100 HP tanaman dalam jangkauan 3×3 dan memberikan status beku, serta secara ekstra membuat tanaman jenis Teratai Es terbangun, lalu memberikan 5 poin energi untuk tanaman jenis Lidah Buaya Tetes Air dan Tusam Teratai. Setelah itu, ia membutuhkan waktu hibernasi minimal 2 detik.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Teratai Es + Rumput Salju</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1404,
+            "name": "Pot Kipli",
+            "introduce": "<color=#3D1400>Pot Kipli adalah fans berat Kipli. Dia mengecat dirinya dengan warna hijau, membuat beberapa lembar daun dari bubur kertas, dan bahkan mengubah vas bunga tua menjadi laras senapan kacang polong! Sekarang, dia hanya tinggal membutuhkan sebuah tanda tangan.</color>",
+            "info": "<size=14><color=#0d266b>Pondasi menembak untuk keluarga Kipli, memanfaatkan gaya dorong balik (recoil) untuk meletupkan daya tembak ekstra.\n\n<color=black>Karakteristik: </color><color=red>Pendek, Wadah Tanaman, Bisa ditanam di tanah kosong</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap kali tanaman jenis Kipli di kotak ini menembakkan 30 peluru, pot ini akan membuatnya segera menembakkan 5 peluru tambahan secara instan.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Pot (Alas) + Kipli</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1405,
+            "name": "Pot Sniper",
+            "introduce": "<color=#3D1400>Bagi Pot Sniper, menggunakan senapan sniper sebenarnya sama sekali tidak sulit. Kamu hanya perlu belajar cara mengganti magasin, cara mengokang senapan sniper, lalu menyerahkan senapan sniper yang sudah terisi peluru tersebut kepada teman yang bisa menggunakannya.</color>",
+            "info": "<size=14><color=#0d266b>Pondasi menembak untuk keluarga tanaman sniper, memanfaatkan gaya dorong balik (recoil) untuk meletupkan daya tembak ekstra.\n\n<color=black>Karakteristik: </color><color=red>Pendek, Wadah Tanaman, Bisa ditanam di tanah kosong</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Setiap kali tanaman seri Sniper Shooter di kotak ini menyerang sebanyak 6 kali, pot ini akan membuatnya segera menyerang 1 kali tambahan secara instan.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Pot (Alas) + Kipli Sniper</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1406,
+            "name": "Tusam Duri Es",
+            "introduce": "<color=#3D1400>\"Mau main perang bola salju?\" Tusam Duri Es selalu muncul bersamaan dengan pertanyaan ini. Perang bola salju adalah olahraga padang salju yang paling ia sukai dan kuasai; ia pernah mencetak rekor gemilang satu lawan tiga belas di lapangan salju. \"Berani mengendap-endap menyerangku? Hei, rasakan ini!\"</color>",
+            "info": "<size=14><color=#0d266b>Melemparkan bola salju ke arah depan dan belakang untuk membalas menyerang saat terkena bola salju.\n\n<color=black>Damage: </color><color=red>200 × 3 (Bola Salju Hitam)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek beku (frozen) dan pembekuan es (icebound).\n(2) Tidak mengunci musuh secara otomatis. Saat terkena bola salju putih, ia akan menembakkan 3 bola salju hitam ke arah depan untuk menyerang zombi, dan menembakkan 3 bola salju putih ke arah belakang untuk membekukan tanaman.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Tusam Pemanah + Rumput Salju</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1407,
+            "name": "Labu Gatling Super",
+            "introduce": "<color=#3D1400>\"Tempat ini sudah penuh sesak!\" teriak Labu Gatling Super, \"Sudah penuh dengan peluru kacang polong!\" Meskipun dia selalu berkata begitu setiap saat, pada akhirnya dia akan selalu berusaha memeras sedikit ruang agar tanaman lain bisa bersembunyi di dalam tubuhnya untuk membantu mereka menahan serangan dari zombi.</color>",
+            "info": "<size=14><color=#0d266b>Labu yang memiliki karakteristik dari Super Gatling Pea.\n\n<color=black>HP: </color><color=red>4000</color>\n<color=black>Damage: </color><color=red>20 × 6 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>Saat melakukan serangan biasa, setiap peluru memiliki peluang 2% untuk memicu efek Ultimate: memulihkan HP ketahanan sebesar 1 kali lipat, imun terhadap damage dan lindasan selama 5 detik, serta menyebarkan tembakan 3 peluru kacang polong setiap 0.02 detik.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Labu + Kipli Gatling</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1408,
+            "name": "Semangka Nuklir",
+            "introduce": "<color=#3D1400>Rasa buah semangka sering kali bisa dibedakan hanya dengan mengetuk permukaan semangka secara perlahan. Suara yang renyah menandakan semangka yang manis garing, suara yang berat menandakan semangka yang berdaging pasir lembut, dan suara yang memekakkan telinga... itu adalah Semangka Doom!</color>",
+            "info": "<size=14><color=#0d266b>Melemparkan semangka bara abu ke tanah, menghasilkan daya ledak yang luar biasa kuat saat menciptakan lubang hancur.\n\n<color=black>Damage: </color><color=red>1800 / 3 detik</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Peluru tidak akan langsung mengenai zombi, melainkan melepaskan ledakan Jamur Doom saat mendarat di tanah (damage setara dan meninggalkan lubang bara abu).\n(2) Jika kotak tempat mendarat sudah memiliki lubang hancur atau berada di dalam air, serangannya berubah menjadi splash damage area kecil dengan nilai 1/18 damage (jika kotak tersebut memiliki Pot Semangka, jangkauan area akan diperluas).</color></indent>\n<color=black>Lubang Bara Abu: </color><color=red>Salah satu jenis lubang hancur. Memberikan status bara abu (ember) pada zombi yang berada di kotak tersebut.</color>\n<color=black>Resep Fusi: </color><color=red>Semangka + Nuklir</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1409,
+            "name": "Lidah Buaya Salju",
+            "introduce": "<color=#3D1400>Dalam hal melempar bola salju, Lidah Buaya Salju adalah seorang jenius. Dia bisa menggunakan satu-satunya daun yang dia miliki untuk melempar bola salju seukuran kepalan tangan secara akurat, dan bahkan bisa melakukan juggling dengan menangkap bola salju lainnya di saat bersamaan. Hanya saja kemampuan menangkap bolanya jelas tidak sebagus kemampuannya melempar, bola salju sering kali justru menghantam kepalanya sendiri.</color>",
+            "info": "<size=14><color=#0d266b>Terus-menerus melemparkan bola salju untuk membuat tanaman-tanaman diselimuti kesegaran es.\n\n<color=black>Damage: </color><color=red>40 / 1.5 detik (Bola Salju Hitam)</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Imun terhadap efek beku (frozen) dan pembekuan es (icebound).\n(2) Mendapatkan 1/15 poin energi (charge) saat terkena serangan berefek beku atau efek Jamur Es.\n(3) Baik mengunci musuh ataupun tidak, ia akan terus melambungkan bola salju ke atas untuk mengenai dirinya sendiri. Jika ada target musuh yang terkunci, ada peluang 25% serangannya berubah menjadi lemparan bola salju hitam untuk menyerang zombi.\n(4) Saat melemparkan bola salju putih, ia dapat mengonsumsi 3 poin energi untuk melemparkan satu bola salju putih tambahan ke masing-masing 3 tanaman terjauh di depannya.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Lidah Buaya + Rumput Salju</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1410,
+            "name": "Kotak Labu",
+            "introduce": "<color=#3D1400>Saat Halloween, setiap rumah harus menyiapkan permen untuk menyambut kunjungan orang lain, dan Kotak Labu menjadi pilihan terbaik untuk tempat penyimpanan. Ia memiliki kapasitas besar, kualitas bagus, dan penampilan yang cocok dengan suasana festival, membuatnya sangat populer. Mengenai apakah dia sendiri akan mencuri isi di dalamnya dan diam-diam memakan permen saat tidak ada orang yang melihat? Siapa yang tahu.</color>",
+            "info": "<size=14><color=#0d266b>Tanaman posisi utama yang digunakan untuk menyimpan kartu tanaman.\n\n<color=black>HP: </color><color=red>8000</color>\n<color=black>Fitur: </color>\n<indent=5%><color=red>(1) Dapat menyimpan kartu tanaman yang jatuh di lapangan, dan kartu dapat diambil kembali dengan cara diklik.\n*Kartu yang disimpan tidak akan bertahan saat tanaman mati atau saat memasuki babak/level berikutnya.\n(2) Memiliki total 27 slot penyimpanan. Berdasarkan kualitas tanaman, batas maksimal tumpukan (stack) untuk setiap jenis tanaman dalam satu slot adalah sebagai berikut:\nTanaman Dasar: 32\nTanaman Seri Biasa: 16\nTanaman Seri Super: 8\nTanaman Terbatas Perjalanan & Ultimate Lemah: 4\nTanaman Ultimate Kuat: 2\nKartu Merah Misterius: 1\nJika berada di dalam Mode Acak Super (Super Random Mode), jumlah slot menjadi 54 dan batas maksimal tumpukan semuanya menjadi 64.</color></indent>\n<color=black>Resep Fusi: </color><color=red>Labu × 2\n*Labu yang digunakan sebagai alas tidak boleh dalam kondisi rusak/pecah.</color></color></size>",
+            "cost": ""
+        },
+        {
+            "seedType": 1411,
+            "name": "毁灭玉米投手",
+            "introduce": "<color=#3D1400>毁灭玉米投手特别擅长将其他投掷物黏附在黄油的后面, 出其不意地袭击那些轻视黄油攻击的僵尸. 这个技巧也被他应用于偷取战友的午餐外卖. </color>",
+            "info": "利用余烬能量, 指挥相邻的投手植物齐发攻敌. \n\n<color=#3D1400>伤害: </color><color=red>40/3秒</color>\n<color=#3D1400>Feature: ①</color><color=red>攻击施加余烬状态</color>\n<color=#3D1400>②</color><color=red>出场时拥有10点能量. 本行有处于余烬状态的僵尸死亡时, 获得1点能量</color>\n<color=#3D1400>③</color><color=red>有25%概率投出60伤害的黄油. 同时可以各消耗1点能量, 使左右相邻的投手植物立即攻击一次, 其子弹由自身代为发射(仅一发普通子弹)</color>\n<color=#3D1400>融合配方: </color><color=red>玉米投手+毁灭菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1412,
+            "name": "杨桃豌豆射手",
+            "introduce": "<color=#3D1400>杨桃豌豆射手非常骄傲, 他认为自己是闪闪发光的, 就像天上的星星那样. 虽然朋友们告诉他, 他并没有能穿透迷雾或黑夜的光芒, 但这丝毫不影响星星豌豆射手每天保持着好心情, 并承担了城市里一个礼堂穹顶的星空风格装修. </color>",
+            "info": "发射杨桃豌豆, 在命中前散播多次星星. \n\n<color=#3D1400>伤害: </color><color=red>20/1.5秒</color>\n<color=#3D1400>Feature: </color><color=red>子弹每0.5秒一次(首次0.2秒), 向周围分裂出5个星星子弹, 最多分裂5次</color>\n<color=#3D1400>融合配方: </color><color=red>豌豆射手+杨桃</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1413,
+            "name": "火爆南瓜",
+            "introduce": "<color=#3D1400>火爆南瓜是饭店的优秀员工, 他平时负责当服务员, 节日会为客人表演魔术, 如果后厨出了些意外, 他还会临时顶替煤气灶的工作. </color>",
+            "info": "能存储火爆辣椒的力量, 点击会全部释放, 爆发强大威力. \n\n<color=#3D1400>HP: </color><color=red>4000</color>\n<color=#3D1400>Feature: ①</color><color=red>被啃咬时对啃咬者造成20伤害并施加红温状态</color>\n<color=#3D1400>②</color><color=red>受到火爆辣椒效果时, 获得10%伤害的热能. 本行有红温的僵尸死亡时, 获得60热能</color>\n<color=#3D1400>③</color><color=red>热能至多100万. 每30点使啃咬反伤+1. 若热能不小于1800, 点击或死亡时会消耗全部热能, 释放等伤害的火爆辣椒效果</color>\n<color=#3D1400>融合配方: </color><color=red>南瓜(底座)+火爆辣椒</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1414,
+            "name": "毁灭水草",
+            "introduce": "<color=#3D1400>由于长期熬夜研究聚变难题导致睡眠不足, 毁灭水草的双眼布满了血丝. 有很多同事建议他补足睡眠、治一治这双红眼, 他却完全不想这样做. “那样的话, 我拍出来的照片可就全是黑白的了……想想都可怕. ”</color>",
+            "info": "蕴含毁灭菇力量的缠绕水草. \n\n<color=#3D1400>伤害: </color><color=red>秒杀(溺死)</color>\n<color=#3D1400>Feature: </color><color=red>死亡时释放毁灭菇效果</color>\n<color=#3D1400>融合配方: </color><color=red>缠绕水草(底座)+毁灭菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1415,
+            "name": "仙人掌地刺",
+            "introduce": "<color=#3D1400>他曾经是一株仙人掌, 在大象研究所工作. </color>",
+            "info": "能扎到空中单位的地刺. \n\n<color=#3D1400>伤害: </color><color=red>20/1秒</color>\n<color=#3D1400>Feature: </color><color=red>每次攻击向上方发射3发尖刺, 普通攻击和子弹均可对空</color>\n<color=#3D1400>融合配方: </color><color=red>地刺+仙人掌</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1416,
+            "name": "雪棘钢叶草",
+            "introduce": "<color=#3D1400>“放心吧, 我不会把锯片甩到你们身上的. ”雪棘钢叶草向其他植物保证. 虽然他确实拿稳了他的圆锯, 但锯片上的积雪却随着高速旋转的锯片飞得到处都是. </color>",
+            "info": "高速旋转叶片并甩出雪球, 效率会随护盾增多而加快. \n\n<color=#3D1400>伤害: </color><color=red>5/0.02秒</color>\n<color=#3D1400>Feature: ①</color><color=red>拥有钢叶草的特点</color>\n<color=#3D1400>②</color><color=red>每攻击10次时会额外发射一发雪球. 雪球以螺旋角度发射, 向左的是白雪球, 其余为4倍攻击力的黑雪球</color>\n<color=#3D1400>③</color><color=red>雪球攻击速度会增加(护盾/韧性)倍, 最多增加1倍</color>\n<color=#3D1400>融合配方: </color><color=red>钢叶草+雪棘草</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1417,
+            "name": "卷心菜地刺",
+            "introduce": "<color=#3D1400>他最讨厌被当成菜市场要剩菜的大爷大妈, 他可是会每天早起去抢新鲜蔬菜的. </color>",
+            "info": "收集落地子弹, 使其再次攻向僵尸. \n\n<color=#3D1400>伤害: </color><color=red>40/1秒</color>\n<color=#3D1400>Feature: </color><color=red>本行有其他植物的投掷子弹落地时, 每0.7秒限一次, 攻击并将一发相同的子弹弹向本行最近的僵尸, 无索敌目标时也会原路返还</color>\n<color=#3D1400>融合配方: </color><color=red>地刺+卷心菜投手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1418,
+            "name": "西瓜地刺",
+            "introduce": "<color=#3D1400>和他那位慵懒的表兄不同, 西瓜地刺对待他心理健康治疗的工作可是十分勤快. 虽然迄今为止, 他唯一开过的处方就是“去玩会蹦床吧”. </color>",
+            "info": "向上弹开接近的僵尸, 击飞时令僵尸头晕目眩. \n\n<color=#3D1400>伤害: </color><color=red>80/1.5秒</color>\n<color=#3D1400>Feature: </color><color=red>攻击时, 将僵尸原地向上击飞短暂时间, 对巨型僵尸效果变为1/3. 无法击飞领袖僵尸和载具</color>\n<color=#3D1400>融合配方: </color><color=red>地刺+西瓜投手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1419,
+            "name": "阳光地刺",
+            "introduce": "<color=#3D1400>阳光地刺紧紧地贴在地上, 这是她对大地母亲热爱的体现, 那地面下嗡嗡震动的声音, 是大地爵士乐最美的节拍——哦, 还有僵尸们集体踩过地面的震动, 那是最让人讨厌的杂音. </color>",
+            "info": "能在攻击时生产阳光的地刺. \n\n<color=#3D1400>伤害: </color><color=red>20/1秒</color>\n<color=#3D1400>Feature: </color><color=red>攻击时掉落5阳光</color>\n<color=#3D1400>融合配方: </color><color=red>地刺+向日葵</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1420,
+            "name": "飓风三叶草",
+            "introduce": "<color=#3D1400>“扇叶功率巨大, 危险勿碰. ”飓风三叶草这样警告那些想要触碰他的家伙, “以及, 这是我的脸, 不是风扇品牌商标. ”</color>",
+            "info": "吹退接近的僵尸, 对脚步不稳的僵尸效果显著. \n\n<color=#3D1400>Feature: </color><color=red>每3秒, 若前方地面上有僵尸, 缓慢击退最近的3个僵尸. 对空中单位效果翻倍, 对被击飞的僵尸效果变为3倍, 对载具和巨型僵尸的效果变为1/3</color>\n<color=#3D1400>融合配方: </color><color=red>三叶草×2</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1421,
+            "name": "火炬土豆雷",
+            "introduce": "<color=#3D1400>他原本只想做一个普普通通的地雷, 直到一枚燃烧弹被扔到了它的引信上. 现在的他虽然对无法隐蔽颇为不满, 但是作为炊事班的掌上明珠, 也算是因祸得福了. </color>",
+            "info": "能点燃小豌豆和土豆豌豆, 并从中生成焰光土豆雷. \n\n<color=#3D1400>伤害: </color><color=red>1800</color>\n<color=#3D1400>特性: </color><color=red>低矮</color>\n<color=#3D1400>Feature: ①</color><color=red>影响经过的特定子弹\n·小豌豆、土豆豌豆: 点燃, 伤害+20\n·滚地坚果: 伤害×2, 重置穿透次数</color>\n<color=#3D1400>②</color><color=red>每影响超过100个子弹, 在前方生成一个不能用于融合的焰光土豆雷\n*影响土豆豌豆会计为8发</color>\n<color=#3D1400>③</color><color=red>死亡时产生土豆雷爆炸</color>\n<color=#3D1400>融合配方: </color><color=red>土豆雷+火炬树桩</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1422,
+            "name": "焰光土豆雷",
+            "introduce": "<color=#3D1400>刚从薯条炸锅里被捞出来, 焰光土豆雷忍不住大声嚷嚷: “是哪个粗心的家伙不加工就把我扔进去的？”他是如此的恼怒, 第一个撞到他的家伙可要倒霉了. </color>",
+            "info": "焰光映出的土豆雷, 与土豆雷没有太多区别. \n\n<color=#3D1400>伤害: </color><color=red>1800</color>\n<color=#3D1400>特性: </color><color=red>低矮</color>\n<color=#3D1400>Feature: ①</color><color=red>无法融合</color>\n<color=#3D1400>②</color><color=red>可以借助寒冰花盆转换为立即出土的土豆雷</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1423,
+            "name": "坚果超级机枪射手",
+            "introduce": "<color=#3D1400>坚果超级机枪射手接了一则广告, 他被要求穿上特定的坚果服装, 来给僵尸们宣传“六个坚果”补脑品牌, 目前的成绩是零差评. </color>",
+            "info": "发射滚地坚果的超级机枪射手. \n\n<color=#3D1400>使用条件: </color><color=red>旅行模式</color>\n<color=#3D1400>HP: </color><color=red>8000, 限伤1/4韧性</color>\n<color=#3D1400>伤害: </color><color=red>30×6/1.5秒</color>\n<color=#3D1400>Feature: </color><color=red>普通攻击时, 每发子弹有2%概率触发大招: 回复1倍韧性血量, 5秒内免疫伤害和碾压, 发射6个20倍攻击力的巨型坚果并获得1/4倍韧性的护盾</color>\n<color=#3D1400>融合配方: </color><color=red>超级机枪射手+坚果</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1424,
+            "name": "大嘴狙击射手",
+            "introduce": "<color=#3D1400>一个好的倍镜可以让狙击手射的更准, 同理, 它也可以让一株大嘴花咬的更远. 如果你的大嘴花邻居咀嚼声音过大, 可以试着为他装上一个消音器. </color>",
+            "info": "在狙击瞄准下, 子弹如獠牙般吞噬敌人. \n\n<color=#3D1400>使用条件: </color><color=red>旅行模式</color>\n<color=#3D1400>伤害: </color><color=red>500/3秒</color>\n<color=#3D1400>Feature: ①</color><color=red>前方全场索敌, 可对空</color>\n<color=#3D1400>②</color><color=red>攻击前造成吞食. 每第6次攻击爆头, 此次吞食可对所有非领袖僵尸生效, 并造成100万伤害</color>\n<color=#3D1400>融合配方: </color><color=red>狙击射手+大嘴花</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1425,
+            "name": "豌豆胆小菇",
+            "introduce": "<color=#3D1400>豌豆胆小菇在马戏团学了一手快抛豌豆的绝活, 谁也不知道他最多能以这种速度抛多少个豌豆. 他很乐意向僵尸们展示展示, 但他们靠得太近时可不行, 这会暴露他的魔术技巧的. </color>",
+            "info": "疯狂地提升攻速和伤害, 但害怕时会前功尽弃. \n\n<color=#3D1400>伤害: </color><color=red>20/1.5秒</color>\n<color=#3D1400>Feature: ①</color><color=red>每次攻击获得5%攻速加成, 最多因此提升150%. 害怕时重置该加成</color>\n<color=#3D1400>②</color><color=red>每5%攻速加成使伤害+1</color>\n<color=#3D1400>融合配方: </color><color=red>胆小菇+豌豆射手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1426,
+            "name": "三叶土豆",
+            "introduce": "<color=#3D1400>三叶土豆非常苦恼. 他患了牙疼, 但是却找不到能给他的超小门牙做手术的牙医. </color>",
+            "info": "使本格的土豆雷爆炸后, 能重新入土武装自己. \n\n<color=#3D1400>特性: </color><color=red>飞行</color>\n<color=#3D1400>Feature: </color><color=red>每15秒限一次, 本格土豆雷类植物因接触敌人而自爆后, 不会消失而是重新入土</color>\n<color=#3D1400>融合配方: </color><color=red>土豆雷+三叶草</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 3000,
+            "name": "占位符",
+            "introduce": "<color=#3D1400></color>",
+            "info": "这株植物的信息将在未来的更新中揭晓",
             "cost": ""
         }
     ]

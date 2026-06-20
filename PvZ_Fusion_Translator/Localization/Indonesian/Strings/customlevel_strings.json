@@ -1,0 +1,18 @@
+{
+  "<size=22>受事件机制影响，该关卡无法在第10列种植植物": "<size=22>Tanaman tidak dapat diletakkan pada kolom 10 karena mekanik level!",
+  "<size=18>......你是自己融合了一个地刺花盆吗，你要知道地刺花盆是不会参与面积计算的\n而且，到了特定波次<color=red>所有地刺花盆</color>上的植物都会进行面积判定，所以我觉得你最好还是把它铲了.......": "<size=18>... Did you just fuse a Spike Pot on your own?\nYou should know Spike Pots are not counted towards area calculations. Also, at certain waves,\nplants on <color=red>all Spike Pots</color> will be checked for area requirements. I think it's best if you shovel it...",
+  "<size=20>受事件影响，此关卡禁用玩偶南瓜": "<size=20>Labu Joker di larang di level ini karena mekanik level!",
+  "<size=18><size=18>......如果你没听懂的话，这个关卡融合地刺花盆是没有任何好处的\n它不仅没有攻击力还会给你多添加一个面积负担......懂了吗": "<size=18><size=18>Kalau kamu ga nangkep maksudnya, menggabungkan Pot Duri di level ini ga ada benefitnya.\nTidak hanya tidak memiliki damage serang, itu juga akan menambah syarat area lain untukmu... Ngerti sekarang?",
+  "<size=18>lol那就随你了，我到底为什么要浪费时间给地刺花盆写这么多提示": "<size=18>Wkwkw, yaudah, sesuaikan aja dengan jalanmu.\nMengapa aku menghabiskan banyak waktu hanya untuk menulis tips Pot Duri?\n(mungkin cuma untuk buat hidup translator lebih sulit)",
+  "<size=20>进行面积判定时可能会略有卡顿，请稍作等候": "<size=20>Sedikit lag mungkin terjadi selama perhitungan area, mohon tunggu sejenak.",
+  "<size=18>tip：小丑爆炸不会伤害到地刺花盆，保护好你自己种植的植物即可\n另外，地刺花盆<color=red>不会</color>参与面积计算，所有空格子的面积均视为0": "<size=18>Ledakan badut tidak akan menyakiti Pot Duri. Cuma lindungi tanamanmu.\nPot Duri <color=red>TIDAK AKAN</color> dihitung pada area perhitungan.\nSemua kotak kosong dianggap memiliki area 0.",
+  "<size=18>tip：你可以使用南瓜或者花盆这类可叠种的植物来灵活调整面积": "<size=18>Gunakan tanaman yang bisa ditumpuk seperti Labu or Pot untuk atur fleksibilitas area.",
+  "<size=18>如果在第5波前没有进行任何右键操作，游戏将开启<color=#79FF79>兼容模式</color>\n兼容模式启用后，你将可以通过种植植物卡片来测量特定格子的面积": "<size=18>Kalau kamu tidak klik kanan sebelum gelombang ke 5, level akan menyalakan <color=#79FF79>mode compat</color>\nDi mode compat, Menanam tanaman menghitung area pada zona tertentu",
+  "<size=18><color=#79FF79>兼容模式已开启</color>\n你可以通过种植<color=#CF9E9E>多功能南瓜</color>来查看植物面积": "<size=18><color=#79FF79>Mode Compat aktif</color>\nKamu bisa tanam<color=#CF9E9E>Labu Omni</color> untuk melihat area tanaman.",
+  "简单模式": "Mode Mudah",
+  "要求的面积区间会在3~5中抽取": "Ukuran area yang dibutuhkan akan dipilih secara acak mulai dari 3 hingga 5",
+  "正常模式": "Mode Normal",
+  "要求的面积区间会在2~8中抽取": "Ukuran area yang dibutuhkan akan dipilih secara acak mulai dari 2 hingga 8",
+  "困难模式": "Mode Sulit",
+  "要求的面积区间会在2~14中抽取": "Ukuran area yang dibutuhkan akan dipilih secara acak mulai dari 2 hingga 14"
+}

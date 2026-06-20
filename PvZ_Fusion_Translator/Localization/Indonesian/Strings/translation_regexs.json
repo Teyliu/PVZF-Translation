@@ -139,6 +139,7 @@
   "【([^\\s]+)】\n当前植物已满级": "[{0}]\nTanaman lu udah mentok levelnya ngab.",
   "([^\\s]+)\n当前等级：([^\\s]+)\n\n升级条件：\n([^\\s]+)\n\n升级消耗：([^\\s]+)": "[{0}]\nLevel Sekarang: {1}\n\nSyarat Upgrade: \n{2}\n\nBiaya Upgrade: {3}",
   "深渊：第(\\d+)关": "Abyss: Level {0}",
+  "深渊挑战（S(\\d+)赛季）": "Tantangan Abyss (Season {0})",
   "([^\\s]+)\n价格：(\\d+)$": "{0}\nHarga: {1}",
   "第(\\d+)关\n通关用时：(\\d+)分(\\d+)秒\n杀敌数量：(\\d+)\n关卡叶绿素产出：(\\d+)\n极限模式产出：(\\d+)\n非首胜无额外产出\n产出叶绿素总计：(\\d+)": "Level {0}\nWaktu Main: {1} Menit {2} Detik\nZombi Dibantai: {3}\nDoping Tanaman Dapet: {4}\nBonus Kesulitan: {5}\nBukan Win Pertama - Kaga Dapet Bonus\nTotal Doping Tanaman: {6}",
   "第(\\d+)关\n通关用时：(\\d+)分(\\d+)秒\n杀敌数量：(\\d+)\n关卡叶绿素产出：(\\d+)\n极限模式产出：(\\d+)\n首胜产出：(\\d+)\n剩余小推车数量：(\\d+)，获得叶绿素：(\\d+)\n产出叶绿素总计：(\\d+)": "Level {0}\nWaktu Main: {1} Menit {2} Detik\nZombi Dibantai: {3}\nDoping Tanaman Dapet: {4}\nBonus Kesulitan: {5}\nBonus Win Pertama: {6}\nMesin Potong Sisa: {7}, Bonus Doping: {8}\nTotal Doping Tanaman: {9}",
@@ -313,5 +314,7 @@
   "^旅行冒险 ([^\\s:]+)": "Petualangan Odisei: {0}",
   "^第([^\\s:]+)拍$": "Beat: {0}",
   "^歌曲: ([^\\s:]+)$": "Nama Lagu: {0}",
-  "已记录: (\\d+) 个音符": "Direkam: {0} Not"
+  "已记录: (\\d+) 个音符": "Direkam: {0} Not",
+  "正在下载关卡: ([^\\s:]+)$": "Mengunduh Level: {0}",
+  "在线关卡\n([^\\s:]+)$": "Level Online\n{0}"
 }

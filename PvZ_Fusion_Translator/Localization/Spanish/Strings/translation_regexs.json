@@ -393,8 +393,8 @@
   "^Fallo：(\\d+)": "Fallos: {0}",
   "旅行： 黑巨线 第(\\d+)轮": "Odisea: Ruta Abismal | Ronda {0}",
   "旅行： 鬼王线 第(\\d+)轮": "Odisea: Ruta del Arca | Ronda {0}",
-  "旅行： 白车线 第(\\d+)轮": "Odyssey: Ruta Jackson | Ronda {0}",
-  "旅行： 将军线 第(\\d+)轮": "Odyssey: Ruta Letal | Ronda {0}",
+  "旅行： 白车线 第(\\d+)轮": "Odisea: Ruta Jackson | Ronda {0}",
+  "旅行： 将军线 第(\\d+)轮": "Odisea: Ruta Letal | Ronda {0}",
   "^([^\\s:]+)\\+([^\\s:]+)": "<size=90%>¡No has encontrado esta planta aún! Lo puedes encontrar fusionando:\n{0} + {1}",
   "^或 ([^\\s:]+)\\+([^\\s:]+)": "o {0} + {1}",
   "成功保存(\\d+)张卡牌至自定义卡组中": "¡{0} paquetes de semillas exitosamente guardados!",
@@ -405,5 +405,6 @@
   "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 时间: ([^\\s]+)s \\(([^\\s]+)拍\\)": "Nota Seleccionada: {0} | Pista: {1} | Tipo: {2} | Tiempo: {3}s (Beat {4})",
   "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 开始: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 结束: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 持续: ([^\\s]+)s": "Nota Seleccionada: {0} | Pista: {1} | Tipo: {2} | Empezar: {3}s (Beat {4}) | Terminar: {5}s (Beat {6}) | Duración: {7}s",
   "开始Hold音符 \\(轨道(\\d+)\\)": "Nota Larga Empezada en Pista {0}",
-  "结束Hold音符 \\(轨道(\\d+)\\)": "Nota Larga Terminada en Pista {0}"
+  "结束Hold音符 \\(轨道(\\d+)\\)": "Nota Larga Terminada en Pista {0}",
+  "Odyssey Adventure：(\\d+)": "Odisea Aventura: {0}"
 }

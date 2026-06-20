@@ -35,7 +35,7 @@
         "name": "Odyssey Gacha: Vasebreaker",
         "startTip": ""
     },
-    "level_1778553862207_eyp1pqomh": {
+    "level_1781676304315_0vcqeel6q": {
         "name": "3.6.1 Odyssey Gacha: Purgatory of Diamond",
         "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
     },
@@ -234,5 +234,45 @@
     "level_1778122091555_oipuz64r3": {
         "name": "3.6.1 The Gods: Trials of Melon",
         "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780635498836_of2p1762p": {
+        "name": "3.6.1 Mini-game    <color=#FF0000>Purgatory: Ashes to Ashes",
+        "startTip": "This level starts with the highest spawn multipiler possible, you'll have 150 seconds of setup time to prepare.\nElite zombies similar to the mini-bosses will show up on huge waves, each representing <color=#000000>Omega Assassin Squad</color>, <color=#00E3E3>Pozeidon</color>, <color=#BEBEBE>Jackson Worldwide</color>, <color=#600000>Giga Football Striker</color>, <color=#FF0000>Queen </color><color=#2828FF>Jill-in-the-Box</color>, <color=#820041>Archduke Deathrider</color>, <color=#5E005E>Abyssal Gargantuar</color>, and <color=#D200D2>Mecha Skystrider</color>. Be prepared.\nRemember to view modifiers for the best experience."
+    },
+    "level_1780760938229_6hoexucn9": {
+        "name": "3.7.0 Mini-game   Invasion: Backup!",
+        "startTip": "Some plants have been altered for this level.\nThe glove has no cooldown this level.\nAttention, you will automatically lose this level after 17 minutes.\nA Blover seed packet will be given after 10 minutes, plant it to attempt evacuation. (costs 1250 sun, evacuating successfully wins the level.)\nDefeating the Abyssal Gargantuar on the last wave also automatically wins you the level.\u000bThrough coding magic, you can use slow mode to keep text on screen for longer~\nIf you think this level is too easy, try keeping the usage of plants in the seed slots like Sunflower/Spicicle/Pepper Popper/Hearty Apple to a minimum or none at all."
+    },
+    "level_1780837101856_vorc2o4ku": {
+        "name": "3.7.0 The Gods: Trials of Melon",
+        "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780837244022_af05ow96c": {
+        "name": "3.7.0 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
+    },
+    "level_1780837209820_yjtoz5vd1": {
+        "name": "3.7.0 Mini-game      No Entry",
+        "startTip": "Spikeweed type plants have a massive damage boost! Don't let any of the torchweeds die!\nClick on the Obsidian Spikerock to switch it to its subspecies and back!\nThe glove has no cooldown in this level. Not recommend to play on mobile."
+    },
+    "level_1780837556708_p88p406xs": {
+        "name": "3.7.0 Mini-game   Blover's New Trick",
+        "startTip": "Blover has mastered a brand new trick: Blowing plants into small versions! (But since Potato Mine and Sun-shroom are already short, Blover can't affect them.)\nUse Blover to control the size of plants and avoid the Zombotany projectiles!\nP.S. For the spirit of the level, try not to stack shrooms or fuse too much. These fusions are allowed: Repeater, Split Pea, Gatling Pea, Buckshooter and Spicicle.\nThe Pea-shroom line has their stats nerfed this level, while normal Starfruit has been buffed.\nBlover can re-enlarge a shrunken plant. Planting a pumpkin will give all plants 10000 shield."
+    },
+    "level_1780804917778_brmhn2t2t": {
+        "name": "3.7.0 Mini-game   Metalsmithing",
+        "startTip": "<size=18>Welcome to the metalsmithing factory! Here you'll be able to using <color=yellow>smithing</color> to treat excess metal objects!\nThis technology can extract the metal objects out of metal plants, and use them to unlock powerful <color=yellow>smithing upgrades</color>!\n<color=#00FFFF>Click on smithing upgrades in your seed slots to view more infomation. (That's the yellow Chinese text up there.)"
+    },
+    "level_1780983849209_7ktu2g6cd": {
+        "name": "3.7.0 Mini-game Invasion: Garden Extermination Plan",
+        "startTip": "Plants will be given after completing missions, while the zombies will send bigger and bigger invasions.\nClick on plants to see your progress on a mission. The glove has no cooldown in this level.\n(This level is a sequel to the level: 'Invasion: Backup!')"
+    },
+    "level_1780761321421_fvzn0p76x": {
+        "name": "3.7.0 Mini-game  Protect and Evacuate",
+        "startTip": "Some plants have been left behind on the battlefield, and the zombies are coming for them!\nYour mission is to help these plants evacuate safely using sun. As thanks, they'll give you resources like Sun or seed packets.\nAll plants that require evacutaion are marked by craters.\nDon't move or fuse these plants with anything, or else you'll lose the level.\nThe level will be automatically beaten after evacuating all plants.\r\n(Tn: For some reason I can't get the strings from this level so the rest of it is untranslated, sorry Q_Q)"
+    },
+    "level_1781918387541_b2ireh0n8": {
+        "name": "3.7.0 I, Zombie Endless",
+        "startTip": ""
     }
 }

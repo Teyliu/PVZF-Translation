@@ -1,0 +1,6 @@
+{
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)": "<size=20>Area tanaman yang dipilih pada kotak: {0}",
+  "<size=20>在<color=yellow>第([^\\s]+)波</color>时，检测所有地刺花盆上的植物面积：\n如果该植物所在的区域面积<color=red>不为([^\\s]+)，则在对应地刺花盆上产生3次小丑爆炸\n</color>你可以随时按<color=yellow>H键</color>来重新显示这条信息": "<size=20>Pada <color=yellow>Gelombang ke {0}</color>, semua tanaman pada Pot Duri akan di cek ukuran areanya:\nJika tanaman terhubung ke kotak yang <color=red>tidak sama dengan {1}, 3 ledakan badut akan terjadi pada Pot Duri yang sesuai.\n</color>Tekan <color=yellow>H</color> pada saat apapun untuk menampilkan info ini lagi.",
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Area tanaman yang dipilih pada kotak: {0} <size=20>Gelombang hingga pemeriksaan area berikutnya:{1}<size=20> Area yang dibutuhkan untuk pemeriksaan berikutnya: {2}",
+  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)\n<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Area tanaman yang dipilih pada kotak: {0}\n<size=20>Gelombang hingga pemeriksaan area berikutnya:{1}<size=20> Area yang dibutuhkan untuk pemeriksaan berikutnya: {2}"
+}

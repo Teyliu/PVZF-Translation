@@ -16,12 +16,12 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.6.1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_beta)
+**Multi-Language 3.7 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.7_beta)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
+**Chinese 3.7** | PC | [MEGA](https://mega.nz/file/6VIy3ZbZ#J0ycntt_DE6XxI6ZwkJsibVGDVED29GyuAF-wqPjWGM) [Google Drive](https://drive.google.com/file/d/1R01-pXXj_179Wa-CeNi7JbvmxsF2bUd2/view?usp=sharing)
+**Chinese 3.7** | Android | [MEGA](https://mega.nz/file/DIwQhLIb#jrQa4QMLfWogqAU_m2lMOb-bCc_8VfmGzaHuNjl462c) [Google Drive](https://drive.google.com/file/d/1G1ErJIBRqCVRDeS3Wwb4b-qkq7E3d5FF/view?usp=sharing)
 **Chinese 3.6.1** | PC | [MEGA](https://mega.nz/file/TERAlapA#cL50Ja1vsiPjagO4nt5mjMf2JWMlEr72Yr3s8O1PDks) [Google Drive](https://drive.google.com/file/d/1DuwJsYp3QKcfv6e3XQn8cOToksDHVLNO/view?usp=sharing)
 **Chinese 3.6.1** | Android | [MEGA](https://mega.nz/file/CFBFiSAD#krHwdwXIUHlh4oYO5c8x0QLzpPbsErJW0wmwU1WeEZI) [Google Drive](https://drive.google.com/file/d/1ir-yjLvNaOKJjd2lxgt4iacFpvHwMitJ/view?usp=sharing)
-**Chinese 3.5** | PC | [MEGA](https://mega.nz/file/GVIHETzI#3-WXSAUMLoDqi2fc3en1iaPnZpthPxJIvrHCK0qNBk0) [Google Drive](https://drive.google.com/file/d/1AgNx8mxOjditSURMuT--M8iVw-XmHyNZ/view?usp=sharing)
-**Chinese 3.5** | Android | [MEGA](https://mega.nz/file/KNpRDIRa#YxYAAlypR-kfBY7zPCpvobnSjyz6RfH5jEAnNqARM2E) [Google Drive](https://drive.google.com/file/d/170g16WImbGqzDqwj2QgX6GB9BTPlPXCP/view?usp=sharing)
 
 
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
@@ -29,14 +29,14 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.6.1 - English, Vietnamese
-	Last Updated 3.5 - Spanish
+	Up-to-date 3.7 - English, Indonesian
+	Last Updated 3.6.1 - Vietnamese, Spanish
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Korean, Romanian
 
 	Languages below have been removed due to a lack of updates.
-	Last Updated 2.6.1 - Indonesian, Russian 
+	Last Updated 2.6.1 - Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.1.6 - German, Italian
 	Want to add your language here? Go to our Discord for more info!
