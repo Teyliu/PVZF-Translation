@@ -5,89 +5,105 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.6 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.7 Changelog</size></align>
 
-1. Odyssey Mode Revamp
- - You are now able to freely choose combinations of Mini-boss routes, difficulty, and stage progression, offering much greater flexibility.
- - You will no longer see repeat Modifiers on reroll, unless you have already seen all of them.
- - Timing for the first Modifier Shop and Mini-boss selection changed. You now see the first Modifier Shop after round 5. On Purgatory difficulty and above, you will now have to select 6 Mini-bosses instead of the previous 4.
- - Added new Mini-boss routes for Giga Football Striker and Jackson Worldwide, with different selection of zombie wave compositions and exclusive zombie modifiers.
- - Abyssal Gargantuar and Imperor's Ark of the Duck are now selectable Mini-bosses outside of their routes.
- - You can still access Odyssey levels pre-3.5 with the "Preset" button in the bottom right.
+1. The Gods: Evolved - Revolutionized
+- Added many gameplay customization options, including plant limits, difficulty levels, and progression tiers.
+- Modifiers now come in multiple rarities and can be used to obtain new plants or upgrade existing ones.
+- Be on the look out for special modifiers handed out by the gods, they can be game-breaking! 
+  * (Note: You can access this level through the new "Recommended Levels" button on the main menu.)
 
 2. New Plants
-- Base Plant:
-  - Hoarfrost Lichen
 - Basic Fusions:
-  - Stenchwood (Torchwood + Garlic)
-  - Splash (Squash > Sea-shroom)
-  - Saguaro-shroom (Fume-shroom + Cactus)
-  - Hypnowood (Hypno-shroom + Torchwood)
-  - Grapple Kelp (Fume-shroom + Tangle Kelp)
-  - Kimchi-pult (Jalapeno + Cabbage-pult)
-  - Damage-pult (Doom-shroom + Cabbage-pult)
-  - Popcorn-pult (Jalapeno + Kernel-pult)
-  * (Note: the original popcorn-pult, Kernel-pult > Puff-shroom has been renamed to Baby Corn)
-  - Ice Mine (Potato Mine + Ice-shroom)
+  - Bamblichen (Bamblock + Hoarfrost Lichen)
+  - Hoarfrost Lotus (Snow Lotus + Hoarfrost Lichen)
+  - Pea Pot (Peashooter > Flower Pot)
+  - Doom-pult (Doom-shroom + Melon-pult)
+  - Aloe Nivea (Aloe Aqua + Hoarfrost Lichen)
+  - Pumpkin Chest (Pumpkin > Pumpkin (full HP))
+  - Debris-pult (Doom-shroom + Kernel-pult)
+  - Starshooter (Peashooter + Starfruit)
+  - Pyro Pumpkin (Jalapeno > Pumpkin)
+  - Doom Kelp (Doom-shroom > Tangle Kelp)
+  - Thornweed (Spikeweed + Cactus)
+  - Snow-me-not (Saw-me-not + Hoarfrost Lichen)
+  - Bounceweed (Spikeweed + Cabbage-pult)
+  - Springweed (Spikeweed + Melon-pult)
+  - Solarweed (Sunflower + Spikeweed)
+  - Cyclover (Blover + Blover)
+  - Hot Potato (Potato Mine + Torchwood)
+  - Roasted Potato (spawned from Hot Potato)
+  - Shooty-shroom (Peashooter + Scaredy-shroom)
+  - Levitater (Potato Mine + Blover)
 - Odyssey Fusions:
   - Common:
-    - SP Gatling Icicle-shroom (Peashooter + Gatling Icicle-shroom)
-    - SP Gatling Sunburst-shroom (Peashooter + Gatling Sunburst-shroom)
+    - Tundral Glacier-shroom (Demise-shroom + Ice-shroom)
+    - Mesmer Cattail (Hypno-shroom > Cattail Girl)
+      * (Note: You can use the shovel to switch between its water and land forms.)
+    - Lethal Glacier-shroom (Tundral Glacier-shroom + Doom-shroom)
   - Epic:
-    - Buckshot Commando (Buckshooter + Football Gatling)
-    - Synchronizer Snipea (Buckshot Commando + Chrono Core)
-    - Axion Orbiter (Garlic + Photon Splitter)
-    - Habanero Weeper (Cryolina Reaper > Puff-shroom)
+    - Magma-shroom (Napalm-shroom + Kernel-pult)
+  - Unique:
+    - Snipot (Snipea > Flower Pot)
+    - Pumpkommando (Pea-storm Commando > Pumpkin)
+    - Pea-nut Commando (Pea-storm Commando + Wall-nut)
+    - Snapper Snipea (Snipea + Chomper)
 - Legendary Fusions:
-  - Eclipse Fumigator
-  - Primal Twin Solar-nut
+  - Bedrock Tall-nut
 - Special/Misc:
-  - Signpost Arrow
-  - Puff-shroom spreads via Fume-shroom & Scaredy-shroom now have their separate IDs
+  - Prickly Bear
 
 3. New Zombies
 - Common:
-  - Coach Zombie
-  - Buckethead Newspaper Zombie
-  - Zombie Penguin
-  - Zombie Emperor Penguin
-  - Frost Legionnaire Zombie
-  - Frost Legion Packed Ice Zombie
-  - Gatling Pea Zombie
-  - Gatling Snow Zombie
+  - Aluminium-head Zombie
+  - Mammoth Zombie
+- Odyssey:
+  - Regular
+    - Obsidian Tall-nut Iceclaw Zombie
+    - Astronut-copter Zombie
+    - Black Knight Zombie
+    - Buckshot Knight Captain Zombie
+    - Devil-in-the-Box Zombie
+    - War Mammoth Zombie
+    - Buckshot Bobsled Brigade
+  - Bosses
+    - Cerasocetus Rider
 
-4. New Skins
-- Laser Pumpkin > Starry Crusader Pumpkin
+4. Odyssey Update
+- Added Archduke Deathrider's route.
+- Adjusted spawns for existing routes.
+- Added the possibility to gain Diamond modifiers from The Gods: Evolved in regular Odyssey runs.
+- Added Napalm-shroom + Doominator synergy modifier.
+- Added pets:
+  - Young Duke (Archduke Deathrider)
+  - Imperor Hatchling (Imperor's Ark of the Duck)
+  - Skyglider Mecha (Skystrider Mecha)
 
 5. New Levels
 - Mini-games:
-  - Zombie Sorter: Adjust arrows to guide zombies to the correct stations. These Signpost Arrows can also be used to create tower defense levels in Super Level Editor.
-  - I, Zomboss?: Placing zombie packets will spawn a corresponding Endoflame that keeps summoning hypnotized zombies to fight for you.
-  - Explode-O-su!: Control the tempo to deal with zombie waves.
-- Starbound Adventure: Snow updated
-- I, Zombie Adventure: Chapter 5: All Roads Lead to Roof updated
-- New Odyssey level: Stats vs Mechanics: Odyssey plants disabled. Base stats of plants are greatly increased. Some seed packets are available directly in slots for quick deployment. Each time zombies reach the house, you will not immediately game over, but will be rewinded back to the last checkpoint and lose all zombie and plant modifiers. Rewinding can be only be used a limited number of times.
-- Reworked Odyssey Adventure
-- Garden Defense entrance moved to Zen Garden
-- Harvest Mode: New Chaos difficulty. Seeds do not use durability in the difficulty but zombies gain random buffs.
-- New Map: Snowy Night: Within the quiet camp, a hidden past seems to lie buried… Fertilizer does not spawn automatically on this map.
+  - Odyssey Gacha: Gacha Box
+  - Wheelbarrow Challenge
+  * (Note: Completing this mini-game will unlock the new Wheelbarrow tool permanently.)
+  - Time Attack
 
-6. New Synergy
-- When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (WARNING: Will cause lag)
+6. Balance Adjustments
+- Torchweed can now ignite mini-nut projectiles.
+- Reduced the speed of Chicken Jockey and Hydrofowl zombies.
+- Reduced the amount of metal objects produced by Dyson Magnet while increasing its potential damage boost.
+- The "Curse" mechanics (held by Archduke Deathrider and Lifelink Ladder Zombie) have been fully reworked.
+- Celestial Gargantuar now only does one full-screen attack right after becoming giant.
 
-7. New Super Level Editor Settings
-- Super Level Editor now allows creation, modification, and linking of nodes to define Level Events through a pseudo-code system.
-- You can now create Rhythm Game-style levels and Tower Defense levels using Signpost Arrows.
+7. QOL Optimizations
+- If you are not on the latest version of the game, an update option will become available on the main menu. (Requires an internet connection to work)
+<color=red>* (WARNING: This has NOT been tested or verified to work with the Blooms translation mod.)</color>
+- Added a Modifier Almanac section.
+- Reworked plant HP display.
+- Reworked the Survival save system, including more save slots and custom naming support.
+- Added the ability to preview the full lineup of zombies in a level before starting.
+- Zombies can no longer move forward in between attacks if they still have to attack a plant.
+- Added a variable system to the Node Editor in the Super Level Editor.
+- Mini-games with the "Blessings and Curses" system now have a difficulty selection menu.
+- Tower Defense is now located in the Challenge menu.
 
-8. Odyssey Balance Adjustments
-- Apeacalypse Minigun: Reworked abilities completely
-- Laser Pumpkin: Now gains the ability to reduce Zombie DR value.
-- Clown-on-the-Jetski: Explosion damage reduced to 500
-
-9. Almanac Reworks
-- New Game Mechanics Almanac
-- Removed Old Almanac
-- Unseen plants & fusions are now locked in the almanac. Clicking on undiscovered plants now gives clues to how to make them. You can also quickly unlock all in the settings.
-
-10. Miscellaneous bug fixes and optimizations.
+9. Miscellaneous bug fixes and optimizations.
 
