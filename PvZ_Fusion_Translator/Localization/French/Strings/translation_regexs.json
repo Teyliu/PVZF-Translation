@@ -444,8 +444,8 @@
   "旅行： 鬼王线 第(\\d+)轮": "Odyssée : Voie de l'Empereur | Manche {0}",
   "旅行： 白车线 第(\\d+)轮": "Odyssée : Voie de Jackson | Manche {0}",
   "旅行： 将军线 第(\\d+)轮": "Odyssée : Voie du Striker | Manche {0}",
-  "^([^\\s:]+)\\+([^\\s:]+)": "<size=90%>Vous n'avez pas encore découvert cette plante ! Vous pouvez l'obtenir en fusionnant :\n{0} + {1}",
-  "^或 ([^\\s:]+)\\+([^\\s:]+)": "ou {0} + {1}",
+  "^([\\s\\S]+)\\+([\\S]+)$": "<size=90%>Vous n'avez pas encore découvert cette plante ! Vous pouvez l'obtenir en fusionnant :\n{0} + {1}",
+  "^或 ([\\s\\S]+)\\+([\\S]+)$": "ou {0} + {1}",
   "成功保存(\\d+)张卡牌至自定义卡组中": "{0} paquets de graines enregistrées avec succès dans une configuration personnalisée !",
   "^时间: ([^\\s:]+)$": "Temps : {0}",
   "^第([^\\s:]+)拍$": "Battement : {0}",
@@ -454,5 +454,6 @@
   "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 时间: ([^\\s]+)s \\(([^\\s]+)拍\\)": "Note sélectionnée : {0} | Piste : {1} | Type : {2} | Temps : {3}s (Battement {4})",
   "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 开始: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 结束: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 持续: ([^\\s]+)s": "Note sélectionnée : {0} | Piste : {1} | Type : {2} | Début : {3}s (Battement {4}) | Fin : {5}s (Battement {6}) | Durée : {7}s",
   "开始Hold音符 \\(轨道(\\d+)\\)": "Note longue démarrée (Piste {0})",
-  "结束Hold音符 \\(轨道(\\d+)\\)": "Note longue terminée (Piste {0})"
+  "结束Hold音符 \\(轨道(\\d+)\\)": "Note longue terminée (Piste {0})",
+  "诸神注视着你，并选中了一个他们喜欢的词条\n植物<color=green>【([\\S]+)】</color>的词条<color=yellow>【强化：([\\S]+)】</color>获得品质升级\n当前品质：([\\S]+)": "\n171\nLes dieux vous observent et vous ont accordé une amélioration !\nL' <color=yellow>{1}</color> amélioration pour <color=green>{0}</color> a été effectuée.\nQualité actuelle: {2}"
 }
