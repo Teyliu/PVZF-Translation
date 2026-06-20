@@ -2753,6 +2753,7 @@
   "UNLOCK_MODIFIER_TAG": "Unlock Modifier",
   "INVEST_MODIFIER_TAG": "Investment Modifier",
   "箱子里没有任何卡牌": "This Pumpkin Chest is empty.",
+  "这个格子有植物了": "This tile is already occupied by another plant!",
   "保存存档": "Save File",
   "新的存档": "New Save File",
   "新的存档，最近一次自动保存": "New Save File, Most Recent Autosave",
