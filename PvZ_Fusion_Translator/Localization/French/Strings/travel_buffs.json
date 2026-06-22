@@ -1,0 +1,8 @@
+﻿{
+    "advancedBuffs": {
+        "1001": "Le recharge des plantes est réduite de moitié",
+        "1005": "Le recharge du Maillet est réduite à 6 secondes",
+        "2001": "Activer la plantation en colonne",
+        "2006": "After a period of time without being attacked, the next time a zombie is attacked, the damage it takes is greatly increased"
+    }
+}
