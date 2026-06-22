@@ -551,7 +551,7 @@
             "name": "Noix-mine",
             "introduce": "<size=36><color=black>Auparavant considéré comme petit et faible, la Petite Noix était maintenant grande et forte, doté de grands yeux et d'une chair ferme. Pourtant, sous cet extérieur robuste, elle se sentait fragile et craignait de retrouver sa taille antérieure. Les zombies ont plaisanté : \"Si vous prenez une autre bouchée, vous allez exploser !\"</color></size>",
             "info": "<size=36>Petite Noix peut exploser lorsqu'elle est mangé et une fois lorsqu'elle est détruite.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>500 / Explosion, 1800 / Mort</color>\n></size>",
-            "cost": "<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Mine Patate</color>"
+            "cost": "<color=black>Formule de fusion : </color><color=#8B0000>Noix + Mine Patate</color>"
         },
         {
             "seedType": 1011,
@@ -565,7 +565,7 @@
             "name": "Noix Mordeuse",
             "introduce": "<size=36><color=black>En tant que jeune plante, la Noix Mordeuse était notoirement pointilleuse en matière de nourriture, n'avalant jamais de zombies en une seule bouchée, ce qui frustrait ses parents. Après beaucoup de persuasion, la Noix Mordeuse a finalement appris à consommer les zombies entiers, tout comme ses prédécesseurs. \"Je ne suis pas difficile ! Je veux juste imiter la façon dont les zombies mangent. Je devrais essayer quelque chose de nouveau, non ? Ce n'est certainement pas parce que je n'ai pas de cou !\" Dit Chomp-nut en mâchant un zombie.</color></size>",
             "info": "<size=36>Noix Mordeuse peut restaurer sa robustesse après avoir mangé des zombies\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color></size>\n",
-            "cost": "<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Mordeur</color>"
+            "cost": "<color=black>Formule de fusion : </color><color=#8B0000>Noix + Mordeur</color>"
         },
         {
             "seedType": 1013,
@@ -1496,7 +1496,7 @@
             "name": "Hypno-noix",
             "introduce": "<size=36><color=black>Hypno-noix a un faible pour les zombies : \"Il y a quelque chose d'étrangement agréable dans la façon dont ils me mordillent. Ce n'est pas comme gratter une démangeaison… appelons plutôt cela de l'affection due à un contact prolongé.\" dit-il avec philosophie.</color>",
             "info": "<size=36>Charme les zombies et invoque un zombie boîte mystère charmé toutes les 30 secondes !\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque fois qu'il est mordu, il y a 4% de chances de charmer le zombie. De plus, il peut récupérer 100 points de vie lorsqu'il est touché par une spore de champignon Trippy et stocke une spore de cette couleur à chaque fois qu'il est touché (jusqu'à 3). Lorsqu'il collecte 7 couleurs de spores différentes, il en consomme une de chaque et invoque un zombie boîte mystère dorée charmé, puis guérit complètement.</color>\n",
-            "cost": "<size=36><color=black>Recette de Fusion : </color><color=#8B0000>Noix + Champi-hypno</color>"
+            "cost": "<size=36><color=black>Formule de fusion : </color><color=#8B0000>Noix + Champi-hypno</color>"
         },
         {
             "seedType": 1148,
@@ -2098,7 +2098,7 @@
             "name": "Pastèque à Ressort",
             "introduce": "<align=justified><size=36><color=black>\" Retenir son souffle, se concentrer… et frapper avec précision ! \" La Pastèque à Ressort est d’une patience exemplaire, toujours à l’affût du moment parfait pour agir. Si vous lui demandez comment elle reste aussi calme, elle citera toujours son mentor : l’Imitateur.</color>",
             "info": "<size=36>Un grand champignon doté de vrilles spiralées qui lancent des pastèques après une charge.\n\n<color=black>Dégâts : </color><color=#8B0000>120/4 s</color>\n<color=black>Portée : </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial : </color><color=#8B0000>Se charge lorsqu’elle n’attaque pas pendant au moins 4,5 s, augmentant ses dégâts à (1 + temps de charge × 0,5) fois les dégâts de base. Temps de charge maximal : 30 s.</color>",
-            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Champi-fumée + Lance-pastèque</color>"
+            "cost": "<size=36>Formule de fusion : <color=#8B0000>Champi-fumée + Lance-pastèque</color>"
         },
         {
             "seedType": 239,
@@ -4093,14 +4093,14 @@
             "name": "Propagation de Champi-gnon : Champi-fumé",
             "introduce": "<align=left><size=36><color=black></color>",
             "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-fumé.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-fumé à la place du Champi-gnon et fait apparaître des Champi-gnon à intervalles réguliers devant lui (avec un nombre décroissant selon la distance). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
-            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-fumé + Champi-gnon</color>"
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-fumé + Champi-gnon</color>"
         },
         {
             "seedType": 1397,
             "name": "Propagation de Champi-gnon : Champi-peureux",
             "introduce": "<align=left><size=36><color=black></color>",
             "info": "<size=36>Un amas de champignons formé à partir de Champi-gnon dispersés par un Champi-peureux.\n\n<color=black>Spécial : </color><color=#8B0000>Plante un Champi-peureux à la place du Champi-gnon et fait apparaître des Champi-gnon de manière équilibrée sur les cases avant, supérieure et inférieure adjacentes (en privilégiant la case avant). Plus le nombre de Champi-gnon consommés lors de la fusion est élevé, plus il en fera apparaître.</color>",
-            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Champi-peureux + Champi-gnon</color>"
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-peureux + Champi-gnon</color>"
         },
         {
             "seedType": 306,
@@ -4185,6 +4185,237 @@
             "introduce": "<align=left><size=36><color=black>\" Notre popcorn est fait à 100 % d'ingrédients naturels ! \" vante fièrement Lance-popcorn. Pourtant, les clients mettent souvent sa parole en doute, surtout parce que son beurre semble perpétuellement brûlant et impossible à refroidir.</color>",
             "info": "<size=36>Lance du beurre de magma qui enflamme les ennemis et renforce les plantes de type feu.\n\n<color=black>Dégâts : </color><color=#8B0000>30/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les projectiles appliquent l'altération Enflammé avant d'infliger des dégâts.\n<color=black>•</color> A 25 % de chance de lancer du Beurre de Magma (50 dégâts) : applique un étourdissement de 4 s, déclenche un effet Jalapeño sur toute la ligne infligeant 50 dégâts, et confère aux plantes de feu (fusions de Jalapeño) +50 % de dégâts d'attaque pendant 6 s (+25 % pour celles d'Odyssée).</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño + Lance-maïs</color>"
+        },
+        {
+            "seedType": 217,
+            "name": "Noix d'Obsidienne Holographique",
+            "introduce": "<align=left><size=36><color=black>En tant que plante aux racines profondes, la Noix d'Obsidienne déteste être constamment déplacée. Pour éviter cela, elle a dépensé une fortune afin d'obtenir un appareil de projection holographique auprès de l'Arbitre Sinistre, ce qui lui permet de créer des projections holographiques pour défendre la pelouse à sa place. Pourtant, elle reste perplexe : pourquoi ressent-elle de la douleur chaque fois que ces hologrammes subissent des dégâts ?</color>",
+            "info": "Une projection holographique de la Noix d'Obsidienne.\n\n<color=black>Robustesse : </color><color=#8B0000>20000</color>\n<color=black>Spécial :\n </color><color=#8B0000><color=black>•</color> Plante haute, anti-écrasement.\n<color=black>•</color> Redirige tous les dégâts vers la Noix d'Obsidienne principale qui est projetée.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 218,
+            "name": "Ours Épineux",
+            "introduce": "<align=left><size=36><color=black>\" Si l'on partait en voyage, quel serait un bon endroit où aller ? \"\nL'Ours Épineux ruminait souvent cette question, bien qu'il restât lui-même paresseusement en place. Il était plutôt ravi d'aider de vaillants projectiles à s'envoler dans toutes les directions pour découvrir eux-mêmes des paysages uniques.",
+            "info": "Dévie les projectiles des plantes grâce à un corps résistant.\n\n<color=black>Spécial :\n</color><color=#8B0000><color=black>•</color> Inverse la direction des projectiles qui entrent en contact avec lui (gauche -> droite, droite -> gauche).\n<color=black>•</color> Un maximum de 29 projectiles peut être inversé toutes les 1,5 s.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 308,
+            "name": "Grande Noix de Bedrock",
+            "introduce": "<align=left><size=36><color=black>Lorsque la Grande Noix de Bedrock s'éveilla de son sommeil, le monde devant elle était radicalement différent de celui dont elle se souvenait. Elle n'avait aucune idée du temps qu'elle avait dormi, se rappelant seulement qu'elle semblait avoir été fréquemment déplacée pendant sa sieste. Plus tard, en discutant avec d'autres plantes du jardin, elle apprit qu'elle avait été revendue comme artefact antique durant les siècles qu'elle avait passés à dormir.</color>",
+            "info": "<size=36>Une Grande Noix indestructible ; sa résistance existe dans un domaine bien au-delà des standards normaux.\n\n<color=#4A2900>Condition d'utilisation : Mode Récolte</color>\n<color=black>Robustesse : </color><color=red>640000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute, anti-écrasement.\n<color=black>•</color> Immunisée aux dégâts et à la progression du minage. Peut toujours être affectée par les mécaniques d'élimination instantanée et l'effet de malédiction.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 991,
+            "name": "Champi-magma",
+            "introduce": "<align=left><size=36><color=black>La clé pour réussir un délicieux agneau entier rôti, c'est la maîtrise de la chaleur. Elle ne doit pas être trop faible, sinon l'intérieur ne cuit pas entièrement ; ni trop forte, sinon ça brûle facilement ; et il ne faut surtout pas utiliser le Champi-magma comme four — il ne vous resterait que l'agneau réduit à l'état d'os, collés à la tête du Champi.</color>",
+            "info": "<size=36>Travaille de concert avec vos plantes pour garder tout le monde au chaud, attiser votre ardeur au combat et commander aux autres Champi-napalm de déchaîner un déluge de destruction enflammée.\n\n<color=#4A2900>Conditions d'utilisation : Mode Odyssée | Déblocable avec le Champi-napalm</color>\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Portée d'attaque : <color=#8B0000>Rangée actuelle et adjacentes</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce du Champi-napalm.\n<color=black>•</color> Chaque seconde, les plantes de type feu peuvent fournir jusqu'à 5 points d'énergie thermique selon leur distance au Champi-magma. Le plafond d'énergie thermique totale est de 300.\n<color=black>•</color> Ne cible pas les zombies automatiquement. Attaque lorsqu'il subit des dégâts ou par clic manuel.\n<color=black>•</color> Les attaques consomment l'énergie thermique actuelle pour tirer du Beurre de Magma sur chaque zombie à portée, chaque projectile consommant 100 d'énergie thermique. 1,5 s après l'attaque, tous les Champi-napalm dans une zone de 3×3 tirent automatiquement sur le zombie ayant le plus de PV à portée ; ceci est traité comme un tir manuel pour le(s) Champi-napalm.\n<color=black>•</color> Le Beurre de Magma étourdit les zombies pendant 4 s, inflige le malus Enflammé et déclenche une explosion de Jalapeño. Les plantes de type feu dans la portée de l'explosion de Jalapeño gagnent un bonus d'attaque de 50% pendant 6 s.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Vitesse de charge et charge max ×3\n2. Dégâts du Beurre de Magma ×3</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Lance-maïs <-> Lance-pastèque</color>"
+        },
+        {
+            "seedType": 992,
+            "name": "Champi-glacier de la Toundra",
+            "introduce": "<align=left><size=36><color=black>C'était une coutume durant l'ère glaciaire de porter les bois ou les cornes des proies capturées en signe de puissance. Le Champi-glacier de la Toundra ne faisait pas exception ; les innombrables stalactites couronnant sa tête étaient ses trophées — car la \" proie \" qu'il chassait était l'ère glaciaire elle-même, capturant les vents glacés du monde pour les transformer en une couronne éternelle posée sur sa tête.</color>",
+            "info": "Invoque des pics de glace perçant le sol pour geler rapidement la horde de zombies et se renforcer, se solidifiant tel un glacier.\n\n<color=#4A2900>Conditions d'utilisation : </color><color=red>Mode Odyssée</color>\n<color=black>Dégâts : </color><color=red>300</color>\n<color=black>Portée d'attaque : </color><color=red>5.2 cases (rayon)</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Chaque seconde, fait surgir des pics de glace du sol sur le zombie le plus proche à portée, le gelant pendant 10 s et infligeant des dégâts de zone équivalents dans un rayon de 1,5 case qui ralentit et ajoute 50 points Cryo.\n<color=black>•</color> Toutes les 60 attaques, gagne 1 cumul de puissance arctique et déclenche une explosion Funeste infligeant des dégâts égaux à (6 × puissance d'attaque) à tous les zombies du terrain et les gelant pendant 5 s.\n<color=black>•</color> Chaque cumul de puissance arctique procure un bonus de dégâts de 3%. Pour les 200 premiers cumuls, chaque cumul accorde en plus +1% de vitesse d'attaque et de rayon de zone. Tous les 10 cumuls augmentent aussi de 5 les points Cryo infligés par les dégâts de zone.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Sous-espèce Champi-glacier Mortel débloquée | +100 d'énergie initiale\n2. Rayon d'attaque ×2</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-omnicide + Champi-glace</color>"
+        },
+        {
+            "seedType": 993,
+            "name": "Nénu-chan Hypnotique (aquatique)",
+            "introduce": "<align=left><size=36><color=black>Beaucoup de plantes lui demandent comment elle obtient ses belles couleurs. Ce que beaucoup ignorent, c'est qu'elle est en réalité bloquée dans sa transformation de magical girl.</color>",
+            "info": "Tire des projectiles magiques à tête chercheuse globale et peut utiliser une magie radieuse pour charmer les ennemis.\n\n<color=blue>Plante collab Plant Girls vs Zombies</color>\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=red>300×2/1.5s</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Ciblage global, priorise les ennemis volants.\n<color=black>•</color> Activation manuelle : sélectionnez une case pour hypnotiser tous les zombies dans un rayon de 1 case ; peut cibler les unités volantes. Après usage, entre dans un temps de recharge de 50 s. Chaque tir normal réduit en plus le temps de recharge de 1 s.\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Temps de recharge de la capacité réduit de moitié, rayon de la capacité +0,5 case\n2. Les zombies hypnotisés générés par sa capacité infligent 30% de dégâts purs supplémentaires qui ignorent la réduction de dégâts en mordant</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-hypno > Nénu-chan</color>"
+        },
+        {
+            "seedType": 994,
+            "name": "Nénu-chan Hypnotique (terrestre)",
+            "introduce": "<align=left><size=36><color=black>Beaucoup de plantes lui demandent comment elle obtient ses belles couleurs. Ce que beaucoup ignorent, c'est qu'elle est en réalité bloquée dans sa transformation de magical girl.</color>",
+            "info": "Tire des projectiles magiques à poursuite globale et peut utiliser une magie radieuse pour charmer les ennemis.\n\n<color=blue>Plante collab Plant Girls vs Zombies</color>\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=red>300×2/1.5s</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce de la Nénu-chan Hypnotique (aquatique).\n<color=black>•</color> Ciblage global, priorise les ennemis volants.\n<color=black>•</color> Activation manuelle : sélectionnez une case pour hypnotiser tous les zombies dans un rayon de 1 case ; peut cibler les unités volantes. Après usage, entre dans un temps de recharge de 50 s. Chaque tir normal réduit en plus le temps de recharge de 1 s.\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Temps de recharge de la capacité réduit de moitié, rayon de la capacité +0,5 case\n2. Les zombies hypnotisés générés par sa capacité infligent 30% de dégâts purs supplémentaires qui ignorent la réduction de dégâts en mordant</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Pelle</color>"
+        },
+        {
+            "seedType": 995,
+            "name": "Champi-glacier Mortel",
+            "introduce": "<align=left><size=36><color=black>Personne ne sait d'où vient le Champi-glacier Mortel. Il n'aime pas la conversation, déteste les Mammouths et entretient de mauvaises relations avec le Champi-singularité. Il se contente de déverser en silence le froid qui l'habite. De ce givre trouble émane l'odeur de cendres radioactives, semblables à de la neige, qui emplirent l'air après la destruction du monde.</color>",
+            "info": "<size=36>Œuvre en coordination avec les attaques cryogéniques, déclenchant fréquemment des explosions cryo.\n\n<color=#4A2900>Conditions d'utilisation : Mode Odyssée | Déblocable via le modificateur du Champi-glacier de la Toundra</color>\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce du Champi-glacier de la Toundra.\n<color=black>•</color> Le Champi-glacier de la Toundra ne déclenche pas ses effets de mort en se transformant en Champi-glacier Mortel.\n<color=black>•</color> Ne cible pas les ennemis directement. Quand des plantes de type cryo touchent des zombies, déclenche une explosion cryo coordonnée dans un rayon de 1,5 case, applique Ralenti, puis entre dans un temps de recharge de 0,1 s.\n<color=black>•</color> Après une attaque coordonnée, gagne (total des cumuls de puissance arctique / nombre de Champi-glacier Mortel) % de bonus d'attaque ; ce bonus ne se cumule pas.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Sous-espèce Champi-glacier Mortel débloquée | Dégâts ×2\n2. Intervalle d'attaque réduit de moitié</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Champi-glace <-> Champi-mort</color>"
+        },
+        {
+            "seedType": 1402,
+            "name": "Bam'lichen",
+            "introduce": "<align=left><size=36><color=black>Construire un bonhomme de neige est l'un des passe-temps les plus courants des Plaines Enneigées, et la Barricade de Pousse d'Hiver Épineuse adore se déguiser en bonhomme de neige. Se fondre parmi les bonshommes de neige ne lui sert pas seulement à se camoufler : cela lui permet aussi de punir sévèrement les zombies qui leur donnent des coups de pied. Entendre leurs cris résonner à travers les étendues sauvages est une leçon gravée jusqu'à la moelle.</color>",
+            "info": "Couverte d'un duvet blanc, cette barricade de pousse d'hiver gonfle lorsqu'elle affronte les zombies.<size=36>\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisée au gel et à la glaciation.\n<color=black>•</color> Au contact des zombies, éclate en une couronne de boules de neige : 5 boules de neige noires infligeant 100 dégâts, et 3 boules de neige blanches.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Bam'bou + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1403,
+            "name": "Lotus de Givre",
+            "introduce": "<align=left><size=36><color=black>Selon la légende, les fleurs de lotus des Plaines Enneigées poussent au sommet de pics neigeux dangereux, visibles seulement des plus courageux. Le Lotus de Givre rejette cette idée. Il pousse au pied ordinaire de la montagne, employant chaque parcelle de sa force pour percer le sol gelé et la neige. Les taches de terre sombre sur ses feuilles témoignent de ses efforts. Nul besoin d'atteindre le sommet ; poser le pied dans les Plaines Enneigées est déjà un acte de courage. Le Lotus de Givre est la médaille de ce courage.</color>",
+            "info": "<size=36>Un lotus glacial qui accorde de grandes quantités de charges de glace aux plantes voisines.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel et à la glaciation.\n<color=black>•</color> Gagne 1 charge de glace toutes les 5 s. Gagne 1/1/60 charges de glace lorsqu'il est affecté respectivement par une boule de neige / un trident de neige / un blizzard.\n<color=black>•</color> Peut consommer 5 charges pour s'éveiller. À son éveil, soigne les plantes dans une zone de 3×3 de 100 PV et applique Gel, éveillant en plus les plantes de type Lotus de Neige et accordant 5 charges de glace aux plantes de type Aloès d'Eau ainsi qu'à l'Épicéa en Fleur. Ensuite, il entre dans un TR d'au moins 2 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Lotus de Neige + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1404,
+            "name": "Pot à Pois",
+            "introduce": "<align=left><size=36><color=black>Le Pot à Pois est un fervent admirateur du Pisto-pois. Il s'est teint en vert, s'est fabriqué des décorations de feuilles en pâte à papier, et a même transformé un vieux vase en canon à pois. Il ne lui manque plus qu'un autographe.</color>",
+            "info": "<size=36>Plateforme de tir de la famille Pisto-pois qui utilise le recul pour générer une puissance de feu supplémentaire.\n\n<color=black>Spécial : </color><color=#8B0000>Les plantes de type Pisto-pois posées sur cette case déclenchent 5 tirs rapides supplémentaires à chaque fois qu'elles tirent 30 fois.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1405,
+            "name": "Pot-sniper",
+            "introduce": "<align=left><size=36><color=black>Du point de vue du Pot-sniper, utiliser un fusil de précision n'est en réalité pas difficile du tout. Il suffit de savoir recharger, chambrer une cartouche, et tendre le fusil rechargé à un coéquipier qui sait s'en servir.</color>",
+            "info": "<size=36>Plateforme de tir de la famille des snipers qui utilise le recul pour générer une puissance de feu supplémentaire.\n\n<color=black>Spécial : </color><color=#8B0000>Les plantes de type Pois-sniper posées sur cette case effectuent 1 attaque supplémentaire immédiate toutes les 6 attaques.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pois-sniper > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1406,
+            "name": "Épicéa Pisto-neige",
+            "introduce": "<align=left><size=36><color=black>\" On se fait une bataille de boules de neige ? \" L'Épicéa Pisto-neige apparaît toujours avec cette question. Les batailles de boules de neige sont son sport de neige préféré et le plus redoutable, où il a un jour remporté une victoire légendaire à 1 contre 13. \" Tu oses me tendre une embuscade ? Ha ! Prends ça ! \"</color>",
+            "info": "<size=36>Lorsqu'il est touché par des boules de neige, il contre-attaque en lançant des boules de neige vers l'avant et l'arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>200×3 (boules de neige noires)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel et à la glaciation.\n<color=black>•</color> Ne cible pas les ennemis directement. Lorsqu'il est touché par des boules de neige blanches, il disperse 3 boules de neige noires vers l'avant pour attaquer les zombies, et 3 boules de neige blanches vers l'arrière pour geler les plantes.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Épicéa Tireur d'élite + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1407,
+            "name": "Citrouillommando",
+            "introduce": "<align=left><size=36><color=black>\" Je suis déjà à pleine capacité ! \" crie le Citrouillommando. \" Bourré de balles de pois ! \" Même s'il le répète sans cesse, il essaie toujours de se ménager un peu d'espace en plus, laissant les plantes se cacher en lui pour bloquer les attaques des zombies.</color>",
+            "info": "<size=36>Une citrouille qui s'est inspirée du Pois Commando.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6/3s</color>\n<color=black>Spécial : </color><color=#8B0000>2% de chance de tirer un déluge de pois normaux à chaque attaque, pendant 5 s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pois Commando > Citrouille</color>"
+        },
+        {
+            "seedType": 1408,
+            "name": "Lance-mort",
+            "introduce": "<align=left><size=36><color=black>On peut généralement deviner le goût d'une pastèque en tapotant légèrement sa surface. Un son clair annonce une pastèque sucrée, un son sourd une pastèque charnue… et un son assourdissant ? C'est une Pastèque Funeste.</color>",
+            "info": "<size=36>Lance des pastèques imprégnées de radiations qui explosent à l'impact, libérant de puissantes déflagrations lorsque des cratères se forment.\n\n<color=black>Dégâts : </color><color=#8B0000>1800/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les projectiles ne touchent pas les zombies directement ; ils déclenchent plutôt des explosions de Champi-mort à l'atterrissage (mêmes dégâts, laissant des Cratères Irradiés).\n<color=black>•</color> Si la case d'atterrissage comporte déjà un cratère ou se trouve dans l'eau, il inflige des dégâts réduits (1/18) dans une petite zone à la place ; la portée de cette zone augmente s'il est renforcé par le Pot de Pastèque.\nLe Cratère Irradié applique le malus Irradié aux zombies présents sur la même case.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-mort + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1409,
+            "name": "Aloès Nivéa",
+            "introduce": "<align=left><size=36><color=black>Pour le lancer de boules de neige, l'Aloès Nivéa est un génie. D'une seule feuille, il peut lancer avec précision des boules de neige de la taille d'un poing, et même en jongler plusieurs à la fois. Son seul problème, ce sont ses talents de rattrapage : les boules de neige finissent souvent par lui retomber sur la tête.</color>",
+            "info": "Lance continuellement des boules de neige, gardant les plantes rafraîchies et glacées.<size=36>\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (boules de neige noires)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Immunisé au gel et à la glaciation.\n<color=black>•</color> Gagne 1/15 charge de glace lorsqu'il est affecté par le gel ou les effets du Champi-glace.\n<color=black>•</color> Lance continuellement des boules de neige sur lui-même si aucun zombie n'est à portée ; s'il a une cible, 25% de chance de passer au lancer de boules de neige noires sur les zombies.\n<color=black>•</color> En lançant des boules de neige blanches, peut consommer 3 charges de glace pour lancer en plus des boules de neige blanches à chaque plante devant lui, jusqu'à 3 cases en avant.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Aloès d'Eau + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1410,
+            "name": "Coffre-citrouille",
+            "introduce": "<align=left><size=36><color=black>Le Coffre-citrouille est le rangement idéal pour les graines de plantes. À Halloween, chaque foyer prépare des bonbons pour les visiteurs, et cette citrouille est devenue le contenant parfait. Grande capacité, qualité solide et apparence festive en font un objet très populaire. Quant à savoir si elle chaparde des friandises en douce quand personne ne regarde… qui sait.</color>",
+            "info": "<size=36>Peut stocker vos paquets de graines de plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000><color=black>•</color> Peut stocker les paquets de graines tombés sur le terrain et les récupérer d'un clic.\n<color=black>•</color> Les paquets de graines ne sont pas conservés lorsque le Coffre meurt ou lors du passage à la manche suivante.\n<color=black>•</color> Possède 27 emplacements. Limites de cumul par qualité de plante :\n\t-Plantes de base : 32\n\t-Fusions basiques : 16\n\t-Fusions avancées : 8\n\t-Odyssée Commune : 4\n\t-Odyssée Épique : 2\n\t-Légendaire : 1\n<color=black>•</color> En mode gacha d'Odyssée, possède 54 emplacements et toutes les limites de cumul sont de 64.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Citrouille > Citrouille (PV max)</color>"
+        },
+        {
+            "seedType": 1411,
+            "name": "Lance-débris",
+            "introduce": "<align=left><size=36><color=black>Le Lance-débris est particulièrement doué pour accrocher d'autres projectiles derrière du beurre, lançant des attaques-surprises contre les zombies qui sous-estiment les frappes au beurre. Il utilise aussi cette technique pour \" emprunter \" le déjeuner de ses coéquipiers.</color>",
+            "info": "<size=36>Utilise l'énergie de radiation pour ordonner aux plantes catapultes adjacentes de tirer à l'unisson.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les attaques appliquent le malus Irradié.\n<color=black>•</color> Commence avec 10 d'énergie de radiation. Gagne 1 d'énergie chaque fois qu'un zombie affecté par Irradié meurt dans sa rangée.\n<color=black>•</color> 25% de chance de tirer un beurre de 60 dégâts. Peut aussi consommer 1 d'énergie chacune pour déclencher le tir immédiat des plantes catapultes adjacentes de gauche et de droite (un seul tir standard, tiré par elle-même).</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-mort + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1412,
+            "name": "Pisto-étoile",
+            "introduce": "<align=left><size=36><color=black>Le Pisto-étoile est très fier de lui et croit briller comme une étoile dans le ciel. Bien que les autres lui disent qu'il n'émet pas réellement de lumière capable de percer le brouillard ou l'obscurité, cela n'altère en rien sa bonne humeur, et il aide même à décorer le plafond d'un hôtel de ville d'un motif de ciel étoilé.</color>",
+            "info": "<size=36>Tire des pois étoilés qui se divisent en plusieurs étoiles avant l'impact.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Le projectile se divise en 5 projectiles étoilés dans toutes les directions toutes les 0,5 s (la première à 0,2 s), jusqu'à 5 fois.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Carambole</color>"
+        },
+        {
+            "seedType": 1413,
+            "name": "Citrouille Pyro",
+            "introduce": "<align=left><size=36><color=black>La Citrouille Pyro est une excellente employée de restaurant. Elle travaille habituellement comme serveuse, fait des tours de magie pendant les fêtes, et lorsqu'un problème survient en cuisine, elle peut temporairement remplacer une cuisinière à gaz.</color>",
+            "info": "<size=36>Stocke de l'énergie thermique ; un clic la libère intégralement pour une puissante explosion.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu'elle est mordue, inflige 20 dégâts à l'attaquant et applique Enflammé.\n<color=black>•</color> Gagne de l'énergie thermique égale à 10% des dégâts lorsqu'elle est affectée par des effets de Jalapeño. Gagne 60 d'énergie thermique quand un zombie Enflammé meurt dans sa rangée.\n<color=black>•</color> Énergie thermique max : 1 M. Chaque tranche de 30 points d'énergie augmente les dégâts de morsure en retour de +1. Si l'énergie thermique ≥ 1800, un clic ou la mort consomme toute l'énergie pour libérer un effet de Jalapeño dont les dégâts égalent l'énergie stockée.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Jalapeño > Citrouille</color>"
+        },
+        {
+            "seedType": 1414,
+            "name": "Algue Maudite",
+            "introduce": "<align=left><size=36><color=black>À force de longues nuits passées à étudier les problèmes de fusion et d'un manque chronique de sommeil, les yeux de l'Algue Maudite sont injectés de sang. Beaucoup de collègues lui ont suggéré de se reposer davantage et de soigner ses yeux rouges, mais elle a catégoriquement refusé. \" Si je faisais ça… mon visage n'apparaîtrait que comme une flaque de noir d'encre sur les photos… rien que d'y penser, c'est terrifiant. \"</color>",
+            "info": "<size=36>L'Algue Maudite explose comme un Champi-mort lorsqu'elle est activée.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Noyade) + 1800 (Crémation)</color>\n<color=black>Spécial : </color><color=#8B0000>Déclenche l'effet du Champi-mort à sa mort.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Champi-mort > Algue</color>"
+        },
+        {
+            "seedType": 1415,
+            "name": "Ronce",
+            "introduce": "<align=left><size=36><color=black>Elle n'était autrefois qu'un simple Cactus travaillant à l'institut de recherche sur les Mammouths, s'adressant aux éléphants.</color>",
+            "info": "<size=36>Une ortie capable de frapper les unités aériennes.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque attaque tire 3 pics vers le haut ; l'attaque normale comme les projectiles peuvent toucher les zombies volants.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Ortie + Cactus</color>"
+        },
+        {
+            "seedType": 1416,
+            "name": "Chrysanfer Givré",
+            "introduce": "<align=left><size=36><color=black>\" T'inquiète, je ne garderai pas ma scie près de toi. \" Le Chrysanfer Givré rassura les autres plantes. Bien qu'il tienne fermement sa scie circulaire, la neige qui s'accumule sur la lame en rotation est constamment projetée de tous côtés par sa rotation à grande vitesse.</color>",
+            "info": "Des lames tournant à grande vitesse qui projettent des boules de neige ; la vitesse d'attaque augmente avec le nombre de boucliers.<size=36>\n\n<color=black>Dégâts : </color><color=#8B0000>5/0.02s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des traits du Chrysanfer.\n<color=black>•</color> Toutes les 10 attaques, tire une boule de neige supplémentaire. Les boules de neige spiralent vers l'extérieur : celles qui se dirigent vers la gauche sont des boules de neige blanches ; les autres sont des boules de neige noires infligeant 4× les dégâts.\n<color=black>•</color> La vitesse d'attaque des boules de neige augmente de (Bouclier/Robustesse)×, jusqu'à +100%</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Chrysanfer + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1417,
+            "name": "Ortie Rebondissante",
+            "introduce": "<align=left><size=36><color=black>L'Ortie Rebondissante déteste être prise pour un de ces vieux chasseurs de bonnes affaires qui guettent les invendus au marché. C'est en réalité quelqu'un qui se lève tôt chaque jour pour attraper les légumes les plus frais.</color>",
+            "info": "<size=36>Récupère les projectiles retombés et les renvoie sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque d'autres projectiles catapultés atterrissent dans la même rangée, au maximum une fois toutes les 0,7 s, elle attaque et renvoie une copie de ce projectile vers le zombie le plus proche de la rangée ; le renvoie le long de sa trajectoire s'il n'y a aucune cible.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Ortie + Lance-chou</color>"
+        },
+        {
+            "seedType": 1418,
+            "name": "Ortie à Ressort",
+            "introduce": "<align=left><size=36><color=black>Contrairement à son cousin paresseux, l'Ortie à Ressort est très assidue dans son travail de thérapeute en santé mentale. Jusqu'à présent, la seule ordonnance qu'elle ait jamais rédigée est : \" Va sauter sur un trampoline pendant un moment. \"</color>",
+            "info": "<size=36>Projette les zombies proches vers le haut et les désoriente.\n\n<color=black>Dégâts : </color><color=#8B0000>80/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Propulse les zombies tout droit vers le haut pendant un court instant en attaquant. L'effet est réduit à 1/3 contre les Gargantuas. Ne peut pas propulser les zombies boss ni les véhicules.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Ortie + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1419,
+            "name": "Ortie Solaire",
+            "introduce": "<align=left><size=36><color=black>L'Ortie Solaire s'accroche fermement au sol, reflet de son amour pour la Terre nourricière. Les vibrations bourdonnantes du sous-sol sont le plus beau rythme du jazz de la Terre, tandis que le martèlement des zombies qui passent au-dessus est le bruit qu'elle déteste le plus.</color>",
+            "info": "<size=36>Génère du soleil en attaquant.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Lâche 5 soleils à chaque attaque.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Tournesol + Ortie</color>"
+        },
+        {
+            "seedType": 1420,
+            "name": "Cyclotroufle",
+            "introduce": "<align=left><size=36><color=black>\" Puissance de ventilation élevée, ne pas toucher. \" Le Cyclotroufle prévient quiconque tente de s'approcher. \" Et puis aussi, ça c'est mon visage, pas un logo de marque de ventilateur. \"</color>",
+            "info": "<size=36>Repousse les zombies qui approchent, particulièrement efficace contre les zombies dans les airs.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Toutes les 3 s, s'il y a des zombies terrestres devant, repousse lentement jusqu'à 3 zombies les plus proches. L'effet est doublé sur les zombies volants, triplé sur les zombies projetés dans les airs, et réduit à 1/3 contre les véhicules et les Gargantuas.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Troufle + Troufle</color>"
+        },
+        {
+            "seedType": 1421,
+            "name": "Patate Chaude",
+            "introduce": "<align=left><size=36><color=black>La Patate Chaude voulait seulement être une mine terrestre ordinaire, jusqu'à ce qu'un obus incendiaire atterrisse sur sa mèche. Bien qu'elle soit mécontente de ne plus pouvoir rester cachée, devenir la coqueluche du réfectoire s'est révélé être un mal pour un bien.</color>",
+            "info": "<size=36>Embrase les Petits Pois et les Pois-patate, les transformant en Patates Rôties.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte. Affecte certains projectiles qui la traversent :\n\tPetits Pois, Pois-patate : Embrasés, +20 dégâts\n\tNoix roulantes : Dégâts ×2 et compteur de perforation réinitialisé\n<color=black>•</color> Pour chaque tranche de 100+ projectiles affectés, crée devant elle une Patate Rôtie non fusionnable (les Pois-patate comptent pour 8 projectiles).\n<color=black>•</color> Déclenche une explosion de Mine Patate à sa mort.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate + Torche</color>"
+        },
+        {
+            "seedType": 1422,
+            "name": "Patate Rôtie",
+            "introduce": "<align=left><size=36><color=black>Tout juste sortie du four, la Patate Rôtie ne put s'empêcher de crier : \" Quel imbécile négligent m'a balancée là-dedans sans me préparer d'abord ? \" Elle est si furieuse que la première chose à la heurter va le regretter.</color>",
+            "info": "<size=36>Un reflet ardent d'une Mine Patate, avec peu de différences par rapport à l'originale.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000> Plante courte. Ne peut pas être fusionnée. Peut être transformée en Mine Patate armée à l'aide d'un Pot Glacé.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1423,
+            "name": "Commando Pois-noix",
+            "introduce": "<align=left><size=36><color=black>Le Commando Pois-noix a accepté un contrat publicitaire. On lui a demandé de porter une tenue spéciale de Noix pour promouvoir la marque de compléments pour cerveaux de zombies \" Nut-o-mix \". Jusqu'à présent, la campagne n'a reçu aucune plainte.</color>",
+            "info": "<size=36>Un commando qui tire des Noix roulantes.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Dégâts : </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts reçus sont plafonnés à 1/4 de sa Robustesse par coup.\n<color=black>•</color> 2% de chance de tirer 6 Noix géantes infligeant 20× les dégâts, et gagne un Bouclier égal à 1/4 de sa Robustesse à chaque attaque.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pois Commando + Noix</color>"
+        },
+        {
+            "seedType": 1424,
+            "name": "Pois-sniper Mordeur",
+            "introduce": "<align=left><size=36><color=black>Une bonne lunette aide un sniper à tirer plus précisément. Selon la même logique, elle peut aider un Mordeur à mordre plus loin. Si votre Mordeur voisin mâche trop bruyamment, essayez peut-être de l'équiper d'un silencieux.</color>",
+            "info": "<size=36>Sous la visée d'un sniper, ses tirs dévorent les ennemis.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Cible n'importe où devant, à travers les rangées, y compris les zombies aériens.\n<color=black>•</color> Effectue un effet de dévoration de Mordeur avant le calcul des dégâts. Une attaque sur 6 est un tir à la tête, permettant à l'effet de dévoration d'affecter n'importe quel zombie non mini-boss et d'infliger 1 M de dégâts.",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pois-sniper + Mordeur</color>"
+        },
+        {
+            "seedType": 1425,
+            "name": "Champi-tireur",
+            "introduce": "<align=left><size=36><color=black>Le Champi-tireur a appris un remarquable tour de lancer de pois à tir rapide au cirque. Personne ne sait combien de pois il peut lancer à cette vitesse. Il adorerait l'exhiber devant les zombies, mais pas quand ils s'approchent trop — cela révélerait comment fonctionne le tour.</color>",
+            "info": "<size=36>Augmente rapidement sa vitesse d'attaque et ses dégâts, mais perd tout lorsqu'il est effrayé.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Gagne 5% de vitesse d'attaque et +1 dégât après chaque attaque, jusqu'à +150% de vitesse d'attaque et +30 dégâts. Ce bonus est réinitialisé lorsqu'il est effrayé.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Pisto-pois + Champi-peureux</color>"
+        },
+        {
+            "seedType": 1426,
+            "name": "Lévipatate",
+            "introduce": "<align=left><size=36><color=black>La Lévipatate est profondément tourmentée. Elle a une rage de dents, mais ne trouve aucun dentiste prêt à opérer sa toute petite dent.</color>",
+            "info": "<size=36>Permet aux Mines Patate posées sur sa case de se réarmer après avoir explosé.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsqu'une plante de type Mine Patate sur la même case s'autodétruit au contact d'un ennemi, elle ne disparaît pas et s'enterre à nouveau pour se réarmer (cette capacité a un TR de 15 s).</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate + Troufle</color>"
         }
     ]
 }
