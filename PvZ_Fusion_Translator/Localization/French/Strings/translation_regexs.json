@@ -455,5 +455,6 @@
   "选中: 音符#(\\d+) \\| 轨道: (\\d+) \\| 类型: ([^\\s]+) \\| 开始: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 结束: ([^\\s]+)s \\(([^\\s]+)拍\\) \\| 持续: ([^\\s]+)s": "Note sélectionnée : {0} | Piste : {1} | Type : {2} | Début : {3}s (Battement {4}) | Fin : {5}s (Battement {6}) | Durée : {7}s",
   "开始Hold音符 \\(轨道(\\d+)\\)": "Note longue démarrée (Piste {0})",
   "结束Hold音符 \\(轨道(\\d+)\\)": "Note longue terminée (Piste {0})",
-  "诸神注视着你，并选中了一个他们喜欢的词条\n植物<color=green>【([\\S]+)】</color>的词条<color=yellow>【强化：([\\S]+)】</color>获得品质升级\n当前品质：([\\S]+)": "\n171\nLes dieux vous observent et vous ont accordé une amélioration !\nL' <color=yellow>{1}</color> amélioration pour <color=green>{0}</color> a été effectuée.\nQualité actuelle: {2}"
+  "诸神注视着你，并选中了一个他们喜欢的词条\n植物<color=green>【([\\S]+)】</color>的词条<color=yellow>【强化：([\\S]+)】</color>获得品质升级\n当前品质：([\\S]+)": "\n171\nLes dieux vous observent et vous ont accordé une amélioration !\nL' <color=yellow>{1}</color> amélioration pour <color=green>{0}</color> a été effectuée.\nQualité actuelle: {2}",
+  "护盾量：([^\\s]+)": "Bouclier : {0}"
 }
