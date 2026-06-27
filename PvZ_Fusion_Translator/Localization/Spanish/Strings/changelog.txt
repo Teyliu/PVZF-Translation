@@ -2,73 +2,91 @@
 La única fuente oficial del juego está en el Bilibili del creador, 蓝飘飘fly.</color>
 La única fuente válida de esta traducción es esta: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> y las páginas de GitHub asociadas.
 Alejate de otras fuentes externas como <color=#8B0000>pvzfusion.net</color> o <color=#8B0000>pvzfusion.pro</color> ya que distribuyen nuestro trabajo sin permiso.
-Por favor revisa nuestra página para futuras actualizaciones.
+Si quieres cambiar el idioma de la traducción, asegúrate de revisar el menú de "Idiomas", abajo a la derecha de este menú.
+Por favor revisa nuestra comunidad para futuras actualizaciones.
 
-<align=center><size=125%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.2.1 ?</size></align>
+<align=center><size=120%>Plantas Contra Zombis: Fusion - ¿ Qué añade de nuevo la 3.6 ?</size></align>
 
-1. Nuevas Plantas
+1. Modo Odisea Remasterizado
+ - Ahora eres capaz de seleccionar libremente rutas de minijefes, dificultad, y progresión de escenarios, entregando grande flexibilidad.
+ - Ya no verás modificadores que se repiten cada vez que haces una repetición, excepcionando si los tienes todos ya.
+ - Se ha modificado el momento para la primera tienda de modificadores y la selección de minijefes. Ahora verás la primera tienda de modificadores después de la ronda 5. En la dificultad purgatorio y superiores, ahora tendrás que seleccionar 6 minijefes en lugar de los 4 anteriores.
+ - Nuevas rutas de minijefes añadidas, estas siendo para Live Aid Jackson y Lethal-Star Abanderado, con una selección distinta de zombis por ronda y modificadores zombi exclusivos.
+ - Zombistein Abismal y Arca del Patito (con Zombidito) son seleccionables como minijefes fuera de sus rutas.
+ - Aún puedes acceder niveles antes de la 3.5 presionando el botón de "Preajustes".
+
+2. Plantas Nuevas
+- Planta Básica:
+  - Peluscarcha
 - Fusiones Básicas:
-  - Planterna Boreal (Seta Congelada + Planterna)
-  - Mina Medrante (Patatapum + Marseta)
-  - Planterna Maldita (Petaseta + Planterna)
-  - Coltillería (Coltapulta ∞ Coltapulta ∞ Coltapulta)
-  - Melonpulta Pesada (Apisonaflor + Melonpulta)
-  - Apisonaflor Explosivo (Petacereza + Apisonaflor)
-  - Apisonaflor Maldito (Petaseta + Apisonaflor)
-  - Mantecaseta (Humoseta + Lanzamaíz)
-  - Hexaguisantes (Tripitidora + Lanzaguisantes)
-  - Trebolador Solar (Girasol + Trebolador)
-  - Calabaza Miniatura (Seta Desesporada + Calabaza)
-  - Calabaza Malhumor (Humoseta + Calabaza)
-  - Apisonaflor Solar (Girasol + Apisonaflor)
-  - Calabaza Sandía (Calabaza + Melonpulta)
-  - Enterraflor (Patatapum + Apisonaflor)
-  - Ajo Negro (Petaseta + Ajo)
-  - Shurikenseta (Humoseta + Frustrella)
-  - Maceta Miédica (Seta Miédica + Maceta)
+  - Apestorcha (Plantorcha + Ajo)
+  - Salpicaflor (Apisonaflor > Marseta)
+  - Saguaroseta (Humoseta + Cactus)
+  - Hipnotizanorcha (Hipnoseta + Plantorcha)
+  - Estiralga (Humoseta + Zampalga)
+  - Coltapulta Ígnea (Jalapeño + Coltapulta)
+  - Coltaclismo (Petaseta + Coltapulta)
+  - Lanzamaíz Ígneo (Jalapeño + Lanzamaíz)
+  - Enfriapum (Patatapum + Seta Congelada)
 - Fusiones Odisea:
-  - Realeza Solar (Emperador Solar + Nuez)
-  - Melortero Cristalino (Mazorcañón Cristalino + Melonpulta)
-  - Apisonaflor Nuclear (Cereza Nuclear + Apisonaflor)
-  - Coltillería Volcánica (Mazorcañón Volcánico + Coltapulta)
-  - Calabelleza (Seta Coratrón + Calabaza)
-  - Emperador Ígneo (Emperador Solar + Jalapeño)
-  - Realeza Ígnea (Emperador Ígneo + Nuez)
-  - Ralentizahierba (Apinchonaflor + Mantecahierba)
-- Otras Plantas:
-  - Cubo
-  - Casco All-Star
-  - Maceta XXS
-  - Setarmonía
+  - Común:
+    - Copitralladora Augmentada (Lanzaguisantes + Copitralladora)
+    - Brillantralladora Augmentada (Lanzaguisantes + Brillantralladora)
+  - Épico:
+    - Sargento Ferreo (Ferroguisantes + Deportralladora)
+    - Francoguisantes Sincronizador (Sargento Deportivo + Cronofragmento)
+    - Bipetiplaga (Ajo + Bipetiprisma)
+    - Fragmento Obsidiana (Obsidiana Hiperestable > Seta Desesporada)
+- Fusiones Legendarias:
+  - Fumigador Eclipse
+  - Emperador Antiguo
+- Especial / Misceláneo:
+  - Flecha
+  - La esparción de Setas Desesporadas por Humoseta/Seta Miédica ahora tienen IDs separadas.
 
-2. Zombi Nuevo
-- Zombistein Pescador
+3. Zombis Nuevos
+- Común:
+  - Zombi Entrenador
+  - Zombi Lector Protegido
+  - Zompingüino
+  - Zompingüino Emperador
+  - Yombi Esquimal*
+  * (El Yombi Esquimal original se cambia a Yombi Lanzanieves)
+  - Yombi Carahielo Compactado
+  - Vegezombi Guisantralladora
+  - Vegezombi Hielantralladora
 
-3. Almanaque Actualizado
-- ¡Ahora hay un Almanaque completamente renovado disponible, que incluye una función de búsqueda y mucho más! (Puedes presionar C durante un nivel mientras pasas el cursor sobre una planta para ver instantáneamente su entrada en el Almanaque).
+4. Nuevas Skins
+- Calatrón > Trón Fijo
 
-4. Nuevo Nivel Gacha - Odisea Zorpresa: Limitado
-- En este modo, las plantas básicas aparecerán en la cinta transportadora. El número que aparece debajo indica cuántas veces se puede plantar estas plantas. ¡También pueden aparecer modificadores aleatorios en la cinta transportadora!
+5. Nuevos Niveles
+- Minijuegos:
+  - Organizombis: Ajusta las flechas para guiar a los zombis a las estaciones correctas. Estas Flechas también se pueden usar para crear niveles TD en el Super Editor de Niveles.
+  - ¿Yo, Zomboss?: Colocar paquetes de zombis hará aparecer un Endoflama correspondiente que invoca zombis hipnotizados para luchar por ti.
+  - ¡Explode-O-Su!: Controla el tempo para lidiar con oleadas de zombis.
+- Aventura Estelar: Nieve ha sido actualizado
+- Yo, Zombi Aventura: Capítulo 5: Todos los caminos llevan al Tejado ha sido actualizado
+- Nuevo Nivel Odisea: Estadísticas contra Mecánicas: Plantas Odisea deshabilitadas. Las estadísticas base de las plantas se incrementan enormemente. Algunos paquetes de semillas están disponibles directamente en tu mazo para un uso rápido. Cada vez que los zombis lleguen a la casa, no perderás inmediatamente el juego, sino que se retrocederá al último punto de control y perderás todos los modificadores de zombis y plantas. El retroceso solo se puede usar un número limitado de veces.
+- Odisea: Aventura ha sido remasterizado
+- Entrada de Defensa del Jardín ha sido movida al Jardín Zen.
+- Modo Cosecha: Nueva dificultad: Caos. Semillas no usan durabilidad aquí, pero los zombis consiguen mejoras aleatorias.
+- Nuevo Mapa - Tundra: Dentro del campamento silencioso, parece yacer enterrado un pasado oculto… El fertilizante no aparece automáticamente en este mapa.
 
-5. Cambios de Yo, Zombi
-- Nuevo Modo: Combate de Filas
-- Ahora todos los zombis pueden ser usados en Yo, Zombi.
+6. Nueva Sinergía
+- Cuando Colipultita y Copitralladora Augmentada se plantan en la misma casilla, los proyectiles de este primero se dividen una vez más. Los proyectiles normales y especiales de ambas plantas heredan algunas propiedades de los disparos de la otra. (ADVERTENCIA: Provocará lag)
 
-6. Nuevos Disfraces
-- Rabo de Campanita > Rabo de Espantos
-- Emperador Estelar > Mago Estelar
+7. Nuevos Ajustes del Super Editor de Niveles
+- Ahora permite creación, modificación y emparejamiento de nodos para activar eventos de juego por un sistema pseudo-código.
+- Puedes crear niveles de ritmo y niveles TD usando Flechas.
 
-7. Ajustes de Zombi
-- Nuez Kírov Gigante
-  - Durabilidad: 90.000 → 300.000
-  - Límite de Daño: 100 → 300
-  - Absorción de Daño: Ahora los zombis recibirán obligatoriamente 1 de daño por golpe cuando la Nuez Kírov Gigante absorba daño.
-- Zombistein Prismático
-  - Modificadores:
-    - No importará su apariencia: Todos los Zombisteins Prismáticos obtendrán las mismas habilidades.
-    - No importará su apariencia: Todos los Zombisteins Prismáticos obtendrán las mismas inmunidades.
+8. Ajustamientos de Balance de Odisea
+- Guisantidillón Obsidiana: Se han cambiado todas sus habilidades
+- Calatrón: Ahora tiene la habilidad de reducir la reducción de daño de zombis
+- Payazombi Acuático: Daño de explosión reducido a 500
 
-8. Mini-Jefes... ¡Mini!
-- ¡Compra modificadores para obtener un Ministein Abismal o un Minizombi Abanderado peleando por ti!
+9. Reworks de Almanaque
+- Nuevo Almanaque para mecánicas del juego
+- El almanaque antiguo ha sido eliminado
+- Las plantas y fusiones no vistas ahora están bloqueadas en el almanaque. Hacer clic en plantas no descubiertas ahora da pistas sobre cómo hacerlas. También puedes desbloquear todas rápidamente en configuraciones.
 
-9. Arreglos de bugs misceláneos.
+10. Correcciones de errores misceláneos y optimizaciones.

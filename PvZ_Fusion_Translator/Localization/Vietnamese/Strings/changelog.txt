@@ -4,21 +4,20 @@ Nguồn chính thống có thể truy cập từ link server: <color=#64DD17>dis
 Xin hãy tránh khỏi các trang tải game như <color=#8B0000>pvzfusion.net</color> hay <color=#8B0000>pvzfusion.pro</color> vì bọn họ đã phân phối lại bản mod mà không có sự cho phép chính thức. 
 Bản Việt Hóa được làm bởi team CBD và team Bloom.
 
-<align=center><size=130%>PvZ Fusion 3.5 Changelog</size></align>
+<align=center><size=130%>PvZ Fusion 3.6 Changelog</size></align>
 
-1. Chế độ chỉnh sửa màn chơi cùng với giao diện mới
-- Chế độ siêu chỉnh sửa lần này mang tới nhiều cơ chế mới giúp chỉnh sửa màn chơi 1 cách toàn diện nhất.
-- Bao gồm các cài đặt cơ bản, chế độ chơi, cây và Zombie, điều kiện chiến thắng, chế độ Thần, Gacha thậm chỉ là Zombie spawn
+1. Làm lại chế độ Luyện Ngục
+- Cho phép lựa chọn các hướng miniboss, kết hợp, chỉnh sửa độ khó mới.
+- Chỉnh sửa chọn miniboss và Cửa Hàng Buff
 
 2. Màn chơi mới
-- 3 màn Chế Độ Đập Bình mới, hoàn thành cả 3 sẽ nhận Bình Vàng
-- Minigame mới: Dò Mìn
-- Gacha Hỗn Loạn
-- Tôi là Zombie Phiêu Lưu chương 4
-- Màn chơi giới thiệu công thức mới
-- Chế độ Hồ Bơi Vô Tận
+- Minigame mới: Dò Mìn, Osu, Tôi là Zomboss
+- Phiêu Lưu Tinh Hệ: Tuyết
+- Tôi là Zombie Phiêu Lưu chương 5
+- Đêm Tuyết Phiêu Lưu
+- Chế độ Thu Hoạch
 
-3. Buff Gacha
-- Chỉ có thể kích hoạt khi chơi chế độ gacha
+3. Làm lại Almanac hoàn toàn
+- Almanac giờ sẽ chỉ mở khóa công thức cây một khi bạn ghép cây thành công hoặc được trồng xuống. Bạn cũng có thể mở khóa toàn bộ ở Cài Đặt.
 
 4. Chỉnh sửa bug và tối ưu game

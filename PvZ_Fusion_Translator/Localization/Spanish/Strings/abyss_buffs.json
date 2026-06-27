@@ -1,4 +1,4 @@
-﻿{
+{
   "生存_聚塑": "<color=#794c22>Vitalis:</color>\nIntegración",
   "每拥有1个生存词条，植物拥有{value}%减伤，激活庇佑效果": "Por cada modificador de Vitalis, las plantas obtienen una reducción de daño del {value}% y se activa el efecto de Bendición.",
   "生存_启命": "<color=#794c22>Vitalis:</color>\nAumento de Salud",
@@ -20,7 +20,7 @@
   "生存_主宰": "<color=#794c22>Vitalis:</color>\nEscudo of Gaia",
   "场上护盾值最高的植物无敌（免疫伤害和碾压）": "La planta con el escudo más alto es invencible (inmune al daño y a ser aplastada).",
   "寒冰_聚塑": "<color=#257ca3>Glacies:</color>\nIntegración",
-  "每拥有1个寒冰词条，寒冷状态的减速效果+{value}%，激活暴风雪效果": "Por cada modificador de Glacies, la cantidad de ralentización del Efecto Criogénico se aumenta en {value}% y se activa el efecto de Ventisca.",
+  "每拥有1个寒冰词条，寒冷状态的减速效果+{value}%，激活暴风雪效果": "Por cada modificador de Glacies, la ralentización de enfriamiento se aumenta en {value}% y se activa el efecto de Ventisca.",
   "寒冰_刺骨": "<color=#257ca3>Glacies:</color>\nFragilización",
   "冻结的僵尸受到的伤害增加{value}%": "Zombis congelados reciben un {value}% más de daño.",
   "寒冰_凛风": "<color=#257ca3>Glacies:</color>\nViento Ártico",
@@ -32,9 +32,9 @@
   "寒冰_折磨": "<color=#257ca3>Glacies:</color>\nDolor Glacial",
   "僵尸被冻结后，下次受到的伤害增加{value}%": "Tras estar congelados, los zombis reciben un {value}% más de daño del siguiente golpe.",
   "寒冰_扩散": "<color=#257ca3>Glacies:</color>\nInvierno Contagioso",
-  "僵尸被冻结时，对小范围内的僵尸施加寒冷状态": "Al congelar un zombi, se ralentizan los otros zombis alrededor.",
+  "僵尸被冻结时，对小范围内的僵尸施加寒冷状态": "Al congelar un zombi, se enfrían los otros zombis alrededor.",
   "寒冰_凝神": "<color=#257ca3>Glacies:</color>\nOleada de Frío",
-  "无防具的僵尸受到伤害后有{value}%概率被寒冷减速": "Zombis sin armadura tienen una chance del {value}% de ser ralentizado al ser atacado.",
+  "无防具的僵尸受到伤害后有{value}%概率被寒冷减速": "Zombis sin armadura tienen una chance del {value}% de ser enfriados al ser atacado.",
   "寒冰_破冰": "<color=#257ca3>Glacies:</color>\nQuiebrantura",
   "僵尸在解除冻结时受到{value}伤害": "Zombis congelados reciben {value} de daño al descongelarse.",
   "寒冰_永冻": "<color=#257ca3>Glacies:</color>\n-75 Grados",

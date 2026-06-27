@@ -35,8 +35,8 @@
         "name": "Odyssey Gacha: Vasebreaker",
         "startTip": ""
     },
-    "level_1774021232832_2o5a8h8md": {
-        "name": "Odyssey Gacha: Purgatory of Diamond",
+    "level_1781676304315_0vcqeel6q": {
+        "name": "3.6.1 Odyssey Gacha: Purgatory of Diamond",
         "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
     },
     "level_1774109191871_tfirdlefk": {
@@ -142,5 +142,137 @@
     "level_1775048626512_f9xv3240i": {
         "name": "Error: File Corruption",
         "startTip": "File corruption detected. Attempting restoration.\n<color=#FF0000>Restoration failed!</color>\nExit code: Level file  <color=#6C6C6C>fused</color> with other levels!\n"
+    },
+    "level_1777168544138_4oxygnhv8": {
+        "name": "3.6 I, Zombie\nMinesquash",
+        "startTip": "Why are there so many Squashes!\nNote: On higher game speeds Gargantuars will bug out and not smash the brains.\nSubmitter: 鬼爹来咯, Best Solution: 525 Sun left\nRecommended Difficulty: 5"
+    },
+    "level_1777168545338_1ypw3f96h": {
+        "name": "3.6 I, Zombie\nSunny Smiley Squashy",
+        "startTip": "<size=18>Recommended Difficulty: 0\n<size=12>Submitter: decepticons, Best Solution: 750 Sun left\n<size=340>\n<size=18>Huge wave of Solar Squashes incoming! But fret not, all plants drop 50 Sun on death in this level.\nDo not let your Sun drop below 100 if you're not finished with eating all the brains!\n<size=370>\n"
+    },
+    "level_1777168546497_6rbepzlyl": {
+        "name": "3.6 I, Zombie\nElemental Fury",
+        "startTip": "<size=18><color=#FFFFFF>Different fusions will help you get through the level!\nPlease consult the Almanac if you're not familiar with their mechanics.\nNote: Because M.A.D. Pepper would be too op, <u><color=#FFFF00>it is banned</color></u>. No cheese for you.\nRecommended Difficulty: 0, Best Solution: 825 Sun left, Submitter: 爱嗑猫薄荷</color>"
+    },
+    "level_1777344096752_otvk05eg5": {
+        "name": "Odyssey Gacha: Purgatory of Diamond",
+        "startTip": "You should accept the whims of fate\nOnce you've set foot on this path\n-------------\nRecommended difficulties: 0-4\nMini-bosses are recommended to be disabled\nChallenge: Clear the level with the 3 settings pertaining to Gacha modes all enabled"
+    },
+    "level_1777357799808_1so2l94x3": {
+        "name": "3.6 Mini-game\nSharkmarine's Adventure",
+        "startTip": "Use Giga Mecha-nuts well and crush 'em by summoning Sharkmarines!\nYou can set camera size in the settings, btw."
+    },
+    "level_1777367484082_sgllfzxbc": {
+        "name": "3.6 Puzzle\nTreacherous Squashing",
+        "startTip": "Recommended Difficulty: 3\n\nBorrow Chronoporter Zombies to make Nyan Squashes drop more stuff!\nDefeat the zombies with Squash fusions!\nMake the right Squash fusion depending on the invading zombies!"
+    },
+    "level_1777384365398_9p625ceet": {
+        "name": "3.6 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
+    },
+    "level_1777385759836_sndjbb4i0": {
+        "name": "3.6 Mini-game\nBotanical Tactician",
+        "startTip": "<size=20>Use the Glove or directly click on the Plants to move them!\nKill Zombies for Sun to buy support plants!\nThis level is very micro-heavy. Please choose difficulty carefully."
+    },
+    "level_1777476099947_28kglstpr": {
+        "name": "3.6.1 I, Zombie\nScaredy's dream",
+        "startTip": "It's important to place Peashooters carefully this level, while using Rush-shroom to remove any unwanted projectiles.\nGuide the peas through the Squashwoods to explode the Obsidian Tall-nuts with Doom Squash to achieve victory! Perhaps Ice-shrooms and Puff-shrooms could help you along the way as well.\nIt's recommended to fuse Scaredy-shroom with Blover to clean up the projectiles at the end.\nDon't forget to protect the Endoflames too, as you'll lose if any of them die!\nSubmitter: 灯磁, Best Solution: 500 Sun Left"
+    },
+    "level_1777476101905_76gkjo79n": {
+        "name": "3.6.1 I, Zombie\nWelcome to the Darkside",
+        "startTip": "A very generic I, Zombie level.\nAs you can see, you need to act fast and kill the Plantern at the start.\nRecommended Difficulties: 4-5 (otherwise not solvable)\nSubmitter: 窝是fvv, Best Solution: 375 Sun left"
+    },
+    "level_1777477084191_cd6sah12a": {
+        "name": "3.6.1 I, Zombie\nThin Ice",
+        "startTip": "<size=18>The blizzard at the start of the level will freeze some plants not protected by firnaces. Use these frozen plants to win!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 425 Sun left"
+    },
+    "level_1777477085553_gsp8oxjjy": {
+        "name": "3.6.1 I, Zombie\nSuperhostile",
+        "startTip": "<size=18>You'll have to protect the plants on Radiant Pots from dying! If any of them do, you'll immediately lose too!\nSo, are you brave enough to click on the M.A.D. Peppers?\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 450 Sun left"
+    },
+    "level_1777477086587_5tnwc8lem": {
+        "name": "3.6.1 I, Zombie\nUntrickable",
+     "startTip": "<size=15><align=left>[Plants that have had their stats altered but are not on the starting lawn]\nChrono Pea: Damage: 1800\nBuckshooter: Damage: 0\nFootball-shroom: Health: 0\nDoomwarp-shroom: Health: 0\nDoomplate-shroom: Health: 0\nIron Squash: Damage: 0\nCherrizilla: Health: 0\nCluster Mine: Health: 0\nGolden Umbrella: Health: 0\nGloom-shroom: Attack interval: ∞\nGolden Melon: Damage: 0\nObsidian Mine: Health: 1\n\n\n\n\n\n\n\n<size=18><align=center>A large amount of plants in this level have altered stats, keep them in mind when attempting to solve it!\nPressing H while hovering over a plant shows you the stats of the plant, using this feature can help make this level much easier!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 550 Sun left\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777477087653_z9zgyyc2y": {
+        "name": "3.6.1 I, Zombie\nImitater",
+        "startTip": "<size=18>Warning: This level is quite hard to solve!\nOne Imitater costs 325 sun to prevent sun farming. Use them wisely to beat this level!\nThink carefully about how how to deal with the lane 1 Explode-o-shooter, lane 2 Cherrizilla,\nlane 3 Football-shroom, lane 4 Snipea, and lane 5 Sunrise-shroom!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 550 Sun left"
+    },
+    "level_1777477365080_24xm784gq": {
+        "name": "3.6.1 I, Zombie\nCarpet Bombing",
+        "startTip": "<size=18><size=18>Doom-shroom erases all other plants in the same tile, and can be fused to make fusions that do the same thing.\nRecommended difficulty: 0, Submitter: 小董玩的好, Best Solution: 500 Sun left\n(Search the submitter's name on Bilibili for a walkthrough)"
+    },
+    "level_1777604380330_wl7hs77yz": {
+        "name": "3.6.1 Mini-game\nWall-nut Bowling: Evolved",
+        "startTip": "<b>【Note: The Cherry Drones are only to repersent the red line, and don't do damage】\n【It's recommended to play this level on difficulty 3】</b>\n<i>Chomp-nut! I choose you!</i>\n\n\n\n\n\n\n\n\n<size=25>In this level, you can <b><color=#0000ff>infinitely</b></color> plant already unlocked bowling nuts for <b><color=#ff0000>free</b></color>!\nTry using a variety of nuts to bowl the zombies over!</size>\n<size=16>Tip: Giant Wall-nuts are very powerful, so they still spend a tiny insignificant amount of sun when placed......</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777604822219_lqvfwc4en": {
+        "name": "3.6.1 Mini-game\nPots of greed",
+        "startTip": "<color=#a0a0a0><b>【This level has slightly reduced glove cooldown】</b>\n<i>Greed will lead to one's downfall.</i></color>\n\n\n\n\n\n\n\n\n\n<size=25>Take good care of the Solar Pots! They'll be your main way of gaining sun!</size>\n<size=16>Tip: Sometimes, Learning when to let go is the most important lesson of all......</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777604901602_31yl7qzdo": {
+        "name": "3.6.1 Mini-game <b><color=#FF0000>Ada</color><color=#FFE300>pta</color><color=#62FF00>bil</color><color=#1B00FF>ity</color></b> ",
+        "startTip": "<color=#FF0000><b>【This level has set spawns and is quite hard! It's recommended to play on difficulty 4 or lower!】</color>\n<color=#FFE300>【This level has a large amount of changes, remember to view modifiers and check the stats of plants!】</color></b>\n<color=#62FF00><i>A good gardener is prepared for any situation.</i></color>\n\n\n\n\n\n\n\n\n\n<size=25>In this level, you control a plant that can infinitely revive and transform.\nTry switching to the appropriate form to deal with problematic zombies!</size>\n<size=16>Tip: If you start to get overwhelmed, try using instant plants! First purchases are half off~</size>\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1777766039181_4jney3lxg": {
+        "name": "3.6.1 Mini-game Royal Gardener",
+        "startTip": "<size=18>Starting from wave 10, plants placed on Spike Pots must meet specific <color=yellow> AREA</color> requirements (exact conditions shown at wave 6)\n<color=yellow>[AREA]</color> is defined as: plants of the same type connect with each other to form a zone,\nand the number of tiles in that zone is its <color=yellow>AREA</color>.\n<color=#00FFFF>Tip: You can right-click any plant to view the area of the region it belongs to."
+    },
+    "level_1777864409435_65houbxs9": {
+        "name": "3.6.1 Mini-game Energy Crisis",
+        "startTip": "Look! It's an energy node — protect it!\nClick the node to generate energy (Obsidian Mine; the generation rate increases with each wave.\nThe packets in your slots are zombie bases: they cost no sun, but cannot attack and have very low HP.\nClick a base to spend the displayed sun and summon the corresponding zombie. Threepeaters can deploy in 3 lanes.\n</color></color></color></color></color></color></color><color=#FE0304><color=#FEf></color></color></color><color=#FE0304>Fusion is disabled. Slow-mode and fertilizer are not recommended. Recommended difficulty: 3 or below.</color>"
+    },
+    "level_1777952273208_leu0r7bfb": {
+        "name": "3.6.1 I, Zombie\nScaredy's Nightmare",
+        "startTip": "Is this still Scaredy's dream anymore?\nStrat: Borrow Squashwood > Fuse Doom Squash > Blow up Obsidian Tall-nut\nThis is a Squash assembly line that needs peas as fuel, but other Torchwoods are not happy about this.\nYou can cheese the level using Scaredy-shroom, but at what cost?\nNo set difficulty, Submitter: 灯磁, Best Solution Unknown\nP.S.: Two lanes will take an excruciatingly long time. This cannot be helped."
+    },
+    "level_1778122055092_yj4vhqitr": {
+        "name": "3.6.1  <color=#ff5151>The Gods: Zombies vs Zombies",
+        "startTip": "<size=32><align=center><color=#ff2d2d>The Gods: Zombies vs Zombies</color>\n<size=26>The <color=#9f5000>Zombie Glove</color> has no cooldown in this level.\n<size=14>This level require a large amount of micro-management, select your difficulty with caution.\n<size=14><color=#84c1ff>It's recommended to only use the zombie glove with hypnotized and reinforcement zombies for the best experience.</color>\n<size=14>This level uses advanced spawn settings, with 60 seconds inbetween each wave.\n\n<size=200>\n<align=center><size=16>Plant a <color=#ae0000>Calamity-shroom</color> when the first wave of zombies arrive to hypnotize them all!\n<size=18><color=#ffa6ff>Three reinforcement zombies will arrive in lane 6 on waves 15/25/35,\nuse the glove to split them up then hypnotize them with Hypno Pot.</color>\n<size=16>Defeat the oncoming zombie army with these hypnotized zombies!\n<size=14><color=#ffff37>Test of Stregth: Beat the level without losing any of the starting or reinforcement zombies!</color>\n<size=310>\n"
+    },
+    "level_1778122091555_oipuz64r3": {
+        "name": "3.6.1 The Gods: Trials of Melon",
+        "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780635498836_of2p1762p": {
+        "name": "3.6.1 Mini-game    <color=#FF0000>Purgatory: Ashes to Ashes",
+        "startTip": "This level starts with the highest spawn multipiler possible, you'll have 150 seconds of setup time to prepare.\nElite zombies similar to the mini-bosses will show up on huge waves, each representing <color=#000000>Omega Assassin Squad</color>, <color=#00E3E3>Pozeidon</color>, <color=#BEBEBE>Jackson Worldwide</color>, <color=#600000>Giga Football Striker</color>, <color=#FF0000>Queen </color><color=#2828FF>Jill-in-the-Box</color>, <color=#820041>Archduke Deathrider</color>, <color=#5E005E>Abyssal Gargantuar</color>, and <color=#D200D2>Mecha Skystrider</color>. Be prepared.\nRemember to view modifiers for the best experience."
+    },
+    "level_1780760938229_6hoexucn9": {
+        "name": "3.7.0 Mini-game   Invasion: Backup!",
+        "startTip": "Some plants have been altered for this level.\nThe glove has no cooldown this level.\nAttention, you will automatically lose this level after 17 minutes.\nA Blover seed packet will be given after 10 minutes, plant it to attempt evacuation. (costs 1250 sun, evacuating successfully wins the level.)\nDefeating the Abyssal Gargantuar on the last wave also automatically wins you the level.\u000bThrough coding magic, you can use slow mode to keep text on screen for longer~\nIf you think this level is too easy, try keeping the usage of plants in the seed slots like Sunflower/Spicicle/Pepper Popper/Hearty Apple to a minimum or none at all."
+    },
+    "level_1780837101856_vorc2o4ku": {
+        "name": "3.7.0 The Gods: Trials of Melon",
+        "startTip": "The zombies are causing trouble? Give them a taste of your melons!\nDon't let the Melon-nut die!"
+    },
+    "level_1780837244022_af05ow96c": {
+        "name": "3.7.0 Mini-game\nAnimal Kingdom",
+        "startTip": "It's recommended to have Spruce Supershooter\nunlocked before trying this level."
+    },
+    "level_1780837209820_yjtoz5vd1": {
+        "name": "3.7.0 Mini-game      No Entry",
+        "startTip": "Spikeweed type plants have a massive damage boost! Don't let any of the torchweeds die!\nClick on the Obsidian Spikerock to switch it to its subspecies and back!\nThe glove has no cooldown in this level. Not recommend to play on mobile."
+    },
+    "level_1780837556708_p88p406xs": {
+        "name": "3.7.0 Mini-game   Blover's New Trick",
+        "startTip": "Blover has mastered a brand new trick: Blowing plants into small versions! (But since Potato Mine and Sun-shroom are already short, Blover can't affect them.)\nUse Blover to control the size of plants and avoid the Zombotany projectiles!\nP.S. For the spirit of the level, try not to stack shrooms or fuse too much. These fusions are allowed: Repeater, Split Pea, Gatling Pea, Buckshooter and Spicicle.\nThe Pea-shroom line has their stats nerfed this level, while normal Starfruit has been buffed.\nBlover can re-enlarge a shrunken plant. Planting a pumpkin will give all plants 10000 shield."
+    },
+    "level_1780804917778_brmhn2t2t": {
+        "name": "3.7.0 Mini-game   Metalsmithing",
+        "startTip": "<size=18>Welcome to the metalsmithing factory! Here you'll be able to using <color=yellow>smithing</color> to treat excess metal objects!\nThis technology can extract the metal objects out of metal plants, and use them to unlock powerful <color=yellow>smithing upgrades</color>!\n<color=#00FFFF>Click on smithing upgrades in your seed slots to view more infomation. (That's the yellow Chinese text up there.)"
+    },
+    "level_1780983849209_7ktu2g6cd": {
+        "name": "3.7.0 Mini-game Invasion: Garden Extermination Plan",
+        "startTip": "Plants will be given after completing missions, while the zombies will send bigger and bigger invasions.\nClick on plants to see your progress on a mission. The glove has no cooldown in this level.\n(This level is a sequel to the level: 'Invasion: Backup!')"
+    },
+    "level_1780761321421_fvzn0p76x": {
+        "name": "3.7.0 Mini-game  Protect and Evacuate",
+        "startTip": "Some plants have been left behind on the battlefield, and the zombies are coming for them!\nYour mission is to help these plants evacuate safely using sun. As thanks, they'll give you resources like Sun or seed packets.\nAll plants that require evacutaion are marked by craters.\nDon't move or fuse these plants with anything, or else you'll lose the level.\nThe level will be automatically beaten after evacuating all plants.\r\n(Tn: For some reason I can't get the strings from this level so the rest of it is untranslated, sorry Q_Q)"
+    },
+    "level_1781918387541_b2ireh0n8": {
+        "name": "3.7.0 I, Zombie Endless",
+        "startTip": ""
     }
 }

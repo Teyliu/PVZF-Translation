@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **27**
+* Nouvelles traductions : **36**
 * Traductions ajustées : **96**
 
 ---
@@ -30,6 +30,34 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+## 👤 @Oarlina
+
+### 📅 Semaine — `13/04/26 → 19/04/26`
+> [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **9**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **Reine Jill-dans-la-boite** (`theZombieType: 224`)
+* **Roi Clown-Pogo** (`theZombieType: 325`)
+* **Zombie Empereur Clown-Pogo** (`theZombieType: 326`)
+* **Hwacha Trident-léger** (`theZombieType: 333`)
+* **Hwacha Trident-moyen** (`theZombieType: 334`)
+* **Hwacha Trident-lourd** (`theZombieType: 335`)
+* **Spectre Agité** (`theZombieType: 330`)
+* **Spectre Immortel** (`theZombieType: 331`)
+* **Spectre Eternel** (`theZombieType: 332`)
 
 ---
 

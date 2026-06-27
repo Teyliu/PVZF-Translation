@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Lafourmie**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **16**
+* Nouvelles traductions : **31**
 * Traductions ajustées : **0**
 
 
@@ -30,6 +30,42 @@ Ce document retrace l’ensemble des contributions effectuées par **Lafourmie**
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+## 👤 @lafourmiedugaming-collab
+
+### 📅 Semaine — `13/04/26 → 19/04/26`
+> [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **15**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🧪 New Regex Patterns Added
+* **^烈焰战士([^\s]+)$** (339)
+
+## 🧵 New String Entries Added
+* **阳光财团** (2029)
+* **爆破王** (2028)
+* **战术小队** (2027)
+* **召唤师** (2026)
+* **百步穿杨** (2025)
+* **极致之冰**(2024)
+* **蘑菇岛**(2023)
+* **拥有植物任意一个词条后解锁词条羁绊，拥有另一个时激活亚种（如有）羁绊，拒绝投资词条后无法生效**(2022)
+* **已消除**(2021)
+* **已购买**(2020)
+* **已有词条**(2019)
+* **旅行：投资**(2006)
+* **旅行：炼狱诅咒2**(2005)
+* **旅行：炼狱2**(2004)
 
 ---
 

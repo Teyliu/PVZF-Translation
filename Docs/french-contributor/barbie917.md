@@ -22,7 +22,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **55**
+* Nouvelles traductions : **64**
 * Traductions ajustées : **2**
 
 
@@ -31,6 +31,32 @@ Ce document retrace l’ensemble des contributions effectuées par **Barbie917**
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `13/04/26 → 19/04/26`
+> [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **9**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🧵 New String Entries Added
+* **烈焰战士** (2039)
+* **积分不足** (2017)
+* **View 已有词条** (2016)
+* **再次点击挑战模式进入游戏** (2015)
+* **请先通关普通模式** (2011)
+* **词条羁绊** (2010)
+* **词条收益** (2009)
+* **投资词条** (2008)
+* **旅行：投资2** (2007)
 
 ---
 

@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **63**
+* Nouvelles traductions : **108**
 * Traductions ajustées : **47**
 
 ---
@@ -29,6 +29,72 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+---
+
+## 👤 @Hubtech280
+
+### 📅 Semaine — `13/04/26 → 19/04/26`
+> [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **45**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🧵 New String Entries Added
+* **超级笨蛋:梦珞** (637)
+* **换肤** (638)
+* **换肤_S** (639)
+* **你还没有解锁该植物** (1567)
+* **View 来源** (1565)
+* **金咖啡豆** (1558)
+* **磁力植物** (1556)
+* **飞行植物** (1555)
+* **水生植物** (1554)
+* **坚果植物** (1553)
+* **金属植物** (1552)
+* **神秘红卡** (1551)
+* **View 融合** (1546)
+* **搜索** (1545)
+* **融合** (1544)
+* **深入敌后** (1523)
+* **阳光大盗** (1525)
+* **更多僵尸** (1495)
+* **大泳池** (1491)
+* **熔岩之地** (1490)
+* **关卡设置** (1444)
+* **配方：** (1408)
+* **没有找到关卡数据** (1407)
+* **混乱模式** (1300)
+* **宝藏沙滩** (1289)
+* **谁是内鬼** (932)
+* **关闭_close** (914)
+* **诅咒模式** (895)
+* **更换地图** (881)
+* **已禁用** (826)
+* **已启用** (825)
+* **锁定** (824)
+* **挑战关卡** (812)
+* **我是僵尸** (810)
+* **普通卡牌** (809)
+* **彩色卡牌** (808)
+* **冒险的时光** (807)
+* **经典冒险** (806)
+* **彩卡** (805)
+* **拿出背包** (793)
+* **放入背包** (785)
+* **出售** (784)
+* **请先通关前面的关卡** (693)
+* **至极手速：手套挪动植物不再消耗冷却，且僵尸手套可以挪领袖** (680)
+* **时停(3)** (655)
 
 ---
 

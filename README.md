@@ -1,9 +1,9 @@
 # PVZRH-Multi-language-Mod-Translation files
-> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation). You do **NOT** need to build from the source code if you are not a developer.
+> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. Please reach out to us via e-mail or on Discord if you need the **Source code** for the **Translator mod**. You do **NOT** need to build from the source code if you are not a developer.
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.5**.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.6.1**.
 
 > **Discord Server**:
 >
@@ -16,12 +16,12 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.5** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.5_2)
-**English 3.5 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.5_android) [Pixeldrain](https://pixeldrain.com/u/ZgUvZa9c) [Mediafire](https://www.mediafire.com/file/mn6z1ov2sfghjyp/PvZFusion3.5-Translation-Beta1.9.apk/file)
-**Chinese 3.5** | PC | [MEGA](https://mega.nz/file/GVIHETzI#3-WXSAUMLoDqi2fc3en1iaPnZpthPxJIvrHCK0qNBk0) [Google Drive](https://drive.google.com/file/d/1AgNx8mxOjditSURMuT--M8iVw-XmHyNZ/view?usp=sharing)
-**Chinese 3.5** | Android | [MEGA](https://mega.nz/file/KNpRDIRa#YxYAAlypR-kfBY7zPCpvobnSjyz6RfH5jEAnNqARM2E) [Google Drive](https://drive.google.com/file/d/170g16WImbGqzDqwj2QgX6GB9BTPlPXCP/view?usp=sharing)
-**Chinese 3.4.2** | PC | [MEGA](https://mega.nz/file/yBgChToT#8IsyzG5GcaINiTzkurlX0ztuLffcDdoPqWDlMWDwUfA) [Google Drive](https://drive.google.com/file/d/1gJTpCa9S5T5UkSRAq0S0Q9pAl6c2DTDT/view?usp=sharing)
-**Chinese 3.4.2** | Android | [MEGA](https://mega.nz/file/rEgixawY#HHxP16mjeibGN-081WkieHmTettK_doUvlyCOZax_tY) [Google Drive](https://drive.google.com/file/d/1Eh7X2xo7x4n-qa8e9PA1qOBOPS1IhSGZ/view?usp=sharing)
+**Multi-Language 3.7 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.7_beta)
+**English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
+**Chinese 3.7** | PC | [MEGA](https://mega.nz/file/6VIy3ZbZ#J0ycntt_DE6XxI6ZwkJsibVGDVED29GyuAF-wqPjWGM) [Google Drive](https://drive.google.com/file/d/1R01-pXXj_179Wa-CeNi7JbvmxsF2bUd2/view?usp=sharing)
+**Chinese 3.7** | Android | [MEGA](https://mega.nz/file/DIwQhLIb#jrQa4QMLfWogqAU_m2lMOb-bCc_8VfmGzaHuNjl462c) [Google Drive](https://drive.google.com/file/d/1G1ErJIBRqCVRDeS3Wwb4b-qkq7E3d5FF/view?usp=sharing)
+**Chinese 3.6.1** | PC | [MEGA](https://mega.nz/file/TERAlapA#cL50Ja1vsiPjagO4nt5mjMf2JWMlEr72Yr3s8O1PDks) [Google Drive](https://drive.google.com/file/d/1DuwJsYp3QKcfv6e3XQn8cOToksDHVLNO/view?usp=sharing)
+**Chinese 3.6.1** | Android | [MEGA](https://mega.nz/file/CFBFiSAD#krHwdwXIUHlh4oYO5c8x0QLzpPbsErJW0wmwU1WeEZI) [Google Drive](https://drive.google.com/file/d/1ir-yjLvNaOKJjd2lxgt4iacFpvHwMitJ/view?usp=sharing)
 
 
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
@@ -29,19 +29,20 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.5 - English
-	Last Updated 3.4.2 - Vietnamese, Ukrainian
+	Up-to-date 3.7 - English, Indonesian
+	Last Updated 3.6.1 - Vietnamese, Spanish
+	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Korean, Romanian
-	Last Updated 3.2.1 - Spanish
 
 	Languages below have been removed due to a lack of updates.
-	Last Updated 2.6.1 - Indonesian, Russian 
+	Last Updated 2.6.1 - Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.1.6 - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
 ## Installation Instructions (Multi-Language Version)
+> [**Video Guide**](https://youtu.be/90QiFtavLpY)
 1. Download from the link that says `Multi-Language` and `PC`.
 2. Extract the archive to `C:\Games` or `D:\Games` or **anywhere** as long as it's not on the following folders:
 ```
@@ -59,13 +60,7 @@ The Multi-Language version supports the following languages: **English**, **Chin
 ### The Online English Almanac
 ***
 The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
-![The Online English Almanac](https://i.imgur.com/PRcWII0.png)
-
-### Fusion Addons
-***
-Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
-[![https://discord.gg/DPAC5ZVJ8T](https://i.imgur.com/lIcLtqj.png)](https://discord.gg/DPAC5ZVJ8T)
-
+[![The Online English Almanac](https://i.imgur.com/K0burlh.jpeg)](https://carroti4ch.itch.io/almanac)
 
 ## Credits
 ***
@@ -97,15 +92,15 @@ __The Blooms Community__  | Translation ideas and assistance
 ### Language Teams
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
-English | Mamoru-kun, Cassidy, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
+English | Mamoru-kun, Cassidy, Ungoodapple, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
 [French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md) | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
-Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
+Spanish | Xabdi, Teyliu, lucazz, Mauricio, Vict | Hairy Nugget, Moonlight, Arooming
 Portuguese | No active translator | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Shion, Cryda, JustNull | 
-Indonesian | No active translator | 由羅 (Yura), Xelag, Seroja, Star Apple
+Indonesian | Probkn, Ilham Gimank | 由羅 (Yura), Xelag, Seroja, Star Apple
 Russian | No active translator | Nekosha, LancerX0 (Coder), Kammerer
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou

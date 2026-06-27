@@ -1,4 +1,4 @@
-﻿{
+{
     "Localization/Korean/Sprites/Dong.png": "5cb9b0827312ac2e0c7bdb7cdbbfa41b",
     "Localization/Korean/Sprites/Doom.png": "b2661b57379823955140d0b261cc2bea",
     "Localization/Korean/Sprites/ExplosionPowie.png": "1ea4da070c06b058c71336eeea767ab9",
@@ -19,6 +19,7 @@
     "Localization/Korean/Sprites/Logo/Logo3.3.png": "c4e2a5223f8a69af1e2cc62698b3951f",
     "Localization/Korean/Sprites/Logo/Logo3.4.png": "405aca0c2410e9ded3e56e9f32614689",
     "Localization/Korean/Sprites/Logo/Logo3.5.png": "364abc70e4485aea352718dc24f3e8e5",
+    "Localization/Korean/Textures/Logo/Logo3.6.png": "8293001bc73df67f15444d2b5e9fb069",
     "Localization/Korean/Sprites/Logo/LogoSnow.png": "b3d3a622d5811282f678db6c5d0d3e23",
     "Localization/Korean/Sprites/Particles/Dong.png": "acadb405710eb4d64f0ea295e4054aa6",
     "Localization/Korean/Sprites/Particles/Doom.png": "a661ee001011c2bbf8b4b946b3861803",
@@ -73,6 +74,8 @@
     "Localization/Korean/Textures/Menu/travel.png": "b5b58c9df12208e2a62ef185bfce6256",
     "Localization/Korean/Textures/Menu/深渊入口.png": "04f71e5408f3f99f15c38f86a66a4763",
     "Localization/Korean/Textures/Menu/钥匙经典.png": "61fd2ec2d1b30db03db97a88e36a600d",
+    "Localization/Korean/Textures/Menu/推荐关卡入口.png": "47d3bd3b1df01d9abc8dbfe1fc84f3e0",
+    "Localization/Korean/Textures/Menu/版本更新.png": "3c37fd5472095990a5219fbd9f06bf73",
     "Localization/Korean/Textures/Particles/Dong.png": "1b6cd116b53f08556da29e13e650d892",
     "Localization/Korean/Textures/Particles/Doom.png": "7371ae8313cf93af05d352ba0b795173",
     "Localization/Korean/Textures/Particles/ExplosionPowie.png": "d06aaf3cd8daa79061f6340bf46ad9d0",

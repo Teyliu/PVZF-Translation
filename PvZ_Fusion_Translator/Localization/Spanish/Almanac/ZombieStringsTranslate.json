@@ -82,7 +82,7 @@
             "theZombieType": 13,
             "name": "Caracubo con Patito",
             "introduce": "<size=39><color=#3D1400>El Caracubo con Patito nunca quiso ponerse este flotador con fugas... pero, ¿qué puede hacer? Ese cubo oxidado en su cabeza no es precisamente a prueba de agua.</color>",
-            "info": "<size=39>Tiene mucha resistencia. Y puede nadar en el agua.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
+            "info": "<size=39>Tiene mucha resistencia. Y puede nadar en el agua.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Tipo 1)</color>"
         },
         {
             "theZombieType": 14,
@@ -196,13 +196,13 @@
             "theZombieType": 32,
             "name": "Pogozombi",
             "introduce": "<size=39><color=#3D1400>Al Pogozombi le encanta rebotar. Él cree que el momento de saltar al aire es lo más cercano a volar. Pero, ¿alguien le habrá advertido en vida que no use la pértiga en los tejados?</color></size>",
-            "info": "<size=39>El Pogozombi puede saltar tus defensas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Salta sobre tus plantas; puede perder su pogo tratando de saltar una Nuez Alta</color></size>"
+            "info": "<size=39>El Pogozombi puede saltar tus defensas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Salta sobre tus plantas; puede perder su pogo tratando de saltar una Nuez Alta.</color></size>"
         },
         {
             "theZombieType": 33,
             "name": "Zombi Escalera",
             "introduce": "<size=39><color=#3D1400>El Zombi Escalador creyó que con una escalera y un disfraz de trabajador podría entrar en cualquier lugar. Compró una escalera, se puso el uniforme y se preparó para atravesar las defensas de las plantas. \"¿Nadie le ha dicho que su piel de zombi es obvia?\" comentó el Lanzaguisantes.</color></size>",
-            "info": "<size=39>El Zombi Escalera salta sobre tus obstáculos con una escalera.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720 + 720 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>La escalera permite a los zombis pasar por encima de las plantas</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Técnico en Trabajos de Altura Zombie</color></size>"
+            "info": "<size=39>El Zombi Escalera salta sobre tus obstáculos con una escalera.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>720 + 720 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>La escalera permite a los zombis pasar por encima de las plantas.</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Técnico en Trabajos de Altura Zombie</color></size>"
         },
         {
             "theZombieType": 34,
@@ -244,7 +244,7 @@
             "theZombieType": 40,
             "name": "Nuez Zombot",
             "introduce": "<size=39><color=#3D1400>\"¿¡Nuez Zombot!? ¿¡Nos has traicionado!?\" Preguntan unas nueces temerosas. Nuez Zombot les responde con no responder y trata de aplastarlos.",
-            "info": "<size=39>Una bola de boliche rodante, pero del lado de los zombis.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cambia de fila al impactar con plantas, aumenta su velocidad en pendientes y disminuye su velocidad tras cambiar de fila.\n- Aplasta plantas con dureza igual o inferior a 1000 e inflige 1000 de daño a las plantas más resistentes.\n- Genera 5 Zombiditos al morir. Tiene la misma probabilidad de soltar una bola de hielo, una bola de fuego o Piezas Robóticas.\n- Las bolas pueden aplastar plantas, bloquear hasta 30 proyectiles y duran 30 segundos. Se puede contrarrestar con fusiones de plantas basadas en hielo o fuego.</color></size>"
+            "info": "<size=39>Una bola de boliche rodante, pero del lado de los zombis.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Cambia de fila al impactar con plantas, aumenta su velocidad en pendientes y disminuye su velocidad tras cambiar de fila.\n- Aplasta plantas con dureza igual o inferior a 1000 e inflige 1000 de daño a las plantas más resistentes.\n- Genera 5 Zombiditos al morir. Tiene la misma probabilidad de soltar una bola de hielo (Nuez Zombot tendrá ojos azules), una bola de fuego (Nuez Zombot tendrá ojos rojos) o Piezas Robóticas (Nuez Zombot tendrá ojos amarillos).\n- Las bolas pueden aplastar plantas, bloquear hasta 30 proyectiles y duran 30 segundos. Se puede contrarrestar con fusiones de plantas basadas en hielo o fuego respectivamente.</color></size>"
         },
         {
             "theZombieType": 41,
@@ -262,7 +262,7 @@
             "theZombieType": 43,
             "name": "Zombistein Medievo",
             "introduce": "<size=39><color=#3D1400>Zombistein Medievo es un gran fan de una apariencia llamada 'Caballero' de su juego favorito. Así que gastó una fortuna ordenando un conjunto de armadura medieval hecho a medida solo para él. Sin embargo, cuando intentó quitársela, descubrió que estaba atascada para siempre... Y así fue como terminó con una apariencia permanente de 'Cadavalier'.</color>",
-            "info": "<size=39>¡Genera Zombiditos cada vez que golpea con su maza!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8000 + 24000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>\n- Se mueve a la mitad de la velocidad de los Zombisteins normales.\n- Recibe un máximo de 5000 de daño por golpe.\n- Es inmune a la hipnosis, la devoración y el retroceso; otros efectos solo duran la mitad.\n- Lanza una Nuez Zombot cuando su durabilidad está a la mitad, generando 5 Zombiditos al romperse.\n- Genera de 1 a 3 Zombiditos cada vez que golpea el suelo con su maza.</color>"
+            "info": "<size=39>¡Genera Zombiditos cada vez que golpea con su maza!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8000 + 24000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>\n- Se mueve a la mitad de la velocidad de los Zombisteins normales.\n- Recibe un máximo de 5000 de daño por golpe.\n- Es inmune a la hipnosis, la devoración y el retroceso; otros efectos solo duran la mitad.\n- Lanza una Nuez Zombot cuando su durabilidad está a la mitad, generando 5 Zombiditos al romperse.\n- Genera de 1 a 3 Zombiditos cada vez que golpea el suelo con su maza.\n- Siempre aparece en la última oleada de niveles que tengan 4 banderas o más en Dificultad 5 en tu primera partida.</color>"
         },
         {
             "theZombieType": 44,
@@ -292,37 +292,37 @@
             "theZombieType": 48,
             "name": "Zombi Nian",
             "introduce": "<size=39><color=#3D1400>El Zombi Nian es una bestia mítica que despierta durante las festividades. Con su armadura dorada y su mirada feroz, representa un desafío monumental para cualquier jardinero desprevenido. Sin embargo, le teme a los cuetes, como los perritos.</color>",
-            "info": "<size=39>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8888 + 8888 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Es vulnerable a Ramo de Cerezas (Anteriormente llamado Bamboom).</color>"
+            "info": "<size=39>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8888 + 8888 (Tipo 1)</color>\n<color=#3D1400>Debilidad:</color> <color=#4B0082>Bamboom</color>"
         },
         {
             "theZombieType": 49,
-            "name": "Yombi Esquimal",
-            "introduce": "<size=39><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Yombi Esquimal despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
-            "info": "<size=39>¡Puede congelar a plantas con bolas de nieve!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+            "name": "Yombi Lanzanieves",
+            "introduce": "<size=39><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Yombi Lanzanieves despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
+            "info": "<size=39>¡Puede congelar a plantas con bolas de nieve!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
         },
         {
             "theZombieType": 50,
             "name": "Yombi con Escudo",
             "introduce": "<size=39><color=#3D1400>El Yombi con Escudo fue una vez un soldado de élite en el campo de batalla. Ahora, ya retirado, es el campeón invicto de las guerras de bolas de nieve del cementerio. Aprecia muchísimo su escudo, que le ha traído tanta gloria, y siempre lo revisa con cariño para ver si tiene algún daño. Tal vez fue precisamente ese hábito lo que lo llevó a lesionarse y retirarse.</color>",
-            "info": "<size=39>Puede reflejar proyectiles con su escudo y convertirlos en bolas de nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720 + 2200 (Tipo 2)</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cada 1,5 segundos levanta su escudo para reflejar proyectiles en línea recta transformándolos en bolas de nieve; al reflejar pierde 20 de vida y no bloquea los proyectiles. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+            "info": "<size=39>Puede reflejar proyectiles con su escudo y convertirlos en bolas de nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720 + 2200 (Tipo 2)</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Cada 1,5 segundos levanta su escudo para reflejar proyectiles en línea recta transformándolos en bolas de nieve; al reflejar pierde 20 de vida y no bloquea los proyectiles. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
         },
         {
             "theZombieType": 51,
             "name": "Yombi Tridente",
             "introduce": "<size=39><color=#3D1400>Durante la quinta Olimpiada Invernal del Cementerio en curso, el Yombi Tridente ha tenido una actuación destacada. Planea usar el premio del torneo para comprar un nuevo trineo para él y sus camaradas, y reservar un lujoso masaje en los pies como compensación por los daños sufridos al pisar púas.</color>",
-            "info": "<size=39>¡Lanza tridentes que congelan y dañan!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Posee las habilidades del Zombi Tridente. Los tridentes que tira, al impactar, congela al objetivo por 5 segundos. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+            "info": "<size=39>¡Lanza tridentes que congelan y dañan!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Posee las habilidades del Zombi Tridente. Los tridentes que tira, al impactar, congela al objetivo por 5 segundos. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
         },
         {
             "theZombieType": 52,
             "name": "Vegezombi Cronoguisante",
             "introduce": "<size=39><color=#3D1400>¿Qué es exactamente la puerta que sostiene el Zombi Cronoguisante? Ningún zombi lo sabe, ni quiere saberlo. Pero cuando ven a sus viejos compañeros salir uno tras otro de esa puerta, están más que dispuestos a acercarse y preguntar si por ahí hay cerebros frescos.</color>",
-            "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n<color=#3D1400>Daño: </color><color=#4B0082>20 cada 1,5s</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 200 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dispara un cronoguisante cada 1.5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
+            "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n<color=#3D1400>Daño: </color><color=#4B0082>20 cada 1,5s</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 200 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dispara un cronoguisante cada 1,5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
         },
         {
             "theZombieType": 53,
             "name": "Ovni Invernal",
             "introduce": "<size=39><color=#3D1400>Cada vez que el Ovni Invernal despega, se tarda media hora limpiando la nieve y el hielo acumulado, y sacando al monstruo de nieve escondido en los rincones. “¡Hacer volar este bloque de hielo consume una cantidad ridícula de combustible!”, se queja el piloto.</color>",
-            "info": "<size=39>¿Esta nevando? ¡No, es simplemente el Ovni Invernal, congelando todo por debajo!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al Trebolador y al congelamiento básico (pero sí al congelamiento profundo). Al moverse, genera nieve que congela las plantas por debajo, se ralentiza gradualmente hasta detenerse y luego se mueve en sentido contrario. Al retirarse invoca un escuadrón nevado: 1 Yombi Escudero, 1 Yombi Esquimal y 1 Yombi Tridente. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+            "info": "<size=39>¿Esta nevando? ¡No, es simplemente el Ovni Invernal, congelando todo por debajo!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al Trebolador y al enfriamiento básico, pero sí al enfriamiento profundo. Al moverse, genera nieve que congela las plantas por debajo, se ralentiza gradualmente hasta detenerse y luego se mueve en sentido contrario. Al retirarse invoca un escuadrón nevado: 1 Yombi Escudero, 1 Yombi Lanzanieves y 1 Yombi Tridente. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
         },
         {
             "theZombieType": 54,
@@ -334,19 +334,19 @@
             "theZombieType": 55,
             "name": "Yombi Carahielo",
             "introduce": "<size=39><color=#3D1400>\"¿Que te paso? ¿Por qué tienes la cabeza congelada?\" Preguntan unos zombis curiosos. El Yombi Carahielo estaba tan ansioso de responder esta pregunta, pero es incapaz de hablar.. porque esta congelado, obviamente. Así que, se tendrá que quedar con las ganas.</color>",
-            "info": "<size=39>Un Yombi con la cabeza congelada.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>500 + 370 (Tipo 1)</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo.</color>"
+            "info": "<size=39>Un Yombi con la cabeza congelada.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>500 + 370 (Tipo 1)</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable a la congelación y el enfriamiento básico, pero sí al enfriamiento profundo.</color>"
         },
         {
             "theZombieType": 56,
             "name": "Hielabestia",
             "introduce": "<size=39><color=#3D1400>La búsqueda de la clasificación biológica de las Hielabestias han tenido poco progreso. Después de todo, no puedes esperar zombis sin cerebro siendo académicamente inteligentes. La mayoría nisiquiera puede distinguir una Hielabestia real a un Zombi Yeti. Por lo menos, el Dr. Edgar sugirió un método brillante: distinguiéndolos por quien se ve mas inteligente. El mas inteligente es la Hielabestia.</color>",
-            "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente. Tienen una chance de 2/3 de evitar ataques.</color>"
+            "info": "<size=39>Una criatura nativa a la nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente. Tienen una chance de 2/3 de evitar ataques.</color>"
         },
         {
             "theZombieType": 57,
             "name": "Hielabestia Anciana",
             "introduce": "<size=39><color=#3D1400>Más fuerte, más sabio y con una cola más pesada que otras Hielabestias, lo que realmente la convirtió en líder fue su notable salto; guiando a sus parientes hasta la fuente de la cascada congelada.</color>",
-            "info": "<size=39>Cúspide de la nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece, con una chance de 1/4 de que se transforme en una Hielabestia Anciana. Al aparecer, salta 2 casillas hacia adelante. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
+            "info": "<size=39>Cúspide de la nieve.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Cuando los zombis destruyen un bloque de hielo sin un Vegezombi correspondiente, una Hielabestia aparece, con una chance de 1/4 de que se transforme en una Hielabestia Anciana. Al aparecer, salta 2 casillas hacia adelante. Se mueven muy lentamente, aplastando plantas, pero no atacan directamente.</color>"
         },
         {
             "theZombieType": 58,
@@ -376,7 +376,7 @@
             "theZombieType": 62,
             "name": "Copitobestia",
             "introduce": "<size=39><color=#3D1400>Aunque era solo un cachorrito, Copitobestia tenía grandes sueños: dominar la tundra como la poderosa Hielabestia Anciana, no andar con traviesos Zombiditos. Se escapó del campamento para hacerse reconocido... y accidentalmente entró en el territorio de las plantas. ¡Uf!</color>",
-            "info": "<size=39>Una Hielabestia pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales; termina muriendo instantaneamente al hacer esto.</color>"
+            "info": "<size=39>Una Hielabestia pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable al enfriamiento básico, pero si al enfriamiento profundo. Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales; termina muriendo instantaneamente al hacer esto.</color>\n<color=#3D1400>Debilidad: </color><color=#4B0082>Bambuido</color>"
         },
         {
             "theZombieType": 63,
@@ -463,30 +463,66 @@
             "info": "<size=39>Un Zombistein acuático que lanza tridentes en vez de Zombiditos.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Es inmune a las Zampalgas. Lanza 4 tridentes al llegar a la mitad de su durabilidad, cada una causando daño a plantas igual al 20% (mínimo 60%) de sus PS actuales.\n- Cuando aplasta, inflige 500 de daño a plantas anti-aplaste, 50 de daño a Pinchorrocas y 1800 de daño a zombis hipnotizados.</color>"
         },
         {
-            "theZombieType": 77,
-            "name": "Olympic Pole Vaulting Zombie",
-            "introduce": "<align=justified><size=36><color=black>Powerful burst strength is Olympic Pole Vaulting Zombie's secret to victory. As long as he runs faster during his approach, he can leap farther when taking off - though he seems to have forgotten that pole vaulting is about jumping high, not jumping far.</color>",
-            "info": "<size=36>Excels at long-distance jumps, and with sufficient run-up can flawlessly clear obstacles.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When encountering the first plant, vaults forward 3 tiles and then loses the pole. Begins accelerating for a run-up upon entering the field. If the run-up lasts more than 8s, the jump becomes unblockable by tall plants.</color>"
-        },
-        {
-            "theZombieType": 78,
-            "name": "Chameleon Football Zombie",
-            "introduce": "<align=justified><size=36><color=black>The Chameleon Football Zombie has never lost a single match in his entire career — an achievement most Football Zombies can only dream of. His secret to victory is surprisingly simple: whenever the opponent is about to win, he just switches into their uniform.</color>",
-            "info": "<size=36>Changes into different-colored uniforms based on incoming damage intensity.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>After 15s on the field, if he is still wearing his football helmet, he becomes a regular Football Zombie. Otherwise, he becomes a Charger Football Zombie that ignores plant. If defeated within 3s of appearing, he instead becomes a Giga Football Zombie with high toughness whose helmet cannot be removed by Magnet-shrooms.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
-        },
-        {
-            "theZombieType": 79,
-            "name": "Charger Football Zombie",
-            "introduce": "<align=justified><size=36><color=black>Rather than smashing through defenses head-on, the Charger Football Zombie excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless lawn mower.</color>",
-            "info": "<size=36>Advances by nimbly circumventing blocking plants.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Ignores plants.</color>"
-        },
-        {
-            "theZombieType": 80,
-            "name": "Chronovaulter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Thanks to its unique ability to teleport, Chronovaulter Zombie can easily tackle pole vaults of any height and clears the bar 100% of the time. The only problem giving him a headache right now is that he often lands in the stands.</color>",
-            "info": "<size=36>Uses its pole to open a temporal vortex and leap into unexpected places.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1100  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>When vaulting over a plant, it will randomly teleport one tile upwards, downwards, left, or right randomly. Drops a Chrono Core upon death.</color>"
-        },
-        {
+     "theZombieType": 77,
+     "name": "Zombi Atleta Olímpico",
+     "introduce": "<size=39><color=#3D1400>La poderosa fuerza explosiva es el secreto de la victoria de Zombi Atleta Olimpico. Mientras más rápido corre durante su carrera, podrá saltar más lejos al despegar, aunque parece haber olvidado que el salto con pértiga consiste en saltar alto, no lejos...</color>",
+     "info": "<size=39>Destaca en saltos de larga distancia y, con suficiente carrera, puede superar varios obstáculos sin problemas.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Comienza a acelerar al entrar al campo.\n- Al entrar en contacto la primera planta que se encuentra, salta 3 casillas hacia adelante y luego pierde su pértiga.\n- Si corre durante más de 8 segundos, el salto se vuelve no-bloqueable para las plantas altas.</color>"
+   },
+   {
+     "theZombieType": 78,
+     "name": "Deportista Cambiaformas",
+     "introduce": "<size=39><color=#3D1400>El Deportista Cambiaformas nunca ha perdido un solo partido en toda su carrera, un logro con el que la mayoría de los Zombis Deportistas sólo pueden soñar. Su secreto para la victoria es sorprendentemente simple: cada vez que el oponente está a punto de ganar, simplemente se pone su uniforme.</color>",
+     "info": "<size=39>Cambia a uniformes de diferentes colores según la intensidad del daño recibido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Después de 15 segundos en el campo, si todavía lleva puesto su casco de fútbol, ​​se convierte en un Zombi Deportista normal.\n- De lo contrario, se convierte en un Deportista Escurridizo que ignora a las planta. Si es derrotado dentro de los 3 segundos posteriores a su aparición, se convierte en un \"Vegezombi\" Lethal-Star T1 con alta durabilidad cuyo casco no se puede quitar con Magnetosetas.</color>"
+   },
+   {
+     "theZombieType": 79,
+     "name": "Deportista Escurridizo",
+     "introduce": "<size=39><color=#3D1400>En lugar de atravesar las defensas de frente, el Deportista Escurridizo se destaca por usar su agilidad para pasarlas corriendo. Lo que más le confunde es que, a pesar de sortear sin esfuerzo innumerables defensas, todavía no puede pasar esa aparentemente inofensiva cortadora de césped.</color>",
+     "info": "<size=39>Avanza sorteando ágilmente las plantas que intenten bloquearlo.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Ignora a todas las plantas con la que se encuentra.</color>"
+   },
+   {
+     "theZombieType": 80,
+     "name": "Crononuez Atleta",
+     "introduce": "<size=39><color=#3D1400>Gracias a su capacidad única de teletransportarse, Crononuez Atleta puede afrontar fácilmente saltos con pértiga de cualquier altura y superar la barra el 100% del tiempo. El único problema que le causa dolor de cabeza en este momento, es que a menudo aterriza en las gradas.</color>",
+     "info": "<size=39>Utiliza su pértiga para abrir un vórtice temporal y saltar a lugares inesperados.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720 + 1100 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Al saltar sobre una planta, se teletransportará aleatoriamente una casilla hacia arriba, hacia abajo, hacia la izquierda o hacia la derecha al azar. Deja caer un Cronofragmento al morir.</color>"
+   },
+   {
+     "theZombieType": 81,
+     "name": "Zombi Entrenador",
+     "introduce": "<size=39><color=#3D1400>\"No te vayas\", ¡qué frase tan conmovedora!... Desafortunadamente, viene del Zombi Entrenador. Todo Zombi Atleta ya sabe lo que dirá a continuación: \"¡No te vayas, empieza a correr!\".</color>",
+     "info": "<size=39>Entrena a Zombis Atleta. Si su manual es destruido, tomará el control de la situación.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720 + 720 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Aumenta la distancia de salto de todos los Zombis Atletas en su fila. Tras la destrucción de su manual, esta bonificación aumenta y convoca a un Zombi Atleta en la misma fila.</color>"
+   },
+   {
+     "theZombieType": 82,
+     "name": "Caracubo Lector",
+     "introduce": "<size=39><color=#3D1400>¿Qué tienen en común las podadoras, las máquinas de palomitas de maíz y los Caracubos Lectores? Que son todos duros como el acero, pintados de rojo, muy viejos, y que crujen al moverse.</color>",
+     "info": "<size=39>Cree firmemente en el poder protector del metal y comparte su \"experiencia\" con otros a través de su revista.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Tipo 1) + 1100 (Tipo 2)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Al aparecer, otorga 50 Valor de RD a si mismo a todos los otros Zombis Lectores en la misma fila. Después de que su revista es destruida, esta bonificación se incrementa a 100.</color>\n<color=#3D1400>Debilidad: </color><color=#4B0082>Magnetoseta</color>"
+   },
+   {
+     "theZombieType": 83,
+     "name": "Zompingüino",
+     "introduce": "<size=39><color=#3D1400>Los Zompingüinos en realidad son pingüinos de verdad que lograron grandes hazañas en la Antártida, así que el Doctor Zomboss los recompensó con lentes de contacto estilo zombi y el título de \"zombi\". Honestamente, si entendieran lo que eso significa, probablemente se negarían.</color>",
+     "info": "<size=39>Lindos por afuera, peligrosos en su entorno preferido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Salta hacia adelante, infligiendo 100 de daño dos veces a plantas tras caer. En rastros de hielo, se desliza y aplasta a plantas. Durante ventiscas, pueden empezar a deslizarse hasta sin rastros de hielo.</color>\n<color=#3D1400>Debilidad: </color><color=#4B0082>Bambuido</color>"
+   },
+   {
+     "theZombieType": 84,
+     "name": "Yombi Esquimal",
+     "introduce": "<size=39><color=#3D1400>El Yombi Esquimal cree ser diferente de quienes viven fuera de los páramos helados. La cicatriz de congelación en su pecho es, para él, prueba de su condición de aventurero. Aun así, nunca se atreve a quitarse el abrigo para mostrarla: teme que le hagan otra.</color>",
+     "info": "<size=39>Un zombi básico que vive en la tundra.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable a la congelación y el enfriamiento básico, pero sí al enfriamiento profundo.</color>"
+   },
+   {
+     "theZombieType": 85,
+     "name": "Yombi Carahielo Compactado",
+     "introduce": "<size=39><color=#3D1400>No te preocupes, aunque todo el hielo de adentro se derrita, no conseguirá agua en su cerebro - ¡ya no le queda nada de eso!</color>",
+     "info": "<size=39>Usa dos capas de hielo como protección.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable a la congelación y el enfriamiento básico, pero sí al enfriamiento profundo.</color>"
+   },
+   {
+     "theZombieType": 86,
+     "name": "Zompingüino Emperador",
+     "introduce": "<size=39><color=#3D1400>El Zompingüino que se desliza más rápido es elegido como el Zompingüino Emperador. Lidera la bandada, explorando los caminos seguros; la mayoría de los pingüinos solo se atreven a pisar donde él ya ha caminado. Al ser el mejor alimentado del grupo, suele ser tan pesado que, cuando se desliza, generalmente se produce una avalancha.</color>",
+     "info": "<size=39>El rey entre los pingüinos, capaz de crear condiciones favorables para su especie.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1440</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo. Salta hacia adelante, infligiendo 100 de daño dos veces a plantas tras caer. En rastros de hielo, se desliza y aplasta a plantas. Si está en un mapa de nieve, invoca una ventisca tras aparecer; durante ventiscas, pueden empezar a deslizarse hasta sin rastros de hielo.</color>\n<color=#3D1400>Debilidad: </color><color=#4B0082>Bambuido</color>"
+   },
+   {
             "theZombieType": 100,
             "name": "Vegezombi Guisante",
             "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Guisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",
@@ -556,7 +592,7 @@
             "theZombieType": 111,
             "name": "Vegezombi Ártico",
             "introduce": "<size=39><color=#3D1400>Opiniones abundan sobre la cabeza del Vegezombi Nuez Ártico: algunos creen que quiere alejarse del frío, otros piensan que es por los experimentos del Dr. Zomboss. Solo él sabe que el casco apareció tras comer una seta azul.</color></size>",
-            "info": "<size=39>Un zombi robusto que también puede anular el daño de los proyectiles de hielo.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 2200 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invulnerable al congelamiento básico, pero si al congelamiento profundo.</color></size>"
+            "info": "<size=39>Un zombi robusto que también puede anular el daño de los proyectiles de hielo.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 2200 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invulnerable al enfriamiento básico, pero si al enfriamiento profundo.</color></size>"
         },
         {
             "theZombieType": 112,
@@ -643,36 +679,42 @@
             "info": "<size=39>...¿Qué?\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>9527</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Cambia de fila al perder 2/3 de su dureza, y se vuelve 3 veces mas rápido. Es exclusivo de Rompejarrones, pero puede aparecer de zombis con cajita.</color>"
         },
         {
-            "theZombieType": 126,
-            "name": "Flame Tall-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Flame Tall-nut Zombie is seething with rage, not because he has a bad temper or entered a chili-eating contest, but because he's had a falling-out with his brother, Frost Tall-nut Zombie. His brother prefers to eat mushrooms raw and frozen, while he insists mushrooms should be properly grilled before eating.</color>",
-            "info": "<size=36>Unafraid of the trials of fire, but particularly vulnerable to the cold.\n\n<color=black>Damage: </color><color=#4B0082>100</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to enflamed debuff and Jalapeno effects. Receives true damage equal to 1/3 of his max HP when affected by an Ice-shroom. Movement speed increases over time after appearance, up to 2× its initial speed.</color>"
-        },
-        {
-            "theZombieType": 127,
-            "name": "Obsidian Tall-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Tempered by both frost and flame, Obsidian Tall-nut Zombie's head has become nearly indestructible!…That is, as long as the temperature doesn't change too quickly.</color>",
-            "info": "<size=36>Forged by ice and fire into extreme hardness, but Jalapenos and Ice-shrooms remain his weakness.\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>1500 + 4500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill, freeze and enflamed. Has an innate DR value of 900. Receives true damage equal to 1/3 of his max HP when affected by an Ice-shroom or a Jalapeno. When a Frost Tall-nut Zombie and a Flame Tall-nut Zombie are in the same tile, they fuse into an Obsidian Tall-nut Zombie.</color>"
-        },
-        {
-            "theZombieType": 128,
-            "name": "Solar-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Unlike other zombies, Solar-nut Zombie can satisfy most of its physiological needs simply by basking in sunlight. As for why it still obsessively chases brains like every other zombie - perhaps the craving for brains means far more to zombies than ordinary survival needs ever could.</color>",
-            "info": "<size=36>Periodically drains your sun.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 Sun from the player every 15s not stunned or frozen.</color>"
-        },
-        {
-            "theZombieType": 129,
-            "name": "Twin Solar-nut Zombie",
-            "introduce": "<align=justified><size=36><color=black>Compared to his peers, Twin Solar-nut Zombie boasts a more splendid appearance, a harder head, and far greater power, standing head and shoulders above the rest. But the trait he's most proud of, and the one that earned him the \"Most Unique Zombie\" award at Tombstone Festival, is this: he has four eyes.</color>",
-            "info": "<size=36>Consumes your sun to reduce incoming damage.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 Sun from the player every 15s not stunned or frozen. When taking damage, negates that damage and instead takes a fixed 20 damage while draining 5 Sun from the player. When a Wall-nut Zombie and a Solar-nut Zombie are in the same tile, they fuse into a Twin Solar-nut Zombie.</color>"
-        },
-        {
-            "theZombieType": 195,
-            "name": "Sniper Commando Zombie",
-            "introduce": "<align=justified><size=36><color=black>A bounty-hunter turned commando, Sniper Commando Zombie is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
-            "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Upon entry, targets the most valuable plant on the lawn (by Sun cost).\n<color=black>•</color> If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
-        },
-        {
+     "theZombieType": 126,
+     "name": "Vegezombi Infernal",
+     "introduce": "<size=39><color=#3D1400>Vegezombi Infernal está furioso, no porque tenga mal carácter o haya participado en un concurso de comer chile, sino porque ha tenido una pelea con su hermano, Vegezombi Ártico. Su hermano prefiere comer champiñones crudos y congelados, mientras que él insiste en que los champiñones deben asarse adecuadamente antes de comerlos.</color>",
+     "info": "<size=39>Sin miedo a los castigos del fuego, pero particularmente vulnerable al frío.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 2200 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmune al Estado Pirogénico y a los efectos del Jalapeño\n- Recibe un daño verdadero equivalente a 1/3 de sus PS máximos cuando lo afecta una Seta Congelada\n- La velocidad de movimiento aumenta con el tiempo después de la aparición, hasta 2 veces su velocidad inicial</color>"
+   },
+   {
+     "theZombieType": 127,
+     "name": "Vegezombi Obsidiana",
+     "introduce": "<size=39><color=#3D1400>¡Templada tanto por el hielo como por las llamas, la cabeza de Vegezombi Obsidiana se ha vuelto casi indestructible!... Es decir, siempre y cuando la temperatura no cambie demasiado rápido.</color>",
+     "info": "<size=39>Forjado por dos elementos poderosos...sin embargo, también forjó ambas de sus debilidades.\n\n<color=#3D1400>Daño: </color><color=#4B0082>200</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500 + 4500 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmune al enfriamiento, al congelamiento y a al Estado Pirogénico. Tiene una reduccion de daño innata de 900\n- Recibe un daño verdadero equivalente a 1/3 de sus PS máximos cuando lo afecta una Seta Congelada o un Jalapeño</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=#4B0082>Vegezombi Ártico + Vegezombi Infernal (en la misma casilla)</color>"
+   },
+   {
+     "theZombieType": 128,
+     "name": "Vegezombi Nuez Solar",
+     "introduce": "<size=39><color=#3D1400>A diferencia de otros zombis, Vegezombi Nuez Solar puede satisfacer la mayoría de sus necesidades fisiológicas simplemente tomando el sol. En cuanto a por qué todavía persigue obsesivamente cerebros como cualquier otro zombi, tal vez el ansia de cerebros signifique mucho más para los zombis de lo que las necesidades ordinarias de supervivencia podrían significar.</color>",
+     "info": "<size=39>Drena periódicamente tus soles.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>>Drena 25 Sol del jugador cada 15 segundos mientras no este aturdido ni congelado.</color>"
+   },
+   {
+     "theZombieType": 129,
+     "name": "Vegezombi Emperador Solar",
+     "introduce": "<size=39><color=#3D1400>En comparación con sus compañeros, Vegezombi Emperador Solar cuenta con una apariencia más espléndida, una cabeza más dura y un poder mucho mayor, situándose muy por encima del resto. Pero el rasgo del que está más orgulloso, y el que le valió el premio del \"Zombi más singular\" en el Festival TumbaZ, es este: tiene cuatro ojos.</color>",
+     "info": "<size=39>Consume tus soles para reducir el daño recibido.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>270 + 1100 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Drena 25 soles del jugador cada 15 segundos si no está aturdido ni congelado\n- Al recibir daño, niega ese daño y en su lugar recibe un daño fijo de 20 mientras drena 5 Sol del jugador</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=#4B0082>Vegezombi Nuez + Vegezombi Nuez Solar (en la misma casilla)</color>"
+   },
+   {
+     "theZombieType": 130,
+     "name": "Vegezombi Guisantralladora",
+     "introduce": "<size=39><color=#3D1400>Su abrumadora potencia de fuego le permite afrontar cualquier desafío con la mayor elegancia posible. Lo admitas o no, esa se ha convertido en su característica distintiva entre los zombis. En público, la gente ni siquiera recuerda su nombre, solo \"ese tipo con el casco raro\", lo cual, sinceramente, resulta un poco molesto.</color>",
+     "info": "<size=39>Dispara muchos guisantes a tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>20*4 cada 1,5s</color>\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>500</color>"
+   },
+   {
+     "theZombieType": 131,
+     "name": "Vegeyombi Hielantralladora",
+     "introduce": "<size=39><color=#3D1400>El Vegeyombi Hielantralladora es extremadamente sensible al frío. Se abriga con ropa gruesa y expulsa constantemente el frío que lleva dentro a través de sus guisantes. Incluso se niega a comer cerebros a menos de 20 °C, pero aun así tiembla sin parar.</color>",
+     "info": "<size=39>Dispara muchos guisantes helados a tus plantas y los congela.\n\n<color=#3D1400>Daño: </color><color=#4B0082>20*4 cada 1,5s</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tiene una chance de congelar plantas; inflige x4 de daño a plantas congeladas.</color>"
+   },
+   {
             "theZombieType": 200,
             "name": "Submarinón",
             "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
@@ -748,31 +790,31 @@
             "theZombieType": 212,
             "name": "Zombistein Abismal",
             "introduce": "<size=39><color=#3D1400>Reanimado por fuerzas oscuras emerge de los abismos infernales, arrastrando consigo el hedor de la muerte y la posesión demoníaca. Sus ojos vacíos reflejan los tormentos de las almas condenadas, mientras su presencia amenaza con desatar el caos sobre los vivos.</color>",
-            "info": "<size=39>Una amenaza antigua, demoníaca e insidiosa.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>8000 + 24000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Proporciona una reducción de daño del 90% a todos los zombies en el jardín, genera Zombiditos Abismales cuando golpea el suelo y hereda otros rasgos del Zombistein Medievo.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Invoca al Dr. Zomboss al morir</color>"
+            "info": "<size=39>Una amenaza antigua, demoníaca e insidiosa.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>32000 + 32000 (Tipo 1)</color>\n<color=#3D1400>Características: </color><color=#4B0082>Minijefe. Proporciona +500 Valor de RD a todos los zombies en el jardín cuando está presente, genera Zombiditos Abismales cuando golpea el suelo y hereda otros rasgos del Zombistein Medievo. Su rango de aplastamiento son 2,5 casillas en frente de el.\n<color=#8B0000><u>Minijefes: </color></u><color=#4B0082>\n- Los minijefes solo reciben 5000 de daño por plantas de muerte instantánea, son inmunes a hipnotización, devoración, ahogación, daño explosivo, transmutaciones, cambios de tamaño, el efecto temporal y teletransportación. Reciben 50% de empujamiento de Paraplantas y poseen +100 Valor de RD por si mismos. Solo aparecen en las oleadas grandes de algunos niveles con más de 3 banderas. En Odisea: Evolución, tienen x2 PS.\n<color=#8B0000><u>Mecánica de Armadura: </color></u><color=#4B0082>El daño recibido es reducido a (Daño Recibido) × 100/(100 + Valor de RD).</color>\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Invoca al Dr. Zomboss al morir</color>"
         },
         {
             "theZombieType": 213,
             "name": "Zombidito Abismal",
             "introduce": "<size=39><color=#3D1400>Con una entrada llamativa con cuchillas aladas y un giro mortal, el Zombidito Abisal emerge del inframundo. Su presencia está marcada por un aura oscura y su insaciable hambre de almas vivientes.</color>",
-            "info": "<size=39>Zombidito Abisal puede infiltrarse fácilmente en tu defensa.\n\n<color=#3D1400>Daño: </color><color=#4B0082>200</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500</color>"
+            "info": "<size=39>Zombidito Abisal puede infiltrarse fácilmente en tu defensa.\n\n<color=#3D1400>Daño: </color><color=#4B0082>200</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Carga hacia adelante 2,7 casillas al aparecer; no puede ser objetivo durante la carga pero puede ser lanzado lejos por habilidades especiales de Paraplantas.</color>"
         },
         {
             "theZombieType": 214,
             "name": "Explotozombi con Ballena",
             "introduce": "<size=39><color=#3D1400>Explotozombi con Ballena siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
-            "info": "<size=39>¡Salta y demuele desde detrás de tu defensa disparando cerezas explosivas!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Comienza a disparar cerezas explosivas 3 segundos después de entrar en tu campo.</color>"
+            "info": "<size=39>¡Salta y demuele desde detrás de tu defensa disparando cerezas explosivas!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Comienza a disparar 4 cerezas explosivas cada 1,5 segundos, 3 segundos después de entrar en tu campo.</color>"
         },
         {
             "theZombieType": 215,
             "name": "Zombi Caracaja Deluxe",
             "introduce": "<size=39><color=#3D1400>！！！</color>",
-            "info": "<size=39>Genera aleatoriamente una de tus peores pesadillas, o tal vez una bendición.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>20000+1100</color>"
+            "info": "<size=39>Genera aleatoriamente una de tus peores pesadillas, o tal vez una bendición.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>20000 + 1100</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tras caer la caja, aparece un zombi Odisea aleatorio con una resistencia del 80/100/120%. Además, al ser derrotado, tiene la posibilidad de desbloquear un modificador Odisea, hasta uno por minuto.</color>"
         },
         {
             "theZombieType": 216,
             "name": "Zombirtaria",
             "introduce": "<size=39><color=#3D1400>Zombirtaria es un perfeccionista... si por perfección entendemos \"llenar un cañón con 28 tridentes\". Su lema: \"¿Por qué disparar uno cuando puedes disparar TODOS?\" Spoiler: nadie le explicó el concepto de 'sobrecarga'.</color>",
-            "info": "<size=39>Lanza 28 tridentes en dos oleadas destructivas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350 + 4400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Descarga 14 tridentes → pausa dramática → ¡otros 14! Ángulo fijo, precisión... cuestionable.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a la mayoria de efectos; tira x5 de la cantidad de tridentes\n- Atacará por adelantado</color></size>"
+            "info": "<size=39>Lanza 28 tridentes en dos oleadas destructivas.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>1350 + 4400 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Descarga 14 tridentes → pausa dramática → ¡otros 14! Ángulo fijo, precisión... cuestionable. Tras lanzar todos sus tridentes, avanza sin parar.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Inmune a la mayoria de efectos; tira x5 de la cantidad de tridentes\n- Atacará por adelantado</color></size>"
         },
         {
             "theZombieType": 217,
@@ -800,7 +842,7 @@
         },
         {
             "theZombieType": 221,
-            "name": "Zombot Kírov",
+            "name": "Aereobot Kírov",
             "introduce": "<size=39><color=#3D1400>Este zombi volador no necesita alas... ¡tiene motores a chorro y una actitud explosiva!</color>",
             "info": "<size=39>Bombardea tu jardín y llama refuerzos aéreos.\n\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>15000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Inmune a ser empujado o derribado por los rasgos especiales de Magnetocactus.\n- Muy rápido en tierra; aplasta plantas.\n- Con 2/3 de su durabilidad, se vuelve invencible brevemente y luego despega, invocando un grupo de Kírov Zomppelines cada 3 segundos y lanzando cajitas sorpresa.</color></size>"
         },
@@ -832,7 +874,7 @@
             "theZombieType": 226,
             "name": "Zombi Alfa",
             "introduce": "<size=39><color=#3D1400>“¡La guerra es la espada con la que tomaremos las tierras bajo el sol! ¡La victoria es un objetivo inevitable!”\n - “Capitán, creo que acabo de pisar un monstruo de nieve.”\n - “Déjalo, no es un trofeo, solo retrasará nuestra victoria mayor.”\n - “¿Capitán, su nuevo libro saldrá después de esta guerra?”\n - “Cuando esté muerto.”</color></size>",
-            "info": "<size=39>Normalmente operan en dúos, pero los élite pueden desplegarse en formación completa.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>500*2</color>\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>6000 + 6000 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmunes a ser hipnotizados.\n- Suelen aparecer en parejas\n- Cuando son minijefes, aparecen 5 en cada fila (una unidad por fila), todos forman un solo grupo.\n- Al recibir daño letal, si algún miembro del equipo no está en estado crítico, entra en estado de agonía en vez de morir. Si todos están en este estado, todo el grupo muere al instante.\n- Estado de Agonía:\n  - Inmunes al daño (solo una vez)\n  - Inmunes al retroceso\n  - No son blanco de ataques automáticos, pero bloquean proyectiles\n  - Tras 10 segundos, reviven con vida completa, avanzan 2,5 casillas causando 500 de daño a cada planta impactada y luego liberan una explosión.\n  - Si sufren efectos de muerte instantánea (como ser devorados), ambos miembros del dúo mueren inmediatamente.\n- Son vulnerables a Plantas Carnívoras y Paraplantas.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- Aparecerá como minijefe\n- Su escuadra siempre será invencible cuando estan debilitados</color></size>"
+            "info": "<size=39>Normalmente operan en dúos, pero los élite pueden desplegarse en formación completa.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>500*2</color>\n<color=#3D1400>Durabilidad:</color> <color=#4B0082>6000 + 6000 (Tipo 1)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Inmunes a ser hipnotizados.\n- Suelen aparecer en parejas\n- Cuando son minijefes, aparecen 5 en cada fila (una unidad por fila), todos forman un solo grupo.\n- Al recibir daño letal, si algún miembro del equipo no está en estado crítico, entra en estado de agonía en vez de morir. Si todos están en este estado, todo el grupo muere al instante.\n- Estado de Agonía:\n  - Inmunes al daño (solo una vez)\n  - Inmunes al retroceso\n  - No son blanco de ataques automáticos, pero bloquean proyectiles\n  - Tras 10 segundos, reviven con vida completa, avanzan 2,5 casillas causando 500 de daño a cada planta impactada y luego liberan una explosión.\n  - Si sufren efectos de muerte instantánea (como ser devorados), ambos miembros del dúo mueren inmediatamente.\n- Son vulnerables a Plantas Carnívoras y Paraplantas.\n<color=purple>Mejoras de Odisea: </color><color=#4B0082>\n- El Escuadrón Alfa aparecerá como Minijefe; Escuadrón Omega\n- El Escuadrón Alfa ahora puede recuperarse infinitamente del estado de agonia</color></size>"
         },
         {
             "theZombieType": 227,
@@ -844,7 +886,7 @@
             "theZombieType": 228,
             "name": "Reina Permafrost",
             "introduce": "<size=39><color=#3D1400>Con cuchillas de hielo y un manto de ventisca, talla estatuas de carne destrozada y moldea el poder divino con una voluntad inquebrantable. Una deidad artificial, un espectro de la tundra. Cuando todo llegue a su fin, ¿recordará donde se creó, aquí en la nieve?</color>",
-            "info": "<size=39>Reina de la Tundra Congelada.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>64000</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Minijefe, invulnerable al congelamiento básico, al empujamiento y a ser aturdida.\n- Aplasta plantas. Sus ataques las congelan durante 5 segundos.\n- Al aparecer, realiza un corte que daña a todas las plantas que tenga enfrente (pueden protegerse con Calabazas) y luego libera 5 bolas de nieve alrededor de su fila, cada una dañando en un área de 3x3.\n- Después, realiza un corte o un ataque normal cada 3 segundos; cuanto menos PS tenga, mayor será la probabilidad de cortar\n- Los ataques normales lanzan 4 espadas de hielo hacia adelante.\n- En el mapa de Nieve, tiene la posibilidad de invocar una ventisca instantáneamente.</color>"
+            "info": "<size=39>Reina de la Tundra Congelada.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Durabilidad: </color><color=#4B0082>64000</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Minijefe, invulnerable al enfriamiento básico, al empujamiento y a ser aturdida.\n- Aplasta plantas. Sus ataques las congelan durante 5 segundos.\n- Al aparecer, realiza un corte que daña a todas las plantas que tenga enfrente (pueden protegerse con Calabazas) y luego libera 5 bolas de nieve alrededor de su fila, cada una dañando en un área de 3x3.\n- Después, realiza un corte o un ataque normal cada 3 segundos; cuanto menos PS tenga, mayor será la probabilidad de cortar\n- Los ataques normales lanzan 4 espadas de hielo hacia adelante.\n- En el mapa de Nieve, tiene la posibilidad de invocar una ventisca instantáneamente.</color>"
         },
         {
             "theZombieType": 229,
@@ -904,7 +946,7 @@
             "theZombieType": 238,
             "name": "Jinete Hielabestia",
             "introduce": "<size=39><color=#3D1400>Las Hielabestias adultas protegen instintivamente a los jóvenes de su manada. Aprovechando este rasgo, un Yombi curioso se disfrazó de Copitobestia y logró domesticar a uno. ¿El precio? Probablemente tendrá que vivir como un Copitobestia por el resto de su vida (o, no-vida).</color>",
-            "info": "<size=39>Monta una Hielabestia que empuja tus defensas hacia atrás.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>9000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Invulnerable al congelamiento básico, pero sí al congelamiento profundo.\n- Al estar en contacto con una planta titán o anti-aplaste, el Jinete Hielabestia intentará aplastarlos. En cambio, empuja todas las plantas en su línea una casilla atrás.\n- Si es incapaz de empujar (bloqueado por plantas o no hay espacio), instantáneamente destruye la planta que está más a la izquierda.\n- Plantas aéreas no son afectadas al ser empujadas.\n- Al tener PS bajo la mitad de su durabilidad, salta 2,2 casillas hacia adelante.</color>"
+            "info": "<size=39>Monta una Hielabestia que empuja tus defensas hacia atrás.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>9000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Invulnerable al enfriamiento básico, pero sí al enfriamiento profundo.\n- Al estar en contacto con una planta titán o anti-aplaste, el Jinete Hielabestia intentará aplastarlos. En cambio, empuja todas las plantas en su línea una casilla atrás.\n- Si es incapaz de empujar (bloqueado por plantas o no hay espacio), instantáneamente destruye la planta que está más a la izquierda.\n- Plantas aéreas no son afectadas al ser empujadas.\n- Al tener PS bajo la mitad de su durabilidad, salta 2,2 casillas hacia adelante.</color>"
         },
         {
             "theZombieType": 239,
@@ -1149,7 +1191,7 @@
         {
             "theZombieType": 332,
             "name": "Jiangshombi - T3",
-            "introduce": "<size=39><color=#3D1400>Li Chi-hsing, nativo de Fengdu, dijo una vez de niño: \"Veo un sello de jade allí; pertenece a mi familia\". Todos rieron. A los 24 años, en plena hambruna, se rebeló y se autoproclamó rey de Fengdu. Al recibir el sello de jade, este le quemó el rostro. El año siguiente trajo otra hambruna. Fue derrocado, escapando por los pelos. Con la lengua herida por el sello, cuando le preguntaron su nombre, solo pudo murmurar: \"Soy Li...ch...\". ¿Que significa todo esto? ¡JAJ, no tengo ni idea!</color>",
+            "introduce": "<size=39><color=#3D1400>Li Chi-hsing, nativo de Fengdu, dijo una vez de niño: \"Veo un sello de jade allí; pertenece a mi familia\". Todos rieron. A los 24 años, en plena hambruna, se rebeló y se autoproclamó rey de Fengdu. Al recibir el sello de jade, este le quemó el rostro. El año siguiente trajo otra hambruna. Fue derrocado, escapando por los pelos. Con la lengua herida por el sello, cuando le preguntaron su nombre, solo pudo murmurar: \"Soy Li...ch...\".</color>",
             "info": "<size=39>Tier 3. Un espectro que atraviesa las plantas y ataca con ira imperial.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda rasgos de sus rangos anteriores (explosión ahora hace 500 de daño). Cada 4 a 8 segundos, desliza adelante 2 casillas, llegando lo más lejos posible en la linea y causando daño en el proceso. Si no hay plantas que pueda atravesar, avanza 1 casilla en su lugar (no puede deslizarse en el lado izquierdo del campo).</color>"
         },
         {

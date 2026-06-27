@@ -2,81 +2,110 @@
 Sumber resmi PvZ Fusion cuma ada di Bilibili dev, 蓝飘飘fly ya!</color>
 Terjemahan yang asli cuma dari komunitas ini: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> sama halaman GitHub resminya.
 Jauhin web kayak <color=#8B0000>pvzfusion.net</color> atau <color=#8B0000>pvzfusion.pro</color> karena mereka cuma nyomot hasil kerjaan kita tanpa izin.
-Kalau mau ganti bahasa terjemahannya, pastiin lu cek menu "Bahasa" di pojok kanan bawah menu ini.
+Kalau mau ganti bahasa terjemahannya, pastiin mu cek menu "Bahasa" di pojok kanan bawah menu ini.
 Mampir ke komunitas kita buat dapet info update terbaru sama bantuan teknis.
 
-<align=center><size=130%>Tanaman vs. Zombi: Fusi - Catatan Pembaruan 3.5</size></align>
+<color=yellow>Tip: Tekan tombol End sebelum bermain</color>
 
-1. Level Kustom & Editor Level Dewa!
-- Editor Level Baru: Sekarang lu bisa bebas bikin peta sendiri buat dimainin lokal atau nyobain map online keren hasil kreasi tim Fusion.
-- Pengaturan Dasar: Atur peta, nama level, jumlah gelombang, sampe tanaman yang dipasang duluan.
-- Mode Permainan: Bisa pake mode Sabuk Berjalan (Conveyor), jadi Zombi (Gw, Zombi), atau pecahin pot (Vasebreaker). Bisa atur cooldown tiap wave sama tips awal juga.
-- Pengaturan Kartu: Atur jumlah slot kartu, tanaman pilihan, harga kartu, sampe waktu tunggu (cooldown).
-- Syarat Menang: Bisa lu atur sendiri, misal harus bantai zombi tertentu atau berhasil makan otak yang cukup.
-- Mode The Gods: Desain jalur upgrade sendiri buat level kustom "The Gods" dan atur atributnya sesuka hati.
-- Pengaturan Munculnya Zombi: Atur seberapa barbar zombi yang muncul di tiap gelombang secara detail.
-- Pengaturan Gacha: Atur hoki-hokian kayak kecepatan atau ukuran zombi biar mainnya makin absurd.
+<align=center><size=130%>Tanaman Lawan Zombi: Fusi - Catatan Pembaruan 3.7</size></align>
+
+1. Pembaruan Evolusi Dewa
+Pilih jumlah tanaman yang bisa digunakan, tingkat kesulitan, dan progres tantanganmu sendiri!
+Atribut dibagi menjadi berbagai tingkat kelangkaan. Kamu bisa menarik tanaman baru, meningkatkan level tanaman, atau memperkuat tanaman dari atribut tersebut.
+Beberapa tanaman memiliki atribut transformasi super kuat, dan ada peluang sangat kecil untuk menarik atribut transformasi ultimate yang bisa menentukan kemenangan.
+Bisa diakses lewat "Level Rekomendasi" di menu utama.
 
 2. Tanaman Baru
-- Fusi Biasa:
-  - Senter Kipli Kembar Tiga (Kipli Kembar Tiga + Lampu Lentera)
-  - Pot Hipno (Jamur Hipno + Pot Bunga)
-  - Senter Kipliter (Kipliter + Lampu Lentera)
-  - Senter Kiplilit (Kiplilit + Lampu Lentera)
-  - Senter Gatling (Kipli Gatling + Lampu Lentera)
-  - Cabe Bocil (Cabe > Jamur Bocil)
-  - Kacang Racun (Kipli + Bawang Putih)
-  - Kipliter Racun (Kipliter + Bawang Putih)
-  - Kiplilit Racun (Kiplilit + Bawang Putih)
-  - Kipli Gatling Racun (Kipli Gatling + Bawang Putih)
-  - Jamur Gemoy Gahar (Jamur Gemoy + Layu Bakar)
-  - Chomper Geprek (Chomper + Jamur Geprek)
-- Fusi Odisei:
-  - Umum:
-    - Snter Sultan (Kayu Bakar Sultan + Lampu Lentera)
-    - Penggali Kubur Jahat (Grim Arbiter + Ranjau Kentang)
-  - Langka:
-    - Bambu Pencabut Nyawa (Lifereaver Spruce + Bamblock)
-    - Jamur Lubang Hitam (Maelonstrom + Doom-shroom)
-    - Photon Splitter (Split Beam + Chrono Pea)
-- Spesial:
-  - Guci Emas Daur Ulang
+- Tanaman Biasa:
+  - Sukulen Cakar Beruang
+  - Rebung Salju,
+  - Teratai Duri Bersalju,
+  - Pot Kipli,
+  - Pot Sniper,
+  - Tusam Duri Es,
+  - Labu Gatling Super,
+  - Semangka Nuklir,
+  - Lidah Buaya Salju,
+  - Kotak Labu,
+  - Jagung Nuklir,
+  - Kipli Bintang,
+  - Labu Api,
+  - Daun Baja Berduri,
+  - Rumput Duri Kubis,
+  - Rumput Duri Semangka,
+  - Rumput Duri Matahari,
+  - Semanggi Angin Puyuh,
+  - Ranjau Kentang Obor,
+  - Ranjau Kentang Menyala,
+  - Jamur Pengecut Penembak Kacang,
+  - Kentang Semanggi.
+- Tanaman Ultimate:
+  - Kenari Tinggi Abadi Ultimate,
+  - Jamur Lengket Dewa Api Ultimate,
+  - Jamur Es Sunyi,
+  - Gadis Kucing Ajaib·Warni [Air],
+  - Gadis Kucing Ajaib·Warni [Darat],
+  - Jamur Es Pemusnahan,
+  - Pot Bunga Penembak Runduk,
+  - Labu Senapan Mesin Super,
+  - Penembak Kacang Senapan Mesin Super Kenari,
+  - Penembak Kacang Senapan Mesin Penembak Runduk Lahap.
 
 3. Zombi Baru
-- Umum:
-  - Zombi Loncat Galah Krono
-- Odisei (Makin Ngeri):
-  - UFO D.A.M.P.
-  - Alpha Assassin Hitman (Zombi Pembunuh Bayaran)
+- Zombi Biasa:
+  - Zombi Kerucut Komposit,
+  - Zombi Mamut.
+- Zombi Odisei:
+  - Zombi Cakar Salju Obsidian,
+  - Penunggang Paus Kuno Ultimate,
+  - Zombi Balon Waktu Super,
+  - Zombi Kavaleri Zaitun Hitam,
+  - Kapten Kavaleri Zaitun Hitam Senapan Mesin,
+  - Raja Badut Jubah Hitam,
+  - Mamut Zaitun Hitam,
+  - Kereta Perang Zaitun Hitam Senapan Mesin.
 
-4. Skin Baru
-- Thunder Bunnyon berubah jadi Halloween Thunder Bunnyon (Edisi Halloween).
+4. Pembaruan Mode Perjalanan
+- Rute baru:
+  Rute Panglima Zaitun Hitam, dengan kemunculan monster yang dioptimalkan dari rute sebelumnya.
+- Sekarang dapat memilih beberapa atribut transformasi dari Evolusi Dewa.
+- Atribut Kombo Baru:
+  - Reaksi Elemental (Jamur Penyembur Ultimate ∞ Jamur Pantul Dewa Api Ultimate).
+- Bos Mini Baru:
+  - Panglima Zaitun Hitam Mini,
+  - Raja Iblis Kecil Mini,
+  - Mecha Hampa Bentuk Ikan Mini.
 
-5. Level Baru
-- 3 Level Pecahin Vas Baru: Termasuk Pot Obsidian dan Pot Hipno. Selesain semua buat ngebuka Guci Emas Daur Ulang.
-- Permainan Kecil Baru - Nutsweeper: Cari ranjau pake kacang (makin susah gamenya, ranjaunya makin banyak).
-- 3 Level Gacha Baru: Seri Chaos (Penuh Kekacauan).
-- Level Petualangan Baru buat mode "Gw, Zombi".
-- Level Showcase Fusion baru buat pamer kekuatan tanaman.
-- Kolam Tanpa Akhir - Serenity: Mode tanpa batas di kolam, mirip mode Bertahan Idup: Tanpa Akhir di PvZ 1.
+5. Pembaruan Level
+- Permainan Mini Baru:
+  - Tantangan Gerobak Dorong,
+  - Perangkap Waktu,
+- Acak Super: Kotak Labu.
+* Selesaikan Tantangan Gerobak Dorong untuk membuka item Gerobak Dorong, yang bisa menyimpan sementara satu tanaman.
 
-6. Sinergi Baru - Photon Splitter
-- Photon Splitter bisa nembak ke Atomheart Plantern di depannya (klik buat pilih) buat ngisi energi.
-- Pas energi tembus 10k, cahayanya makin terang, damage makin pedes, dan zombi jadi lemot di sekitarnya.
-- Pas tembus 100k, bakal meledak jadi Lubang Hitam yang bantai semua zombi di layar! (Peringatan: Banyak efek cahaya kedap-kedip).
+6. Penyesuaian Keseimbangan
+* Rumput Duri Obor: Kemampuan baru untuk memperkuat peluru Kenari Menggelinding.
+* Zombi Boling Mecha & Kapal Cepat Iblis Ayam Mecha: Kecepatan gerak dasar diturunkan.
+* Ratu Jamur Magnet: Kemampuan produksi item besi diturunkan, namun bonus peningkatannya diperbesar.
+* Panglima Zaitun Hitam Ultimate & Zombi Tangga Kutukan: Kemampuan dikerjakan ulang.
+* Gargantuar Emas Spesial: Sekarang hanya akan melakukan satu serangan berat setelah membesar.
 
-7. Gacha Modifier
-- Level Gacha sekarang punya modifier eksklusif yang bisa didapetin dari kejadian random pas main.
+7. Optimasi Teks
+* Almanak Mekanisme: Menambahkan judul utama untuk setiap entri.
+* Mekanisme Terkait Tundra:
+  Menggabungkan cara-cara memberikan efek beku (seperti Bola Salju, Kacang Es, Serangan Ratu Tundra Ultimate) ke dalam istilah "Serangan Beku"
+  (dapat mengisi energi beberapa tanaman Tundra).
+* Zombi Cakar Salju & Panglima Zaitun Hitam: Mendapatkan cerita latar belakang yang baru.
 
-8. Penyesuaian Keseimbangan Odyssey
-- Apeacalypse Railgun: Gak otomatis nembak Atomheart lagi, sekarang harus lu klik manual biar dapet efek ledakan Doom-shroom dan efek lambat.
-- Grim Arbiter: Sekarang bikin bayangan zombi terkuat di depannya. Damage yang diterima bayangan itu bakal dibagi ke semua zombi sejenis di layar.
-- Thunder Bunnyon: Petirnya sekarang ngurangin status pertahanan (Damage Reduction) zombi biar gak alot lagi.
+8. Optimasi Lainnya
+* Jika permainan saat ini bukan versi terbaru, pembaruan dapat diunduh langsung dari layar utama (memerlukan koneksi internet).
+* Menambahkan Almanak Atribut.
+* Tampilan bilah darah (HP) tanaman dioptimalkan.
+* Jumlah slot penyimpanan untuk level tipe Mode Bertahan Hidup sangat ditingkatkan, dan dapat diberi nama kustom.
+* Sebelum memulai level, dapat melihat daftar Zombi yang akan muncul.
+* Sekarang Zombi tidak akan berhenti menyerang dan bergerak maju sedikit jika masih ada target dalam jangkauan serangan.
+* Mode Kustom Super dapat mengatur variabel.
+* Acak: Berkat Terselubung: Menambahkan tingkat kesulitan Mudah dan Normal.
+* Pintu masuk Mode Pertahanan Menara dipindahkan ke Mode Tantangan.
 
-9. Menu Simpan Data (Save File)
-- Menu Pencapaian sekarang diganti jadi menu buat bikin banyak slot Save Data (bisa punya banyak profil pemain).
-
-10. Fitur "True Endless"
-- Kalau diaktifin, mode ini bakal lewatin video singkat antar ronde di mode Tanpa Akhir dan ngasih waktu bentar buat rapihin tanaman lu.
-
-11. Perbaikan berbagai bug dan optimasi biar permainan biar makin lancar jaya.
+9. Memperbaiki beberapa bug yang diketahui dan mengoptimalkan pengalaman bermain game.
