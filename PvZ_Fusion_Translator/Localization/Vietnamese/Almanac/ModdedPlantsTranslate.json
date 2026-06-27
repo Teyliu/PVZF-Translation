@@ -3058,10 +3058,94 @@
       "cost": "\n<size=36><color=#3D1400>Giá: <color=red>1200</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>25 giây</color>"
     },
     {
+      "seedType": 5132,
+      "name": "Ngọc Lục Bảo",
+      "introduce": "<align=justified><size=36><color=#3D1400>Trao đổi đồng giá, có thể dùng xu lấy mặt trời hoặc ngược lại.</color></color>",
+      "info": "<size=36>Cách để làm giàu\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Có thể nhấn vào để tiêu 5000 mặt trời và nhận 2500 xu.\n<color=black>•</color> Khi dùng Cà Phê Vàng lên nó, tiêu toàn bộ xu và nhận số mặt trời bằng (số xu*2).\n<color=black>•</color> Mỗi lần chuyển đổi tiền tệ thì sẽ nhận thêm 5% tài nguyên chuyển đổi, có thể stack và tích 1 năng lượng.\n<color=black>•</color> Khi năng lượng đạt 100, tạo ra 1 thẻ Cây Sao Chép.\n<color=black>•</color> Khi nhận sát thương, tiêu 1 năng lương, nếu không có năng lương, tiêu 1000 xu/mặt trời.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>250</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>20 giây</color>"
+    },
+    {
+      "seedType": 5136,
+      "name": "Bom Tỏi Anh Đào",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đại hạ giá đại hạ giá đấy, mọi thứ đều giảm giá cực sâu!</color></color>",
+      "info": "<size=36>Vô cùng độc hại\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>1800</color>\n<color=#3D1400>Khả Năng: </color><color=red>Zombie trong phạm vi nổ của Bom Tỏi Anh Đào sẽ bị nhiễm Độc Tỏi và chuyển hàng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Tỏi + Bom Anh Đào"
+    },
+    {
+      "seedType": 5138,
+      "name": "Tỏi Cao Xạ",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là 1 cây cũ được tạo ra từ mod Ideawork bên MelonLoader!</color></color>",
+      "info": "<size=36>Gây độc và suy yếu mục tiêu.\n\n<color=#3D1400>Sát Thương:</color><color=red> 300/1.5 giây</color>\n<color=#3D1400>Khả năng: </color><color=red>\n<color=black>•</color> Môi phát sẽ cho 4-6 điểm stack độc lên Zombie. Zombie bị bắn trúng sẽ phải chuyển làn. \n<color=black>•</color> Sát thương chuẩn gây ra là 300 + 80 * Điểm Stack Độc của Zombie đó. \n<color=black>•</color> Sẽ hành quyết mục tiêu mỗi 6 phát.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Không có công thức"
+    },
+    {
+      "seedType": 5143,
+      "name": "Pháo Gỗ Thẫm",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tại sao cậu ta lại có nhiều gỗ để bắn ra thế này? À thì thật ra có 1 cánh cổng không gian ngay bên trong cậu ấy và những gì lòi ra từ cánh cổng là mấy cục gỗ.</color></color>",
+      "info": "<size=36>Bắn vô số mảnh gỗ vào Zombie\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>80/1.5 giây</color>\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 hàng</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Bắn 1 đạn lên mỗi Zombie, không giới hạn số đạn bắn ra.\n<color=black>•</color> Đạn gây hiệu ứng Phân Rã trong 4 giây.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>175</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>7.5 giây</color>"
+    },
+    {
+      "seedType": 5144,
+      "name": "Óc Chó Phân Bón",
+      "introduce": "<align=justified><size=36><color=#3D1400>Ai đó lai tạo phân bón với Óc Chó Cao, và giờ cậu ta như là 1 túi phân bón big size.</color></color>",
+      "info": "<size=36>1 túi phân bón? 1 Óc Chó? Không, đó là Óc Chó Phân Bón\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Cây cao. Mỗi 3000 máu bị mất sẽ rớt ra 1 túi phân bón.\n<color=black>•</color> Khi bị tiêu diệt, hồi đầy máu cho toàn bộ cây xung quanh nó.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>175</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>40 giây</color>"
+    },
+    {
+      "seedType": 5145,
+      "name": "Chậu Mèo",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta là 1 con mèo, hay cậu ta là chậu hoa? Không, cậu ta là 1 chậu mèo!</color></color>",
+      "info": "<size=36>Mèo nhưng là cái chậu\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>20*2/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Bắn 2 đạn xương rồng toàn sân, sát thương gây ra bằng cây có sát thương cao nhất trên ô x10. Tối đa 2000 sát thương.\n<color=black>•</color> x2 tốc bắn cho cây trên nó.\n\n<color=#3D1400>Chậu Mèo Tinh Hệ:</color><color=red>\n<color=#3D1400>Tỉ Lệ Xuất Hiện:</color><color=red> 10%\n<color=#3D1400>Sát Thương:</color><color=red>20*2/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red>  \n<color=black>•</color> Bắn 2 đạn xương rồng toàn sân, sát thương gây ra bằng cây có sát thương cao nhất trên ô x30. Không giới hạn sát thương. </color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>175</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>40 giây</color>"
+    },
+    {
+      "seedType": 5146,
+      "name": "Máy Chơi Game",
+      "introduce": "<align=justified><size=36><color=#3D1400>Một chút may mắn, và bạn có thể nhận được thứ gì đó vô cùng quý giá!</color></color>",
+      "info": "<size=36>May mắn mọi lúc\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Cây cao. Sát thương tối đa có thể nhận vào là 1000.\n<color=black>•</color> Miễn nhiễm với nghiền nát.\n<color=black>•</color> Mỗi 25 giây, hồi phục đầy HP và cho ra phần thưởng ngẫu nhiên như sau: \n - Hộp Quà: 50% \n - Bình Vàng: 20% \n - 800 mặt trời và 8000 xu: 20% \n - Cây Sao Chép: 10%</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>250</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>30 giây</color>"
+    },
+    {
+      "seedType": 5147,
+      "name": "Cà Phê Giảm Giá",
+      "introduce": "<align=justified><size=36><color=#3D1400>Đại hạ giá đại hạ giá đấy, mọi thứ đều giảm giá cực sâu!</color></color>",
+      "info": "<size=36>Mọi thứ đều giảm giá\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Khả Năng: </color><color=red>Khi trồng lên cây, cây dưới nó sẽ giảm 50 mặt trời.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>150</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>50 giây</color>"
+    },
+    {
+      "seedType": 5148,
+      "name": "Nữ Hoàng Lửa Hướng Dương",
+      "introduce": "<align=justified><size=36><color=#3D1400>Hoa Hướng Dương này thích tắm nắng nhất. Và rồi 1 ngày nó được cho vương miện và giờ cô ấy có thể ăn phô mai nướng mọi lúc.</color></color>",
+      "info": "<size=36>Bắn đạn lửa, và tạo rất nhiều mặt trời\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Năng Suất Mặt Trời: </color><color=red>300/25 giây</color>\n<color=#3D1400>Sát Thương: </color><color=red>3600*6/1.5 giây</color>\n<color=#3D1400>Máu: </color><color=red>1000</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Bắn đạn lửa vào Zombie, đạn có thể định hướng mục tiêu.\n<color=black>•</color> Có thể đốt đạn hà lan đi qua nó. \n<color=black>•</color> Toàn bộ cây xung quanh nó 3x3 ô miễn nhiễm với đóng băng.\n<color=black>•</color> Đốt Zombie xung quanh nó 3x3 ô, gây 3600 sát thương mỗi 0.5 giây. x3 sát thương lên Zombie không giáp.\n\n<color=#3D1400>Nữ Hoàng Lửa Hướng Dương Tinh Hệ:</color><color=red>\n<color=#3D1400>Tỉ Lệ Xuất Hiện:</color><color=red> 10%\n<color=#3D1400>Sát Thương:</color><color=red>3600*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red>  \n<color=black>•</color> Đạn bắn ra giờ đây là đạn phượng hoàng, có khả năng xuyên mục tiêu vô hạn và gây vụ nổ Chịu Nhiệt. \n<color=black>•</color> Đạn hà lan khi đi qua nó sẽ đốt thành đạn phượng hoàng.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>500</color>\n<color=#3D1400>Thời Gian Hồi:</color><color=red>30 giây</color>"
+    },
+    {
+      "seedType": 5150,
+      "name": "Vua Óc Chó Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta đứng đó, ngẫm nghĩ về việc rằng kem hôm nay sẽ có vị gì ấy nhỉ?</color></color>",
+      "info": "<size=36>Siêu bền và siêu lạnh\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>200*6/2 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 10 stack đóng băng. Gây x4 sát thương lên Zombie bị đóng băng.\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> Cây cao. Miễn nhiễm với nghiền nát.\n<color=black>•</color> Sát thương tối đa có thể nhận vào là 200.\n<color=black>•</color> Nếu có Vua Đậu Băng ở xung quanh cây 3x3 ô, bắn đạn đậu lửa gây x2 sát thương.\n<color=black>•</color> Làm chậm Zombie xung quanh nó 3x3 ô.\n<color=black>•</color> Mỗi 30 giây, hồi 4500 máu. Nếu nhận hiệu ứng từ Nấm Băng sẽ hồi 15% máu tối đa.\n<color=black>•</color> Mỗi lần tấn công có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ: </color><color=red> Bắn 3 đạn đậu băng mỗi 0.02 giây, kéo dài trong 5 giây; mỗi lần kích hoạt sẽ hồi 1500 máu. </color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Óc Chó Cao Băng + Đậu Súng Máy Băng</color>"
+    },
+    {
+      "seedType": 5154,
+      "name": "Dưa Cực Hàn",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với khả năng tạo ra đạn dưa băng vô cùng lạnh, nhiều cây xung quanh cho rằng gần cậu ta cứ như cạnh tủ đông ấy.</color></color>",
+      "info": "<size=36>Ném đạn dưa băng siêu lạnh\n\n<color=blue>Từ Wuxuan Mod\n<color=#3D1400>Sát Thương: </color><color=red>100/3 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 100 stack đóng băng. Gây thêm sát thương tương ứng với 30% máu tối đa lên Zombie bị đóng băng.\n<color=#3D1400>Khả Năng: </color><color=red> Ném đạn dưa băng vào Zombie, làm chậm toàn bộ Zombie trong phạm vi 3x3 ô và có tỉ lệ 20% đóng băng Zombie.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Dưa Băng + Nấm Băng</color>"
+    },
+    {
+      "seedType": 5166,
+      "name": "Liên Sao Thiên Kích",
+      "introduce": "<align=justified><size=36><color=#3D1400>Với khả năng tạo ra đạn dưa băng vô cùng lạnh, nhiều cây xung quanh cho rằng gần cậu ta cứ như cạnh tủ đông ấy.</color></color>",
+      "info": "<size=36>Sức mạnh thống trị đa ngân hà.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>50*4/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red> \n<color=black>•</color> </color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Dưa Băng + Nấm Băng</color>"
+    },
+    {
       "seedType": 2004,
       "name": "Bão Tố Hàn Kích",
       "introduce": "<align=justified><size=36><color=#3D1400>Với vũ khí nâng cấp là tia băng tối thượng của Cửu U Tiên Chương, Đậu Bão Tố ngay lập tức sử dụng ngay trong thực chiến và loại bỏ gần như mọi đối thủ mà cậu ta có thể gặp.</color></color>",
-      "info": "<size=36>Bắn vô số mũi tên băng cùng 1 lúc.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*6/1.5 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 50 stack đóng băng. Gây x4 sát thương lên Zombie đã bị đóng băng.</color>\n<color=#3D1400>Khả Năng: </color><color=red>Đạn có mọi đặc tính của Cửu U Tiên Chương. Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 3 đạn tia băng. Kéo dài trong 5 giây.</color></color>\n\n<color=#3D1400>Bão Tố Hàn Kich Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 300*3/0.02 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Có mọi khả năng của Bão Tố Hàn Kích. \n<color=black>•</color> Mỗi 15 giây có tỉ lệ 30% thôi miên toàn bộ Zombie trên sân.\n<color=black>•</color> Sẽ luôn tấn công phân tán mỗi 0.02 giây.",
+      "info": "<size=36>Bắn vô số mũi tên băng cùng 1 lúc.\n\n<color=blue>Từ Wuxuan Mod\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>300*6/1.5 giây</color>\n<color=#0077b6>Stack Đóng Băng: </color><color=red>Mỗi lần cho 50 stack đóng băng. Gây x4 sát thương lên Zombie đã bị đóng băng.</color>\n<color=#3D1400>Khả Năng: </color><color=red>Đạn có mọi đặc tính của Cửu U Tiên Chương. Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 3 đạn tia băng. Kéo dài trong 5 giây.</color></color>\n\n<color=#3D1400>Bão Tố Hàn Kich Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 300*3/0.02 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Có mọi khả năng của Bão Tố Hàn Kích. \n<color=black>•</color> Mỗi 15 giây có tỉ lệ 30% thôi miên toàn bộ Zombie trên sân.\n<color=black>•</color> Sẽ luôn tấn công phân tán mỗi 0.02 giây.",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố + Cửu U Tiên Chương</color>"
     },
     {

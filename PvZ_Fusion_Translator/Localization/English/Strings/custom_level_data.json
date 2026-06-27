@@ -270,6 +270,9 @@
     "level_1780761321421_fvzn0p76x": {
         "name": "3.7.0 Mini-game  Protect and Evacuate",
         "startTip": "Some plants have been left behind on the battlefield, and the zombies are coming for them!\nYour mission is to help these plants evacuate safely using sun. As thanks, they'll give you resources like Sun or seed packets.\nAll plants that require evacutaion are marked by craters.\nDon't move or fuse these plants with anything, or else you'll lose the level.\nThe level will be automatically beaten after evacuating all plants.\r\n(Tn: For some reason I can't get the strings from this level so the rest of it is untranslated, sorry Q_Q)"
+    },
+    "level_1781918387541_b2ireh0n8": {
+        "name": "3.7.0 I, Zombie Endless",
+        "startTip": ""
     }
-
 }

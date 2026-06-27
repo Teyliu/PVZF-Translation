@@ -1,0 +1,94 @@
+<align=center><size=20>免責事項</size></align>
+『PvZ融合』の公式ソースは、開発者の「藍飄飄fly」が運営するBilibiliチャンネルのみです。</color>
+この翻訳の有効なソースは、このコミュニティのみです：<color=#64DD17>discord.gg/DPAC5ZVJ8T</color>とGitHubページです。
+<color=#8B0000>pvzfusion.net</color>や<color=#8B0000>pvzfusion.pro</color>などの他のソースは、私たちの作品を無断転載しているため、使用を避けてください。
+翻訳言語を変更したい場合は、このメニューの右下にある「言語」メニューをご確認ください。
+今後のアップデートやサポートについては、コミュニティをご覧ください。
+
+<align=center><size=130%>プラント vs. ゾンビ：融合</size></align>
+<align=center><size=130%>アップデート3.6の変更履歴</size></align>
+
+①旅行モードリニューアル
+ ※ミニボスルート、難易度、ステージ進行の組み合わせを自由に選択できるようになり、より柔軟なプレイが可能になりました。
+ ※既にすべての修正効果を確認していない限り、再抽選時に同じ修正効果が重複して表示されることはなくなりました。
+ ※最初の修正効果ショップとミニボス選択のタイミングが変更されました。最初の修正効果ショップはラウンド5以降に表示されるようになりました。煉獄以上の難易度では、以前の4体ではなく6体のミニボスを選択する必要があります。
+ ※究極フットボールストライカーとマイケルのスーパーライブ移動車に、ゾンビ波の構成と専用のゾンビ修正効果が異なる新しいミニボスルートが追加されました。
+ ※黒曜石装甲ガーガンチュアとインプの王・鴨の箱舟は、ミニボスルート以外でも選択可能なミニボスになりました。
+ ※右下の「プリセット」ボタンで、バージョン3.5以前の旅行レベルにアクセスできます。
+
+②新しいプラント
+ ※基本植物：
+  ◎氷霜地衣
+ ※基本融合：
+  ◎悪臭木（炎木＋ニンニク）
+  ◎スプラッシュ（スクワッシュ→海キノコ）
+  ◎サワロキノコ（フュームキノコ＋サボテン）
+  ◎催眠木（ヒプノキノコ＋炎木）
+  ◎グラップルケルプ（フュームキノコ＋もつれたケルプ）
+  ◎キムチパルト（ハラペーニョ＋キャベツパルト）
+  ◎破壊キャベツパルト（破壊キノコ＋キャベツパルト）
+  ◎辛いカーネルパルト（ハラペーニョ＋カーネルパルト）
+  ＊（注：以前の「ポップコーンパルト」、カーネルパルト→パフキノコは、名称を「パフコーンパルト」に変更しました）
+  ◎氷ジャガイモ地雷（ジャガイモ地雷＋氷キノコ）
+ ※旅行融合：
+  ◎コモン：
+   • ＳＰつららガトリングキノコ（ピーシューター＋つららガトリングキノコ）
+   • ＳＰ太陽嵐ガトリングキノコ（ピーシューター＋太陽嵐ガトリングキノコ）
+  ◎エピック：
+   • バックショット大将（鉄のピーシューター＋フットボールガトリングピー）
+   • シンクロナイザー狙撃ピー（クロノコア→バックショット大将）
+   • アクシオン・オービター（ニンニク＋光子分裂者）
+   • ハバネロ・ウィーパー（クライオリナ・リーパー→パフキノコ）
+ ※レジェンダリー融合：
+  ◎冥蝕キノコ
+  ◎原始双子太陽ナッツ
+ ※特別／その他
+  ◎道標の矢印
+  ◎パフキノコの拡散フュームキノコとビクビクキノコ経由には、それぞれ個別のIDが割り当てられました
+
+③新しいゾンビ
+ ※コモン：
+  ◎Coach Zombie
+  ◎バケツヘッド新聞ゾンビ
+  ◎ペンギンゾンビ
+  ◎コウテイペンギンゾンビ
+  ◎霜の軍団・ゾンビ
+  ◎霜の軍団・圧縮氷塊ヘッドゾンビ
+  ◎Gatling Pea Zombie
+  ◎Gatling Snow Zombie
+
+④新しいスキン
+ ※レーザーパンプキン→星空十字軍パンプキン
+
+⑤新しいレベル
+ ※ミニゲーム：
+  ◎ゾンビ選別：Adjust arrows to guide zombies to the correct stations. These 道標の矢印s can also be used to create ＴＤレベルs in スパーレベルエディター.
+  ◎アイ、ゾンボス？：Placing zombie packets will spawn a corresponding エンドフレイム that keeps summoning hypnotized zombies to fight for you.
+  ◎Explode-O-su!：Control the tempo to deal with zombie waves.
+ ※星光アドベンチャー：Snow updated
+ ※アイ、ゾンビ　アドベンチャー：Chapter 5: All Roads Lead to Roof updated
+ ※New Odyssey level: Stats vs Mechanics: Odyssey plants disabled. Base stats of plants are greatly increased. Some 種パケットs are available directly in slots for quick deployment. Each time zombies reach the house, you will not immediately game over, but will be rewinded back to the last checkpoint and lose all zombie and plant modifiers. Rewinding can be only be used a limited number of times.
+ ※旅行アドベンチャー リニューアル
+ ※ガーデンディフェンス entrance moved to 禅ガーデン
+ ※収穫モード: New Chaos difficulty. Seeds do not use durability in the difficulty but zombies gain random buffs.
+ ※New Map: Snowy Night: Within the quiet camp, a hidden past seems to lie buried… Fertilizer does not spawn automatically on this map.
+
+⑥新しいシナジー
+ ※When 腐朽サラダパルト and ＳＰつららガトリングキノコ are planted on the same tile, the latter's 弾丸s split one additional time. Both plants' normal and special 弾丸s inherit some properties from each other's shots.（WARNING: Will cause lag）
+
+⑦新しいスパーレベルエディター設定
+ ※スパーレベルエディター now allows creation, modification, and linking of nodes to define レベルイベント through a pseudo-code system.
+ ※You can now create リズムゲーム-style levels and ＴＤレベルs using 道標の矢印s.
+
+⑧旅行 Balance Adjustments
+ ※タイタン黒曜石ピー砲塔：Reworked abilities completely
+ ※レーザーパンプキン：Now gains the ability to reduce ゾンビの被ダメージ減少値.
+ ※ジェットスキーピエロ：爆発ダメージ reduced to 500
+
+⑨図鑑の改訂
+ ※新しいゲームの仕組み図鑑が追加されました
+ ※古い図鑑が削除されました
+ ※未発見のプラントと融合体は、図鑑にロックされています。未発見のプラントをクリックすると、その作成方法に関するヒントが表示されます。設定画面からすべてのアンロックすることもできます。
+
+⑩その他のバグ修正と最適化
+

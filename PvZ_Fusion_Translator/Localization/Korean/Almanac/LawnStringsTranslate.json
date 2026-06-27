@@ -605,7 +605,7 @@
             "seedType": 307,
             "name": "태양 왕년 호두",
             "introduce": "<align=left><size=36><color=#3D1400>\"미래의 정원은 어떤 모습일까?\" 이를 알아내기 위해 과거의 태양 황제은 빛으로 작동하는 시간 여행 장치를 만들어 현재로 여행을 떠났습니다. 그는 잠시 둘러보고 돌아갈 계획이었지만, 연구실을 부수고 좀비의 몸속에 기생하거나 심지어 해변의 아이스크림 파티까지 빼먹는 자신의 미래 모습들을 목격하고는, 잠시 머물며 상황을 바로잡기로 결심했습니다.</color>",
-            "info": "<size=36>피해를 입으면 태양을 생성합니다. 태양을 소모하여 체력을 회복하고 전방에 거대 태양 호두를 소환할 수 있습니다.\n\n<color=#3D1400>사용 조건: </color><color=#8B0000>미스테리</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 대미지를 입으면 해당 공격을 무효화하는 대신, 고정적으로 50 피해를 입고 15 태양을 생성합니다.\n<color=black>• 클릭시 500 태양을 소모하면 체력을 모두 회복하고 앞 타일에 거대 태양 호두를 생성합니다.</color>",
+            "info": "<size=36>피해를 입으면 태양을 생성합니다. 태양을 소모하여 체력을 회복하고 전방에 거대 태양 호두를 소환할 수 있습니다.\n\n<color=#3D1400>사용 조건: </color><color=#8B0000>미스테리</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 대미지를 입으면 해당 공격을 무효화하는 대신, 고정적으로 50 피해를 입고 15 태양을 생성합니다.\n<color=#8B0000>• 클릭시 500 태양을 소모하면 체력을 모두 회복하고 앞 타일에 거대 태양 호두를 생성합니다.</color>",
             "cost": "\n"
         },
         {
@@ -2684,7 +2684,7 @@
       "seedType": 1199,
       "name": "파멸나무",
       "introduce": "<align=justified><size=36><color=#3D1400>누군가 파멸나무에게 \"바비큐의 비결이 뭐예요\" 라고 물으면, 그는 그저 묵묵히 잔불을 모아 재활용합니다. 무관심해서 그런 것이 아니라, 만약 그가 말한다면 얼굴이 재투성이가 될 뿐이기 때문입니다.</color>",
-      "info": "<size=36>파멸나무는 파멸 버섯의 폭발 이후에도 타올랐으며 화력이 더욱 거세졌습니다.\n\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 잿불 포인트가 0일 때는 횃불나무와 동일합니다.\n<color=black>•</color> 포인트를 가진 상태에서 콩이나 불콩을 점화시킬 시 보라색 불콩으로 바꿔 30의 추가 대미지를 주고 잿불 디버프를 부여하여 1/3의 범위 피해를 줍니다.\n<color=black>•</color> 10 포인트를 소모하여 파멸 콩과 파멸 탄환 투사체를 강화시킬 수 있으며, 거대 파멸 탄환과 동일한 범위 피해를 입힙니다. 파멸 콩은 기존 대미지의 200%, 파멸 탄환은 기존 대미지의 600% 증가합니다.</color><page>\n<color=#7303fc>잿불 포인트: </color><color=#8B0000>\n<color=black>•</color>  60 포인트를 가지고 시작하며, 1초마다 포인트가 1 감소합니다\n<color=black>•</color> 투사체 60개 점화 후, 포인트가 0이 되는 순간 60 포인트, 파멸 버섯에 영향을 받을 시 30 포인트를 받으며, 5×5 영역 내에 잿불 디버프를 받은 좀비가 사망 시 파멸나무는 10 포인트를 받습니다.\n<color=black>• </color> 잿불 디버프는 빙결, 화염 및 독 디버프와 공존할 수 있습니다:\n- 빙결: 좀비가 추가로 10%(50% → 60%) 만큼 더 느려집니다.\n- 화염: 대미지 증폭 효과가 10%(50% → 60%) 만큼 증가합니다.\n - 독: 독을 무한정 지속됩니다.</color>,</color>",
+      "info": "<size=36>파멸나무는 파멸 버섯의 폭발 이후에도 타올랐으며 화력이 더욱 거세졌습니다.\n\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 잿불 포인트가 0일 때는 횃불나무와 동일합니다.\n<color=black>•</color> 포인트를 가진 상태에서 콩이나 불콩을 점화시킬 시 보라색 불콩으로 바꿔 30의 추가 대미지를 주고 잿불 디버프를 부여하여 1/3의 범위 피해를 줍니다.\n<color=black>•</color> 10 포인트를 소모하여 파멸 콩과 파멸 탄환 투사체를 강화시킬 수 있으며, 거대 파멸 탄환과 동일한 범위 피해를 입힙니다. 파멸 콩은 기존 대미지의 200%, 파멸 탄환은 기존 대미지의 600% 증가합니다.</color><page>\n<color=#7303fc>잿불 포인트: </color><color=#8B0000>\n<color=black>•</color>  60 포인트를 가지고 시작하며, 1초마다 포인트가 1 감소합니다\n<color=black>•</color> 투사체 60개 점화 후, 포인트가 0이 되는 순간 60 포인트, 파멸 버섯에 영향을 받을 시 30 포인트를 받으며, 5×5 영역 내에 잿불 디버프를 받은 좀비가 사망 시 파멸나무는 10 포인트를 받습니다.\n<color=#8B0000>• </color> 잿불 디버프는 빙결, 화염 및 독 디버프와 공존할 수 있습니다:\n- 빙결: 좀비가 추가로 10%(50% → 60%) 만큼 더 느려집니다.\n- 화염: 대미지 증폭 효과가 10%(50% → 60%) 만큼 증가합니다.\n - 독: 독을 무한정 지속됩니다.</color>,</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>파멸 버섯 + 횃불나무</color>"
     },
     {
@@ -4287,77 +4287,77 @@
       "seedType": 350,
       "name": "태양슈터 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>\"사실, 내 뒤에 있는 해바라기는 내 여동생이야,\" 콩슈터는 모두에게 설명했습니다. \"우린 태어날 때부터 떨어질 수 없는 사이였어. 내 여동생은 태양을 생산하는 걸 좋아하고, 난 여동생을 대신해 좀비들을 무찔러.\" 하지만 모두가 진실은 알고 있다. 쾌활한 콩슈터 오빠는 사실 철저한 시스콘이라는 것. 결국 여동생 근처에 오는 좀비들은 죄다 신기하게도 햇빛에 증발해 버리니까.</color>",
-      "info": "<size=36>태양슈터는 태양을 생산하는 태양탄을 쏩니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>3번 공격 시 5 태양을 생산합니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(80 태양) 대미지, 공격 속도 +20%\n<color=black>• 고급 업그레이드 선택 1: </color>(200 태양) 대미지 +200%\n<color=black>• 고급 업그레이드 선택 2: </color>(200 태양) 공격 속도 +100%</color>",
+      "info": "<size=36>태양슈터는 태양을 생산하는 태양탄을 쏩니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>3번 공격 시 5 태양을 생산합니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(80 태양) 대미지, 공격 속도 +20%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(200 태양) 대미지 +200%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(200 태양) 공격 속도 +100%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>200</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 351,
       "name": "큰태양 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>큰태양 버섯은 경험 많은 태양 은행가로, 예금에 높은 이자를 제공합니다. \"정기예금을 선택했군요.\" 그는 답답해하는 태양 황제 호두에게 엄숙하게 말합니다. \"아직 인출은 허용되지 않습니다.\"</color>",
-      "info": "<size=36>근처의 햇빛을 흡수하여 증식 및 저장하며, 생산 시 대량으로 추출합니다.\n\n<color=#3D1400>태양 생산량 | 생산 쿨타임: </color><color=#8B0000>25 | 25초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 5×5 타일 내의 모든 태양을 흡수하고, 25초마다 흡수한 태양을 30% 증가 시켜 저장합니다.\n<color=black>•</color> 다음 생산 시 최대한 많은 태양을 25 단위로 나누어 방출합니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(60 태양) 태양 생산 속도 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(150 태양) 생산 속도 +200%\n<color=black>•고급 업그레이드 선택 2: </color>(150 태양) 태양 방출량 200%로 증가</color>",
+      "info": "<size=36>근처의 햇빛을 흡수하여 증식 및 저장하며, 생산 시 대량으로 추출합니다.\n\n<color=#3D1400>태양 생산량 | 생산 쿨타임: </color><color=#8B0000>25 | 25초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 5×5 타일 내의 모든 태양을 흡수하고, 25초마다 흡수한 태양을 30% 증가 시켜 저장합니다.\n<color=black>•</color> 다음 생산 시 최대한 많은 태양을 25 단위로 나누어 방출합니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(60 태양) 태양 생산 속도 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(150 태양) 생산 속도 +200%\n<color=#8B0000>•고급 업그레이드 선택 2: </color>(150 태양) 태양 방출량 200%로 증가</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>150</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 352,
       "name": "체리슈터 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>체리슈터를 소개할게, 최고의 식물 살상자야. 체리슈터는 평소보다 더 신경질적이야, 누가 따뜻하고 친근한 풋체리슈터가 또 다른 특별한 체리를 삼킬 줄 알았겠어? 그와 운을 시험하지 마. 그 체리가 목에 걸린 채로 다음 공격이 될지도 몰라, 이미 얼굴이 벌겋게 달아오르고 있어!</color>",
-      "info": "<size=36>체리슈터는 범위 폭발 피해를 주는 폭발성 체리를 발사합니다. \n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 3초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 해당 투사체는 범위 폭발 피해를 입힙니다.\n<color=black>•</color> 폭발성 체리 공격에 대해 면역입니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(160 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(400 태양) 폭발 범위 +50%, 대미지 +100%\n<color=black>• 고급 업그레이드 선택 2: </color>(400 태양) 공격 속도 +200%</color>",
+      "info": "<size=36>체리슈터는 범위 폭발 피해를 주는 폭발성 체리를 발사합니다. \n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 3초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 해당 투사체는 범위 폭발 피해를 입힙니다.\n<color=black>•</color> 폭발성 체리 공격에 대해 면역입니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(160 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(400 태양) 폭발 범위 +50%, 대미지 +100%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(400 태양) 공격 속도 +200%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>400</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
       "seedType": 353,
       "name": "스타푸르츠 호두 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>스타푸르츠 호두는 바위 아래에서 좀처럼 움직이지 않고 삽니다. 게으른 게 아니라, 기준이 까다로운 탓입니다. 오직 네모난 친구에게 해파리 잡이나 문어 이웃을 골탕 먹이는 장난에 초대받을 때만 행동하니까요.</color>",
-      "info": "<size=36>피해를 받으면 별을 발사합니다.\n\n<color=#3D1400>체력: </color><color=#8B0000>4000</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>섭취 시 5방향으로 대미지 20의 별을 쏩니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(80 태양) 체력 +2000\n<color=black>• 고급 업그레이드 선택 1: </color>(200 태양) 체력 +200%\n<color=black>• 고급 업그레이드 선택 2: </color>(200 태양) 3초마다 체력 100 회복</color>",
+      "info": "<size=36>피해를 받으면 별을 발사합니다.\n\n<color=#3D1400>체력: </color><color=#8B0000>4000</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>섭취 시 5방향으로 대미지 20의 별을 쏩니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(80 태양) 체력 +2000\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(200 태양) 체력 +200%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(200 태양) 3초마다 체력 100 회복</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>200</color>\n쿨타임: <color=#8B0000>30초</color></size>"
     },
     {
       "seedType": 354,
       "name": "태양 지뢰 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>태양지뢰는 좀비들에게 자주 이렇게 경고합니다. \"빨간불에 멈추고, 노란불에선 천천히! 교통법규는 꼭 지켜!\" 하지만 좀비들에게는 그저 역겨운 초록빛만 보일 뿐입니다. 태양지뢰는 자신의 푸른 잎을 꼭 움켜쥐고, 햇살을 더 받고 싶다는 듯 입을 삐죽 내밉니다. \"결국 우리 모두를 움직이게 하는 건 태양빛이잖아!\"</color>",
-      "info": "<size=36>태양 지뢰는 폭발 시 태양을 생산합니다.\n\n<color=#3D1400>대미지: </color><color=#8B0000>1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>1 타일</color></color>\n<color=#3D1400>사용 방법: </color><color=#8B0000>일회용 식물, 발동하는데 시간이 필요함</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>폭발 시 50 태양을 생성합니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(10 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(25 태양) 폭발 범위 +50%\n<color=black>• 고급 업그레이드 선택 2: </color>(25 태양) 폭발 대미지 +100%</color>",
+      "info": "<size=36>태양 지뢰는 폭발 시 태양을 생산합니다.\n\n<color=#3D1400>대미지: </color><color=#8B0000>1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>1 타일</color></color>\n<color=#3D1400>사용 방법: </color><color=#8B0000>일회용 식물, 발동하는데 시간이 필요함</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>폭발 시 50 태양을 생성합니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(10 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(25 태양) 폭발 범위 +50%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(25 태양) 폭발 대미지 +100%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>25</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
       "seedType": 355,
       "name": "쿠울 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>쿠울 버섯은 물리학자가 되는 꿈을 품고, 세상의 복잡한 이치를 풀어내는 데 매일을 바치며 다른 식물들과의 접촉은 피합니다. \"왜 내 머리에서 여러 줄기의 얼음 원뿔이 돋아나는 거지?\" 그는 그렇게 중얼거리며 또 다른 의문에 잠깁니다. 이상할 정도로 그는 얼음 원뿔들을 꼭 \"줄기\" 라고 불러야 한다고 고집합니다.</color>",
-      "info": "<size=36>좀비를 얼릴 수 있는 차가운 가스를 뿜습니다.\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>5 (각 가스마다) | 3.8초</color>\n<color=#3D1400>공격 횟수: </color><color=#8B0000>4번</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>3×3 타일\n<color=#3D1400>특수 능력: </color><color=#8B0000>공격 시 좀비들을 느리게 만듭니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(80 태양) 공격 속도 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(200 태양) 빙결 포인트 10 누적\n<color=black>• 고급 업그레이드 선택 2: </color>(200 태양) 둔화 지속 시간 200%로 증가</color>",
+      "info": "<size=36>좀비를 얼릴 수 있는 차가운 가스를 뿜습니다.\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>5 (각 가스마다) | 3.8초</color>\n<color=#3D1400>공격 횟수: </color><color=#8B0000>4번</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>3×3 타일\n<color=#3D1400>특수 능력: </color><color=#8B0000>공격 시 좀비들을 느리게 만듭니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(80 태양) 공격 속도 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(200 태양) 빙결 포인트 10 누적\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(200 태양) 둔화 지속 시간 200%로 증가</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>200</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 356,
       "name": "체리 먹깨비 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>체리 폭탄과 한 잔을 마신 이후로, 먹깨비는 끊임없이 \"흥분해 있습니다.\" 매 끼니마다 완전히 골칫덩이가 되어버렸습니다. 씹는 소리는 폭발음으로 바뀌고, 접시와 그릇이 사방으로 날아다니며, 아무도 체리 먹깨비와 함께 식사하려 하지 않았습니다.결국 투표 끝에, 체리 먹깨비는 마당에서 식사를 하게 되었습니다… 적어도 이제 새 그릇을 살 필요는 없어졌습니다.</color>",
-      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지: </color><color=#8B0000> 즉사 | 1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>전방 1 타일 | 3×3 타일</color>\n<color=#3D1400>소화 시간: </color><color=#8B0000>40초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>적을 섭취 시 1000 대미지를 주는 체리 폭탄 폭발을 일으킵니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(200 태양) 폭발 범위 +50%, 섭취 시간 -10\n<color=black>• 고급 업그레이드 선택 1: </color>(500 태양) 폭발 대미지 +100%\n<color=black>• 고급 업그레이드 선택 2: </color>(500 태양) 섭취 시간 15초로 변경</color>",
+      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지: </color><color=#8B0000> 즉사 | 1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>전방 1 타일 | 3×3 타일</color>\n<color=#3D1400>소화 시간: </color><color=#8B0000>40초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>적을 섭취 시 1000 대미지를 주는 체리 폭탄 폭발을 일으킵니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(200 태양) 폭발 범위 +50%, 섭취 시간 -10\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(500 태양) 폭발 대미지 +100%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(500 태양) 섭취 시간 15초로 변경</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>500</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
       "seedType": 357,
       "name": "전격 양파 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>전격 양파는 드디어 자신의 때가 왔다고 생각했습니다.\n번개를 백 번이나 넘게 먹어본 사람이 누가 있을까요? \"드디어 프랑켄슈타인을 연기 할 수 있겠어!\"라는 꿈은\n대본과 함께 산산조각 났습니다. 그가 받은 대본엔\n박사의 피뢰침이란 역할이 적혀있었기 때문이죠.</color>",
-      "info": "<size=36>다가오는 좀비를 전기 광선으로 구워버립니다!\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000> 20 | 1.5초</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000> 5×5 범위</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 다른 공격 중인 전격 양파가 범위 내에 있으며 대기\n상태일 때, 해당 전격 양파의 이번 공격 대미지가 150\n증가합니다.\n<color=black>•</color> 공격이 최대 3마리의 좀비를 대상으로 체인 공격을\n하며, 체인 공격은 대미지가 절반 감소합니다.</color>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(120 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(300 태양) 체인 공격시 대미지가 깎이지 않음\n<color=black>• 고급 업그레이드 선택 2: </color>(300 태양) 대미지 +300%, 체인 공격이 되지 않음</color>",
+      "info": "<size=36>다가오는 좀비를 전기 광선으로 구워버립니다!\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000> 20 | 1.5초</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000> 5×5 범위</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 다른 공격 중인 전격 양파가 범위 내에 있으며 대기\n상태일 때, 해당 전격 양파의 이번 공격 대미지가 150\n증가합니다.\n<color=black>•</color> 공격이 최대 3마리의 좀비를 대상으로 체인 공격을\n하며, 체인 공격은 대미지가 절반 감소합니다.</color>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(120 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(300 태양) 체인 공격시 대미지가 깎이지 않음\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(300 태양) 대미지 +300%, 체인 공격이 되지 않음</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>300</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 358,
       "name": "콩슈터 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>\"내 몸집이 작다고 얕보지 마. 작은 몸에도 에너지는 가득할 수 있거든.\" 콩슈터 버섯은 자신을 과소평가하는 이들에게 늘 경고합니다. \"우리 모두 처음에는 작은 버섯에서 시작했어. 한 걸음씩 나아가다 보면 돼. 아침 햇살을 받으며 꾸준히 하면 나처럼 될 수 있다구.\"</color>",
-      "info": "<size=36>콩슈터 버섯은 뻐끔 버섯보다 더 멀리 쏩니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>10 | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color>작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 3마리까지 증첩 가능</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(20 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(50 태양) 대미지 +100%, 작은 불콩을 발사\n<color=black>• 고급 업그레이드 선택 2: </color>(50 태양) 대미지 +200%</color>",
+      "info": "<size=36>콩슈터 버섯은 뻐끔 버섯보다 더 멀리 쏩니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>10 | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color>작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 3마리까지 증첩 가능</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(20 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(50 태양) 대미지 +100%, 작은 불콩을 발사\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(50 태양) 대미지 +200%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>50</color> <color=#2b0057>(125)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 359,
       "name": "태양 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>태양 버섯은 햇빛을 싫어합니다. 어찌나 싫어하는지 몸에서 만들어 내면 최대한 빨리 뱉어냅니다. 참을 수가 없기때문이죠. 태양 버섯에게 햇빛은 역겨운 겁니다.</color>",
-      "info": "<size=36>태양버섯은 처음엔 적은 양의 햇빛을 주고 이후에 정상적으로 햇빛을 줍니다.\n\n<color=#3D1400>태양 생산량 | 생산 쿨타임: </color><color=#8B0000>5 → 15 | 25초</color>\n<color=#3D1400>성장 시간: </color><color=#8B0000>120초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color>작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 3마리까지 증첩 가능</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(10 태양) 16.67초마다 태양 5 생성\n<color=black>• 고급 업그레이드 선택 1: </color>(25 태양) 즉시 성장\n<color=black>• 고급 업그레이드 선택 2: </color>(25 태양) 성장 시 태양을 200%로 생성</color>",
+      "info": "<size=36>태양버섯은 처음엔 적은 양의 햇빛을 주고 이후에 정상적으로 햇빛을 줍니다.\n\n<color=#3D1400>태양 생산량 | 생산 쿨타임: </color><color=#8B0000>5 → 15 | 25초</color>\n<color=#3D1400>성장 시간: </color><color=#8B0000>120초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color>작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 3마리까지 증첩 가능</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(10 태양) 16.67초마다 태양 5 생성\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(25 태양) 즉시 성장\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(25 태양) 성장 시 태양을 200%로 생성</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>25</color> <color=#2b0057>(100)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 360,
       "name": "파멸의 가스 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>파멸의 가스 버섯, 인간혐오적이면서도 일벌레 같은 성격인 파멸의 가스 버섯은 좀비 따위는 거슬리기만 합니다. 총알은 적지만, 그 위력은 치명적이죠. \"급한 게 아니면 건드리지 마. 죽이고 싶으면 네가 직접 쏘라고..\" 그러면서도 파멸의 가스 버섯의 날카롭고 효율적인 전투 방식 덕분에, 다른 이들은 마지못해 존경을 보냅니다.</color>",
-      "info": "<size=36>파멸의 가스 버섯은 앞에 있는 좀비 대부분을 파괴할 수 있습니다!\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지: </color><color=#8B0000>1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>1 라인</color>\n<color=#3D1400>재장전 시간: </color><color=#8B0000>60초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>업그레이드 창에 있는 공격을 클릭할 시 가스를 쏘며 60초의 재장전 시간을 가집니다.</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(200 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(500 태양) 대미지 +200%\n<color=black>• 고급 업그레이드 선택 2: </color>(500 태양) 공격 속도 +100%</color>",
+      "info": "<size=36>파멸의 가스 버섯은 앞에 있는 좀비 대부분을 파괴할 수 있습니다!\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지: </color><color=#8B0000>1000</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>1 라인</color>\n<color=#3D1400>재장전 시간: </color><color=#8B0000>60초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>업그레이드 창에 있는 공격을 클릭할 시 가스를 쏘며 60초의 재장전 시간을 가집니다.</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(200 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(500 태양) 대미지 +200%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(500 태양) 공격 속도 +100%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>500</color> <color=#2b0057>(575)</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
@@ -4371,7 +4371,7 @@
       "seedType": 362,
       "name": "뻔뻔 버섯 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>\"용기가 차올라, 두려움은 이제 없어요~ 봄이든, 가을이든, 겨울이든, 여름이든~\" 뻔뻔 버섯은 이제 좀비 얼굴을 보고도 움츠러들지 않습니다 \"예전엔 떨었지만, 선배 가스 버섯이 이렇게 말해줬어요. \"좀비가 다가오면 포자를 뿌려. 숨는다고 해결될 일이 아니야.\"</color>",
-      "info": "<size=36>뻔뻔 버섯은 가까이 있든 멀리 있든 좀비를 물리칠 준비가 되었습니다!\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=#3D1400>공격 횟수: </color><color=#8B0000>2번</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>평소에는 한번에 포자를 2번씩 발사하지만, 좀비가 3 타일 이내로 접근하면, 대신 관통성 연기를 뿌립니다.</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(80 태양) 대미지, 공격 속도 +20%\n<color=black>• 고급 업그레이드 선택 1: </color>(200 태양) 대미지 +200%, 가스를 뿌리지 않음.\n<color=black>• 고급 업그레이드 선택 2: </color>(200 태양) 대미지 +200%, 가스 사거리 200%</color>",
+      "info": "<size=36>뻔뻔 버섯은 가까이 있든 멀리 있든 좀비를 물리칠 준비가 되었습니다!\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=#3D1400>공격 횟수: </color><color=#8B0000>2번</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>평소에는 한번에 포자를 2번씩 발사하지만, 좀비가 3 타일 이내로 접근하면, 대신 관통성 연기를 뿌립니다.</color>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(80 태양) 대미지, 공격 속도 +20%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(200 태양) 대미지 +200%, 가스를 뿌리지 않음.\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(200 태양) 대미지 +200%, 가스 사거리 200%</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>200</color> <color=#2b0057>(275)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
@@ -4392,7 +4392,7 @@
       "seedType": 365,
       "name": "네펜데스 박격포 (TD)",
       "introduce": "<align=justified><size=36><color=#3D1400>\"코치님, 저도 농구가 하고 싶습니다.\" 네펜데스 박격포는 늘 농구 스타가 되는 꿈을 꿉니다. 그는 밤낮없이 쉴 새 없이 슛 연습을 합니다. 두 가지 강점이 있지요. 첫째, 어쩐지 농구 골대처럼 생겼다는 것, 둘째, 연습용 농구공이 무한하다는 것입니다. 제발, 그 공이 무엇으로 만들어졌는지는 묻지 마십시오.</color>",
-      "info": "<size=36>좀비랑 다른 네펜데스 박격포에게로 튕겨지는 방울을 뱉습니다.\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>4방향 모두 2 타일 이내</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>투사체 피격 시 다른 네펜데스 박격포에게로 튕겨지며 한 번 더 좀비를 향해 튕겨집니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(120 태양) 대미지, 공격 속도 +20%\n<color=black>• 고급 업그레이드 선택 1: </color>(300 태양) 대미지 +200%\n<color=black>• 고급 업그레이드 선택 2: </color>(300 태양) 공격 속도 +100%, 피격한 투사체는 스스로에게로 돌아와 다시 튕겨짐</color>",
+      "info": "<size=36>좀비랑 다른 네펜데스 박격포에게로 튕겨지는 방울을 뱉습니다.\n\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>4방향 모두 2 타일 이내</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>투사체 피격 시 다른 네펜데스 박격포에게로 튕겨지며 한 번 더 좀비를 향해 튕겨집니다.</color>\n<color=#3D1400><page>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(120 태양) 대미지, 공격 속도 +20%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(300 태양) 대미지 +200%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(300 태양) 공격 속도 +100%, 피격한 투사체는 스스로에게로 돌아와 다시 튕겨짐</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>300</color>\n쿨타임: <color=#8B0000>7.5s</color></size>"
     },
         {
@@ -4406,14 +4406,14 @@
             "seedType": 367,
             "name": "스쿼시 호두 (TD)",
             "introduce": "<align=justified><size=36><color=#3D1400>아이들 놀이터에서 줄기로 끌려 잔디밭에 떨어진 스쿼시 호두는, 찌그러진 고무공 같다는 이유로 거절당했습니다. 이제 화가 나고 울퉁불퉁해진 그는 미친 듯이 튀며 외칩니다. \"마음껏 놀 거야! 마음껏!\"</color>",
-            "info": "<size=36>스쿼시처럼 뛰어다니는 호두입니다.\n\n<color=#3D1400>체력: </color><color=#8B0000>1000</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>80 (누르기) | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>좀비가 인접할 시 그 자리에서 점프하면서 범위 피해를 줍니다. 대신 점프하는 동안에는 좀비를 막지 않습니다.</color>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(30 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(75 태양) 입힌 대미지의 50% 회복\n<color=black>• 고급 업그레이드 선택 2: </color>(75 태양) 적중시 +50%의 추가 대미지가 부여</color>",
+            "info": "<size=36>스쿼시처럼 뛰어다니는 호두입니다.\n\n<color=#3D1400>체력: </color><color=#8B0000>1000</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>80 (누르기) | 1.5초</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>좀비가 인접할 시 그 자리에서 점프하면서 범위 피해를 줍니다. 대신 점프하는 동안에는 좀비를 막지 않습니다.</color>\n<page><color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(30 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(75 태양) 입힌 대미지의 50% 회복\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(75 태양) 적중시 +50%의 추가 대미지가 부여</color>",
             "cost": "<size=36>필요 태양: <color=#8B0000>75</color>\n쿨타임: <color=#8B0000>30초</color></size>"
         },
         {
             "seedType": 368,
             "name": "삼발 지뢰슈터 (TD)",
             "introduce": "<align=justified><size=36><color=#3D1400>삼발 지뢰슈터는 땅속에서 장난치기를 좋아합니다. 한 번도, 두 번도 아닌 세 번이나 깜짝 폭발을 날리며 끝없는 장난꾸러기 처럼 행동합니다. 방심하면 세 번 연속의 폭발로 신발까지 날아가 버릴 수 있습니다.\n\n- Mrs. draco 씀 </color>",
-            "info": "<size=36>삼발 지뢰슈터는 세줄로 감자를 쏠 수 있으며 스스로 폭발한 후 일정 시간이 지나면 다시 땅 위로 나옵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 감자 콩 마다) | 1.5초</color>\n<color=#3D1400>대미지: </color><color=#8B0000>5400 (폭발 판정)\n<color=#3D1400>공격 범위: </color><color=#8B0000>3 라인, 1 타일 (폭발)</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 폭발 시 5400의 피해를 주며 좀비를 밀쳐내고 땅속으로 다시 들어갑니다.\n<page><color=black>•</color>15초 뒤에 다시 땅 위로 나옵니다. 타이어에 깔릴 시 폭발하되 사라집니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(160 태양) 대미지 +50%\n<color=black>• 고급 업그레이드 선택 1: </color>(400 태양) 대미지 +200%\n<color=black>• 고급 업그레이드 선택 2: </color>(400 태양) 이제 60초마다 궁극기를 발사(5초 동안 정면으로 250발을 발사하고 0~45° 범위 내에서 500발을 더 발사)</color>",
+            "info": "<size=36>삼발 지뢰슈터는 세줄로 감자를 쏠 수 있으며 스스로 폭발한 후 일정 시간이 지나면 다시 땅 위로 나옵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 감자 콩 마다) | 1.5초</color>\n<color=#3D1400>대미지: </color><color=#8B0000>5400 (폭발 판정)\n<color=#3D1400>공격 범위: </color><color=#8B0000>3 라인, 1 타일 (폭발)</color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물 (일반 투사체를 맞지 않습니다.)\n<color=black>•</color> 폭발 시 5400의 피해를 주며 좀비를 밀쳐내고 땅속으로 다시 들어갑니다.\n<page><color=black>•</color>15초 뒤에 다시 땅 위로 나옵니다. 타이어에 깔릴 시 폭발하되 사라집니다.</color>\n<color=#3D1400>업그레이드 목록: </color><color=#8B0000>\n<color=#8B0000>• 기본 업그레이드: </color>(160 태양) 대미지 +50%\n<color=#8B0000>• 고급 업그레이드 선택 1: </color>(400 태양) 대미지 +200%\n<color=#8B0000>• 고급 업그레이드 선택 2: </color>(400 태양) 이제 60초마다 궁극기를 발사(5초 동안 정면으로 250발을 발사하고 0~45° 범위 내에서 500발을 더 발사)</color>",
             "cost": "<size=36>필요 태양: <color=#8B0000>400</color>\n쿨타임: <color=#8B0000>30초</color></size>"
         },
     {
