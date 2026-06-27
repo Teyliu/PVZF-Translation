@@ -3433,7 +3433,7 @@
         {
             "seedType": 1287,
             "name": "Maceta Congelada",
-            "introduce": "<size=39><color=#3D1400>En verano es cuando Ice Pot está más activo. \"Jejeje, ¿tienes calor? ¿Quieres venir a refrescarte?\", dice. \"Solo ten cuidado de no resbalarte en el hielo. Y si eres un Nuez buscando sombra, ¡cuidado! ¡Una vez que te conviertas en una Nuez helada, alguien podría comerte!\"</color></size>",
+            "introduce": "<size=39><color=#3D1400>En verano es cuando Maceta Congelada está más activo. \"Jejeje, ¿tienes calor? ¿Quieres venir a refrescarte?\", dice. \"Solo ten cuidado de no resbalarte en el hielo. Y si eres un Nuez buscando sombra, ¡cuidado! ¡Una vez que te conviertas en una Nuez helada, alguien podría comerte!\"</color></size>",
             "info": "<size=39>Convierte plantas calientes en plantas normales.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Convierte plantas calientes (Nuez Caliente, Apisonaflor Caliente, etcétera) encima de ella en sus contrapartes básicas.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Maceta</color></size>",
             "cost": "<size=39>Costo: <color=red>150, 225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
