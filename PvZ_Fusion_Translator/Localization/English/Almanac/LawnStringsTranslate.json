@@ -613,7 +613,7 @@
             "seedType": 308,
             "name": "Bedrock Tall-nut",
             "introduce": "<align=left><size=36><color=black>When Bedrock Tall-nut awoke from his slumber, the world before him was vastly different from the one he remembered. He had no idea how long he had slept, recalling only that he seemed to have been moved around frequently during his nap. Later, while chatting with other plants in the garden, he learned that he had been resold as an ancient artifact during the centuries he had slept through.</color>",
-            "info": "<size=36>An indestructible Tall-nut; it's resilience exists in a realm far beyond normal standards.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Toughness: </color><color=red>640000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Tall plant, anti-crush.\n<color=black>•</color> Immune to damage and mining progress. Can still be affected by insta-kill mechanics and the curse effect.</color>",
+            "info": "<size=36>An indestructible Tall-nut; its resilience exists in a realm far beyond normal standards.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Toughness: </color><color=red>640000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Tall plant, anti-crush.\n<color=black>•</color> Immune to damage and mining progress. Can still be affected by insta-kill mechanics and the curse effect.</color>",
             "cost": ""
         },
         {
