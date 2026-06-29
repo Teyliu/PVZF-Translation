@@ -2181,14 +2181,14 @@
             "seedType": 1127,
             "name": "Umbrella Clove",
             "introduce": "<align=left><size=36><color=black>\"Come, give Umbrella Clove a hug. You focus on opening the door; let Umbrella Clove handle the rest! The RV doesn't matter; it's the brains inside that count!\" Umbrella Clove says. \"And one more thing—fight zombies with zombies! And pour some tea for Umbrella Clove while you're at it! Zombies, zombies, go away!\"</color>",
-            "info": "<size=36>Umbrella Clove knocks back zombies and forces them to switch lanes.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Knocks back nearby zombies, dealing 40 damage, at the cost of Toughness, forcing them to change lanes. See Umbrella Husk.</color>",
+            "info": "<size=36>Umbrella Clove knocks back zombies and forces them to switch lanes.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Knocks back nearby zombies, dealing 40 damage, at the cost of Toughness, forcing them to change lanes. For specific self damage amounts, see Umbrella Husk.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Garlic + Umbrella Leaf</color>"
         },
         {
             "seedType": 1128,
             "name": "Umbrella Kale",
             "introduce": "<align=left><size=36><color=black>When asked about her secret to success, Umbrella Kale replied, \"Actually, I just really enjoy letting balls rest on my head.\" She paused, \"But the other plants all praise me as a top-notch protector.\"</color>",
-            "info": "<size=36>Umbrella Kale can bounce catapult-type projectiles to increase their damage. \n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Prioritized by catapults for targeting. Increases projectile damage by 75%.\n<color=black>•</color> If there are no zombies, it can store projectiles for a while.\n<color=black>•</color> Knocks back zombies at the cost of Toughness. See Umbrella Husk.</color>",
+            "info": "<size=36>Umbrella Kale can bounce catapult-type projectiles to increase their damage. \n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Prioritized by catapults for targeting. Increases projectile damage by 75%.\n<color=black>•</color> If there are no zombies, it can store projectiles for a while.\n<color=black>•</color> Knocks back zombies at the cost of Toughness. For specific self damage amounts, see Umbrella Husk.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult + Umbrella Leaf</color>"
         },
         {
@@ -2202,14 +2202,14 @@
             "seedType": 1130,
             "name": "Garlic Pot",
             "introduce": "<align=left><size=36><color=black>Garlic Pot has long wanted to help the plants in its pot get a thorough sterilization, especially those on the front lines in direct contact with zombies. However, it seems only garlic-type plants are willing to grow in its pot. \"Some plants would rather face zombies than catch my garlic smell,\" Garlic Pot sighed. \"Now I can only use garlic to disinfect garlic, and they just say it's a perfect match.\"</color>",
-            "info": "<size=36>Garlic Pot reduces the biting damage taken by garlic-type plants on top, and has a garlic effect itself.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Forces zombies to move towards the middle row.\n<color=black>•</color> Reduces the biting damage taken by garlic-type plants on top  to 10.</color>",
+            "info": "<size=36>Garlic Pot reduces the biting damage taken by garlic-type plants on top, and has a garlic effect itself.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Forces zombies to move towards the middle row.\n<color=black>•</color> Reduces the biting damage taken by garlic-type plants on top to 10.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Garlic > Flower Pot</color>"
         },
         {
             "seedType": 1131,
             "name": "Umbrella Rind",
             "introduce": "<align=left><size=36><color=black>\"Give me a melon; I'll repay you with kindness.\" Umbrella Rind has always admired this saying from ancient poetry. Plants don't need to bribe him for help—whatever they give, he returns. Well, except basketballs. He's a total basketball fan.</color>",
-            "info": "<size=36>Umbrella Rind can deflect most projectiles back at the zombies!\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can reflect zombie projectiles except tridents (return as melons if they are lobbed projectiles); loses 200 HP for reflecting projectiles that explode; loses 50 HP for reflecting Snow Balls.\n<color=black>•</color> Each reflection of projectiles stores energy equal to the projectile's damage, releasing it all on zombies for extra damage when the next knockback occurs.\n<color=black>•</color> Knocks back and deals 80 damage to zombies at the cost of Toughness. See Umbrella Husk. </color>",
+            "info": "<size=36>Umbrella Rind can deflect most projectiles back at the zombies!\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can reflect zombie projectiles except tridents (return as melons if they are lobbed projectiles); loses 200 HP for reflecting projectiles that explode; loses 50 HP for reflecting Snow Balls.\n<color=black>•</color> Each reflection of projectiles stores energy equal to the projectile's damage, releasing it all on zombies for extra damage when the next knockback occurs.\n<color=black>•</color> Knocks back and deals 80 damage to zombies at the cost of Toughness. For specific self damage amounts, see Umbrella Husk. </color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Umbrella Leaf + Melon-pult</color>"
         },
         {
@@ -2293,14 +2293,14 @@
             "seedType": 1143,
             "name": "Silver Umbrella",
             "introduce": "<align=left><size=36><color=black>Silver Umbrella is always anxious about someone stealing his money when he's away, so he carries his fortune with him everywhere—even into battle against zombies. He thinks this keeps his wealth safe, but it only adds new risks. \"That's my money; you can't take it!\" he complains, though no one ever listens.</color>",
-            "info": "<size=36>Silver Umbrella generates extra money for you when it deflects basketballs.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Drops 25 Coins each time it activates and knocks back approaching zombies, dealing 40 damage, at the cost of Toughness. See Umbrella Husk.</color>",
+            "info": "<size=36>Silver Umbrella generates extra money for you when it deflects basketballs.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Drops 25 Coins each time it activates and knocks back approaching zombies, dealing 40 damage, at the cost of Toughness. For specific self damage amounts, see Umbrella Husk.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Umbrella Leaf + Marigold</color>"
         },
         {
             "seedType": 1144,
             "name": "Golden Umbrella",
             "introduce": "<align=left><size=36><color=black>Golden Umbrella doesn't like this place—after a mishap in the water, it was shipped here alongside Silver Umbrella. The memory still frustrates him. \"It's unfair! Why am I the freebie here?\"</color>",
-            "info": "<size=36>Golden Umbrella deflects basketballs, generating extra Coins, and its ultimate move can knock airborne imps and repel all nearby zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Drops 50 Coins every time it deflects a basketball; knocks back approaching zombies, dealing 40 damage, at the cost of Toughness. See Umbrella Husk.</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 2000 Coins, Cooldown: 7.5s; knocks back all nearby zombies, drops 25 Coins/zombie, restores 1000 Toughness, yeets airborne imps, and drops 3 diamonds.</color>",
+            "info": "<size=36>Golden Umbrella deflects basketballs, generating extra Coins, and its ultimate move can knock airborne imps and repel all nearby zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>Drops 50 Coins every time it deflects a basketball; knocks back approaching zombies, dealing 40 damage, at the cost of Toughness. For specific self damage amounts, see Umbrella Husk.</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 2000 Coins, Cooldown: 7.5s; knocks back all nearby zombies, drops 25 Coins/zombie, restores 1000 Toughness, yeets airborne imps, and drops 3 diamonds.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins</color>"
         },
         {
@@ -2594,7 +2594,7 @@
             "seedType": 1186,
             "name": "Umbrella Thorn",
             "introduce": "<align=left><size=36><color=black>Umbrella Thorn just dropped his latest song, \"Prickly Cactus.\" With a hopeful glint in his eyes, he mused, \"Maybe one day, people will like me as much as they love roses. I know it won't happen overnight, but I'll keep trying my best.\"</color>",
-            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships.\n<color=black>Special: </color><color=#8B0000>Can only knock back flying zombies. Pops balloons. See Umbrella Husk for knockback mechanic details.</color>",
+            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships.",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cactus + Umbrella Leaf</color>"
         },
         {
@@ -2734,14 +2734,14 @@
             "seedType": 1206,
             "name": "Umbrella Shell",
             "introduce": "<align=left><size=36><color=black>Umbrella Shell is the trendiest hairstylist in the garden, known for its ability to create cool hairstyles on hard nut shells. Although the lifespan of this hairstyle is short, it doesn't stop people from loving it—and the opening of the sixth nut hair salon chain.</color>",
-            "info": "<size=36>Umbrella Shell can knock back zombies for a long time with its high endurance!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has the characteristics of Umbrella Leaf and Wall-nut. Can repel approaching zombies, dealing 40 damage every time.</color>",
+            "info": "<size=36>Umbrella Shell can knock back zombies for a long time with its high endurance!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has the characteristics of Umbrella Leaf and Wall-nut. Can repel approaching zombies, dealing 40 damage every time at the cost of its own health, for specific self damage amounts, see Umbrella Husk.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Wall-nut + Umbrella Leaf</color>"
         },
         {
             "seedType": 1207,
             "name": "Bombrella",
             "introduce": "<align=left><size=36><color=black>Bombrella has changed to a new hairstyle, making it look even more rebellious and irritable, like a delinquent wandering the streets. But don't be fooled by its appearance; it actually has a soft heart and even helps the barber clean up the fallen leaves.</color>",
-            "info": "<size=36>Bombrella causes small-scale cherry explosions when repelling zombies, and can harness the power of nearby cherry explosions to protect surrounding plants.\n\n<color=black>Toughness: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Umbrella Leaf.\n<color=black>•</color> Repels approaching zombies and release a small-range cherry explosion with a damage of 300. \n<color=black>•</color> Immune to explosive basketballs.\n<color=black>•</color> Each time a Cherry-fused defensive plant within a 3×3 area is healed by a cherry explosion or a Cherry Pot, it gains 1 energy level, up to 100.\n<color=black>•</color> Bombrella uses 2 levels to absorb any damage in the surrounding 3×3 area.</color>",
+            "info": "<size=36>Bombrella causes small-scale cherry explosions when repelling zombies, and can harness the power of nearby cherry explosions to protect surrounding plants.\n\n<color=black>Toughness: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Umbrella Leaf.\n<color=black>•</color> Repels approaching zombies and release a small-range cherry explosion with a damage of 300 at the cost of some of its own health, for specific self damage amounts, see Umbrella Husk. \n<color=black>•</color> Immune to explosive basketballs.\n<color=black>•</color> Each time a Cherry-fused defensive plant within a 3×3 area is healed by a cherry explosion or a Cherry Pot, it gains 1 energy level, up to 100.\n<color=black>•</color> Bombrella uses 2 levels to absorb any damage in the surrounding 3×3 area.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cherry Bomb + Umbrella Leaf</color>"
         },
         {
