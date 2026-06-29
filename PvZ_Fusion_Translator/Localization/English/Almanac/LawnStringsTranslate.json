@@ -2475,7 +2475,7 @@
             "seedType": 1169,
             "name": "Pumpkin Bunker",
             "introduce": "<align=left><size=36><color=black>Once, a pair of pumpkins dreamed of joining a circus. But after a magnetic mishap left them stuck together, they discovered a better calling: standing their ground as an impenetrable shield. The circus can wait.</color>",
-            "info": "<size=36>Pumpkin Bunker protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Can only be planted on plants that occupy 2 tiles. When moving the plant inside Pumpkin Bunker, the Pumpkin Bunker moves with it.\n<color=black>•</color> Plants within the Pumpkin Bunker become immune to cherry and Jack-in-the-box explosions.\n<color=black>•</color> Restores full HP when absorbing Jack-in-the-box explosions, restores 200 HP when absorbing cherry explosions, and can consume metal objects to restore 500 HP.</color>",
+            "info": "<size=36>Pumpkin Bunker protects two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Can only be planted on plants that occupy 2 tiles. When moving the plant inside Pumpkin Bunker, the Pumpkin Bunker moves with it.\n<color=black>•</color> Plants within the Pumpkin Bunker become immune to cherry and Jack-in-the-box explosions.\n<color=black>•</color> Restores full HP when absorbing Jack-in-the-box explosions, restores 200 HP when absorbing cherry explosions, and can consume metal objects to restore 500 HP.</color>",
             "cost": "<size=35>Fusion Recipe: <color=#8B0000>Joker Pumpkin ∞ [Magnet-shroom] ∞ Cherry Pumpkin < Jicamagic (Place On Middle)"
         },
         {
@@ -2783,7 +2783,7 @@
             "seedType": 1213,
             "name": "Dormant-shroom",
             "introduce": "<align=left><size=36><color=black>Using magnetism to confine nuclear energy is a topic that Dormant-shroom has been researching for a long time. This is a difficult task, and timing is crucial; numerous laboratories of his are now in ruins. However, it seems that the zombies are more eager for him to succeed than the plants.</color>",
-            "info": "<size=36>Dormant-shroom dies bit explode, but can be fused with metal to transform into a corresponding form.\n\n<color=black>Special: </color><color=#8B0000>Does not explode until further fusion.</color>",
+            "info": "<size=36>Dormant-shroom does not explode, but can be fused with metal to transform into a corresponding form.\n\n<color=black>Special: </color><color=#8B0000>Does not explode until further fusion.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Doom-shroom + Magnet-shroom</color>"
         },
         {
