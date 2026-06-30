@@ -3784,7 +3784,7 @@
             "seedType": 1356,
             "name": "Starburst-shroom",
             "introduce": "<align=left><size=36><color=black>When Starburst-shroom's star-shaped cap hits a zombie, it releases star projectiles, greatly improving projectile efficiency. \"Actually, if the backward-fired star were optimized as well, the efficiency could be even higher.\" One of his comrades commented while dodging the returning projectile.</color>",
-            "info": "<size=36>Starburst-shroom fires piercing star caps that deal no damage on their own, but split into five stars on contact, and they pierce infinitly.\n\n<color=black>Damage: </color><color=#8B0000>0 + 20×5×(0-3)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>The Star cap itself deals no damage and can pierce twice. Each time it contacts a zombie, it releases 1 star projectile in each of 5 directions, each dealing 20 damage.</color>",
+            "info": "<size=36>Starburst-shroom fires piercing star caps that deal no damage on their own, but split into five stars on contact.\n\n<color=black>Damage: </color><color=#8B0000>0 + 20×5×(0-3)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>The Star cap itself deals no damage and can pierce twice. Each time it contacts a zombie, it releases 1 star projectile in each of 5 directions, each dealing 20 damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Starfruit</color>"
         },
         {
