@@ -3210,7 +3210,7 @@
             "seedType": 1274,
             "name": "Blasty-shroom",
             "introduce": "<align=left><size=36><color=black>The meekest Cherry in the family, no tantrums, no shouting, and loved by many. \"I… kinda want to swear sometimes,\" she admits. \"But… I'm afraid someone might yell back.\"</color>",
-            "info": "<size=36>Blasty-shroom create and explosion when scared!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, hides and sets off a Cherry Bomb blast that deals 600 AoE damage.</color>",
+            "info": "<size=36>Blasty-shroom creates an explosion when scared!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, hides and sets off a Cherry Bomb blast that deals 600 AoE damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Cherry Bomb</color>"
         },
         {
