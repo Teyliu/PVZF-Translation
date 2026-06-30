@@ -764,7 +764,7 @@
     },
     {
       "seedType": 921,
-      "name": "3",
+      "name": "갈릭질라",
       "introduce": "<size=36><color=#3D1400>수수한 옷차림에 번쩍이는 금니 하나, 그가 한마디만 해도 모두가 도망칩니다. \"나 원 참, 마늘 냄새 풍기듯 주목받는 건 이제 끝이야. 튀는 건 딱 질색이라고. 이젠 그냥 조용하고 단순하게 살래.\"</color>",
       "info": "<size=36>냄새 하나는 죽이는 지상 최강의 방어 식물의 친척입니다.\n\n<color=#3D1400>사용 조건: </color><color=#8B0000>오디세이 | 체리질라 해금</color>\n<color=#3D1400>체력: </color><color=#8B0000>8000</color>\n<color=#3D1400>대미지 | 공격 쿨타임: </color><color=#8B0000>1000 | 1.75초</color>\n<color=#3D1400>공격 범위: </color><color=#8B0000>전방 2 타일</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>마늘의 특성을 계승되었으며 좀비들에게 독 디버프와 300 피해를 주는 폭발성 마늘을 발사합니다. </color>\n<color=#3D1400>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 체리질라의 아종\n<color=black>•</color> 더 이상 체리 폭탄으로 회복이 불가능합니다. (대신 면역)\n<color=#3D1400><page>오디세이 버프:</color><color=#8B0000>\n1. 체력 회복량 300%로 증가합니다.\n2. 소화시간이 15초로 줄어듭니다.</color>",
       "cost": "\n<size=36>전환식: <color=#8B0000>체리 폭탄 <-> 마늘</color>"
