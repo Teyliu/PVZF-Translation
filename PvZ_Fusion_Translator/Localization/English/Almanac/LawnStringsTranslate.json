@@ -235,7 +235,7 @@
             "seedType": 33,
             "name": "Saw-me-not",
             "introduce": "<align=left><size=36><color=black>For plants, spinning petals without damaging their stems is a skillful art. Some botanists speculate that Saw-me-not might be distantly related to Blover because of this ability. \"It's indeed a tricky skill,\" Saw-me-not said with a faux-profound air, \"The real challenge lies in obtaining lightweight circular saws and painting them with petal patterns.\"</color>",
-            "info": "<size=36>Saw-me-not damages zombies in close range with his spinning sawblades!\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains 5 points of Shield every 0.5s, up to 1×max HP points.\n<color=black>•</color> Spins blades when zombies get close, dealing piercing damage that scales down with more targets, to a minimum of 1.</color>\n<color=black>Shield Mechanic: </color><color=#8B0000>Shields provide a 20% damage reduction to protected plants.</color>",
+            "info": "<size=36>Saw-me-not damages zombies in close range with spinning sawblades!\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Gains 5 points of Shield every 0.5s, up to 1×max HP points.\n<color=black>•</color> Spins blades when zombies get close, dealing piercing damage that scales down with more targets, to a minimum of 1.</color>\n<color=black>Shield Mechanic: </color><color=#8B0000>Shields provide a 20% damage reduction to protected plants.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -277,14 +277,14 @@
             "seedType": 39,
             "name": "Bamblock",
             "introduce": "<align=left><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock's motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
-            "info": "<size=36>Bamblock damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Bamblocks.\n<color=black>•</color> Immune to crush.\n<color=black>•</color> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
+            "info": "<size=36>Bamblock damages incoming zombies at the cost of its own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Bamblocks.\n<color=black>•</color> Immune to crush.\n<color=black>•</color> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
             "seedType": 40,
             "name": "Hoarfrost Lichen",
             "introduce": "<align=left><size=36><color=black>To survive the frozen tundra, Hoarfrost Lichen evolved a coat of soft white fluff. But it's more trouble than it's worth - she sheds constantly, and other plants just can't resist patting her, like she's some wild dandelion.</color>",
-            "info": "<size=36>Hoarfrost Lichen bursts into a ring of snowballs, chilling both plants and zombies nearby.\n\n<color=black>Damage: </color><color=#8B0000>600×7</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Snowballs fired to the left deal 1 damage to plants and freeze plants in a 3×3 area.\n<color=black>•</color> All other snowballs deal 600 damage to zombies and apply Deep Freeze for 1 second.</color>",
+            "info": "<size=36>Hoarfrost Lichen bursts into a ring of snowballs, freezing both plants and zombies nearby.\n\n<color=black>Damage: </color><color=#8B0000>600×7</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Snowballs fired to the left deal 1 damage to plants and freeze plants in a 3×3 area.\n<color=black>•</color> All other snowballs deal 600 damage to zombies and apply Deep Freeze for 1 second.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -298,7 +298,7 @@
             "seedType": 218,
             "name": "Prickly Bear",
             "introduce": "<align=left><size=36><color=black>\"If one were to go travelling, where would be a good place to go?\"\nPrickly Bear often pondered this question, although he himself laid lazily in place. He was rather delighted to help dutiful bullets fly off in all directions to seek out unique scenery themselves.",
-            "info": "Deflects plant projectiles with a resilient body.\n\n<color=black>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of projectiles that come in contact with itself (left -> right, right -> left).\n<color=black>•</color> A maximum of 29 projectiles can be alternated in each 1.5s.</color>",
+            "info": "Prickly Bear reflects plant projectiles with a resilient body.\n\n<color=black>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of projectiles that come in contact with itself (left -> right, right -> left).\n<color=black>•</color> A maximum of 29 projectiles can be alternated in each 1.5s.</color>",
             "cost": ""
         },
         {
@@ -1355,14 +1355,14 @@
             "seedType": 1009,
             "name": "Solar Mine",
             "introduce": "<align=left><size=36><color=black>\"Stop at red lights, slow down at yellow lights, and obey traffic rules!\" Solar Mine frequently warns zombies. But to the zombies, all they see is the disgusting green hue before them. He clutches his green leaves and pouts, wishing for more sunshine. \"After all, sunshine is what fuels us all!\"</color></size>",
-            "info": "<size=36>Solar Mine produces Sun at a fast rate until it explodes into one last burst.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Sun Output: </color><color=#8B0000>25/15s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 25 Sun.\n<color=black>•</color> Drops 50 Sun on explosion.</color></size>",
+            "info": "<size=36>Solar Mine produces Sun at a fast rate until it explodes into a final burst.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Sun Output: </color><color=#8B0000>25/15s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 25 Sun.\n<color=black>•</color> Drops 50 Sun on explosion.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Sunflower + Potato Mine</color>"
         },
         {
             "seedType": 1010,
             "name": "Mine-nut",
             "introduce": "<align=left><size=36><color=black>Once seen as small and weak, Mine-nut now stood tall and strong, boasting a pair of big eyes and firm flesh. Yet beneath that sturdy exterior, he felt fragile and feared shrinking back to his former size. The zombies quipped, \"If you take another bite, you'll explode!\"</color></size>",
-            "info": "<size=36>Mine-nut can explode while being eaten and once when broken.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage Phases: </color><color=#8B0000>1333/2666</color>\n<color=black>Damage: </color><color=#8B0000>500/Phase Transition, 1800/Death</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Causes single-tiled explosions on damage phase transitions.</color></size>",
+            "info": "<size=36>Mine-nut can explode while being eaten and again once it is broken.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage Phases: </color><color=#8B0000>1333/2666</color>\n<color=black>Damage: </color><color=#8B0000>500/Phase Transition, 1800/Death</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Causes single-tiled explosions on damage phase transitions.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Wall-nut + Potato Mine</color>"
         },
         {
@@ -1376,7 +1376,7 @@
             "seedType": 1012,
             "name": "Chomp-nut",
             "introduce": "<align=left><size=36><color=black>As a young plant, Chomp-nut was notoriously picky about food, never swallowing zombies in one bite, which frustrated its parents. After much persuasion, Chomp-nut finally learned to consume zombies whole, just like its predecessors. \"I'm not picky! I just want to imitate how zombies eat. I should try something new, right? It's definitely not because I don't have a neck!\" Chomp-nut said while chewing on a zombie.</color></size>",
-            "info": "<size=36>Chomp-nut can restore his Toughness after eating zombies.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Restores 1000 Toughness after digestion.</color></size>",
+            "info": "<size=36>Chomp-nut can restore its Toughness after eating zombies.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Restores 1000 Toughness after digestion.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Wall-nut + Chomper</color>"
         },
         {
@@ -1432,7 +1432,7 @@
             "seedType": 1020,
             "name": "Buckshooter",
             "introduce": "<align=left><size=36><color=black>\"I carry my ancestors' spirit - I won't fall here!\" Buckshooter declared. When told his helmet looked like Buckethead Zombie's, he retorted, \"Then let's invoke their will and ride again!\"</color></size>",
-            "info": "<size=36>Buckshooter has the ability to instantly destroy handheld armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor (before damage reduction).</color></size>",
+            "info": "<size=36>Buckshooter can knock back zombies and instantly destroy handheld armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor (before damage reduction).</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Bucket > Peashooter</color>"
         },
         {
@@ -2069,14 +2069,14 @@
             "seedType": 1111,
             "name": "Solar-pult",
             "introduce": "<align=left><size=36><color=black>Some people ask why Solar-pult's little Suns disappear when thrown over the roof's right side. Solar-pult just smiles: \"Where do you think the front yard's Suns comes from?\"</color>",
-            "info": "<size=36>Launches solar cabbages to attack zombies and can also generate Sun.\n\n<color=black>Damage: </color><color=#8B0000>50/5s</color>\n<color=black>Special: </color><color=#8B0000>Returns 100 Sun upon fusion. Each shot bounces once after hitting a zombie. For every 200 Sun, it can bounce one more time; each bounce drops 5 Sun.</color></color>",
+            "info": "<size=36>Launches solar cabbages to attack zombies and generate sun.\n\n<color=black>Damage: </color><color=#8B0000>50/5s</color>\n<color=black>Special: </color><color=#8B0000>Returns 100 Sun upon fusion. Each shot bounces once after hitting a zombie. For every 200 Sun, it can bounce one more time; each bounce drops 5 Sun.</color></color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult + Sunflower"
         },
         {
             "seedType": 1112,
             "name": "Cabbage Pot",
             "introduce": "<align=left><size=36><color=black>\"I'm not just a pot to hold cabbages, and Cabbage-pult is not the weakest plant! Cabbage-pult and I are best buddies,\" Cabbage Pot says confidently. Their friendship might have come to be because... one of them is balding, and the other is already bald.</color>",
-            "info": "<size=36>Cabbage Pot provides attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult and Helios Cabbage above it by 25%, other Cabbage plants by 33%.</color>",
+            "info": "<size=36>Cabbage Pot provides an attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult and Helios Cabbage above it by 25%, other Cabbage plants by 33%.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult > Flower Pot</color>"
         },
         {
@@ -2111,7 +2111,7 @@
             "seedType": 1117,
             "name": "Clove-pult",
             "introduce": "<align=left><size=36><color=black>\"In the 90's, people widely believed that the best way to deal with zombies was with cornmeal and black dog blood. For us plants, garlic is a strategic resource,\" Clove-pult says with a wise demeanor.</color>",
-            "info": "<size=36>Clove-pult throws small cloves at the zombies; sometimes they're buttered, which can neget the poison cap!\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Each attack deals an additional 5×(target Poison value) damage and then accumulates 1 Poison point. \n<color=black>•</color> At 5 points, the Toxic Effect is applied.\n<color=black>•</color> Has a 1/4 chance to throw garlic butter with 60 damage, immobilizing zombies for 4s, immediately poisoning the zombie for 9s and raising the Poison value cap to 30 points.\n<color=#5E1675>Poisoned Debuff: </color>Zombies lose (20×Poison point) Toughness per second while poisoned.</color>",
+            "info": "<size=36>Clove-pult throws small cloves at the zombies; sometimes they're buttered, which can negate the poison cap!\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=#5E1675>Poison System: </color><color=#8B0000>\n<color=black>•</color> Each attack deals an additional 5×(target Poison value) damage and then accumulates 1 Poison point. \n<color=black>•</color> At 5 points, the Toxic Effect is applied.\n<color=black>•</color> Has a 1/4 chance to throw garlic butter with 60 damage, immobilizing zombies for 4s, immediately poisoning the zombie for 9s and raising the Poison value cap to 30 points.\n<color=#5E1675>Poisoned Debuff: </color>Zombies lose (20×Poison point) Toughness per second while poisoned.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Kernel-pult + Garlic</color>"
         },
         {
@@ -2153,7 +2153,7 @@
             "seedType": 1123,
             "name": "Cryo Cannon",
             "introduce": "<align=left><size=36><color=black>Despite his icy exterior, Cryo Cannon is warmhearted, especially to friends. In his free time, he enjoys skiing, drumming, and exploring caves. His best party trick? A cold joke to \"chill\" the crowd.</color>",
-            "info": "<size=36>Use Cryo Cannon manually to fire a freezing projectile that damages zombies and infuses plants with Ice-shroom.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Chill and infuses plants in its blast radius with Ice-shroom (except Flower Pots).</color>",
+            "info": "<size=36>Use Cryo Cannon manually to fire a freezing projectile that damages and freezes zombies and infuses plants with Ice-shroom.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Chill and infuses plants in its blast radius with Ice-shroom (except Flower Pots).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom > Cob Cannon</color>"
         },
         {
@@ -2167,7 +2167,7 @@
             "seedType": 1125,
             "name": "Melon Pot",
             "introduce": "<align=left><size=36><color=black>Frugal Melon Pot can't stand to see Melon-pult throw melons without a thought for cost, so after defeating the zombies, Melon Pot secretly collects the shattered melon fragments scattered on the ground. \"This is called soilless cultivation,\" Melon Pot explained. \"Not just any plant can be grown in the ground here; every inch of soil is precious.\"</color>",
-            "info": "<size=36>Melon Pot enhances melon-type plants by increasing their area of effect!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Returns an extra 150 Sun on fusion.\n<color=black>•</color> Doubles the splash damage of Melons above it, with no falloff; damage remains at 2/3 of base damage.</color>",
+            "info": "<size=36>Melon Pot enhances melon-type plants by removing their splash damage falloff!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Returns an extra 150 Sun on fusion.\n<color=black>•</color> Doubles the splash damage of Melons above it, with no falloff; damage remains at 2/3 of base damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Melon-pult > Flower Pot</color>"
         },
         {
@@ -2223,7 +2223,7 @@
             "seedType": 1133,
             "name": "Umbrella Pot",
             "introduce": "<align=left><size=36><color=black>Other flower pots are puzzled by the dense foliage of Umbrella Pot, but Umbrella Pot simply says, \"I just read the book <i>The Pot's Guide to Hair Care</i>.\"</color>",
-            "info": "<size=36>Umbrella Pot enhances umbrella-type plants in unique ways!\n\n<color=black>Umbrella Husk:</color> <color=#8B0000>+2 Seconds immobilization, +50% knockback distance</color>\n<color=black>Umbrella Clove, Umbrella Ultimate moves:</color> <color=#8B0000>Knockback distance ×2</color>\n<color=black>Umbrella Rind, Aegis:</color> <color=#8B0000>Damage of reflected projectiles ×2</color>\n<color=black>Umbrella Kale, Midas:</color> <color=#8B0000>Can attack zombies on adjacent lanes\n<color=black>Other Umbrellas: </color><color=#8B0000>Knockback distance +50%</color></color>",
+            "info": "<size=36>Umbrella Pot enhances umbrella-type plants in unique ways!\n\n<color=black>Umbrella Husk:</color> <color=#8B0000>+2 Seconds immobilization, +50% knockback distance</color>\n<color=black>Umbrella Clove, Umbrella Ultimate Moves:</color> <color=#8B0000>Knockback distance ×2</color>\n<color=black>Umbrella Rind, Aegis:</color> <color=#8B0000>Damage of reflected projectiles ×2</color>\n<color=black>Umbrella Kale, Midas:</color> <color=#8B0000>Can attack zombies on adjacent lanes\n<color=black>Other Umbrellas: </color><color=#8B0000>Knockback distance +50%</color></color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Umbrella Leaf > Flower Pot</color>"
         },
         {
@@ -3567,7 +3567,7 @@
             "seedType": 1325,
             "name": "Sundae-shroom",
             "introduce": "<align=left><size=36><color=black>As rare as a polar sunrise, this frosty innovator spends all his time perfecting his craft of dessert-making. His signature sundae is the Sunny Orange Delight, loved by plants and zombies alike (even if it drains the last of their warmth).</color>",
-            "info": "<size=36>When Sundae-shroom produces sun, it chills all zombies on screen, eventually disappearing and freezing zombies on screen after enough production..\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> At each sun production, makes all frozen zombies drop 15 sun.\n<color=black>•</color> For the first two sun production cycles, triggers Ice-shroom effects that inflict chill but don't freeze. On the third cycle, triggers full Ice-shroom effect, then disappears.</color>",
+            "info": "<size=36>When Sundae-shroom produces sun, it chills all zombies on screen, eventually disappearing and freezing zombies on screen after enough production.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> At each sun production, makes all frozen zombies drop 15 sun.\n<color=black>•</color> For the first two sun production cycles, triggers Ice-shroom effects that inflict chill but don't freeze. On the third cycle, triggers full Ice-shroom effect, then disappears.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Sunflower + Ice-shroom</color>"
         },
         {
@@ -4106,84 +4106,84 @@
             "seedType": 1402,
             "name": "Bamblichen",
             "introduce": "<align=left><size=36><color=black>Snowman-building is one of the most common pastimes in the Snowy Plains, and Snowthorn Winter Shoot Barricade especially enjoys making itself into a snowman. Blending into the snowmen not only conceals itself, but also allows it to severely punish zombies who kick them around. Hearing their screams echo across the wilderness is a lesson etched deep into the bones.</color>",
-            "info": "Covered in white fluff, this winter shoot barricade puffs up when fighting zombies.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Upon contact with zombies, bursts into a ring of snowballs: 5 are black snowballs dealing 100 damage, and 3 are white snowballs.</color>",
+            "info": "Bamblichen releases a ring of snowballs every time it takes a hit!<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Upon contact with zombies, bursts into a ring of snowballs: 5 are black snowballs dealing 100 damage, and 3 are white snowballs.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Bamblock + Hoarfrost Lichen</color>"
         },
         {
             "seedType": 1403,
             "name": "Hoarfrost Lotus",
             "introduce": "<align=left><size=36><color=black>According to legend, lotus flowers in the Snowy Plains grow atop dangerous snowy peaks, visible only to the brave. Hoarfrost Lotus dismisses this idea. It grows at the ordinary mountain base, using every bit of strength to push through frozen soil and snow. The dark soil stains on its leaves speak of its effort. One does not need to reach the peak; stepping into the Snowy Plains itself is already an act of courage. Hoarfrost Lotus is the medal of that courage.</color>",
-            "info": "<size=36>A cold lotus that grants large amounts of ice charges to nearby plants.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Gains 1 ice charge every 5s. Gains 1/1/60 ice charges when affected by snowball/snow trident/blizzard respectively.\n<color=black>•</color> May consume 5 charges to awaken. Upon awakening, heals plants in a 3×3 area for 100 HP and applies Freeze, additionally awakening Snow Lotus-type plants and granting 5 ice charge to Aloe Aqua-type plants and Snowbloom Spruce. Afterwards, it enters at least 2s of CD.</color>",
+            "info": "<size=36>Hoarfrost Lotus uses the cold to grant charges to certain plants, but freezes plants nearby not adapted to the winter.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Gains 1 ice charge every 5s. Gains 1/1/60 ice charges when affected by snowball/snow trident/blizzard respectively.\n<color=black>•</color> May consume 5 charges to awaken. Upon awakening, heals plants in a 3×3 area for 100 HP and applies Freeze, additionally awakening Snow Lotus-type plants and granting 5 ice charge to Aloe Aqua-type plants and Snowbloom Spruce. Afterwards, it enters at least 2s of CD.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snow Lotus + Hoarfrost Lichen</color>"
         },
         {
             "seedType": 1404,
             "name": "Pea Pot",
             "introduce": "<align=left><size=36><color=black>Pea Pot is a devoted fan of the Peashooter. It dyed itself green, made leaf decorations out of paper pulp, and even modified an old vase into a pea cannon barrel. All that’s missing is an autograph.</color>",
-            "info": "<size=36>Peashooter family firing platform that uses recoil to generate additional firepower.\n\n<color=black>Special: </color><color=#8B0000>Peashooter-type plants on this tile trigger an extra rapid-fired 5 shots every time they fire 30 shots.</color>",
+            "info": "<size=36>Pea Pot makes certain Peashooter type plants on top shoot a burst 5 of their projectile once they've fired normally enough.\n\n<color=black>Special: </color><color=#8B0000>Peashooter-type plants on this tile trigger an extra rapid-fired 5 shots every time they fire 30 shots.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter > Flower Pot</color>"
         },
         {
             "seedType": 1405,
             "name": "Snipot",
             "introduce": "<align=left><size=36><color=black>From the perspective of the Snipot, using a sniper rifle is actually not difficult at all. You just need to know how to reload, how to chamber a round, and how to hand the reloaded rifle to a teammate who knows how to use it.</color>",
-            "info": "<size=36>Sniper family firing platform that uses recoil to generate additional firepower.\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
+            "info": "<size=36>Snipot causes Snipea type plants on top to perform a extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea > Flower Pot</color>"
         },
         {
             "seedType": 1406,
             "name": "Spruce Snowshooter",
             "introduce": "<align=left><size=36><color=black>\"Wanna snowball fight?\" Spruce Snowshooter always appears alongside that question. Snowball fights are his favorite and strongest snow sport, where he once achieved a legendary 1 vs 13 victory. \"Dare to ambush me? Hah! Take this!\"</color>",
-            "info": "<size=36>When hit by snowballs, it counterattacks by throwing snowballs forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>200×3 (black snowballs)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Does not target enemies directly. When hit by white snowballs, it scatters 3 black snowballs forward to attack zombies, and 3 white snowballs backward to freeze plants.</color>",
+            "info": "<size=36>When hit by snowballs, Spruce Snowshooter counterattacks by throwing snowballs forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>200×3 (black snowballs)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Does not target enemies directly. When hit by white snowballs, it scatters 3 black snowballs forward to attack zombies, and 3 white snowballs backward to freeze plants.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spruce Sharpshooter + Hoarfrost Lichen</color>"
         },
         {
             "seedType": 1407,
             "name": "Pumpkommando",
             "introduce": "<align=left><size=36><color=black>\"I'm already at full capacity!\" Pumpkommando shouts. \"Packed with pea bullets!\" Even though he always says this, he still tries to squeeze in a bit more space at the end, letting plants hide inside him to block zombie attacks.</color>",
-            "info": "<size=36>A pumpkin who has taken inspiration from Pea-storm Commando.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
+            "info": "<size=36>Pumpkommando fires regular Peas in bursts of 6, and has a chance to trigger an Ultimate Attack each time!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-storm Commando > Pumpkin</color>"
         },
         {
             "seedType": 1408,
             "name": "Doom-pult",
             "introduce": "<align=left><size=36><color=black>You can usually tell a watermelon's taste just by lightly tapping its surface. A crisp sound means a sweet melon, a dull sound means a fleshy one… and a deafening sound? That's a Doom Watermelon.</color>",
-            "info": "<size=36>Throws radiation-infused watermelons that explode on impact, releasing powerful blasts when craters form.\n\n<color=black>Damage: </color><color=#8B0000>1800/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles do not hit zombies directly; instead they trigger Doom-shroom explosions on landing (same damage, leaving Irradiated Craters).\n<color=black>•</color> If the landing tile already has a crater or is in water, it deals reduced damage (1/18) in a small area instead; this area's range increases if buffed by Melon Pot.\nIrradiated Crater applies Irradiated debuff to zombies on the same tile.</color>",
+            "info": "<size=36>Doom-pult throws radiation-infused watermelons that explode on impact, releasing powerful blasts when craters form.\n\n<color=black>Damage: </color><color=#8B0000>1800/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles do not hit zombies directly; instead they trigger Doom-shroom explosions on landing (same damage, leaving Irradiated Craters).\n<color=black>•</color> If the landing tile already has a crater or is in water, it deals reduced damage (1/18) in a small area instead; this area's range increases if buffed by Melon Pot.\nIrradiated Crater applies Irradiated debuff to zombies on the same tile.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Melon-pult</color>"
         },
         {
             "seedType": 1409,
             "name": "Aloe Nivea",
             "introduce": "<align=left><size=36><color=black>In snowball throwing, Aloe Nivea is a genius. With just a single leaf, he can accurately throw snowballs the size of fists, even juggling multiple at once. The only problem is his catching skills: snowballs often end up hitting his own head.</color>",
-            "info": "Continuously throws snowballs, keeping plants refreshed and chilled.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (black snowballs)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Gains 1/15 ice charge when affected by freeze or Ice-shroom effects.\n<color=black>•</color> Continuously throws snowballs at itself if no zombie is in range; if it has a target, there is a 25% chance to switch to throwing black snowballs at zombies.\n<color=black>•</color> When throwing white snowballs, can consume 3 ice charges to additionally throw white snowballs to each plant in front as far as 3 tiles ahead.</color>",
+            "info": "Aloe Nivea continuously throws snowballs, keeping plants refreshed and chilled.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (black snowballs)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Gains 1/15 ice charge when affected by freeze or Ice-shroom effects.\n<color=black>•</color> Continuously throws snowballs at itself if no zombie is in range; if it has a target, there is a 25% chance to switch to throwing black snowballs at zombies.\n<color=black>•</color> When throwing white snowballs, can consume 3 ice charges to additionally throw white snowballs to each plant in front as far as 3 tiles ahead.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua + Hoarfrost Lichen</color>"
         },
         {
             "seedType": 1410,
             "name": "Pumpkin Chest",
             "introduce": "<align=left><size=36><color=black>Pumpkin Chest is the ideal storage for plant seeds. During Halloween, every household prepares candy for visitors, and this pumpkin has become the perfect container. It has large capacity, solid quality, and a festive appearance, making it very popular. As for whether it secretly steals snacks when no one is watching… who knows.</color>",
-            "info": "<size=36>Can store plant seed packets for you.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000><color=black>•</color> Can store plant seed packets dropped on the field and retrieve them by clicking.\n<color=black>•</color> Seed packets are not retained when the Chest dies or when moving to the next round.\n<color=black>•</color> Has 27 slots. Stack limits per plant quality:\n\t-Base plants: 32\n\t-Basic fusions: 16\n\t-Advanced fusions: 8\n\t-Common Odyssey: 4\n\t-Epic Odyssey: 2\n\t-Legendary: 1\n<color=black>•</color> In Odyssey gacha mode, has 54 slots and all stack limits are 64.</color>",
+            "info": "<size=36>Pumpkin Chest can store plant seed packets for you.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000><color=black>•</color> Can store plant seed packets dropped on the field and retrieve them by clicking.\n<color=black>•</color> Seed packets are not retained when the Chest dies or when moving to the next round.\n<color=black>•</color> Has 27 slots. Stack limits per plant quality:\n\t-Base plants: 32\n\t-Basic fusions: 16\n\t-Advanced fusions: 8\n\t-Common Odyssey: 4\n\t-Epic Odyssey: 2\n\t-Legendary: 1\n<color=black>•</color> In Odyssey gacha mode, has 54 slots and all stack limits are 64.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pumpkin > Pumpkin (full HP)</color>"
         },
         {
             "seedType": 1411,
             "name": "Debris-pult",
             "introduce": "<align=left><size=36><color=black>Debris-pult is especially skilled at attaching other projectiles behind butter, launching surprise attacks against zombies who underestimate butter-based strikes. He also uses this technique to \"borrow\" teammates' lunches.</color>",
-            "info": "<size=36>Uses radiation energy to command adjacent catapult plants to fire in unison.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Irradiated debuff.\n<color=black>•</color> Starts with 10 radiation energy. Gains 1 energy whenever a zombie affected by Irradiated dies in its lane.\n<color=black>•</color> 25% chance to fire a 60-damage butter. Can also consume 1 energy each to trigger left and right adjacent catapult plants to fire immediately (only one standard shot, fired by itself).</color>",
+            "info": "<size=36>Debris-pult uses radiation energy to command adjacent catapult plants to fire in unison.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Irradiated debuff.\n<color=black>•</color> Starts with 10 radiation energy. Gains 1 energy whenever a zombie affected by Irradiated dies in its lane.\n<color=black>•</color> 25% chance to fire a 60-damage butter. Can also consume 1 energy each to trigger left and right adjacent catapult plants to fire immediately (only one standard shot, fired by itself).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Kernel-pult</color>"
         },
         {
             "seedType": 1412,
             "name": "Starshooter",
             "introduce": "<align=left><size=36><color=black>Starshooter is very proud of itself and believes it shines like a star in the sky. Although others tell it that it does not actually emit light capable of piercing fog or darkness, this does not affect its good mood, and it even helps decorate a city hall ceiling with a starry sky design.</color>",
-            "info": "<size=36>Fires star peas that split into multiple stars before impact.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectile split into 5 star projectiles in all directions every 0.5s (first at 0.2s), up to 5 times.</color>",
+            "info": "<size=36>Starshooter fires star peas that split into multiple stars before impact.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectile split into 5 star projectiles in all directions every 0.5s (first at 0.2s), up to 5 times.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter +Starfruit</color>"
         },
         {
             "seedType": 1413,
             "name": "Pyro Pumpkin",
             "introduce": "<align=left><size=36><color=black>Pyro Pumpkin is an excellent restaurant employee. He usually works as a waiter, performs magic tricks during festivals, and when something goes wrong in the kitchen, he can temporarily substitute as a gas stove.</color>",
-            "info": "<size=36>Stores thermal power; clicking releases it all for a powerful burst.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, deals 20 damage to the attacker and applies Enflamed.\n<color=black>•</color> Gains thermal energy equal to 10% of damage when affected by Jalapeno effects. Gains 60 thermal energy when an Enflamed zombie in its lane dies.\n<color=black>•</color> Max thermal energy: 1M. Every 30 points of energy increase bite reflection damage by +1. If thermal energy ≥ 1800, clicking or death consumes all energy to release a Jalapeno effect with damage equal to stored energy.</color>",
+            "info": "<size=36>Pyro Pumpkin stores thermal power; clicking releases it all for a powerful burst down the lane.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When bitten, deals 20 damage to the attacker and applies Enflamed.\n<color=black>•</color> Gains thermal energy equal to 10% of damage when affected by Jalapeno effects. Gains 60 thermal energy when an Enflamed zombie in its lane dies.\n<color=black>•</color> Max thermal energy: 1M. Every 30 points of energy increase bite reflection damage by +1. If thermal energy ≥ 1800, clicking or death consumes all energy to release a Jalapeno effect with damage equal to stored energy.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno > Pumpkin</color>"
         },
         {
@@ -4197,49 +4197,49 @@
             "seedType": 1415,
             "name": "Thornweed",
             "introduce": "<align=left><size=36><color=black>She used to be a simple Cactus working at the Mammoth research institute, addressing the elephants.</color>",
-            "info": "<size=36>A spikeweed that can strike aerial units.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Each attack fires 3 spikes upward; both regular attack and projectiles can hit flying zombies.</color>",
+            "info": "<size=36>Thornweed can shoot spikes upwards to attack zombies, even airborne ones!\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Each attack fires 3 spikes upward; both regular attack and projectiles can hit flying zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Cactus</color>"
         },
         {
             "seedType": 1416,
             "name": "Snow-me-not",
             "introduce": "<align=left><size=36><color=black>\"Don't worry, I won't hold my saw near you.\" Snow-me-not reassured the other plants. Although he does keep a firm grip on his circular saw, snow accumulating on the spinning blade is constantly flung everywhere by its high-speed rotation.</color>",
-            "info": "Rapidly spinning blades that fling snowballs; attack speed increases with more shields.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>5/0.02s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Saw-me-not traits.\n<color=black>•</color> Every 10 attacks, fires an additional snowball. Snowballs spiral outward: those heading towards the left are white snowballs; others deal 4× damage black snowballs.\n<color=black>•</color> Snowball attack speed increases by (Shield/Toughness)×, up to +100%</color>",
+            "info": "Snow-me-not uses its rapidly spinning blades to fling snowballs; attack speed increases with more shields.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>5/0.02s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Saw-me-not traits.\n<color=black>•</color> Every 10 attacks, fires an additional snowball. Snowballs spiral outward: those heading towards the left are white snowballs; others are black snowballs that deal 4× damage.\n<color=black>•</color> Snowball attack speed increases by (Shield/Toughness)×, up to +100%</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Saw-me-not + Hoarfrost Lichen</color>"
         },
         {
             "seedType": 1417,
             "name": "Bounceweed",
             "introduce": "<align=left><size=36><color=black>Bounceweed hates being mistaken for elderly bargain hunters going after leftovers at the market. He's actually someone who wakes early every day to grab the freshest veggies.</color>",
-            "info": "<size=36>Collects fallen projectiles and reflects them back at zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>When other catapulted projectiles land in the same lane, once at most every 0.7s, it attacks and bounces a copy of that projectile toward the nearest zombie in-lane; returns it along its path if no target exists.</color>",
+            "info": "<size=36>Bounceweed collects fallen projectiles and reflects them back at zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>When other catapulted projectiles land in the same lane, once at most every 0.7s, it attacks and bounces a copy of that projectile toward the nearest zombie in-lane; returns it along its path if no target exists.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Cabbage-pult</color>"
         },
         {
             "seedType": 1418,
             "name": "Springweed",
             "introduce": "<align=left><size=36><color=black>Unlike his lazy cousin, Springweed is very diligent in his work as a mental health therapist. So far, the only prescription he has ever written is: \"Go jump on a trampoline for a while.\"</color>",
-            "info": "<size=36>Knocks nearby zombies upward and disorients them.\n\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Launches zombies straight upward for a short time when attacking. Effect is reduced to 1/3 against gargantuars. Cannot launch boss zombies or vehicles.</color>",
+            "info": "<size=36>Springweed knocks nearby zombies upward and disorients them.\n\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Launches zombies straight upward for a short time when attacking. Effect is reduced to 1/3 against gargantuars. Cannot launch boss zombies or vehicles.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Melon-pult</color>"
         },
         {
             "seedType": 1419,
             "name": "Solarweed",
             "introduce": "<align=left><size=36><color=black>Solarweed clings tightly to the ground, a reflection of her love for Mother Earth. The buzzing vibrations underground are the finest rhythm of Earth's jazz, though the stomping of zombies passing over is her most hated noise.</color>",
-            "info": "<size=36>Generates sun when attacking.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Drops 5 sun on each attack.</color>",
+            "info": "<size=36>Solarweed generates sun when it pokes a zombie.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Drops 5 sun on each attack.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Sunflower + Spikeweed</color>"
         },
         {
             "seedType": 1420,
             "name": "Cyclover",
             "introduce": "<align=left><size=36><color=black>\"High fan power, do not touch.\" Cyclover warns anyone who tries to get close. \"And also, that's my face, not a fan brand logo.\"</color>",
-            "info": "<size=36>Blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and gargantuars.</color>",
+            "info": "<size=36>Cyclover blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and gargantuars.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Blover + Blover</color>"
         },
         {
             "seedType": 1421,
             "name": "Hot Potato",
             "introduce": "<align=left><size=36><color=black>Hot Potato only wanted to be an ordinary landmine, until an incendiary shell landed on his fuse. Though he's unhappy about no longer being able to stay hidden, becoming the darling of the mess hall has turned out to be a blessing in disguise.</color>",
-            "info": "<size=36>Ignites Small Peas and Potato Peas, creating Roasted Potatoes from them.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Affects certain projectiles that pass through it:\n\tSmall Peas, Potato Peas: Ignited, +20 damage\n\tRolling Wall-nuts: Damage ×2 and piercing count reset\n<color=black>•</color> For every 100+ projectiles affected, creates a non-fusable Roasted Potato ahead (Potato Peas count as 8 projectiles).\n<color=black>•</color> Triggers a Potato Mine explosion upon death.</color>",
+            "info": "<size=36>Hot Potato ignites Small Peas and Potato Peas, creating Roasted Potatoes from them.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Affects certain projectiles that pass through it:\n\tSmall Peas, Potato Peas: Ignited, +20 damage\n\tRolling Wall-nuts: Damage ×2 and piercing count reset\n<color=black>•</color> For every 100+ projectiles affected, creates a non-fusable Roasted Potato ahead (Potato Peas count as 8 projectiles).\n<color=black>•</color> Triggers a Potato Mine explosion upon death.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Torchwood</color>"
         },
         {
@@ -4253,28 +4253,28 @@
             "seedType": 1423,
             "name": "Pea-nut Commando",
             "introduce": "<align=left><size=36><color=black>Pea-nut Commando accepted an advertising deal. He was asked to wear a special Wall-nut outfit to promote the zombie brain supplement brand 'Nut-o-mix.' So far, the campaign has received zero complaints.</color>",
-            "info": "<size=36>Commando that fires rolling Wall-nuts.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Damage received is capped at 1/4 Toughness per hit.\n<color=black>•</color> 2% chance to shoot 6 giant Wall-nuts dealing 20× damage, and gain a Shield equal to 1/4 of its Toughness each attack.</color>",
+            "info": "<size=36>Pea-nut Commando fires mini rolling Wall-nuts, with its ultimate firing 6 Giant-nuts.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Damage received is capped at 1/4 Toughness per hit.\n<color=black>•</color> 2% chance to shoot 6 giant Wall-nuts dealing 20× damage, and gain a Shield equal to 1/4 of its Toughness each attack.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-storm Commando + Wall-nut</color>"
         },
         {
             "seedType": 1424,
             "name": "Snapper Snipea",
             "introduce": "<align=left><size=36><color=black>A good scope helps a sniper shoot more accurately. By the same logic, it can help a Chomper bite farther away. If your neighboring Chomper chews too loudly, perhaps try fitting him with a silencer.</color>",
-            "info": "<size=36>Under a sniper's aim, its shots devour enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Targets anywhere ahead across lanes, including airborne zombies.\n<color=black>•</color> Performs a Chomper devour effect before damage calculation. Every 6th attack is a headshot, allowing the devour effect to affect any non-mini-boss zombie and deal 1M damage.",
+            "info": "<size=36>Snapper Snipea devours any zombie it 'snipes'.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Targets anywhere ahead across lanes, including airborne zombies.\n<color=black>•</color> Performs a Chomper devour effect before damage calculation. Every 6th attack is a headshot, allowing the devour effect to affect any non-mini-boss zombie and deal 1M damage.",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea + Chomper</color>"
         },
         {
             "seedType": 1425,
             "name": "Shooty-shroom",
             "introduce": "<align=left><size=36><color=black>Shooty-shroom learned a remarkable rapid-fire pea tossing trick from the circus. No one knows just how many peas he can throw at that speed. He'd love to show it off to the zombies, but not when they get too close — that would reveal how the trick works.</color>",
-            "info": "<size=36>Rapidly increases its attack speed and damage, but loses everything when frightened.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Gains 5% attack speed and +1 damage after every attack, up to +150% attack speed and +30 damage. This bonus is reset when frightened.</color>",
+            "info": "<size=36>Shooy-shroom rapidly increases its attack speed and damage while firing, but loses everything when frightened.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Gains 5% attack speed and +1 damage after every attack, up to +150% attack speed and +30 damage. This bonus is reset when frightened.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Scaredy-shroom</color>"
         },
         {
             "seedType": 1426,
             "name": "Levitater",
             "introduce": "<align=left><size=36><color=black>Levitater is deeply troubled. He has a toothache, but can't find a dentist willing to operate on his tiny little tooth.</color>",
-            "info": "<size=36>Allows Potato Mines on its tile to rearm themselves after exploding.\n\n<color=black>Special: </color><color=#8B0000>When a Potato Mine-type plant on the same tile self-destructs upon contact with an enemy, it does not disappear and instead buries itself again to rearm (this ability has a 15s CD).</color>",
+            "info": "<size=36>Levitater allows Potato Mines on its tile to rearm themselves after exploding.\n\n<color=black>Special: </color><color=#8B0000>When a Potato Mine-type plant on the same tile self-destructs upon contact with an enemy, it does not disappear and instead buries itself again to rearm (this ability has a 15s CD).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Blover</color>"
         },
         {
