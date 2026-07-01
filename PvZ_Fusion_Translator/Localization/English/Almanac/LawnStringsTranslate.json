@@ -1614,7 +1614,7 @@
             "seedType": 1046,
             "name": "Doomspike-shroom",
             "introduce": "<align=left><size=36><color=black>Frost has wrapped around his body, stripping away the innocence of his youth. His eyes, colder and deadlier than any gun's barrel, now only show disdain for his enemies. He's become the reaper, the end of the line. Anyone caught in his frosty sights would do well to leave one less meal prepared at home.</color></size>",
-            "info": "<size=36>Doomspike-shroom can fire chilly doomspikes that peirce and deal damage in an area.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 5 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
+            "info": "<size=36>Doomspike-shroom can fire chilly doomspikes that pierce and deal damage in an area.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 5 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Ice-shroom + Doom-shroom</color>"
         },
         {
