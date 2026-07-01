@@ -1593,7 +1593,7 @@
             "seedType": 1043,
             "name": "Soot-shroom",
             "introduce": "<align=left><size=36><color=black>Soot-shroom, the misanthropic workaholic, can't stand the sight of zombies—too much of a distraction. He's got a small stash of bullets, but they're more than lethal enough. \"Don't bother me unless it's urgent. If you want them dead, just shoot them yourself.\" Still, his sharp efficiency keeps everyone looking up to him.</color></size>",
-            "info": "<size=36>Soot-shroom sends a high damaging fume accross the entire lane on click.\n\n<color=black>Damage: </color><color=#8B0000>1800/30s</color>\n<color=black>Special: </color><color=#8B0000>Click manually to attack all zombies in the row in front.</color></size>",
+            "info": "<size=36>Soot-shroom sends a high damaging fume across the entire lane on click.\n\n<color=black>Damage: </color><color=#8B0000>1800/30s</color>\n<color=black>Special: </color><color=#8B0000>Click manually to attack all zombies in the row in front.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Doom-shroom</color>"
         },
         {
