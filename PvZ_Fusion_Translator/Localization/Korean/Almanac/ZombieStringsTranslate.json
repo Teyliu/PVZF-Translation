@@ -1060,7 +1060,7 @@
             "theZombieType": 255,
             "name": "기가 양동이 봅슬레이",
             "introduce": "<align=left><size=36><color=black>기가 미식축구 호두 좀비 네 마리가 1년 치 급여를 모아 이 연장형 전동 썰매를 구매하고 개조했습니다. 이전 주인은 피겨 스케이팅에 꽤 소질이 있었지만, 그들은 이제 식물들에게 '백조의 호수' 대신 '사천왕' 공연만을 보여줄 생각입니다.</color>",
-            "info": "<size=36>전장에 기가 양동이 특전사 4마리로 구성된 분대를 출격시킵니다.\n\n<color=black>체력: </color><color=#4B0082>3000\n<color=black>이동 속도: </color><color=#4B0082>중간\n<color=black>특수 능력: </color>넉백에 면역, 식물을 무시합니다.\n<color=black>•</color><color=#4B0082> 0.1초마다 현재 체력의 1%에 해당하는 체력을 잃습니다.\n<color=black>•</color><color=#4B0082> 네 번째 열 및 그 왼쪽 열에 도달하면 즉시 사망하며, 사망 시 기가 양동이 특전사 4마리를 소환합니다.\n<color=black>오디세이 버프:</color><color=#4B0082>\n1. 이제 경직과 버터에 면역이 됩니다.\n2. 빠르게 등장하는 대신, 시간이 지남에 따라 속도가 느려집니다.</color>"
+            "info": "<size=36>전장에 기가 양동이 특전사 4마리로 구성된 분대를 출격시킵니다.\n\n<color=black>체력: </color><color=#4B0082>3000\n<color=black>이동 속도: </color><color=#4B0082>중간\n<color=black>특수 능력: </color>넉백에 면역, 식물을 무시합니다.\n<color=black>•</color><color=#4B0082> 0.1초마다 현재 체력의 1%에 해당하는 체력을 잃습니다.\n<color=black>•</color><color=#4B0082> 네 번째 열 및 그 왼쪽 열에 도달하면 즉시 사망하며, 사망 시 기가 양동이 특전사 4마리를 소환합니다.\n<color=black>오디세이 버프:</color><color=#4B0082>\n1. 이제 경직과 빙결에 면역이 됩니다.\n2. 빠르게 등장하는 대신, 시간이 지남에 따라 속도가 느려집니다.</color>"
         },
         {
             "theZombieType": 300,
