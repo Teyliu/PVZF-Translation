@@ -1943,7 +1943,7 @@
             "seedType": 1093,
             "name": "Starmorph",
             "introduce": "<align=left><size=36><color=black>Starmorph harbors a lifelong dream: to suck the stars from the sky. He spends every night staring at the starry heavens, imagining the day when his dream becomes reality.</color></size>",
-            "info": "<size=36>Starmorph can fuse with some iron materials from zombies to aquire their properties.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Deals double damage to iron zombies. Can fuse with Bucket, Pickaxe and Jack-in-the-Box.</color></size>",
+            "info": "<size=36>Starmorph can fuse with some iron materials from zombies to acquire their properties.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Deals double damage to iron zombies. Can fuse with Bucket, Pickaxe and Jack-in-the-Box.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Starfruit + Magnet-shroom</color>"
         },
         {
@@ -3196,7 +3196,7 @@
             "seedType": 1272,
             "name": "Berserker Snipea",
             "introduce": "<align=left><size=36><color=black>\"Ever heard plants whisper in the dead of night?\" He wipes his old rifle. \"She's slow, but she's never let me down…\" A dark light cuts the air. \"Time to beat my 48 out of 50 hit record.\"</color>",
-            "info": "<size=36>Berserker Snipea rapidly snipes zombies from accross the field, its shot pierce infinitly, and it can use charges to create explosions!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>100/0.3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Unlimited pierce; +1 Doom & Frenzy charge per hit.\n<color=black>•</color> Consumes 300 Doom charges to trigger a Doom-shroom blast (72× base damage) at the location of the first zombie hit.\n<color=black>•</color> Consumes 100 Frenzy charges for double the fire rate, lasting for 8s.\n<color=black>•</color> 10% chance to crit for 6× damage (crit is guaranteed against zombies with the Irradiated debuff).</color>",
+            "info": "<size=36>Berserker Snipea rapidly snipes zombies from accross the field with infinite pierce, and it can use charges to create explosions!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>100/0.3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Unlimited pierce; +1 Doom & Frenzy charge per hit.\n<color=black>•</color> Consumes 300 Doom charges to trigger a Doom-shroom blast (72× base damage) at the location of the first zombie hit.\n<color=black>•</color> Consumes 100 Frenzy charges for double the fire rate, lasting for 8s.\n<color=black>•</color> 10% chance to crit for 6× damage (crit is guaranteed against zombies with the Irradiated debuff).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea + Doom-shroom</color>"
         },
         {
