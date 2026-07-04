@@ -93,11 +93,12 @@ __The Blooms Community__  | Translation ideas and assistance
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
 English | Mamoru-kun, Cassidy, Ungoodapple, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
+English Correction | TheXL, QwwYQ, Bertie690, revo | 
 [French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md) | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu, lucazz, Mauricio, Vict | Hairy Nugget, Moonlight, Arooming
-Portuguese | No active translator | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
+Portuguese | EduardoSA8006 | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Shion, Cryda, JustNull | 
 Indonesian | Probkn, Ilham Gimank | 由羅 (Yura), Xelag, Seroja, Star Apple
