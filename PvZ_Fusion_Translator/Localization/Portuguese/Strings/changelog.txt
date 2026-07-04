@@ -1,0 +1,110 @@
+<align=center><size=20>Aviso Legal</size></align>
+A fonte oficial do PvZ Fusion é apenas o Bilibili do desenvolvedor, 蓝飘飘fly.</color>
+A única fonte válida desta tradução é esta comunidade: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> e as páginas do GitHub associadas.
+Fique longe de outras fontes como <color=#8B0000>pvzfusion.net</color> ou <color=#8B0000>pvzfusion.pro</color>, pois elas redistribuem nosso trabalho sem permissão.
+Se quiser mudar o idioma da tradução, confira o menu "Idiomas" no canto inferior direito deste menu.
+Visite nossa comunidade para futuras atualizações e suporte.
+
+<align=center><size=130%>Plants VS. Zombies: Fusion - Registro de Alterações da Atualização 3.7</size></align>
+
+1. Os Deuses: Evoluídos — Revolucionados
+- Adicionadas muitas opções de personalização de jogabilidade, incluindo limites de plantas, níveis de dificuldade e camadas de progressão.
+- Os modificadores agora vêm em múltiplas raridades e podem ser usados para obter novas plantas ou aprimorar as já existentes.
+- Fique de olho nos modificadores especiais distribuídos pelos deuses, eles podem virar o jogo!
+  * (Obs.: Você pode acessar esta fase pelo novo botão "Fases Recomendadas" no menu principal.)
+
+2. Novas Plantas
+- Fusões Básicas:
+  - Bamblíquen (Bambloco + Líquen-Gélido)
+  - Lótus-Gélido (Lótus-de-Neve + Líquen-Gélido)
+  - Vasoervilha (Disparervilha > Vaso de Flores)
+  - Ruínapulta (Ruínagumelo + Melãopulta)
+  - Babosa-Gélida (Babosa-Aquática + Líquen-Gélido)
+  - Abóbora-Baú (Abóbora > Abóbora (vida cheia))
+  - Escombropulta (Ruínagumelo + Milhopulta)
+  - Estrelervilha (Disparervilha + Carambola)
+  - Abóbora-Ígnea (Jalapeño > Abóbora)
+  - Alga-Ruína (Ruínagumelo > Alga-prendedora)
+  - Espinherva (Erva-Espinho + Cacto)
+  - Gela-me-não (Serra-me-não + Líquen-Gélido)
+  - Erva-Quicante (Erva-Espinho + Repolhopulta)
+  - Erva-Mola (Erva-Espinho + Melãopulta)
+  - Erva-Solar (Girassol + Erva-Espinho)
+  - Ciclotrevo (Trevo + Trevo)
+  - Batata-Quente (Batatamina + Tochalenho)
+  - Batata-Assada (gerada pela Batata-Quente)
+  - Disparogumelo (Disparervilha + Medogumelo)
+  - Levibatata (Batatamina + Trevo)
+- Fusões da Odisseia:
+  - Comuns:
+    - Glaciogumelo Tundral (Óbitogumelo + Gelogumelo)
+    - Taboa-Hipnótica (Hipnogumelo > Moça-Taboa)
+      * (Obs.: Você pode usar a pá para alternar entre suas formas aquática e terrestre.)
+    - Glaciogumelo Letal (Glaciogumelo Tundral + Ruínagumelo)
+  - Épicas:
+    - Magmagumelo (Napalmgumelo + Milhopulta)
+  - Únicas:
+    - Snipervaso (Snipervilha > Vaso de Flores)
+    - Comando-Abóbora (Comando Tempestervilha > Abóbora)
+    - Comando-Amendoim (Comando Tempestervilha + Noz-Obstáculo)
+    - Snipervilha Mordedora (Snipervilha + Carnívora)
+- Fusões Lendárias:
+  - Noz-Alta de Rocha-Matriz
+- Especiais/Diversos:
+  - Urso-Espinhoso
+
+3. Novos Zumbis
+- Comuns:
+  - Zumbi Cabeça-de-Alumínio
+  - Zumbi Mamute
+- Odisseia:
+  - Comuns
+    - Zumbi Garra-Gélida com Noz-Alta de Obsidiana
+    - Zumbi Astronoz-Cóptero
+    - Zumbi Cavaleiro Negro
+    - Zumbi Capitão-Cavaleiro de Chumbo Grosso
+    - Zumbi Diabo-na-Caixa
+    - Zumbi Mamute de Guerra
+    - Brigada de Trenó Chumbo-Grosso
+  - Chefes
+    - Cavaleiro do Cerasocetus
+
+4. Atualização da Odisseia
+- Adicionada a rota do Arquiduque Cavaleiro-da-Morte.
+- Ajustados os surgimentos de zumbis das rotas já existentes.
+- Adicionada a possibilidade de ganhar modificadores de Diamante de Os Deuses: Evoluídos em partidas normais da Odisseia.
+- Adicionado o modificador de sinergia Napalmgumelo + Doominator.
+- Adicionados mascotes:
+  - Jovem Duque (Arquiduque Cavaleiro-da-Morte)
+  - Filhote de Imperor (Arca do Pato de Imperor)
+  - Meca Planador-Celeste (Meca Andarilho-Celeste)
+
+5. Novas Fases
+- Minijogos:
+  - Gacha da Odisseia: Caixa Gacha
+  - Desafio do Carrinho de Mão
+  * (Obs.: Completar este minijogo desbloqueia permanentemente a nova ferramenta Carrinho de Mão.)
+  * (Você pode guardar uma planta dentro do Carrinho de Mão para replantá-la mais tarde.)
+  - Contra o Relógio
+
+6. Ajustes de Balanceamento
+- A Erva-Tocha agora pode incendiar projéteis de mini-noz.
+- Reduzida a velocidade dos zumbis Jóquei de Galinha e Hidroave.
+- Reduzida a quantidade de objetos de metal produzidos pelo Ímã Dyson, ao mesmo tempo em que se aumentou seu potencial de aumento de dano.
+- As mecânicas de "Maldição" (usadas pelo Arquiduque Cavaleiro-da-Morte e pelo Zumbi-com-Escada Elo-Vital) foram totalmente reformuladas.
+- O Gargântua Celestial agora só realiza um ataque de tela cheia logo após se tornar gigante.
+
+7. Otimizações de Qualidade de Vida
+- Se você não estiver na versão mais recente do jogo, uma opção de atualização ficará disponível no menu principal. (Requer conexão com a internet para funcionar)
+<color=red>* (AVISO: Isto NÃO foi testado nem verificado para funcionar com o mod de tradução Blooms.)</color>
+- Adicionada uma seção de Almanaque de Modificadores.
+- Reformulada a exibição de vida das plantas.
+- Reformulado o sistema de salvamento do modo Sobrevivência, incluindo mais espaços de salvamento e suporte a nomes personalizados.
+- Adicionada a possibilidade de visualizar a lista completa de zumbis de uma fase antes de começar.
+- Os zumbis não podem mais avançar entre os ataques se ainda tiverem que atacar uma planta.
+- Adicionado um sistema de variáveis ao Editor de Nós do Super Editor de Fases.
+- Os minijogos com o sistema de "Bênçãos e Maldições" agora têm um menu de seleção de dificuldade.
+- A Defesa de Torre agora fica no menu Desafios.
+
+9. Diversas correções de bugs e otimizações.
+
