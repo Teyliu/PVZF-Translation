@@ -1957,7 +1957,7 @@
             "seedType": 1095,
             "name": "Starpick",
             "introduce": "<align=left><size=36><color=black>\"It's remarkably pickaxe-like,\" Starpick commented, a hint of amusement in his tone. \"I can feel part of myself nestled in the ground, and it's quite pleasant—unless you're bothered by insects like centipedes.\" With a cheeky smile, he challenged, \"Why not take off my hat? You'll find I'm even more pickaxe-like than you!\"</color></size>",
-            "info": "<size=36>Starpick hides underground, therefor zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies. You can use metal objects on it to heal it by 500.</color></size>",
+            "info": "<size=36>Starpick hides underground, therefore zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies. You can use metal objects on it to heal it by 500.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pickaxe > Starmorph</color>"
         },
         {
