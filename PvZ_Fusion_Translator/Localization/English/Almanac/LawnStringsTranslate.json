@@ -2790,7 +2790,7 @@
             "seedType": 1214,
             "name": "Doomwarp-shroom",
             "introduce": "<align=left><size=36><color=black>\"Time travel personnel have passed through, complete. The time tunnel has exited the target world, complete. Observed impact is within the expected range, complete. Proceed to the next step, destroy the tunnel to prevent use by others or organizations.\" — \"Time Planning Bureau\"</color>",
-            "info": "<size=36>Doomwarp-shroom's explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion applies the Chronoshift effect for 30s or resets the remaining duration to 30s.</color>",
+            "info": "<size=36>Doomwarp-shroom's explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects. Explodes extremely fast.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion applies the Chronoshift effect for 30s or resets the remaining duration to 30s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chrono Core > Dormant-shroom</color>"
         },
         {
