@@ -2629,7 +2629,7 @@
             "seedType": 1191,
             "name": "Doom Cactus",
             "introduce": "<align=left><size=36><color=black>Doom Cactus is a firm believer in the Art of War of Plants: bide your time, strike hard, and leave nothing standing. Whether it's zombies shambling through the battlefield or armored rats scurrying for cover, one well-placed explosion is all it takes to turn the tide.</color>",
-            "info": "<size=36>Doom Cactus has a chance to spray doom thorns accross the entire field with each attack!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Each attack has a 0% starting chance of unleashing an Ultimate attack. If it fails, the chance is increased by 5% for the next attack.</color>\n<color=black>Ultimate: </color><color=#8B0000>Shoots a large number of thorns forward, which can hit airborne units.</color>",
+            "info": "<size=36>Doom Cactus has a chance to spray doom thorns across the entire field with each attack!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Each attack has a 0% starting chance of unleashing an Ultimate attack. If it fails, the chance is increased by 5% for the next attack.</color>\n<color=black>Ultimate: </color><color=#8B0000>Shoots a large number of thorns forward, which can hit airborne units.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cactus + Doom-shroom</color>"
         },
         {
@@ -2664,7 +2664,7 @@
             "seedType": 1196,
             "name": "Spring Melon",
             "introduce": "<align=left><size=36><color=black>\"Holding your breath, focusing, and striking with precision!\" Spring Melon is very patient, always waiting for the perfect moment to make a move. If you ask him how he manages to stay calm, he will always mention his mentor, Imitater.</color>",
-            "info": "<size=36>Spring Melon charges it's attack when no zombies are near, then uses that energy to launch a powerful melon when they get close!\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range:</color><color=#8B0000> 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
+            "info": "<size=36>Spring Melon charges its attack when no zombies are near, then uses that energy to launch a powerful melon when they get close!\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range:</color><color=#8B0000> 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Fume-shroom + Melon-pult</color>"
         },
         {
@@ -2993,7 +2993,7 @@
             "seedType": 1243,
             "name": "Cherry Pot",
             "introduce": "<align=left><size=36><color=black>Cherry Pot would rather give up her pay at the Zen Garden than be mistaken for a plant.\"Those lunatics can't get real cherries, so they're out here trying to eat anything cherry-flavored!\" Just talking about it makes her shudder.</color>",
-            "info": "<size=36>ACherry Pot heals the plant on her tile when it's affect by cherry explosions, and empowers Cherry-type shooters.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an attack speed boost (50%) for 5s to cherry shooting plants.</color>",
+            "info": "<size=36>Cherry Pot heals the plant on her tile when it's affected by cherry explosions, and empowers Cherry-type shooters.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an attack speed boost (50%) for 5s to cherry shooting plants.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cherry Bomb > Flower Pot</color>"
         },
         {
