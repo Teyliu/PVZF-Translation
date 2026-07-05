@@ -2594,7 +2594,7 @@
             "seedType": 1186,
             "name": "Umbrella Thorn",
             "introduce": "<align=left><size=36><color=black>Umbrella Thorn just dropped his latest song, \"Prickly Cactus.\" With a hopeful glint in his eyes, he mused, \"Maybe one day, people will like me as much as they love roses. I know it won't happen overnight, but I'll keep trying my best.\"</color>",
-            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships.\n<color=black>Special: </color><color=#8B0000>Can only knock back flying zombies. Pops balloons. See Umbrella Husk for knockback mechanic details.</color>",
+            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships. \n\n<color=black>Special: </color><color=#8B0000>Can only knock back flying zombies. Pops balloons. See Umbrella Husk for knockback mechanic details.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cactus + Umbrella Leaf</color>"
         },
         {
