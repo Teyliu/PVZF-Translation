@@ -2342,7 +2342,7 @@
             "seedType": 1150,
             "name": "Gold Magnet",
             "introduce": "<align=left><size=36><color=black>After working countless hours at an accountant firm, the Gold Magnet realized its terrifying attracting potential and switched careers to become a fighter. 'Honestly, this is way more fun than counting money,' it remarks. 'After all, money doesn't grow on trees, but they do somehow from crops.' That said, its plant companions often end up suffering from its antics.</color>",
-            "info": "<size=36>Gold Magnet attracts projectiles and makes you money for it!\n\n<color=black>Special: </color><color=#8B0000>Attracts straight-shooting projectiles from adjacent lanes and produces a 25 Coin for every projectile attracted.</color>",
+            "info": "<size=36>Gold Magnet forces plants to fire, attracts projectiles and makes you money for it!\n\n<color=black>Special: </color><color=#8B0000>Forces straight-shooting plants in adjacent lanes to fire, attracts straight-shooting projectiles from adjacent lanes and produces 25 coins for every projectile attracted.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Magnet-shroom + Marigold</color>"
         },
         {
