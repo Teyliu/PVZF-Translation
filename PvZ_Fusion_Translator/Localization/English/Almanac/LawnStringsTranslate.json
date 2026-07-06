@@ -4127,7 +4127,7 @@
             "seedType": 1405,
             "name": "Snipot",
             "introduce": "<align=left><size=36><color=black>From the perspective of the Snipot, using a sniper rifle is actually not difficult at all. You just need to know how to reload, how to chamber a round, and how to hand the reloaded rifle to a teammate who knows how to use it.</color>",
-            "info": "<size=36>Snipot causes Snipea type plants on top to perform a extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
+            "info": "<size=36>Snipot causes Snipea type plants on top to perform an extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea > Flower Pot</color>"
         },
         {
