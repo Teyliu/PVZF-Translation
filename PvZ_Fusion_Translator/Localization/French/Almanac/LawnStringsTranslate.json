@@ -4416,6 +4416,13 @@
             "introduce": "<align=left><size=36><color=black>La Lévipatate est profondément tourmentée. Elle a une rage de dents, mais ne trouve aucun dentiste prêt à opérer sa toute petite dent.</color>",
             "info": "<size=36>Permet aux Mines Patate posées sur sa case de se réarmer après avoir explosé.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsqu'une plante de type Mine Patate sur la même case s'autodétruit au contact d'un ennemi, elle ne disparaît pas et s'enterre à nouveau pour se réarmer (cette capacité a un TR de 15 s).</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate + Troufle</color>"
+        },
+        {
+            "seedType": 3000,
+            "name": "Plante Provisoire",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Les informations sur cette plante seront révélées lors d'une future mise à jour.",
+            "cost": ""
         }
     ]
 }

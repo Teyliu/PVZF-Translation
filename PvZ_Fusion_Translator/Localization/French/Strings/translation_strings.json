@@ -3501,5 +3501,15 @@
   "将整数转换为浮点数": "Convertit un entier en flottant",
   "将浮点数转换为整数（截断小数部分）": "Convertit un flottant en entier (partie décimale tronquée)",
   "将浮点数转换为字符串，可指定小数位数（0-6位）": "Convertit un flottant en chaîne de caractères (prend en charge 0 à 6 décimales)",
-  "通常有更好用的节点，给玩家添加旅行模式词条（基础/强究/僵尸）": "Accorde au joueur le modificateur d'Odyssée spécifié (Commun / Épique / Zombie) ; il existe une meilleure version de ce nœud"
+  "通常有更好用的节点，给玩家添加旅行模式词条（基础/强究/僵尸）": "Accorde au joueur le modificateur d'Odyssée spécifié (Commun / Épique / Zombie) ; il existe une meilleure version de ce nœud",
+  "选择你要进入的存档_RM": "Statistiques de dégâts",
+  "神秘：命运": "Récolte : Chaos",
+  "大帅": "Archiduc",
+  "无限": "Infini",
+  "发射": "Lancer",
+  "湮灭": "Annihilation",
+  "普度众生": "Charisme",
+  "新分组": "Nouveau groupe",
+  "折叠": "Réduire",
+  "展开": "Développer"
 }
