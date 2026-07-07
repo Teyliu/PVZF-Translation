@@ -231,13 +231,13 @@
         {
             "theZombieType": 38,
             "name": "メカ・ガーガンチュア",
-            "introduce": "<size=36><color=black>人気ゲーム『Plant Girls vs Zombies』から登場したゾンビ。</color>",
+            "introduce": "<size=36><color=black>人気ゲーム『Plant Girls vs. Zombies』から登場したゾンビ。</color>",
             "info": "<size=36>ゾンボス博士の別の発明で、凍結には免疫があり、躊躇せずに防御に突進します。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>コントロール効果に免疫があり、撃退されても動き続けますが、磁石キノコには弱いです。</color>"
         },
         {
             "theZombieType": 39,
             "name": "メカ・超級ガーガンチュア",
-            "introduce": "<size=36><color=black>人気ゲーム『Plant Girls vs Zombies』から登場したゾンビ。</color>",
+            "introduce": "<size=36><color=black>人気ゲーム『Plant Girls vs. Zombies』から登場したゾンビ。</color>",
             "info": "<size=36>ゾンボス博士の最新の発明で、この機械化されたバージョンは凍結に免疫があり、防御に直接突進します。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>コントロール効果に免疫があり、撃退されても動き続けますが、磁石キノコには弱いです。</color>"
         },
         {
@@ -292,7 +292,7 @@
             "theZombieType": 48,
             "name": "年獣ゾンビ",
             "introduce": "<size=36>",
-            "info": "<size=36>年獣ゾンビは強固な装甲を持つ。\n\n<color=black>耐久力：</color><color=#4B0082>8888+8888（装甲）</color>\n<color=black>弱点：</color><color=#4B0082>爆竹</color>"
+            "info": "<size=36>年獣ゾンビは強固な装甲を持つ。\n\n<color=black>耐久力：</color><color=#4B0082>8888+8888（装甲）</color>\n<color=black>弱点：</color><color=#4B0082>桜花火</color>"
         },
         {
             "theZombieType": 49,
@@ -334,7 +334,7 @@
             "theZombieType": 55,
             "name": "霜の軍団・氷塊ヘッドゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>「凍てつく雪原では、暖を取ることが何より大事。実は氷って、断熱材として優秀なんだよ」と、霜の軍団・氷塊ヘッドゾンビは誇らしげに語るが、誰も耳を貸さない。彼はまだ気づいていない。氷は防音材としても優秀だということに。</color>",
-            "info": "<size=36>氷のブロックヘルメットをかぶった軍団兵ゾンビ。\n\n<color=black>耐久力：</color><color=#4B0082>500+370（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却と凍結無効。極冷却には弱点あり。</color>"
+            "info": "<size=36>氷塊をかぶった軍団兵ゾンビ。\n\n<color=black>耐久力：</color><color=#4B0082>500+370（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却と凍結無効。極冷却には弱点あり。</color>"
         },
         {
             "theZombieType": 56,
@@ -352,13 +352,19 @@
             "theZombieType": 58,
             "name": "鉱夫ゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>「こんな世界に生きたくないんだ…」鉱夫ゾンビは、単調な日々に何の喜びも見いだせず、ただ黒曜石を掘り集めてポータルを作り、この世界から去ることだけを夢見ている。だが、ポータルの向こう側はさらに危険で、さらに退屈。点火する手段すら持たず、ポータルを起動する見込みはゼロだ。唯一知られている点火装置は、世界に二箇所しか存在しない古代ピラミッドの奥深くに眠っており、たいまつを掲げたゾンビたちがその周囲を徘徊している。</color>",
-            "info": "<size=36>ツルハシを手に、防衛を掘り進む孤独なゾンビ。\n\n<color=black>ダメージ：</color><color=#4B0082>50（非噛む）</color>\n<color=black>耐久力：</color><color=#4B0082>720+1400（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>攻撃ごとに採掘の進捗が蓄積され、100%に達すると即座にプラントが破壊されます。\n<color=black>※</color>採掘の進捗=(攻撃の数×ツルハシのダメージ)/プラントHP\n<color=black>※</color>出現時、ランダムなツルハシを装備（ツルハシ力は個体差あり）。 \n<color=black>※</color>対象の耐久力がツルハシ力を下回る場合、ツルハシのダメージが5倍になる\n<color=black>※</color>ツルハシタイル：\n<color=black>◎</color>金のツルハシ：150ダメージ｜4000力\n<color=black>◎</color>鉄のツルハシ：50ダメージ｜16000力\n<color=black>◎</color>ダイヤモンドのツルハシ：100ダメージ｜32000力\n<color=black>※</color>防御植物：ウォールナッツ、パンプキン、バーガー砲、霜梨。</color>"
+            "info": "<size=36>ツルハシを手に、防衛を掘り進む孤独なゾンビ。\n\n<color=black>ダメージ：</color><color=#4B0082>50（非噛む）</color>\n<color=black>耐久力：</color><color=#4B0082>720+1400（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>攻撃ごとに採掘の進捗が蓄積され、100%に達すると即座にプラントが破壊されます。\n<color=black>※</color>採掘の進捗=(攻撃の数×ツルハシのダメージ)/プラントHP\n<color=black>※</color>出現時、ランダムなツルハシを装備（ツルハシ力は個体差あり）。\n<color=black>※</color>対象の耐久力がツルハシ力を下回る場合、ツルハシのダメージが5倍になる\n<color=black>※</color>ツルハシタイル：\n<color=black>◎</color>金のツルハシ：150ダメージ｜4000力\n<color=black>◎</color>鉄のツルハシ：50ダメージ｜16000力\n<color=black>◎</color>ダイヤモンドのツルハシ：100ダメージ｜32000力\n<color=black>※</color>防御植物：ウォールナッツ、パンプキン、バーガー砲、霜梨。</color>"
         },
         {
             "theZombieType": 59,
             "name": "イルカヘッド新聞ゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>かつて人魚になることを夢見ていたイルカヘッド新聞ゾンビ。だが、彼を改造するはずだった外科医が上下を完全に間違えてしまった。</color>",
             "info": "<size=36>読書を邪魔されると怒り出し…そして新しい新聞紙を取りに帰る。\n\n<color=black>耐久力：</color><color=#4B0082>720+720（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>新聞紙を失うと移動速度が大幅に上昇し、進行方向が逆転。画面右側から退出すると、新たなイルカヘッド新聞ゾンビを召喚。催眠状態ではこの効果は発動しない。</color>"
+        },
+        {
+            "theZombieType": 60,
+            "name": "Boomer Missile",
+            "introduce": "<align=left><size=36><color=black>ドッカン！！</color>",
+            "info": "<size=36>オイラ、バクダン！オイラ、バクハツ！\n\n<color=black>耐久力：</color><color=#4B0082>1000</color>\n<color=black>スペシャル：</color><color=#4B0082>Can only be targeted by anti-air attacks. Missiles fire by Boomers can also be blown away by ブロウヴァーs.</color>"
         },
         {
             "theZombieType": 61,
@@ -369,7 +375,7 @@
         {
             "theZombieType": 62,
             "name": "ちびモフモフ霜獣",
-            "introduce": "<size=36><align=justified><size=36><color=black>まだ子どもながら、ちびモフモフ霜獣は大きな夢を抱いている——いたずら好きなインプたちと遊ぶよりも、偉大なる古霜モフモフ霜獣のように雪原を支配したいのだ。 キャンプを抜け出して名を上げようとした結果…うっかりプラントの領域に転がり込んでしまった。痛っ！</color>",
+            "introduce": "<size=36><align=justified><size=36><color=black>まだ子どもながら、ちびモフモフ霜獣は大きな夢を抱いている——いたずら好きなインプたちと遊ぶよりも、偉大なる古霜モフモフ霜獣のように雪原を支配したいのだ。キャンプを抜け出して名を上げようとした結果…うっかりプラントの領域に転がり込んでしまった。痛っ！</color>",
             "info": "<size=36>転がるのが大好きなちびモフモフ霜獣。でも、その冒険はほとんど生き残れない。\n\n<color=black>耐久力：</color><color=#4B0082>300</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>前方に転がって移動。プラントに衝突すると、現在のHP分のダメージを与えた後、死亡。\n<color=black>※</color>攻撃を2/3の確率で回避する。</color>"
         },
         {
@@ -383,6 +389,12 @@
             "name": "渚版のマイケル",
             "introduce": "<size=36><align=justified><size=36><color=black>フフッ～</color>",
             "info": "<size=36>バカンス中のマイケルは、失われた沿岸文明の石像発掘に夢中！波打ち際での新たな情熱が、彼のゾンビ召喚スタイルにも変化をもたらした。\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>HP500の「おどつてるゾンビの像」を4体召喚。15秒後、それぞれの像が破壊され、残りHPと同量のHPを持つビーチマイケルが出現する。\n<color=black>※</color>非ＴＤモードでは、像の出現位置は通常のマイケルゾンビが「おどつてるゾンビ」を召喚する場所と同じ。</color>"
+        },
+        {
+            "theZombieType": 65,
+            "name": "Stone Dancing Statue",
+            "introduce": "<align=left><size=36><color=black>Moe moai kyee~.</color>",
+            "info": "<size=36>Hm.\n\n<color=black>耐久力：</color><color=#4B0082>500</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Breaks and spawns a Beach Michael with HP equal to the statue's remaining HP 15秒after being summoned.\n<color=black>※</color>In 非TD modes, Statues appear in the same spots where a regular Michael would summon Dancing 棒高跳びゾンビs.</color>"
         },
         {
             "theZombieType": 66,
@@ -443,6 +455,84 @@
             "name": "ヒプノ唐辛子掘り手ゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>防衛線の背後に忍び込むことに長けたヒプノ唐辛子掘り手ゾンビは、魔力を帯びたツルハシを使ってプラントをゾンビへと変換する。しかし新たに生まれたゾンビたちは正義感が強く、待ち伏せ戦術を嫌うため彼女に反旗を翻す…知らぬ間に「待ち伏せする者を待ち伏せする」ことになってしまうのだ。</color>",
             "info": "<size=36>ツルハシを使ってプラントを催眠ゾンビに変換する。その後、自爆炎で催眠ゾンビを焼き払う。\n\n<color=black>耐久力：</color><color=#4B0082>1500</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>スタン無効。ツルハシが残っている場合、攻撃は以下の効果を持つ：\n<color=black> ◎</color>非防御系プラントをランダムな催眠ゾンボタニーに変換。\n<color=black> ◎</color>防御系プラントには500採掘進行度を付与。\n<color=black>※</color>バックラインに到達し地上へ出現すると、短時間後にヒプノ唐辛子ゾンビと同様に自爆。炎の列を放ち、同じレーンの催眠ゾンビにのみ作用し、1800ダメージを与える。</color>"
+        },
+        {
+            "theZombieType": 76,
+            "name": "トライデントガーガンチュア",
+            "introduce": "<align=left><size=36><color=black>Zombies with higher body fat float more easily, but the トライデントガーガンチュア Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
+            "info": "<size=36>An aquatic ガーガンチュア zombie that throws tridents instead of Imp zombies.\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Immune to Drowning.\n<color=black>※</color>Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to 催眠されたゾンビs each slam.</color>"
+        },
+        {
+            "theZombieType": 77,
+            "name": "チャンピオン棒高跳びゾンビ",
+            "introduce": "<align=left><size=36><color=black>Powerful burst strength is チャンピオン棒高跳びゾンビ's secret to victory. As long as he runs faster during his approach, he can leap farther when taking off - though he seems to have forgotten that pole vaulting is about jumping high, not jumping far.</color>",
+            "info": "<size=36>Excels at long-distance jumps, and with sufficient run-up can flawlessly clear obstacles.\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>When encountering the first plant, vaults forward 3 tiles and then loses the pole. Begins accelerating for a run-up upon entering the field. If the run-up lasts more than 8s, the jump won't be blocked by 背高植物.</color>"
+        },
+        {
+            "theZombieType": 78,
+            "name": "イミテーターフットボールゾンビ",
+            "introduce": "<align=left><size=36><color=black>The イミテーターフットボールゾンビ has never lost a single match in his entire career — an achievement most フットボールゾンビs can only dream of. His secret to victory is surprisingly simple: whenever the opponent is about to win, he just switches into their uniform.</color>",
+            "info": "<size=36>Changes into different-colored uniforms based on incoming damage intensity.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1400（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>After 15秒on the field, if he is still wearing his フットボールヘルメット, he becomes a regular フットボールゾンビ. Otherwise, he becomes a チャージャーフットボールゾンビ that ignores plant. If defeated within 3s of appearing, he instead becomes a 超級フットボールゾンビ with high 耐久力 whose helmet cannot be removed by 磁石キノコs.\n<color=black>弱点：</color><color=#4B0082>磁石キノコ</color>"
+        },
+        {
+            "theZombieType": 79,
+            "name": "チャージャーフットボールゾンビ",
+            "introduce": "<align=left><size=36><color=black>Rather than smashing through defenses head-on, the チャージャーフットボールゾンビ excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless 芝刈り機.</color>",
+            "info": "<size=36>Advances by nimbly circumventing blocking plants.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1400（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>Ignores plants.</color>"
+        },
+        {
+            "theZombieType": 80,
+            "name": "クロノナッツ棒高跳びゾンビ",
+            "introduce": "<align=left><size=36><color=black>Thanks to its unique ability to teleport, クロノナッツ棒高跳びゾンビ can easily tackle pole vaults of any height and clears the bar 100% of the time. The only problem giving him a headache right now is that he often lands in the stands.</color>",
+            "info": "<size=36>Uses its pole to open a temporal vortex and leap into unexpected places.\n\n<color=black>耐久力：</color><color=#4B0082>720 + 1100（装甲）</color>\n<color=black>移動速度：</color><color=#4B0082>Medium</color>\n<color=black>スペシャル：</color><color=#4B0082>When vaulting over a plant, it will teleport randomly on a tile within a 3x3 area. Drops a クロノコア upon death.</color>"
+        },
+        {
+            "theZombieType": 81,
+            "name": "コーチゾンビ",
+            "introduce": "<align=left><size=36><color=black>\"Don't walk away,\" what a touching phrase… unfortunately it's coming from the コーチゾンビ. Every 棒高跳びゾンビ already knows what he'll say next: \"Don't walk away, start running!\"</color>",
+            "info": "<size=36>Trains 棒高跳びゾンビs. If his manual is destroyed, he'll start barking orders and personally step in to lead.\n\n<color=black>耐久力：</color><color=#4B0082>720+720（盾膜）</color>\n<color=black>移動速度：</color><color=#4B0082>Slow; Medium Fast after manual is destroyed</color>\n<color=black>スペシャル：</color><color=#4B0082>Increases the jump distance of all pole-vaulting zombies in his lane by 1 tile. After his manual is destroyed, this bonus increases to 2 tiles and he summons a 棒高跳びゾンビ in the same lane.</color>"
+        },
+        {
+            "theZombieType": 82,
+            "name": "バケツヘッド新聞ゾンビ",
+            "introduce": "<align=left><size=36><color=black>What do 芝刈り機s, ポップコーン machines, and バケツヘッド新聞ゾンビs have in common? They're all tough as steel, painted red, very old — and they all creak when they move.</color>",
+            "info": "<size=36>Firmly believes in the protective power of metal, and shares his \"expertise\" with others through his magazine.\n\n<color=black>耐久力：</color><color=#4B0082>270+1100（装甲）+1100（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>On spawn, grants 50 被ダメージ減少値 to himself and all other新聞ゾンビs in the same lane. After his magazine is destroyed, this bonus increases to 100.</color>\n<color=black>弱点：</color><color=#4B0082>磁石キノコ</color>"
+        },
+        {
+            "theZombieType": 83,
+            "name": "ペンギンゾンビ",
+            "introduce": "<align=left><size=36><color=black>They're actually real penguins who achieved great feats in the Antarctic, so Doctor ゾンボス rewarded them with zombie-style contact lenses and the title of \"zombie\". Honestly, if they understood what that meant, they'd probably refuse.</color>",
+            "info": "<size=36>Cute on the outside, but dangerous in their preferred environment.\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却無効。Hops forward, dealing 100 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. During 吹雪s, can start sliding even without ice.</color>\n<color=black>弱点：</color><color=#4B0082>冬筍バリケード</color>"
+        },
+        {
+            "theZombieType": 84,
+            "name": "霜の軍団・ゾンビ",
+            "introduce": "<align=left><size=36><color=black>霜の軍団・ゾンビ believes he's different from those outside the frozen wastes. The frostbite scar on his chest is, to him, proof of his status as an adventurer. Still, he never dares take off his coat to show it: he's afraid of getting a second one.</color>",
+            "info": "<size=36>A basic zombie that inhabits the tundra.\n\n<color=black>耐久力：</color><color=#4B0082>270</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却・凍結無効。</color>"
+        },
+        {
+            "theZombieType": 85,
+            "name": "霜の軍団・圧縮氷塊ヘッドゾンビ",
+            "introduce": "<align=left><size=36><color=black>Don't worry, even if all the inner ice melts, he's not going to get water in his brain — he has got none of that left!</color>",
+            "info": "<size=36>A tundra zombie that uses layered ice as armor.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却・凍結無効。</color>"
+        },
+        {
+            "theZombieType": 86,
+            "name": "コウテイペンギンゾンビ",
+            "introduce": "<align=left><size=36><color=black>The fastest-sliding penguin is chosen as the Emperor Penguin. It leads the waddle, scouting safe paths, most penguins only dare step where it has already walked. As the best-fed among them, it's usually so heavy that when it slides an avalanche usually ensues.</color>",
+            "info": "<size=36>The king among penguins, capable of creating favorable conditions for its kind.\n\n<color=black>耐久力：</color><color=#4B0082>1440</color>\n<color=black>スペシャル：</color><color=#4B0082>冷却無効。Hops forward, dealing 500 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. If on a Snow map, triggers a 吹雪 immediately upon spawning; during 吹雪s, can start sliding even without ice.</color>\n<color=black>弱点：</color><color=#4B0082>冬筍バリケード</color>"
+        },
+        {
+            "theZombieType": 87,
+            "name": "鉄のコーンヘッドゾンビ",
+            "introduce": "<align=left><size=36><color=black>Aluminum-Shield Zombie is delightfully ecstatic that 磁石キノコ can't absorb his armor, but at the same time he's a bit puzzled — after all, silver-gray and hard things are Iron. That's just common sense for us zombies! \"Aluminum? What is that?\"</color>",
+            "info": "<size=36>Wears a sturdy and insulating aluminum helmet.\n\n<color=black>耐久力：</color><color=4B0082>270 + 1470（装甲）</color>\n<color=black>移動速度：</color><color=4B0082>Slow</color>"
+        },
+        {
+            "theZombieType": 88,
+            "name": "象ゾンビ",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>耐久力：</color><color=4B0082>6000</color>\n<color=black>移動速度：</color><color=4B0082>Slow</color>\n<color=black>スペシャル：</color><color=#4B0082>撃退無効。When moving forward, crushes plants and pushes 非ミニボス zombies beside its feet forward.</color>"
         },
         {
             "theZombieType": 100,
@@ -525,7 +615,7 @@
         {
             "theZombieType": 113,
             "name": "クジラ乗りシューター",
-            "introduce": "<size=36><color=black>「クジラ乗りゾンビと何が違うのかって？」クジラ乗りシューターはそう聞かれると、こう答える。 「ただ…ブーメランを投げるのが好きなんだ。」</color>",
+            "introduce": "<size=36><color=black>「クジラ乗りゾンビと何が違うのかって？」クジラ乗りシューターはそう聞かれると、こう答える。「ただ…ブーメランを投げるのが好きなんだ。」</color>",
             "info": "<size=36>クジラ乗りゾンビのバリエーション！\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>ジャンプ前後でピー豆をプラントに発射します。</color>"
         },
         {
@@ -601,6 +691,48 @@
             "info": "<size=36>自信満々で俊敏な、ゾンビ界のパルクールマスター。\n\n<color=blue>『Xiaoxiaosu』コラボゾンビ、「ツボ壊しモード」限定登場。</color>\n<color=black>耐久力：</color><color=#4B0082>9527</color>\n<color=black>スペシャル：</color><color=#4B0082>HPが2/3以下になると、レーンを切り替え、移動速度が3倍に上昇</color>"
         },
         {
+            "theZombieType": 126,
+            "name": "炎トールナッツゾンビ",
+            "introduce": "<align=left><size=36><color=black>炎トールナッツゾンビ is seething with rage, not because he has a bad temper or entered a chili-eating contest, but because he's had a falling-out with his brother, 氷トールナッツ Zombie. His brother prefers to eat mushrooms raw and frozen, while he insists mushrooms should be properly grilled before eating.</color>",
+            "info": "<size=36>Unafraid of the trials of fire, but particularly vulnerable to the cold.\n\n<color=black>ダメージ：</color><color=#4B0082>100</color>\n<color=black>耐久力：</color><color=#4B0082>270 + 2200（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>Immune to 炎上デバフ and ハラペーニョ効果s. Receives true damage equal to 1/3 of his 最大HP when affected by an 氷キノコ. Movement speed increases over time after appearance, up to 2× its initial speed.</color>"
+        },
+        {
+            "theZombieType": 127,
+            "name": "黒曜石のトールナッツゾンビ",
+            "introduce": "<align=left><size=36><color=black>Tempered by both frost and flame, 黒曜石のトールナッツゾンビ's head has become nearly indestructible!…That is, as long as the temperature doesn't change too quickly.</color>",
+            "info": "<size=36>Forged by ice and fire into extreme hardness, but ハラペーニョs and 氷キノコs remain his weakness.\n\n<color=black>ダメージ：</color><color=#4B0082>200</color>\n<color=black>耐久力：</color><color=#4B0082>1500 + 4500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>Immune to chill, freeze and 炎上. Has an innate 被ダメージ減少値 of 900. Receives true damage equal to 1/3 of his 最大HP when affected by an 氷キノコ or a ハラペーニョ. When a 氷トールナッツ Zombie and a 炎トールナッツゾンビ are in the same tile, they fuse into an 黒曜石のトールナッツゾンビ.</color>"
+        },
+        {
+            "theZombieType": 128,
+            "name": "太陽ナッツゾンビ",
+            "introduce": "<align=left><size=36><color=black>Unlike other zombies, 太陽ナッツゾンビ can satisfy most of its physiological needs simply by basking in sunlight. As for why it still obsessively chases brains like every other zombie - perhaps the craving for brains means far more to zombies than ordinary survival needs ever could.</color>",
+            "info": "<size=36>Periodically drains your sun.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>Drains 25 太陽 from the player every 15秒 if not stunned or frozen.</color>"
+        },
+        {
+            "theZombieType": 129,
+            "name": "双子太陽ナッツゾンビ",
+            "introduce": "<align=left><size=36><color=black>Compared to his peers, 双子太陽ナッツゾンビ boasts a more splendid appearance, a harder head, and far greater power, standing head and shoulders above the rest. But the trait he's most proud of, and the one that earned him the \"Most Unique Zombie\" award at Tombstone Festival, is this: he has four eyes.</color>",
+            "info": "<size=36>Consumes your sun to reduce incoming damage.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>Drains 25 太陽 from the player every 15秒not stunned or frozen. When taking damage, negates that damage and instead takes a fixed 20 damage while draining 5 太陽 from the player. When a ウォールナッツゾンビ and a 太陽ナッツゾンビ are in the same tile, they fuse into a 双子太陽ナッツゾンビ.</color>"
+        },
+        {
+            "theZombieType": 130,
+            "name": "ガトリングピーゾンビ",
+            "introduce": "<align=left><size=36><color=black>His overwhelming firepower lets him face any challenge in the coolest way possible. Whether you admit it or not, that's become his defining trait among zombies. In public, people don't even remember his name, just \"that guy with the weird headgear,\" which honestly stings a bit.</color>",
+            "info": "<size=36>Fires multiple peas at your plants.\n\n<color=black>ダメージ：</color><color=#4B0082>20×4/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>500</color>"
+        },
+        {
+            "theZombieType": 131,
+            "name": "霜の軍団・雪ガトリングピーゾンビ",
+            "introduce": "<align=left><size=36><color=black>The 霜の軍団・雪ガトリングピーゾンビ is extremely sensitive to cold. He bundles up in thick clothing and constantly fires the chill inside him out through his peas. He even refuses to eat brains below 20°C, yet he's still shivering 非stop.</color>",
+            "info": "<size=36>Fires multiple 雪ピー豆 at your plants and freezes them.\n\n<color=black>ダメージ：</color><color=#4B0082>20×4/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>500</color>\n<color=black>スペシャル：</color><color=#4B0082>Has a chance to freeze plants; deals 4× damage to 凍結プラントs.</color>"
+        },
+        {
+            "theZombieType": 195,
+            "name": "Sniper Commando Zombie",
+            "introduce": "<align=left><size=36><color=black>A bounty-hunter turned commando, Sniper Commando Zombie is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
+            "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>耐久力：</color><color=#4B0082>1000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Upon entry, targets the most valuable plant on the 芝生 (by 太陽 cost).\n<color=black>※</color>If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
+        },
+        {
             "theZombieType": 200,
             "name": "鮫雷艦ゾンビ",
             "introduce": "<size=36><color=black>「優れたダイバーは、潜るだけじゃなく、超級潜水艦も操縦できるべきだ！」そう豪語した鮫雷艦ゾンビは、潜水艦のギアを一段上げて、水中の支配者として突き進む。その背後には、雷のような推進音と、鮫のような殺気が漂っている。</color>",
@@ -609,7 +741,7 @@
         {
             "theZombieType": 201,
             "name": "マイケルゾンボニ",
-            "introduce": "<size=36><size=30><color=black>マイケルゾンボニは一体のゾンビではない——それはチームであり、演出であり、伝説である。ゾンボニ：ステージ設営担当。滑走しながら会場を整える。マイケルゾンボニ：視覚効果担当。ライト、煙、そしてゾンビ的カリスマを演出。マイケルゾンビ：本来は車内から挨拶する予定だったが、運転免許がないため降車を命じられた。 熱狂的なプラントファンに手を振るも、ピーシューターの飛び方がちょっと熱烈すぎた。</color>",
+            "introduce": "<size=36><size=30><color=black>マイケルゾンボニは一体のゾンビではない——それはチームであり、演出であり、伝説である。ゾンボニ：ステージ設営担当。滑走しながら会場を整える。マイケルゾンボニ：視覚効果担当。ライト、煙、そしてゾンビ的カリスマを演出。マイケルゾンビ：本来は車内から挨拶する予定だったが、運転免許がないため降車を命じられた。熱狂的なプラントファンに手を振るも、ピーシューターの飛び方がちょっと熱烈すぎた。</color>",
             "info": "<size=36><size=30>非常に高い防御力とスロー耐性。\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>死亡時に自動的にマイケルゾンビ、ゾンボニ、ボブスレーゾンビを召喚します。</color>"
         },
         {
@@ -753,13 +885,13 @@
         {
             "theZombieType": 225,
             "name": "超級バックショット大将",
-            "introduce": "<size=36><align=justified><size=36><color=black>鉄の肉体、鉄の意志、鉄の弾丸——そして、同僚の愚痴に対する皮肉たっぷりの態度。 「俺の弾で吹き飛ばされるようなゾンビは、鉄の鍛錬が足りないだけだ」そう語る彼は、恐れ知らずで無敵の戦士。</color>",
+            "introduce": "<size=36><align=justified><size=36><color=black>鉄の肉体、鉄の意志、鉄の弾丸——そして、同僚の愚痴に対する皮肉たっぷりの態度。「俺の弾で吹き飛ばされるようなゾンビは、鉄の鍛錬が足りないだけだ」そう語る彼は、恐れ知らずで無敵の戦士。</color>",
             "info": "<size=36>鉄でできた不屈の司令官。撃退？そんなものは存在しない。\n\n<color=black>ダメージ：</color><color=#4B0082>80/0.1秒</color>\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>撃退無効。高速で鉄ピー豆を連射し、前方の防衛を粉砕。催眠されたゾンビを撃退できます。</color>"
         },
         {
             "theZombieType": 226,
-            "name": "アルファアサシン部隊",
-            "introduce": "<size=36><align=justified><size=36><color=black>息よりも速く動き、影のように消える。アルファアサシン部隊は、標的を外すことなく、痕跡を残さず、ただゾンビの死体だけを置いていく。彼らは決して単独で行動せず、必要とあらば精鋭部隊として一斉展開される。「目撃者がいないのは、目撃者が残らないからだ」——それが彼らの流儀。</color>",
+            "name": "アサシン部隊（α）",
+            "introduce": "<size=36><align=justified><size=36><color=black>息よりも速く動き、影のように消える。アサシン部隊（α）は、標的を外すことなく、痕跡を残さず、ただゾンビの死体だけを置いていく。彼らは決して単独で行動せず、必要とあらば精鋭部隊として一斉展開される。「目撃者がいないのは、目撃者が残らないからだ」——それが彼らの流儀。</color>",
             "info": "<size=36>影のように現れ、嵐のように消える。ゾンビ界の暗殺精鋭部隊。\n\n<color=black>ダメージ：</color><color=#4B0082>500×2</color>\n<color=black>耐久力：</color><color=#4B0082>6000+6000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>催眠無効。通常はペアで出現。ミニボスとして登場時、1レーンに5体同時出現、HPが5倍に増加\n<color=black>※</color>致命ダメージを受けた際、他の部隊員が生存していれば戦闘不能状態に移行。\n<color=black>※</color>戦闘不能中、ダメージ無効・撃退無効（初回のみ）、弾を遮断。プラントにターゲットされない。\n<color=black>※</color>10秒後に復活、HP全回復、2.5タイル前進しながら突撃、接触したプラントに500ダメージ、びっくり箱の爆発を発動。\n<color=black>※</color>弱点：即死攻撃（チョンパーなど）で倒された場合：部隊全体が即座に消滅</color>\n<color=black>旅行モード強化：\n</color><color=#4B0082>①戦闘不能時は常に不死状態\n②ミニボスとして登場可能</color>"
         },
         {
@@ -841,6 +973,102 @@
             "info": "<size=36>改造されたポゴスティックで水路をジェットスキーのように駆け抜け、プラントへ突進。進行中にびっくり箱をばら撒く。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>非常に高速。プラントに阻まれると即死し、爆弾をばら撒く。非常に高速。プラントに阻まれると即死し、爆弾をばら撒く。爆弾はびっくり箱の爆発と同様に3.5タイル範囲で起爆。爆弾の総数は（命中したプラント数×芝生のレーン数）。死亡時には必ずびっくり箱の爆発を誘発する。</color>"
         },
         {
+            "theZombieType": 240,
+            "name": "Trident Jugger-nut ガーガンチュア",
+            "introduce": "<align=left><size=36><color=black>When ガーガンチュア of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut ガーガンチュア always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred ウォールナッツs.</color>",
+            "info": "<size=36>Has increased defense as different types of ガーガンチュア are present on the field.\n\n<color=black>耐久力：</color><color=#4B0082>18000</color>\n<color=black>移動速度：</color><color=#4B0082>Slow</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>For each type of ガーガンチュア or Elephant present on the field, damage taken is additionally reduced by 10%.\n<color=black>※</color>His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% 最大HP when throwing tridents</color>"
+        },
+        {
+            "theZombieType": 241,
+            "name": "Celestial ガーガンチュア",
+            "introduce": "<align=left><size=36><color=black>When the old Master ゾンボス refined the Elemental ガーガンチュア, he believed their training incomplete - he felt something invisible behind their powers he could not fully grasp. That unseen medium was Aether, the fifth element whispered of in forgotten notes, the substance that carries force, binds matter, and fills the space between. By anchoring the element into a ガーガンチュア's body, ゾンボス博士 created a titan that does not merely wield the elements, but moves through them as though the world itself were obliged to make way.</color>",
+            "info": "<size=36>When heavily wounded, becomes impervious to all effects, summons clones, and gains sky-crumbling power under their cover.\n\n<color=black>ダメージ：</color><color=#4B0082>4800 (smash)</color>\n<color=black>耐久力：</color><color=#4B0082>18000 +18000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Immune to hypnotization and 撃退. When the main body's HP first drops below 50% max, 炎上, 焼夷, Poison, Chill, and Freeze debuffs are removed; for each debuff removed, recovers HP equal to 5% of its maximum 耐久力, then permanently gains immunity to all five and butter. At the same time, summon one Element-infused ガーガンチュア clone in each row of this column, each with 1/3 of the main body's 耐久力. While any clone exists, the main body is immune to damage. If any clones remain after 15s, Celestial ガーガンチュア absorbs them all, enters gigantified state with double 耐久力 and 攻撃力, and afterward each of his attack additionally deals damage equal to (20% of 攻撃力 × [number of absorbed clones]) to 全プラント on the field.\n<color=black>※</color>When the main body's HP first drops below 1% max, recover HP equal to 5% of its max 耐久力.</color>"
+        },
+        {
+            "theZombieType": 242,
+            "name": "破壊ガトリング新聞ゾンビ",
+            "introduce": "<align=left><size=36><color=black>破壊ガトリング新聞ゾンビ is highly accomplished in both explosives science and nuclear physics. After dedicating half his life to science, he now chooses to hide his achievements and simply enjoy his crossword puzzles. But if anyone dares to disturb his reading time, he does not mind showing off his old graduation project.</color>",
+            "info": "<size=36>Fires hard-to-extinguish 破滅シェル and can forcibly heal himself by reducing his own lifespan.\n\n<color=black>ダメージ：</color><color=#4B0082>400 (bite) 1000 (doom shell)</color>\n<color=black>耐久力：</color><color=#4B0082>1500 +1500（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Scholar Zombieの特性を継承する。\n<color=black>※</color>After losing his newspaper, fires 4 破滅シェル every 0.5s. These each deal a total of 5 instances of damage to plants, with 1s between each instance of damage. After dealing damage to plants, recovers an equal amount of HP when taking damage but reduces own 最大HP by 1%.</color>"
+        },
+        {
+            "theZombieType": 243,
+            "name": "<u>アサシン部隊（Ω）</u>",
+            "introduce": "<align=left><size=36><color=black>Their blades can cut through anything. They can infiltrate any defense. Their coordination and teamwork have long since reached perfection. When they mobilize, they become a legion capable of sweeping aside all obstacles, rendering the garden's so-called impregnable defenses completely meaningless.</color>",
+            "info": "<size=36>Elite Assassin Zombies that deploy as a coordinated unit.\n\n<color=black>ダメージ：</color><color=#4B0082>500 × 2 (非噛)</color>\n<color=black>耐久力：</color><color=#4B0082>30000 +30000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Comes in a unit with 5 in each lane.\n<color=black>※</color>Has no resistance against insta-kills. When taking fatal damage, if another squadmate in the same unit is not incapacitated, they remain at 1 HP and enter an incapacitated state instead (up to 2 times).\n<color=black>※</color>While incapacitated, they're immune to damage and 撃退 (only for the first time), block 弾丸s, but won't be targeted by plants.\n<color=black>※</color>After 10秒 of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to 全プラント they collide with, and trigger a びっくり箱 Explosion.</color>"
+        },
+        {
+            "theZombieType": 244,
+            "name": "<u>Millennium Dragon & Warden<u>",
+            "introduce": "<color=black>Once upon a time, a dragon bearing a sword split the heavens during a peaceful autumn. Its body was formed from vine tendrils, with a corpse bound as its attendant and a sword erected as its coffin. Beholding the lush vegitation, it declared, \"When I first attained enlightenment ten thousand years ago, I never witnessed such strange wonders.\" Pointing with its tendrils, it shattered the landscape in an instant and drifted away. To this day, people remain uncertain whether it was a corpse, a plant, or a dragon; merely calling it the millennium-old undecaying bones.</color>",
+            "info": "\"Bind the body, release the spirit; I command thee immortality for a millennium.\"\n\n<color=black>耐久力：</color><color=#4B0082>15000 × 4</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Immune to 撃退, freezing, poison, stunning, redirection, and crushing.\n<color=black>※</color>First appears in its sealed form, guarded by the Millennium Warden. Any 催眠されたゾンビs will immediately die when coming in contact with the coffin.\n<color=black>※</color>There are 4 phases in total, each having 15k HP total. When its HP reaches 0, it will transition to the next phase, temporarily becoming invincible and restoring its full health. Each phase has a separate set of abilities, those being:\n<color=black>  • </color><color=#8a4700>Phase 1 (Hammer): </color>Steals the プレイヤーの木槌. Attacks 全プラント on the field, dealing 1000 damage (100 in any 非旅行モード). After that, every 3s, it will target the plant with the highest HP in each row.\n<color=black>  • </color><color=#0e6900>Phase 2 (手袋): </color>Steals the プレイヤーの手袋. Every 4s, it will move the rightmost 非ミニボス, 非flying zombie in each row forward by 2 tiles.\n<color=black>  • </color><color=#ab8e74>Phase 3 (シャベル): </color>Steals the プレイヤーのシャベル. Every 5s, it will dig up the plant that costs the lowest amount of sun on the field.\n<color=black>  • </color><color=#ff0000>Phase 4 (Dragon): </color>Now unsealed, uses all attacks from previous phases every 5s. When defeated, drops 種パケットs of all the plants it シャベルed previously.</color>"
+        },
+        {
+            "theZombieType": 245,
+            "name": "D.A.M.P. Disc",
+            "introduce": "<align=left><size=36><color=black>This modified 霜の軍団・空飛ぶ円盤; titled the \"Damage Absorption Mitigation Platform\" Disc (or D.A.M.P. Disc for short), has been significantly improved in terms of its 耐久力, strength, durability, and eco-friendliness. Dr. Edgar ゾンボス has called it his greatest technological advancement of the past week. 'I've eliminated all the flaws of the old model,' he said, 'including the pilot.'</color>",
+            "info": "<size=36>Emits a magnetic field to block plant damage absorption and bolden the resilience of zombies underneath it.\n\n<color=black>耐久力：</color><color=#4B0082>4500</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Plants beneath it cannot have their damage absorbed for 1 second.\n<color=black>※</color>Zombies that were previously under the D.A.M.P. Disc gain +100 被ダメージ減少値 (unstackable).</color>"
+        },
+        {
+            "theZombieType": 246,
+            "name": "アサシン狙撃兵（α）",
+            "introduce": "<align=left><size=36><color=black>He is the shadow hunter of the Zombie Special Forces. He lurks in the darkest corners, takes aim in the stillest moments, and is determined to become the ultimate member of the elusive Alpha Squad. He listens to the battle hymns, echoing their final notes from the edge of the mist — a familiar melody sung until his final breath.</color>",
+            "info": "<size=36>Stakes out targets from a distance; operates solo; and takes down enemies with certainty after 6 shots.\n\n<color=black>ダメージ：</color><color=#4B0082>500 (Sniper)</color>\n<color=black>耐久力：</color><color=#4B0082>3000 +3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>Immune to hypnotization and 撃退.\n<color=black>※</color>Begins attacking once he reaches the farthest-right column of the 芝生. Every 2 seconds, he will snipe the left-most plant in his lane that is not a pot (prioritizing パンプキンs -> plants -> drones).\n<color=black>※</color>Every 6th shot will instantly kill the plant he is targetting, regardless of damage absorption or reduction. If he is forced to switch lanes (excluding the zombie 手袋), the shot count is reset.</color>"
+        },
+        {
+            "theZombieType": 247,
+            "name": "ゾンビ魂",
+            "introduce": "<align=left><size=36><color=black>自己紹介なし</color>",
+            "info": "<size=36>情報なし</color>"
+        },
+        {
+            "theZombieType": 248,
+            "name": "黒曜石トールナッツ歩哨ゾンビ",
+            "introduce": "<align=left><size=36><color=black>黒曜石トールナッツ歩哨ゾンビ loves to meditate. He likes to find a quiet place to sit down, gently stroking his weathered obsidian head with his claws, producing a pleasing rustling sound. He lets his thoughts drift with time, only to gather again at some moment, pulling him back to reality. Looking at the obsidian powder he scraped off, he can't help but exclaim: \"Wow, I'm so cool I'm literally flaking!\"</color>",
+            "info": "<size=36><color=#4B0082>Possesses sharp 黒曜石氷爪 that deal tremendous damage.\n\n<color=black>ダメージ：</color>1000\n<color=black>耐久力：</color>720 + 4400（装甲）\n<color=black>移動速度：</color>Medium\n<color=black>スペシャル：</color>冷却・凍結無効。極冷却弱点。</color>"
+        },
+        {
+            "theZombieType": 249,
+            "name": "X",
+            "introduce": "<align=left><size=36><color=black>Few know the exact location of the raging Cherry Volcano, but ゾンボス博士 eventually found it and brought forth an ancient Cherry Giant Whale. A brave knight took on the task of taming it, and since then, deafening explosions have constantly echoed through the doctor's ranks.</color>",
+            "info": "<size=36><color=#4B0082>Harnessing the fury of the ancient giant whale, it leaps into the frontline, infusing 爆発的チェリー with devastating power.\n\n<color=black>弾丸 ダメージ：</color>300 (Cherry)\n1000 (Explosive Cherry)\n<color=black>ダメージ：</color>300 (非噛)\n<color=black>耐久力：</color>48000\n<color=black>移動速度：</color>Medium; Fast when Enraged\n<color=black>Traits:</color>\n<color=black>※</color>ミニボス. Immune to freeze and stuns.\n<color=black>※</color>Starts in a Calm state upon entering the field, and thereafter switches between this state and the Enraged state every 10 seconds.\n<color=black>※</color>When entering the Enraged state, it ignores plants and leaps forward 3 tiles.\n<color=black>※</color>Every 0.5 seconds, depending on its current state, it receives 1 corresponding 弾丸 as fire support in a random lane.\n<color=black>Calm State: </color>Fires 4 Cherries every 2 seconds.\n<color=black>Enraged State: </color>Movement speed is doubled. Fires 4 爆発的チェリー every 1 second. Furthermore, before the zombie's Explosive Cherry deals direct or スプラッシュダメージ, it increases the probability that the damage type of Cherry explosions received by the plant within 15 seconds becomes HP drain by 0.3%, up to a maximum of 30%.</color>"
+        },
+        {
+            "theZombieType": 250,
+            "name": "Astro Bucknut-copter Zombie",
+            "introduce": "<align=left><size=36><color=black>After being flattened and blown round countless times by spacetime turbulence, Astro Bucknut-copter Zombie finally brought back another version of himself from an alternate dimension. \"Excuse me, why would you rather bring your alternate self here instead of going to the alternate dimension to eat brains?\" Well now, this parallel version of him is helping by drawing fire away from him. He can eat more brains this way!</color>",
+            "info": "<size=36><color=#4B0082>Summons an alternate self to step forward and draw fire, while he himself sneaks in the air to wreak havoc.\n\n<color=black>耐久力：</color>3000 + 6000（装甲）\n<color=black>移動速度：</color>Slow; Alternate Self is Fast\n<color=black>スペシャル：</color>Spawns a spacetime alternate self in its lane upon entering the field\n<color=black>Main Body: </color>\n<color=black>※</color>Immune to ブロウヴァー effects.\n<color=black>※</color>While in the air, reduces the 攻撃力 of plants in a 3x3 area by 90%.\n<color=black>※</color>When shot down, randomly teleports within a 3x3 area and gains a 装甲 with 2000 耐久力.\n<color=black>Alternate Self: </color>\n<color=black>※</color>Immune to damage, movement speed ×3.\n<color=black>※</color>Disappears immediately when shot down, blown away, or moved to the second column from the left of the map.\n<color=black>弱点：</color>Thorn-nut, Umbrella Thorn, 黒曜石のトールナッツ</color>"
+        },
+        {
+            "theZombieType": 251,
+            "name": "Giga Charger Zombie ?",
+            "introduce": "<align=left><size=36><color=black>\"This is unfair! Football is a contact sport! Am I really being penalized just for tackling too hard?\" Giga Charger Zombie grumbled indignantly. \"Oh, certainly not. It was your horse that committed the foul; you may continue to participate in the match.\"</color>",
+            "info": "<size=36><color=#4B0082>Charges at plants riding a cursed steed in iron armor.\n\n<color=black>耐久力：</color>3000 + 6000（盾膜）\n<color=black>移動速度：</color>Medium Fast; Extremely Fast when Charging\n<color=black>Traits:</color>\n<color=black>※</color>撃退無効。\n<color=black>※</color>Rides a steed that crushes plants.\n<color=black>※</color>Enters by charging; upon hitting a plant, applies [0.05 × (Plant HP + 耐久力) / 2] curse stacks to that plant. Then advances steadily, applying [0.01 × (Plant HP + 耐久力) / 2] curse stacks when crushing.\n<color=black>※</color>When the steed is defeated, dismounts, fully restores HP, and transforms into a 超級フットボールゾンビ.</color>"
+        },
+        {
+            "theZombieType": 252,
+            "name": "Giga Charger Striker",
+            "introduce": "<align=left><size=36><color=black>Equipped with a powerful, long-range Gatling gun, and clad in tough football gear for himself and his mount, Giga Charger Striker bought his knighthood with three brain combo meals. Using his flag to command and coordinate with his comrades, he is fully armed from body to name. \"Perhaps we should give him a simpler name, like Tank,\" ゾンボス博士 remarked.</color>",
+            "info": "<size=36><color=#4B0082>Advances steadily riding a cursed steed in iron armor, summoning his subordinates to attack when the situation turns unfavorable.\n\n<color=black>ダメージ：</color>80x6/1.5s\n<color=black>耐久力：</color>4500 + 9000（盾膜）\n<color=black>移動速度：</color>Medium Fast\n<color=black>Traits:</color>\n<color=black>※</color>撃退無効。\n<color=black>※</color>Rides a steed that crushes plants.\n<color=black>※</color>When crushing, applies [0.01 × (Plant HP + 耐久力) / 2] curse stacks. When base HP falls below 50%, summons a column of Giga Charger Zombies. When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Striker Zombie.</color>"
+        },
+        {
+            "theZombieType": 253,
+            "name": "Giga Clown-in-the-Box Zombie ?",
+            "introduce": "<align=left><size=36><color=black>Giga Clown-in-the-Box Zombie is practically the busiest zombie in the graveyard. She participates in chess matches between the Striker and the 大公, plays the Man in the Iron Mask in the weekly medieval opera performances, serves as the center for the basketball team, and disguises herself as a horned devil to scare the Imp Zombies running around by the river. The rest of her time is spent mending the clothes she tore during these activities.</color>",
+            "info": "<size=36><color=#4B0082>Can throw cursed びっくり箱es from a distance.\n\n<color=black>耐久力：</color>720 + 4400（装甲）\n<color=black>スペシャル：</color>\n<color=black>※</color>Her びっくり箱 cannot be attracted by magnets.\n<color=black>※</color>Has a small chance of self-detonation after a short period of time, but a high probability of throwing it at the last column of plants.\n<color=black>※</color>When it explodes, it triggers a びっくり箱 explosion, applying [10% × (Plant HP + 耐久力) / 2] curse stacks to plants. The thrown bomb only deals 1000 physical damage.</color>"
+        },
+        {
+            "theZombieType": 254,
+            "name": "Giga 象ゾンビ ?",
+            "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, ゾンボス博士 decided that Giga 象ゾンビs should be deployed in squads of at most three. However, the Striker and the 大公 raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
+            "info": "<size=36><color=#4B0082>Guards the General and Commander until death.\n\n<color=black>耐久力：</color>18000\n<color=black>ダメージ：</color>1800\n<color=black>移動速度：</color>Slow\n<color=black>スペシャル：</color>\n<color=black>※</color>Only appears in Flag waves.\n<color=black>※</color>Immune to 撃退 and being hypnotized.\n<color=black>※</color>Regardless of where it comes from, takes damage on behalf of the 究極フットボールストライカー and Giga Football 大公.\n<color=black>※</color>Every 12th attack causes a crush, pushing 非ミニボス zombies at its feet forward by 0.74 tiles.\n<color=black>旅行モード強化： </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all ミニボス Zombies gain 100 被ダメージ減少値</color>"
+        },
+        {
+            "theZombieType": 255,
+            "name": "Striker Bobsled Zomboni ?",
+            "introduce": "<align=left><size=36><color=black>Four Gatling Black Olive Zombies pooled a year's worth of salary to buy and modify this extended motorized sled. Although its previous owner was quite skilled in ice dancing, rather than performing the 'Dance of the Little Swans', they now only intend to perform the 'Four Heavenly Kings' for the plants.</color>",
+            "info": "<size=36><color=#4B0082>Delivers a squad of Gatling Black Olive Zombies to the battlefield.\n\n<color=black>耐久力：</color>3000\n<color=black>移動速度：</color>Medium\n<color=black>スペシャル：</color>撃退無効。Ignores plants.\n<color=black>※</color>Loses HP equal to 1% of its 耐久力 every 0.1 seconds.\n<color=black>※</color>Instantly dies upon reaching the fourth column and to its left, spawning 4 Gatling Black Olive Zombies upon death.\n<color=black>旅行モード強化：</color>\n1. Now has immunity to Freeze and Butter.\n2. Now enters the battlefield rapidly, but its speed gradually decreases.</color>"
+        },
+        {
             "theZombieType": 300,
             "name": "チェリーガトリング学者ゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>「人生は数式だけじゃない…窓の外の葦とか、今夜の月光とか…」そう呟くチェリーガトリング学者ゾンビは、数独に苦戦しながらも、静かな哲学を語る。だが、大切な紙を失った瞬間、彼の思考は爆発へと転じる。「まずはこの数独を…いや、もういい。撃つ。」</color>",
@@ -867,7 +1095,7 @@
         {
             "theZombieType": 304,
             "name": "超級フットボールナッツエリートゾンビ",
-            "introduce": "<size=36><align=justified><size=36><color=black>不気味な領域の深淵から現れた、超級フットボールナッツエリートゾンビ。その存在は、闇・危険・混乱の象徴。彼自身も自らの起源を思い出せない。 ただ、過去は夜明けとともに消える明晰夢のようだったと語る。 彼は、闇の中でこそ真価を発揮する鍛え抜かれた戦士。</color>",
+            "introduce": "<size=36><align=justified><size=36><color=black>不気味な領域の深淵から現れた、超級フットボールナッツエリートゾンビ。その存在は、闇・危険・混乱の象徴。彼自身も自らの起源を思い出せない。ただ、過去は夜明けとともに消える明晰夢のようだったと語る。彼は、闇の中でこそ真価を発揮する鍛え抜かれた戦士。</color>",
             "info": "<size=36>記憶なき闇の戦士。その一歩が静寂を切り裂く。\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>3秒ごとに最大HPの5%を回復</color>"
         },
         {
@@ -1055,234 +1283,6 @@
             "name": "殉爆トライデント砲車ゾンビ",
             "introduce": "<size=36><align=justified><size=36><color=black>砲車部隊の最新ユニットとして配属された、歴戦のトライデント戦士。彼はかつてモフモフ霜獣をツンドラで狩り、ワニと沼地で格闘した。今、彼は芝生の前に立ち、静かに言う——「さあ、避けられるか？」その言葉の裏には、未発射のトライデントが秘める死の雨がある。</color>",
             "info": "<size=36>最後の一撃は、死後に訪れる。ベテランの誇りは散弾となる。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>重装トライデント砲車ゾンビの特性を継承\n<color=black>※</color>撃破時に未使用のトライデントが3.5タイル以内にランダム散布。散布されたトライデントは接触したプラントにダメージを与える</color>"
-        },
-        {
-            "theZombieType": 60,
-            "name": "Boomer Missile",
-            "introduce": "<align=left><size=36><color=black>ドッカン！！</color>",
-            "info": "<size=36>オイラ、バクダン！オイラ、バクハツ！\n\n<color=black>耐久力：</color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>Can only be targeted by anti-air attacks. Missiles fire by Boomers can also be blown away by ブロウヴァーs.</color>"
-        },
-        {
-            "theZombieType": 65,
-            "name": "Stone Dancing Statue",
-            "introduce": "<align=left><size=36><color=black>Moe moai kyee~.</color>",
-            "info": "<size=36>Hm.\n\n<color=black>耐久力：</color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Breaks and spawns a Beach Michael with HP equal to the statue's remaining HP 15秒after being summoned.\n<color=black>※</color>In 非TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
-        },
-        {
-            "theZombieType": 76,
-            "name": "Trident ガーガンチュア",
-            "introduce": "<align=left><size=36><color=black>Zombies with higher body fat float more easily, but the Trident ガーガンチュア Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
-            "info": "<size=36>An aquatic ガーガンチュア zombie that throws tridents instead of Imp zombies.\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Immune to Drowning.\n<color=black>※</color>Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
-        },
-        {
-            "theZombieType": 77,
-            "name": "Olympic Pole Vaulting Zombie",
-            "introduce": "<align=left><size=36><color=black>Powerful burst strength is Olympic Pole Vaulting Zombie's secret to victory. As long as he runs faster during his approach, he can leap farther when taking off - though he seems to have forgotten that pole vaulting is about jumping high, not jumping far.</color>",
-            "info": "<size=36>Excels at long-distance jumps, and with sufficient run-up can flawlessly clear obstacles.\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When encountering the first plant, vaults forward 3 tiles and then loses the pole. Begins accelerating for a run-up upon entering the field. If the run-up lasts more than 8s, the jump becomes unblockable by t全プラント.</color>"
-        },
-        {
-            "theZombieType": 78,
-            "name": "Chameleon Football Zombie",
-            "introduce": "<align=left><size=36><color=black>The Chameleon Football Zombie has never lost a single match in his entire career — an achievement most Football Zombies can only dream of. His secret to victory is surprisingly simple: whenever the opponent is about to win, he just switches into their uniform.</color>",
-            "info": "<size=36>Changes into different-colored uniforms based on incoming damage intensity.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1400（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>After 15秒on the field, if he is still wearing his フットボールヘルメット, he becomes a regular Football Zombie. Otherwise, he becomes a Charger Football Zombie that ignores plant. If defeated within 3s of appearing, he instead becomes a Giga Football Zombie with high 耐久力 whose helmet cannot be removed by Magnet-shrooms.\n<color=black>弱点：</color><color=#4B0082>Magnet-shroom</color>"
-        },
-        {
-            "theZombieType": 79,
-            "name": "Charger Football Zombie",
-            "introduce": "<align=left><size=36><color=black>Rather than smashing through defenses head-on, the Charger Football Zombie excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless 芝刈り機.</color>",
-            "info": "<size=36>Advances by nimbly circumventing blocking plants.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1400（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>Ignores plants.</color>"
-        },
-        {
-            "theZombieType": 80,
-            "name": "Chronovaulter Zombie",
-            "introduce": "<align=left><size=36><color=black>Thanks to its unique ability to teleport, Chronovaulter Zombie can easily tackle pole vaults of any height and clears the bar 100% of the time. The only problem giving him a headache right now is that he often lands in the stands.</color>",
-            "info": "<size=36>Uses its pole to open a temporal vortex and leap into unexpected places.\n\n<color=black>耐久力：</color><color=#4B0082>720 + 1100（装甲）</color>\n<color=black>移動速度：</color><color=#4B0082>Medium</color>\n<color=black>Traits: </color><color=#4B0082>When vaulting over a plant, it will teleport randomly on a tile within a 3x3 area. Drops a クロノコア upon death.</color>"
-        },
-        {
-            "theZombieType": 81,
-            "name": "Coach Zombie",
-            "introduce": "<align=left><size=36><color=black>\"Don't walk away,\" what a touching phrase… unfortunately it's coming from the Coach Zombie. Every pole vaulter already knows what he'll say next: \"Don't walk away, start running!\"</color>",
-            "info": "<size=36>Trains Pole Vaulting Zombies. If his manual is destroyed, he'll start barking orders and personally step in to lead.\n\n<color=black>耐久力：</color><color=#4B0082>720 + 720（盾膜）</color>\n<color=black>移動速度：</color><color=#4B0082>Slow; Medium Fast after manual is destroyed</color>\n<color=black>Traits: </color><color=#4B0082>Increases the jump distance of all pole-vaulting zombies in his lane by 1 tile. After his manual is destroyed, this bonus increases to 2 tiles and he summons a Pole Vaulting Zombie in the same lane.</color>"
-        },
-        {
-            "theZombieType": 82,
-            "name": "バケツヘッド新聞ゾンビ",
-            "introduce": "<align=left><size=36><color=black>What do 芝刈り機s, ポップコーン machines, and バケツヘッド新聞ゾンビs have in common? They're all tough as steel, painted red, very old — and they all creak when they move.</color>",
-            "info": "<size=36>Firmly believes in the protective power of metal, and shares his \"expertise\" with others through his magazine.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲） + 1100（盾膜）</color>\n<color=black>Traits: </color><color=#4B0082>On spawn, grants 50 被ダメージ減少値 to himself and all other新聞ゾンビs in the same lane. After his magazine is destroyed, this bonus increases to 100.</color>\n<color=black>弱点：</color><color=#4B0082>Magnet-shroom</color>"
-        },
-        {
-            "theZombieType": 83,
-            "name": "ペンギンゾンビ",
-            "introduce": "<align=left><size=36><color=black>They're actually real penguins who achieved great feats in the Antarctic, so Doctor ゾンボス rewarded them with zombie-style contact lenses and the title of \"zombie\". Honestly, if they understood what that meant, they'd probably refuse.</color>",
-            "info": "<size=36>Cute on the outside, but dangerous in their preferred environment.\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Hops forward, dealing 100 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. During 吹雪s, can start sliding even without ice.</color>\n<color=black>弱点：</color><color=#4B0082>冬筍バリケード</color>"
-        },
-        {
-            "theZombieType": 84,
-            "name": "霜の軍団・ゾンビ",
-            "introduce": "<align=left><size=36><color=black>霜の軍団・ゾンビ believes he's different from those outside the frozen wastes. The frostbite scar on his chest is, to him, proof of his status as an adventurer. Still, he never dares take off his coat to show it: he's afraid of getting a second one.</color>",
-            "info": "<size=36>A basic zombie that inhabits the tundra.\n\n<color=black>耐久力：</color><color=#4B0082>270</color>\n<color=black>Traits: </color><color=#4B0082>冷却・凍結無効。</color>"
-        },
-        {
-            "theZombieType": 85,
-            "name": "霜の軍団・圧縮氷塊ヘッドゾンビ",
-            "introduce": "<align=left><size=36><color=black>Don't worry, even if all the inner ice melts, he's not going to get water in his brain — he has got none of that left!</color>",
-            "info": "<size=36>A tundra zombie that uses layered ice as armor.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>冷却・凍結無効。</color>"
-        },
-        {
-            "theZombieType": 86,
-            "name": "コウテイペンギンゾンビ",
-            "introduce": "<align=left><size=36><color=black>The fastest-sliding penguin is chosen as the Emperor Penguin. It leads the waddle, scouting safe paths, most penguins only dare step where it has already walked. As the best-fed among them, it's usually so heavy that when it slides an avalanche usually ensues.</color>",
-            "info": "<size=36>The king among penguins, capable of creating favorable conditions for its kind.\n\n<color=black>耐久力：</color><color=#4B0082>1440</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Hops forward, dealing 500 damage twice to plants upon landing. On ice trails, slides forward and crushes plants. If on a Snow map, triggers a 吹雪 immediately upon spawning; during 吹雪s, can start sliding even without ice.</color>\n<color=black>弱点：</color><color=#4B0082>冬筍バリケード</color>"
-        },
-        {
-            "theZombieType": 87,
-            "name": "Aluminum-head Zombie",
-            "introduce": "<align=left><size=36><color=black>Aluminum-Shield Zombie is delightfully ecstatic that Magnet-shroom can't absorb his armor, but at the same time he's a bit puzzled — after all, silver-gray and hard things are Iron. That's just common sense for us zombies! \"Aluminum? What is that?\"</color>",
-            "info": "<size=36>Wears a sturdy and insulating aluminum helmet.\n\n<color=black>耐久力：</color><color=4B0082>270 + 1470（装甲）</color>\n<color=black>移動速度：</color><color=4B0082>Slow</color>"
-        },
-        {
-            "theZombieType": 88,
-            "name": "象ゾンビ",
-            "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>耐久力：</color><color=4B0082>6000</color>\n<color=black>移動速度：</color><color=4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>撃退無効。 When moving forward, crushes plants and pushes 非ミニボス zombies beside its feet forward.</color>"
-        },
-        {
-            "theZombieType": 126,
-            "name": "炎トールナッツゾンビ",
-            "introduce": "<align=left><size=36><color=black>炎トールナッツゾンビ is seething with rage, not because he has a bad temper or entered a chili-eating contest, but because he's had a falling-out with his brother, 氷トールナッツ Zombie. His brother prefers to eat mushrooms raw and frozen, while he insists mushrooms should be properly grilled before eating.</color>",
-            "info": "<size=36>Unafraid of the trials of fire, but particularly vulnerable to the cold.\n\n<color=black>ダメージ：</color><color=#4B0082>100</color>\n<color=black>耐久力：</color><color=#4B0082>270 + 2200（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>Immune to 炎上デバフ and ハラペーニョ効果s. Receives true damage equal to 1/3 of his 最大HP when affected by an 氷キノコ. Movement speed increases over time after appearance, up to 2× its initial speed.</color>"
-        },
-        {
-            "theZombieType": 127,
-            "name": "黒曜石のトールナッツゾンビ",
-            "introduce": "<align=left><size=36><color=black>Tempered by both frost and flame, 黒曜石のトールナッツゾンビ's head has become nearly indestructible!…That is, as long as the temperature doesn't change too quickly.</color>",
-            "info": "<size=36>Forged by ice and fire into extreme hardness, but ハラペーニョs and 氷キノコs remain his weakness.\n\n<color=black>ダメージ：</color><color=#4B0082>200</color>\n<color=black>耐久力：</color><color=#4B0082>1500 + 4500（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill, freeze and 炎上. Has an innate 被ダメージ減少値 of 900. Receives true damage equal to 1/3 of his 最大HP when affected by an 氷キノコ or a ハラペーニョ. When a 氷トールナッツ Zombie and a 炎トールナッツゾンビ are in the same tile, they fuse into an 黒曜石のトールナッツゾンビ.</color>"
-        },
-        {
-            "theZombieType": 128,
-            "name": "太陽ナッツゾンビ",
-            "introduce": "<align=left><size=36><color=black>Unlike other zombies, 太陽ナッツゾンビ can satisfy most of its physiological needs simply by basking in sunlight. As for why it still obsessively chases brains like every other zombie - perhaps the craving for brains means far more to zombies than ordinary survival needs ever could.</color>",
-            "info": "<size=36>Periodically drains your sun.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 太陽 from the player every 15秒 if not stunned or frozen.</color>"
-        },
-        {
-            "theZombieType": 129,
-            "name": "双子太陽ナッツゾンビ",
-            "introduce": "<align=left><size=36><color=black>Compared to his peers, 双子太陽ナッツゾンビ boasts a more splendid appearance, a harder head, and far greater power, standing head and shoulders above the rest. But the trait he's most proud of, and the one that earned him the \"Most Unique Zombie\" award at Tombstone Festival, is this: he has four eyes.</color>",
-            "info": "<size=36>Consumes your sun to reduce incoming damage.\n\n<color=black>耐久力：</color><color=#4B0082>270 + 1100（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>Drains 25 太陽 from the player every 15秒not stunned or frozen. When taking damage, negates that damage and instead takes a fixed 20 damage while draining 5 太陽 from the player. When a ウォールナッツゾンビ and a 太陽ナッツゾンビ are in the same tile, they fuse into a 双子太陽ナッツゾンビ.</color>"
-        },
-        {
-            "theZombieType": 130,
-            "name": "Gatling Pea Zombie",
-            "introduce": "<align=left><size=36><color=black>His overwhelming firepower lets him face any challenge in the coolest way possible. Whether you admit it or not, that's become his defining trait among zombies. In public, people don't even remember his name, just \"that guy with the weird headgear,\" which honestly stings a bit.</color>",
-            "info": "<size=36>Fires multiple peas at your plants.\n\n<color=black>ダメージ：</color><color=#4B0082>20×4/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>500</color>"
-        },
-        {
-            "theZombieType": 131,
-            "name": "Gatling Snow Zombie",
-            "introduce": "<align=left><size=36><color=black>The Gatling Snow Zombie is extremely sensitive to cold. He bundles up in thick clothing and constantly fires the chill inside him out through his peas. He even refuses to eat brains below 20°C, yet he's still shivering 非stop.</color>",
-            "info": "<size=36>Fires multiple 雪ピー豆 at your plants and freezes them.\n\n<color=black>ダメージ：</color><color=#4B0082>20×4/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Has a chance to freeze plants; deals 4× damage to frozen plants.</color>"
-        },
-        {
-            "theZombieType": 195,
-            "name": "Sniper Commando Zombie",
-            "introduce": "<align=left><size=36><color=black>A bounty-hunter turned commando, Sniper Commando Zombie is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
-            "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>耐久力：</color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Upon entry, targets the most valuable plant on the 芝生 (by 太陽 cost).\n<color=black>※</color>If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
-        },
-        {
-            "theZombieType": 240,
-            "name": "Trident Jugger-nut ガーガンチュア",
-            "introduce": "<align=left><size=36><color=black>When ガーガンチュア of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut ガーガンチュア always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred ウォールナッツs.</color>",
-            "info": "<size=36>Has increased defense as different types of ガーガンチュア are present on the field.\n\n<color=black>耐久力：</color><color=#4B0082>18000</color>\n<color=black>移動速度：</color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>For each type of ガーガンチュア or Elephant present on the field, damage taken is additionally reduced by 10%.\n<color=black>※</color>His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% 最大HP when throwing tridents</color>"
-        },
-        {
-            "theZombieType": 241,
-            "name": "Celestial ガーガンチュア",
-            "introduce": "<align=left><size=36><color=black>When the old Master ゾンボス refined the Elemental ガーガンチュア, he believed their training incomplete - he felt something invisible behind their powers he could not fully grasp. That unseen medium was Aether, the fifth element whispered of in forgotten notes, the substance that carries force, binds matter, and fills the space between. By anchoring the element into a ガーガンチュア's body, Dr. ゾンボス created a titan that does not merely wield the elements, but moves through them as though the world itself were obliged to make way.</color>",
-            "info": "<size=36>When heavily wounded, becomes impervious to all effects, summons clones, and gains sky-crumbling power under their cover.\n\n<color=black>ダメージ：</color><color=#4B0082>4800 (smash)</color>\n<color=black>耐久力：</color><color=#4B0082>18000 +18000（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Immune to hypnotization and 撃退. When the main body's HP first drops below 50% max, 炎上, Irradiated, Poison, Chill, and Freeze debuffs are removed; for each debuff removed, recovers HP equal to 5% of its maximum 耐久力, then permanently gains immunity to all five and butter. At the same time, summon one Element-infused ガーガンチュア clone in each row of this column, each with 1/3 of the main body's 耐久力. While any clone exists, the main body is immune to damage. If any clones remain after 15s, Celestial ガーガンチュア absorbs them all, enters gigantified state with double 耐久力 and 攻撃力, and afterward each of his attack additionally deals damage equal to (20% of 攻撃力 × [number of absorbed clones]) to 全プラント on the field.\n<color=black>※</color>When the main body's HP first drops below 1% max, recover HP equal to 5% of its max 耐久力.</color>"
-        },
-        {
-            "theZombieType": 242,
-            "name": "破壊ガトリング新聞ゾンビ",
-            "introduce": "<align=left><size=36><color=black>破壊ガトリング新聞ゾンビ is highly accomplished in both explosives science and nuclear physics. After dedicating half his life to science, he now chooses to hide his achievements and simply enjoy his crossword puzzles. But if anyone dares to disturb his reading time, he does not mind showing off his old graduation project.</color>",
-            "info": "<size=36>Fires hard-to-extinguish 破滅シェル and can forcibly heal himself by reducing his own lifespan.\n\n<color=black>ダメージ：</color><color=#4B0082>400 (bite) 1000 (doom shell)</color>\n<color=black>耐久力：</color><color=#4B0082>1500 +1500（盾膜）</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Inherits traits from Scholar Zombie.\n<color=black>※</color>After losing his newspaper, fires 4 破滅シェル every 0.5s. These each deal a total of 5 instances of damage to plants, with 1s between each instance of damage. After dealing damage to plants, recovers an equal amount of HP when taking damage but reduces own 最大HP by 1%.</color>"
-        },
-        {
-            "theZombieType": 243,
-            "name": "<u>Omega Assassin Squad</u>",
-            "introduce": "<align=left><size=36><color=black>Their blades can cut through anything. They can infiltrate any defense. Their coordination and teamwork have long since reached perfection. When they mobilize, they become a legion capable of sweeping aside all obstacles, rendering the garden's so-called impregnable defenses completely meaningless.</color>",
-            "info": "<size=36>Elite Assassin Zombies that deploy as a coordinated unit.\n\n<color=black>ダメージ：</color><color=#4B0082>500 × 2 (非bite)</color>\n<color=black>耐久力：</color><color=#4B0082>30000 +30000（盾膜）</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Comes in a unit with 5 in each lane.\n<color=black>※</color>Has no resistance against insta-kills. When taking fatal damage, if another squadmate in the same unit is not incapacitated, they remain at 1 HP and enter an incapacitated state instead (up to 2 times).\n<color=black>※</color>While incapacitated, they're immune to damage and 撃退 (only for the first time), block 弾丸s, but won't be targeted by plants.\n<color=black>※</color>After 10秒 of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to 全プラント they collide with, and trigger a びっくり箱 Explosion.</color>"
-        },
-        {
-            "theZombieType": 244,
-            "name": "<u>Millennium Dragon & Warden<u>",
-            "introduce": "<color=black>Once upon a time, a dragon bearing a sword split the heavens during a peaceful autumn. Its body was formed from vine tendrils, with a corpse bound as its attendant and a sword erected as its coffin. Beholding the lush vegitation, it declared, \"When I first attained enlightenment ten thousand years ago, I never witnessed such strange wonders.\" Pointing with its tendrils, it shattered the landscape in an instant and drifted away. To this day, people remain uncertain whether it was a corpse, a plant, or a dragon; merely calling it the millennium-old undecaying bones.</color>",
-            "info": "\"Bind the body, release the spirit; I command thee immortality for a millennium.\"\n\n<color=black>耐久力：</color><color=#4B0082>15000 × 4</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Immune to 撃退, freezing, poison, stunning, redirection, and crushing.\n<color=black>※</color>First appears in its sealed form, guarded by the Millennium Warden. Any hypnotized zombies will immediately die when coming in contact with the coffin.\n<color=black>※</color>There are 4 phases in total, each having 15k HP total. When its HP reaches 0, it will transition to the next phase, temporarily becoming invincible and restoring its full health. Each phase has a separate set of abilities, those being:\n<color=black>  • </color><color=#8a4700>Phase 1 (Hammer): </color>Steals the プレイヤーの木槌. Attacks 全プラント on the field, dealing 1000 damage (100 in any 非旅行モード). After that, every 3s, it will target the plant with the highest HP in each row.\n<color=black>  • </color><color=#0e6900>Phase 2 (手袋): </color>Steals the プレイヤーの手袋. Every 4s, it will move the rightmost 非ミニボス, 非flying zombie in each row forward by 2 tiles.\n<color=black>  • </color><color=#ab8e74>Phase 3 (シャベル): </color>Steals the プレイヤーのシャベル. Every 5s, it will dig up the plant that costs the lowest amount of sun on the field.\n<color=black>  • </color><color=#ff0000>Phase 4 (Dragon): </color>Now unsealed, uses all attacks from previous phases every 5s. When defeated, drops 種パケットs of all the plants it シャベルed previously.</color>"
-        },
-        {
-            "theZombieType": 245,
-            "name": "D.A.M.P. Disc",
-            "introduce": "<align=left><size=36><color=black>This modified 霜の軍団・空飛ぶ円盤; titled the \"Damage Absorption Mitigation Platform\" Disc (or D.A.M.P. Disc for short), has been significantly improved in terms of its 耐久力, strength, durability, and eco-friendliness. Dr. Edgar ゾンボス has called it his greatest technological advancement of the past week. 'I've eliminated all the flaws of the old model,' he said, 'including the pilot.'</color>",
-            "info": "<size=36>Emits a magnetic field to block plant damage absorption and bolden the resilience of zombies underneath it.\n\n<color=black>耐久力：</color><color=#4B0082>4500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Plants beneath it cannot have their damage absorbed for 1 second.\n<color=black>※</color>Zombies that were previously under the D.A.M.P. Disc gain +100 被ダメージ減少値 (unstackable).</color>"
-        },
-        {
-            "theZombieType": 246,
-            "name": "Alpha Assassin Hitman",
-            "introduce": "<align=left><size=36><color=black>He is the shadow hunter of the Zombie Special Forces. He lurks in the darkest corners, takes aim in the stillest moments, and is determined to become the ultimate member of the elusive Alpha Squad. He listens to the battle hymns, echoing their final notes from the edge of the mist — a familiar melody sung until his final breath.</color>",
-            "info": "<size=36>Stakes out targets from a distance; operates solo; and takes down enemies with certainty after 6 shots.\n\n<color=black>ダメージ：</color><color=#4B0082>500 (Sniper)</color>\n<color=black>耐久力：</color><color=#4B0082>3000 +3000（装甲）</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>※</color>Immune to hypnotization and 撃退.\n<color=black>※</color>Begins attacking once he reaches the farthest-right column of the 芝生. Every 2 seconds, he will snipe the left-most plant in his lane that is not a pot (prioritizing パンプキンs -> plants -> drones).\n<color=black>※</color>Every 6th shot will instantly kill the plant he is targetting, regardless of damage absorption or reduction. If he is forced to switch lanes (excluding the zombie 手袋), the shot count is reset.</color>"
-        },
-        {
-            "theZombieType": 247,
-            "name": "Zombie Soul",
-            "introduce": "<align=left><size=36><color=black>I have no introduce</color>",
-            "info": "<size=36>I have no info</color>"
-        },
-        {
-            "theZombieType": 248,
-            "name": "黒曜石のトールナッツ Iceclaw Zombie",
-            "introduce": "<align=left><size=36><color=black>黒曜石のトールナッツ Iceclaw Zombie loves to meditate. He likes to find a quiet place to sit down, gently stroking his weathered obsidian head with his claws, producing a pleasing rustling sound. He lets his thoughts drift with time, only to gather again at some moment, pulling him back to reality. Looking at the obsidian powder he scraped off, he can't help but exclaim: \"Wow, I'm so cool I'm literally flaking!\"</color>",
-            "info": "<size=36><color=#4B0082>Possesses sharp obsidian iceclaws that deal tremendous damage.\n\n<color=black>ダメージ：</color>1000\n<color=black>耐久力：</color>720 + 4400（装甲）\n<color=black>移動速度：</color>Medium\n<color=black>Traits: </color>冷却・凍結無効。 Vulnerable to Deep Chill.</color>"
-        },
-        {
-            "theZombieType": 249,
-            "name": "X",
-            "introduce": "<align=left><size=36><color=black>Few know the exact location of the raging Cherry Volcano, but Dr. ゾンボス eventually found it and brought forth an ancient Cherry Giant Whale. A brave knight took on the task of taming it, and since then, deafening explosions have constantly echoed through the doctor's ranks.</color>",
-            "info": "<size=36><color=#4B0082>Harnessing the fury of the ancient giant whale, it leaps into the frontline, infusing 爆発的チェリー with devastating power.\n\n<color=black>弾丸 ダメージ：</color>300 (Cherry)\n1000 (Explosive Cherry)\n<color=black>ダメージ：</color>300 (非bite)\n<color=black>耐久力：</color>48000\n<color=black>移動速度：</color>Medium; Fast when Enraged\n<color=black>Traits:</color>\n<color=black>※</color>ミニボス. Immune to freeze and stuns.\n<color=black>※</color>Starts in a Calm state upon entering the field, and thereafter switches between this state and the Enraged state every 10 seconds.\n<color=black>※</color>When entering the Enraged state, it ignores plants and leaps forward 3 tiles.\n<color=black>※</color>Every 0.5 seconds, depending on its current state, it receives 1 corresponding 弾丸 as fire support in a random lane.\n<color=black>Calm State: </color>Fires 4 Cherries every 2 seconds.\n<color=black>Enraged State: </color>Movement speed is doubled. Fires 4 爆発的チェリー every 1 second. Furthermore, before the zombie's Explosive Cherry deals direct or スプラッシュダメージ, it increases the probability that the damage type of Cherry explosions received by the plant within 15 seconds becomes HP drain by 0.3%, up to a maximum of 30%.</color>"
-        },
-        {
-            "theZombieType": 250,
-            "name": "Astro Bucknut-copter Zombie",
-            "introduce": "<align=left><size=36><color=black>After being flattened and blown round countless times by spacetime turbulence, Astro Bucknut-copter Zombie finally brought back another version of himself from an alternate dimension. \"Excuse me, why would you rather bring your alternate self here instead of going to the alternate dimension to eat brains?\" Well now, this parallel version of him is helping by drawing fire away from him. He can eat more brains this way!</color>",
-            "info": "<size=36><color=#4B0082>Summons an alternate self to step forward and draw fire, while he himself sneaks in the air to wreak havoc.\n\n<color=black>耐久力：</color>3000 + 6000（装甲）\n<color=black>移動速度：</color>Slow; Alternate Self is Fast\n<color=black>Traits: </color>Spawns a spacetime alternate self in its lane upon entering the field\n<color=black>Main Body: </color>\n<color=black>※</color>Immune to ブロウヴァー effects.\n<color=black>※</color>While in the air, reduces the 攻撃力 of plants in a 3x3 area by 90%.\n<color=black>※</color>When shot down, randomly teleports within a 3x3 area and gains a Type 1 armor with 2000 耐久力.\n<color=black>Alternate Self: </color>\n<color=black>※</color>Immune to damage, movement speed ×3.\n<color=black>※</color>Disappears immediately when shot down, blown away, or moved to the second column from the left of the map.\n<color=black>弱点：</color>Thorn-nut, Umbrella Thorn, 黒曜石のトールナッツ</color>"
-        },
-        {
-            "theZombieType": 251,
-            "name": "Giga Charger Zombie ?",
-            "introduce": "<align=left><size=36><color=black>\"This is unfair! Football is a contact sport! Am I really being penalized just for tackling too hard?\" Giga Charger Zombie grumbled indignantly. \"Oh, certainly not. It was your horse that committed the foul; you may continue to participate in the match.\"</color>",
-            "info": "<size=36><color=#4B0082>Charges at plants riding a cursed steed in iron armor.\n\n<color=black>耐久力：</color>3000 + 6000（盾膜）\n<color=black>移動速度：</color>Medium Fast; Extremely Fast when Charging\n<color=black>Traits:</color>\n<color=black>※</color>撃退無効。\n<color=black>※</color>Rides a steed that crushes plants.\n<color=black>※</color>Enters by charging; upon hitting a plant, applies [0.05 × (Plant HP + 耐久力) / 2] curse stacks to that plant. Then advances steadily, applying [0.01 × (Plant HP + 耐久力) / 2] curse stacks when crushing.\n<color=black>※</color>When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Football Zombie.</color>"
-        },
-        {
-            "theZombieType": 252,
-            "name": "Giga Charger Striker",
-            "introduce": "<align=left><size=36><color=black>Equipped with a powerful, long-range Gatling gun, and clad in tough football gear for himself and his mount, Giga Charger Striker bought his knighthood with three brain combo meals. Using his flag to command and coordinate with his comrades, he is fully armed from body to name. \"Perhaps we should give him a simpler name, like Tank,\" Dr. ゾンボス remarked.</color>",
-            "info": "<size=36><color=#4B0082>Advances steadily riding a cursed steed in iron armor, summoning his subordinates to attack when the situation turns unfavorable.\n\n<color=black>ダメージ：</color>80x6/1.5s\n<color=black>耐久力：</color>4500 + 9000（盾膜）\n<color=black>移動速度：</color>Medium Fast\n<color=black>Traits:</color>\n<color=black>※</color>撃退無効。\n<color=black>※</color>Rides a steed that crushes plants.\n<color=black>※</color>When crushing, applies [0.01 × (Plant HP + 耐久力) / 2] curse stacks. When base HP falls below 50%, summons a column of Giga Charger Zombies. When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Striker Zombie.</color>"
-        },
-        {
-            "theZombieType": 253,
-            "name": "Giga Clown-in-the-Box Zombie ?",
-            "introduce": "<align=left><size=36><color=black>Giga Clown-in-the-Box Zombie is practically the busiest zombie in the graveyard. She participates in chess matches between the Striker and the Archduke, plays the Man in the Iron Mask in the weekly medieval opera performances, serves as the center for the basketball team, and disguises herself as a horned devil to scare the Imp Zombies running around by the river. The rest of her time is spent mending the clothes she tore during these activities.</color>",
-            "info": "<size=36><color=#4B0082>Can throw cursed びっくり箱es from a distance.\n\n<color=black>耐久力：</color>720 + 4400（装甲）\n<color=black>Traits: </color>\n<color=black>※</color>Her びっくり箱 cannot be attracted by magnets.\n<color=black>※</color>Has a small chance of self-detonation after a short period of time, but a high probability of throwing it at the last column of plants.\n<color=black>※</color>When it explodes, it triggers a びっくり箱 explosion, applying [10% × (Plant HP + 耐久力) / 2] curse stacks to plants. The thrown bomb only deals 1000 physical damage.</color>"
-        },
-        {
-            "theZombieType": 254,
-            "name": "Giga 象ゾンビ ?",
-            "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, Dr. ゾンボス decided that Giga 象ゾンビs should be deployed in squads of at most three. However, the Striker and the Archduke raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
-            "info": "<size=36><color=#4B0082>Guards the General and Commander until death.\n\n<color=black>耐久力：</color>18000\n<color=black>ダメージ：</color>1800\n<color=black>移動速度：</color>Slow\n<color=black>Traits: </color>\n<color=black>※</color>Only appears in Flag waves.\n<color=black>※</color>Immune to 撃退 and being hypnotized.\n<color=black>※</color>Regardless of where it comes from, takes damage on behalf of the 究極フットボールストライカー and Giga Football Archduke.\n<color=black>※</color>Every 12th attack causes a crush, pushing 非ミニボス zombies at its feet forward by 0.74 tiles.\n<color=black>旅行モード強化： </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all ミニボス Zombies gain 100 被ダメージ減少値</color>"
-        },
-        {
-            "theZombieType": 255,
-            "name": "Striker Bobsled Zomboni ?",
-            "introduce": "<align=left><size=36><color=black>Four Gatling Black Olive Zombies pooled a year's worth of salary to buy and modify this extended motorized sled. Although its previous owner was quite skilled in ice dancing, rather than performing the 'Dance of the Little Swans', they now only intend to perform the 'Four Heavenly Kings' for the plants.</color>",
-            "info": "<size=36><color=#4B0082>Delivers a squad of Gatling Black Olive Zombies to the battlefield.\n\n<color=black>耐久力：</color>3000\n<color=black>移動速度：</color>Medium\n<color=black>Traits: </color>撃退無効。 Ignores plants.\n<color=black>※</color>Loses HP equal to 1% of its 耐久力 every 0.1 seconds.\n<color=black>※</color>Instantly dies upon reaching the fourth column and to its left, spawning 4 Gatling Black Olive Zombies upon death.\n<color=black>旅行モード強化：</color>\n1. Now has immunity to Freeze and Butter.\n2. Now enters the battlefield rapidly, but its speed gradually decreases.</color>"
         }
     ]
 }
