@@ -823,7 +823,7 @@
             "seedType": 929,
             "name": "Gatling Sunburst-shroom",
             "introduce": "<align=left><size=36><color=black>\"Production is also part of the fight!\" said Gatling Sunburst-shroom, wiping its sweat. Its platoon has been reorganized into the 'Sunshine Bay Construction Corps,' but their fighting spirit remains undiminished.</color>",
-            "info": "<size=36>Gatling Sunburst-shrooms generates lots of sun quickly by producing 5 sun every time one of its projectiles deals damage!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Gatling Icicle-shroom's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>20×4×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Gatling Icicle-shroom.\n<color=black>•</color> Shots no longer slow but instead drop 5 sun on hitting the 1st and 2nd zombies.\n<color=black>•</color> Each subsequent pierce deals 20 more damage but requires 5 sun per hit (does not consume Sun if the total amount of Sun is below 15k).\n<color=black>•</color> Synergizes with the sun value doubling Odyssey Modifier and dropped suns are worth 15 each when the modifier is active.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Increased penetration to infinite times, the first 5 hits of horizontal shots each split into 2 new bullets at ±15°, dealing (20 × split count)% more damage\n2. Gatling Sunburst-shroom Subspecies Unlocked</color>",
+            "info": "<size=36>Gatling Sunburst-shroom generates lots of sun quickly by producing 5 sun every time one of its projectiles deals damage!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Gatling Icicle-shroom's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>20×4×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Gatling Icicle-shroom.\n<color=black>•</color> Shots no longer slow but instead drop 5 sun on hitting the 1st and 2nd zombies.\n<color=black>•</color> Each subsequent pierce deals 20 more damage but requires 5 sun per hit (does not consume Sun if the total amount of Sun is below 15k).\n<color=black>•</color> Synergizes with the sun value doubling Odyssey Modifier and dropped suns are worth 15 each when the modifier is active.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Increased penetration to infinite times, the first 5 hits of horizontal shots each split into 2 new bullets at ±15°, dealing (20 × split count)% more damage\n2. Gatling Sunburst-shroom Subspecies Unlocked</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Ice-shroom <-> Sunflower"
         },
         {
@@ -1179,7 +1179,7 @@
         {
             "seedType": 980,
             "name": "Soulrender Bamboo",
-            "introduce": "<align=left><size=36><color=black>In the snowy plains, you'll often see the Soulrender Bamboo poking through thick snow. It's the winter vitality of the plains, growing a little more each day. As a sidenote, he absolutely loves drawing faces Lifereaver Spruce while he naps.</color>",
+            "introduce": "<align=left><size=36><color=black>In the snowy plains, you'll often see the Soulrender Bamboo poking through thick snow. It's the winter vitality of the plains, growing a little more each day. As a sidenote, he absolutely loves drawing faces on Lifereaver Spruce while he naps.</color>",
             "info": "<size=36>Soulrender Bamboo tears zombies to shreds at the cost of some of its health if they dare touch.\n\n<color=#4A2900>Usage Conditions: Odyssey Mode | Unlockable with Lifereaver Spruce</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Lifereaver Spruce. Other plants cannot absorb damage for Soulrender Bamboo.\n<color=black>•</color> Immune to crush, knockback, and freeze from Snowballs or Blizzards. Restores 1% max HP when hit by Snowball, Snow Fork, or Blizzard effects.\n<color=black>•</color> When HP/Shield is below 1× Toughness, restores 10% Toughness per 1.5s and gains a Shield equal to 10% toughness.\n<color=black>•</color> On contact with zombies with less than 10× its own HP, deals 10× Soulrender Bamboo's own HP in damage and takes 1× its own HP as self-damage.\n<color=black>•</color> Records incoming damage. While record damage > 0, takes 1% Toughness damage every 0.02s and deducts the same amount from the record. If record damage > 1M, this damage is increased. Ice-shroom effect clears the record.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Now receives only 1/3 incoming damage\n2. HP and Shield recovery ×2</color>",
             "cost": "<size=36>Conversion Recipe: <color=#8B0000>Spruce Sharpshooter <-> Bamblock</color>"
         },
@@ -1957,7 +1957,7 @@
             "seedType": 1095,
             "name": "Starpick",
             "introduce": "<align=left><size=36><color=black>\"It's remarkably pickaxe-like,\" Starpick commented, a hint of amusement in his tone. \"I can feel part of myself nestled in the ground, and it's quite pleasant—unless you're bothered by insects like centipedes.\" With a cheeky smile, he challenged, \"Why not take off my hat? You'll find I'm even more pickaxe-like than you!\"</color></size>",
-            "info": "<size=36>Starpick hides underground, therefor zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies. You can use metal objects on it to heal it by 500.</color></size>",
+            "info": "<size=36>Starpick hides underground, therefore zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and does not block zombies. You can use metal objects on it to heal it by 500.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pickaxe > Starmorph</color>"
         },
         {
@@ -2195,7 +2195,7 @@
             "seedType": 1129,
             "name": "Mecha-nut",
             "introduce": "<align=left><size=36><color=black>Some may not realize it, but Wall-nuts have inventors in their community. Inspired by zombie weaponry, they built their own war machines. \"Zombie technology, ironically, only destroys itself,\" says Mecha-nut.</color>",
-            "info": "<size=36>Mecha-nut can receive attributes from Jalapeno or Ice-shroom, with effects upon death. It can also take damage on the behalf of nearby plants!n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Changes form when affected by Ice-shroom or Jalapeno, healing 3000 Toughness upon transformation.\n<color=black>•</color> Releases the current form's effects upon death.\n<color=black>•</color> Absorbs damage for other plants in a 3×3 radius but with the damage doubled.\n<color=black>•</color> Healing can exceed maximum Toughness (up to 4×).\n<color=black>•</color> Recovers 1k HP when fed metal objects. When metal objects on the lawn disappear and no Giga Mecha-nuts are present, every Mecha-nut restores (1k / total number of Mecha-nuts) HP. </color>",
+            "info": "<size=36>Mecha-nut can receive attributes from Jalapeno or Ice-shroom, with effects upon death. It can also take damage on the behalf of nearby plants. \n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Changes form when affected by Ice-shroom or Jalapeno, healing 3000 Toughness upon transformation.\n<color=black>•</color> Releases the current form's effects upon death.\n<color=black>•</color> Absorbs damage for other plants in a 3×3 radius but with the damage doubled.\n<color=black>•</color> Healing can exceed maximum Toughness (up to 4×).\n<color=black>•</color> Recovers 1k HP when fed metal objects. When metal objects on the lawn disappear and no Giga Mecha-nuts are present, every Mecha-nut restores (1k / total number of Mecha-nuts) HP. </color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Mecha Fragments > Wall-nut</color>"
         },
         {
@@ -2342,7 +2342,7 @@
             "seedType": 1150,
             "name": "Gold Magnet",
             "introduce": "<align=left><size=36><color=black>After working countless hours at an accountant firm, the Gold Magnet realized its terrifying attracting potential and switched careers to become a fighter. 'Honestly, this is way more fun than counting money,' it remarks. 'After all, money doesn't grow on trees, but they do somehow from crops.' That said, its plant companions often end up suffering from its antics.</color>",
-            "info": "<size=36>Gold Magnet attracts projectiles and makes you money for it!\n\n<color=black>Special: </color><color=#8B0000>Attracts straight-shooting projectiles from adjacent lanes and produces a 25 Coin for every projectile attracted.</color>",
+            "info": "<size=36>Gold Magnet forces plants to fire, attracts projectiles and makes you money for it!\n\n<color=black>Special: </color><color=#8B0000>Forces straight-shooting plants in adjacent lanes to fire, attracts straight-shooting projectiles from adjacent lanes and produces 25 coins for every projectile attracted.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Magnet-shroom + Marigold</color>"
         },
         {
@@ -2594,7 +2594,7 @@
             "seedType": 1186,
             "name": "Umbrella Thorn",
             "introduce": "<align=left><size=36><color=black>Umbrella Thorn just dropped his latest song, \"Prickly Cactus.\" With a hopeful glint in his eyes, he mused, \"Maybe one day, people will like me as much as they love roses. I know it won't happen overnight, but I'll keep trying my best.\"</color>",
-            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships.\n<color=black>Special: </color><color=#8B0000>Can only knock back flying zombies. Pops balloons. See Umbrella Husk for knockback mechanic details.</color>",
+            "info": "<size=36>Umbrella Thorn can knock down flying zombies and repel airships. \n\n<color=black>Special: </color><color=#8B0000>Can only knock back flying zombies. Pops balloons. See Umbrella Husk for knockback mechanic details.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cactus + Umbrella Leaf</color>"
         },
         {
@@ -2629,7 +2629,7 @@
             "seedType": 1191,
             "name": "Doom Cactus",
             "introduce": "<align=left><size=36><color=black>Doom Cactus is a firm believer in the Art of War of Plants: bide your time, strike hard, and leave nothing standing. Whether it's zombies shambling through the battlefield or armored rats scurrying for cover, one well-placed explosion is all it takes to turn the tide.</color>",
-            "info": "<size=36>Doom Cactus has a chance to spray doom thorns accross the entire field with each attack!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Each attack has a 0% starting chance of unleashing an Ultimate attack. If it fails, the chance is increased by 5% for the next attack.</color>\n<color=black>Ultimate: </color><color=#8B0000>Shoots a large number of thorns forward, which can hit airborne units.</color>",
+            "info": "<size=36>Doom Cactus has a chance to spray doom thorns across the entire field with each attack!\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Each attack has a 0% starting chance of unleashing an Ultimate attack. If it fails, the chance is increased by 5% for the next attack.</color>\n<color=black>Ultimate: </color><color=#8B0000>Shoots a large number of thorns forward, which can hit airborne units.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Cactus + Doom-shroom</color>"
         },
         {
@@ -2664,7 +2664,7 @@
             "seedType": 1196,
             "name": "Spring Melon",
             "introduce": "<align=left><size=36><color=black>\"Holding your breath, focusing, and striking with precision!\" Spring Melon is very patient, always waiting for the perfect moment to make a move. If you ask him how he manages to stay calm, he will always mention his mentor, Imitater.</color>",
-            "info": "<size=36>Spring Melon charges it's attack when no zombies are near, then uses that energy to launch a powerful melon when they get close!\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range:</color><color=#8B0000> 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
+            "info": "<size=36>Spring Melon charges its attack when no zombies are near, then uses that energy to launch a powerful melon when they get close!\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range:</color><color=#8B0000> 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Fume-shroom + Melon-pult</color>"
         },
         {
@@ -2790,7 +2790,7 @@
             "seedType": 1214,
             "name": "Doomwarp-shroom",
             "introduce": "<align=left><size=36><color=black>\"Time travel personnel have passed through, complete. The time tunnel has exited the target world, complete. Observed impact is within the expected range, complete. Proceed to the next step, destroy the tunnel to prevent use by others or organizations.\" — \"Time Planning Bureau\"</color>",
-            "info": "<size=36>Doomwarp-shroom's explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion applies the Chronoshift effect for 30s or resets the remaining duration to 30s.</color>",
+            "info": "<size=36>Doomwarp-shroom's explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects. Explodes extremely fast.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion applies the Chronoshift effect for 30s or resets the remaining duration to 30s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chrono Core > Dormant-shroom</color>"
         },
         {
@@ -2993,7 +2993,7 @@
             "seedType": 1243,
             "name": "Cherry Pot",
             "introduce": "<align=left><size=36><color=black>Cherry Pot would rather give up her pay at the Zen Garden than be mistaken for a plant.\"Those lunatics can't get real cherries, so they're out here trying to eat anything cherry-flavored!\" Just talking about it makes her shudder.</color>",
-            "info": "<size=36>ACherry Pot heals the plant on her tile when it's affect by cherry explosions, and empowers Cherry-type shooters.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an attack speed boost (50%) for 5s to cherry shooting plants.</color>",
+            "info": "<size=36>Cherry Pot heals the plant on her tile when it's affected by cherry explosions, and empowers Cherry-type shooters.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an attack speed boost (50%) for 5s to cherry shooting plants.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cherry Bomb > Flower Pot</color>"
         },
         {
@@ -4127,7 +4127,7 @@
             "seedType": 1405,
             "name": "Snipot",
             "introduce": "<align=left><size=36><color=black>From the perspective of the Snipot, using a sniper rifle is actually not difficult at all. You just need to know how to reload, how to chamber a round, and how to hand the reloaded rifle to a teammate who knows how to use it.</color>",
-            "info": "<size=36>Snipot causes Snipea type plants on top to perform a extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
+            "info": "<size=36>Snipot causes Snipea type plants on top to perform an extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea > Flower Pot</color>"
         },
         {
