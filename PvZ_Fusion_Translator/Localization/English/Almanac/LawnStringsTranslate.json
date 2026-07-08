@@ -3728,7 +3728,7 @@
             "seedType": 1348,
             "name": "Solar Blover",
             "introduce": "<align=left><size=36><color=black>Solar Blover always wears a gentle smile, often saying, \"Clear skies and a spring breeze filled with sunshine - how pleasant!\" Sadly, zombies don't understand this beauty. What she blows out isn't a soft spring wind, it's pure solar wind.</color>",
-            "info": "<size=36>Solar Blover sends of many sun shots while active, giving 5 sun each.\n\n<color=black>Damage: </color><color=#8B0000>10×72</color>\n<color=black>Special: </color><color=#8B0000>Spins its leaves and fires two spirals totaling 72 Sun Shots. Each shot drops 5 Sun upon hitting a target and can be buffed by Infernowood to deal 40 damage and drop 15 Sun instead.</color>",
+            "info": "<size=36>Solar Blover shoots out many sun shots while active, dropping sun when hitting zombies.\n\n<color=black>Damage: </color><color=#8B0000>10×72</color>\n<color=black>Special: </color><color=#8B0000>Spins its leaves and fires two spirals totaling 72 Sun Shots. Each shot drops 5 Sun upon hitting a target and can be buffed by Infernowood to deal 40 damage and drop 15 Sun instead.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Sunflower + Blover</color>"
         },
         {
