@@ -16,7 +16,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.7 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.7_beta)
+**Multi-Language 3.7** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.7)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
 **Chinese 3.7** | PC | [MEGA](https://mega.nz/file/6VIy3ZbZ#J0ycntt_DE6XxI6ZwkJsibVGDVED29GyuAF-wqPjWGM) [Google Drive](https://drive.google.com/file/d/1R01-pXXj_179Wa-CeNi7JbvmxsF2bUd2/view?usp=sharing)
 **Chinese 3.7** | Android | [MEGA](https://mega.nz/file/DIwQhLIb#jrQa4QMLfWogqAU_m2lMOb-bCc_8VfmGzaHuNjl462c) [Google Drive](https://drive.google.com/file/d/1G1ErJIBRqCVRDeS3Wwb4b-qkq7E3d5FF/view?usp=sharing)
