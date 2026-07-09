@@ -1,352 +1,1372 @@
 ﻿{
     "advancedBuffs": {
-        "0": "Sous-espèce Champi-enchanteresse débloquée | Champi-impératrice et Champi-enchanteresse : intervalle d'invocation → 10 s",
-        "1": "Champi-impératrice et Champi-enchanteresse : peuvent désormais invoquer des Zombies d'Odyssée",
-        "2": "Sous-espèce Champi-furieux Sulfateur débloquée | Champi-mort Sulfateur : plus de pause après le tir d'un Obus Funeste Ultime | S'applique aussi aux variantes Épiques",
-        "3": "Champi-mort Sulfateur : tire désormais un Obus Funeste Ultime à chaque manche au lieu d'une sur quatre | Champi-furieux Sulfateur : tire désormais un Obus Funeste Ultime toutes les 4 attaques | S'applique aussi aux variantes Épiques",
-        "4": "Double Noix-solaire : coût du clic 500 → 200 Soleil | Double Noix-infernale : montant des soins ×2 | S'applique aussi aux variantes Épiques",
-        "5": "Sous-espèce Double Noix-infernale débloquée | Double Noix-solaire : la Robustesse diminue de 10 par coup au lieu de 50 | Double Noix-infernale : coût du clic 500 → 200 PV | S'applique aussi aux variantes Épiques",
-        "6": "Sous-espèce Noix Piquante d'Obsidienne débloquée | Ortie d'Obsidienne et Noix Piquante : dégâts ×5",
-        "7": "Ortie d'Obsidienne et Noix Piquante : gagnent 95% de réduction de dégâts",
-        "8": "Sous-espèce Drone Phénix débloquée | Triple Pisto-pois Phénix et Drone Phénix : les tirs peuvent désormais transpercer à l'infini et provoquer des explosions Enflammées à l'impact",
-        "9": "Triple Pisto-pois Phénix : bonus de dégâts Enflammé global 50% → 150%, et les projectiles enflammés normaux peuvent désormais infliger le malus",
-        "10": "Sulfateuse Champi-stalactite et Champi-éclat-solaire : les stalactites transpercent désormais à l'infini et se divisent en deux stalactites diagonales à l'impact les cinq premières fois | S'applique aussi aux variantes Épiques",
-        "11": "Sous-espèce Champi-éclat-solaire Sulfateur débloquée | Sulfateuse Champi-stalactite : dégâts aux zombies Gelés/insensibles au Froid 4× → 12× | S'applique aussi aux variantes Épiques",
-        "12": "Pot Radieux : le coût d'amélioration des Pots d'Argent vers les Pots d'Or ne dépassera pas 8 000",
-        "13": "Pot Radieux : les pièces dépassant le montant maximum sont converties en Soleil à un taux de 2:1",
-        "14": "Sous-espèce Ombrelle Égide débloquée | Ombrelle de Midas et Ombrelle Égide : activent automatiquement l'Ultime si des zombies sont proches",
-        "15": "Ombrelle de Midas : bonus de dégâts 100% → 300%",
-        "16": "Aristochat : dégâts d'attaque du drone ×3 | Lapin Tonnerre : le drone invoqué n'est plus affaibli et tire 60 projectiles normalement",
-        "17": "Sous-espèce Lapin Tonnerre débloquée | Aristochat : dégâts d'attaque normaux ×5 | Lapin Tonnerre : dégâts d'attaque ×3",
-        "18": "Sous-espèce Champi-avarice débloquée | Champi-calamité : toutes les explosions de Champi-mort ne laissent désormais plus de cratère",
-        "19": "Champi-calamité : génère désormais 3 Gargantuas et Zombonis hypnotisés supplémentaires lorsqu'il explose",
-        "20": "Bois-magnat et Plantaire Magnat : +1% de dégâts aux projectiles/lasers de pièces pour chaque tranche de 1000 pièces possédées",
-        "21": "Sous-espèce Plantaire Magnat débloquée | Bois-magnat : les projectiles de pièces infligent désormais des dégâts de zone",
-        "22": "Sous-espèce Ombrelle Borée débloquée | Ombrelle Pharos : limite d'énergie ×10, vitesse de récupération ×20, vitesse de soin ×2 | Ombrelle Borée : les dégâts en mode Dispersion augmentent linéairement jusqu'à ×4, dégâts en mode Focalisation ×4",
-        "23": "Ombrelle Pharos : dégâts d'attaque normale ×3, dégâts d'explosion ×10, intervalle d'attaque → 2 s | Ombrelle Borée : le rayon cryogénique en mode Focalisation applique désormais Gel pendant 1 s",
-        "24": "Escouade de Champi-seau : le sniper fait toujours mouche avec 1/3 de chance de déclencher un tir rapide, mais le TR d'attaque passe à 7,5 s | Escadron Frappe-chevrotine : dégâts d'attaque ×3",
-        "25": "Sous-espèce Escadron Frappe-chevrotine débloquée | Escouade de Champi-seau : recul du canon antiaérien ×2, dégâts de zone ×3 | Escadron Frappe-chevrotine : dégâts d'attaque ×3",
-        "26": "Sous-espèce Aimant Dyson débloquée | Aimant Tesla : portée d'attaque ×2 | Aimant Dyson : TR de production de métal réduit de moitié",
-        "27": "Aimant Tesla : absorbe 3 objets métalliques à la fois, dégâts aux Zombies Giga-noix à Trident ou Zombies QB Giga-noix ×3 | Aimant Dyson : montant des soins ×3, limite de production d'objets métalliques supplémentaires (3 + (n/m)/4) → (3 + (n/m)/3)",
-        "28": "Sous-espèce Croque-patate Maléfique débloquée | Arbitre Sinistre et Croque-patate Maléfique : la chute de carte de graine est désormais garantie",
-        "29": "Arbitre Sinistre et Croque-patate Maléfique : transfert de dégâts par Âme de Zombie ×2",
-        "30": "Cerise Big Bang et Écraseur Big Bang : durée initiale de la Soupe de Particules augmentée de 7 s à 10 s",
-        "31": "Sous-espèce Écraseur Big Bang débloquée | Cerise Big Bang et Écraseur Big Bang : les projectiles explosifs et funestes ont une faible chance de se transformer en Débris Cosmiques infligeant 12× les dégâts en touchant des zombies",
-        "32": "Sous-espèce Pot Composteur débloquée | Maïs-convoyeur et Pot Composteur : durée d'étourdissement du beurre du Convoyeur et du Composteur ×3",
-        "33": "Maïs-convoyeur : fait désormais glisser continuellement vers la droite les zombies qui s'y trouvent | Pot Composteur : chance de beurre pour la plante au-dessus 50% → 100%",
-        "34": "Citrouille Omni : à l'entrée, accorde à toutes les plantes magnétiques connectées un Bouclier égal à 30 × le nombre de plantes magnétiques | Quasar : à l'entrée, les réinitialise et leur accorde plutôt un bonus d'attaque de 0,5% × le nombre de plantes magnétiques",
-        "35": "Citrouille Omni et Quasar : comptent désormais double dans le nombre de plantes magnétiques",
-        "36": "Torche Souffle-de-dragon : fréquence d'explosion ×2",
-        "37": "Torche Souffle-de-dragon : chaque zombie touché par le souffle de feu augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu'à 400%",
-        "38": "Sous-espèce Champi-glacier Mortel débloquée | Champi-glacier de la Toundra : +100 d'énergie initiale | Champi-glacier Mortel : dégâts ×2",
-        "39": "Champi-glacier de la Toundra : rayon d'attaque ×2 | Champi-glacier Mortel : intervalle d'attaque réduit de moitié",
-        "40": "Nénu-chan Hypnotique : TR de la capacité réduit de moitié, rayon de la capacité +0,5 case",
-        "41": "Nénu-chan Hypnotique : les zombies hypnotisés générés par sa capacité infligent 30% de dégâts purs supplémentaires qui ignorent la réduction de dégâts en mordant",
-        "1000": "Le TR des Gants est réduit de 10 s (pas de TR pour la plante Gant), et ils peuvent désormais déplacer les Mini-boss",
-        "1001": "Le recharge des plantes est réduite de moitié",
-        "1002": "Chaque Soleil rapporte désormais plus de valeur | 5 → 15 → 25 → 50 → 75",
-        "1003": "Le TR des Gants est réduit de moitié, et ils peuvent désormais déplacer les Mini-boss",
-        "1004": "Recharge de l'Imitateur : 5 min → 50 s",
-        "1005": "Le recharge du Maillet est réduite à 6 secondes",
-        "1006": "Vous avez désormais la possibilité de re-choisir votre équipe de plantes en cours de partie",
-        "1007": "Les zombies subissent 1800 dégâts supplémentaires lorsqu'ils subissent plus de 1800 dégâts (après réduction de dégâts)",
-        "1008": "Les dégâts des plantes sont augmentés de 20%",
-        "1009": "Les zombies subissent 20% de dégâts en plus",
-        "1010": "Relances de modificateur +2",
-        "1011": "Le temps de gel de tous les zombies est augmenté de 25%, et le taux de ralentissement du Froid est augmenté de 10%",
-        "1012": "Gagnez 3000 Soleil, puis doublez votre total de Soleil ensuite | Plafond de Soleil 50k → 100k",
-        "1013": "Vraie Cerise Explosive : les cerises explosives infligent désormais au moins 1800 dégâts et causent des dégâts de Crémation",
-        "1014": "Cliquer sur la même plante quand vous la tenez avec le Gant la démonte au prix de 500 Soleil | TR de 20 s",
-        "1015": "Quand deux plantes identiques sont posées l'une au-dessus de l'autre (adjacentes dans la même colonne), elles gagnent un bonus de dégâts de 50% et une réduction de dégâts de 50%",
-        "1016": "Les zombies hypnotisés gagnent un bonus de dégâts de 500% et 80% de réduction de dégâts (ATTENTION : fait aussi que les Zombies-cerise à Journal de Champi-impératrice/enchanteresse ne perdent pas leur journal à l'invocation !!)",
-        "1017": "Tous les TR d'attaque des Météores sont réduits de moitié | Dégâts de base des Météores augmentés de 300 pour chaque Étoile Polaire sur le terrain",
-        "1018": "Ajoute 4 niveaux Lumos pour tout le terrain",
-        "1019": "Quand des zombies hypnotisés meurent, ils explosent et infligent des dégâts égaux à 150% de leurs PV max aux zombies proches",
-        "1020": "Après qu'une plante est soignée, elle se soigne de 5% de ses PV actuels par seconde pendant les 3 secondes suivantes (non cumulable)",
-        "1021": "Les plantes gagnent un bonus de soins de 20%",
-        "2000": "Vrai Champi-mort : les obus de Champi-mort libèrent désormais une explosion de Champi-mort sans cratère à l'impact",
-        "2001": "Activer la plantation en colonne",
-        "2002": "Vous pouvez améliorer 1 Modificateur Épique améliorable",
-        "2003": "Si un type de plante a infligé le plus de dégâts totaux sur le terrain, ses attaques infligent 30% des dégâts d'origine en dégâts purs supplémentaires",
-        "2004": "Après avoir tiré 50 fois (25 pour les catapultes), les plantes gagnent une vitesse d'attaque illimitée pendant 1 s",
-        "2005": "Les plantes gagnent 1% de vol de vie, appliqué à la plante ayant le pourcentage de PV le plus bas du terrain",
-        "2006": "After a period of time without being attacked, the next time a zombie is attacked, the damage it takes is greatly increased",
-        "2007": "Gagne le Sac de Corruption. Effet de Corruption : chaque fois qu'un zombie subit des dégâts, l'instance de dégâts suivante qu'il reçoit est augmentée de 5% (cumulable)",
-        "2008": "Vous pouvez retirer 1 Modificateur de Zombie non mini-boss depuis le menu Voir les Modificateurs",
-        "3000": "Quand Cerizilla et Noix d'Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla/Aillizilla n'a plus de plafond de Robustesse maximal, et Noix d'Obsidienne/Mine Obsidienne gagne 90% de réduction de dégâts",
-        "3001": "S'il y a au moins 10 Étoiles Polaires et 10 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et infligera 5× les dégâts, et continuera d'invoquer des Météores Hélios",
-        "3002": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, et le Bois-écraseur Infernal et sa sous-espèce déclenchent un effet de Jalapeño sur tout le terrain s'ils ne peuvent pas planter de plante Épicée",
-        "3003": "Quand il y a au moins 10 Étoiles Polaires et 10 Choux Luna sur le terrain, la Mini Lune invoquée par Luna ne disparaît pas, tandis que chaque Étoile Polaire et chaque Luna chargent un rayon dans la Mini Lune, qui la redirige pour cibler le zombie ayant le plus de PV",
-        "3004": "Les pastèques de grêle des Failles Nébuleuses de la Pastèque Cyclone infligent désormais 6× les dégâts et créent des Singularités, et McCornics le Quantique lance toujours des Trous Noirs Ultimes. Quand un Trou Noir Ultime s'effondre, il détonne aussi toutes les Singularités pour augmenter encore ses propres dégâts",
-        "3005": "Cliquez sur un Canon Volcanique rechargé en tenant une Double Noix-infernale Épique avec le Gant pour faire effectuer à tous les Canons Volcaniques rechargés du terrain une attaque synergisée vers le ciel. Chaque 8e Obus Infernal tiré fait tomber un Météore Infernal infligeant 80× les dégâts, décimant tous les zombies de l'écran",
-        "3006": "Quand le Drone à Grenades est placé au-dessus du Champi-furieux Sulfateur Épique, plus ils attaquent, plus ils tirent de balles à la volée suivante. Ce bonus décline après qu'ils cessent d'attaquer. (ATTENTION : entraînera une quantité cancéreuse de projectiles !!)",
-        "3007": "Le Séparateur de Photons peut se verrouiller sur n'importe quel Plantaire Atomique devant lui (cliquez pour sélectionner) afin de le charger. Quand l'énergie dépasse 10k, sa luminosité augmente, infligeant de lourds dégâts et ralentissant les zombies dans son rayon. À 100k, il s'effondre en trou noir et explose, dévastant tous les zombies de l'écran. (ATTENTION : contient des lumières clignotantes)",
-        "3008": "Quand le Lance-détritus et le Champi-stalactite Sulfateur Épique sont plantés sur la même case, les projectiles de ce dernier se divisent une fois de plus. Les projectiles normaux et spéciaux des deux plantes héritent de certaines propriétés des tirs de l'autre. (ATTENTION : provoquera des ralentissements)",
-        "3009": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui double pour chaque plante de glace et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée.",
-        "4000": "Invoque un Chibi Abyssal qui combat pour vous (remplace le Familier actuel). Son coup de marteau blesse à la fois les plantes et les zombies proches, accorde une réduction de dégâts aux plantes affectées, et inflige des dégâts accrus aux zombies selon les PV des plantes proches. Les effets du marteau évoluent avec le niveau d'XP.",
-        "4001": "Invoque un Petit Attaquant qui combat pour vous (remplace le Familier actuel). Toutes les 3 s, il se déplace vers la plante ayant le pourcentage de PV le plus bas et galvanise la zone, soignant les plantes proches et augmentant les dégâts subis par les zombies. Les effets de ralliement évoluent avec le niveau d'XP",
-        "4002": "Invoque un Prototype Cryoborg qui combat pour vous (remplace le Familier actuel). Elle cible la rangée au plus haut total de PV et tire des projectiles de glace. Les dégâts augmentent selon le nombre de zombies ralentis/gelés, et elle gagne une perforation infinie et un bonus d'XP si la Cryoborg Exécutrice est sur le terrain. Les dégâts des projectiles évoluent avec le niveau d'XP",
-        "4003": "Invoque un Bébé Jill qui combat pour vous (remplace le Familier actuel). Toutes les 15 s, elle effectue une attaque aléatoire : invoque des zombies Clown-dans-la-boite hypnotisés de haut niveau par rangée, ou lance des explosifs (sur une rangée ou tout le terrain). Les dégâts d'explosion évoluent avec le niveau d'XP",
-        "4004": "Invoque un Mini Pozeidon qui combat pour vous (remplace le Familier actuel). Toutes les 5 s, il lance son trident devant lui, qui transperce et blesse les zombies avec des explosions. Si le mini-boss Pozeidon est présent, il lance plutôt 4 tridents sur chaque rangée toutes les 10 s",
-        "4005": "Invoque une Jeune Duchesse qui combat pour vous (remplace le Familier actuel). Elle tire rapidement des balles de pois de fer vers l'avant, et toutes les 20 secondes elle invoque une colonne de mini destriers de guerre qui chargent les zombies et créent des Âmes de Zombie à partir de ceux qu'ils touchent. Si le mini-boss Giga Rugby Archiduc est présent, son intervalle d'invocation est réduit de moitié. (ATTENTION : provoquera D'ÉNORMES ralentissements !!)",
-        "4006": "Invoque un Empereur Nouveau-né qui combat pour vous (remplace le Familier actuel). Toutes les 10 secondes, il transforme un certain nombre de zombies (selon le niveau d'XP) en Zombies Jockey au Poulet ou Hydrovolatiles. Si le mini-boss Arche Canard de l'Empereur est présent, le nombre maximum de transformations est doublé.",
-        "4007": "Invoque un Mecha Plané qui combat pour vous (remplace le Familier actuel). Augmente les dégâts des explosions de Diable à ressort du côté des plantes, et tire un explosif sur les zombies toutes les 1,5 s (chaque 3e attaque est tirée sur chaque rangée). Si le mini-boss Mecha Aéroglisseur est présent, l'intervalle d'attaque du familier est réduit de moitié.",
-        "5000": "Les plantes infligent +100% aux Mini-boss et aux Boss",
-        "5001": "Les plantes gagnent un bonus de dégâts de 5% pour chaque Modificateur de Zombie que vous possédez",
-        "5002": "Débloquer la Carambole Sage Épéiste",
-        "5003": "Les plantes infligent ×2 dégâts mais en subissent ×4",
-        "5004": "Les cartes de graines n'ont plus besoin de recharge mais chaque utilisation coûte 15× leur coût de base en Soleil + 50% du Soleil actuel du joueur",
-        "6000": "Tondeuses : dégâts finaux +200%, vitesse d'attaque +300%",
-        "6001": "Maîtrise de Cerizilla I : puissance de soin +100%",
-        "6002": "Maîtrise de Cerizilla II : dégâts d'attaque +50%",
-        "6003": "Maîtrise de Sulfateuse à Grenades I : rayon d'explosion des cerises et autres variantes de projectiles +50% et dégâts +100%",
-        "6004": "Maîtrise de Sulfateuse à Grenades II : rayon d'explosion des cerises et autres variantes de projectiles -50% mais dégâts +300%",
-        "6005": "Maîtrise de Champi-nator I : les zombies gelés subissent +50% de dégâts",
-        "6006": "Maîtrise de Champi-nator II : les zombies hypnotisés infligent 3× les dégâts",
-        "6007": "Maîtrise de Bois-écraseur Infernal I : l'effet de Jalapeño passe d'instantané à dégâts sur la durée, infligeant 1/3 des dégâts d'origine 10 fois en 1 s",
-        "6008": "Maîtrise de Bois-écraseur Infernal II : accorde +50% de dégâts aux projectiles avant de les enflammer",
-        "6009": "Les plantes de la cinquième colonne gagnent +50% de Robustesse maximale et 50% de réduction de dégâts. Chaque colonne vers la gauche réduit le plafond de dégâts de 10% et augmente la réduction de dégâts de 10%",
-        "10000": "Gagnez immédiatement 100k Soleil | Plafond de Soleil +100k",
-        "10001": "Gagnez immédiatement 2 cartes de Méga Mecha-noix qui commencent avec 1 M de PV",
-        "10002": "Améliore (1+n) plantes aléatoires au Palier 1, où n est le nombre de modificateurs de Plante que vous possédez actuellement",
-        "10003": "Augmente la vitesse de (1+n) plantes aléatoires, où n est le nombre de modificateurs de Plante que vous possédez actuellement",
-        "10004": "Gagnez un Totem d'Immortalité. La prochaine fois que des zombies atteignent la maison, c'est ignoré pendant 3 s et tous les zombies sont repoussés au départ",
-        "10005": "Obtenez un Rangement Citrouille contenant les cartes de toutes les Fusions d'Odyssée Épiques (sans les sous-espèces)",
-        "10006": "Repoussez tous les zombies au départ, puis vainquez instantanément tous les zombies",
-        "10007": "Gagnez un Super Commando Blizzard avec +1500% de dégâts et de PV, +1000% de vitesse, et gagnez un Haricot Coup-de-Froid supplémentaire",
-        "10008": "Gagnez une plante d'Odyssée aléatoire. À chaque nouvelle vague de zombies, elle gagne +25% de dégâts, +25% de PV et +10% de vitesse",
-        "10009": "Gagnez une carte de Champi-mageddon. La planter ACCEPTE le défi :\nInvoquer 3 à 6 zombies d'Odyssée aléatoires sur chaque rangée (oui, TOUS les possibles)\nVainquez-les tous pour débloquer le Modificateur « Sac de Corruption »",
-        "10010": "Tous les dégâts d'attaque des plantes ×2",
-        "10011": "Toutes les plantes gagnent 50 + (2% des PV max) de bouclier par seconde",
-        "10012": "Gagnez la Médaille Saurienne. Quand vous avez 20 plantes ou plus sur le terrain, les zombies atteignant la maison ne causent plus de game over, mais font que toutes les plantes ont 1/3 de chance de mourir à la place",
-        "10013": "Gagnez une carte de Citrouille Omni. La planter ACCEPTE le défi :\nLe nombre de zombies des 20 prochaines vagues est doublé\nTenez bon et toutes les plantes sur la case de la Citrouille Omni seront promues au Palier 3",
-        "10014": "Libérez toutes les tondeuses actuelles et restaurez-en une colonne entière",
-        "10015": "Vous ne perdrez pas la partie si vous parvenez à tuer le zombie atteignant votre maison en 1,5 s",
-        "10016": "Gagnez immédiatement 5 cartes d'Imitateur",
-        "10017": "En obtenant pour la première fois une seconde copie d'une plante, vous recevez une carte supplémentaire de cette plante",
-        "10018": "Utiliser le gant pour déplacer une plante sur une autre plante du même type et du même palier l'améliore d'un palier",
-        "10019": "Gagnez immédiatement 10 Vases de Recyclage Dorés. De plus, recevez-en 1 par vague et 5 par drapeau (vague immense)",
-        "11000": "Le TR de la Brouette est réduit à 3 secondes",
-        "12000": "Les pastèques du Champi-napalm créent une mer de feu supplémentaire en touchant le sol et peuvent se diviser jusqu'à 2 fois de plus en touchant des zombies.",
-        "12001": "Quand la Tourelle Apoicalypse lance sa capacité ultime, elle libère 4 vagues supplémentaires de Givre-flamme infligeant chacune 50 instances de dégâts. Chaque instance inflige des dégâts égaux à 10 000% de la puissance d'attaque de la tourelle à un zombie aléatoire à portée.",
-        "12002": "Le coup critique du Snipeur Faucheur est désormais garanti.",
-        "12003": "Les projectiles de la Mine Tripatate déclenchent désormais une explosion de Mine Patate en touchant un zombie.",
-        "12004": "Quand le Mordeur Maudit attaque, il déclenche une explosion Funeste qu'il avale un zombie ou non. S'il avale un zombie, il déclenche deux explosions Funestes.",
-        "12005": "Le Champi-mageddon libère une explosion de Champi-mort d'un million de dégâts à sa mort."
+        "0": {
+            "name": "",
+            "desc": "Sous-espèce Champi-enchanteresse débloquée | Champi-impératrice et Champi-enchanteresse : intervalle d'invocation → 10 s"
+        },
+        "1": {
+            "name": "",
+            "desc": "Champi-impératrice et Champi-enchanteresse : peuvent désormais invoquer des Zombies d'Odyssée"
+        },
+        "2": {
+            "name": "",
+            "desc": "Sous-espèce Champi-furieux Sulfateur débloquée | Champi-mort Sulfateur : plus de pause après le tir d'un Obus Funeste Ultime | S'applique aussi aux variantes Épiques"
+        },
+        "3": {
+            "name": "",
+            "desc": "Champi-mort Sulfateur : tire désormais un Obus Funeste Ultime à chaque manche au lieu d'une sur quatre | Champi-furieux Sulfateur : tire désormais un Obus Funeste Ultime toutes les 4 attaques | S'applique aussi aux variantes Épiques"
+        },
+        "4": {
+            "name": "",
+            "desc": "Double Noix-solaire : coût du clic 500 → 200 Soleil | Double Noix-infernale : montant des soins ×2 | S'applique aussi aux variantes Épiques"
+        },
+        "5": {
+            "name": "",
+            "desc": "Sous-espèce Double Noix-infernale débloquée | Double Noix-solaire : la Robustesse diminue de 10 par coup au lieu de 50 | Double Noix-infernale : coût du clic 500 → 200 PV | S'applique aussi aux variantes Épiques"
+        },
+        "6": {
+            "name": "",
+            "desc": "Sous-espèce Noix Piquante d'Obsidienne débloquée | Ortie d'Obsidienne et Noix Piquante : dégâts ×5"
+        },
+        "7": {
+            "name": "",
+            "desc": "Ortie d'Obsidienne et Noix Piquante : gagnent 95% de réduction de dégâts"
+        },
+        "8": {
+            "name": "",
+            "desc": "Sous-espèce Drone Phénix débloquée | Triple Pisto-pois Phénix et Drone Phénix : les tirs peuvent désormais transpercer à l'infini et provoquer des explosions Enflammées à l'impact"
+        },
+        "9": {
+            "name": "",
+            "desc": "Triple Pisto-pois Phénix : bonus de dégâts Enflammé global 50% → 150%, et les projectiles enflammés normaux peuvent désormais infliger le malus"
+        },
+        "10": {
+            "name": "",
+            "desc": "Sulfateuse Champi-stalactite et Champi-éclat-solaire : les stalactites transpercent désormais à l'infini et se divisent en deux stalactites diagonales à l'impact les cinq premières fois | S'applique aussi aux variantes Épiques"
+        },
+        "11": {
+            "name": "",
+            "desc": "Sous-espèce Champi-éclat-solaire Sulfateur débloquée | Sulfateuse Champi-stalactite : dégâts aux zombies Gelés/insensibles au Froid 4× → 12× | S'applique aussi aux variantes Épiques"
+        },
+        "12": {
+            "name": "",
+            "desc": "Pot Radieux : le coût d'amélioration des Pots d'Argent vers les Pots d'Or ne dépassera pas 8 000"
+        },
+        "13": {
+            "name": "",
+            "desc": "Pot Radieux : les pièces dépassant le montant maximum sont converties en Soleil à un taux de 2:1"
+        },
+        "14": {
+            "name": "",
+            "desc": "Sous-espèce Ombrelle Égide débloquée | Ombrelle de Midas et Ombrelle Égide : activent automatiquement l'Ultime si des zombies sont proches"
+        },
+        "15": {
+            "name": "",
+            "desc": "Ombrelle de Midas : bonus de dégâts 100% → 300%"
+        },
+        "16": {
+            "name": "",
+            "desc": "Aristochat : dégâts d'attaque du drone ×3 | Lapin Tonnerre : le drone invoqué n'est plus affaibli et tire 60 projectiles normalement"
+        },
+        "17": {
+            "name": "",
+            "desc": "Sous-espèce Lapin Tonnerre débloquée | Aristochat : dégâts d'attaque normaux ×5 | Lapin Tonnerre : dégâts d'attaque ×3"
+        },
+        "18": {
+            "name": "",
+            "desc": "Sous-espèce Champi-avarice débloquée | Champi-calamité : toutes les explosions de Champi-mort ne laissent désormais plus de cratère"
+        },
+        "19": {
+            "name": "",
+            "desc": "Champi-calamité : génère désormais 3 Gargantuas et Zombonis hypnotisés supplémentaires lorsqu'il explose"
+        },
+        "20": {
+            "name": "",
+            "desc": "Bois-magnat et Plantaire Magnat : +1% de dégâts aux projectiles/lasers de pièces pour chaque tranche de 1000 pièces possédées"
+        },
+        "21": {
+            "name": "",
+            "desc": "Sous-espèce Plantaire Magnat débloquée | Bois-magnat : les projectiles de pièces infligent désormais des dégâts de zone"
+        },
+        "22": {
+            "name": "",
+            "desc": "Sous-espèce Ombrelle Borée débloquée | Ombrelle Pharos : limite d'énergie ×10, vitesse de récupération ×20, vitesse de soin ×2 | Ombrelle Borée : les dégâts en mode Dispersion augmentent linéairement jusqu'à ×4, dégâts en mode Focalisation ×4"
+        },
+        "23": {
+            "name": "",
+            "desc": "Ombrelle Pharos : dégâts d'attaque normale ×3, dégâts d'explosion ×10, intervalle d'attaque → 2 s | Ombrelle Borée : le rayon cryogénique en mode Focalisation applique désormais Gel pendant 1 s"
+        },
+        "24": {
+            "name": "",
+            "desc": "Escouade de Champi-seau : le sniper fait toujours mouche avec 1/3 de chance de déclencher un tir rapide, mais le TR d'attaque passe à 7,5 s | Escadron Frappe-chevrotine : dégâts d'attaque ×3"
+        },
+        "25": {
+            "name": "",
+            "desc": "Sous-espèce Escadron Frappe-chevrotine débloquée | Escouade de Champi-seau : recul du canon antiaérien ×2, dégâts de zone ×3 | Escadron Frappe-chevrotine : dégâts d'attaque ×3"
+        },
+        "26": {
+            "name": "",
+            "desc": "Sous-espèce Aimant Dyson débloquée | Aimant Tesla : portée d'attaque ×2 | Aimant Dyson : TR de production de métal réduit de moitié"
+        },
+        "27": {
+            "name": "",
+            "desc": "Aimant Tesla : absorbe 3 objets métalliques à la fois, dégâts aux Zombies Giga-noix à Trident ou Zombies QB Giga-noix ×3 | Aimant Dyson : montant des soins ×3, limite de production d'objets métalliques supplémentaires (3 + (n/m)/4) → (3 + (n/m)/3)"
+        },
+        "28": {
+            "name": "",
+            "desc": "Sous-espèce Croque-patate Maléfique débloquée | Arbitre Sinistre et Croque-patate Maléfique : la chute de carte de graine est désormais garantie"
+        },
+        "29": {
+            "name": "",
+            "desc": "Arbitre Sinistre et Croque-patate Maléfique : transfert de dégâts par Âme de Zombie ×2"
+        },
+        "30": {
+            "name": "",
+            "desc": "Cerise Big Bang et Écraseur Big Bang : durée initiale de la Soupe de Particules augmentée de 7 s à 10 s"
+        },
+        "31": {
+            "name": "",
+            "desc": "Sous-espèce Écraseur Big Bang débloquée | Cerise Big Bang et Écraseur Big Bang : les projectiles explosifs et funestes ont une faible chance de se transformer en Débris Cosmiques infligeant 12× les dégâts en touchant des zombies"
+        },
+        "32": {
+            "name": "",
+            "desc": "Sous-espèce Pot Composteur débloquée | Maïs-convoyeur et Pot Composteur : durée d'étourdissement du beurre du Convoyeur et du Composteur ×3"
+        },
+        "33": {
+            "name": "",
+            "desc": "Maïs-convoyeur : fait désormais glisser continuellement vers la droite les zombies qui s'y trouvent | Pot Composteur : chance de beurre pour la plante au-dessus 50% → 100%"
+        },
+        "34": {
+            "name": "",
+            "desc": "Citrouille Omni : à l'entrée, accorde à toutes les plantes magnétiques connectées un Bouclier égal à 30 × le nombre de plantes magnétiques | Quasar : à l'entrée, les réinitialise et leur accorde plutôt un bonus d'attaque de 0,5% × le nombre de plantes magnétiques"
+        },
+        "35": {
+            "name": "",
+            "desc": "Citrouille Omni et Quasar : comptent désormais double dans le nombre de plantes magnétiques"
+        },
+        "36": {
+            "name": "",
+            "desc": "Torche Souffle-de-dragon : fréquence d'explosion ×2"
+        },
+        "37": {
+            "name": "",
+            "desc": "Torche Souffle-de-dragon : chaque zombie touché par le souffle de feu augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu'à 400%"
+        },
+        "38": {
+            "name": "",
+            "desc": "Sous-espèce Champi-glacier Mortel débloquée | Champi-glacier de la Toundra : +100 d'énergie initiale | Champi-glacier Mortel : dégâts ×2"
+        },
+        "39": {
+            "name": "",
+            "desc": "Champi-glacier de la Toundra : rayon d'attaque ×2 | Champi-glacier Mortel : intervalle d'attaque réduit de moitié"
+        },
+        "40": {
+            "name": "",
+            "desc": "Nénu-chan Hypnotique : TR de la capacité réduit de moitié, rayon de la capacité +0,5 case"
+        },
+        "41": {
+            "name": "",
+            "desc": "Nénu-chan Hypnotique : les zombies hypnotisés générés par sa capacité infligent 30% de dégâts purs supplémentaires qui ignorent la réduction de dégâts en mordant"
+        },
+        "1000": {
+            "name": "",
+            "desc": "Le TR des Gants est réduit de 10 s (pas de TR pour la plante Gant), et ils peuvent désormais déplacer les Mini-boss"
+        },
+        "1001": {
+            "name": "",
+            "desc": "Le recharge des plantes est réduite de moitié"
+        },
+        "1002": {
+            "name": "",
+            "desc": "Chaque Soleil rapporte désormais plus de valeur | 5 → 15 → 25 → 50 → 75"
+        },
+        "1003": {
+            "name": "",
+            "desc": "Le TR des Gants est réduit de moitié, et ils peuvent désormais déplacer les Mini-boss"
+        },
+        "1004": {
+            "name": "",
+            "desc": "Recharge de l'Imitateur : 5 min → 50 s"
+        },
+        "1005": {
+            "name": "",
+            "desc": "Le recharge du Maillet est réduite à 6 secondes"
+        },
+        "1006": {
+            "name": "",
+            "desc": "Vous avez désormais la possibilité de re-choisir votre équipe de plantes en cours de partie"
+        },
+        "1007": {
+            "name": "",
+            "desc": "Les zombies subissent 1800 dégâts supplémentaires lorsqu'ils subissent plus de 1800 dégâts (après réduction de dégâts)"
+        },
+        "1008": {
+            "name": "",
+            "desc": "Les dégâts des plantes sont augmentés de 20%"
+        },
+        "1009": {
+            "name": "",
+            "desc": "Les zombies subissent 20% de dégâts en plus"
+        },
+        "1010": {
+            "name": "",
+            "desc": "Relances de modificateur +2"
+        },
+        "1011": {
+            "name": "",
+            "desc": "Le temps de gel de tous les zombies est augmenté de 25%, et le taux de ralentissement du Froid est augmenté de 10%"
+        },
+        "1012": {
+            "name": "",
+            "desc": "Gagnez 3000 Soleil, puis doublez votre total de Soleil ensuite | Plafond de Soleil 50k → 100k"
+        },
+        "1013": {
+            "name": "",
+            "desc": "Vraie Cerise Explosive : les cerises explosives infligent désormais au moins 1800 dégâts et causent des dégâts de Crémation"
+        },
+        "1014": {
+            "name": "",
+            "desc": "Cliquer sur la même plante quand vous la tenez avec le Gant la démonte au prix de 500 Soleil | TR de 20 s"
+        },
+        "1015": {
+            "name": "",
+            "desc": "Quand deux plantes identiques sont posées l'une au-dessus de l'autre (adjacentes dans la même colonne), elles gagnent un bonus de dégâts de 50% et une réduction de dégâts de 50%"
+        },
+        "1016": {
+            "name": "",
+            "desc": "Les zombies hypnotisés gagnent un bonus de dégâts de 500% et 80% de réduction de dégâts (ATTENTION : fait aussi que les Zombies-cerise à Journal de Champi-impératrice/enchanteresse ne perdent pas leur journal à l'invocation !!)"
+        },
+        "1017": {
+            "name": "",
+            "desc": "Tous les TR d'attaque des Météores sont réduits de moitié | Dégâts de base des Météores augmentés de 300 pour chaque Étoile Polaire sur le terrain"
+        },
+        "1018": {
+            "name": "",
+            "desc": "Ajoute 4 niveaux Lumos pour tout le terrain"
+        },
+        "1019": {
+            "name": "",
+            "desc": "Quand des zombies hypnotisés meurent, ils explosent et infligent des dégâts égaux à 150% de leurs PV max aux zombies proches"
+        },
+        "1020": {
+            "name": "",
+            "desc": "Après qu'une plante est soignée, elle se soigne de 5% de ses PV actuels par seconde pendant les 3 secondes suivantes (non cumulable)"
+        },
+        "1021": {
+            "name": "",
+            "desc": "Les plantes gagnent un bonus de soins de 20%"
+        },
+        "2000": {
+            "name": "",
+            "desc": "Vrai Champi-mort : les obus de Champi-mort libèrent désormais une explosion de Champi-mort sans cratère à l'impact"
+        },
+        "2001": {
+            "name": "",
+            "desc": "Activer la plantation en colonne"
+        },
+        "2002": {
+            "name": "",
+            "desc": "Vous pouvez améliorer 1 Modificateur Épique améliorable"
+        },
+        "2003": {
+            "name": "",
+            "desc": "Si un type de plante a infligé le plus de dégâts totaux sur le terrain, ses attaques infligent 30% des dégâts d'origine en dégâts purs supplémentaires"
+        },
+        "2004": {
+            "name": "",
+            "desc": "Après avoir tiré 50 fois (25 pour les catapultes), les plantes gagnent une vitesse d'attaque illimitée pendant 1 s"
+        },
+        "2005": {
+            "name": "",
+            "desc": "Les plantes gagnent 1% de vol de vie, appliqué à la plante ayant le pourcentage de PV le plus bas du terrain"
+        },
+        "2006": {
+            "name": "",
+            "desc": "After a period of time without being attacked, the next time a zombie is attacked, the damage it takes is greatly increased"
+        },
+        "2007": {
+            "name": "",
+            "desc": "Gagne le Sac de Corruption. Effet de Corruption : chaque fois qu'un zombie subit des dégâts, l'instance de dégâts suivante qu'il reçoit est augmentée de 5% (cumulable)"
+        },
+        "2008": {
+            "name": "",
+            "desc": "Vous pouvez retirer 1 Modificateur de Zombie non mini-boss depuis le menu Voir les Modificateurs"
+        },
+        "3000": {
+            "name": "",
+            "desc": "Quand Cerizilla et Noix d'Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla/Aillizilla n'a plus de plafond de Robustesse maximal, et Noix d'Obsidienne/Mine Obsidienne gagne 90% de réduction de dégâts"
+        },
+        "3001": {
+            "name": "",
+            "desc": "S'il y a au moins 10 Étoiles Polaires et 10 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et infligera 5× les dégâts, et continuera d'invoquer des Météores Hélios"
+        },
+        "3002": {
+            "name": "",
+            "desc": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, et le Bois-écraseur Infernal et sa sous-espèce déclenchent un effet de Jalapeño sur tout le terrain s'ils ne peuvent pas planter de plante Épicée"
+        },
+        "3003": {
+            "name": "",
+            "desc": "Quand il y a au moins 10 Étoiles Polaires et 10 Choux Luna sur le terrain, la Mini Lune invoquée par Luna ne disparaît pas, tandis que chaque Étoile Polaire et chaque Luna chargent un rayon dans la Mini Lune, qui la redirige pour cibler le zombie ayant le plus de PV"
+        },
+        "3004": {
+            "name": "",
+            "desc": "Les pastèques de grêle des Failles Nébuleuses de la Pastèque Cyclone infligent désormais 6× les dégâts et créent des Singularités, et McCornics le Quantique lance toujours des Trous Noirs Ultimes. Quand un Trou Noir Ultime s'effondre, il détonne aussi toutes les Singularités pour augmenter encore ses propres dégâts"
+        },
+        "3005": {
+            "name": "",
+            "desc": "Cliquez sur un Canon Volcanique rechargé en tenant une Double Noix-infernale Épique avec le Gant pour faire effectuer à tous les Canons Volcaniques rechargés du terrain une attaque synergisée vers le ciel. Chaque 8e Obus Infernal tiré fait tomber un Météore Infernal infligeant 80× les dégâts, décimant tous les zombies de l'écran"
+        },
+        "3006": {
+            "name": "",
+            "desc": "Quand le Drone à Grenades est placé au-dessus du Champi-furieux Sulfateur Épique, plus ils attaquent, plus ils tirent de balles à la volée suivante. Ce bonus décline après qu'ils cessent d'attaquer. (ATTENTION : entraînera une quantité cancéreuse de projectiles !!)"
+        },
+        "3007": {
+            "name": "",
+            "desc": "Le Séparateur de Photons peut se verrouiller sur n'importe quel Plantaire Atomique devant lui (cliquez pour sélectionner) afin de le charger. Quand l'énergie dépasse 10k, sa luminosité augmente, infligeant de lourds dégâts et ralentissant les zombies dans son rayon. À 100k, il s'effondre en trou noir et explose, dévastant tous les zombies de l'écran. (ATTENTION : contient des lumières clignotantes)"
+        },
+        "3008": {
+            "name": "",
+            "desc": "Quand le Lance-détritus et le Champi-stalactite Sulfateur Épique sont plantés sur la même case, les projectiles de ce dernier se divisent une fois de plus. Les projectiles normaux et spéciaux des deux plantes héritent de certaines propriétés des tirs de l'autre. (ATTENTION : provoquera des ralentissements)"
+        },
+        "3009": {
+            "name": "",
+            "desc": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui double pour chaque plante de glace et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée."
+        },
+        "4000": {
+            "name": "",
+            "desc": "Invoque un Chibi Abyssal qui combat pour vous (remplace le Familier actuel). Son coup de marteau blesse à la fois les plantes et les zombies proches, accorde une réduction de dégâts aux plantes affectées, et inflige des dégâts accrus aux zombies selon les PV des plantes proches. Les effets du marteau évoluent avec le niveau d'XP."
+        },
+        "4001": {
+            "name": "",
+            "desc": "Invoque un Petit Attaquant qui combat pour vous (remplace le Familier actuel). Toutes les 3 s, il se déplace vers la plante ayant le pourcentage de PV le plus bas et galvanise la zone, soignant les plantes proches et augmentant les dégâts subis par les zombies. Les effets de ralliement évoluent avec le niveau d'XP"
+        },
+        "4002": {
+            "name": "",
+            "desc": "Invoque un Prototype Cryoborg qui combat pour vous (remplace le Familier actuel). Elle cible la rangée au plus haut total de PV et tire des projectiles de glace. Les dégâts augmentent selon le nombre de zombies ralentis/gelés, et elle gagne une perforation infinie et un bonus d'XP si la Cryoborg Exécutrice est sur le terrain. Les dégâts des projectiles évoluent avec le niveau d'XP"
+        },
+        "4003": {
+            "name": "",
+            "desc": "Invoque un Bébé Jill qui combat pour vous (remplace le Familier actuel). Toutes les 15 s, elle effectue une attaque aléatoire : invoque des zombies Clown-dans-la-boite hypnotisés de haut niveau par rangée, ou lance des explosifs (sur une rangée ou tout le terrain). Les dégâts d'explosion évoluent avec le niveau d'XP"
+        },
+        "4004": {
+            "name": "",
+            "desc": "Invoque un Mini Pozeidon qui combat pour vous (remplace le Familier actuel). Toutes les 5 s, il lance son trident devant lui, qui transperce et blesse les zombies avec des explosions. Si le mini-boss Pozeidon est présent, il lance plutôt 4 tridents sur chaque rangée toutes les 10 s"
+        },
+        "4005": {
+            "name": "",
+            "desc": "Invoque une Jeune Duchesse qui combat pour vous (remplace le Familier actuel). Elle tire rapidement des balles de pois de fer vers l'avant, et toutes les 20 secondes elle invoque une colonne de mini destriers de guerre qui chargent les zombies et créent des Âmes de Zombie à partir de ceux qu'ils touchent. Si le mini-boss Giga Rugby Archiduc est présent, son intervalle d'invocation est réduit de moitié. (ATTENTION : provoquera D'ÉNORMES ralentissements !!)"
+        },
+        "4006": {
+            "name": "",
+            "desc": "Invoque un Empereur Nouveau-né qui combat pour vous (remplace le Familier actuel). Toutes les 10 secondes, il transforme un certain nombre de zombies (selon le niveau d'XP) en Zombies Jockey au Poulet ou Hydrovolatiles. Si le mini-boss Arche Canard de l'Empereur est présent, le nombre maximum de transformations est doublé."
+        },
+        "4007": {
+            "name": "",
+            "desc": "Invoque un Mecha Plané qui combat pour vous (remplace le Familier actuel). Augmente les dégâts des explosions de Diable à ressort du côté des plantes, et tire un explosif sur les zombies toutes les 1,5 s (chaque 3e attaque est tirée sur chaque rangée). Si le mini-boss Mecha Aéroglisseur est présent, l'intervalle d'attaque du familier est réduit de moitié."
+        },
+        "5000": {
+            "name": "",
+            "desc": "Les plantes infligent +100% aux Mini-boss et aux Boss"
+        },
+        "5001": {
+            "name": "",
+            "desc": "Les plantes gagnent un bonus de dégâts de 5% pour chaque Modificateur de Zombie que vous possédez"
+        },
+        "5002": {
+            "name": "",
+            "desc": "Débloquer la Carambole Sage Épéiste"
+        },
+        "5003": {
+            "name": "",
+            "desc": "Les plantes infligent ×2 dégâts mais en subissent ×4"
+        },
+        "5004": {
+            "name": "",
+            "desc": "Les cartes de graines n'ont plus besoin de recharge mais chaque utilisation coûte 15× leur coût de base en Soleil + 50% du Soleil actuel du joueur"
+        },
+        "6000": {
+            "name": "",
+            "desc": "Tondeuses : dégâts finaux +200%, vitesse d'attaque +300%"
+        },
+        "6001": {
+            "name": "",
+            "desc": "Maîtrise de Cerizilla I : puissance de soin +100%"
+        },
+        "6002": {
+            "name": "",
+            "desc": "Maîtrise de Cerizilla II : dégâts d'attaque +50%"
+        },
+        "6003": {
+            "name": "",
+            "desc": "Maîtrise de Sulfateuse à Grenades I : rayon d'explosion des cerises et autres variantes de projectiles +50% et dégâts +100%"
+        },
+        "6004": {
+            "name": "",
+            "desc": "Maîtrise de Sulfateuse à Grenades II : rayon d'explosion des cerises et autres variantes de projectiles -50% mais dégâts +300%"
+        },
+        "6005": {
+            "name": "",
+            "desc": "Maîtrise de Champi-nator I : les zombies gelés subissent +50% de dégâts"
+        },
+        "6006": {
+            "name": "",
+            "desc": "Maîtrise de Champi-nator II : les zombies hypnotisés infligent 3× les dégâts"
+        },
+        "6007": {
+            "name": "",
+            "desc": "Maîtrise de Bois-écraseur Infernal I : l'effet de Jalapeño passe d'instantané à dégâts sur la durée, infligeant 1/3 des dégâts d'origine 10 fois en 1 s"
+        },
+        "6008": {
+            "name": "",
+            "desc": "Maîtrise de Bois-écraseur Infernal II : accorde +50% de dégâts aux projectiles avant de les enflammer"
+        },
+        "6009": {
+            "name": "",
+            "desc": "Les plantes de la cinquième colonne gagnent +50% de Robustesse maximale et 50% de réduction de dégâts. Chaque colonne vers la gauche réduit le plafond de dégâts de 10% et augmente la réduction de dégâts de 10%"
+        },
+        "10000": {
+            "name": "",
+            "desc": "Gagnez immédiatement 100k Soleil | Plafond de Soleil +100k"
+        },
+        "10001": {
+            "name": "",
+            "desc": "Gagnez immédiatement 2 cartes de Méga Mecha-noix qui commencent avec 1 M de PV"
+        },
+        "10002": {
+            "name": "",
+            "desc": "Améliore (1+n) plantes aléatoires au Palier 1, où n est le nombre de modificateurs de Plante que vous possédez actuellement"
+        },
+        "10003": {
+            "name": "",
+            "desc": "Augmente la vitesse de (1+n) plantes aléatoires, où n est le nombre de modificateurs de Plante que vous possédez actuellement"
+        },
+        "10004": {
+            "name": "",
+            "desc": "Gagnez un Totem d'Immortalité. La prochaine fois que des zombies atteignent la maison, c'est ignoré pendant 3 s et tous les zombies sont repoussés au départ"
+        },
+        "10005": {
+            "name": "",
+            "desc": "Obtenez un Rangement Citrouille contenant les cartes de toutes les Fusions d'Odyssée Épiques (sans les sous-espèces)"
+        },
+        "10006": {
+            "name": "",
+            "desc": "Repoussez tous les zombies au départ, puis vainquez instantanément tous les zombies"
+        },
+        "10007": {
+            "name": "",
+            "desc": "Gagnez un Super Commando Blizzard avec +1500% de dégâts et de PV, +1000% de vitesse, et gagnez un Haricot Coup-de-Froid supplémentaire"
+        },
+        "10008": {
+            "name": "",
+            "desc": "Gagnez une plante d'Odyssée aléatoire. À chaque nouvelle vague de zombies, elle gagne +25% de dégâts, +25% de PV et +10% de vitesse"
+        },
+        "10009": {
+            "name": "",
+            "desc": "Gagnez une carte de Champi-mageddon. La planter ACCEPTE le défi :\nInvoquer 3 à 6 zombies d'Odyssée aléatoires sur chaque rangée (oui, TOUS les possibles)\nVainquez-les tous pour débloquer le Modificateur « Sac de Corruption »"
+        },
+        "10010": {
+            "name": "",
+            "desc": "Tous les dégâts d'attaque des plantes ×2"
+        },
+        "10011": {
+            "name": "",
+            "desc": "Toutes les plantes gagnent 50 + (2% des PV max) de bouclier par seconde"
+        },
+        "10012": {
+            "name": "",
+            "desc": "Gagnez la Médaille Saurienne. Quand vous avez 20 plantes ou plus sur le terrain, les zombies atteignant la maison ne causent plus de game over, mais font que toutes les plantes ont 1/3 de chance de mourir à la place"
+        },
+        "10013": {
+            "name": "",
+            "desc": "Gagnez une carte de Citrouille Omni. La planter ACCEPTE le défi :\nLe nombre de zombies des 20 prochaines vagues est doublé\nTenez bon et toutes les plantes sur la case de la Citrouille Omni seront promues au Palier 3"
+        },
+        "10014": {
+            "name": "",
+            "desc": "Libérez toutes les tondeuses actuelles et restaurez-en une colonne entière"
+        },
+        "10015": {
+            "name": "",
+            "desc": "Vous ne perdrez pas la partie si vous parvenez à tuer le zombie atteignant votre maison en 1,5 s"
+        },
+        "10016": {
+            "name": "",
+            "desc": "Gagnez immédiatement 5 cartes d'Imitateur"
+        },
+        "10017": {
+            "name": "",
+            "desc": "En obtenant pour la première fois une seconde copie d'une plante, vous recevez une carte supplémentaire de cette plante"
+        },
+        "10018": {
+            "name": "",
+            "desc": "Utiliser le gant pour déplacer une plante sur une autre plante du même type et du même palier l'améliore d'un palier"
+        },
+        "10019": {
+            "name": "",
+            "desc": "Gagnez immédiatement 10 Vases de Recyclage Dorés. De plus, recevez-en 1 par vague et 5 par drapeau (vague immense)"
+        },
+        "11000": {
+            "name": "",
+            "desc": "Le TR de la Brouette est réduit à 3 secondes"
+        },
+        "12000": {
+            "name": "",
+            "desc": "Les pastèques du Champi-napalm créent une mer de feu supplémentaire en touchant le sol et peuvent se diviser jusqu'à 2 fois de plus en touchant des zombies."
+        },
+        "12001": {
+            "name": "",
+            "desc": "Quand la Tourelle Apoicalypse lance sa capacité ultime, elle libère 4 vagues supplémentaires de Givre-flamme infligeant chacune 50 instances de dégâts. Chaque instance inflige des dégâts égaux à 10 000% de la puissance d'attaque de la tourelle à un zombie aléatoire à portée."
+        },
+        "12002": {
+            "name": "",
+            "desc": "Le coup critique du Snipeur Faucheur est désormais garanti."
+        },
+        "12003": {
+            "name": "",
+            "desc": "Les projectiles de la Mine Tripatate déclenchent désormais une explosion de Mine Patate en touchant un zombie."
+        },
+        "12004": {
+            "name": "",
+            "desc": "Quand le Mordeur Maudit attaque, il déclenche une explosion Funeste qu'il avale un zombie ou non. S'il avale un zombie, il déclenche deux explosions Funestes."
+        },
+        "12005": {
+            "name": "",
+            "desc": "Le Champi-mageddon libère une explosion de Champi-mort d'un million de dégâts à sa mort."
+        }
     },
     "ultimateBuffs": {
-        "0": "Cerizilla et Aillizilla : récupération de PV ×3",
-        "1": "Cerizilla et Aillizilla : TR de dévoration réduit à 15 s",
-        "2": "Sulfateuse à Grenades : cerises explosives des plantes ×3 dégâts",
-        "3": "Sulfateuse à Grenades et Drone à Grenades : vitesse d'attaque +100%",
-        "4": "Champi-nator : vitesse d'attaque ×3 ; dégâts d'attaque de l'Épi-nator ×3 ; dégâts d'attaque du Zombie Griffe-de-glace ×3",
-        "5": "Champi-nator : les zombies subissent 30% de leurs PV actuels en dégâts lorsqu'ils sont dégelés",
-        "6": "Bois-écraseur Infernal et Bois-étincelle : les projectiles requis pour générer une plante Épicée sont réduits de moitié",
-        "7": "Bois-écraseur Infernal et Bois-étincelle : enflamme immédiatement la rangée quand générer une plante Épicée est impossible",
-        "8": "Étoile Polaire : intervalle d'attaque 1,5 s → 0,5 s",
-        "9": "Étoile Polaire : Niv. 1 : dégâts de base ×2 et plafond de dégâts (300) porté à 3000 ; Niv. 2 : dégâts de base ×3, plafond de dégâts supprimé",
-        "10": "Champi-mageddon : dégâts d'explosion à la mort → 1 M | Plantaire Atomique : bonus Lumos à la mort ×3",
-        "11": "Champi-mageddon et Plantaire Atomique : désormais insensibles aux explosions de Cerise et de Diable à ressort. Après avoir résisté à 10k points de dégâts explosifs, déclenche une explosion de Champi-mort",
-        "12": "Lance-fléau et Lance-pourriture : le tir dispersé est désormais garanti",
-        "13": "Lance-fléau et Lance-pourriture : Niv. 1 : cumuler des points de poison empoisonne immédiatement le zombie et plafond de valeur de Poison → 120 ; Niv. 2 : plafond de valeur de Poison supprimé",
-        "14": "Canon Apocalyptique : dégâts du Tir Principal ×4 | Panmélonium : dégâts ×4",
-        "15": "Canon Apocalyptique et Panmélonium : temps de rechargement 36 s → 12 s",
-        "16": "Noix d'Obsidienne et Mine Obsidienne : plafond de PV max ×3",
-        "17": "Noix d'Obsidienne et Mine Obsidienne : peuvent désormais absorber les dégâts dirigés vers les plantes directement à leur gauche et à leur droite",
-        "18": "Champi-charisme : seuil de PV pour l'hypnose porté de 60% à 100% | Citrouille Captivante : dégâts aux zombies hypnotisés capturés réduits de moitié",
-        "19": "Champi-charisme : intervalle d'attaque → 1 s, le niveau de charge ne descend pas sous 2 et peut être nourri en métal pour atteindre le niveau de charge 3 pendant 5 min | Citrouille Captivante : niveau de charge 3 débloqué",
-        "20": "Tourelle Apoicalypse et Railgun : puissance d'attaque ×3",
-        "21": "Tourelle Apoicalypse : Niv. 1 : utiliser l'Ultime rembourse 50k d'énergie ; Niv. 2 : l'Ultime inflige aussi 20% de dégâts bonus ignorant la RD | Railgun Apoicalypse : Niv. 1 : la défense augmente quand les PV diminuent. Sous 500 PV, devient insensible aux dégâts inférieurs à 1k ; Niv. 2 : sous 500 PV, dégâts de base ×2",
-        "22": "Chou Sol : quand le Soleil dépasse 15k, chaque attaque du Chou Sol consomme 0,5% de l'excédent pour augmenter les dégâts des projectiles de 20 par Soleil dépensé | Chou Luna : dégâts augmentés de 3× par niveau Lumos",
-        "23": "Chou Sol : le Mini Soleil inflige 3× les dégâts | Chou Luna : la Mini Lune soigne 3×",
-        "24": "Citrouille Laser et Citrouille Explosive : nombre d'ailiers 1 → 3",
-        "25": "Citrouille Laser : dégâts des ailiers et du drone ×3",
-        "26": "Champi-napalm et Champi-magma : vitesse de charge et charge max ×3",
-        "27": "Champi-napalm : le brasier dure désormais 5 s (deux fois plus longtemps) | Champi-magma : dégâts du Beurre de Magma ×3",
-        "28": "Capitaine Algue-d'or : les plantes infligent 5% de dégâts d'attaque en plus pour chaque tranche de 1000 points possédés (jusqu'à +300%)",
-        "29": "Capitaine Algue-d'or : la boutique d'Odyssée offre désormais 30% de remise sur les Modificateurs",
-        "30": "McCornics le Quantique : le Trou Noir Ultime peut absorber tous les projectiles",
-        "31": "McCornics le Quantique : rayon d'absorption du Trou Noir Ultime ×2",
-        "32": "Épicéa Faucheur : les scies du faucheur boréal durent désormais 15 s | Bambou Arrache-âme : ne reçoit plus que 1/3 des dégâts entrants",
-        "33": "Épicéa Faucheur : les soins ne sont plus répartis entre les plantes | Bambou Arrache-âme : récupération de PV et de bouclier ×2",
-        "34": "Tyran Luminescent : portée d'attaque ×2",
-        "35": "Tyran Luminescent : fournit 2 niveaux Lumos à une zone de 5×5 pendant la digestion",
-        "36": "Canon Volcanique : dégâts des Bombes Volcaniques ×3 | Cratère en éruption : dégâts des Choux Pyro ×3",
-        "37": "Canon Volcanique : déclenche désormais des Détonations Thermonucléaires quand les tirs principaux frappent des Cerises Explosives ou des Jalapeños | Cratère en éruption : 10% de chance de déclencher des effets de Cerise Explosive et de Jalapeño à la position du canon et d'ignorer la limite de 10 cibles",
-        "38": "Princesse Solarnova : quand un tir solaire touche un zombie, il fait aussi exploser les projectiles proches",
-        "39": "Princesse Solarnova : plafond d'énergie ×3, production de Soleil après débordement du stockage ×3",
-        "40": "Pastèque Cyclone : la Faille Nébuleuse se concentre désormais sur le zombie ayant le moins de PV pendant la première moitié du barrage | Fongularité : ne crée désormais qu'un seul jeu de portails, mais ceux-ci génèrent ×10 flux de particules de glace",
-        "41": "Pastèque Cyclone : dégâts de la cryo-pastèque ×6, mais avec un rayon de zone réduit | Pastèque Cyclone et Fongularité : les zombies insensibles à la Distorsion temporelle subissent quand même des dégâts égaux à (Temps écoulé)% de leurs PV",
-        "42": "Prométhée Queue-de-lion : fréquence des dégâts du rayon de chaleur ×2",
-        "43": "Prométhée Queue-de-lion : dégâts des tirs normaux ×3",
-        "44": "Léviathan Scylla : les sbires Étrangleurs peuvent noyer jusqu'à 3 zombies (ou infliger ×3 dégâts), et chaque zombie noyé rapporte 10 cumuls d'énergie",
-        "45": "Léviathan Scylla : tire 3 projectiles d'attaque de base à la fois",
-        "46": "Faucheuse Cryolina et Pleureur Habanero : plafond de charges d'âme porté à 10, gagne désormais 1 charge d'âme chaque fois qu'un Mini-boss meurt",
-        "47": "Faucheuse Cryolina et Pleureur Habanero : utiliser une charge d'âme accorde aussi 1 s d'invincibilité à toutes les plantes",
-        "48": "Séparateur de Photons : Niv. 1 : plafond d'énergie Lumos porté de 1000 à 2000 ; Niv. 2 : plafond d'énergie Lumos encore porté à 10k | Orbiteur Axion : rayon de dégâts des projectiles +50%",
-        "49": "Séparateur de Photons : améliore l'efficacité de Transfert de 50%, et de 250% si l'énergie de la cible < 1000 | Orbiteur Axion : tire désormais 2 projectiles supplémentaires à chaque attaque",
-        "50": "Commando Chevrotine : chances de déclenchement de l'Ultime de tous les Commandos ×3 | Pois-sniper Synchroniseur : tous les Pois-sniper tirent un coup supplémentaire après un Tir à la tête",
-        "51": "Commando Chevrotine : dégâts de l'Ultime de tous les Commandos ×2 et ne se dispersent plus | Pois-sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
+        "0": {
+            "name": "",
+            "desc": "Cerizilla et Aillizilla : récupération de PV ×3"
+        },
+        "1": {
+            "name": "",
+            "desc": "Cerizilla et Aillizilla : TR de dévoration réduit à 15 s"
+        },
+        "2": {
+            "name": "",
+            "desc": "Sulfateuse à Grenades : cerises explosives des plantes ×3 dégâts"
+        },
+        "3": {
+            "name": "",
+            "desc": "Sulfateuse à Grenades et Drone à Grenades : vitesse d'attaque +100%"
+        },
+        "4": {
+            "name": "",
+            "desc": "Champi-nator : vitesse d'attaque ×3 ; dégâts d'attaque de l'Épi-nator ×3 ; dégâts d'attaque du Zombie Griffe-de-glace ×3"
+        },
+        "5": {
+            "name": "",
+            "desc": "Champi-nator : les zombies subissent 30% de leurs PV actuels en dégâts lorsqu'ils sont dégelés"
+        },
+        "6": {
+            "name": "",
+            "desc": "Bois-écraseur Infernal et Bois-étincelle : les projectiles requis pour générer une plante Épicée sont réduits de moitié"
+        },
+        "7": {
+            "name": "",
+            "desc": "Bois-écraseur Infernal et Bois-étincelle : enflamme immédiatement la rangée quand générer une plante Épicée est impossible"
+        },
+        "8": {
+            "name": "",
+            "desc": "Étoile Polaire : intervalle d'attaque 1,5 s → 0,5 s"
+        },
+        "9": {
+            "name": "",
+            "desc": "Étoile Polaire : Niv. 1 : dégâts de base ×2 et plafond de dégâts (300) porté à 3000 ; Niv. 2 : dégâts de base ×3, plafond de dégâts supprimé"
+        },
+        "10": {
+            "name": "",
+            "desc": "Champi-mageddon : dégâts d'explosion à la mort → 1 M | Plantaire Atomique : bonus Lumos à la mort ×3"
+        },
+        "11": {
+            "name": "",
+            "desc": "Champi-mageddon et Plantaire Atomique : désormais insensibles aux explosions de Cerise et de Diable à ressort. Après avoir résisté à 10k points de dégâts explosifs, déclenche une explosion de Champi-mort"
+        },
+        "12": {
+            "name": "",
+            "desc": "Lance-fléau et Lance-pourriture : le tir dispersé est désormais garanti"
+        },
+        "13": {
+            "name": "",
+            "desc": "Lance-fléau et Lance-pourriture : Niv. 1 : cumuler des points de poison empoisonne immédiatement le zombie et plafond de valeur de Poison → 120 ; Niv. 2 : plafond de valeur de Poison supprimé"
+        },
+        "14": {
+            "name": "",
+            "desc": "Canon Apocalyptique : dégâts du Tir Principal ×4 | Panmélonium : dégâts ×4"
+        },
+        "15": {
+            "name": "",
+            "desc": "Canon Apocalyptique et Panmélonium : temps de rechargement 36 s → 12 s"
+        },
+        "16": {
+            "name": "",
+            "desc": "Noix d'Obsidienne et Mine Obsidienne : plafond de PV max ×3"
+        },
+        "17": {
+            "name": "",
+            "desc": "Noix d'Obsidienne et Mine Obsidienne : peuvent désormais absorber les dégâts dirigés vers les plantes directement à leur gauche et à leur droite"
+        },
+        "18": {
+            "name": "",
+            "desc": "Champi-charisme : seuil de PV pour l'hypnose porté de 60% à 100% | Citrouille Captivante : dégâts aux zombies hypnotisés capturés réduits de moitié"
+        },
+        "19": {
+            "name": "",
+            "desc": "Champi-charisme : intervalle d'attaque → 1 s, le niveau de charge ne descend pas sous 2 et peut être nourri en métal pour atteindre le niveau de charge 3 pendant 5 min | Citrouille Captivante : niveau de charge 3 débloqué"
+        },
+        "20": {
+            "name": "",
+            "desc": "Tourelle Apoicalypse et Railgun : puissance d'attaque ×3"
+        },
+        "21": {
+            "name": "",
+            "desc": "Tourelle Apoicalypse : Niv. 1 : utiliser l'Ultime rembourse 50k d'énergie ; Niv. 2 : l'Ultime inflige aussi 20% de dégâts bonus ignorant la RD | Railgun Apoicalypse : Niv. 1 : la défense augmente quand les PV diminuent. Sous 500 PV, devient insensible aux dégâts inférieurs à 1k ; Niv. 2 : sous 500 PV, dégâts de base ×2"
+        },
+        "22": {
+            "name": "",
+            "desc": "Chou Sol : quand le Soleil dépasse 15k, chaque attaque du Chou Sol consomme 0,5% de l'excédent pour augmenter les dégâts des projectiles de 20 par Soleil dépensé | Chou Luna : dégâts augmentés de 3× par niveau Lumos"
+        },
+        "23": {
+            "name": "",
+            "desc": "Chou Sol : le Mini Soleil inflige 3× les dégâts | Chou Luna : la Mini Lune soigne 3×"
+        },
+        "24": {
+            "name": "",
+            "desc": "Citrouille Laser et Citrouille Explosive : nombre d'ailiers 1 → 3"
+        },
+        "25": {
+            "name": "",
+            "desc": "Citrouille Laser : dégâts des ailiers et du drone ×3"
+        },
+        "26": {
+            "name": "",
+            "desc": "Champi-napalm et Champi-magma : vitesse de charge et charge max ×3"
+        },
+        "27": {
+            "name": "",
+            "desc": "Champi-napalm : le brasier dure désormais 5 s (deux fois plus longtemps) | Champi-magma : dégâts du Beurre de Magma ×3"
+        },
+        "28": {
+            "name": "",
+            "desc": "Capitaine Algue-d'or : les plantes infligent 5% de dégâts d'attaque en plus pour chaque tranche de 1000 points possédés (jusqu'à +300%)"
+        },
+        "29": {
+            "name": "",
+            "desc": "Capitaine Algue-d'or : la boutique d'Odyssée offre désormais 30% de remise sur les Modificateurs"
+        },
+        "30": {
+            "name": "",
+            "desc": "McCornics le Quantique : le Trou Noir Ultime peut absorber tous les projectiles"
+        },
+        "31": {
+            "name": "",
+            "desc": "McCornics le Quantique : rayon d'absorption du Trou Noir Ultime ×2"
+        },
+        "32": {
+            "name": "",
+            "desc": "Épicéa Faucheur : les scies du faucheur boréal durent désormais 15 s | Bambou Arrache-âme : ne reçoit plus que 1/3 des dégâts entrants"
+        },
+        "33": {
+            "name": "",
+            "desc": "Épicéa Faucheur : les soins ne sont plus répartis entre les plantes | Bambou Arrache-âme : récupération de PV et de bouclier ×2"
+        },
+        "34": {
+            "name": "",
+            "desc": "Tyran Luminescent : portée d'attaque ×2"
+        },
+        "35": {
+            "name": "",
+            "desc": "Tyran Luminescent : fournit 2 niveaux Lumos à une zone de 5×5 pendant la digestion"
+        },
+        "36": {
+            "name": "",
+            "desc": "Canon Volcanique : dégâts des Bombes Volcaniques ×3 | Cratère en éruption : dégâts des Choux Pyro ×3"
+        },
+        "37": {
+            "name": "",
+            "desc": "Canon Volcanique : déclenche désormais des Détonations Thermonucléaires quand les tirs principaux frappent des Cerises Explosives ou des Jalapeños | Cratère en éruption : 10% de chance de déclencher des effets de Cerise Explosive et de Jalapeño à la position du canon et d'ignorer la limite de 10 cibles"
+        },
+        "38": {
+            "name": "",
+            "desc": "Princesse Solarnova : quand un tir solaire touche un zombie, il fait aussi exploser les projectiles proches"
+        },
+        "39": {
+            "name": "",
+            "desc": "Princesse Solarnova : plafond d'énergie ×3, production de Soleil après débordement du stockage ×3"
+        },
+        "40": {
+            "name": "",
+            "desc": "Pastèque Cyclone : la Faille Nébuleuse se concentre désormais sur le zombie ayant le moins de PV pendant la première moitié du barrage | Fongularité : ne crée désormais qu'un seul jeu de portails, mais ceux-ci génèrent ×10 flux de particules de glace"
+        },
+        "41": {
+            "name": "",
+            "desc": "Pastèque Cyclone : dégâts de la cryo-pastèque ×6, mais avec un rayon de zone réduit | Pastèque Cyclone et Fongularité : les zombies insensibles à la Distorsion temporelle subissent quand même des dégâts égaux à (Temps écoulé)% de leurs PV"
+        },
+        "42": {
+            "name": "",
+            "desc": "Prométhée Queue-de-lion : fréquence des dégâts du rayon de chaleur ×2"
+        },
+        "43": {
+            "name": "",
+            "desc": "Prométhée Queue-de-lion : dégâts des tirs normaux ×3"
+        },
+        "44": {
+            "name": "",
+            "desc": "Léviathan Scylla : les sbires Étrangleurs peuvent noyer jusqu'à 3 zombies (ou infliger ×3 dégâts), et chaque zombie noyé rapporte 10 cumuls d'énergie"
+        },
+        "45": {
+            "name": "",
+            "desc": "Léviathan Scylla : tire 3 projectiles d'attaque de base à la fois"
+        },
+        "46": {
+            "name": "",
+            "desc": "Faucheuse Cryolina et Pleureur Habanero : plafond de charges d'âme porté à 10, gagne désormais 1 charge d'âme chaque fois qu'un Mini-boss meurt"
+        },
+        "47": {
+            "name": "",
+            "desc": "Faucheuse Cryolina et Pleureur Habanero : utiliser une charge d'âme accorde aussi 1 s d'invincibilité à toutes les plantes"
+        },
+        "48": {
+            "name": "",
+            "desc": "Séparateur de Photons : Niv. 1 : plafond d'énergie Lumos porté de 1000 à 2000 ; Niv. 2 : plafond d'énergie Lumos encore porté à 10k | Orbiteur Axion : rayon de dégâts des projectiles +50%"
+        },
+        "49": {
+            "name": "",
+            "desc": "Séparateur de Photons : améliore l'efficacité de Transfert de 50%, et de 250% si l'énergie de la cible < 1000 | Orbiteur Axion : tire désormais 2 projectiles supplémentaires à chaque attaque"
+        },
+        "50": {
+            "name": "",
+            "desc": "Commando Chevrotine : chances de déclenchement de l'Ultime de tous les Commandos ×3 | Pois-sniper Synchroniseur : tous les Pois-sniper tirent un coup supplémentaire après un Tir à la tête"
+        },
+        "51": {
+            "name": "",
+            "desc": "Commando Chevrotine : dégâts de l'Ultime de tous les Commandos ×2 et ne se dispersent plus | Pois-sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
+        }
     },
     "unlocks": {
-        "0": "Débloquer Cerizilla : Mordzilla + Mordeur Explosif\net sa sous-espèce Aillizilla",
-        "1": "Débloquer Sulfateuse à Grenades : Sulfateuse à Cerises + Pisto-grenade\net sa sous-espèce Drone à Grenades",
-        "2": "Débloquer Champi-nator : Champi-glace Maudit + Champi-cryonique\net sa sous-espèce Épi-nator",
-        "3": "Débloquer Bois-écraseur Infernal : Écraseur Épicé + Torche Infernale\net sa sous-espèce Bois-étincelle Infernal",
-        "4": "Débloquer Étoile Polaire : Étoile Filante + Cactus Magnétique\net sa sous-espèce Pulsar",
-        "5": "Débloquer Champi-mageddon : Champi-glace Maudit + Champi-sombre Givré\net sa sous-espèce Plantaire Atomique",
-        "6": "Débloquer Lance-fléau : Lance-salade + Lance-ail\net sa sous-espèce Lance-détritus",
-        "7": "Débloquer Canon Apocalyptique : Canon Cryo + Champi-omnicide\net sa sous-espèce Panmélonium",
-        "8": "Débloquer Noix d'Obsidienne : Noix Glacée + Noix Brûlante\net sa sous-espèce Mine Obsidienne",
-        "9": "Débloquer Champi-charisme : Champi-charmant + Aimant Charmant\net sa sous-espèce Citrouille Captivante",
-        "10": "Débloquer Tourelle Apoicalypse : Tourelle à Pois Titan + Givre Épicé\net sa sous-espèce Railgun Apoicalypse",
-        "11": "Débloquer Chou Sol : Lance-soleil + Chou Doré\net sa sous-espèce Chou Luna",
-        "12": "Débloquer Citrouille Laser : Citrouille-convoyeuse + Troufle Magnétique\net sa sous-espèce Citrouille Explosive",
-        "13": "Débloquer Champi-napalm : Pastèque Enflammée + Champi-quarterback\net sa sous-espèce Champi-magma",
-        "14": "Débloquer Capitaine Algue-d'or : Double Souci > Algue Hydre",
-        "15": "Débloquer McCornics le Quantique : Bébé Maïs ×3 + Lance-portail\net sa sous-espèce Noix Astrale",
-        "16": "Débloquer Épicéa Faucheur : Épicéa Super-tireur + Épicéa en Fleur\net sa sous-espèce Bambou Arrache-âme",
-        "17": "Débloquer Tyran Luminescent : Lotte Lumineuse > Gueule de Mordeur",
-        "18": "Débloquer Canon Volcanique : Canon Pyro + Piment Pétard\net sa sous-espèce Cratère en éruption",
-        "19": "Débloquer Princesse Solarnova : Fleur-torche + Tournesol Doré",
-        "20": "Débloquer Pastèque Cyclone : Pastèque Glacée + Pastèque Temporelle\net sa sous-espèce Fongularité",
-        "21": "Débloquer Prométhée Queue-de-lion : Nénu-chat Enflammé + Piment Pétard",
-        "22": "Débloquer Léviathan Scylla : Champi-vairon + Champi-kraken",
-        "23": "Débloquer Faucheuse Cryolina : Givre Épicé + Givre Épicé\net sa sous-espèce Pleureur Habanero",
-        "24": "Débloquer Séparateur de Photons : Triple-lumière + Pois Temporel\net sa sous-espèce Orbiteur Axion",
-        "25": "Débloquer Commando Chevrotine : Sulfateuse Quarterback + Pois Renforcé\net sa sous-espèce Pois-sniper Synchroniseur"
+        "0": {
+            "name": "",
+            "desc": "Débloquer Cerizilla : Mordzilla + Mordeur Explosif\net sa sous-espèce Aillizilla"
+        },
+        "1": {
+            "name": "",
+            "desc": "Débloquer Sulfateuse à Grenades : Sulfateuse à Cerises + Pisto-grenade\net sa sous-espèce Drone à Grenades"
+        },
+        "2": {
+            "name": "",
+            "desc": "Débloquer Champi-nator : Champi-glace Maudit + Champi-cryonique\net sa sous-espèce Épi-nator"
+        },
+        "3": {
+            "name": "",
+            "desc": "Débloquer Bois-écraseur Infernal : Écraseur Épicé + Torche Infernale\net sa sous-espèce Bois-étincelle Infernal"
+        },
+        "4": {
+            "name": "",
+            "desc": "Débloquer Étoile Polaire : Étoile Filante + Cactus Magnétique\net sa sous-espèce Pulsar"
+        },
+        "5": {
+            "name": "",
+            "desc": "Débloquer Champi-mageddon : Champi-glace Maudit + Champi-sombre Givré\net sa sous-espèce Plantaire Atomique"
+        },
+        "6": {
+            "name": "",
+            "desc": "Débloquer Lance-fléau : Lance-salade + Lance-ail\net sa sous-espèce Lance-détritus"
+        },
+        "7": {
+            "name": "",
+            "desc": "Débloquer Canon Apocalyptique : Canon Cryo + Champi-omnicide\net sa sous-espèce Panmélonium"
+        },
+        "8": {
+            "name": "",
+            "desc": "Débloquer Noix d'Obsidienne : Noix Glacée + Noix Brûlante\net sa sous-espèce Mine Obsidienne"
+        },
+        "9": {
+            "name": "",
+            "desc": "Débloquer Champi-charisme : Champi-charmant + Aimant Charmant\net sa sous-espèce Citrouille Captivante"
+        },
+        "10": {
+            "name": "",
+            "desc": "Débloquer Tourelle Apoicalypse : Tourelle à Pois Titan + Givre Épicé\net sa sous-espèce Railgun Apoicalypse"
+        },
+        "11": {
+            "name": "",
+            "desc": "Débloquer Chou Sol : Lance-soleil + Chou Doré\net sa sous-espèce Chou Luna"
+        },
+        "12": {
+            "name": "",
+            "desc": "Débloquer Citrouille Laser : Citrouille-convoyeuse + Troufle Magnétique\net sa sous-espèce Citrouille Explosive"
+        },
+        "13": {
+            "name": "",
+            "desc": "Débloquer Champi-napalm : Pastèque Enflammée + Champi-quarterback\net sa sous-espèce Champi-magma"
+        },
+        "14": {
+            "name": "",
+            "desc": "Débloquer Capitaine Algue-d'or : Double Souci > Algue Hydre"
+        },
+        "15": {
+            "name": "",
+            "desc": "Débloquer McCornics le Quantique : Bébé Maïs ×3 + Lance-portail\net sa sous-espèce Noix Astrale"
+        },
+        "16": {
+            "name": "",
+            "desc": "Débloquer Épicéa Faucheur : Épicéa Super-tireur + Épicéa en Fleur\net sa sous-espèce Bambou Arrache-âme"
+        },
+        "17": {
+            "name": "",
+            "desc": "Débloquer Tyran Luminescent : Lotte Lumineuse > Gueule de Mordeur"
+        },
+        "18": {
+            "name": "",
+            "desc": "Débloquer Canon Volcanique : Canon Pyro + Piment Pétard\net sa sous-espèce Cratère en éruption"
+        },
+        "19": {
+            "name": "",
+            "desc": "Débloquer Princesse Solarnova : Fleur-torche + Tournesol Doré"
+        },
+        "20": {
+            "name": "",
+            "desc": "Débloquer Pastèque Cyclone : Pastèque Glacée + Pastèque Temporelle\net sa sous-espèce Fongularité"
+        },
+        "21": {
+            "name": "",
+            "desc": "Débloquer Prométhée Queue-de-lion : Nénu-chat Enflammé + Piment Pétard"
+        },
+        "22": {
+            "name": "",
+            "desc": "Débloquer Léviathan Scylla : Champi-vairon + Champi-kraken"
+        },
+        "23": {
+            "name": "",
+            "desc": "Débloquer Faucheuse Cryolina : Givre Épicé + Givre Épicé\net sa sous-espèce Pleureur Habanero"
+        },
+        "24": {
+            "name": "",
+            "desc": "Débloquer Séparateur de Photons : Triple-lumière + Pois Temporel\net sa sous-espèce Orbiteur Axion"
+        },
+        "25": {
+            "name": "",
+            "desc": "Débloquer Commando Chevrotine : Sulfateuse Quarterback + Pois Renforcé\net sa sous-espèce Pois-sniper Synchroniseur"
+        }
     },
     "debuffs": {
-        "0": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit",
-        "1": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut",
-        "2": "Zombie QB Giga-noix : les morsures désactivent désormais les soins de plante pendant 1 s",
-        "3": "Zombie QB Giga-noix : les morsures affaiblissent les plantes, leur faisant subir 3× les dégâts pendant 1 s",
-        "4": "Requin-marine : vitesse de déplacement ×2",
-        "5": "Requin-marine : gagne 50% de réduction de dégâts",
-        "6": "Zomppelin Kirov : immunité aux Troufles | vitesse de déplacement ×5",
-        "7": "Zomppelin Kirov : les drones invoqués ont désormais 50× PV",
-        "8": "Clown Pogo : explose désormais toujours à sa mort, et le temps de charge du grand saut est réduit de 90% | Zombie Clown sur Jet-ski : dégâts de la bombe +500",
-        "9": "Clown Pogo : les Zombies de type Diable à ressort affectés par l'explosion se transforment en Clowns Pogo | Zombie Clown sur Jet-ski : dégâts de la bombe +500",
-        "10": "Giga-noix à Trident : lance désormais 2 tridents supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants",
-        "11": "Giga-noix à Trident : ignore désormais les plantes de type Ombrelle et cible des plantes aléatoires à attaquer",
-        "12": "Michael Superstar : peut désormais invoquer des Super Zombies Danseurs",
-        "13": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur",
-        "14": "Spectre Immortel : les dégâts d'explosion ignorent désormais les immunités des Citrouilles Joker et autres plantes concernées",
-        "15": "Spectre Immortel : TR de ruée réduit | puissance d'attaque grandement augmentée",
-        "16": "Hwacha Lance-trident : désormais insensible à la plupart des effets de statut et lance 5× plus de tridents",
-        "17": "Hwacha Lance-trident : attaque désormais à l'avance",
-        "18": "Zomboni Michael : apparaît désormais à chaque manche | génère un Michael Superstar supplémentaire à sa mort",
-        "19": "Zomboni Michael : vitesse de déplacement des Zombonis Michael et de Jackson Worldwide ×5",
-        "20": "Les Zombies Kidnappeurs ont une chance de lâcher un Zombie d'Odyssée en 4e colonne ou plus à droite et gagnent 90% de réduction de dégâts",
-        "21": "L'Escouade d'Assassins Alpha peut désormais se relever indéfiniment après avoir été neutralisée",
-        "22": "Disque Givré de la Légion : les rayons dissolvants ciblent désormais la plante la plus éloignée à portée",
-        "23": "Disque Givré de la Légion : portée du Drain Siphon : 1 case → zone de 3×3",
-        "24": "Gargantua Élémentaire : l'apparence n'a plus d'importance, possède désormais les capacités supplémentaires des quatre affinités à la fois",
-        "25": "Gargantua Élémentaire : l'apparence n'a plus d'importance, possède désormais les immunités aux malus des quatre affinités à la fois",
-        "26": "Gargantua Jugger-noix à Trident : vitesse de rechargement des tridents ×3",
-        "27": "Gargantua Jugger-noix à Trident : récupère désormais 10% de ses PV max en lançant des tridents",
-        "28": "Zombie Méga Mécha-bowling : pour les 50 premiers coups, tous les zombies ne subissent que 1 dégât",
-        "29": "Zombie Méga Mécha-bowling : tous les zombies gagnent 0,2 s d'immunité aux dégâts après chaque coup, pour tout dégât n'excédant pas le précédent ; cela se déclenche jusqu'à 100 fois",
-        "30": "Zombie Mammouth de Guerre : apparaît désormais par groupes de 3",
-        "31": "Zombie Mammouth de Guerre : pour chacun sur le terrain, les zombies mini-boss gagnent +100 de valeur de RD",
-        "32": "Brigade de Bobsleigh Chevrotine : insensible au beurre et au gel",
-        "33": "Brigade de Bobsleigh Chevrotine : entre rapidement sur le terrain, mais ralentit avec le temps",
-        "1000": "Votre Soleil sera réinitialisé à 0",
-        "1001": "Vos points seront réinitialisés à 0",
-        "1002": "Vous ne pouvez pas avoir plus de 120 plantes sur le terrain",
-        "1003": "Toutes vos plantes existantes ont 1/3 de chance de périr (appliqué une seule fois)",
-        "1004": "Taux d'augmentation des PV max des zombies après chaque manche : 20% → 30%",
-        "1005": "Tous les zombies ont 1/3 de chance de ressusciter à pleins PV à leur mort",
-        "1006": "Augmente la limite maximale de zombies par vague à 100",
-        "1007": "Le nombre maximum de zombies par vague est réduit de moitié, mais tous les zombies ont ×2 PV et Attaque",
-        "1008": "Tous les soins et boucliers sur les plantes sont réduits de 50%",
-        "1009": "Les plantes perdent des PV max égaux à 10% des dégâts reçus (jusqu'à 40% et réinitialisé entre les manches) en subissant des dégâts",
-        "1010": "Toutes les plantes coûtent désormais 3× Soleil",
-        "1011": "Le temps avant la première vague de zombies est réduit à 5 s, et l'intervalle entre les vagues est réduit à 15 s",
-        "1012": "L'Attaque et les PV max des plantes d'Odyssée sont réduits de 90%, mais toutes les autres plantes ont désormais 40× Attaque et PV max, et 2× vitesse d'attaque",
-        "1013": "Les zombies mini-boss gagnent un bonus de vitesse de 60% et un bonus de PV max de 30%",
-        "1014": "Les zombies non mini-boss gagnent un bonus de vitesse de 30% et un bonus de PV max de 60%",
-        "1015": "Les zombies volants ont désormais 2× PV max",
-        "1016": "Quand des plantes sont tuées, elles infligent des dégâts égaux à leurs PV max aux autres plantes dans une zone de 3×3",
-        "1017": "Tous les zombies non-Odyssée ont désormais ×2 PV, Attaque et Vitesse",
-        "1018": "L'affichage des PV des plantes sera désormais désactivé",
-        "1019": "L'affichage des PV des zombies sera désormais désactivé",
-        "2000": "Le Gargantua Céleste apparaîtra",
-        "2001": "Le Zombie-champi-mort-sulfateuse à Journal apparaîtra",
-        "2002": "Le Disque D.A.M.P. apparaîtra",
-        "2003": "Le Tueur Assassin Alpha apparaîtra",
-        "2004": "La Brigade de Bobsleigh Chevrotine apparaîtra",
-        "3000": "Le Gargantua Abyssal apparaîtra en tant que Mini-boss",
-        "3001": "Gargantua Abyssal : fait apparaître le Dr. Zomboss à sa mort",
-        "3002": "L'Arche Canard de l'Empereur apparaîtra en tant que Mini-boss",
-        "3003": "Arche Canard de l'Empereur : récupère désormais 500 PV chaque fois qu'il esquive une attaque",
-        "3004": "Jackson Worldwide apparaîtra en tant que Mini-boss",
-        "3005": "Jackson Worldwide : gagne désormais 50% de réduction des dégâts entrants",
-        "3006": "Le Giga Rugby Attaquant apparaîtra en tant que Mini-boss",
-        "3007": "Giga Rugby Attaquant : gagne désormais des bonus 2× plus vite",
-        "3008": "Pozeidon apparaîtra en tant que Mini-boss",
-        "3010": "L'Ultra Mécha-noix apparaîtra en tant que Mini-boss",
-        "3012": "Le Mecha Aéroglisseur apparaîtra en tant que Mini-boss",
-        "3014": "Le Professeur Ceriz apparaîtra en tant que Mini-boss",
-        "3016": "La Reine Jill-dans-la-boite apparaîtra en tant que Mini-boss",
-        "3018": "L'Escouade d'Assassins Oméga apparaîtra en tant que Mini-boss",
-        "3020": "Le Giga Rugby Archiduc apparaîtra en tant que Mini-boss",
-        "3021": "Giga Rugby Archiduc : l'Archiduc transformera son destrier de guerre en faux et améliorera considérablement ses capacités après avoir mis pied à terre.",
-        "3022": "Le Dragon Millénaire et Gardien apparaîtra en tant que Mini-boss",
-        "3023": "Le Cavalier de Cerasocetus apparaîtra en tant que Mini-boss",
-        "4000": "Le Gargantua Abyssal accorde +400 de valeur de RD à tous les zombies tant qu'il est présent",
-        "4001": "L'Arche Canard de l'Empereur accorde +400 de valeur de RD à tous les zombies tant qu'elle est présente",
-        "4002": "Le Giga Rugby Attaquant accorde +400 de valeur de RD à tous les zombies tant qu'il est présent",
-        "4003": "Jackson Worldwide accorde +400 de valeur de RD à tous les zombies tant qu'il est présent",
-        "4004": "Le Giga Rugby Archiduc accorde +400 de valeur de RD à tous les zombies tant qu'il est présent",
-        "5000": "Les zombies gagnent une immunité aux effets de statut entravants pendant 3 s après avoir été continuellement sous un tel effet pendant 5 s",
-        "5001": "Les dégâts d'attaque de tous les zombies sur le terrain sont doublés toutes les 3 s, jusqu'à 1 M",
-        "5002": "Les zombies gagnent une valeur de RD égale à 1% des dégâts entrants quand ils subissent plus de 100 dégâts, jusqu'à +1000 de valeur de RD",
-        "5003": "Les zombies renvoient 100% des dégâts aux plantes quand ils esquivent une attaque, avec un TR de 0,2 s",
-        "5004": "Quand un zombie inflige des dégâts d'écrasement à une plante, cette plante gagne des cumuls de malédiction égaux à 1% de ses PV."
+        "0": {
+            "name": "",
+            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit"
+        },
+        "1": {
+            "name": "",
+            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut"
+        },
+        "2": {
+            "name": "",
+            "desc": "Zombie QB Giga-noix : les morsures désactivent désormais les soins de plante pendant 1 s"
+        },
+        "3": {
+            "name": "",
+            "desc": "Zombie QB Giga-noix : les morsures affaiblissent les plantes, leur faisant subir 3× les dégâts pendant 1 s"
+        },
+        "4": {
+            "name": "",
+            "desc": "Requin-marine : vitesse de déplacement ×2"
+        },
+        "5": {
+            "name": "",
+            "desc": "Requin-marine : gagne 50% de réduction de dégâts"
+        },
+        "6": {
+            "name": "",
+            "desc": "Zomppelin Kirov : immunité aux Troufles | vitesse de déplacement ×5"
+        },
+        "7": {
+            "name": "",
+            "desc": "Zomppelin Kirov : les drones invoqués ont désormais 50× PV"
+        },
+        "8": {
+            "name": "",
+            "desc": "Clown Pogo : explose désormais toujours à sa mort, et le temps de charge du grand saut est réduit de 90% | Zombie Clown sur Jet-ski : dégâts de la bombe +500"
+        },
+        "9": {
+            "name": "",
+            "desc": "Clown Pogo : les Zombies de type Diable à ressort affectés par l'explosion se transforment en Clowns Pogo | Zombie Clown sur Jet-ski : dégâts de la bombe +500"
+        },
+        "10": {
+            "name": "",
+            "desc": "Giga-noix à Trident : lance désormais 2 tridents supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants"
+        },
+        "11": {
+            "name": "",
+            "desc": "Giga-noix à Trident : ignore désormais les plantes de type Ombrelle et cible des plantes aléatoires à attaquer"
+        },
+        "12": {
+            "name": "",
+            "desc": "Michael Superstar : peut désormais invoquer des Super Zombies Danseurs"
+        },
+        "13": {
+            "name": "",
+            "desc": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur"
+        },
+        "14": {
+            "name": "",
+            "desc": "Spectre Immortel : les dégâts d'explosion ignorent désormais les immunités des Citrouilles Joker et autres plantes concernées"
+        },
+        "15": {
+            "name": "",
+            "desc": "Spectre Immortel : TR de ruée réduit | puissance d'attaque grandement augmentée"
+        },
+        "16": {
+            "name": "",
+            "desc": "Hwacha Lance-trident : désormais insensible à la plupart des effets de statut et lance 5× plus de tridents"
+        },
+        "17": {
+            "name": "",
+            "desc": "Hwacha Lance-trident : attaque désormais à l'avance"
+        },
+        "18": {
+            "name": "",
+            "desc": "Zomboni Michael : apparaît désormais à chaque manche | génère un Michael Superstar supplémentaire à sa mort"
+        },
+        "19": {
+            "name": "",
+            "desc": "Zomboni Michael : vitesse de déplacement des Zombonis Michael et de Jackson Worldwide ×5"
+        },
+        "20": {
+            "name": "",
+            "desc": "Les Zombies Kidnappeurs ont une chance de lâcher un Zombie d'Odyssée en 4e colonne ou plus à droite et gagnent 90% de réduction de dégâts"
+        },
+        "21": {
+            "name": "",
+            "desc": "L'Escouade d'Assassins Alpha peut désormais se relever indéfiniment après avoir été neutralisée"
+        },
+        "22": {
+            "name": "",
+            "desc": "Disque Givré de la Légion : les rayons dissolvants ciblent désormais la plante la plus éloignée à portée"
+        },
+        "23": {
+            "name": "",
+            "desc": "Disque Givré de la Légion : portée du Drain Siphon : 1 case → zone de 3×3"
+        },
+        "24": {
+            "name": "",
+            "desc": "Gargantua Élémentaire : l'apparence n'a plus d'importance, possède désormais les capacités supplémentaires des quatre affinités à la fois"
+        },
+        "25": {
+            "name": "",
+            "desc": "Gargantua Élémentaire : l'apparence n'a plus d'importance, possède désormais les immunités aux malus des quatre affinités à la fois"
+        },
+        "26": {
+            "name": "",
+            "desc": "Gargantua Jugger-noix à Trident : vitesse de rechargement des tridents ×3"
+        },
+        "27": {
+            "name": "",
+            "desc": "Gargantua Jugger-noix à Trident : récupère désormais 10% de ses PV max en lançant des tridents"
+        },
+        "28": {
+            "name": "",
+            "desc": "Zombie Méga Mécha-bowling : pour les 50 premiers coups, tous les zombies ne subissent que 1 dégât"
+        },
+        "29": {
+            "name": "",
+            "desc": "Zombie Méga Mécha-bowling : tous les zombies gagnent 0,2 s d'immunité aux dégâts après chaque coup, pour tout dégât n'excédant pas le précédent ; cela se déclenche jusqu'à 100 fois"
+        },
+        "30": {
+            "name": "",
+            "desc": "Zombie Mammouth de Guerre : apparaît désormais par groupes de 3"
+        },
+        "31": {
+            "name": "",
+            "desc": "Zombie Mammouth de Guerre : pour chacun sur le terrain, les zombies mini-boss gagnent +100 de valeur de RD"
+        },
+        "32": {
+            "name": "",
+            "desc": "Brigade de Bobsleigh Chevrotine : insensible au beurre et au gel"
+        },
+        "33": {
+            "name": "",
+            "desc": "Brigade de Bobsleigh Chevrotine : entre rapidement sur le terrain, mais ralentit avec le temps"
+        },
+        "1000": {
+            "name": "",
+            "desc": "Votre Soleil sera réinitialisé à 0"
+        },
+        "1001": {
+            "name": "",
+            "desc": "Vos points seront réinitialisés à 0"
+        },
+        "1002": {
+            "name": "",
+            "desc": "Vous ne pouvez pas avoir plus de 120 plantes sur le terrain"
+        },
+        "1003": {
+            "name": "",
+            "desc": "Toutes vos plantes existantes ont 1/3 de chance de périr (appliqué une seule fois)"
+        },
+        "1004": {
+            "name": "",
+            "desc": "Taux d'augmentation des PV max des zombies après chaque manche : 20% → 30%"
+        },
+        "1005": {
+            "name": "",
+            "desc": "Tous les zombies ont 1/3 de chance de ressusciter à pleins PV à leur mort"
+        },
+        "1006": {
+            "name": "",
+            "desc": "Augmente la limite maximale de zombies par vague à 100"
+        },
+        "1007": {
+            "name": "",
+            "desc": "Le nombre maximum de zombies par vague est réduit de moitié, mais tous les zombies ont ×2 PV et Attaque"
+        },
+        "1008": {
+            "name": "",
+            "desc": "Tous les soins et boucliers sur les plantes sont réduits de 50%"
+        },
+        "1009": {
+            "name": "",
+            "desc": "Les plantes perdent des PV max égaux à 10% des dégâts reçus (jusqu'à 40% et réinitialisé entre les manches) en subissant des dégâts"
+        },
+        "1010": {
+            "name": "",
+            "desc": "Toutes les plantes coûtent désormais 3× Soleil"
+        },
+        "1011": {
+            "name": "",
+            "desc": "Le temps avant la première vague de zombies est réduit à 5 s, et l'intervalle entre les vagues est réduit à 15 s"
+        },
+        "1012": {
+            "name": "",
+            "desc": "L'Attaque et les PV max des plantes d'Odyssée sont réduits de 90%, mais toutes les autres plantes ont désormais 40× Attaque et PV max, et 2× vitesse d'attaque"
+        },
+        "1013": {
+            "name": "",
+            "desc": "Les zombies mini-boss gagnent un bonus de vitesse de 60% et un bonus de PV max de 30%"
+        },
+        "1014": {
+            "name": "",
+            "desc": "Les zombies non mini-boss gagnent un bonus de vitesse de 30% et un bonus de PV max de 60%"
+        },
+        "1015": {
+            "name": "",
+            "desc": "Les zombies volants ont désormais 2× PV max"
+        },
+        "1016": {
+            "name": "",
+            "desc": "Quand des plantes sont tuées, elles infligent des dégâts égaux à leurs PV max aux autres plantes dans une zone de 3×3"
+        },
+        "1017": {
+            "name": "",
+            "desc": "Tous les zombies non-Odyssée ont désormais ×2 PV, Attaque et Vitesse"
+        },
+        "1018": {
+            "name": "",
+            "desc": "L'affichage des PV des plantes sera désormais désactivé"
+        },
+        "1019": {
+            "name": "",
+            "desc": "L'affichage des PV des zombies sera désormais désactivé"
+        },
+        "2000": {
+            "name": "",
+            "desc": "Le Gargantua Céleste apparaîtra"
+        },
+        "2001": {
+            "name": "",
+            "desc": "Le Zombie-champi-mort-sulfateuse à Journal apparaîtra"
+        },
+        "2002": {
+            "name": "",
+            "desc": "Le Disque D.A.M.P. apparaîtra"
+        },
+        "2003": {
+            "name": "",
+            "desc": "Le Tueur Assassin Alpha apparaîtra"
+        },
+        "2004": {
+            "name": "",
+            "desc": "La Brigade de Bobsleigh Chevrotine apparaîtra"
+        },
+        "3000": {
+            "name": "",
+            "desc": "Le Gargantua Abyssal apparaîtra en tant que Mini-boss"
+        },
+        "3001": {
+            "name": "",
+            "desc": "Gargantua Abyssal : fait apparaître le Dr. Zomboss à sa mort"
+        },
+        "3002": {
+            "name": "",
+            "desc": "L'Arche Canard de l'Empereur apparaîtra en tant que Mini-boss"
+        },
+        "3003": {
+            "name": "",
+            "desc": "Arche Canard de l'Empereur : récupère désormais 500 PV chaque fois qu'il esquive une attaque"
+        },
+        "3004": {
+            "name": "",
+            "desc": "Jackson Worldwide apparaîtra en tant que Mini-boss"
+        },
+        "3005": {
+            "name": "",
+            "desc": "Jackson Worldwide : gagne désormais 50% de réduction des dégâts entrants"
+        },
+        "3006": {
+            "name": "",
+            "desc": "Le Giga Rugby Attaquant apparaîtra en tant que Mini-boss"
+        },
+        "3007": {
+            "name": "",
+            "desc": "Giga Rugby Attaquant : gagne désormais des bonus 2× plus vite"
+        },
+        "3008": {
+            "name": "",
+            "desc": "Pozeidon apparaîtra en tant que Mini-boss"
+        },
+        "3010": {
+            "name": "",
+            "desc": "L'Ultra Mécha-noix apparaîtra en tant que Mini-boss"
+        },
+        "3012": {
+            "name": "",
+            "desc": "Le Mecha Aéroglisseur apparaîtra en tant que Mini-boss"
+        },
+        "3014": {
+            "name": "",
+            "desc": "Le Professeur Ceriz apparaîtra en tant que Mini-boss"
+        },
+        "3016": {
+            "name": "",
+            "desc": "La Reine Jill-dans-la-boite apparaîtra en tant que Mini-boss"
+        },
+        "3018": {
+            "name": "",
+            "desc": "L'Escouade d'Assassins Oméga apparaîtra en tant que Mini-boss"
+        },
+        "3020": {
+            "name": "",
+            "desc": "Le Giga Rugby Archiduc apparaîtra en tant que Mini-boss"
+        },
+        "3021": {
+            "name": "",
+            "desc": "Giga Rugby Archiduc : l'Archiduc transformera son destrier de guerre en faux et améliorera considérablement ses capacités après avoir mis pied à terre."
+        },
+        "3022": {
+            "name": "",
+            "desc": "Le Dragon Millénaire et Gardien apparaîtra en tant que Mini-boss"
+        },
+        "3023": {
+            "name": "",
+            "desc": "Le Cavalier de Cerasocetus apparaîtra en tant que Mini-boss"
+        },
+        "4000": {
+            "name": "",
+            "desc": "Le Gargantua Abyssal accorde +400 de valeur de RD à tous les zombies tant qu'il est présent"
+        },
+        "4001": {
+            "name": "",
+            "desc": "L'Arche Canard de l'Empereur accorde +400 de valeur de RD à tous les zombies tant qu'elle est présente"
+        },
+        "4002": {
+            "name": "",
+            "desc": "Le Giga Rugby Attaquant accorde +400 de valeur de RD à tous les zombies tant qu'il est présent"
+        },
+        "4003": {
+            "name": "",
+            "desc": "Jackson Worldwide accorde +400 de valeur de RD à tous les zombies tant qu'il est présent"
+        },
+        "4004": {
+            "name": "",
+            "desc": "Le Giga Rugby Archiduc accorde +400 de valeur de RD à tous les zombies tant qu'il est présent"
+        },
+        "5000": {
+            "name": "",
+            "desc": "Les zombies gagnent une immunité aux effets de statut entravants pendant 3 s après avoir été continuellement sous un tel effet pendant 5 s"
+        },
+        "5001": {
+            "name": "",
+            "desc": "Les dégâts d'attaque de tous les zombies sur le terrain sont doublés toutes les 3 s, jusqu'à 1 M"
+        },
+        "5002": {
+            "name": "",
+            "desc": "Les zombies gagnent une valeur de RD égale à 1% des dégâts entrants quand ils subissent plus de 100 dégâts, jusqu'à +1000 de valeur de RD"
+        },
+        "5003": {
+            "name": "",
+            "desc": "Les zombies renvoient 100% des dégâts aux plantes quand ils esquivent une attaque, avec un TR de 0,2 s"
+        },
+        "5004": {
+            "name": "",
+            "desc": "Quand un zombie inflige des dégâts d'écrasement à une plante, cette plante gagne des cumuls de malédiction égaux à 1% de ses PV."
+        }
     },
     "investmentBuffs": {
-        "0": "Les plantes infligent 40% de dégâts en plus durant les premiers 50% de la manche",
-        "1": "À la fin de chaque manche, gagnez 300 points pour chaque type de plante ayant infligé 0 dégât cette manche (jusqu'à 10 types de plantes)",
-        "2": "À la fin de chaque manche, gagnez 1,5k points et 5% de PV max en plus pour toutes vos plantes si aucune de vos plantes n'a atteint 0 PV cette manche",
-        "3": "Transforme toutes les plantes de la pelouse en plantes aléatoires, gagnez 1000 points immédiatement et le Gant n'aura pas de TR cette manche",
-        "4": "Gagnez immédiatement 10 plantes d'Odyssée aléatoires sous forme de cartes",
-        "5": "Chaque fois qu'un Mini-boss est vaincu, toutes les plantes se soignent de 10% de leurs PV max",
-        "6": "Tous les zombies non mini-boss ont 10% de PV en moins",
-        "7": "Tous les Mini-boss ont 10% de PV en moins",
-        "8": "À chaque vague, 1500% de dégâts de base sont infligés au zombie ayant le plus de PV",
-        "9": "Le type de plante infligeant le plus de dégâts inflige 25% de dégâts supplémentaires",
-        "10": "Au début de chaque manche, vos plantes gagnent 3% de réduction de dégâts pour chaque type de plante non-Odyssée sur la pelouse, jusqu'à 30%",
-        "11": "Au début de chaque manche, les 6 plantes infligeant le plus de dégâts gagnent un bonus de dégâts de 20%",
-        "12": "Vous gagnez 6 relances supplémentaires en boutique si vous n'avez rien acheté lors de la dernière visite",
-        "13": "Gagnez 11 relances de boutique supplémentaires",
-        "1000": "<color=#AF4900>Pelletez toutes vos plantes, mais votre Soleil est doublé, et au début de chaque manche toutes les plantes gagnent un Bouclier égal au coût total en Soleil des plantes pelletées",
-        "1001": "<color=#AF4900>Pelletez toutes vos plantes, mais votre Soleil est doublé, et les cartes de graines n'ont pas de TR cette manche",
-        "1002": "<color=#AF4900>Vos équipes gagnent 18% de chance de coup critique",
-        "1003": "<color=#AF4900>Au début de chaque manche, vos plantes gagnent 3% de PV en plus et 6% de dégâts d'attaque en plus pour chaque type de plante sur la pelouse",
-        "1004": "<color=#AF4900>Le type de plante infligeant le plus de dégâts inflige 40% de dégâts supplémentaires et vos équipes infligent aussi 10% de dégâts en plus",
-        "1005": "<color=#AF4900>Au début de chaque manche, la plante normale la plus à gauche de chaque rangée gagne un bonus de vitesse d'attaque de 150%, mais au début de chaque vague, elle subit des dégâts égaux à 1000% de ses PV max",
-        "1006": "<color=#AF4900>Au début de chaque manche, la plante normale la plus à gauche de chaque rangée gagne un bonus de dégâts égal à 0,1% des PV max de la plante normale la plus à droite, et la plante normale la plus à droite gagne des PV max égaux à 1000% des dégâts de la plante normale la plus à gauche",
-        "1007": "<color=#AF4900>Au début de chaque manche, vos équipes gagnent 25% de chance de coup critique, et 30% de PV max en moins",
-        "1008": "<color=#AF4900>Vos équipes gagnent 10% de chance de coup critique. Au début de chaque manche, cette chance augmente de 1%",
-        "1009": "<color=#AF4900>Vos équipes gagnent un bonus de dégâts d'attaque de 10%. Au début de chaque manche, s'il y a 200 plantes ou plus dans vos équipes, toutes les plantes gagnent un bonus de dégâts d'attaque supplémentaire de 50%",
-        "1010": "<color=#AF4900>Au début de chaque manche et maintenant, gagnez 1,5k points et une relance supplémentaire",
-        "1011": "<color=#AF4900>Au début de chaque manche, promouvez une plante non-Odyssée aléatoire au Palier 2",
-        "1012": "<color=#AF4900>Vous gagnez une Boîte Cadeau de Plante chaque fois que vous effectuez une fusion",
-        "1013": "<color=#AF4900>Vos plantes infligent 40% de dégâts en plus durant les derniers 50% de la manche",
-        "2000": "<color=#007FFF>Vos équipes gagnent 25% de chance de coup critique. Elles gagnent aussi une chance égale à 30% de leur chance de critique de réduire à 1 tout dégât entrant",
-        "2001": "<color=#007FFF>Vos équipes gagnent 25% de réduction de dégâts, et une chance de critique égale à leur taux de réduction de dégâts",
-        "2002": "<color=#007FFF>Au début de chaque manche, chaque plante a 50% de chance de gagner un bonus de dégâts d'attaque de 100%",
-        "2003": "<color=#007FFF>Vos équipes gagnent un bonus de dégâts d'attaque permanent de 8% chaque fois qu'un Mini-boss est vaincu",
-        "2004": "<color=#007FFF>Au début de chaque manche, promouvez une plante non-Odyssée aléatoire au Palier 3",
-        "2005": "<color=#007FFF>Augmente la chance de critique de vos équipes de 30%. Si la chance de critique dépasse 100%, les dégâts critiques sont augmentés de 40%",
-        "2006": "<color=#007FFF>Un Endoflamme super rare contenant une tonne de points apparaît (vous gagnez 20k points)",
-        "2007": "<color=#007FFF>Gagnez immédiatement 5k points. Désormais, vous gagnez 3k points si vous passez à la manche suivante sans rien acheter en boutique",
-        "2008": "<color=#007FFF>Vous avez 45% de chance de gagner une relance supplémentaire quand vous relancez",
-        "2009": "<color=#007FFF>Au début de chaque manche, gagnez 2k points",
-        "2010": "<color=#007FFF>Au début de chaque manche, gagnez un Imitateur Stellaire. Utilisé sur une plante ayant une forme Stellaire, il devient la variante Stellaire de cette plante",
-        "2011": "<color=#007FFF>Gagnez 500 points chaque fois que vous relancez en boutique ou lors de la sélection de Modificateurs de Zombie",
-        "2012": "<color=#007FFF>Épuisez tous vos points actuels. Pour chaque tranche de 1k points épuisés, vos plantes gagnent 1% de chance de coup critique",
-        "2013": "<color=#007FFF>Pour cette manche uniquement, vous gagnez 10k points et remportez la manche si un zombie entre dans votre maison"
+        "0": {
+            "name": "",
+            "desc": "Les plantes infligent 40% de dégâts en plus durant les premiers 50% de la manche"
+        },
+        "1": {
+            "name": "",
+            "desc": "À la fin de chaque manche, gagnez 300 points pour chaque type de plante ayant infligé 0 dégât cette manche (jusqu'à 10 types de plantes)"
+        },
+        "2": {
+            "name": "",
+            "desc": "À la fin de chaque manche, gagnez 1,5k points et 5% de PV max en plus pour toutes vos plantes si aucune de vos plantes n'a atteint 0 PV cette manche"
+        },
+        "3": {
+            "name": "",
+            "desc": "Transforme toutes les plantes de la pelouse en plantes aléatoires, gagnez 1000 points immédiatement et le Gant n'aura pas de TR cette manche"
+        },
+        "4": {
+            "name": "",
+            "desc": "Gagnez immédiatement 10 plantes d'Odyssée aléatoires sous forme de cartes"
+        },
+        "5": {
+            "name": "",
+            "desc": "Chaque fois qu'un Mini-boss est vaincu, toutes les plantes se soignent de 10% de leurs PV max"
+        },
+        "6": {
+            "name": "",
+            "desc": "Tous les zombies non mini-boss ont 10% de PV en moins"
+        },
+        "7": {
+            "name": "",
+            "desc": "Tous les Mini-boss ont 10% de PV en moins"
+        },
+        "8": {
+            "name": "",
+            "desc": "À chaque vague, 1500% de dégâts de base sont infligés au zombie ayant le plus de PV"
+        },
+        "9": {
+            "name": "",
+            "desc": "Le type de plante infligeant le plus de dégâts inflige 25% de dégâts supplémentaires"
+        },
+        "10": {
+            "name": "",
+            "desc": "Au début de chaque manche, vos plantes gagnent 3% de réduction de dégâts pour chaque type de plante non-Odyssée sur la pelouse, jusqu'à 30%"
+        },
+        "11": {
+            "name": "",
+            "desc": "Au début de chaque manche, les 6 plantes infligeant le plus de dégâts gagnent un bonus de dégâts de 20%"
+        },
+        "12": {
+            "name": "",
+            "desc": "Vous gagnez 6 relances supplémentaires en boutique si vous n'avez rien acheté lors de la dernière visite"
+        },
+        "13": {
+            "name": "",
+            "desc": "Gagnez 11 relances de boutique supplémentaires"
+        },
+        "1000": {
+            "name": "",
+            "desc": "<color=#AF4900>Pelletez toutes vos plantes, mais votre Soleil est doublé, et au début de chaque manche toutes les plantes gagnent un Bouclier égal au coût total en Soleil des plantes pelletées"
+        },
+        "1001": {
+            "name": "",
+            "desc": "<color=#AF4900>Pelletez toutes vos plantes, mais votre Soleil est doublé, et les cartes de graines n'ont pas de TR cette manche"
+        },
+        "1002": {
+            "name": "",
+            "desc": "<color=#AF4900>Vos équipes gagnent 18% de chance de coup critique"
+        },
+        "1003": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche, vos plantes gagnent 3% de PV en plus et 6% de dégâts d'attaque en plus pour chaque type de plante sur la pelouse"
+        },
+        "1004": {
+            "name": "",
+            "desc": "<color=#AF4900>Le type de plante infligeant le plus de dégâts inflige 40% de dégâts supplémentaires et vos équipes infligent aussi 10% de dégâts en plus"
+        },
+        "1005": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche, la plante normale la plus à gauche de chaque rangée gagne un bonus de vitesse d'attaque de 150%, mais au début de chaque vague, elle subit des dégâts égaux à 1000% de ses PV max"
+        },
+        "1006": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche, la plante normale la plus à gauche de chaque rangée gagne un bonus de dégâts égal à 0,1% des PV max de la plante normale la plus à droite, et la plante normale la plus à droite gagne des PV max égaux à 1000% des dégâts de la plante normale la plus à gauche"
+        },
+        "1007": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche, vos équipes gagnent 25% de chance de coup critique, et 30% de PV max en moins"
+        },
+        "1008": {
+            "name": "",
+            "desc": "<color=#AF4900>Vos équipes gagnent 10% de chance de coup critique. Au début de chaque manche, cette chance augmente de 1%"
+        },
+        "1009": {
+            "name": "",
+            "desc": "<color=#AF4900>Vos équipes gagnent un bonus de dégâts d'attaque de 10%. Au début de chaque manche, s'il y a 200 plantes ou plus dans vos équipes, toutes les plantes gagnent un bonus de dégâts d'attaque supplémentaire de 50%"
+        },
+        "1010": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche et maintenant, gagnez 1,5k points et une relance supplémentaire"
+        },
+        "1011": {
+            "name": "",
+            "desc": "<color=#AF4900>Au début de chaque manche, promouvez une plante non-Odyssée aléatoire au Palier 2"
+        },
+        "1012": {
+            "name": "",
+            "desc": "<color=#AF4900>Vous gagnez une Boîte Cadeau de Plante chaque fois que vous effectuez une fusion"
+        },
+        "1013": {
+            "name": "",
+            "desc": "<color=#AF4900>Vos plantes infligent 40% de dégâts en plus durant les derniers 50% de la manche"
+        },
+        "2000": {
+            "name": "",
+            "desc": "<color=#007FFF>Vos équipes gagnent 25% de chance de coup critique. Elles gagnent aussi une chance égale à 30% de leur chance de critique de réduire à 1 tout dégât entrant"
+        },
+        "2001": {
+            "name": "",
+            "desc": "<color=#007FFF>Vos équipes gagnent 25% de réduction de dégâts, et une chance de critique égale à leur taux de réduction de dégâts"
+        },
+        "2002": {
+            "name": "",
+            "desc": "<color=#007FFF>Au début de chaque manche, chaque plante a 50% de chance de gagner un bonus de dégâts d'attaque de 100%"
+        },
+        "2003": {
+            "name": "",
+            "desc": "<color=#007FFF>Vos équipes gagnent un bonus de dégâts d'attaque permanent de 8% chaque fois qu'un Mini-boss est vaincu"
+        },
+        "2004": {
+            "name": "",
+            "desc": "<color=#007FFF>Au début de chaque manche, promouvez une plante non-Odyssée aléatoire au Palier 3"
+        },
+        "2005": {
+            "name": "",
+            "desc": "<color=#007FFF>Augmente la chance de critique de vos équipes de 30%. Si la chance de critique dépasse 100%, les dégâts critiques sont augmentés de 40%"
+        },
+        "2006": {
+            "name": "",
+            "desc": "<color=#007FFF>Un Endoflamme super rare contenant une tonne de points apparaît (vous gagnez 20k points)"
+        },
+        "2007": {
+            "name": "",
+            "desc": "<color=#007FFF>Gagnez immédiatement 5k points. Désormais, vous gagnez 3k points si vous passez à la manche suivante sans rien acheter en boutique"
+        },
+        "2008": {
+            "name": "",
+            "desc": "<color=#007FFF>Vous avez 45% de chance de gagner une relance supplémentaire quand vous relancez"
+        },
+        "2009": {
+            "name": "",
+            "desc": "<color=#007FFF>Au début de chaque manche, gagnez 2k points"
+        },
+        "2010": {
+            "name": "",
+            "desc": "<color=#007FFF>Au début de chaque manche, gagnez un Imitateur Stellaire. Utilisé sur une plante ayant une forme Stellaire, il devient la variante Stellaire de cette plante"
+        },
+        "2011": {
+            "name": "",
+            "desc": "<color=#007FFF>Gagnez 500 points chaque fois que vous relancez en boutique ou lors de la sélection de Modificateurs de Zombie"
+        },
+        "2012": {
+            "name": "",
+            "desc": "<color=#007FFF>Épuisez tous vos points actuels. Pour chaque tranche de 1k points épuisés, vos plantes gagnent 1% de chance de coup critique"
+        },
+        "2013": {
+            "name": "",
+            "desc": "<color=#007FFF>Pour cette manche uniquement, vous gagnez 10k points et remportez la manche si un zombie entre dans votre maison"
+        }
     }
 }
