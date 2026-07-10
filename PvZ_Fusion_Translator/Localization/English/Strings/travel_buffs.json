@@ -310,7 +310,7 @@
         },
         "3004": {
             "name": "Event Horizon",
-            "desc": "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Quantum McCornics always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage"
+            "desc": "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Cosmo-pult always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage"
         },
         "3005": {
             "name": "Heaven's Wrath",
@@ -656,11 +656,11 @@
         },
         "30": {
             "name": "Accretion Disk",
-            "desc": "Quantum McCornics: Ultimate Black Hole can absorb all projectiles"
+            "desc": "Cosmo-pult: Ultimate Black Hole can absorb all projectiles"
         },
         "31": {
             "name": "Temporal Dilation",
-            "desc": "Quantum McCornics: Ultimate Black Hole's absorption radius ×2"
+            "desc": "Cosmo-pult: Ultimate Black Hole's absorption radius ×2"
         },
         "32": {
             "name": "Enduring Edge",
@@ -1156,7 +1156,7 @@
         },
         "15": {
             "name": "",
-            "desc": "Unlock Quantum McCornics: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut"
+            "desc": "Unlock Cosmo-pult: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut"
         },
         "16": {
             "name": "",
