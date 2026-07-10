@@ -161,7 +161,7 @@
             "desc": "Tundral Glacier-shroom: Attack Radius ×2 | Lethal Glacier-shroom: Attack Interval halved"
         },
         "40": {
-            "name": "Magic Surge",
+            "name": "Arcane Prowess",
             "desc": "Mesmer Cattail: Ability CD Halved, Ability radius +0.5 tiles"
         },
         "41": {
@@ -213,7 +213,7 @@
             "desc": "Modifier reroll times +2"
         },
         "1011": {
-            "name": "Absolute Zero",
+            "name": "Cryostasis",
             "desc": "The freeze time of all zombies is increased by 25%, and the slow rate from chill is increased by 10%"
         },
         "1012": {
@@ -241,11 +241,11 @@
             "desc": "All Meteors' attack cooldowns are halved | Base Meteor DMG increased by 300 for every Magnetar in the field"
         },
         "1018": {
-            "name": "Radiance",
+            "name": "Enlightenment",
             "desc": "Adds 4 Lumos Levels for the entire field"
         },
         "1019": {
-            "name": "Final Countdown",
+            "name": "Blaze of Glory",
             "desc": "When hypnotized zombies die, they explode, dealing damage equal to 150% of their max HP to nearby zombies"
         },
         "1020": {
@@ -369,11 +369,11 @@
             "desc": "Plants deal +100% to Mini-bosses and Bosses"
         },
         "5001": {
-            "name": "Curse of Wrath",
+            "name": "Adverse Adaptation",
             "desc": "Plants gain a 5% damage bonus for every Zombie Modifier you have"
         },
         "5002": {
-            "name": "",
+            "name": "Saintly Blade",
             "desc": "Unlock Swordsage Starfruit"
         },
         "5003": {
@@ -433,7 +433,7 @@
             "desc": "Immediately gain 2 Giga Mecha-nut seed packets which start with 1M HP"
         },
         "10002": {
-            "name": "Instant Evolution",
+            "name": "Instant Promotion",
             "desc": "Upgrade (1+n) random plants to Tier 1, where n is the number of Plant modifiers you currently have"
         },
         "10003": {
@@ -441,7 +441,7 @@
             "desc": "Increase the speed of (1+n) random plants, where n is the number of Plant modifiers you currently have"
         },
         "10004": {
-            "name": "Undying Totem",
+            "name": "Totem of Undying",
             "desc": "The next time zombies reach the house, it is ignored for 3s and knock all zombies back to the start"
         },
         "10005": {
@@ -473,11 +473,11 @@
             "desc": "All plants gain 50 + (2% max HP) shield per second"
         },
         "10012": {
-            "name": "Saurian Gambit",
+            "name": "The Last Ditch",
             "desc": "When you have 20 or more plants on the field, zombies reaching the house no longer results in game over, but causes all plants to have 1/3 chance to die instead"
         },
         "10013": {
-            "name": "Pact of Transcendence",
+            "name": "Pact of Promotion",
             "desc": "Gain an Omni Pumpkin seed packet. Planting it ACCEPTS the challenge:\nThe number of zombies in the next 20 waves are doubled\nGet through and all plants on the Omni Pumpkin's tile will be promoted to Tier 3"
         },
         "10014": {
@@ -497,15 +497,15 @@
             "desc": "Upon gaining a second copy of any plant for the first time, you receive an additional seed packet of that plant"
         },
         "10018": {
-            "name": "Growth Catalyst",
+            "name": "Evolution Catalyst",
             "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
         },
         "10019": {
-            "name": "Fortune Reforge",
+            "name": "Fortune ",
             "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
         },
         "11000": {
-            "name": "Rapid Deployment",
+            "name": "Swift Deployment",
             "desc": "Level gimmick: Wheelbarrow's cooldown is reduced to 3 seconds"
         },
         "12000": {
@@ -535,561 +535,561 @@
     },
     "ultimateBuffs": {
         "0": {
-            "name": "",
+            "name": "Bloodlust",
             "desc": "Cherrizilla & Garlizilla: HP Recovery ×3"
         },
         "1": {
-            "name": "",
+            "name": "Voracity",
             "desc": "Cherrizilla & Garlizilla: Devour CD reduced to 15s"
         },
         "2": {
-            "name": "",
+            "name": "Megaton Blast",
             "desc": "Gatling Cherrybomber: Explosive cherries from plants ×3 damage"
         },
         "3": {
-            "name": "",
+            "name": "Rapid Reload",
             "desc": "Gatling Cherrybomber & Cherrybomber Drone: Attack Speed +100%"
         },
         "4": {
-            "name": "",
+            "name": "Absolute Zero",
             "desc": "Doominator: Attack speed ×3; Thornminator attack damage ×3; Iceclaw Zombie attack damage ×3"
         },
         "5": {
-            "name": "",
+            "name": "Thermal Shock",
             "desc": "Doominator: Zombies will take 30% of their current health as damage when unfrozen"
         },
         "6": {
-            "name": "",
+            "name": "Efficiency",
             "desc": "Infernal Squashwood & Sparkwood: Projectiles required to spawn a Spicy plant are halved"
         },
         "7": {
-            "name": "",
+            "name": "Overheat",
             "desc": "Infernal Squashwood & Sparkwood: Ignites the lane immediately when spawning a Spicy plant is not possible"
         },
         "8": {
-            "name": "",
+            "name": "Meteor Storm",
             "desc": "Magnetar: Attack Interval 1.5s → 0.5s"
         },
         "9": {
-            "name": "",
+            "name": "Syzygy",
             "desc": "Magnetar: Lv1: Base damage ×2 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed"
         },
         "10": {
-            "name": "",
+            "name": "Final Countdown",
             "desc": "Shroomageddon: Explosion damage on death → 1M | Atomheart Plantern: Lumos boost on death ×3"
         },
         "11": {
-            "name": "",
+            "name": "Blast Absorption",
             "desc": "Shroomageddon & Atomheart Plantern: Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a Doom-shroom explosion"
         },
         "12": {
-            "name": "",
+            "name": "Perfect Pitch",
             "desc": "Wither-pult & Rot-pult: Spread-fire is now guaranteed"
         },
         "13": {
-            "name": "",
+            "name": "Toxic Overdose",
             "desc": "Wither-pult & Rot-pult: Lv1: Stacking Poison points will immediately poison the zombie and Poison Value Cap → 120; Lv2: Poison Value Cap removed"
         },
         "14": {
-            "name": "",
+            "name": "Ground Zero",
             "desc": "Cob-literator: Main Blast damage ×4 | Panmelonium: Damage ×4"
         },
         "15": {
-            "name": "",
+            "name": "Artillery Battery",
             "desc": "Cob-literator & Panmelonium: Reload Time 36s → 12s"
         },
         "16": {
-            "name": "",
+            "name": "Eon Shell",
             "desc": "Obsidian Tall-Nut & Obsidian Mine: Max HP Cap ×3"
         },
         "17": {
-            "name": "",
+            "name": "Guardian Shield",
             "desc": "Obsidian Tall-nut & Obsidian Mine: Can now absorb the damage directed to the plants directly to its left and right"
         },
         "18": {
-            "name": "",
+            "name": "Savior's Benevolence",
             "desc": "Charmatron: Hypnotization HP threshold increased from 60% to 100% | Pumpkaptivator: Damage to captured hypnotized Zombies halved"
         },
         "19": {
-            "name": "",
+            "name": "Ceaseless Rhythm",
             "desc": "Charmatron: Attack Interval → 1s, Charge Level will not drop below 2 and can be fed metal to reach Charge Level 3 for 5 mins | Pumpkaptivator: Charge Level 3 unlocked"
         },
         "20": {
-            "name": "",
+            "name": "Heavy Ordinance",
             "desc": "Apeacalypse Minigun & Railgun: Attack Power ×3"
         },
         "21": {
-            "name": "",
+            "name": "Desperation Drive",
             "desc": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR | Apeacalypse Railgun: Lv1: Defense increases as HP decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2"
         },
         "22": {
-            "name": "",
+            "name": "Perihelion Surge",
             "desc": "Helios Cabbage: When Sun exceeds 15k, each of Helios Cabbage's attacks consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent | Selene Cabbage: Damage increased by 3× per Lumos Level"
         },
         "23": {
-            "name": "",
+            "name": "Zenith Radiance",
             "desc": "Helios Cabbage: Mini Sun deals 3× damage | Selene Cabbage: Mini Moon heals 3×"
         },
         "24": {
-            "name": "",
+            "name": "Trinity Strike",
             "desc": "Laser & Blast Pumpkin: Wingmen Amount 1 → 3"
         },
         "25": {
-            "name": "",
+            "name": "Air Supremacy",
             "desc": "Laser Pumpkin: Wingmen and Drone DMG ×3"
         },
         "26": {
-            "name": "",
+            "name": "Overcharge",
             "desc": "Napalm-shroom & Magma-shroom: Charging speed and max charge ×3"
         },
         "27": {
-            "name": "",
+            "name": "Scorched Earth",
             "desc": "Napalm-shroom: Inferno now lasts 5s (twice as long) | Magma-shroom: Magma Butter Damage ×3"
         },
         "28": {
-            "name": "",
+            "name": "Treasure Hoard",
             "desc": "Kelptain Goldbeard: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
         },
         "29": {
-            "name": "",
+            "name": "Merchant's Favor",
             "desc": "Kelptain Goldbeard: The Odyssey shop now has a 30% discount on Modifiers"
         },
         "30": {
-            "name": "",
+            "name": "Accretion Disk",
             "desc": "Quantum McCornics: Ultimate Black Hole can absorb all projectiles"
         },
         "31": {
-            "name": "",
+            "name": "Temporal Dilation",
             "desc": "Quantum McCornics: Ultimate Black Hole's absorption radius ×2"
         },
         "32": {
-            "name": "",
+            "name": "Enduring Edge",
             "desc": "Lifereaver Spruce: Boreal reaper saws now last for 15s | Soulrender Bamboo: Now receives only 1/3 incoming damage"
         },
         "33": {
-            "name": "",
+            "name": "Perennial Vitality",
             "desc": "Lifereaver Spruce: Healing is no longer split among plants | Soulrender Bamboo: HP and Shield recovery ×2"
         },
         "34": {
-            "name": "",
+            "name": "Ravenous Reach",
             "desc": "Tyrannoflora Lux: Attack Range ×2"
         },
         "35": {
-            "name": "",
+            "name": "Luminous Feast",
             "desc": "Tyrannoflora Lux: Provides 2 Lumos Level to a 5×5 area during digestion"
         },
         "36": {
-            "name": "",
+            "name": "Volcanic Wrath",
             "desc": "Vulcannon: Volcanic Bombs Damage ×3 | Kaledera Eruptor: Pyro Cabbages Damage ×3"
         },
         "37": {
-            "name": "",
+            "name": "Critical Mass",
             "desc": "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos | Kaledera Eruptor: 10% chance to trigger Cherry Bomb and Jalapeno effects at the barrel position and ignore the target limit of 10"
         },
         "38": {
-            "name": "",
+            "name": "Combustion Cycle",
             "desc": "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well"
         },
         "39": {
-            "name": "",
+            "name": "Power Bank",
             "desc": "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3"
         },
         "40": {
-            "name": "",
+            "name": "Target Lock",
             "desc": "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage | Fungularity: Now only creates one set of portals, but they spawn ×10 ice particle streams"
         },
         "41": {
-            "name": "",
+            "name": "Concentration",
             "desc": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius | Maelonstrom & Fungularity: Zombies immune to Chronoshift will still take damage equal to (Elapsed Time)% of their HP"
         },
         "42": {
-            "name": "",
+            "name": "Heat Wave",
             "desc": "Prometheus Liontail: Heatbeam damage frequency ×2"
         },
         "43": {
-            "name": "",
+            "name": "Holy Fire",
             "desc": "Prometheus Liontail: Regular shots' damage ×3"
         },
         "44": {
-            "name": "",
+            "name": "Feeding Frenzy",
             "desc": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks"
         },
         "45": {
-            "name": "",
+            "name": "Swarm Attack",
             "desc": "Scylla Leviathan: Fires 3 base attack projectiles at once"
         },
         "46": {
-            "name": "",
+            "name": "Trophy Hunter",
             "desc": "Cryolina Reaper & Habanero Weeper: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies"
         },
         "47": {
-            "name": "",
+            "name": "Soul Curtain",
             "desc": "Cryolina Reaper & Habanero Weeper: When using a soul charge, also grants 1s of invincibility to all plants"
         },
         "48": {
-            "name": "",
+            "name": "Lumos Capacitor",
             "desc": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Axion Orbiter: Projectile damage radius +50%"
         },
         "49": {
-            "name": "",
+            "name": "Energy Discharge",
             "desc": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Axion Orbiter: Now fires 2 extra projectiles each attack"
         },
         "50": {
-            "name": "",
+            "name": "Battle Tempo",
             "desc": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3 | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot"
         },
         "51": {
-            "name": "",
+            "name": "Focused Fire",
             "desc": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
         }
     },
     "debuffs": {
         "0": {
-            "name": "",
+            "name": "Breakthrough",
             "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken"
         },
         "1": {
-            "name": "",
+            "name": "Absolute Immunity",
             "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects"
         },
         "2": {
-            "name": "",
+            "name": "Exsanguination",
             "desc": "Giga Football-nut Zombie: Bites now disable plant healing for 1s"
         },
         "3": {
-            "name": "",
+            "name": "Debilitation",
             "desc": "Giga Football-nut Zombie: Bites weaken plants, making them receive 3× damage for 1s"
         },
         "4": {
-            "name": "",
+            "name": "Riptide",
             "desc": "Sharkmarine: Movement Speed ×2"
         },
         "5": {
-            "name": "",
+            "name": "Reinforced Hull",
             "desc": "Sharkmarine: Gains 50% Damage Reduction"
         },
         "6": {
-            "name": "",
+            "name": "Jet Propulsion",
             "desc": "Kirov Zomppelin: Immunity to Blovers | Movement Speed ×5"
         },
         "7": {
-            "name": "",
+            "name": "Iron Swarm",
             "desc": "Kirov Zomppelin: Summoned Drones now have 50× HP"
         },
         "8": {
-            "name": "",
+            "name": "Short Fuse",
             "desc": "Clown-on-the-Pogo Zombie: Now always explodes on death, and big leap charging time is reduced by 90% | Clown-on-the-Jetski Zombie: Bomb damage +500"
         },
         "9": {
-            "name": "",
+            "name": "Contagious Blast",
             "desc": "Clown-on-the-Pogo Zombie: Jack-in-the-Box-type Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies | Clown-on-the-Jetski Zombie: Bomb damage +500"
         },
         "10": {
-            "name": "",
+            "name": "Trident Torrents",
             "desc": "Giga Trident-nut Zombie: Now throws 2 extra tridents each attack | Pozeidon throws 3 giant tridents"
         },
         "11": {
-            "name": "",
+            "name": "Scatterthrow",
             "desc": "Giga Trident-nut Zombie: Now ignores Umbrella-type plants and targets random plants to attack"
         },
         "12": {
-            "name": "",
+            "name": "Premium Cast",
             "desc": "Superstar Zombie: Can now summon Super Dancing Pole Vaulters"
         },
         "13": {
-            "name": "",
+            "name": "Phantom Waltz",
             "desc": "Superstar Zombie: Will now phase through plants when sliding in"
         },
         "14": {
-            "name": "",
+            "name": "Aftershock",
             "desc": "Undying Wraith: Explosion damage will now ignore immunities by Joker Pumpkins and other relevant plants"
         },
         "15": {
-            "name": "",
+            "name": "Ruthless Pursuit",
             "desc": "Undying Wraith: Dash CD reduced | Attack Power Greatly Increased"
         },
         "16": {
-            "name": "",
+            "name": "Myriad Tridents",
             "desc": "Trident Hwacha: Now immune to most status effects and throws 5× as many tridents"
         },
         "17": {
-            "name": "",
+            "name": "First Strike",
             "desc": "Trident Hwacha: Now attacks in advance"
         },
         "18": {
-            "name": "",
+            "name": "Worldwide Parade",
             "desc": "Michael Zomboni: Now spawns every round | Spawns an extra Superstar Zombie when it dies"
         },
         "19": {
-            "name": "",
+            "name": "Full Throttle",
             "desc": "Michael Zomboni: Michael Zombonis & Jackson Worldwide Movement Speed ×5"
         },
         "20": {
-            "name": "",
+            "name": "Ace Drop",
             "desc": "Bungee Zombies have a chance to drop an Odyssey Zombie in the 4th column or further to the right and will gain 90% DMG Reduction"
         },
         "21": {
-            "name": "",
+            "name": "Immortality",
             "desc": "Alpha Assassin Squad can now recover from being incapacitated infinitely"
         },
         "22": {
-            "name": "",
+            "name": "Far Sight",
             "desc": "Frost Legion Frayer Disc: Dissolver Beams now target the farthest plant within range"
         },
         "23": {
-            "name": "",
+            "name": "Wide Suction",
             "desc": "Frost Legion Frayer Disc: Siphon Drainer's range: 1 Tile → 3×3 Area"
         },
         "24": {
-            "name": "",
+            "name": "Elemental Confluence",
             "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the extra abilities of all four affinities at once"
         },
         "25": {
-            "name": "",
+            "name": "Affinity Awakening",
             "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the debuff immunities of all four affinities at once"
         },
         "26": {
-            "name": "",
+            "name": "Speed Charge",
             "desc": "Trident Jugger-nut Gargantuar: Trident reload Speed ×3"
         },
         "27": {
-            "name": "",
+            "name": "Pozeidon's Blessing",
             "desc": "Trident Jugger-nut Gargantuar: Now recovers 10% max HP when throwing tridents"
         },
         "28": {
-            "name": "",
+            "name": "Shock Absorber",
             "desc": "Giga Mecha-nut Bowling Zombie: For the first 50 hits, all zombies take only 1 damage"
         },
         "29": {
-            "name": "",
+            "name": "Reactive Armor",
             "desc": "Giga Mecha-nut Bowling Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
         },
         "30": {
-            "name": "",
+            "name": "Stampede",
             "desc": "War Mammoth Zombie: Now spawns in groups of 3"
         },
         "31": {
-            "name": "",
+            "name": "Alpha Escort",
             "desc": "War Mammoth Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
         },
         "32": {
-            "name": "",
+            "name": "Insulative Coating",
             "desc": "Buckshot Bobsled Brigade: Immune to butter and freezing"
         },
         "33": {
-            "name": "",
+            "name": "Blitz Entry",
             "desc": "Buckshot Bobsled Brigade: Enters the field rapidly, but slows down over time"
         },
         "1000": {
-            "name": "",
+            "name": "Blackout",
             "desc": "Your Sun will be reset to 0"
         },
         "1001": {
-            "name": "",
+            "name": "Bankrupt",
             "desc": "Your Points will be reset to 0"
         },
         "1002": {
-            "name": "",
+            "name": "Limited Space",
             "desc": "You can have no more than 120 plants on the field"
         },
         "1003": {
-            "name": "",
+            "name": "Wilting Blight",
             "desc": "All your existing plants have a 1/3 chance to perish (applied once)"
         },
         "1004": {
-            "name": "",
+            "name": "Necrotic Growth",
             "desc": "Zombie max HP increment rate after each round: 20% → 30%"
         },
         "1005": {
-            "name": "",
+            "name": "Resurrection",
             "desc": "All zombies have a 1/3 chance to revive to full HP on death"
         },
         "1006": {
-            "name": "",
+            "name": "Mega Horde",
             "desc": "Increase the maximum limit of zombies per wave to 100"
         },
         "1007": {
-            "name": "",
+            "name": "Veteran Forces",
             "desc": "The maximum number of zombies each wave is halved, but all zombies have ×2 HP and Attack"
         },
         "1008": {
-            "name": "",
+            "name": "Healing Suppression",
             "desc": "All healing and shields on Plants are reduced by 50%"
         },
         "1009": {
-            "name": "",
+            "name": "Permanent Damage",
             "desc": "Plants lose max HP equal to 10% of the damage received (up to 40% and resets between rounds) when taking damage"
         },
         "1010": {
-            "name": "",
+            "name": "Inflation",
             "desc": "All plants now cost 3× Sun"
         },
         "1011": {
-            "name": "",
+            "name": "Restless Onslaught",
             "desc": "Time before the first wave of zombie is reduced to 5s, and the interval between zombie waves is reduced to 15s"
         },
         "1012": {
-            "name": "",
+            "name": "Curse of Pride",
             "desc": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack & max HP, and 2× Attack Speed"
         },
         "1013": {
-            "name": "",
+            "name": "Warlord's Might",
             "desc": "Mini-boss zombies gain a 60% Speed buff and 30% max HP buff"
         },
         "1014": {
-            "name": "",
+            "name": "All-out Assault",
             "desc": "Non-mini-boss zombies gain a 30% Speed buff and 60% max HP buff"
         },
         "1015": {
-            "name": "",
+            "name": "Flying Fortress",
             "desc": "Flying zombies now have 2× max HP"
         },
         "1016": {
-            "name": "",
+            "name": "Collateral Damage",
             "desc": "When Plants are killed, they deal damage equal to their max HP to other plants in a 3×3 Area"
         },
         "1017": {
-            "name": "",
+            "name": "Mass Mutation",
             "desc": "All non-Odyssey zombies now have ×2 HP, Attack and Speed"
         },
         "1018": {
-            "name": "",
+            "name": "Lost Diagnostics",
             "desc": "Plant's HP display will now be disabled"
         },
         "1019": {
-            "name": "",
+            "name": "Fog of War",
             "desc": "Zombie's HP display will now be disabled"
         },
         "2000": {
-            "name": "",
+            "name": "Crisis",
             "desc": "Celestial Gargantuar will appear"
         },
         "2001": {
-            "name": "",
+            "name": "Crisis",
             "desc": "Gatling Doom Newspaper Zombie will appear"
         },
         "2002": {
-            "name": "",
+            "name": "Crisis",
             "desc": "D.A.M.P. Disc will appear"
         },
         "2003": {
-            "name": "",
+            "name": "Crisis",
             "desc": "Alpha Assassin Hitman will appear"
         },
         "2004": {
-            "name": "",
+            "name": "Crisis",
             "desc": "Buckshot Knight Captain Zombie will appear"
         },
         "3000": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Abyssal Gargantuar will appear as a Mini-boss"
         },
         "3001": {
-            "name": "",
+            "name": "Zomboss Protocol",
             "desc": "Abyssal Gargantuar: Spawns Dr. Zomboss on death"
         },
         "3002": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Imperor's Ark of the Duck will appear as a Mini-boss"
         },
         "3003": {
-            "name": "",
+            "name": "Royal Resilience",
             "desc": "Imperor's Ark of the Duck: Now recovers 500 HP every time he dodges an attack"
         },
         "3004": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Jackson Worldwide will appear as a Mini-boss"
         },
         "3005": {
-            "name": "",
+            "name": "Shadow Dance",
             "desc": "Jackson Worldwide: Now gains a 50% incoming Damage Reduction"
         },
         "3006": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Giga Football Striker will appear as a Mini-boss"
         },
         "3007": {
-            "name": "",
+            "name": "Adrenaline Rush",
             "desc": "Giga Football Striker: Now gains buffs 2× faster"
         },
         "3008": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Pozeidon will appear as a Mini-boss"
         },
         "3010": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Ultra Mecha-nut will appear as a Mini-boss"
         },
         "3012": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Skystrider Mecha will appear as a Mini-boss"
         },
         "3014": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Professor Cherryz will appear as a Mini-boss"
         },
         "3016": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Queen Jill-in-the-Box will appear as a Mini-boss"
         },
         "3018": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Omega Assassin Squad will appear as a Mini-boss"
         },
         "3020": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Archduke Deathrider will appear as a Mini-boss"
         },
         "3021": {
-            "name": "",
+            "name": "Grim Ascension",
             "desc": "Archduke Deathrider: Archduke will transform his warhorse into a scythe and significantly boost his abilities after dismounting."
         },
         "3022": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Millennium Dragon & Warden will appear as a Mini-boss"
         },
         "3023": {
-            "name": "",
+            "name": "Nemesis",
             "desc": "Cerasocetus Rider will appear as a Mini-boss"
         },
         "4000": {
-            "name": "",
+            "name": "Majestic Presence",
             "desc": "Abyssal Gargantuar grants +400 DR value to all zombies while present"
         },
         "4001": {
-            "name": "",
+            "name": "Majestic Presence",
             "desc": "Imperor's Ark of the Duck grants +400 DR value to all zombies while present"
         },
         "4002": {
-            "name": "",
+            "name": "Majestic Presence",
             "desc": "Giga Football Striker grants +400 DR value to all zombies while present"
         },
         "4003": {
-            "name": "",
+            "name": "Majestic Presence",
             "desc": "Jackson Worldwide grants +400 DR value to all zombies while present"
         },
         "4004": {
-            "name": "",
+            "name": "Majestic Presence",
             "desc": "Archduke Deathrider grants +400 DR value to all zombies while present"
         },
         "5000": {
-            "name": "",
+            "name": "Acquired Antibody",
             "desc": "Zombies gain a stalling status effect immunity for 3s after being continuously under any such effect for 5s"
         },
         "5001": {
-            "name": "",
+            "name": "Rampage Spiral",
             "desc": "The Attack damage of all zombies on the field is doubled every 3s, up to 1M"
         },
         "5002": {
-            "name": "",
+            "name": "Pain Response",
             "desc": "Zombies gain DR value equal to 1% of the incoming damage when they receive damage more than 100, up to +1000 DR value"
         },
         "5003": {
-            "name": "",
+            "name": "Counterstrike",
             "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 0.2s"
         },
         "5004": {
-            "name": "",
+            "name": "Brand of Ruin",
             "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to 1% of their HP."
         }
     },
