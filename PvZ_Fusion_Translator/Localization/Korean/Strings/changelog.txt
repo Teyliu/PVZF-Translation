@@ -2,7 +2,7 @@
 해당 게임의 공식 출처는 개발자인 LanPiaoPiao의 Bilibili뿐입니다.</color>
 다국어 모드의 유효한 출처는 다음 커뮤니티와 관련된 GitHub 페이지뿐입니다: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color>
 <color=#8B0000>pvzfusion.net</color>이나 <color=#8B0000>pvzfusion.pro</color> 같은 다른 사이트는 허가 없이 다국어 모드를 재배포하므로 다운로드하지 마십시오.
-번역 언어를 변경하고 싶으시다면, 이 메뉴의 오른쪽 하단에 있는 "언어" 메뉴를 확인해 주세요.
+번역 언어를 변경하고 싶으시다면, 이 메뉴의 오른쪽 하단에 있는 "Languages" 메뉴를 확인해 주세요.
 향후 업데이트들은 저희 커뮤니티를 방문해주세요!
 
 
