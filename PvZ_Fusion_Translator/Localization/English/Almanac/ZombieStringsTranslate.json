@@ -472,12 +472,12 @@
             "theZombieType": 78,
             "name": "Chameleon Football Zombie",
             "introduce": "<align=left><size=36><color=black>The Chameleon Football Zombie has never lost a single match in his entire career — an achievement most Football Zombies can only dream of. His secret to victory is surprisingly simple: whenever the opponent is about to win, he just switches into their uniform.</color>",
-            "info": "<size=36>Changes into different-colored uniforms based on incoming damage intensity.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>After 15s on the field, if he is still wearing his football helmet, he becomes a regular Football Zombie. Otherwise, he becomes a Charger Football Zombie that ignores plant. If defeated within 3s of appearing, he instead becomes a Giga Football Zombie with high toughness whose helmet cannot be removed by Magnet-shrooms.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
+            "info": "<size=36>Changes into different-colored uniforms based on incoming damage intensity.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>After 15s on the field, if he is still wearing his football helmet, he becomes a regular Football Zombie. Otherwise, he becomes a Rush Football Zombie that ignores plant. If defeated within 3s of appearing, he instead becomes a Giga Football Zombie with high toughness whose helmet cannot be removed by Magnet-shrooms.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
         },
         {
           "theZombieType": 79,
-          "name": "Charger Football Zombie",
-          "introduce": "<align=left><size=36><color=black>Rather than smashing through defenses head-on, the Charger Football Zombie excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless lawn mower.</color>",
+          "name": "Rush Football Zombie",
+          "introduce": "<align=left><size=36><color=black>Rather than smashing through defenses head-on, the Rush Football Zombie excels at using his agility to dash straight past them. What confuses him most is that, despite effortlessly bypassing countless defenses, he still can't get past that seemingly harmless lawn mower.</color>",
           "info": "<size=36>Advances by nimbly circumventing blocking plants.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1400  (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Ignores plants.</color>"
         },
         {
