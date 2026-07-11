@@ -452,6 +452,7 @@
   "^([\\s\\S]+)​": "{0}",
   "^([\\s\\S]+)，最近一次自动保存\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}, Latest Auto-save\nSaved at: {1}\nVersion: {2}",
   "^([\\s\\S]+)，最近一次自动保存(\\d+)\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}, Latest Auto-save\nSaved at: {1}\nVersion: {2}",
+  "^，最近一次自动保存\n保存时间：([\\s\\S]+)\n版本：$": "No Name, Latest Auto-save\nSaved at: {0}\nVersion: N/A",
   "^([\\s\\S]+)，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}, ID: {1}\nSaved at: {2}\nVersion: {3}",
   "^([\\s\\S]+)\n保存时间：([\\s\\S]+)\n版本：([\\s\\S]+)": "{0}\nSaved at: {1}\nVersion: {2}",
   "^([\\s\\S]+)，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：": "{0}, ID: {1}\nSaved at: {2}\nVersion: N/A",
