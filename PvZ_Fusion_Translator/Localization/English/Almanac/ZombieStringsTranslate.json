@@ -530,7 +530,7 @@
         },
         {
             "theZombieType": 88,
-            "name": "Mammoth Zombie",
+            "name": "Elephant Zombie",
             "introduce": "<align=left><size=36><color=black></color>",
             "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>Toughness: </color>6000\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082>Immune to knockback. When moving forward, crushes plants and pushes non-mini-boss zombies beside its feet forward.</color>"
         },
@@ -970,7 +970,7 @@
             "theZombieType": 240,
             "name": "Trident Jugger-nut Gargantuar",
             "introduce": "<align=left><size=36><color=black>When Gargantuars of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut Gargantuar always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred Wall-nuts.</color>",
-            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> For each type of Gargantuar or Mammoth present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
+            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> For each type of Gargantuar or Elephant present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
         },
         {
             "theZombieType": 241,
@@ -1052,8 +1052,8 @@
         },
         {
             "theZombieType": 254,
-            "name": "War Mammoth Zombie",
-            "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, Dr. Zomboss decided that War Mammoth Zombies should be deployed in squads of at most three. However, the Striker and the Archduke raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
+            "name": "War Elephant Zombie",
+            "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, Dr. Zomboss decided that War Elephant Zombies should be deployed in squads of at most three. However, the Striker and the Archduke raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
             "info": "<size=36><color=#4B0082>Guards the General and Commander until death.\n\n<color=black>Toughness: </color>18000\n<color=black>Damage: </color>1800\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color>\n<color=black>•</color> Only appears in Flag waves.\n<color=black>•</color> Immune to knockback and being hypnotized.\n<color=black>•</color> Regardless of where it comes from, takes damage on behalf of the Giga Football Striker and Archduke Deathrider.\n<color=black>•</color> Every 12th attack causes a crush, pushing non-mini-boss zombies at its feet forward by 0.74 tiles.\n<color=black>Odyssey Modifiers: </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all Mini-boss Zombies gain 100 DR Value</color>"
         },
         {

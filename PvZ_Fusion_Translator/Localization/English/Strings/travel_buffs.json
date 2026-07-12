@@ -866,11 +866,11 @@
         },
         "30": {
             "name": "Stampede",
-            "desc": "War Mammoth Zombie: Now spawns in groups of 3"
+            "desc": "War Elephant Zombie: Now spawns in groups of 3"
         },
         "31": {
             "name": "Alpha Escort",
-            "desc": "War Mammoth Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
+            "desc": "War Elephant Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
         },
         "32": {
             "name": "Insulative Coating",
