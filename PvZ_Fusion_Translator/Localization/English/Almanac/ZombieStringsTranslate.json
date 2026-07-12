@@ -398,8 +398,8 @@
         },
         {
             "theZombieType": 66,
-            "name": "Flag Football Zombie",
-            "introduce": "<align=left><size=36><color=black>\"We both wear football uniforms and carry banners. But I can roll, and he can't.\" Flag Football Zombie compared himself seriously to the Giga Football-nut Zombie and confidently concluded he was stronger. This confidence helps - now he runs faster to escape the Giga Football-nut Zombie's pursuit.</color>",
+            "name": "Acrobat Football Zombie",
+            "introduce": "<align=left><size=36><color=black>\"We both wear football uniforms and carry banners. But I can roll, and he can't.\" Acrobat Football Zombie compared himself seriously to the Giga Football-nut Zombie and confidently concluded he was stronger. This confidence helps - now he runs faster to escape the Giga Football-nut Zombie's pursuit.</color>",
             "info": "<size=36>Can perform dodge rolls.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082> Upon first contact with a plant, rolls two tiles forward ignoring obstacles.</color>"
         },
         {
