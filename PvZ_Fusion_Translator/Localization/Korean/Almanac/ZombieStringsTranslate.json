@@ -730,13 +730,13 @@
             "theZombieType": 200,
             "name": "샤크라이너",
             "introduce": "<align=justified><size=36><color=black>\"훌륭한 다이버는 잠수뿐만 아니라 슈퍼 잠수함도 운전할 줄 알아야 한다!\" 샤크라이너가 잠수함의 마력 기어를 한 단계 올리며 선언했습니다.</color>",
-            "info": "<size=36>GFishtus 주식회사에서 자랑스럽게 선보입니다…\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>즉사 저항을 가지고 있지 않는 식물들은 짓밟으며 이동합니다. 저항을 가지고 있는 식물에겐 500 대미지를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 이동 속도가 200% 증가합니다.\n2. 받는 대미지가 50% 감소합니다.</color>"
+            "info": "<size=36>GFishtus 주식회사에서 자랑스럽게 선보입니다…\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>즉사 저항을 가지고 있지 않는 식물들은 짓밟으며 이동합니다. 저항을 가지고 있는 식물에겐 500 대미지를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 샤크라이너와 좀핀마린의 이동 속도가 200% 증가합니다.\n2. 샤크라이너와 좀핀마린이 받는 대미지가 50% 감소합니다.</color>"
         },
         {
             "theZombieType": 201,
             "name": "마이클 좀보니",
             "introduce": "<align=justified><size=36><color=black>마이클 좀보니는 단독 좀비 공연이 아닙니다. 쇼를 위해서는 팀 전체가 필요하죠! 좀보니가 무대를 준비하고, 봅슬레이 좀비가 화려한 시각 효과를 담당하며, 마이클 좀비는? 글쎄요, 그는 기술적으로 운전면허가 없어서 차에서 내려야 했습니다. 그는 열광하는 식물 팬들에게 인사하고 싶었지만… 콩들이 조금 지나치게 열정적이었죠.</color>",
-            "info": "<size=36>방어력이 매우 높으며, 빙결 상태에 면역입니다.\n\n<color=black>체력: </color><color=#4B0082>12000</color>\n<color=black>특수 능력: </color><color=#4B0082>사망 시 자리에 마이클 좀비, 좀보니, 봅슬레이 좀비를 소환합니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 매라운드마다 등장합니다. | 사망시 슈퍼스타 좀비를 소환합니다.\n2. 마이클 좀보니와 잭슨 월드 와이드 이동 속도가 500%가 됩니다.</color>"
+            "info": "<size=36>방어력이 매우 높으며, 빙결 상태에 면역입니다.\n\n<color=black>체력: </color><color=#4B0082>12000</color>\n<color=black>특수 능력: </color><color=#4B0082>사망 시 자리에 마이클 좀비, 좀보니, 봅슬레이 좀비를 소환합니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 매라운드마다 등장합니다. | 사망시 슈퍼스타 좀비를 소환합니다.\n2. 마이클 좀보니와 잭슨 월드와이드의 이동 속도가 500%가 됩니다.</color>"
         },
         {
             "theZombieType": 202,
@@ -754,13 +754,13 @@
             "theZombieType": 204,
             "name": "기가 미식축구 호두 좀비",
             "introduce": "<align=justified><size=36><color=black>기가 미식축구 호두 좀비는 그림자 속에서 모습을 드러내며, 강력함과 냉철함, 그리고 사악한 기운을 뿜어냅니다. 그는 자신의 힘에 대한 비밀을 굳게 지키며, 오직 가장 어두운 어둠만이 자신처럼 강력한 존재를 만들어낼 수 있다고 주장합니다. 한편, 닥터 에드거는 실험실에서 어리둥절한 표정으로 묻습니다. \"내 페인트는 어디 있지?\"</color>",
-            "info": "<size=36>오랜 친구일까? 글쎄, 아마도… 이전에 만난 적이 있을지도 모릅니다.\n\n<color=black>체력: </color><color=#4B0082>3000 + 12000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>100</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 해당 좀비에 의해 대미지를 받은 식물은 1초 동안 체력을 회복할 수 없습니다.\n2. 해당 좀비에 의해 대미지를 받은 식물은 1초 동안 받는 피해가 300% 증가합니다.</color>"
+            "info": "<size=36>오랜 친구일까? 글쎄, 아마도… 이전에 만난 적이 있을지도 모릅니다.\n\n<color=black>체력: </color><color=#4B0082>3000 + 12000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>100</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 해당 좀비와 기가 미식축구 스트라이커에 의해 대미지를 받은 식물은 1초 동안 체력을 회복할 수 없습니다.\n2. 해당 좀비와 기가 미식축구 스트라이커에 의해 대미지를 받은 식물은 1초 동안 받는 피해가 300% 증가합니다.</color>"
         },
         {
             "theZombieType": 205,
             "name": "키로프 좀플린",
             "introduce": "<align=justified><size=36><color=black>저것은 거대한 비행체였을까? 아니요, 사실은 튼튼한 외피를 가진 거대한 비행선으로, 전투기 편대를 발사할 수도 있습니다. 파괴되더라도 주변 생물에게 큰 대미지를 줄 수 있어서, 다른 좀비들은 충돌로 인해 자신들이 위험에 빠질까 두려워 거리를 유지합니다.</color>",
-            "info": "<size=36>GFishtus 주식회사에서 개발 중인 항공모함입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>매 초마다 키로프 드론을 소환합니다. 사망 시에는 격추되며 식물에 막대한 대미지를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 블로버에 면역이 됩니다. | 이동 속도가 500%가 됩니다.\n2. 키로프 드론의 체력이 25000으로 증가합니다.</color>"
+            "info": "<size=36>GFishtus 주식회사에서 개발 중인 항공모함입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>매 초마다 키로프 드론을 소환합니다. 사망 시에는 격추되며 식물에 막대한 대미지를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 키로프 좀플린과 좀플린 비행선는 이제 블로버에 면역이 됩니다. | 이동 속도가 500%가 됩니다.\n2. 키로프 드론의 체력이 25000으로 증가합니다.</color>"
         },
         {
             "theZombieType": 206,
@@ -772,7 +772,7 @@
             "theZombieType": 207,
             "name": "슈퍼스타 좀비",
             "introduce": "<align=justified><size=36><color=black>슈퍼스타 좀비, 좀비 세계의 전설적인 아이돌로, 자신에게 극도로 높은 기준을 지니고 있습니다. 에드가의 댄스 아카데미를 수료한 뒤, 그는 \n슈퍼 문워크\n를 완벽히 익혔으며, 이는 \n좀비 세계의 여섯 번째 불가사의\n라 불리며 막대한 팬덤을 얻게 되었습니다.</color>",
-            "info": "<size=36>빠르게 이동하며 방어선을 넘어드는 좀비로, 상대하기 만만치 않은 좀비입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>전장으로 미끄러지듯 들어오며, 미끄러지는 동안 대미지를 90% 감소시킵니다. 이후 4방향으로 댄서 좀비를 소환합니다.</color>\n<color=black><page>오디세이 버프:\n</color><color=#4B0082>1. 돌진 시 식물들을 통과합니다.\n2. 이제 슈퍼 장대 좀비를 소환합니다.</color>"
+            "info": "<size=36>빠르게 이동하며 방어선을 넘어드는 좀비로, 상대하기 만만치 않은 좀비입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>전장으로 미끄러지듯 들어오며, 미끄러지는 동안 대미지를 90% 감소시킵니다. 이후 4방향으로 댄서 좀비를 소환합니다.</color>\n<color=black><page>오디세이 버프:\n</color><color=#4B0082>1. 슈퍼스타 좀비와 마이클 좀비는 이제 돌진 시 식물들을 통과합니다.\n2. 이제 슈퍼 장대 좀비를 소환합니다.</color>"
         },
         {
             "theZombieType": 208,
