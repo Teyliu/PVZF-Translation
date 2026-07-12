@@ -1284,7 +1284,7 @@
         {
             "seedType": 995,
             "name": "Lethal Glacier-shroom",
-            "introduce": "<align=left><size=36><color=black>No one knows where the Lethal Glacier-shroom came from. He does not like conversation, hates Mammoths, and has a poor relationship with the Fungularity. He simply pours out the cold within his body in silence. From the murky frost, one can smell the radioactive, snow-like ash that filled the air after the world's destruction.</color>",
+            "introduce": "<align=left><size=36><color=black>No one knows where the Lethal Glacier-shroom came from. He does not like conversation, hates Elephants, and has a poor relationship with the Fungularity. He simply pours out the cold within his body in silence. From the murky frost, one can smell the radioactive, snow-like ash that filled the air after the world's destruction.</color>",
             "info": "<size=36>Works in coordination with cryo attacks, frequently triggering cryo explosions.\n\n<color=#4A2900>Usage Conditions: Odyssey Mode | Unlockable with Tundral Glacier-shroom's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: <color=#8B0000>\n<color=black>•</color> Subspecies of Tundral Glacier-shroom.\n<color=black>•</color> Tundral Glacier-shroom does not trigger on-death effects when turning into Lethal Glacier-shrooms.\n<color=black>•</color> Does not target enemies directly. When cryo-type plants hit zombies, it triggers a coordinated cryo explosion in a 1.5-tile radius, applies Chill, then enters a 0.1s cooldown.\n<color=black>•</color> After coordinated attacks, gains (total stacks of Arctic power/number of Lethal Glacier-shroom) % attack bonus; this bonus does not stack.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Lethal Glacier-shroom Subspecies Unlocked | Damage ×2\n2. Attack Interval halved</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Ice-shroom <-> Doom-shroom</color>"
         },
@@ -4050,7 +4050,7 @@
             "seedType": 1394,
             "name": "Hypnowood",
             "introduce": "<align=left><size=36><color=black>As a rising star of the poolside variety scene, Hypnowood quickly gained a huge following of zombies and plants alike. Her fiery charm and helpful nature became her trademark. But like many public figures, she is plagued by rumors: plastic surgery and excessive use of cosmetics have always followed her.</color>",
-            "info": "<size=36>Hypnowood can summon hypnotized Gatling Pea Zombies to fight for you after igniting enough projectiles.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Gatling Pea Zombie for every 60 projectiles ignited.\n<color=black>•</color> Hypno Peas count as 4 projectiles.\n<color=black>•</color> When bitten, hypnotizes the attacker, and reverts to Torchwood.\n<color=black>•</color> Affects the following projectiles:\n<color=black>-</color> Peas: Ignited for +20 damage;\n<color=black>-</color> Hypno Peas: Ignited for +30 damage;\n<color=black>-</color> Snow Peas: Reverts to Peas.</color>",
+            "info": "<size=36>Hypnowood can summon hypnotized Gatling Pea Zombies to fight for you after igniting enough projectiles.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Gatling Pea Zombie for every 60 projectiles ignited (not counting projectiles from hypnotized zombies).\n<color=black>•</color> Hypno Peas count as 4 projectiles.\n<color=black>•</color> When bitten, hypnotizes the attacker, and reverts to Torchwood.\n<color=black>•</color> Affects the following projectiles:\n<color=black>-</color> Peas: Ignited for +20 damage;\n<color=black>-</color> Hypno Peas: Ignited for +30 damage;\n<color=black>-</color> Snow Peas: Reverts to Peas.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom + Torchwood</color>"
         },
         {
@@ -4196,7 +4196,7 @@
         {
             "seedType": 1415,
             "name": "Thornweed",
-            "introduce": "<align=left><size=36><color=black>She used to be a simple Cactus working at the Mammoth research institute, addressing the elephants.</color>",
+            "introduce": "<align=left><size=36><color=black>She used to be a simple Cactus working at the Elephant research institute, addressing the elephants.</color>",
             "info": "<size=36>Thornweed can shoot spikes upwards to attack zombies, even airborne ones!\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Each attack fires 3 spikes upward; both regular attack and projectiles can hit flying zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Cactus</color>"
         },
