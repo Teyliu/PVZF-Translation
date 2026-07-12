@@ -1,0 +1,334 @@
+{
+  "infos": [
+    {
+      "name": "Bertahan_Akumulasi",
+      "introduce": "Setiap punya 1 status Bertahan, tanaman dapet {value}% pengurangan damage dan ngaktifin efek Perlindungan",
+      "value": 3
+    },
+    {
+      "name": "Bertahan_Awal Hidup",
+      "introduce": "Pas tanaman baru ditanam, langsung dapet {value} poin perisai",
+      "value": 500
+    },
+    {
+      "name": "Bertahan_Kokoh",
+      "introduce": "Tanaman yang punya perisai dapet {value}% pengurangan damage",
+      "value": 20
+    },
+    {
+      "name": "Bertahan_Pemulihan",
+      "introduce": "Pas tanaman kena damage, langsung dapet {value} poin perisai",
+      "value": 10
+    },
+    {
+      "name": "Bertahan_Siaga",
+      "introduce": "Pas level dimulai, semua tanaman di area langsung dapet {value} poin perisai",
+      "value": 500
+    },
+    {
+      "name": "Bertahan_Kebal Lindas",
+      "introduce": "Tanaman jenis Nut (Kacang-kacangan) bakal kebal dari dilindas/dihancurin",
+      "value": 0
+    },
+    {
+      "name": "Bertahan_Berbagi",
+      "introduce": "Pas tanaman dapet perisai, tanaman lain dalam area 3×3 ikut dapet {value}% perisai",
+      "value": 10
+    },
+    {
+      "name": "Bertahan_Perisai",
+      "introduce": "Pas tanaman dipulihkan (di-heal), bakal dapet perisai sebesar {value}% dari total pemulihan itu",
+      "value": 50
+    },
+    {
+      "name": "Bertahan_Heal Tanpa Batas",
+      "introduce": "Pemulihan HP tanaman gak bakal dibatasi lagi sama batas HP maksimalnya",
+      "value": 0
+    },
+    {
+      "name": "Bertahan_Dominasi",
+      "introduce": "Tanaman dengan perisai paling tebal di area bakal jadi kebal (kebal damage dan dilindas)",
+      "value": 0
+    },
+    {
+      "name": "Es_Akumulasi",
+      "introduce": "Setiap punya 1 status Es, efek lambat dari status dingin nambah {value}% dan ngaktifin efek Badai Salju",
+      "value": 3
+    },
+    {
+      "name": "Es_Menusuk Tulang",
+      "introduce": "Zombi yang lagi beku bakal kena damage tambahan sebesar {value}%",
+      "value": 100
+    },
+    {
+      "name": "Es_Angin Dingin",
+      "introduce": "Serangan dari semua tanaman elemen Es meningkat {value}%",
+      "value": 200
+    },
+    {
+      "name": "Es_Membeku",
+      "introduce": "Durasi efek beku pada zombi diperlama {value}%",
+      "value": 50
+    },
+    {
+      "name": "Es_Perlindungan",
+      "introduce": "Pas tanaman mati, zombi di area kecil sekitarnya bakal kena efek beku selama 1 detik",
+      "value": 0
+    },
+    {
+      "name": "Es_Siksaan",
+      "introduce": "Setelah zombi dibekukan, serangan berikutnya yang diterima zombi itu bakal nambah {value}%",
+      "value": 300
+    },
+    {
+      "name": "Es_Penyebaran",
+      "introduce": "Pas ada zombi yang membeku, zombi lain di area kecil sekitarnya ikut kena status dingin",
+      "value": 0
+    },
+    {
+      "name": "Es_Fokus",
+      "introduce": "Zombi tanpa pelindung/zirah yang kena damage punya {value}% peluang buat kena efek lambat status dingin",
+      "value": 80
+    },
+    {
+      "name": "Es_Pecah Es",
+      "introduce": "Pas efek beku di tubuh zombi habis atau lepas, zombi itu bakal kena {value} damage",
+      "value": 500
+    },
+    {
+      "name": "Es_Beku Abadi",
+      "introduce": "Batas maksimal nilai pembekuan zombi bakal selalu tetap di angka {value}",
+      "value": 100
+    },
+    {
+      "name": "Hipnotis_Akumulasi",
+      "introduce": "Setiap punya 1 status Hipnotis, HP dan damage dari zombi yang dihipnotis nambah {value}% serta ngaktifin efek Pembalikan",
+      "value": 30
+    },
+    {
+      "name": "Hipnotis_Resonansi",
+      "introduce": "Pas zombi hipnotis gigit zombi jenis yang sama, damage gigitannya nambah {value}%",
+      "value": 300
+    },
+    {
+      "name": "Hipnotis_Sihir",
+      "introduce": "Pas zombi hipnotis gigit zombi musuh, ada {value}% peluang buat ikut menghipnotis target itu",
+      "value": 10
+    },
+    {
+      "name": "Hipnotis_Pemberani",
+      "introduce": "Setelah zombi kena hipnotis, dia bakal langsung dapet tambahan {value}% HP",
+      "value": 100
+    },
+    {
+      "name": "Hipnotis_Rapuh",
+      "introduce": "Zombi musuh yang digigit sama zombi hipnotis bakal kena damage tambahan {value}%",
+      "value": 50
+    },
+    {
+      "name": "Hipnotis_Obsidian",
+      "introduce": "Zombi yang udah dihipnotis bakal kebal dari efek dilindas",
+      "value": 0
+    },
+    {
+      "name": "Hipnotis_Reinkarnasi",
+      "introduce": "Pas zombi musuh mati, ada {value}% peluang dia bakal hidup lagi buat bantuin kamu bertarung",
+      "value": 10
+    },
+    {
+      "name": "Hipnotis_Bantuan",
+      "introduce": "Setiap kelipatan {value} detik, bakal muncul satu baris Zombi Kotak Misteri (Blind Box) Hipnotis buat belain kamu",
+      "value": 20
+    },
+    {
+      "name": "Hipnotis_Began Berat",
+      "introduce": "Damage lindasan yang dihasilkan sama zombi hipnotis bakal nambah {value}%",
+      "value": 200
+    },
+    {
+      "name": "Hipnotis_Keterikatan",
+      "introduce": "Pas zombi hipnotis mati, ada {value}% peluang zombi jenis sama di sekitarnya ikut terhipnotis",
+      "value": 30
+    },
+    {
+      "name": "Api_Akumulasi",
+      "introduce": "Setiap punya 1 status Api, damage serangan tanaman nambah {value}% dan ngaktifin efek Bola Api",
+      "value": 10
+    },
+    {
+      "name": "Api_Ledakan",
+      "introduce": "Damage ledakan dari zombi status Kepanasan (Overheat) yang mati bakal meningkat {value}%",
+      "value": 100
+    },
+    {
+      "name": "Api_Kemarahan",
+      "introduce": "Damage tambahan yang dihasilkan saat status Kepanasan aktif meningkat {value}%",
+      "value": 50
+    },
+    {
+      "name": "Api_Bibir Merah",
+      "introduce": "Ledakan dari Ceri (Cherry Bomb) otomatis bakal ngasih status Kepanasan ke zombi",
+      "value": 0
+    },
+    {
+      "name": "Api_Mencair",
+      "introduce": "Pas status beku zombi ilang gara-gara terrenna efek api, zombi itu bakal kena {value} damage",
+      "value": 500
+    },
+    {
+      "name": "Api_Membakar",
+      "introduce": "Efek kematian dari zombi yang Kepanasan bakal ngeluarin bonus semburan api cabai",
+      "value": 0
+    },
+    {
+      "name": "Api_Mandi Api",
+      "introduce": "Pas api cabai lagi membakar, semua tanaman di baris tersebut bakal pulih {value} HP",
+      "value": 50
+    },
+    {
+      "name": "Api_Api Hantu",
+      "introduce": "Pas api cabai udah padam, ada {value}% peluang zombi di baris tersebut bakal kena status beku",
+      "value": 50
+    },
+    {
+      "name": "Api_Kutukan",
+      "introduce": "Pas zombi hancur jadi abu, ketahanan (defense) semua zombi di area bakal berkurang {value}%",
+      "value": 1
+    },
+    {
+      "name": "Api_Matahari",
+      "introduce": "Setiap {value} detik sekali, kamu bakal otomatis dapet 25 Matahari",
+      "value": 10
+    },
+    {
+      "name": "Umum_Seka Air",
+      "introduce": "Kecepatan cooldown item Sarung Tangan nambah {value}%",
+      "value": 50
+    },
+    {
+      "name": "Umum_Seribu Kati",
+      "introduce": "Kecepatan cooldown item Palu nambah {value}%",
+      "value": 50
+    },
+    {
+      "name": "Umum_Mendesak",
+      "introduce": "Kecepatan cooldown Kartu Tanaman nambah {value}%",
+      "value": 50
+    },
+    {
+      "name": "Umum_Diskon",
+      "introduce": "Harga beli Kartu Tanaman berkurang {value} Matahari",
+      "value": 15
+    },
+    {
+      "name": "Umum_Tanam Padat",
+      "introduce": "Batas maksimal tanaman yang bisa ditanam di area permainan nambah {value}",
+      "value": 30
+    },
+    {
+      "name": "Umum_Super",
+      "introduce": "Setelah lewat level 5, batas maksimal buat nanam Tanaman Super bakal nambah {value} setiap lewatin 1 level",
+      "value": 2
+    },
+    {
+      "name": "Umum_Ultimate",
+      "introduce": "Setelah lewat level 10, batas maksimal buat nanam Tanaman Ultimate bakal nambah {value} setiap lewatin 1 level",
+      "value": 1
+    },
+    {
+      "name": "Umum_Sangat Cepat",
+      "introduce": "Kecepatan serangan dari semua tanaman nambah {value}%",
+      "value": 30
+    },
+    {
+      "name": "Umum_Kuat",
+      "introduce": "Damage serangan dari semua tanaman nambah {value}%",
+      "value": 50
+    },
+    {
+      "name": "Umum_Fokus",
+      "introduce": "Rasio kritikal (Crit Rate) dari peluru tanaman meningkat {value}%",
+      "value": 80
+    },
+    {
+      "name": "Umum_Ledakan Kritikal",
+      "introduce": "Damage serangan kritikal dari peluru tanaman meningkat {value}%",
+      "value": 200
+    },
+    {
+      "name": "Umum_Investasi",
+      "introduce": "Jumlah kesempatan buat reroll status nambah +{value}",
+      "value": 2
+    },
+    {
+      "name": "Umum_Peluang",
+      "introduce": "Kesempatan reroll berkurang -{value}, tapi di level genap kamu bisa milih ekstra 1 status",
+      "value": 3
+    },
+    {
+      "name": "Umum_Takdir",
+      "introduce": "Bakal dapet 2 status acak baru yang belum kamu punya",
+      "value": 0
+    },
+    {
+      "name": "Umum_Hentikan Waktu",
+      "introduce": "Kamu bisa tekan lama buat ngambil tombol Stop Waktu, lalu dipake buat ngepruk zombi biar mereka kena efek waktu berhenti",
+      "value": 0
+    },
+    {
+      "name": "Umum_Upgrade",
+      "introduce": "Kamu bisa pakai Sarung Tangan terus klik langsung ke tanamannya buat nge-upgrade",
+      "value": 0
+    },
+    {
+      "name": "Racun Bawang_Akumulasi",
+      "introduce": "Setiap punya 1 status Racun Bawang, damage yang diterima zombi nambah {value}% dan ngaktifin efek Pembusukan",
+      "value": 10
+    },
+    {
+      "name": "Racun Bawang_Korosi",
+      "introduce": "Setiap ada 1 stack (lapisan) Racun Bawang di tubuh zombi, damage yang diterima zombi itu nambah {value}%",
+      "value": 5
+    },
+    {
+      "name": "Racun Bawang_Pengikisan",
+      "introduce": "Damage racun yang diterima zombi bakal meningkat sebesar {value}%",
+      "value": 200
+    },
+    {
+      "name": "Racun Bawang_Serum",
+      "introduce": "Setiap zombi kena 1 poin damage racun, bakal nge-heal 1 HP tanaman dengan sisa darah paling sedikit di area",
+      "value": 0
+    },
+    {
+      "name": "Racun Bawang_Kebingungan",
+      "introduce": "Zombi yang keracunan punya {value}% peluang buat gigit dirinya sendiri pas lagi mau makan tanaman",
+      "value": 50
+    },
+    {
+      "name": "Racun Bawang_Lemah",
+      "introduce": "Pas zombi pindah jalur, dia bakal langsung keracunan dan dapet ekstra 5 stack efek Bawang",
+      "value": 0
+    },
+    {
+      "name": "Racun Bawang_Mual",
+      "introduce": "Zombi yang lagi keracunan bakal kena {value} damage pas dia nyoba pindah jalur",
+      "value": 500
+    },
+    {
+      "name": "Racun Bawang_Digerogoti",
+      "introduce": "Kalau zombi terus-terusan keracunan selama 10 detik, dia bakal kehilangan {value}% dari HP maksimalnya setiap detik",
+      "value": 3
+    },
+    {
+      "name": "Racun Bawang_Batas Racun",
+      "introduce": "Batas maksimal stack (lapisan) efek Bawang di tubuh zombi nambah +{value}",
+      "value": 30
+    },
+    {
+      "name": "Racun Bawang_Meledak",
+      "introduce": "Setiap aksi atau efek yang ngasih status Bawang otomatis bakal langsung ngasih efek keracunan juga",
+      "value": 0
+    }
+  ]
+}

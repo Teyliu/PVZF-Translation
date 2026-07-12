@@ -7,105 +7,87 @@ Mampir ke komunitas kita buat dapet info update terbaru sama bantuan teknis.
 
 <color=yellow>Tip: Tekan tombol End sebelum bermain</color>
 
-<align=center><size=130%>Tanaman Lawan Zombi: Fusi - Catatan Pembaruan 3.7</size></align>
+<align=center><size=130%>Tanaman Lawan Zombi: Fusi - Catatan Pembaruan 3.8</size></align>
 
-1. Pembaruan Evolusi Dewa
-Pilih jumlah tanaman yang bisa digunakan, tingkat kesulitan, dan progres tantanganmu sendiri!
-Atribut dibagi menjadi berbagai tingkat kelangkaan. Kamu bisa menarik tanaman baru, meningkatkan level tanaman, atau memperkuat tanaman dari atribut tersebut.
-Beberapa tanaman memiliki atribut transformasi super kuat, dan ada peluang sangat kecil untuk menarik atribut transformasi ultimate yang bisa menentukan kemenangan.
-Bisa diakses lewat "Level Rekomendasi" di menu utama.
+1. Pembaruan Taman Zen
+	-  Fitur Lompat Halaman Baru: 
+		* Bikin kamu makin gampang dan praktis buat ngatur tamanmu.
+	-  Fitur Ganti Suasana Latar: 
+		* Sekarang kamu bisa ngatur sendiri pencahayaan dan atmosfer di dalam taman.
+	-  Koin Teratai Merah: 
+		* Kalau kamu jual tanaman yang udah tumbuh maksimal, kamu bakal dapet Koin Teratai Merah.
+		* Koin ini bisa dipake buat beli item penumbuh tingkat tinggi biar bisa numbuhin tanaman secara massal (banyak sekaligus).
+	-  Pemisahan Taman:
+		* Taman Zen dan Taman Gede sekarang udah gak saling terhubung lagi ya.
 
 2. Tanaman Baru
-- Tanaman Biasa:
-  - Sukulen Cakar Beruang
-  - Rebung Salju,
-  - Teratai Duri Bersalju,
-  - Pot Kipli,
-  - Pot Sniper,
-  - Tusam Duri Es,
-  - Labu Gatling Super,
-  - Semangka Nuklir,
-  - Lidah Buaya Salju,
-  - Kotak Labu,
-  - Jagung Nuklir,
-  - Kipli Bintang,
-  - Labu Api,
-  - Daun Baja Berduri,
-  - Rumput Duri Kubis,
-  - Rumput Duri Semangka,
-  - Rumput Duri Matahari,
-  - Semanggi Angin Puyuh,
-  - Ranjau Kentang Obor,
-  - Ranjau Kentang Menyala,
-  - Jamur Pengecut Penembak Kacang,
-  - Kentang Semanggi.
-- Tanaman Ultimate:
-  - Kenari Tinggi Abadi Ultimate,
-  - Jamur Lengket Dewa Api Ultimate,
-  - Jamur Es Sunyi,
-  - Gadis Kucing Ajaib·Warni [Air],
-  - Gadis Kucing Ajaib·Warni [Darat],
-  - Jamur Es Pemusnahan,
-  - Pot Bunga Penembak Runduk,
-  - Labu Senapan Mesin Super,
-  - Penembak Kacang Senapan Mesin Super Kenari,
-  - Penembak Kacang Senapan Mesin Penembak Runduk Lahap.
+	- Fusi Dasar:
+		* Kaktus Es,
+		* Jamur Gemoy Ceri,
+		* Jamur Laut Obor,
+		* Jamur Laut Api Membara,
+		* Kipli Kembar 3 Meriam Semangka,
+		* Kipli Kembar 3 Meriam Jagung,
+		* Kipli Kembar 3 Labu,
+		* Labu Es,
+		* Pot Kipas,
+		* Jamur Gemoy Berduri,
+		* Kipli Kembar 3 Meriam Kubis,
+		* Kipli Kembar 3 Ireng,
+		* Jamur Geprek Bintang,
+		* Kipli Kembar 3 Pot.
+	- Fusi Ultimate:
+		* Ultimate Armored Chomper (Chomper Berzirah Ultimate),
+		* Ultimate Blazing Sea-shroom (Jamur Laut Api Dahsyat Ultimate),
+		* Ultimate Fortress Wall-nut (Nut Benteng Ultimate),
+		* God of Wind Blover (Semanggi Dewa Angin),
+		* Ultimate Fire-Bathed Peashooter (Penembak Mandi Api Ultimate),
+		* Ultimate Flying Fire Peashooter (Penembak Api Terbang Ultimate),
+		* Ultimate Starfruit Sniper (Belimbing Penembak Jitu),
+		* Potato Super Gatling Pea (Kacang Senapan Mesin Super Kentang).
 
 3. Zombi Baru
-- Zombi Biasa:
-  - Zombi Kerucut Komposit,
-  - Zombi Mamut.
-- Zombi Odisei:
-  - Zombi Cakar Salju Obsidian,
-  - Penunggang Paus Kuno Ultimate,
-  - Zombi Balon Waktu Super,
-  - Zombi Kavaleri Zaitun Hitam,
-  - Kapten Kavaleri Zaitun Hitam Senapan Mesin,
-  - Raja Badut Jubah Hitam,
-  - Mamut Zaitun Hitam,
-  - Kereta Perang Zaitun Hitam Senapan Mesin.
+	- Zombi Dasar:
+		* Zombi Bowling,
+		* Zombi Bowling Mata Merah, 
+		* Zombi Yeti Giga-Wallnut Abadi.
+	- Zombi Odisei:
+		* Samurai Zirah Hitam Pembawa Bendera,
+		* Kapten Samurai Tall-Nut Zirah Hitam,
+		* Gajah Perang Zirah Hitam,
+		* Gajah Perang Bersenjata Zirah Hitam,
+		* Gajah Perang Lapis Baja Berat Zirah Hitam,
+		* Imp Senjata Khusus,
+		* Teratai Merah Zombie Ultimate.
 
-4. Pembaruan Mode Perjalanan
-- Rute baru:
-  Rute Panglima Zaitun Hitam, dengan kemunculan monster yang dioptimalkan dari rute sebelumnya.
-- Sekarang dapat memilih beberapa atribut transformasi dari Evolusi Dewa.
-- Atribut Kombo Baru:
-  - Reaksi Elemental (Jamur Penyembur Ultimate ∞ Jamur Pantul Dewa Api Ultimate).
-- Bos Mini Baru:
-  - Panglima Zaitun Hitam Mini,
-  - Raja Iblis Kecil Mini,
-  - Mecha Hampa Bentuk Ikan Mini.
+4. Peta Baru:
+	Malam Musim Dingin (Winter Night)
+	* Map ini nantinya bakal ditambahin mekanik baru atau mode mini-game seru lainnya, tungguin aja!
 
-5. Pembaruan Level
-- Permainan Mini Baru:
-  - Tantangan Gerobak Dorong,
-  - Perangkap Waktu,
-- Acak Super: Kotak Labu.
-* Selesaikan Tantangan Gerobak Dorong untuk membuka item Gerobak Dorong, yang bisa menyimpan sementara satu tanaman.
+5. Update Level
+	- Evolusi Para Dewa (Gods Evolution): Jalur evolusi dan status tambahan (buff) buat lebih banyak tanaman udah ditambahin.
+	- Selain itu, Tanaman Pakar Para Dewa juga resmi bergabung!
 
-6. Penyesuaian Keseimbangan
-* Rumput Duri Obor: Kemampuan baru untuk memperkuat peluru Kenari Menggelinding.
-* Zombi Boling Mecha & Kapal Cepat Iblis Ayam Mecha: Kecepatan gerak dasar diturunkan.
-* Ratu Jamur Magnet: Kemampuan produksi item besi diturunkan, namun bonus peningkatannya diperbesar.
-* Panglima Zaitun Hitam Ultimate & Zombi Tangga Kutukan: Kemampuan dikerjakan ulang.
-* Gargantuar Emas Spesial: Sekarang hanya akan melakukan satu serangan berat setelah membesar.
+6. Penyesuaian Keseimbangan (Buff & Nerf)
+	- Ultimate Gloom-shroom:
+		* Efek status "Lawan Ledakan dengan Ledakan" diubah.
+		* Sekarang gak bakal nyerap damage ledakan buat ngeluarin efek Doom-shroom lagi, tapi diganti jadi kebal terhadap semua damage.
+		* Tapi hati-hati, kalau keseringan aktifin efek kebal dalam waktu singkat, dia bisa mati!
+	- Ultimate Jalapeno Torchwood & Ultimate Jalapeno Starwood:
+		* Sekarang bisa ngasih efek buff ke lebih banyak peluru.
+	- Gargantuar Bersenjata Khusus:
+		* Efek status ke-2 diubah. Sekarang dia gak kebal lagi dari efek status buruk (debuff), tapi sebagai gantinya dia bakal manggil Imp Bersenjata Khusus.
+	- Ultimate Spacetime Corn:
+		* Efek dasar dari Ultimate Black Hole sekarang otomatis dapet efek asli dari status "Keserakahan Tanpa Batas".
+		* Efek status gandanya juga diubah biar bisa ngasih buff ke spesies asli maupun subspesiesnya.
+	- Ultimate Spacetime Wall-nut:
+		* Kemampuannya di-rework (dibuat ulang).
+		* Sekarang bisa ngebuka Ultimate Black Hole buat nyedot peluru musuh, yang bakal diubah jadi perisai tebal buat ngelindungin dirinya sendiri sekaligus ngasih damage balik ke musuh.
 
-7. Optimasi Teks
-* Almanak Mekanisme: Menambahkan judul utama untuk setiap entri.
-* Mekanisme Terkait Tundra:
-  Menggabungkan cara-cara memberikan efek beku (seperti Bola Salju, Kacang Es, Serangan Ratu Tundra Ultimate) ke dalam istilah "Serangan Beku"
-  (dapat mengisi energi beberapa tanaman Tundra).
-* Zombi Cakar Salju & Panglima Zaitun Hitam: Mendapatkan cerita latar belakang yang baru.
+7. Optimasi Lainnya
+	- Ada pilihan baru di pengaturan buat liat info damage peluru dengan cara menekan tombol T.
+	- Sekarang kamu bisa bebas ngatur dan geser-geser posisi UI (tampilan tombol/menu) pas lagi main di dalam level.
+	- Menu daftar status baru dengan gaya Ensiklopedia (Almanak). Daftarnya sekarang diurutkan rapi berdasarkan nomor urut, bukan berdasarkan waktu pas kamu dapetinnya.
 
-8. Optimasi Lainnya
-* Jika permainan saat ini bukan versi terbaru, pembaruan dapat diunduh langsung dari layar utama (memerlukan koneksi internet).
-* Menambahkan Almanak Atribut.
-* Tampilan bilah darah (HP) tanaman dioptimalkan.
-* Jumlah slot penyimpanan untuk level tipe Mode Bertahan Hidup sangat ditingkatkan, dan dapat diberi nama kustom.
-* Sebelum memulai level, dapat melihat daftar Zombi yang akan muncul.
-* Sekarang Zombi tidak akan berhenti menyerang dan bergerak maju sedikit jika masih ada target dalam jangkauan serangan.
-* Mode Kustom Super dapat mengatur variabel.
-* Acak: Berkat Terselubung: Menambahkan tingkat kesulitan Mudah dan Normal.
-* Pintu masuk Mode Pertahanan Menara dipindahkan ke Mode Tantangan.
-
-9. Memperbaiki beberapa bug yang diketahui dan mengoptimalkan pengalaman bermain game.
+8. Perbaikan Bug
+	- Beberapa bug yang mengganggu udah diperbaiki dan performa game udah ditingkatkan biar pengalaman mainmu makin lancar dan seru!
