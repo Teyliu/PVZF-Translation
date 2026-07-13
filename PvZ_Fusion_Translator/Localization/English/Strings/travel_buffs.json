@@ -922,11 +922,11 @@
         },
         "28": {
             "name": "Shock Absorber",
-            "desc": "Giga Mecha-nut Bowling Zombie: For the first 50 hits, all zombies take only 1 damage"
+            "desc": "Giga Mecha-nut Zombie: For the first 50 hits, all zombies take only 1 damage"
         },
         "29": {
             "name": "Reactive Armor",
-            "desc": "Giga Mecha-nut Bowling Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
+            "desc": "Giga Mecha-nut Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
         },
         "30": {
             "name": "Stampede",
