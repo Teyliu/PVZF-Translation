@@ -4425,6 +4425,20 @@
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Cactus + Champi-glace</color>"
         },
         {
+            "seedType": 1437,
+            "name": "Pot de Troufle",
+            "introduce": "<align=left><size=36><color=black>Les stagiaires de l'académie des plantes volantes ont reçu leur premier jour de repo. Jusqu'à maintenant, l'instructeur Pot de Troufle les traitait toujours de façon stricte: \"Ta posture de vole est mauvaise ! Descends et viens te recalibrer !\" Toutefois, il n'a récemment pas pu venir car il a accidentellement dérange la célébration du \"1437\"ème aniversaire de Carambole et est maintenant rechercher par eux.</color>",
+            "info": "<size=36>Pot de Troufle sacrifie les plantes volantes pour nourrir les plantes au dessus de lui. \n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Chaques secondes, enlève la plante volante sur sa case. Après l'enlèvement, restaure 150 PV a la plante sur sa case et accorde un boost d'attaque de 20% pendant 5s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Troufle + Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1442,
+            "name": "Triple-pot",
+            "introduce": "<align=left><size=36><color=black>La boutique de Triple-pot a toujours reçu des avis lumineux. Depuis qu'il a vendu des projectiles de pois, il a organisé une promotion \"un acheté, deux offerts\". Les pois étaient joyeusement placer en ordre, seulement pour découvrir durant les tire que les cadeaux était fait de papier. Toutefois, considérant que les prix était abordable, personne ne sans souciait réellement</color>",
+            "info": "<size=36>Triple-pot boost l'attaque des plantes de type Triple Pisto-pois et étend la zone des rangées de couvrages des plantes de type Pisto-pois.  \n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color>Plante basse. Redonne 100 soleil en plus après la fusion.\n<color=black>•</color>Les plantes de type Triple Pisto-pois placés au dessus gagnent un bonus de 20% d'attaques.\n<color=black>•</color>Les plantes de type Pisto-pois placés au dessus attaque sur chaque rangé adjacente après toutes les 6 attaques, infligeant 50% de leurs attaques.Cette attaque bénéficie d’une compensation sur les rangées extérieures.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple Pisto-pois + Pot de Fleur</color>"
+        },
+        {
             "seedType": 3000,
             "name": "Plante Provisoire",
             "introduce": "<align=left><size=36><color=black></color>",
