@@ -458,5 +458,12 @@
   "^([\\s\\S]+)，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：": "{0}, ID: {1}\nSaved at: {2}\nVersion: N/A",
   "^，编号：(\\d+)\n保存时间：([\\s\\S]+)\n版本：$": "No Name, ID: {0}\nSaved at: {1}\nVersion: N/A",
   "保存成功，编号：(\\d+)": "Progress saved with ID: {0}",
-  "\n(\\d+)%\n剩余(\\d+)\n还需(\\d+)": "\n{0}%\nStacks Left: {1}\nAttacks Needed: {2}"
+  "\n(\\d+)%\n剩余(\\d+)\n还需(\\d+)": "\n{0}%\nStacks Left: {1}\nAttacks Needed: {2}",
+  "^(\\d+)/(\\d+)页$": "Page {0}/{1}",
+  "^([\\s\\S]+)的回合开始了，你有(\\d+)次行动机会\n可在指定位置放置礼盒$": "{0}'s turn has started. You have {1} move(s) remaining.\nYou can place Giftboxes/plants on your half of the lawn.",
+  "^([\\s\\S]+)的回合开始了，你有(\\d+)次行动机会 可在指定位置放置礼盒$": "{0}'s turn has started. You have {1} move(s) remaining.\nYou can place Giftboxes/plants on your half of the lawn.",
+  "有僵尸过线了，([\\s\\S]+)获得(\\d+)次行动次数": "A zombie has crossed the line. {0} gains {1} move(s).",
+  "^([\\s\\S]+)还有(\\d+)次行动机会 可在指定位置放置礼盒": "{0} still has {1} move(s) remaining.\nYou can place plants on your half of the lawn.",
+  "^([\\s\\S]+)没有行动次数了，请选择继续砸罐子或者按下回车键结束回合": "{0} has no moves remaining.\nChoose whether to continue smashing vases or press Enter to end the turn.",
+  "^([\\s\\S]+)，你已经没有行动次数了": "{0}, you don't have any moves remaining!"
 }
