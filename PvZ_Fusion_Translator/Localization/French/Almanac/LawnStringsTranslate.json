@@ -4420,8 +4420,8 @@
         {
             "seedType": 1427,
             "name": "Cactus de Glace",
-            "introduce": "<align=left><size=36><color=black>\"Il fait vraiment froid la haut !\" Le Cactus de glace soupire souvent ainsi, laissant les autres plantes plutôt confusent. Mais se n'est pas dur a comprendre. Après tout, si vous revenez des nuages avec du givre sur le visage, vous diriez probablement la même chose.</color>",
-            "info": "<size=36>Le Cactus de Glace tire des épines glacées qui sont particuliairement éfficace contre les cible aériennes volant et gelées\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points de Cryo et infligent ×4 dégats aux zombies gelés</color>\n<color=black>Spécial : </color><color=#8B0000>Contre les cibles aériennes, les projectiles percent 2 fois et infligent ×4 de dégats</color>",
+            "introduce": "<align=left><size=36><color=black> \" Il fait vraiment froid là-haut ! \" Le Cactus de glace soupire souvent ainsi, laissant les autres plantes plutôt confuses. Mais ce n'est pas dur à comprendre. Après tout, si vous revenez des nuages avec du givre sur le visage, vous diriez probablement la même chose.</color>",
+            "info": "<size=36>Le Cactus de Glace tire des épines glacées qui sont particulièrement efficaces contre les cibles aériennes volantes et gelées\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points de Cryo et infligent ×4 dégâts aux zombies gelés</color>\n<color=black>Spécial : </color><color=#8B0000>Contre les cibles aériennes, les projectiles percent 2 fois et infligent ×4 de dégâts</color>",
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Cactus + Champi-glace</color>"
         },
         {
