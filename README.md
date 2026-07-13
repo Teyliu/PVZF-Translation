@@ -18,6 +18,8 @@ The download links for the Multi-language Mod and the translation files of the M
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
 **Multi-Language 3.7** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.7)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
+**Chinese 3.8** | PC | [MEGA](https://mega.nz/file/CAAi1aAQ#e68mOLkm__08XZzlzXGNS3hr3In00YRTbG9dpf33mAY) [Google Drive](https://drive.google.com/file/d/1BHvFgZvlL35qPLEKGmZUejjY4jIEGRSV/view?usp=sharing)
+**Chinese 3.8** | Android | [MEGA](https://mega.nz/file/CRQwwADA#iK9jnuaIgNymc8js4ny4VUOpQXayE7pJ7AToj9t0fuE) [Google Drive](https://drive.google.com/file/d/1UHFCHhJy_e02eqGEW81JjfkBE_SezcAo/view?usp=sharing)
 **Chinese 3.7** | PC | [MEGA](https://mega.nz/file/6VIy3ZbZ#J0ycntt_DE6XxI6ZwkJsibVGDVED29GyuAF-wqPjWGM) [Google Drive](https://drive.google.com/file/d/1R01-pXXj_179Wa-CeNi7JbvmxsF2bUd2/view?usp=sharing)
 **Chinese 3.7** | Android | [MEGA](https://mega.nz/file/DIwQhLIb#jrQa4QMLfWogqAU_m2lMOb-bCc_8VfmGzaHuNjl462c) [Google Drive](https://drive.google.com/file/d/1G1ErJIBRqCVRDeS3Wwb4b-qkq7E3d5FF/view?usp=sharing)
 **Chinese 3.6.1** | PC | [MEGA](https://mega.nz/file/TERAlapA#cL50Ja1vsiPjagO4nt5mjMf2JWMlEr72Yr3s8O1PDks) [Google Drive](https://drive.google.com/file/d/1DuwJsYp3QKcfv6e3XQn8cOToksDHVLNO/view?usp=sharing)
@@ -27,10 +29,11 @@ The download links for the Multi-language Mod and the translation files of the M
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
+The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.7 - English, Indonesian
-	Last Updated 3.6.1 - Vietnamese, Spanish
+	Up-to-date 3.8 - None
+	Last Updated 3.7 - English, Indonesian, Vietnamese
+	Last Updated 3.6.1 - Spanish
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Korean, Romanian
