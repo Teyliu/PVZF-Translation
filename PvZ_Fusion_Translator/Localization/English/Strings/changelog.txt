@@ -56,7 +56,7 @@ Please visit our community for future updates and support.
 3. New Zombies
 - Common:
   - Aluminium-head Zombie
-  - Elephant Zombie
+  - Mammoth Zombie
 - Odyssey:
   - Regular
     - Obsidian Tall-nut Iceclaw Zombie
@@ -64,7 +64,7 @@ Please visit our community for future updates and support.
     - Black Knight Zombie
     - Buckshot Knight Captain Zombie
     - Devil-in-the-Box Zombie
-    - War Elephant Zombie
+    - War Mammoth Zombie
     - Buckshot Bobsled Brigade
   - Bosses
     - Cerasocetus Rider

@@ -1,4 +1,4 @@
-{
+﻿{
     "advancedBuffs": {
         "0": {
             "name": "",
@@ -531,216 +531,6 @@
         "12005": {
             "name": "",
             "desc": "Perubahan Kualitatif - Pemusnahan Total: Saat King Gurita mati, ia melepaskan kerusakan ledakan sebesar 1 juta."
-        }
-    },
-    "ultimateBuffs": {
-        "0": {
-            "name": "",
-            "desc": "Haus Darah: Pemulihan HP King Cerizilla dan subspesiesnya x3"
-        },
-        "1": {
-            "name": "",
-            "desc": "Lelah Melahap: Waktu tunggu (cooldown) melahap King Cerizilla dan subspesiesnya dikurangi menjadi 15 detik"
-        },
-        "2": {
-            "name": "",
-            "desc": "Tenaga Dahsyat: Kerusakan ledakan Cherry yang dihasilkan oleh pihak tanaman x3"
-        },
-        "3": {
-            "name": "",
-            "desc": "Isi Ulang Cepat: Kecepatan serangan King Cherry Gatling dan subspesiesnya +100%"
-        },
-        "4": {
-            "name": "",
-            "desc": "Angin Dingin Menusuk: Frekuensi damage King Jamur Gemoy x3, untuk subspesies King Kaktus damage peluru x3, dan damage Snow Claw Zombie x3"
-        },
-        "5": {
-            "name": "",
-            "desc": "Pembekuan Dalam: Zombie yang lepas dari efek beku akan menerima damage sebesar 30% dari HP saat ini"
-        },
-        "6": {
-            "name": "",
-            "desc": "Hasil Ganda: Jumlah peluru yang dibutuhkan Kayu Api Geprek dan subspesiesnya untuk memproduksi tanaman meledak dikurangi setengah"
-        },
-        "7": {
-            "name": "",
-            "desc": "Aku Marah Besar: Jika Kayu Api Geprek dan subspesiesnya gagal memproduksi tanaman meledak, akan langsung melepaskan efek Cabai"
-        },
-        "8": {
-            "name": "",
-            "desc": "Hujan Meteor: Interval serangan King Bintang Emperor dikurangi menjadi 0.5 detik"
-        },
-        "9": {
-            "name": "",
-            "desc": "Kekuatan Bintang: Damage peluru King Bintang Emperor x2 (Level 2: x3), batas maksimal damage saat menembak x10 (Level 2: Tanpa batas)"
-        },
-        "10": {
-            "name": "",
-            "desc": "Kesunyian Total: Damage saat King Gurita mati meningkat menjadi 1 juta, dan level cahaya yang diberikan saat King Lampu mati x3"
-        },
-        "11": {
-            "name": "",
-            "desc": "Lawan Ledakan dengan Ledakan: King Gurita dan subspesiesnya kebal terhadap ledakan non-fisik; setiap menyerap 10.000 damage ledakan, akan melepaskan ledakan Jamur Nuklir"
-        },
-        "12": {
-            "name": "",
-            "desc": "Semua Kebagian: Probabilitas tembakan menyebar King Wibu dan subspesiesnya meningkat menjadi 100%"
-        },
-        "13": {
-            "name": "",
-            "desc": "Serangan Racun Bawang: Pemberian efek Bawang akan memberikan efek racun mematikan, dan batas maksimal poin Bawang ditingkatkan menjadi 120 (Level 2: Tanpa batas)"
-        },
-        "14": {
-            "name": "",
-            "desc": "Pusat Peledakan: Damage ledakan titik pusat meriam utama King Meriam dan subspesiesnya x4"
-        },
-        "15": {
-            "name": "",
-            "desc": "Kecepatan adalah Kunci: Waktu isi ulang King Meriam dan subspesiesnya dikurangi menjadi 1/3 dari semula"
-        },
-        "16": {
-            "name": "",
-            "desc": "Perisai Abad Ini: Ketahanan (HP) King Obsidian High Kacang dan subspesiesnya x3"
-        },
-        "17": {
-            "name": "",
-            "desc": "Rela Berkorban: King Obsidian High Kacang dan subspesiesnya akan menerima damage untuk tanaman di kotaknya sendiri serta satu kotak di kiri dan kanannya"
-        },
-        "18": {
-            "name": "",
-            "desc": "Menyelamatkan Semua Makhluk: Ambang batas HP untuk efek Charm peluru King Jamur Hipno ditingkatkan dari 60% menjadi 100%; damage King Charm Labu terhadap Zombie yang terpesona dikurangi setengah"
-        },
-        "19": {
-            "name": "",
-            "desc": "Mesin Abadi: King Jamur Hipno dan subspesiesnya membuka pengisian energi (charge) Level 3. Interval serangan King Jamur Hipno turun menjadi 1 detik, energi tidak akan turun di bawah Level 2, dan dapat mengonsumsi objek logam untuk mengisi energi ke Level 3 selama 5 menit"
-        },
-        "20": {
-            "name": "",
-            "desc": "Penghambat Terjang: Damage peluru dan api dingin Kipli Mesin Obsidian x3; damage laser Kipli Mesin Obsidian x3"
-        },
-        "21": {
-            "name": "",
-            "desc": "Berserker: Saat Kipli Mesin Obsidian menggunakan skill ulti, akan mengembalikan 50.000 energi. Pada Level 2, api dingin akan memberikan tambahan damage murni (mengabaikan pertahanan) sebesar 20%; semakin rendah HP Kipli Mesin Obsidian, semakin tinggi pertahanannya, dan jika HP di bawah 500 pada Level 2, damage x2"
-        },
-        "22": {
-            "name": "",
-            "desc": "Kilauan Emas: Saat Dewa Matahari menembak, mengonsumsi 0,5% dari sisa matahari yang melebihi 15.000, meningkatkan damage peluru sebesar 20 kali lipat dari matahari yang dikonsumsi. Untuk subspesies Dewa Bulan, bonus damage dari level cahaya x3"
-        },
-        "23": {
-            "name": "",
-            "desc": "Matahari Buatan: Damage matahari kecil yang dipanggil King Sun God Cabbage x3; jumlah pemulihan (heal) dari bulan terang yang dipanggil Queen Moon God Cabbage x3"
-        },
-        "24": {
-            "name": "",
-            "desc": "Trinitas: Jumlah drone King Laser Labu dan subspesiesnya bertambah menjadi 3 unit"
-        },
-        "25": {
-            "name": "",
-            "desc": "Sinar Laser: Damage dari drone King Laser Labu dan Drone Labu Laser x3"
-        },
-        "26": {
-            "name": "",
-            "desc": "Ketenangan Jiwa: Bonus damage dari pengisian kekuatan (charge) King Per Semangka x3"
-        },
-        "27": {
-            "name": "",
-            "desc": "Zombie Coba Berenang di Lautan Api: Durasi lautan api King Per Semangka ditingkatkan menjadi 5 detik"
-        },
-        "28": {
-            "name": "",
-            "desc": "Sedikit demi Sedikit Menjadi Bukit: Setiap memiliki 1.000 poin, serangan tanaman meningkat sebesar 5%. Bonus dari efek ini tidak akan melebihi 300%"
-        },
-        "29": {
-            "name": "",
-            "desc": "Kupon Diskon: Harga item/efek di Toko berkurang 30%"
-        },
-        "30": {
-            "name": "",
-            "desc": "Keserakahan Tanpa Batas: Lubang hitam King Jagung Dimensi dapat menarik semua jenis peluru"
-        },
-        "31": {
-            "name": "",
-            "desc": "Kehancuran Abadi: Jangkauan tarikan lubang hitam King Jagung Dimensi terhadap peluru meningkat drastis"
-        },
-        "32": {
-            "name": "",
-            "desc": "Bilah Terbang Tertunda: Durasi keberadaan peluru King Pohon Cemara x3; Damage yang diterima subspesies King Rebung berkurang menjadi 1/3"
-        },
-        "33": {
-            "name": "",
-            "desc": "Vitalitas Abadi: Efek penyembuhan King Pohon Cemara tidak akan berkurang lagi; Pemulihan HP dan Shield dari subspesies King Rebung berlipat ganda"
-        },
-        "34": {
-            "name": "",
-            "desc": "Mulut Jurang: Meningkatkan jangkauan serangan King Chomper Lentera"
-        },
-        "35": {
-            "name": "",
-            "desc": "Cahaya Memancar: King Lantern Chomper memberikan pencahayaan level 2 dalam radius 5x5 selama proses mengunyah"
-        },
-        "36": {
-            "name": "",
-            "desc": "Popcorn: Damage ledakan Popcorn dan ledakan Kubis x3"
-        },
-        "37": {
-            "name": "",
-            "desc": "Overload: Saat peluru King Meriam Cabai mengenai Cherry Bomb atau Cabai, akan memicu ledakan nuklir yang dahsyat; subspesies Mortar Peledak memiliki peluang 10% untuk menembakkan peluru tanpa batas saat menyerang"
-        },
-        "38": {
-            "name": "",
-            "desc": "Reaksi Berantai: Peluru Queen Bunga Matahari yang mengenai Zombie akan meledakkan peluru lain di sekitarnya"
-        },
-        "39": {
-            "name": "",
-            "desc": "Kapasitas Besar: Batas penyimpanan energi Queen Bunga Matahari x3, dan produksi matahari setelah energi penuh x3"
-        },
-        "40": {
-            "name": "",
-            "desc": "Pengeboman Terpusat: Efisiensi serangan nebula yang dipanggil King Semangka Es meningkat drastis; subspesies King Ice God Jamur Nuklir hanya akan membuat satu set portal, tetapi jumlah aliran es ruang-waktu yang dihasilkan x10"
-        },
-        "41": {
-            "name": "",
-            "desc": "Konsentrasi Penuh: Damage peluru yang dilempar King Semangka Es x6, namun radius percikan (splash) berkurang 50%; Boss Zombie dan Leader Zombie yang kebal terhadap teleportasi tetap akan menerima damage sebesar (durasi status teleportasi)% dari HP mereka"
-        },
-        "42": {
-            "name": "",
-            "desc": "Sinar Panas: Frekuensi penembakan sinar King Kucing Api x2"
-        },
-        "43": {
-            "name": "",
-            "desc": "Api Sejati: Damage peluru pelacak King Kucing Api x3"
-        },
-        "44": {
-            "name": "",
-            "desc": "Ketakutan Laut Dalam: Minion dapat melakukan 3 kali tangkapan, dan setiap menenggelamkan satu Zombie akan memberikan 10 poin energi ke tubuh utama"
-        },
-        "45": {
-            "name": "",
-            "desc": "Serangan Kelompok: King Kraken dapat menembakkan 3 peluru Jamur Air sekaligus"
-        },
-        "46": {
-            "name": "",
-            "desc": "Pengorbanan Jenderal: Setiap membunuh satu Leader Zombie, King Cabai Obsidian dan subspesiesnya memulihkan 1 lapis energi, batas maksimal energi meningkat hingga 10 lapis"
-        },
-        "47": {
-            "name": "",
-            "desc": "Perlindungan Obsidian: King Cabai Obsidian dan subspesiesnya memberikan efek kebal (invincible) selama 1 detik saat memulihkan HP tanaman"
-        },
-        "48": {
-            "name": "",
-            "desc": "Layar Pengumpul Energi: Batas energi King Kipli Dimensi Dobel meningkat menjadi 2000 (Level 2: 10000); Radius damage peluru subspesies King Kipli Erosi Bayangan +50%"
-        },
-        "49": {
-            "name": "",
-            "desc": "Kompensasi Energi: Efisiensi transmisi energi cahaya King Kipli Dimensi Dobel meningkat 50%, jika target memiliki energi cahaya kurang dari 1000, tambahan bonus 250%; subspesies King Kipli Erosi Bayangan menembakkan 2 peluru tambahan saat menyerang"
-        },
-        "50": {
-            "name": "",
-            "desc": "Ledakan Kecepatan: Peluang rilis skill ulti Super Kipli Gatling dan King Kipli Gatling Rugbi Hitam x3; Seri tanaman Kipli Sniper akan memicu satu tembakan normal tambahan setelah melakukan Headshot"
-        },
-        "51": {
-            "name": "",
-            "desc": "Tembakan Jitu: Damage peluru skill ulti Super Kipli Gatling dan King Kipli Gatling Rugbi Hitam x2 dan tidak lagi menyebar (fokus); Jumlah tembakan yang dibutuhkan seri Kipli Sniper untuk melakukan Headshot berkurang 3"
         }
     },
     "debuffs": {
@@ -1451,6 +1241,216 @@
         "2013": {
             "name": "",
             "desc": "Jika Zombie masuk ke rumah, ronde ini dianggap langsung selesai (menang) dan dapatkan 10.000 poin"
+        }
+    },
+    "ultimateBuffs": {
+        "0": {
+            "name": "",
+            "desc": "Haus Darah: Pemulihan HP King Cerizilla dan subspesiesnya x3"
+        },
+        "1": {
+            "name": "",
+            "desc": "Lelah Melahap: Waktu tunggu (cooldown) melahap King Cerizilla dan subspesiesnya dikurangi menjadi 15 detik"
+        },
+        "2": {
+            "name": "",
+            "desc": "Tenaga Dahsyat: Kerusakan ledakan Cherry yang dihasilkan oleh pihak tanaman x3"
+        },
+        "3": {
+            "name": "",
+            "desc": "Isi Ulang Cepat: Kecepatan serangan King Cherry Gatling dan subspesiesnya +100%"
+        },
+        "4": {
+            "name": "",
+            "desc": "Angin Dingin Menusuk: Frekuensi damage King Jamur Gemoy x3, untuk subspesies King Kaktus damage peluru x3, dan damage Snow Claw Zombie x3"
+        },
+        "5": {
+            "name": "",
+            "desc": "Pembekuan Dalam: Zombie yang lepas dari efek beku akan menerima damage sebesar 30% dari HP saat ini"
+        },
+        "6": {
+            "name": "",
+            "desc": "Hasil Ganda: Jumlah peluru yang dibutuhkan Kayu Api Geprek dan subspesiesnya untuk memproduksi tanaman meledak dikurangi setengah"
+        },
+        "7": {
+            "name": "",
+            "desc": "Aku Marah Besar: Jika Kayu Api Geprek dan subspesiesnya gagal memproduksi tanaman meledak, akan langsung melepaskan efek Cabai"
+        },
+        "8": {
+            "name": "",
+            "desc": "Hujan Meteor: Interval serangan King Bintang Emperor dikurangi menjadi 0.5 detik"
+        },
+        "9": {
+            "name": "",
+            "desc": "Kekuatan Bintang: Damage peluru King Bintang Emperor x2 (Level 2: x3), batas maksimal damage saat menembak x10 (Level 2: Tanpa batas)"
+        },
+        "10": {
+            "name": "",
+            "desc": "Kesunyian Total: Damage saat King Gurita mati meningkat menjadi 1 juta, dan level cahaya yang diberikan saat King Lampu mati x3"
+        },
+        "11": {
+            "name": "",
+            "desc": "Lawan Ledakan dengan Ledakan: King Gurita dan subspesiesnya kebal terhadap ledakan non-fisik; setiap menyerap 10.000 damage ledakan, akan melepaskan ledakan Jamur Nuklir"
+        },
+        "12": {
+            "name": "",
+            "desc": "Semua Kebagian: Probabilitas tembakan menyebar King Wibu dan subspesiesnya meningkat menjadi 100%"
+        },
+        "13": {
+            "name": "",
+            "desc": "Serangan Racun Bawang: Pemberian efek Bawang akan memberikan efek racun mematikan, dan batas maksimal poin Bawang ditingkatkan menjadi 120 (Level 2: Tanpa batas)"
+        },
+        "14": {
+            "name": "",
+            "desc": "Pusat Peledakan: Damage ledakan titik pusat meriam utama King Meriam dan subspesiesnya x4"
+        },
+        "15": {
+            "name": "",
+            "desc": "Kecepatan adalah Kunci: Waktu isi ulang King Meriam dan subspesiesnya dikurangi menjadi 1/3 dari semula"
+        },
+        "16": {
+            "name": "",
+            "desc": "Perisai Abad Ini: Ketahanan (HP) King Obsidian High Kacang dan subspesiesnya x3"
+        },
+        "17": {
+            "name": "",
+            "desc": "Rela Berkorban: King Obsidian High Kacang dan subspesiesnya akan menerima damage untuk tanaman di kotaknya sendiri serta satu kotak di kiri dan kanannya"
+        },
+        "18": {
+            "name": "",
+            "desc": "Menyelamatkan Semua Makhluk: Ambang batas HP untuk efek Charm peluru King Jamur Hipno ditingkatkan dari 60% menjadi 100%; damage King Charm Labu terhadap Zombie yang terpesona dikurangi setengah"
+        },
+        "19": {
+            "name": "",
+            "desc": "Mesin Abadi: King Jamur Hipno dan subspesiesnya membuka pengisian energi (charge) Level 3. Interval serangan King Jamur Hipno turun menjadi 1 detik, energi tidak akan turun di bawah Level 2, dan dapat mengonsumsi objek logam untuk mengisi energi ke Level 3 selama 5 menit"
+        },
+        "20": {
+            "name": "",
+            "desc": "Penghambat Terjang: Damage peluru dan api dingin Kipli Mesin Obsidian x3; damage laser Kipli Mesin Obsidian x3"
+        },
+        "21": {
+            "name": "",
+            "desc": "Berserker: Saat Kipli Mesin Obsidian menggunakan skill ulti, akan mengembalikan 50.000 energi. Pada Level 2, api dingin akan memberikan tambahan damage murni (mengabaikan pertahanan) sebesar 20%; semakin rendah HP Kipli Mesin Obsidian, semakin tinggi pertahanannya, dan jika HP di bawah 500 pada Level 2, damage x2"
+        },
+        "22": {
+            "name": "",
+            "desc": "Kilauan Emas: Saat Dewa Matahari menembak, mengonsumsi 0,5% dari sisa matahari yang melebihi 15.000, meningkatkan damage peluru sebesar 20 kali lipat dari matahari yang dikonsumsi. Untuk subspesies Dewa Bulan, bonus damage dari level cahaya x3"
+        },
+        "23": {
+            "name": "",
+            "desc": "Matahari Buatan: Damage matahari kecil yang dipanggil King Sun God Cabbage x3; jumlah pemulihan (heal) dari bulan terang yang dipanggil Queen Moon God Cabbage x3"
+        },
+        "24": {
+            "name": "",
+            "desc": "Trinitas: Jumlah drone King Laser Labu dan subspesiesnya bertambah menjadi 3 unit"
+        },
+        "25": {
+            "name": "",
+            "desc": "Sinar Laser: Damage dari drone King Laser Labu dan Drone Labu Laser x3"
+        },
+        "26": {
+            "name": "",
+            "desc": "Ketenangan Jiwa: Bonus damage dari pengisian kekuatan (charge) King Per Semangka x3"
+        },
+        "27": {
+            "name": "",
+            "desc": "Zombie Coba Berenang di Lautan Api: Durasi lautan api King Per Semangka ditingkatkan menjadi 5 detik"
+        },
+        "28": {
+            "name": "",
+            "desc": "Sedikit demi Sedikit Menjadi Bukit: Setiap memiliki 1.000 poin, serangan tanaman meningkat sebesar 5%. Bonus dari efek ini tidak akan melebihi 300%"
+        },
+        "29": {
+            "name": "",
+            "desc": "Kupon Diskon: Harga item/efek di Toko berkurang 30%"
+        },
+        "30": {
+            "name": "",
+            "desc": "Keserakahan Tanpa Batas: Lubang hitam King Jagung Dimensi dapat menarik semua jenis peluru"
+        },
+        "31": {
+            "name": "",
+            "desc": "Kehancuran Abadi: Jangkauan tarikan lubang hitam King Jagung Dimensi terhadap peluru meningkat drastis"
+        },
+        "32": {
+            "name": "",
+            "desc": "Bilah Terbang Tertunda: Durasi keberadaan peluru King Pohon Cemara x3; Damage yang diterima subspesies King Rebung berkurang menjadi 1/3"
+        },
+        "33": {
+            "name": "",
+            "desc": "Vitalitas Abadi: Efek penyembuhan King Pohon Cemara tidak akan berkurang lagi; Pemulihan HP dan Shield dari subspesies King Rebung berlipat ganda"
+        },
+        "34": {
+            "name": "",
+            "desc": "Mulut Jurang: Meningkatkan jangkauan serangan King Chomper Lentera"
+        },
+        "35": {
+            "name": "",
+            "desc": "Cahaya Memancar: King Lantern Chomper memberikan pencahayaan level 2 dalam radius 5x5 selama proses mengunyah"
+        },
+        "36": {
+            "name": "",
+            "desc": "Popcorn: Damage ledakan Popcorn dan ledakan Kubis x3"
+        },
+        "37": {
+            "name": "",
+            "desc": "Overload: Saat peluru King Meriam Cabai mengenai Cherry Bomb atau Cabai, akan memicu ledakan nuklir yang dahsyat; subspesies Mortar Peledak memiliki peluang 10% untuk menembakkan peluru tanpa batas saat menyerang"
+        },
+        "38": {
+            "name": "",
+            "desc": "Reaksi Berantai: Peluru Queen Bunga Matahari yang mengenai Zombie akan meledakkan peluru lain di sekitarnya"
+        },
+        "39": {
+            "name": "",
+            "desc": "Kapasitas Besar: Batas penyimpanan energi Queen Bunga Matahari x3, dan produksi matahari setelah energi penuh x3"
+        },
+        "40": {
+            "name": "",
+            "desc": "Pengeboman Terpusat: Efisiensi serangan nebula yang dipanggil King Semangka Es meningkat drastis; subspesies King Ice God Jamur Nuklir hanya akan membuat satu set portal, tetapi jumlah aliran es ruang-waktu yang dihasilkan x10"
+        },
+        "41": {
+            "name": "",
+            "desc": "Konsentrasi Penuh: Damage peluru yang dilempar King Semangka Es x6, namun radius percikan (splash) berkurang 50%; Boss Zombie dan Leader Zombie yang kebal terhadap teleportasi tetap akan menerima damage sebesar (durasi status teleportasi)% dari HP mereka"
+        },
+        "42": {
+            "name": "",
+            "desc": "Sinar Panas: Frekuensi penembakan sinar King Kucing Api x2"
+        },
+        "43": {
+            "name": "",
+            "desc": "Api Sejati: Damage peluru pelacak King Kucing Api x3"
+        },
+        "44": {
+            "name": "",
+            "desc": "Ketakutan Laut Dalam: Minion dapat melakukan 3 kali tangkapan, dan setiap menenggelamkan satu Zombie akan memberikan 10 poin energi ke tubuh utama"
+        },
+        "45": {
+            "name": "",
+            "desc": "Serangan Kelompok: King Kraken dapat menembakkan 3 peluru Jamur Air sekaligus"
+        },
+        "46": {
+            "name": "",
+            "desc": "Pengorbanan Jenderal: Setiap membunuh satu Leader Zombie, King Cabai Obsidian dan subspesiesnya memulihkan 1 lapis energi, batas maksimal energi meningkat hingga 10 lapis"
+        },
+        "47": {
+            "name": "",
+            "desc": "Perlindungan Obsidian: King Cabai Obsidian dan subspesiesnya memberikan efek kebal (invincible) selama 1 detik saat memulihkan HP tanaman"
+        },
+        "48": {
+            "name": "",
+            "desc": "Layar Pengumpul Energi: Batas energi King Kipli Dimensi Dobel meningkat menjadi 2000 (Level 2: 10000); Radius damage peluru subspesies King Kipli Erosi Bayangan +50%"
+        },
+        "49": {
+            "name": "",
+            "desc": "Kompensasi Energi: Efisiensi transmisi energi cahaya King Kipli Dimensi Dobel meningkat 50%, jika target memiliki energi cahaya kurang dari 1000, tambahan bonus 250%; subspesies King Kipli Erosi Bayangan menembakkan 2 peluru tambahan saat menyerang"
+        },
+        "50": {
+            "name": "",
+            "desc": "Ledakan Kecepatan: Peluang rilis skill ulti Super Kipli Gatling dan King Kipli Gatling Rugbi Hitam x3; Seri tanaman Kipli Sniper akan memicu satu tembakan normal tambahan setelah melakukan Headshot"
+        },
+        "51": {
+            "name": "",
+            "desc": "Tembakan Jitu: Damage peluru skill ulti Super Kipli Gatling dan King Kipli Gatling Rugbi Hitam x2 dan tidak lagi menyebar (fokus); Jumlah tembakan yang dibutuhkan seri Kipli Sniper untuk melakukan Headshot berkurang 3"
         }
     }
 }
