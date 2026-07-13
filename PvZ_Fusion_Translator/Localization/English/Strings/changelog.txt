@@ -5,106 +5,77 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.7 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.8 Changelog</size></align>
 
-1. The Gods: Evolved - Revolutionized
-- Added many gameplay customization options, including plant limits, difficulty levels, and progression tiers.
-- Modifiers now come in multiple rarities and can be used to obtain new plants or upgrade existing ones.
-- Be on the look out for special modifiers handed out by the gods, they can be game-breaking! 
-  * (Note: You can access this level through the new "Recommended Levels" button on the main menu.)
+1. The Gods: Evolved - Revolutionized Plus
+- Added even more evolution paths and upgrade modifiers
+- Added The Gods Expert plants
 
-2. New Plants
+2. Zen Garden Update
+- Added Page Skip function for fast navigation
+- Added Background Change function, you can now adjust the ambience and lighting in the garden
+- Added Endoflame Coins, selling fully grown and max favorability plants gives Endoflame Coins which can be used to buy bulk tools from the new Tool Shop
+- Zen Garden and Grand Garden are now fully separate, you can no longer move plants between them
+
+3. New Plants
 - Basic Fusions:
-  - Bamblichen (Bamblock + Hoarfrost Lichen)
-  - Hoarfrost Lotus (Snow Lotus + Hoarfrost Lichen)
-  - Pea Pot (Peashooter > Flower Pot)
-  - Doom-pult (Doom-shroom + Melon-pult)
-  - Aloe Nivea (Aloe Aqua + Hoarfrost Lichen)
-  - Pumpkin Chest (Pumpkin > Pumpkin (full HP))
-  - Debris-pult (Doom-shroom + Kernel-pult)
-  - Starshooter (Peashooter + Starfruit)
-  - Pyro Pumpkin (Jalapeno > Pumpkin)
-  - Doom Kelp (Doom-shroom > Tangle Kelp)
-  - Thornweed (Spikeweed + Cactus)
-  - Snow-me-not (Saw-me-not + Hoarfrost Lichen)
-  - Bounceweed (Spikeweed + Cabbage-pult)
-  - Springweed (Spikeweed + Melon-pult)
-  - Solarweed (Sunflower + Spikeweed)
-  - Cyclover (Blover + Blover)
-  - Hot Potato (Potato Mine + Torchwood)
-  - Roasted Potato (spawned from Hot Potato)
-  - Shooty-shroom (Peashooter + Scaredy-shroom)
-  - Levitater (Potato Mine + Blover)
+  - Ice Cactus (Ice-shroom + Cactus)
+  - Blast-shroom (Cherry Bomb + Fume-shroom)
+  - Torch Driftwood (Torchwood > Sea-shroom)
+  - Roasted Sea-shroom
+  - Melon Tri-pult (Threepeater + Melon-pult)
+  - Kernel Tri-pult (Threepeater + Kernel-pult)
+  - Three-pumpkin (Threepeater > Pumpkin)
+  - Cryo Pumpkin (Ice-shroom > Pumpkin)
+  - Blover Pot (Blover > Flower Pot)
+  - Caltrop-shroom (Fume-shroom + Spikeweed)
+  - Cabbage Tri-pult (Threepeater + Cabbage-pult)
+  - Doom-spreader (Doom-shroom + Threepeater)
+  - Starry Squash (Squash + Starfruit)
+  - Tri-pot (Threepeater > Flower Pot)
+
 - Odyssey Fusions:
   - Common:
-    - Tundral Glacier-shroom (Demise-shroom + Ice-shroom)
-    - Mesmer Cattail (Hypno-shroom > Cattail Girl)
-      * (Note: You can use the shovel to switch between its water and land forms.)
-    - Lethal Glacier-shroom (Tundral Glacier-shroom + Doom-shroom)
+    - Quetzalcoatl Blover (Blover + Cyclover)
+- SP:
+    - SP Phoenix Threepeater (Jalapeno > Phoenix Threepeater)
+    - SP Phoenix Drone (Jalapeno > Phoenix Drone)
   - Epic:
-    - Magma-shroom (Napalm-shroom + Kernel-pult)
+    - Deucalion-shroom (Prometheus Liontail + Sea-shroom)
+    - Obsidian Jugger-nut (Spicicle > Jugger-nut)
   - Unique:
-    - Snipot (Snipea > Flower Pot)
-    - Pumpkommando (Pea-storm Commando > Pumpkin)
-    - Pea-nut Commando (Pea-storm Commando + Wall-nut)
-    - Snapper Snipea (Snipea + Chomper)
+    - Peatato Commando (Pea-storm Commando + Potato Mine)
+    - Stargazer Snipea (Snipea + Starfruit)
 - Legendary Fusions:
-  - Bedrock Tall-nut
-- Special/Misc:
-  - Prickly Bear
+  - A.L.E.C.
 
-3. New Zombies
+4. New Zombies
 - Common:
-  - Aluminium-head Zombie
-  - Elephant Zombie
+  - Bowling Zomb-nut
+  - Giga Bowling Zomb-nut
+  - Bedrock Tall-nut Yeti
 - Odyssey:
   - Regular
-    - Obsidian Tall-nut Iceclaw Zombie
-    - Astronut-copter Zombie
-    - Black Knight Zombie
-    - Buckshot Knight Captain Zombie
-    - Devil-in-the-Box Zombie
-    - War Elephant Zombie
-    - Buckshot Bobsled Brigade
-  - Bosses
-    - Cerasocetus Rider
+    - Giga Football Acrobat Zombie
+    - Giga Football-nut Acrobat Zombie
+    - Element-infused Imp
+  - Mini-bosses:
+    - King Necroflame
+  - Evolved:
+    - Shadow Elephant
+    - Terror Elephant
+    - Crimson Elephant
 
-4. Odyssey Update
-- Added Archduke Deathrider's route.
-- Adjusted spawns for existing routes.
-- Added the possibility to gain Diamond modifiers from The Gods: Evolved in regular Odyssey runs.
-- Added Napalm-shroom + Doominator synergy modifier.
-- Added pets:
-  - Young Duke (Archduke Deathrider)
-  - Imperor Hatchling (Imperor's Ark of the Duck)
-  - Skyglider Mecha (Skystrider Mecha)
+5. Balance Adjustments
+- Shroomageddon Modifier Rework: Blast Absorption > Volatile Barrier, now immune to all damage with a tradeoff
+- Cosmo-pult & Astro-nut Modifiers & Mechanics Rework
+- Infernal Squashwood & Infernal Sparkwood: Can not ignite more kinds of projectiles
+- Element-infused Gargantuar Modifier Rework: Affinity Awakening now summons Element-infused Imps
 
-5. New Levels
-- Mini-games:
-  - Odyssey Gacha: Gacha Box
-  - Wheelbarrow Challenge
-  * (Note: Completing this mini-game will unlock the new Wheelbarrow tool permanently.)
-  * (You can store a plant inside the Wheelbarrow to re-plant it later on.)
-  - Time Attack
+6. QOL Optimizations
+- New function to show projectile damage overlay on pressing T (toggleable in the settings)
+- New UI position customization settings
+- New View All Modifiers screen which allows viewing current modifiers in the Modifier Almanac
 
-6. Balance Adjustments
-- Torchweed can now ignite mini-nut projectiles.
-- Reduced the speed of Chicken Jockey and Hydrofowl zombies.
-- Reduced the amount of metal objects produced by Dyson Magnet while increasing its potential damage boost.
-- The "Curse" mechanics (held by Archduke Deathrider and Lifelink Ladder Zombie) have been fully reworked.
-- Celestial Gargantuar now only does one full-screen attack right after becoming giant.
-
-7. QOL Optimizations
-- If you are not on the latest version of the game, an update option will become available on the main menu. (Requires an internet connection to work)
-<color=red>* (WARNING: This has NOT been tested or verified to work with the Blooms translation mod.)</color>
-- Added a Modifier Almanac section.
-- Reworked plant HP display.
-- Reworked the Survival save system, including more save slots and custom naming support.
-- Added the ability to preview the full lineup of zombies in a level before starting.
-- Zombies can no longer move forward in between attacks if they still have to attack a plant.
-- Added a variable system to the Node Editor in the Super Level Editor.
-- Mini-games with the "Blessings and Curses" system now have a difficulty selection menu.
-- Tower Defense is now located in the Challenge menu.
-
-9. Miscellaneous bug fixes and optimizations.
+7. Miscellaneous bug fixes and optimizations.
 
