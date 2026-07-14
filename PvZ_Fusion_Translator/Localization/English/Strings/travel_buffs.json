@@ -34,11 +34,11 @@
         },
         "8": {
             "name": "Piercing Flame",
-            "desc": "Phoenix Drone Subspecies Unlocked | Phoenix Threepeater & Phoenix Drone: Shots can now pierce infinitely and cause Enflamed explosions upon impact"
+            "desc": "Phoenix Drone Subspecies Unlocked | Phoenix Threepeater & Phoenix Drone: Shots can now pierce infinitely and cause Enflamed explosions upon impact | Effects also apply to SP variants"
         },
         "9": {
             "name": "Melting Point",
-            "desc": "Phoenix Threepeater: Global enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff"
+            "desc": "Phoenix Threepeater & Phoenix Drone: Global enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff  | Effects also apply to SP variants"
         },
         "10": {
             "name": "Shattershot",
@@ -85,7 +85,7 @@
             "desc": "Tycoonwood & Magnate Plantern: 1% Damage increase to Coin projectiles/lasers for every 1000 Coins you have"
         },
         "21": {
-            "name": "Golden Shower",
+            "name": "Golden Rain",
             "desc": "Magnate Plantern Subspecies Unlocked | Tycoonwood: Coin projectiles now deal splash damage"
         },
         "22": {
@@ -167,6 +167,14 @@
         "41": {
             "name": "Lovebite",
             "desc": "Mesmer Cattail: Hypnotized zombies spawned by her ability deal an additional 30% true damage that ignores damage reduction when biting"
+        },
+        "42": {
+            "name": "Weathering Gale",
+            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduces Armor by 10."
+        },
+        "43": {
+            "name": "Swift Winds",
+            "desc": "Quetzalcoatl Blover: Blover spawning CD 10s → 3s"
         },
         "1000": {
             "name": "Quick Hands",
@@ -501,36 +509,84 @@
             "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
         },
         "10019": {
-            "name": "Fortune ",
+            "name": "Fortune Reforged",
             "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
         },
         "11000": {
-            "name": "Swift Deployment",
+            "name": "Speedy Deployment",
             "desc": "Level gimmick: Wheelbarrow's cooldown is reduced to 3 seconds"
+        },
+        "11001": {
+            "name": "Instant Growth",
+            "desc": "Level gimmick: Deucalion-shroom starts with 10 Odyssey rounds worth of growth stages (does this mean 1000 growth stages since for each round it's capped at 100? Somebody please test for me)"
         },
         "12000": {
             "name": "Ascend: Inferno",
-            "desc": "Napalm-shroom's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies."
+            "desc": "Napalm-shroom's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies"
         },
         "12001": {
             "name": "Ascend: Burst",
-            "desc": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's attack power to a random zombie in range."
+            "desc": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's attack power to a random zombie in range"
         },
         "12002": {
             "name": "Ascend: True Aim",
-            "desc": "Berserker Snipea's critical hit will now be guaranteed."
+            "desc": "Berserker Snipea's critical hit will now be guaranteed"
         },
         "12003": {
             "name": "Ascend: Blasting",
-            "desc": "Threepeatato-mine's projectiles will now trigger a Potato Mine explosion when hitting a zombie."
+            "desc": "Threepeatato-mine's projectiles will now trigger a Potato Mine explosion when hitting a zombie"
         },
         "12004": {
             "name": "Ascend: Doom",
-            "desc": "When Doom Chomper attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions."
+            "desc": "When Doom Chomper attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions"
         },
         "12005": {
             "name": "Ascend: Oblivion",
-            "desc": "Shroomageddon releases a 1-million damage Doom-shroom explosion upon death."
+            "desc": "Shroomageddon releases a 1-million damage Doom-shroom explosion upon death"
+        },
+        "12006": {
+            "name": "Ascend: Shield of Light",
+            "desc": "Pharos Umbrella can consume energy to knock back zombies in a 3×3 area and regular attacks can have ×3 targets"
+        },
+        "12007": {
+            "name": "Ascend: Gravity",
+            "desc": "Black holes will attract zombies with less than 50% max HP"
+        },
+        "12008": {
+            "name": "Ascend: Penetration",
+            "desc": "Phoenix Threepeater now shoots in all lanes and its projectiles pierce infinitely"
+        },
+        "12009": {
+            "name": "Ascend: The Maw",
+            "desc": "Tyrannoflora Lux attraction range after digestion is vastly increased"
+        },
+        "12010": {
+            "name": "Ascend: Chaos Beam",
+            "desc": "Adjacent 2 Celestial Beams releases mini black hole explosions periodically"
+        },
+        "12011": {
+            "name": "Ascend: Ricochet",
+            "desc": "Buck-shroom Squad can no longer headshot but projectiles ricochet on lawn edges (like Split Pea), up to (number of pierces + 2) times"
+        },
+        "12012": {
+            "name": "Ascend: Veterancy",
+            "desc": "Empress-shroom now summons zombies with greatly increased stats"
+        },
+        "12013": {
+            "name": "Ascend: Density",
+            "desc": "Buckshot Commando shoots even larger, stronger projectiles during Ultimate Moves"
+        },
+        "12014": {
+            "name": "Ascend: Hemorrhage",
+            "desc": "Zombies targeted by any Spikerock continuously lose HP equal to 400% the attack for 2s"
+        },
+        "12015": {
+            "name": "Ascend: Fortune",
+            "desc": "Soulrender Bamboo can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
+        },
+        "13000": {
+            "name": "Blast Protection",
+            "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
         }
     },
     "ultimateBuffs": {
@@ -576,11 +632,11 @@
         },
         "10": {
             "name": "Final Countdown",
-            "desc": "Shroomageddon: Explosion damage on death → 1M | Atomheart Plantern: Lumos boost on death ×3"
+            "desc": "Shroomageddon: Explosion damage on death increased by 1M | Atomheart Plantern: Lumos boost on death ×3"
         },
         "11": {
-            "name": "Blast Absorption",
-            "desc": "Shroomageddon & Atomheart Plantern: Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a Doom-shroom explosion"
+            "name": "Volatile Barrier",
+            "desc": "Shroomageddon: Becomes immune to damage, but dies instantly after blocking too many hits | Atomheart Plantern: Attack damage ×3"
         },
         "12": {
             "name": "Perfect Pitch",
@@ -656,11 +712,11 @@
         },
         "30": {
             "name": "Accretion Disk",
-            "desc": "Cosmo-pult: Ultimate Black Hole can absorb all projectiles"
+            "desc": "Cosmo-pult: Ultimate Black Hole's damage conversion from projectiles 60% → 80% | Astro-nut: Gains 33% Damage Reduction when its Black Hole is active"
         },
         "31": {
             "name": "Temporal Dilation",
-            "desc": "Cosmo-pult: Ultimate Black Hole's absorption radius ×2"
+            "desc": "Cosmo-pult & Astro-nut: Ultimate Black Hole's duration and maximum duration ×2 and its damage increases by 2% every second it remains active"
         },
         "32": {
             "name": "Enduring Edge",
@@ -704,11 +760,11 @@
         },
         "42": {
             "name": "Heat Wave",
-            "desc": "Prometheus Liontail: Heatbeam damage frequency ×2"
+            "desc": "Prometheus Liontail: Heatbeam damage frequency ×2 | Deucalion-shroom: Damage bonus provided by Total Growth Stages ×3"
         },
         "43": {
             "name": "Holy Fire",
-            "desc": "Prometheus Liontail: Regular shots' damage ×3"
+            "desc": "Prometheus Liontail & Deucalion-shroom: Regular shots' damage ×3"
         },
         "44": {
             "name": "Feeding Frenzy",
@@ -736,11 +792,19 @@
         },
         "50": {
             "name": "Battle Tempo",
-            "desc": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3 | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot"
+            "desc": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3, Peatato Commando now shoots explosive potatoes | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot"
         },
         "51": {
             "name": "Focused Fire",
             "desc": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
+        },
+        "52": {
+            "name": "Obsidian Formation",
+            "desc": "Obsidian Jugger-nut: While on the lawn, all Obsidian plants take reduced final damage based on the number of different Obsidian plants present"
+        },
+        "53": {
+            "name": "Frostfire Tempering",
+            "desc": "Obsidian Jugger-nut: Tempering Damage ×2"
         }
     },
     "debuffs": {
@@ -846,7 +910,7 @@
         },
         "25": {
             "name": "Affinity Awakening",
-            "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the debuff immunities of all four affinities at once"
+            "desc": "Element-infused Gargantuar: Smashing now causes corresponding Element-infused Imps to appear"
         },
         "26": {
             "name": "Speed Charge",
@@ -858,19 +922,19 @@
         },
         "28": {
             "name": "Shock Absorber",
-            "desc": "Giga Mecha-nut Bowling Zombie: For the first 50 hits, all zombies take only 1 damage"
+            "desc": "Giga Mecha-nut Zombie: For the first 50 hits, all zombies take only 1 damage"
         },
         "29": {
             "name": "Reactive Armor",
-            "desc": "Giga Mecha-nut Bowling Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
+            "desc": "Giga Mecha-nut Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
         },
         "30": {
             "name": "Stampede",
-            "desc": "War Mammoth Zombie: Now spawns in groups of 3"
+            "desc": "War Elephant Zombie: Now spawns in groups of 3"
         },
         "31": {
             "name": "Alpha Escort",
-            "desc": "War Mammoth Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
+            "desc": "War Elephant Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
         },
         "32": {
             "name": "Insulative Coating",
@@ -879,6 +943,14 @@
         "33": {
             "name": "Blitz Entry",
             "desc": "Buckshot Bobsled Brigade: Enters the field rapidly, but slows down over time"
+        },
+        "34": {
+            "name": "Cobra Stance",
+            "desc": "Giga Football Acrobat Zombie & Giga Football-nut Acrobat Zombie: Roll once immediately on appearance"
+        },
+        "35": {
+            "name": "Hot Pursuit",
+            "desc": "Giga Football Acrobat Zombie & Giga Football-nut Acrobat Zombie: Deal ×2 damage after rolling"
         },
         "1000": {
             "name": "Blackout",
@@ -934,11 +1006,11 @@
         },
         "1013": {
             "name": "Warlord's Might",
-            "desc": "Mini-boss zombies gain a 60% Speed buff and 30% max HP buff"
+            "desc": "Mini-boss zombies gain a 30% Speed & max HP buff"
         },
         "1014": {
             "name": "All-out Assault",
-            "desc": "Non-mini-boss zombies gain a 30% Speed buff and 60% max HP buff"
+            "desc": "Non-mini-boss zombies gain a 30% Speed & max HP buff"
         },
         "1015": {
             "name": "Flying Fortress",
@@ -950,7 +1022,7 @@
         },
         "1017": {
             "name": "Mass Mutation",
-            "desc": "All non-Odyssey zombies now have ×2 HP, Attack and Speed"
+            "desc": "All non-Odyssey zombies now have ×2 HP, Attack and ×1.5 Speed"
         },
         "1018": {
             "name": "Lost Diagnostics",
@@ -979,6 +1051,10 @@
         "2004": {
             "name": "Crisis",
             "desc": "Buckshot Knight Captain Zombie will appear"
+        },
+        "2005": {
+            "name": "Crisis",
+            "desc": "Giga Football-nut Acrobat Zombie will appear"
         },
         "3000": {
             "name": "Nemesis",
@@ -1048,9 +1124,13 @@
             "name": "Nemesis",
             "desc": "Millennium Dragon & Warden will appear as a Mini-boss"
         },
-        "3023": {
+        "3024": {
             "name": "Nemesis",
             "desc": "Cerasocetus Rider will appear as a Mini-boss"
+        },
+        "3026": {
+            "name": "Nemesis",
+            "desc": "King Necroflame will appear as a Mini-boss"
         },
         "4000": {
             "name": "Majestic Presence",
@@ -1090,7 +1170,7 @@
         },
         "5004": {
             "name": "Brand of Ruin",
-            "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to 1% of their HP."
+            "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to [1%×(plant HP + plant Toughness)/2]"
         }
     },
     "unlocks": {
@@ -1180,7 +1260,7 @@
         },
         "21": {
             "name": "",
-            "desc": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper"
+            "desc": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper\nand its Subspecies Deucalion-shroom"
         },
         "22": {
             "name": "",
@@ -1197,6 +1277,10 @@
         "25": {
             "name": "",
             "desc": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
+        },
+        "26": {
+            "name": "",
+            "desc": "Unlock Obsidian Jugger-nut: Spicicle > Jugger-nut"
         }
     },
     "investmentBuffs": {
