@@ -20,7 +20,7 @@ Please visit our community for future updates and support.
 3. New Plants
 - Basic Fusions:
   - Ice Cactus (Ice-shroom + Cactus)
-  - Blast-shroom (Cherry Bomb + Fume-shroom)
+  - Trigger-shroom (Cherry Bomb + Fume-shroom)
   - Torch Driftwood (Torchwood > Sea-shroom)
   - Roasted Sea-shroom
   - Melon Tri-pult (Threepeater + Melon-pult)
@@ -45,7 +45,7 @@ Please visit our community for future updates and support.
     - Obsidian Jugger-nut (Spicicle > Jugger-nut)
   - Unique:
     - Peatato Commando (Pea-storm Commando + Potato Mine)
-    - Stargazer Snipea (Snipea + Starfruit)
+    - Starcaller Snipea (Snipea + Starfruit)
 - Legendary Fusions:
   - A.L.E.C.
 

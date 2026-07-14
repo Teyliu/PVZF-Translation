@@ -446,6 +446,7 @@
   "升级品质\\((\\d+)\\)": "Quality Upgrades: {0}",
   "复活时间降低(\\d+)%\n当前复活时长：([\\s\\S]+)秒": "Reduce plant respawn time by {0}%.\nCurrent respawn time: {1}s",
   "全体植物获得(\\d+)护盾，复活后依然生效": "All plants gain {0} Shield HP, which is given back even after they revive.",
+  "获得(\\d+)次词条刷新的机会": "Gain {0} rerolls for Modifiers.",
   "幸运提高(\\d+)，幸运可以提高好词条出现概率\n当前幸运值：(\\d+)/250": "Increases your luck by {0}. Luck increases the probability of rarer modifiers appearing.\nCurrent Luck: {1}/250",
   "获得(\\d+)次升级词条品质的机会，只能用于速度和力量的通用词条，且随机升级": "Gain {0} quality upgrades which can be used to randomly upgrade a Speed or Strength modifier in the current selection.",
   "诸神注视着你，并选中了一个他们喜欢的词条\n植物<color=green>【([\\S]+)】</color>的词条<color=yellow>【强化：([\\S]+)】</color>获得品质升级\n当前品质：([\\S]+)": "The gods are watching you, and they have granted you an upgrade!\nThe <color=yellow>{1}</color> upgrade for <color=green>{0}</color> has been upgraded.\nCurrent Quality: {2}",

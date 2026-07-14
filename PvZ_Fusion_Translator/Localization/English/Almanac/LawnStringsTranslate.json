@@ -4328,16 +4328,16 @@
         },
         {
             "seedType": 1428,
-            "name": "Blast-shroom",
-            "introduce": "<align=left><size=36><color=black>To improve the efficiency of the cherry projectile production line, Blast-shroom created a brand-new dye. It dries quickly, is easy to apply, and does not fade easily. It is practically flawless, except for the fact that it is also highly volatile.</color>",
-            "info": "<size=36>Blast-shroom's fumes catalyze Pink Cherries into Exploding Cherries.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When attacking, converts up to 4 straight-firing cherry projectiles or ignited cherry projectiles within 5.5 tiles ahead into explosive cherries. Converted cherries deal double damage.\n<color=black>•</color> If there are convertible projectiles within range, it will attack even without a zombie.</color>",
+            "name": "Trigger-shroom",
+            "introduce": "<align=left><size=36><color=black>To improve the efficiency of the cherry projectile production line, Trigger-shroom created a brand-new dye. It dries quickly, is easy to apply, and does not fade easily. It is practically flawless, except for the fact that it is also highly volatile.</color>",
+            "info": "<size=36>Trigger-shroom's fumes catalyze Pink Cherries into Exploding Cherries.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When attacking, converts up to 4 straight-firing cherry projectiles or ignited cherry projectiles within 5.5 tiles ahead into explosive cherries. Converted cherries deal double damage.\n<color=black>•</color> If there are convertible projectiles within range, it will attack even without a zombie.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cherry Bomb + Fume-shroom</color>"
         },
         {
             "seedType": 1429,
-            "name": "Stargazer Snipea",
-            "introduce": "<align=left><size=36><color=black>Legend says that whenever a life fades away, a shooting star falls from the sky. For Stargazer Snipea, that legend is true. It just requires the order of cause and effect to be reversed. Every shooting star he snipes down takes a life with it.</color>",
-            "info": "<size=36>Stargazer Snipea eliminates enemies while calling down shooting stars and falling meteors.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Targets enemies anywhere in front and can target flying zombies.\n<color=black>•</color> Normal attacks fire 5 star projectiles, each dealing 1× attack damage, prioritizing the targeted enemy.\n<color=black>•</color> Every 6th attack lands a headshot, dealing 1M damage and summoning a Meteor. Upon impact, it deals 18× attack damage. The split stars also deal 1× attack damage.</color>",
+            "name": "Starcaller Snipea",
+            "introduce": "<align=left><size=36><color=black>Legend says that whenever a life fades away, a shooting star falls from the sky. For Starcaller Snipea, that legend is true. It just requires the order of cause and effect to be reversed. Every shooting star he snipes down takes a life with it.</color>",
+            "info": "<size=36>Starcaller Snipea eliminates enemies while calling down shooting stars and falling meteors.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Targets enemies anywhere in front and can target flying zombies.\n<color=black>•</color> Normal attacks fire 5 star projectiles, each dealing 1× attack damage, prioritizing the targeted enemy.\n<color=black>•</color> Every 6th attack lands a headshot, dealing 1M damage and summoning a Meteor. Upon impact, it deals 18× attack damage. The split stars also deal 1× attack damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Starfruit + Snipea</color>"
         },
         {
