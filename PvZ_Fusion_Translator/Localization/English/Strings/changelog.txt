@@ -69,7 +69,7 @@ Please visit our community for future updates and support.
 5. Balance Adjustments
 - Shroomageddon Modifier Rework: Blast Absorption > Volatile Barrier, now immune to all damage with a tradeoff
 - Cosmo-pult & Astro-nut Modifiers & Mechanics Rework
-- Infernal Squashwood & Infernal Sparkwood: Can not ignite more kinds of projectiles
+- Infernal Squashwood & Infernal Sparkwood: Can now ignite more kinds of projectiles
 - Element-infused Gargantuar Modifier Rework: Affinity Awakening now summons Element-infused Imps
 
 6. QOL Optimizations
