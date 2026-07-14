@@ -546,7 +546,7 @@
         },
         "12006": {
             "name": "Ascend: Shield of Light",
-            "desc": "Pharo Umbrella can consume energy to knock back zombies in a 3×3 area and regular attacks can have ×3 targets"
+            "desc": "Pharos Umbrella can consume energy to knock back zombies in a 3×3 area and regular attacks can have ×3 targets"
         },
         "12007": {
             "name": "Ascend: Gravity",
@@ -561,12 +561,12 @@
             "desc": "Tyrannoflora Lux attraction range after digestion is vastly increased"
         },
         "12010": {
-            "name": "Ascend: Chaos Core",
-            "desc": "Adjacent 2 Chaos Cores releases mini black hole explosions periodically"
+            "name": "Ascend: Chaos Beams",
+            "desc": "Adjacent 2 Chaos Beams releases mini black hole explosions periodically"
         },
         "12011": {
             "name": "Ascend: Ricochet",
-            "desc": "Buck-shroom Squad can no longer headshot but projectiles ricochet on lawn edges, up to (number of pierces + 2) times"
+            "desc": "Buck-shroom Squad can no longer headshot but projectiles ricochet on lawn edges (like Split Pea), up to (number of pierces + 2) times"
         },
         "12012": {
             "name": "Ascend: Veterancy",
@@ -582,7 +582,7 @@
         },
         "12015": {
             "name": "Ascend: Fortune",
-            "desc": "Soulrender Bamblock can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
+            "desc": "Soulrender Bamboo can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
         },
         "13000": {
             "name": "Blast Protection",

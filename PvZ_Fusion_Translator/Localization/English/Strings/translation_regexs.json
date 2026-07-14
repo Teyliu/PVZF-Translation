@@ -427,8 +427,15 @@
   "^([^\\s：]+)\n\n该难度已经通关了(\\d+)次": "{0}\n\nYou have completed this difficulty {1} time(s).",
   "无尽模式，你能撑到第几轮？\n\n最大轮数：(\\d+)": "How long can you survive?\n\nCurrent Highscore: {0} Rounds",
   "获得新植物\n\n已使用该植物通关了(\\d+)次": "Obtain a new plant.\n\nYou have beaten the level using this plant {0} time(s).",
+  "^([^\\s：]+)\n\n定位：([\\s\\S]+)": "{0}\n\nRole: {1}",
+  "获得新植物\n\n还没有使用该植物通关过\n\n定位：([\\s\\S]+)": "Obtain a new plant.\n\nYou have not beaten the level using this plant.\n\nRole: {0}",
   "全体植物获得(\\d+)%伤害增幅\n当前增幅：(\\d+)%": "All plants gain {0}% extra damage.\nCurrent Bonus: {1}%",
   "全体植物获得(\\d+)%伤害增幅\n当前增幅：(\\d+)%\n已选了(\\d+)次": "All plants gain {0}% extra damage.\nCurrent Bonus: {1}%\nSelected {2} time(s).",
+  "坚韧增加(\\d+)%\n坚韧越高，撞击僵尸后使僵尸受到的伤害越高，自身受到的伤害越低": "Resilience +{0}%\n\nMore resilience equates to more damage dealt to zombies on collision and less damage taken afterwards.",
+  "生命值上限+(\\d+)%": "Max Health +{0}%",
+  "魅惑僵尸获得(\\d+)%独立伤害增幅": "Hypnotized zombies gain {0}% extra damage.",
+  "魅惑僵尸获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%": "Hypnotized zombies gain {0}% extra damage.\nCurrent Bonus: {1}%",
+  "魅惑僵尸获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%\n已选了(\\d+)次": "Hypnotized zombies gain {0}% extra damage.\nCurrent Bonus: {1}%\nSelected {2} time(s).",
   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅": "{0}: Gains {1}% extra damage.",
   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%": "{0}: Gains {1}% extra damage.\nCurrent Bonus: {2}%",
   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%\n已选了(\\d+)次": "{0}: Gains {1}% extra damage.\nCurrent Bonus: {2}%\nSelected {3} time(s).",
@@ -468,5 +475,6 @@
   "^([\\s\\S]+)，你已经没有行动次数了": "{0}, you don't have any moves remaining!",
   "([\\s\\S]+)\n价格：(\\d+)\n已持有(\\d+)个": "{0}\nCost: {1} Endoflame Coin(s)\nOwned: {2}",
   "购买植物需要花费(\\d+)": "Would you like to buy this plant for ${0}?",
-  "BUFF_NAME_FORMAT": "<color=#700000>[{0}]</color>\n{1}"
+  "BUFF_NAME_FORMAT": "<color=#700000>[{0}]</color>\n{1}",
+  "翻页\\((\\d+)/(\\d+)\\)": "Page {0}/{1} (click to turn)"
 }
