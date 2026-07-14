@@ -168,6 +168,14 @@
             "name": "",
             "desc": "Nénu-chan Hypnotique : les zombies hypnotisés générés par sa capacité infligent 30% de dégâts purs supplémentaires qui ignorent la réduction de dégâts en mordant"
         },
+        "42": {
+            "name": "Vent impétueux",
+            "desc": "Troufle Quetzalcoatl : le bonus de dégâts de l'effet Étourdi passe de 20% à 40%, et les attaques réduisent l'Armure de 10."
+        },
+        "43": {
+            "name": "Vents rapides",
+            "desc": "Troufle Quetzalcoatl : TR de génération d'une Troufle 10 s → 3 s"
+        },
         "1000": {
             "name": "",
             "desc": "Le TR des Gants est réduit de 10 s (pas de TR pour la plante Gant), et ils peuvent désormais déplacer les Mini-boss"
@@ -508,6 +516,10 @@
             "name": "",
             "desc": "Le TR de la Brouette est réduit à 3 secondes"
         },
+        "11001": {
+            "name": "Croissance instantanée",
+            "desc": "Mécanique du niveau : Champi-Deucalion commence avec l'équivalent de 10 manches d'Odyssée en stades de croissance (cela signifie-t-il 1 000 stades de croissance, puisque chaque manche est plafonnée à 100 ? Il faudrait que quelqu'un le teste)"
+        },
         "12000": {
             "name": "",
             "desc": "Les pastèques du Champi-napalm créent une mer de feu supplémentaire en touchant le sol et peuvent se diviser jusqu'à 2 fois de plus en touchant des zombies."
@@ -531,6 +543,50 @@
         "12005": {
             "name": "",
             "desc": "Le Champi-mageddon libère une explosion de Champi-mort d'un million de dégâts à sa mort."
+        },
+        "12006": {
+            "name": "Transcendance : Bouclier de lumière",
+            "desc": "L'Ombrelle de Pharos peut consommer de l'énergie pour repousser les zombies dans une zone de 3×3, et ses attaques normales peuvent cibler 3× plus d'ennemis"
+        },
+        "12007": {
+            "name": "Transcendance : Gravité",
+            "desc": "Les trous noirs attirent les zombies ayant moins de 50% de leurs PV max"
+        },
+        "12008": {
+            "name": "Transcendance : Perforation",
+            "desc": "Le Triple Pisto-pois Phénix tire désormais dans toutes les rangées et ses projectiles transpercent à l'infini"
+        },
+        "12009": {
+            "name": "Transcendance : La Gueule",
+            "desc": "La portée d'attraction du Tyran Luminescent après digestion est considérablement augmentée"
+        },
+        "12010": {
+            "name": "Transcendance : Rayon du chaos",
+            "desc": "Deux Rayons Célestes adjacents libèrent périodiquement des mini-explosions de trou noir"
+        },
+        "12011": {
+            "name": "Transcendance : Ricochet",
+            "desc": "L'Escouade de Champi-seau ne peut plus effectuer de tirs à la tête, mais ses projectiles ricochent sur les bords de la pelouse (comme ceux du Triple-pois), jusqu'à (nombre de perforations + 2) fois"
+        },
+        "12012": {
+            "name": "Transcendance : Vétérance",
+            "desc": "L'Impécratrice-champi invoque désormais des zombies aux caractéristiques considérablement augmentées"
+        },
+        "12013": {
+            "name": "Transcendance : Densité",
+            "desc": "Le Commando Chevrotine tire des projectiles encore plus grands et puissants pendant ses Capacités Ultimes"
+        },
+        "12014": {
+            "name": "Transcendance : Hémorragie",
+            "desc": "Les zombies touchés par n'importe quelle Pierre Épineuse perdent continuellement des PV égaux à 400% des dégâts de l'attaque pendant 2 s"
+        },
+        "12015": {
+            "name": "Transcendance : Fortune",
+            "desc": "Le Bambou Brise-âmes peut désormais suivre les mouvements de la souris ; les améliorations de vitesse d'attaque augmentent sa vitesse de déplacement et il inflige des dégâts aux zombies rencontrés sur son passage"
+        },
+        "13000": {
+            "name": "Protection antidéflagrante",
+            "desc": "Les dégâts des explosions du Zombie Diable à ressort sont réduits à 1 000"
         }
     },
     "ultimateBuffs": {
@@ -741,6 +797,14 @@
         "51": {
             "name": "",
             "desc": "Commando Chevrotine : dégâts de l'Ultime de tous les Commandos ×2 et ne se dispersent plus | Pois-sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
+        },
+        "52": {
+            "name": "Formation d'obsidienne",
+            "desc": "Jugger-noix d'Obsidienne : tant qu'elle est sur la pelouse, toutes les plantes d'Obsidienne subissent des dégâts finaux réduits selon le nombre de plantes d'Obsidienne différentes présentes"
+        },
+        "53": {
+            "name": "Trempe givre-feu",
+            "desc": "Jugger-noix d'Obsidienne : dégâts de Trempe ×2"
         }
     },
     "unlocks": {
@@ -847,6 +911,10 @@
         "25": {
             "name": "",
             "desc": "Débloquer Commando Chevrotine : Sulfateuse Quarterback + Pois Renforcé\net sa sous-espèce Pois-sniper Synchroniseur"
+        },
+        "26": {
+            "name": "",
+            "desc": "Débloque la Jugger-noix d'Obsidienne : Givre Épicé > Jugger-noix"
         }
     },
     "debuffs": {
@@ -986,6 +1054,14 @@
             "name": "",
             "desc": "Brigade de Bobsleigh Chevrotine : entre rapidement sur le terrain, mais ralentit avec le temps"
         },
+        "34": {
+            "name": "Posture du cobra",
+            "desc": "Zombie Giga Quarterback Acrobate et Zombie QB Giga-noix Acrobate : effectuent immédiatement une roulade à leur apparition"
+        },
+        "35": {
+            "name": "Poursuite ardente",
+            "desc": "Zombie Giga Quarterback Acrobate et Zombie QB Giga-noix Acrobate : dégâts ×2 après une roulade"
+        },
         "1000": {
             "name": "",
             "desc": "Votre Soleil sera réinitialisé à 0"
@@ -1086,6 +1162,10 @@
             "name": "",
             "desc": "La Brigade de Bobsleigh Chevrotine apparaîtra"
         },
+        "2005": {
+            "name": "Crise",
+            "desc": "Le Zombie QB Giga-noix Acrobate apparaîtra"
+        },
         "3000": {
             "name": "",
             "desc": "Le Gargantua Abyssal apparaîtra en tant que Mini-boss"
@@ -1157,6 +1237,14 @@
         "3023": {
             "name": "",
             "desc": "Le Cavalier de Cerasocetus apparaîtra en tant que Mini-boss"
+        },
+        "3024": {
+            "name": "Némésis",
+            "desc": "Le Cavalier de Cérasocetus apparaîtra en tant que Mini-boss"
+        },
+        "3026": {
+            "name": "Némésis",
+            "desc": "Le Roi Nécroflamme apparaîtra en tant que Mini-boss"
         },
         "4000": {
             "name": "",

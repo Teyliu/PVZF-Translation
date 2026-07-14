@@ -32,6 +32,20 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 ## Contributeur
 
+
+### [Hubtech](./french-contributor/hubtech.md)
+
+**Statistiques de contribution**
+
+* Nouvelles traductions : **111**
+* Traductions ajustées : **47**
+
+**Réseaux & contacts**
+
+* **GitHub** : [Hubtech280](https://github.com/Hubtech280)
+
+---
+
 ### [Samael](./french-contributor/same_el.md)
 
 **Statistiques de contribution**
@@ -42,19 +56,6 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Réseaux & contacts**
 
 * **GitHub** : [Same-ael](https://github.com/Same-ael)
-
----
-
-### [Hubtech](./french-contributor/hubtech.md)
-
-**Statistiques de contribution**
-
-* Nouvelles traductions : **108**
-* Traductions ajustées : **47**
-
-**Réseaux & contacts**
-
-* **GitHub** : [Hubtech280](https://github.com/Hubtech280)
 
 ---
 

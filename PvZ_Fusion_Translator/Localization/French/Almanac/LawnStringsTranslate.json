@@ -4418,11 +4418,165 @@
             "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Mine Patate + Troufle</color>"
         },
         {
+            "seedType": 1427,
+            "name": "Cactus de Glace",
+            "introduce": "<align=left><size=36><color=black> \" Il fait vraiment froid là-haut ! \" Le Cactus de glace soupire souvent ainsi, laissant les autres plantes plutôt confuses. Mais ce n'est pas dur à comprendre. Après tout, si vous revenez des nuages avec du givre sur le visage, vous diriez probablement la même chose.</color>",
+            "info": "<size=36>Le Cactus de Glace tire des épines glacées qui sont particulièrement efficaces contre les cibles aériennes volantes et gelées\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points de Cryo et infligent ×4 dégâts aux zombies gelés</color>\n<color=black>Spécial : </color><color=#8B0000>Contre les cibles aériennes, les projectiles percent 2 fois et infligent ×4 de dégâts</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Cactus + Champi-glace</color>"
+        },
+        {
+            "seedType": 1437,
+            "name": "Pot de Troufle",
+            "introduce": "<align=left><size=36><color=black>Les stagiaires de l'académie des plantes volantes ont reçu leur premier jour de repo. Jusqu'à maintenant, l'instructeur Pot de Troufle les traitait toujours de façon stricte: \"Ta posture de vole est mauvaise ! Descends et viens te recalibrer !\" Toutefois, il n'a récemment pas pu venir car il a accidentellement dérange la célébration du \"1437\"ème aniversaire de Carambole et est maintenant rechercher par eux.</color>",
+            "info": "<size=36>Pot de Troufle sacrifie les plantes volantes pour nourrir les plantes au dessus de lui. \n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Chaques secondes, enlève la plante volante sur sa case. Après l'enlèvement, restaure 150 PV a la plante sur sa case et accorde un boost d'attaque de 20% pendant 5s.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Troufle + Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1442,
+            "name": "Triple-pot",
+            "introduce": "<align=left><size=36><color=black>La boutique de Triple-pot a toujours reçu des avis lumineux. Depuis qu'il a vendu des projectiles de pois, il a organisé une promotion \"un acheté, deux offerts\". Les pois étaient joyeusement placer en ordre, seulement pour découvrir durant les tire que les cadeaux était fait de papier. Toutefois, considérant que les prix était abordable, personne ne sans souciait réellement</color>",
+            "info": "<size=36>Triple-pot boost l'attaque des plantes de type Triple Pisto-pois et étend la zone des rangées de couvrages des plantes de type Pisto-pois.  \n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color>Plante basse. Redonne 100 soleil en plus après la fusion.\n<color=black>•</color>Les plantes de type Triple Pisto-pois placés au dessus gagnent un bonus de 20% d'attaques.\n<color=black>•</color>Les plantes de type Pisto-pois placés au dessus attaque sur chaque rangé adjacente après toutes les 6 attaques, infligeant 50% de leurs attaques.Cette attaque bénéficie d’une compensation sur les rangées extérieures.</color>",
+            "cost": "\n<size=36>Formule de fusion : <color=#8B0000>Triple Pisto-pois + Pot de Fleur</color>"
+        },
+        {
             "seedType": 3000,
             "name": "Plante Provisoire",
             "introduce": "<align=left><size=36><color=black></color>",
             "info": "<size=36>Les informations sur cette plante seront révélées lors d'une future mise à jour.",
             "cost": ""
+        },
+        {
+            "seedType": 309,
+            "name": "A.L.E.C.",
+            "introduce": "<align=left><size=36><color=black>Étoile montante du grand public en pleine reconversion, A.L.E.C. voit depuis longtemps ses finances alimenter toutes les conversations. Ses revenus proviennent principalement des combats, de ses apparitions dans des émissions de variétés et des interviews, ainsi que de la vente de produits dérivés de la Noix Mordeuse. Ses dépenses comprennent la gestion de son image, le nettoyage bénévole des déchets du quartier et les droits d'auteur versés à la Noix Géante Mordeuse.</color>",
+            "info": "<size=36>Abréviation de Arsenalized Long-range Elite Chompzilla, cette véritable forteresse surarmée est équipée d'une mitrailleuse lourde et d'un fusil de précision.\n\n<color=#4A2900>Condition d'utilisation : Mode Récolte</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Dégâts : </color><color=#8B0000>Fusil de précision : 1800/1.5s\nMitrailleuse : 450×12/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les dégâts reçus sont plafonnés à 1/3 de sa Robustesse. Anti-écrasement.\n<color=black>•</color> Cible les ennemis situés devant lui sur toute la rangée. Tire sur le zombie le plus proche un laser monocible pouvant viser les unités aériennes, puis des balles qui poursuivent la même cible. Les balles ont 1 chance sur 8 d'avaler leur cible. Peut avaler les Gargantuas.\n<color=black>•</color> Toutes les 6 attaques, effectue un tir à la tête infligeant 1 M de dégâts et active sa Capacité Ultime : \n- Restaure des PV égaux à 1× sa Robustesse\n- Invoque 12 Zomb-noix Géantes qui infligent des dégâts et repoussent les ennemis au contact.\n- Tire continuellement pendant 1 s des balles suivant des trajectoires fixes. Celles-ci ne poursuivent pas les cibles.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 996,
+            "name": "Champi-Deucalion",
+            "introduce": "<align=left><size=36><color=black>Champi-Deucalion aime les températures torrides, les joyeux goûters et le rythme entraînant d'une musique animée. Il adore se réunir avec ses amis et partager des moments de bonheur. Tout au long de sa vie, Champi-Deucalion a cherché l'océan capable d'exaucer ses vœux, convaincu qu'il représentait sa destination finale.</color>",
+            "info": "<size=36>Champi-Deucalion absorbe la puissance de la Cerise et du Jalapeño et devient plus puissant à chaque stade de croissance.\n\n<color=#4A2900>Conditions d'utilisation : Mode Odyssée | Déblocable avec la Queue du Lion de Prométhée</color>\n<color=black>Dégâts : </color><color=#8B0000>100×2/0.5s</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Sous-espèce de la Queue du Lion de Prométhée. Plante courte.\n<color=black>•</color> Cible n'importe quelle rangée devant lui. À l'impact, applique Enflammé, puis inflige un recul monocible et déclenche une explosion de cerise pouvant toucher les zombies aériens.\n<color=black>•</color> Gagne 1 Énergie par cycle d'attaque. Gagne 60 Énergies lorsqu'il est affecté par les effets du Jalapeño ou de la Cerise Explosive. Lorsque son Énergie dépasse 480, la consomme intégralement et gagne 1 stade de croissance. Peut gagner jusqu'à 100 stades de croissance par manche d'Odyssée.\n<color=black>•</color> Chaque stade de croissance gagné pendant la manche actuelle augmente ses dégâts de 8%, tandis que chaque stade gagné au total les augmente de 0,4%. Tous les 5 stades gagnés pendant la manche actuelle augmentent aussi légèrement sa taille.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts accordé par le total des stades de croissance ×3\n2. Dégâts des tirs normaux ×3</color>",
+            "cost": "\n<size=36>Recette de conversion : <color=#8B0000>Nénu-chat <-> Champi-mer</color>"
+        },
+        {
+            "seedType": 997,
+            "name": "Jugger-noix d'Obsidienne",
+            "introduce": "<align=left><size=36><color=black>La Jugger-noix d'Obsidienne laisse souvent échapper un  Hmpf !  étouffé sur le champ de bataille. Les plantes y voient une démonstration d'assurance, tandis que les zombies pensent qu'elle se moque d'eux. Seule la Jugger-noix d'Obsidienne connaît la vérité : ce n'est qu'un gros rhume provoqué par son corps, qui alterne constamment entre des températures glaciales et brûlantes.</color>",
+            "info": "<size=36>La Jugger-noix d'Obsidienne canalise la puissance de la famille d'Obsidienne et s'abat sur le combat telle une montagne.\n\n<color=#3D1400>Conditions d'utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Robustesse : </color><color=#8B0000>64000</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Plante haute et plante Titan. Anti-écrasement. Les dégâts reçus sont plafonnés à 1000 par coup.\n<color=black>•</color> Restaure 1500 PV toutes les 15 s.</color>\n<color=black>•</color> Lorsque les PV d'une plante d'Obsidienne sur la pelouse changent, une quantité d'Énergie égale à cette variation est générée (au maximum une fois toutes les 0,02 s). Lorsqu'une plante d'Obsidienne inflige des dégâts, 300 Énergies sont générées. Cette Énergie est répartie équitablement entre toutes les Jugger-noix d'Obsidienne de la pelouse.\n<color=black>•</color> Lorsqu'elle gagne de l'Énergie, elle peut en consommer 300 pour effectuer une attaque de Trempe à l'emplacement de la source d'Énergie. La Trempe inflige dans un rayon de 1 case des dégâts égaux à 0,1% du total des PV de toutes les plantes d'Obsidienne de la pelouse.\n<color=black>•</color> Lorsqu'elle est affectée par un effet de Champi-glace ou de Jalapeño, ses dégâts augmentent de 10% pendant 3 s.\n<color=black>•</color> Plantes d'Obsidienne : Orge d'Obsidienne et toute plante dont la recette contient directement ou indirectement le Givre Épicé (comme l'Ortie d'Obsidienne).\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Tant qu'elle est sur la pelouse, toutes les plantes d'Obsidienne subissent des dégâts finaux réduits selon le nombre de plantes d'Obsidienne différentes présentes\n2. Dégâts de Trempe ×2</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Givre Épicé > Jugger-noix</color>"
+        },
+        {
+            "seedType": 998,
+            "name": "Troufle Quetzalcoatl",
+            "introduce": "<align=left><size=36><color=black>Dans une vaste plaine comme dans un jardin exigu, la Troufle Quetzalcoatl peut invoquer sans effort des vents déchaînés. Plantes, zombies, ventilateurs électriques, courants océaniques et même moussons s'inclinent devant ses pales. Malgré un succès inimaginable, la Troufle Quetzalcoatl souffre encore d'un problème embarrassant qu'elle n'ose avouer : elle est toujours incapable de souffler la feuille coincée autour de son propre cou.</color>",
+            "info": "La Troufle Quetzalcoatl invoque des ouragans et crée de jeunes Troufles pour gêner et affaiblir les zombies aériens.\n\n<color=#4A2900>Conditions d'utilisation : </color><color=black>Mode Odyssée</color>\n<color=black>Portée d'attaque : </color><color=#8B0000>Une rangée devant elle</color>\n<color=black>Spécial : <color=#8B0000>\n<color=black>•</color> Toutes les 3 s, repousse lentement les 15 zombies les plus proches. L'effet est identique à celui d'une Cyclotroufle.\n<color=black>•</color> Lorsqu'un zombie aérien (y compris ceux projetés par l'Ortie à Ressort) est repoussé par la Troufle Quetzalcoatl, il subit l'effet Étourdi et 20% de dégâts supplémentaires. Pour certains zombies, Étourdi réduit de 1 le nombre d'impacts de projectiles d'Étoile Polaire ou d'Épine Magnétique requis pour les faire s'écraser.\n<color=black>•</color> Toutes les 10 s, tente de faire apparaître une Troufle 1 case devant elle. En cas d'échec, déclenche à la place l'effet de la Troufle.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts de l'effet Étourdi 20% → 40%, et les attaques réduisent l'Armure de 10.\n2. TR de génération d'une Troufle 10 s → 3 s</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Troufle + Cyclotroufle</color>"
+        },
+        {
+            "seedType": 999,
+            "name": "Triple Pisto-pois Phénix Épique",
+            "introduce": "<align=left><size=36><color=black>La plupart des plantes ont oublié l'époque où des flammes célestes pleuvaient du firmament et embrasaient le monde d'une lumière éblouissante. Même celles qui s'en souviennent n'y voient plus qu'un mythe. Mais aujourd'hui, après avoir enduré une éternité dans le feu, le Drone Phénix Épique déploie ses ailes. Les bourrasques dispersent les cendres de sa renaissance, tandis que les flammes ardentes consument la coquille qui l'emprisonnait autrefois.  J'accorderai à toutes les plantes le courage de se relever. Que les flammes annoncent une ère nouvelle. </color>",
+            "info": "<size=36>Le phénix déploie ses ailes et renaît dans les flammes.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocage automatique après obtention des 2 Modificateurs du Triple Pisto-pois Phénix</color>\n<color=black>Dégâts : </color><color=#8B0000>180×n/1.5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion du Triple Pisto-pois Phénix, dont il hérite des autres traits.\n<color=black>•</color> Chaque cycle d'attaque tire un Pois Phénix dans chaque rangée. Les Pois Phénix transpercent jusqu'à 2 cibles et appliquent Enflammé à l'impact.\n<color=black>•</color> À son apparition et à sa mort, déclenche 6 fois l'effet du Jalapeño dans chaque rangée et tire 6 Pois Phénix.\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Sous-espèce Drone Phénix débloquée | Triple Pisto-pois Phénix et Drone Phénix : les tirs peuvent désormais transpercer à l'infini et provoquer des explosions Enflammées à l'impact | Effets également appliqués aux variantes Épiques\n2. Triple Pisto-pois Phénix et Drone Phénix : bonus global de dégâts Enflammé 50% → 150%, et les projectiles enflammés normaux peuvent désormais infliger le malus | Effets également appliqués aux variantes Épiques</color>",
+            "cost": "\n<size=36>Recette de promotion : <color=#8B0000>Jalapeño > Triple Pisto-pois Phénix</color>"
+        },
+        {
+            "seedType": 5000,
+            "name": "Drone Phénix Épique",
+            "introduce": "<align=left><size=36><color=black>Peut-être que... conquérir les cieux n'a jamais été la limite. Une fois devenu une légende, une autre transformation peut-elle encore l'attendre ? Une fois de plus, le phénix traverse les flammes. Son nouveau plumage scintille avec éclat et son regard se fait perçant.  Il est temps... de trouver le paulownia qui m'est destiné. </color>",
+            "info": "<size=36>Le phénix redresse sa crête, son plumage irradiant d'une lueur vermillon.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée | Déblocage automatique après obtention des 2 Modificateurs du Triple Pisto-pois Phénix</color>\n<color=black>Dégâts : </color><color=#8B0000>180/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion du Drone Phénix, dont il hérite des autres traits ; sous-espèce du Triple Pisto-pois Phénix Épique.\n<color=black>•</color> Plante volante. Chaque cycle d'attaque tire un Pois Phénix dans chaque rangée. Les Pois Phénix transpercent jusqu'à 2 cibles et appliquent Enflammé à l'impact.\n<color=black>•</color> À son apparition et à sa mort, déclenche 4 fois l'effet du Jalapeño dans chaque rangée et tire 6 Pois Phénix.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Sous-espèce Drone Phénix débloquée | Triple Pisto-pois Phénix et Drone Phénix : les tirs peuvent désormais transpercer à l'infini et provoquer des explosions Enflammées à l'impact | Effets également appliqués aux variantes Épiques\n2. Triple Pisto-pois Phénix et Drone Phénix : bonus global de dégâts Enflammé 50% → 150%, et les projectiles enflammés normaux peuvent désormais infliger le malus | Effets également appliqués aux variantes Épiques</color>",
+            "cost": "<size=36>Recette de conversion : <color=#8B0000>Pelle <-> Troufle</color>\nRecette de promotion : <color=#8B0000>Jalapeño > Drone Phénix</color>"
+        },
+        {
+            "seedType": 1428,
+            "name": "Champi-détonateur",
+            "introduce": "<align=left><size=36><color=black>Pour améliorer l'efficacité de la chaîne de production de projectiles de cerise, Champi-détonateur a créé une toute nouvelle teinture. Elle sèche vite, s'applique facilement et résiste à la décoloration. Elle serait pratiquement parfaite si elle n'était pas aussi hautement volatile.</color>",
+            "info": "<size=36>Les fumées du Champi-détonateur catalysent les Cerises Roses pour les transformer en Cerises Explosives.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu'il attaque, transforme en Cerises Explosives jusqu'à 4 projectiles de cerise tirés en ligne droite ou projectiles de cerise enflammés situés dans les 5,5 cases devant lui. Les cerises transformées infligent le double de dégâts.\n<color=black>•</color> S'il existe des projectiles convertibles à portée, il attaque même en l'absence de zombie.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Cerise Explosive + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1429,
+            "name": "Pois-sniper Astral",
+            "introduce": "<align=left><size=36><color=black>Selon la légende, chaque fois qu'une vie s'éteint, une étoile filante tombe du ciel. Pour le Pois-sniper Astral, cette légende est vraie. Il suffit simplement d'en inverser la cause et l'effet : chaque étoile filante qu'il abat emporte une vie avec elle.</color>",
+            "info": "<size=36>Le Pois-sniper Astral élimine ses ennemis tout en invoquant des étoiles filantes et des météores.\n\n<color=#4A2900>Condition d'utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Cible les ennemis n'importe où devant lui et peut viser les zombies volants.\n<color=black>•</color> Ses attaques normales tirent 5 projectiles étoilés infligeant chacun 1× les dégâts d'attaque et visant en priorité l'ennemi ciblé.\n<color=black>•</color> Toutes les 6 attaques, effectue un tir à la tête infligeant 1 M de dégâts et invoque un Météore. À l'impact, celui-ci inflige 18× les dégâts d'attaque. Les étoiles issues de sa fragmentation infligent également 1× les dégâts d'attaque.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Carambole + Pois-sniper</color>"
+        },
+        {
+            "seedType": 1430,
+            "name": "Bois flotté-torche",
+            "introduce": "<align=left><size=36><color=black>Bois flotté-torche est très fier de la flamme ardente qui brûle au sommet de sa tête et lui donne un air débordant d'énergie. Pour entretenir cette apparence enflammée, il doit constamment faire du surplace dans l'eau afin de garder la tête au-dessus de la surface. Ses épaisses tentacules semblables à des racines témoignent de tous ses efforts.</color>",
+            "info": "<size=36>Bois flotté-torche enflamme les projectiles qui le traversent et peut créer des Champi-mer en absorbant l'énergie des flammes proches.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte. Possède la capacité d'amélioration des projectiles de la Torche, avec des effets supplémentaires sur certains projectiles :\n ·  Pois : Enflammé, +20 dégâts.\n ·  Tir d'algue : Enflammé, +20 dégâts, les dégâts de zone appliquent 1 point d'Enchevêtrement.\n<color=black>•</color> Tous les 100 projectiles enflammés, fait apparaître devant lui un Champi-mer Rôti qui ne peut pas être utilisé dans une fusion. Si un Champi-mer Rôti est déjà présent, il gagne 20 de puissance d'attaque et grandit légèrement, jusqu'à 11 fois.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Torche > Champi-mer</color>"
+        },
+        {
+            "seedType": 1431,
+            "name": "Champi-mer Rôti",
+            "introduce": "<align=left><size=36><color=black>Un outil trempé par le feu devient plus robuste. Champi-mer Rôti le sait bien. Il est fermement convaincu qu'en restant simplement immergé dans l'eau, il finira un jour par se tremper lui-même pour devenir un Champi-mer véritablement résistant. Un jour...</color>",
+            "info": "<size=36>Champi-mer Rôti peut absorber la lueur produite par Bois flotté-torche.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte. Ne peut pas être utilisé dans une fusion.\n<color=black>•</color> Peut être renforcé par Bois flotté-torche.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1432,
+            "name": "Commando Pois-patate",
+            "introduce": "<align=left><size=36><color=black>Qu'il impose un rythme d'une précision absolue ou improvise une explosion, le Commando Pois-patate est un membre indispensable du groupe. Pourtant, le public enthousiaste semble toujours l'oublier — peut-être à cause de sa taille, ou peut-être parce qu'il est le bassiste.</color>",
+            "info": "<size=36>Le Commando Pois-patate tire des Pois-patate et communique avec ses semblables par des réseaux souterrains afin de coordonner leurs attaques.</color>\n<color=black>Dégâts : </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte. Chaque projectile tiré a 2% de chance de déclencher sa Capacité Ultime. Lorsqu'elle se déclenche, tous les autres Commandos Pois-patate activent également leur Capacité Ultime.\n<color=black>•</color> La Capacité Ultime restaure des PV égaux à 1× sa Robustesse, accorde l'invincibilité et l'anti-écrasement pendant 5 s, puis tire toutes les 0,02 s 1 projectile en ligne droite et 2 projectiles dispersés en éventail à ±45°.\n<color=black>•</color> À sa mort, déclenche une explosion de Mine Patate infligeant 1800 dégâts.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Mine Patate + Pois Commando</color>"
+        },
+        {
+            "seedType": 1433,
+            "name": "Triple Lance-pastèque",
+            "introduce": "<align=left><size=36><color=black>Le Triple Lance-pastèque ne sait pas vraiment s'il a des pépins, mais il reste persuadé de ne pas en avoir.  Les pastèques triploïdes sont sans pépins. C'est du moins ce qui est écrit dans le livre. </color>",
+            "info": "<size=36>Lance rapidement des pastèques dans trois rangées.\n\n<color=black>Dégâts : </color><color=#8B0000>80×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Chaque cycle d'attaque cible sa propre rangée ainsi que les deux rangées adjacentes. Les attaques bénéficient d'une compensation sur les rangées extérieures.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Triple Pisto-pois + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1434,
+            "name": "Triple Lance-maïs",
+            "introduce": "<align=left><size=36><color=black>Le Triple Lance-maïs travaille dans une usine de beurre, où il trie le beurre et les grains de maïs. Son efficacité est remarquable, mais le dernier lot lui donne toujours mal à la tête : il ne sait trier que par multiples de trois. Lorsqu'il ne reste qu'un seul grain, il ne sait jamais comment l'emballer.</color>",
+            "info": "<size=36>Tire rapidement des projectiles dans trois rangées et en augmente continuellement le nombre tant qu'il ne lance pas de beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Chaque cycle d'attaque cible sa propre rangée ainsi que les deux rangées adjacentes. Les attaques bénéficient d'une compensation sur les rangées extérieures.\n<color=black>•</color> Chaque cycle a 25% de chance de lancer du beurre infligeant 40 dégâts. Si aucun beurre n'est lancé pendant ce cycle, le cycle suivant gagne 1 projectile supplémentaire, réparti aléatoirement. Lancer du beurre réinitialise ce bonus.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Triple Pisto-pois + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1435,
+            "name": "Triple-citrouille",
+            "introduce": "<align=left><size=36><color=black>L'un des visages de Triple-citrouille aime les comédies, un autre préfère les films d'horreur, tandis que le dernier n'apprécie ni les uns ni les autres. Pourtant, ils ne se disputent jamais la télécommande : leurs trois visages regardent dans des directions différentes et ne peuvent même pas voir le même téléviseur.</color>",
+            "info": "<size=36>Triple-citrouille crée des pois lorsque les zombies proches subissent des dégâts, afin de les blesser davantage.\n\n<color=black>Portée d'attaque : </color><color=#8B0000>Sa propre rangée et les 2 rangées adjacentes</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu'un zombie à portée subit des dégâts, crée un pois à son emplacement. Ce projectile ne peut pas cibler les unités volantes, et les dégâts qu'il inflige ne déclenchent pas cet effet.\n<color=black>•</color> Les dégâts du projectile sont égaux à 20% des dégâts subis. Si les dégâts proviennent d'une plante de type Triple Pisto-pois, ils sont multipliés par 4.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Triple Pisto-pois > Citrouille</color>"
+        },
+        {
+            "seedType": 1436,
+            "name": "Citrouille Cryo",
+            "introduce": "<align=left><size=36><color=black>Il a toujours été fier de sa coiffure, même s'il s'est contenté de casser une stalactite suspendue à un toit avant de se la poser sur la tête.</color>",
+            "info": "<size=36>La Citrouille Cryo emmagasine la puissance des Champi-glace afin de la libérer au moment opportun.\n\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Applique Gel aux zombies qui la mordent et ajoute 10 points Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tant que sa jauge de charge est inférieure à 3, empêche l'activation des effets de Champi-glace sur sa case et sur la case située devant elle, puis gagne 1 charge.\n<color=black>•</color> Toutes les 5 s, consomme automatiquement 1 charge pour déclencher un effet de Champi-glace. Un clic permet également de déclencher cet effet.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Champi-glace > Citrouille</color>"
+        },
+        {
+            "seedType": 1438,
+            "name": "Champi-ortie",
+            "introduce": "<align=left><size=36><color=black>Nous savons de Champi-ortie qu'il fut autrefois policier et qu'il a démissionné à la suite d'une blessure. Au-delà de cela, nous ne savons rien de son ancien travail. Une découverte récente pourrait aider à révéler son passé : une plante l'a aperçu en train de rechercher frénétiquement un jeu de course dans lequel on contrôle une Ortie.</color>",
+            "info": "<size=36>Champi-ortie projette des fumées épineuses capables de crever les pneus.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante courte. Ne peut pas bloquer les zombies. Crève les pneus des véhicules au contact, puis disparaît.\n<color=black>•</color> Ses attaques infligent aux véhicules 30% de leurs PV max en dégâts, à l'exception des véhicules Mini-boss.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Champi-fumée + Ortie</color>"
+        },
+        {
+            "seedType": 1439,
+            "name": "Triple Lance-chou",
+            "introduce": "<align=left><size=36><color=black> Ces paniers ? Je les ai fabriqués moi-même. Ma carrière de basketteur en dépend , expliqua le Triple Lance-chou en riant pendant une interview.  Le secret de mes victoires en championnat réside dans ces paniers. Je n'ai encore jamais rencontré d'adversaire capable de bloquer trois ballons à la fois. </color>",
+            "info": "<size=36>Lance rapidement des choux en couches dans trois rangées.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Chaque cycle d'attaque cible sa propre rangée ainsi que les deux rangées adjacentes. Les attaques bénéficient d'une compensation sur les rangées extérieures.\n<color=black>•</color> Après avoir touché une cible, les projectiles se divisent en choux normaux qui ciblent le zombie le plus proche dans les rangées adjacentes supérieure et inférieure. Les projectiles initialement tirés dans sa propre rangée peuvent se diviser une fois de plus.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Triple Pisto-pois + Lance-chou</color>"
+        },
+        {
+            "seedType": 1440,
+            "name": "Triple Pisto-pois Funeste",
+            "introduce": "<align=left><size=36><color=black>Avec trois têtes, le Triple Pisto-pois Funeste possède une puissance de réflexion trois fois supérieure, ce qui lui a permis d'accomplir de grandes avancées dans la recherche en physique nucléaire. Hors du monde universitaire, il aime aussi méditer sur d'autres questions — par exemple, pourquoi certaines plantes essaient toujours de lui enfourner un Jalapeño.</color>",
+            "info": "<size=36>Le Triple Pisto-pois Funeste tire des Pois Funestes dans trois rangées.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les Pois Funestes transpercent l'armure de Type 2.\n<color=black>•</color> Toutes les 7 attaques, tire trois grands Obus Funestes infligeant 3× les dégâts. Ils transpercent l'armure de Type 2, infligent des dégâts monocibles, puis explosent dans un rayon de 3 cases.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Champi-mort + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1441,
+            "name": "Écraseur Étoilé",
+            "introduce": "<align=left><size=36><color=black> En réalité, l'astuce pour jouer à chat est très simple , expliqua l'Écraseur Étoilé à ses nouveaux amis.  Il suffit de laisser vos amis se cacher derrière vous, puis de sauter tous ensemble pour esquiver lorsque le chat approche.  Tous adoptèrent rapidement cette technique, mais un nouveau problème se posa bientôt : qui allait jouer le chat ?</color>",
+            "info": "<size=36>L'Écraseur Étoilé s'abat telle la Montagne aux Cinq Doigts et écrase des groupes de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>900×5 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>Atterrit simultanément au centre, en haut à gauche, en haut à droite, plus loin à gauche et plus loin à droite. Chaque impact inflige des dégâts de zone réduits, et les zones peuvent se chevaucher.</color>",
+            "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Écraseur + Carambole</color>"
         }
     ]
 }

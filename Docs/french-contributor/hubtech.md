@@ -21,7 +21,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **108**
+* Nouvelles traductions : **111**
 * Traductions ajustées : **47**
 
 ---
@@ -32,9 +32,25 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 ---
 
+### 📅 Semaine — `07/07/26 → 14/07/26`
+> [PR#203](https://github.com/Teyliu/PVZF-Translation/pull/203)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **3**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
 ---
 
-## 👤 @Hubtech280
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Cactus de Glace** (`seedType: 1427`)
+* **Pot de Troufle** (`seedType: 1437`)
+* **Triple-pot** (`seedType: 1442`)
+
+---
 
 ### 📅 Semaine — `13/04/26 → 19/04/26`
 > [PR#121](https://github.com/Teyliu/PVZF-Translation/pull/121)
