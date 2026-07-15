@@ -170,7 +170,7 @@
         },
         "42": {
             "name": "Weathering Gale",
-            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduces Armor by 10."
+            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduces DR value by 10"
         },
         "43": {
             "name": "Swift Winds",
@@ -518,7 +518,7 @@
         },
         "11001": {
             "name": "Instant Growth",
-            "desc": "Level gimmick: Deucalion-shroom starts with 10 Odyssey rounds worth of growth stages (does this mean 1000 growth stages since for each round it's capped at 100? Somebody please test for me)"
+            "desc": "Level gimmick: Deucalion-shroom starts with 1000 Growth Stages"
         },
         "12000": {
             "name": "Ascend: Inferno",
