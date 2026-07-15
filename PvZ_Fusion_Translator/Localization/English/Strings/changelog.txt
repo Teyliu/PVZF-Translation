@@ -33,7 +33,6 @@ Please visit our community for future updates and support.
   - Doom-spreader (Doom-shroom + Threepeater)
   - Starry Squash (Squash + Starfruit)
   - Tri-pot (Threepeater > Flower Pot)
-
 - Odyssey Fusions:
   - Common:
     - Quetzalcoatl Blover (Blover + Cyclover)
@@ -48,6 +47,8 @@ Please visit our community for future updates and support.
     - Starcaller Snipea (Snipea + Starfruit)
 - Legendary Fusions:
   - A.L.E.C.
+- Stellar Fusions:
+  - Stellar Shroomageddon
 
 4. New Zombies
 - Common:
