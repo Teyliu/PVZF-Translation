@@ -4323,7 +4323,7 @@
             "seedType": 1427,
             "name": "Ice Cactus",
             "introduce": "<align=left><size=36><color=black>\"It really is cold up here!\" Ice Cactus often sighs this way, leaving other plants rather confused. But it is not hard to understand. After all, if you returned from the clouds with your face covered in frost, you would probably say the same thing.</color>",
-            "info": "<size=36>Ice Cactus fires icy spikes that are especially effective against airborne and frozen targets.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Against airborne targets, projectiles pierce twice and deal ×4 damage.</color>",
+            "info": "<size=36>Ice Cactus fires icy spikes that are especially effective against airborne and frozen targets.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Against airborne targets, projectiles pierce twice and deal ×4 damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom + Cactus</color>"
         },
         {
