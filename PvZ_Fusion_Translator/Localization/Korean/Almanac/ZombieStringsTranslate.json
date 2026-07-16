@@ -860,9 +860,9 @@
         },
         {
             "theZombieType": 219,
-            "name": "<color=#4B0082><u>울트라 메카 호두</u>",
-            "introduce": "<align=justified><size=36><color=black>울트라 메카 호두는 원래 더 작고 정밀한 기가 메카 호두 좀비로 설계될 예정이었지만, 설계도가 뒤바뀌어 훨씬 커지고 말았습니다. 엔지니어들은 너무 늦게 알아차렸고, 결국 그냥 <i>굴러가도록</i> 두었습니다.</color>",
-            "info": "<size=36>GFishtus 주식회사의 비밀 인공물입니다.\n\n<color=black>체력: </color><color=#4B0082>300000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비\n<color=black>•</color> 기가 메카 호두 좀비의 특성이 계승되었습니다.\n<color=black>•</color> 대미지 감소 계산 후, 한 번의 공격으로 최대 300 대미지만 받습니다.\n<color=black>•</color> 울트라 메카 호두는 모든 좀비(랜덤박스 좀비 제외)가 받는 대미지가 1로 줄어드는 대신, 해당 대미지 만큼 전부 자신이 대미지받습니다.</color>"
+            "name": "<color=#4B0082><u>울트라 메카 호두-Z</u>",
+            "introduce": "<align=justified><size=36><color=black>울트라 메카 호두-Z는 원래 더 작고 정밀한 기가 메카 호두 좀비로 설계될 예정이었지만, 설계도가 뒤바뀌어 훨씬 커지고 말았습니다. 엔지니어들은 너무 늦게 알아차렸고, 결국 그냥 <i>굴러가도록</i> 두었습니다.</color>",
+            "info": "<size=36>GFishtus 주식회사의 비밀 인공물입니다.\n\n<color=black>체력: </color><color=#4B0082>300000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비\n<color=black>•</color> 기가 메카 호두 좀비의 특성이 계승되었습니다.\n<color=black>•</color> 대미지 감소 계산 후, 한 번의 공격으로 최대 300 대미지만 받습니다.\n<color=black>•</color> 울트라 메카 호두-Z는 모든 좀비(랜덤박스 좀비 제외)가 받는 대미지가 1로 줄어드는 대신, 해당 대미지 만큼 전부 자신이 대미지받습니다.</color>"
         },
         {
             "theZombieType": 220,
