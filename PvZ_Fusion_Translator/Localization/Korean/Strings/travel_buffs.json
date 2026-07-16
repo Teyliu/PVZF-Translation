@@ -1,1456 +1,1456 @@
 {
     "advancedBuffs": {
         "0": {
-            "name": "콩 심으면 좀비 난다",
-            "desc": "여왕 버섯 & 체리 여왕 버섯: 소환 주기가 10초로 감소합니다. | 체리 여왕 버섯 아종 해금."
+            "name": "Call to Arms",
+            "desc": "Enchantress-shroom Subspecies Unlocked | Empress-shroom & Enchantress-shroom: Summon Interval → 10s"
         },
         "1": {
-            "name": "첨예한 병사들",
-            "desc": "여왕 버섯 & 체리 여왕 버섯: 이제 오디세이 좀비를 소환합니다."
+            "name": "Elite Corps",
+            "desc": "Empress-shroom & Enchantress-shroom: Can now summon Odyssey Zombies"
         },
         "2": {
-            "name": "항시 준비",
-            "desc": "둠 개틀링: 더 이상 파멸 탄환 발사후 멈추지 않습니다. | 광란 개틀링 버섯 아종 해금. | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Overclock",
+            "desc": "Gatling Frenzy-shroom Subspecies Unlocked | Gatling Doom: No more rest after firing an Ultimate Doom Shell | Effects also apply to SP variants"
         },
         "3": {
-            "name": "핵위협",
-            "desc": "둠 개틀링: 매 공격마다 파멸의 탄환을 발사합니다. | 광란 개틀링 버섯: 매 4번마다 거대 파멸 탄환을 발사합니다. | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Overkill",
+            "desc": "Gatling Doom: Now fires an Ultimate Doom Shell every round instead of every 4th round | Gatling Frenzy-shroom: Now fires an Ultimate Doom Shell every 4 attacks | Effects also apply to SP variants"
         },
         "4": {
-            "name": "신묘한 손",
-            "desc": "태양 황제 호두: 거대 호두를 소환하는데 필요한 태양이 200으로 감소합니다. | 불꽃 황제 호두: 회복량 200% 증가 | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Photosynthesis",
+            "desc": "Twin Solar-nut: Click Cost 500 → 200 Sun | Twin Inferno-nut: Healing amount ×2 | Effects also apply to SP variants"
         },
         "5": {
-            "name": "큰 상처는 아니다",
-            "desc": "태양 황제 호두: 받는 대미지가 10으로 감소합니다. | 불꽃 황제 호두: 거대 호두를 소환하는데 필요한 체력이 200으로 감소합니다. | 불꽃 황제 호두 아종 해금. | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Hematopoiesis",
+            "desc": "Twin Inferno-nut Subspecies Unlocked | Twin Solar-nut: Toughness reduces by 10 for each hit instead of 50 | Twin Inferno-nut: Click cost 500 → 200 HP | Effects also apply to SP variants"
         },
         "6": {
-            "name": "실크로드킬",
-            "desc": "옵시디언락 & 흑요석 스파이크 호두: 주는 대미지가 500% 증가합니다. | 흑요석 스파이크 호두 아종 해금."
+            "name": "Path of Pain",
+            "desc": "Obsidian Spike-nut Subspecies Unlocked | Obsidian Spikerock & Spike-nut: Damage multiplied by 5"
         },
         "7": {
-            "name": "불길에서 주조된",
-            "desc": "옵시디언락 & 흑요석 스파이크 호두: 받는 대미지가 95% 감소합니다."
+            "name": "Skin of Steel",
+            "desc": "Obsidian Spikerock & Spike-nut: Gains 95% DMG Reduction"
         },
         "8": {
-            "name": "천보노",
-            "desc": "피닉스 삼발슈터 & 피닉스 드론: 투사체가 무한으로 관통하게 되고, 화염 폭발 피해를 입힙니다. | 피닉스 드론 아종 해금. | 해당 버프는 승급종한테도 적용됩니다. "
+            "name": "Piercing Flame",
+            "desc": "Phoenix Drone Subspecies Unlocked | Phoenix Threepeater & Phoenix Drone: Shots can now pierce infinitely and cause Enflamed explosions upon impact | Effects also apply to SP variants"
         },
         "9": {
-            "name": "분노의 불길",
-            "desc": "피닉스 삼발슈터 & 피닉스 드론: 화염 대미지가 150% 증가하고, 점화된 콩들은 이제 디버프를 관통합니다. | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Melting Point",
+            "desc": "Phoenix Threepeater & Phoenix Drone: Global enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff  | Effects also apply to SP variants"
         },
         "10": {
-            "name": "파죽지세",
-            "desc": "고드름 개틀링 버섯 & 태양 개틀링 버섯: 투사체가 무한으로 관통하며 처음 피격 시 3갈래로 나뉩니다. | 해당 버프는 승급종한테도 적용됩니다."
+            "name": "Shattershot",
+            "desc": "Gatling Icicle-shroom & Sunburst-shroom: Icicles now pierce infinitely and split into two diagonal icicles upon impact the first five times | Effects also apply to SP variants"
         },
         "11": {
-            "name": "극심한 혹한",
-            "desc": "고드름 개틀링 버섯: 고드름 투사체는 빙결 면역 좀비에게 주는 피해가 1200% 증가합니다. | 해당 버프는 승급종한테도 적용됩니다. | 태양 개틀링 버섯 아종 해금."
+            "name": "Icebreaker",
+            "desc": "Gatling Sunburst-shroom Subspecies Unlocked | Gatling Icicle-shroom: Damage to Frozen/Chill-immune zombies 4× → 12× | Effects also apply to SP variants"
         },
         "12": {
-            "name": "다다익선",
-            "desc": "빛나는 화분: 이제 은 화분을 황금 화분으로 업그레이드하는 비용이 8000을 초과하지 않습니다."
+            "name": "Penny Pincher",
+            "desc": "Radiant Pot: Upgrade costs from Silver Pots to Golden Pots will not exceed 8k"
         },
         "13": {
-            "name": "등가 교환",
-            "desc": "빛나는 화분: 이제 최대 한도를 초과한 후 획득하는 골드는 그 수치의 50%에 해당하는 태양으로 변환됩니다."
+            "name": "Solar Economy",
+            "desc": "Radiant Pot: Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1"
         },
         "14": {
-            "name": "인공지능",
-            "desc": "마이더스 우산잎: 좀비가 근처에 있을 때 자동으로 궁극기가 발동됩니다. 쿨타임 7.5초 | 에이기스 우산잎 아종 해금."
+            "name": "Smart Shield",
+            "desc": "Aegis Umbrella Subspecies Unlocked | Midas Umbrella & Aegis Umbrella: Activates Ultimate automatically if zombies are near"
         },
         "15": {
-            "name": "슈퍼 탄력",
-            "desc": "마이더스 우산잎: 대미지 버프 수치가 300%로 증가합니다."
+            "name": "Home Run",
+            "desc": "Midas Umbrella: Damage Boost 100% → 300%"
         },
         "16": {
-            "name": "특제 탄약",
-            "desc": "마법 고양이 둥지: 윙맨이 주는 대미지가 300% 증가합니다. | 마법 양파 토끼: 소환된 윙맨은 정상적으로 60발을 발사합니다."
+            "name": "Drone Master",
+            "desc": "Aristocattail: Drone Attack Damage ×3 | Thunder Bunnyon: Summoned Drone is no longer nerfed and fires 60 shots normally"
         },
         "17": {
-            "name": "치명적인 일침",
-            "desc": "마법 고양이 둥지: 기본 공격 대미지가 500% 증가합니다. | 마법 양파 토끼: 대미지가 300% 증가합니다. | 마법 양파 토끼 아종 해금."
+            "name": "Needlework",
+            "desc": "Thunder Bunnyon Subspecies Unlocked | Aristocattail: Regular Attack Damage ×5 | Thunder Bunnyon: Attack Damage ×3"
         },
         "18": {
-            "name": "핵융합 제어",
-            "desc": "재앙 버섯: 더 이상 파멸 버섯 폭발이 구덩이를 남기지 않습니다. | 탐욕 버섯 아종 해금."
+            "name": "Controlled Fusion",
+            "desc": "Avarice-shroom Subspecies Unlocked | Calamity-shroom: All Doom-shroom explosions are now craterless"
         },
         "19": {
-            "name": "사람은 많아야 세지",
-            "desc": "재앙 버섯: 이제 폭발 시 추가적인 매혹된 가르강튀아와 좀보니들을 소환합니다."
+            "name": "War Machine",
+            "desc": "Calamity-shroom: Now spawns 3 extra Hypnotized Armored Gargantuars and Zombonis when it explodes"
         },
         "20": {
-            "name": "재벌",
-            "desc": "갑불나무 & 재벌 플랜턴: 갑불나무를 통과한 투사체와 레이저의 대미지가 보유한 코인 1000당 1%씩 증가합니다."
+            "name": "Numismatic Engine",
+            "desc": "Tycoonwood & Magnate Plantern: 1% Damage increase to Coin projectiles/lasers for every 1000 Coins you have"
         },
         "21": {
-            "name": "금전은 흙모래",
-            "desc": "갑불나무: 갑불나무를 통과한 투사체는 이제 범위 피해를 줍니다. | 재벌 플랜턴 아종 해금."
+            "name": "Golden Rain",
+            "desc": "Magnate Plantern Subspecies Unlocked | Tycoonwood: Coin projectiles now deal splash damage"
         },
         "22": {
-            "name": "퀀텀 실드",
-            "desc": "테슬라 우산잎: 에너지 상한이 1000% 증가, 에너지 충전 속도가 2000% 증가, 체력 회복 속도가 1초로 감소합니다. | 빙산 우산잎: 분산 모드에서의 대미지가 400%까지 점점 증가하며, 집중 모드에서의 대미지가 400% 증가합니다. | 빙산 우산잎 아종 해금."
+            "name": "Crystal Dynamo",
+            "desc": "Boreas Umbrella Subspecies Unlocked | Pharos Umbrella: Energy Limit ×10, Recovery Speed ×20, Healing Speed ×2 | Boreas Umbrella: Damage in Scatter Mode increases linearly up to ×4, Damage in Focus Mode ×4"
         },
         "23": {
-            "name": "감마선",
-            "desc": "테슬라 우산잎: 일반 공격 대미지가 300% 증가, 폭발 대미지가 1000% 증가, 공격 속도가 2초로 감소합니다. | 집중 모드에서 냉동빔이 이제 1초 동안 빙결 상태로 만듭니다."
+            "name": "Energy Focus",
+            "desc": "Pharos Umbrella: Normal Attack Damage ×3, Explosion Damage ×10, Attack Interval → 2s | Boreas Umbrella: Cryo-beam in Focus Mode now applies Freeze for 1s"
         },
         "24": {
-            "name": "머리만 노려",
-            "desc": "양동이 버섯 소대: 저격의 대미지가 1,000,000으로 증가, 1/3 확률로 연사가 가능하지만 저격의 공격 속도가 7.5초로 증가합니다. | 양동이 버섯 착륙정: 대미지가 300% 증가합니다."
+            "name": "Deadeye",
+            "desc": "Buck-shroom Squad: Sniper always headshots with a 1/3 chance to trigger rapid-fire, but attack CD increased to 7.5s | Buck-strike Squadron: Attack damage ×3"
         },
         "25": {
-            "name": "발포!",
-            "desc": "양동이 버섯 소대: 넉백 거리와 대공포 대미지가 300% 증가합니다| 양동이 버섯 착륙정: 대미지가 300% 증가합니다. | 양동이 버섯 착륙정 아종 해금."
+            "name": "Shell Shock",
+            "desc": "Buck-strike Squadron Subspecies Unlocked | Buck-shroom Squad: Flak cannon knockback ×2, splash damage ×3 | Buck-strike Squadron: Attack damage ×3"
         },
         "26": {
-            "name": "전자기 터빈",
-            "desc": "테슬라 자석 황제: 공격 사거리가 200% 증가합니다. | 금속 생산 쿨타임이 절반으로 감소됩니다. | 테솔라 자석 여왕 아종 해금."
+            "name": "Flux Drive",
+            "desc": "Dyson Magnet Subspecies Unlocked | Tesla Magnet: Attack Range ×2 | Dyson Magnet: Metal Production CD halved"
         },
         "27": {
-            "name": "매그니토",
-            "desc": "테슬라 자석 황제: 한번에 금속을 3번 끌어당길 수 있으며, 기가 삼지창 호두 좀비와 기가 미식축구 호두 좀비에게 주는 피해량 300% 증가합니다. | 테솔라 자석 여왕: 회복량이 300%로 증가하며, 추가 금속 물체 생성 제한이 (3 + (n/m)/4)에서 (3 + (n/m)/3)으로 늘어납니다."
+            "name": "Magnetomania",
+            "desc": "Tesla Magnet: Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3 | Dyson Magnet: Heal amount ×3, extra Metal Object production limit (3 + (n/m)/4) → (3 + (n/m)/3)"
         },
         "28": {
-            "name": "죄악의 힘",
-            "desc": "사신 먹깨비 & 사신 지뢰: 이제 시드패킷이 확정적으로 생성됩니다."
+            "name": "Certain Doom",
+            "desc": "Wicked Undertater Subspecies Unlocked | Grim Arbiter & Wicked Undertater: Seed packet drop is now guaranteed"
         },
         "29": {
-            "name": "죽음의 메아리",
-            "desc": "사신 먹깨비 & 사신 지뢰: 좀비 영혼의 피해 전이 피해량이 200% 증가합니다. | 사신 지뢰 아종 해금."
+            "name": "Eldritch Link",
+            "desc": "Grim Arbiter & Wicked Undertater: Zombie Soul damage transfer ×2"
         },
         "30": {
-            "name": "핵광선",
-            "desc": "핵체리 폭탄 & 핵체리 스쿼시: 방사능 지대 지속 시간이 10초로 증가합니다."
+            "name": "Lingering Fallout",
+            "desc": "Big Bang Cherry & Big Crunch Squash: Particle Soup initial duration increased from 7s to 10s"
         },
         "31": {
-            "name": "핵공격",
-            "desc": "핵체리 폭탄 & 핵체리 스쿼시: 파멸 콩, 폭발성 체리, 폭발성 스쿼시 투사체, 폭발성 체리 별, 거대 파멸 탄환 투사체는 1% 확률로 1200%의 피해를 주는 핵체리 투사체가 됩니다. | 핵체리 스쿼시 아종 해금."
+            "name": "Chain Reaction",
+            "desc": "Big Crunch Squash Subspecies Unlocked | Big Bang Cherry & Big Crunch Squash: Explosive and doom projectiles have a small chance of transforming into Cosmic Debris with 12× damage when they hit zombies"
         },
         "32": {
-            "name": "고행길II",
-            "desc": "콘베이어위드 & 버터스쿼시 화분: 두 식물의 버터 경직 지속 시간이 300% 증가합니다.  | 버터스쿼시 화분 아종 해금."
+            "name": "Stickier Butter",
+            "desc": "Cornposter Pot Subspecies Unlocked | Cornveyor Weed & Cornposter Pot: Cornveyor and Cornposter's Butter stun duration ×3"
         },
         "33": {
-            "name": "미끄럼틀",
-            "desc": "콘베이어위드: 위에 있는 좀비를 지속적으로 오른쪽으로 미끄러지게 합니다. | 버터 스쿼시 화분: 버터 투척 확률이 50%에서 100%로 증가합니다."
+            "name": "Slide Show",
+            "desc": "Cornveyor Weed: Now makes zombies on it to continuously slide to the right | Cornposter Pot: Butter Chance for the plant above 50% → 100%"
         },
         "34": {
-            "name": "자력 보호막",
-            "desc": "기계 호박: 맵 진입 시, 모든 연결된 자기장 식물들에게 [30 × 자기장 식물의 수] 만큼의 보호막을 부여합니다. | 기계 스타푸르츠: 맵 진입 시, 연결된 자기장 식물들의 대미지 버프를 초기화하고 [0.5% × 자기장 식물의 수]만큼의 추가 대미지 버프를 부여합니다."
+            "name": "Magnetic Resonance",
+            "desc": "Omni Pumpkin: On entry, grants all connected Magnetic Plants a Shield equal to 30 × number of Magnetic Plants | Quasar: On entry, resets and grants them an Attack buff of 0.5% × number of Magnetic Plants instead"
         },
         "35": {
-            "name": "자성 테크놀로지",
-            "desc": "기계 호박 & 기계 스타푸르츠: 이제 자기장 식물의 수로 계산할 때 2개로 간주됩니다."
+            "name": "Dual Polarity",
+            "desc": "Omni Pumpkin & Quasar: Now counts twice towards the number of Magnetic Plants"
         },
         "36": {
-            "name": "폭발적인 포격",
-            "desc": "화염 폭죽용: 폭발 빈도 200% 증가합니다."
+            "name": "Explosive Breath",
+            "desc": "Dragonbreath Torcher: Explosion Frequency ×2"
         },
         "37": {
-            "name": "폭죽에서 용 난다",
-            "desc": "화염 폭죽용: 화염 폭죽용의 화염 숨결에 맞은 좀비 하나당 해당 공격의 다음 타격 대미지가 1%씩 증가하며, 최대 400%까지 중첩됩니다."
+            "name": "Heat Momentum",
+            "desc": "Dragonbreath Torcher: Each zombie hit by Dragonbreath Torcher's fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%"
         },
         "38": {
-            "name": "아이스 에이지",
-            "desc": "빙하 버섯: 초기 에너지가 100으로 증가합니다. | 흑빙하 버섯: 대미지가 200% 증가합니다. | 흑빙하 버섯 아종 해금."
+            "name": "Cold Front",
+            "desc": "Lethal Glacier-shroom Subspecies Unlocked | Tundral Glacier-shroom: +100 Initial Energy | Lethal Glacier-shroom: Damage ×2"
         },
         "39": {
-            "name": "눈보라의 창",
-            "desc": "빙하 버섯: 공격 범위가 200% 증가합니다. | 흑빙하 버섯: 공격 쿨타임이 절반으로 감소합니다."
+            "name": "Frozen Horizon",
+            "desc": "Tundral Glacier-shroom: Attack Radius ×2 | Lethal Glacier-shroom: Attack Interval halved"
         },
         "40": {
-            "name": "수영장 파티",
-            "desc": "큐어 챠밍 캣테일: 능력 쿨타임 절반 감소 및 능력 범위가 0.5 타일 증가합니다."
+            "name": "Arcane Prowess",
+            "desc": "Mesmer Cattail: Ability CD Halved, Ability radius +0.5 tiles"
         },
         "41": {
-            "name": "사랑의 기억",
-            "desc": "큐어 챠밍 캣테일: 큐어 챠밍 캣테일의 능력으로 매혹된 좀비는 물어뜯을 때 피해 감소를 무시하는 추가 30%의 고정 피해를 입힙니다."
+            "name": "Lovebite",
+            "desc": "Mesmer Cattail: Hypnotized zombies spawned by her ability deal an additional 30% true damage that ignores damage reduction when biting"
         },
         "42": {
-            "name": "바람의 화신",
-            "desc": "타이푼 킹 블로버: 어지러움 효과의 대미지가 20% 증가하며, 방어 수치를 10만큼 감소 시킵니다."
+            "name": "Weathering Gale",
+            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduces DR value by 10"
         },
         "43": {
-            "name": "태풍",
-            "desc": "타이푼 킹 블로버: 블로버 생산 주기가 3초로 감소합니다."
+            "name": "Swift Winds",
+            "desc": "Quetzalcoatl Blover: Blover spawning CD 10s → 3s"
         },
         "1000": {
-            "name": "빠른 손놀림",
-            "desc": "장갑의 쿨타임 10초 감소 및 식물 장갑은 쿨타임이 사라지며, 좀비 장갑은 이제 연옥 보스 좀비를 옮길 수 있습니다."
+            "name": "Quick Hands",
+            "desc": "Gloves' cooldown is reduced by 10s (No CD for the plant Glove), and can now move Mini-bosses"
         },
         "1001": {
-            "name": "홀로그램 냉각",
-            "desc": "모든 식물의 쿨타임이 절반으로 감소합니다."
+            "name": "Backup Supply",
+            "desc": "All Plants' recharge is halved"
         },
         "1002": {
-            "name": "큰1태양을 벌거야",
-            "desc": "각 태양의 가치가 원래 대비 150%가 됩니다. | 5 → 15 → 25 → 50 → 75"
+            "name": "Abundant Sun",
+            "desc": "Each Sun now gives more value | 5 → 15 → 25 → 50 → 75"
         },
         "1003": {
-            "name": "신속한 준비",
-            "desc": "장갑은 쿨타임이 절반으로 감소하며, 좀비 장갑은 이제 연옥 보스 좀비를 이동할 수 있습니다."
+            "name": "Dexterity",
+            "desc": "Gloves' cooldown is halved, and can now move Mini-bosses"
         },
         "1004": {
-            "name": "복사의 달인",
-            "desc": "따라쟁이의 쿨타임이 50초로 감소합니다."
+            "name": "Fast Copy",
+            "desc": "Imitater's Recharge: 5mins → 50s"
         },
         "1005": {
-            "name": "깡!",
-            "desc": "나무 망치의 쿨타임이 6초로 감소합니다."
+            "name": "Hammer Time",
+            "desc": "Mallet's cooldown is reduced to 6s"
         },
         "1006": {
-            "name": "4차원보관소",
-            "desc": "이제 맵 플레이 도중에 식물을 다시 선택할 수 있습니다."
+            "name": "Flexible Loadout",
+            "desc": "You now have the option to re-pick your Plant Loadout during the game"
         },
         "1007": {
-            "name": "치명타",
-            "desc": "좀비가 1800 이상의 대미지를 받을 때, 1800의 대미지를 추가로 받습니다. (대미지 감소 이후)"
+            "name": "Coup de Grâce",
+            "desc": "Zombies take an additional 1800 damage when they take more than 1800 damage (after damage reduction)"
         },
         "1008": {
-            "name": "강력한 타격",
-            "desc": "식물이 주는 대미지가 20% 증가합니다."
+            "name": "Strength",
+            "desc": "Plants' Damage is increased by 20%"
         },
         "1009": {
-            "name": "정밀 타격",
-            "desc": "좀비가 받는 대미지가 20% 증가합니다."
+            "name": "Sundering Smite",
+            "desc": "Zombies receive 20% more damage"
         },
         "1010": {
-            "name": "합리적인 투자",
-            "desc": "리롤 기회 2번 추가"
+            "name": "Resourcefulness",
+            "desc": "Modifier reroll times +2"
         },
         "1011": {
-            "name": "꽁꽁 언 얼음",
-            "desc": "모든 좀비의 빙결 시간이 25% 증가하고, 둔화로 인한 속도 감소가 10% 증가합니다."
+            "name": "Cryostasis",
+            "desc": "The freeze time of all zombies is increased by 25%, and the slow rate from chill is increased by 10%"
         },
         "1012": {
-            "name": "태양 창고",
-            "desc": "즉시 3000 태양을 획득하고, 그 후 현재 보유한 태양을 200% 증가시킵니다. | 보유할 수 있는 태양의 상한이 100,000으로 증가합니다."
+            "name": "Solar Reserve",
+            "desc": "Gain 3000 Sun, then double your total amount of Sun after | Sun Cap 50k → 100k"
         },
         "1013": {
-            "name": "진정한 체리 폭탄",
-            "desc": "진정한 체리 폭탄: 다음 3라운드동안 식물의 폭발성 체리 투사체의 폭발이 체리 폭탄과 같은 폭발로 업그레이드 됩니다."
+            "name": "Cherry on Top",
+            "desc": "True Cherry Bomb: Explosive cherries will now deal at least 1800 damage and cause Cremator damage"
         },
         "1014": {
-            "name": "식물분리기",
-            "desc": "장갑으로 조합 식물을 선택한 상태에서 한 번 더 클릭하면 조합 전 상태로 분리됩니다. (500 태양 소모) | 쿨타임 20초"
+            "name": "Recycling",
+            "desc": "Clicking on the same plant when you have it on your Glove will disassemble it at the cost of 500 Sun | 20s cooldown"
         },
         "1015": {
-            "name": "연결점",
-            "desc": "동일한 식물 두 개를 위아래로 배치하면(동일한 열에 인접하게 배치), 해당 식물들은 50%의 피해량 보너스를 얻고 50%의 피해량 감소 효과를 받습니다."
+            "name": "Phalanx",
+            "desc": "When two identical plants are placed one above the other (adjacent in the same column), they gain a 50% damage bonus and a 50% damage reduction"
         },
         "1016": {
-            "name": "아군이 된 적",
-            "desc": "매혹된 좀비는 500% 대미지 증가 효과와 80% 대미지 감소 효과를 얻습니다. (경고: 여왕/체리 여왕 버섯으로 소환된 신문지 체리슈터류 좀비는 소환 시 더 이상 폭주 상태로 나오지 않습니다!!)"
+            "name": "Revitalizing Charm",
+            "desc": "Hypnotized zombies gain a 500% damage buff and 80% damage reduction (WARNING: Also causes Cherry Newspaper Zombies from Empress/Enchantress-shroom to not lose their newspaper on summon!!)"
         },
         "1017": {
-            "name": "운석샤워",
-            "desc": "모든 메테오의 공격 쿨타임이 50% 감소합니다. | 심어진 중성자 스타푸르츠 하나당, 대미지가 150 증가합니다."
+            "name": "Cosmic Cascade",
+            "desc": "All Meteors' attack cooldowns are halved | Base Meteor DMG increased by 300 for every Magnetar in the field"
         },
         "1018": {
-            "name": "빛 속으로 돌아오세요",
-            "desc": "현재 맵의 빛 레벨 수치를 4 레벨로 설정됩니다."
+            "name": "Enlightenment",
+            "desc": "Adds 4 Lumos Levels for the entire field"
         },
         "1019": {
-            "name": "시한폭탄",
-            "desc": "매혹된 좀비가 죽을 때 폭발하여 주변 좀비들에게 자신 최대 체력의 150%에 해당하는 대미지를 입힙니다."
+            "name": "Blaze of Glory",
+            "desc": "When hypnotized zombies die, they explode, dealing damage equal to 150% of their max HP to nearby zombies"
         },
         "1020": {
-            "name": "먹다 남은 비료",
-            "desc": "식물이 회복된 후, 다음 3초 동안 매초 현재 체력의 5%만큼 회복됩니다 (증첩 불가)."
+            "name": "Second Wind",
+            "desc": "After a plant is healed, they heal for 5% of their current health per second for the next 3 seconds (unstackable)"
         },
         "1021": {
-            "name": "재생력",
-            "desc": "식물은 20%의 회복 보너스를 얻습니다."
+            "name": "Healing Boost",
+            "desc": "Plants gain a 20% healing bonus"
         },
         "2000": {
-            "name": "진정한 파멸 버섯",
-            "desc": "진정한 파멸 버섯: 다음 3라운드동안 식물의 파멸 탄환, 파멸 콩 투사체의 폭발이 파멸 버섯과 같은 폭발로 업그레이드 됩니다."
+            "name": "Doomsday",
+            "desc": "True Doom-shroom: Doom Shells will now release a craterless Doom-shroom explosion upon impact"
         },
         "2001": {
-            "name": "네가 보는대로인 열",
-            "desc": "열 심기 활성화"
+            "name": "Line Formation",
+            "desc": "Enable Column Planting"
         },
         "2002": {
-            "name": "업그레이드",
-            "desc": "업그레이드가 가능한 상위종 버프 1개를 업그레이드할 수 있습니다."
+            "name": "Transcendence",
+            "desc": "You can upgrade 1 upgradable Epic Modifier"
         },
         "2003": {
-            "name": "절대 권력",
-            "desc": "맵에서 가장 높은 누적 대미지을 기록한 식물 유형은, 공격 시 원래 대미지의 30%를 고정 피해로 추가 입힙니다."
+            "name": "Apex Defender",
+            "desc": "If a Plant Type has dealt the highest total damage on the field, its attacks deal an extra 30% of original damage as true damage"
         },
         "2004": {
-            "name": "탄막지옥",
-            "desc": "식물이 투사체를 50회(곡사형은 25회) 발사한 후, 식물들은 1초간 공격 쿨타임이 사라집니다."
+            "name": "Trigger Happy",
+            "desc": "After firing 50 times (25 for catapults), plants gain an unlimited attack speed for 1s"
         },
         "2005": {
-            "name": "흡혈귀",
-            "desc": "식물들이 1%의 생명력 흡수 효과를 얻으며, 이 효과는 필드에서 체력 비율이 가장 낮은 식물에게 적용됩니다."
+            "name": "Life Steal",
+            "desc": "Plants gain 1% life steal, applied to the plant with the lowest HP percentage on the field"
         },
         "2006": {
-            "name": "과부하",
-            "desc": "좀비가 일정 시간 동안 피해를 입지 않으면, 다음에 받는 공격은 크게 증가합니다."
+            "name": "Ambush Tactics",
+            "desc": "The longer since a zombie was last damaged, the more damage it takes from the next hit. <1s: Damage * (1 + 9t); ≥1s: Damage * (10 + 9ln(t))"
         },
         "2007": {
-            "name": "광전사의 가호",
-            "desc": "광전사의 가호를 얻었습니다: 좀비가 피해를 입을 때마다 다음에 받는 피해량이 5%씩 증가합니다 (중첩 가능)."
+            "name": "Corrupting Touch",
+            "desc": "All zombies are now under the Corruption effect: each time a zombie is damaged, the next instance of damage to that zombie is increased by 5% (stacks infinitely)"
         },
         "2008": {
-            "name": "정화",
-            "desc": "버프 보기 메뉴에서 연옥 보스를 제외한 좀비 버프를 하나 제거할 수 있습니다."
+            "name": "Purification",
+            "desc": "You can remove 1 non-mini-boss Zombie Modifier from the View Modifier menu"
         },
         "3000": {
-            "name": "둘은 단단하지만 최강",
-            "desc": "체리질라 & 흑요석 키다리 호두 시너지 버프: 체리질라와 흑요석 키다리 호두(또는 아종들)가 동시에 존재할 경우, 체리질라와 갈릭질라은 체력 상한이 없어지며, 흑요석 키다리 호두와 아종은 90% 대미지 감소 효과를 얻습니다."
+            "name": "Eternal Bulwark",
+            "desc": "When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine gains a 90% damage reduction"
         },
         "3001": {
-            "name": "별이 신들과 함께",
-            "desc": "중성자 스타푸르츠 & 천상의 양배추 시너지 버프: 중성자 스타푸르츠와 천상의 양배추가 최소 10개 이상 심어져 있을 경우, 중성자 스타푸르츠는 15초마다 1250 태양을 생성하는 태양 메테오도 추가로 떨구기 시작합니다. 해당 메테오는 중성자 스타푸르츠와 천상의 양배추의 수만큼 피해량이 증가합니다."
+            "name": "Astral Convergence",
+            "desc": "If there are at least 10 Magnetars and 10 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors"
         },
         "3002": {
-            "name": "풀 화력",
-            "desc": "체리 개틀링 & 스쿼시 지옥불나무 시너지 버프: 체리 개틀링와 스쿼시 지옥불나무(의 아종 포함)가 동시에 존재할 때, 체리 개틀링은 이제 더 많은 체리를 쏘며 스쿼시 지옥불나무와 아종은 스파이시 스쿼시를 생산할 공간이 없을 시 모든 줄을 불태웁니다."
+            "name": "Total Firepower",
+            "desc": "Gatling Cherrybomber now spreads its shots evenly across three lanes with sine and cosine trajectories, and Infernal Squashwood and its subspecies triggers a full-field Jalapeno effect if it can't plant a Spicy plant"
         },
         "3003": {
-            "name": "별과 달의 수호",
-            "desc": "중성자 스타푸르츠 & 월광의 양배추 시너지 버프: 중성자 스타푸르츠와 월광의 양배추가 최소 10개 이상 심어져 있을 경우,  월광의 양배추의 소형 달이 더 이상 사라지지 않습니다. 각 중성자 스타푸르츠와 월광의 양배추 소형 달에다 광선을 집중시키고, 이를 통해 하나의 집중된 광선으로 합쳐집니다. 광선은 항상 최대 체력이 가장 높은 좀비를 추적합니다."
+            "name": "Celestial Beacon",
+            "desc": "When there are at least 10 Magnetars and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each Magnetar and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP"
         },
         "3004": {
-            "name": "성운과 블랙홀의 소동",
-            "desc": "퀀텀 옥수수 & 네뷸라 멜론 시너지 버프: 이제 네뷸라 멜론의 성운 균열에서 떨어지는 네뷸라 멜론은 이제 600%의 피해를 주고 블랙홀을 생성하며, 퀀텀 옥수수는 항상 궁극의 블랙홀을 던집니다. 궁극의 블랙홀이 붕괴하면 모든 블랙홀이 폭발하여 자체 대미지가 더욱 증가합니다."
+            "name": "Event Horizon",
+            "desc": "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Cosmo-pult always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage"
         },
         "3005": {
-            "name": "힘은 희망을 준다",
-            "desc": "화산 옥수수 대포 & 태양 대제 호두 시너지 버프: 장갑로 불꽃 대제 호두를 잡은 상태에서 재장전된 화산 옥수수 대포를 클릭하면, 필드 위의 모든 재장전된 화산 옥수수 대포가 하늘을 향해 협동 공격을 펼칩니다. 불꽃 호두 포탄이 8발 발사될 때마다 불꽃 호두 메테오가 떨어져 800%의 피해를 입히고 화면의 모든 좀비를 전멸시킵니다."
+            "name": "Heaven's Wrath",
+            "desc": "Click on a reloaded Vulcannon while holding an Epic Twin Inferno-nut with the Glove to make all reloaded Vulcannon on the field perform a synergized attack towards the sky. Every 8th Inferno Shell shot calls down an Inferno Meteor dealing 80× damage, decimating all zombies on the screen"
         },
         "3006": {
-            "name": "폭주하는 화력",
-            "desc": "체리 개틀링 드론 & 폭주 개틀링 버섯 시너지 버프: 체리 개틀링 드론이 폭주 개틀링 버섯 위에 배치되면, 공격을 더 많이 할수록 다음 일제 사격에서 더 많은 투사체를 발사합니다. 이 보너스는 공격을 중단하면 점차 감소합니다. (경고: 화면을 가득 채울 정도로 엄청난 양의 투사체가 생성될 수 있습니다!!)"
+            "name": "Bullet Hell",
+            "desc": "When Cherrybomber Drone is placed above Epic Gatling Frenzy-shroom, the more they attack, the more bullets they fire in the next volley. This bonus decays after they stop attacking. (WARNING: Will lead to cancerous amounts of projectiles!!)"
         },
         "3007": {
-            "name": "초신성 폭발",
-            "desc": "망각 플랜턴 & 폴룩스 스플릿슈터 시너지 버프: 폴룩스 스플릿슈터는 전방에 있는 모든 망각 플랜턴을 조준하여(클릭하여 선택) 충전할 수 있습니다. 에너지가 10000를 초과하면 밝기가 증가하며, 범위 내의 좀비들에게 강력한 대미지를 입히고 속도를 늦춥니다. 1000000에 도달하면 블랙홀로 붕괴하며 폭발하여 화면상의 모든 좀비를 초토화합니다. (경고: 광과민성 점멸 효과 포함)"
+            "name": "Ultranova",
+            "desc": "Photon Splitter can lock onto any Atomheart Plantern ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (WARNING: Contains flashing lights)"
         },
         "3008": {
-            "name": "<size=80%>꽁꽁 얼어붙은 좀비 위로 위더가 날아다닙니다",
-            "desc": "꼬마 위더 펄트 & 빙하 개틀링 버섯 시너지 버프: 꼬마 위더 펄트와 빙하 개틀링 버섯이 같은 타일에 심어지면, 빙하 개틀링 버섯의 투사체가 한 번 더 추가로 분열합니다. 두 식물의 일반 투사체와 특수 투사체는 서로의 공격 속성을 일부 계승합니다. (경고: 렉을 유발할 수 있습니다)"
+            "name": "Little Miracle",
+            "desc": "When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (WARNING: Will cause lag)"
         },
         "3009": {
-            "name": "불과 얼음의 힘",
-            "desc": "파멸자 버섯 & 네이팜 버섯 시너지 버프: 파멸자 버섯은 이제 흑요석 키다리 호두 파수꾼 좀비를 생성하며, 네이팜 버섯의 주 투사체는 흑요석 멜론 한 개로 추가 분열됩니다. 이 멜론은 원래 공격력과 동일한 범위 피해를 입히며, 맵에 있는 얼음 및 화염 식물 한 개당 피해가 200%로 증가합니다. 또한 화염과 빙결 디버프 간의 시너지 효과가 해제됩니다."
+            "name": "Elemental Fury",
+            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which doubles for each ice and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
         },
         "4000": {
-            "name": "아군: 거대해머",
-            "desc": "꼬마 흑요석 가르강튀아를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 이 친구의 망치 공격은 주변의 식물과 좀비에게 피해를 주고, 영향을 받는 식물에게는 피해 감소 효과를 부여하며, 주변 식물의 체력에 비례하여 좀비에게 더 큰 피해를 줍니다. 망치 효과는 경험치 레벨에 따라 증가합니다."
+            "name": "Abyssal Chibi",
+            "desc": "Summons an Abyssal Chibi to fight for you (replaces current Pet). His hammer smash damages both nearby plants and zombies, grants damage reduction to affected plants, and deals increased damage to zombies based on nearby plants' HP. Hammer effects scale with XP level."
         },
         "4001": {
-            "name": "아군: 세이프티",
-            "desc": "꼬마 미식축구 호두를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 3초마다 꼬마 미식축구 호두는 체력 비율이 가장 낮은 식물로 이동하여 주변 식물을 회복시키고 좀비가 받는 피해량을 증가시키는 버프를 부여합니다. 버프 효과는 경험치 레벨에 따라 증가합니다. 만약 연옥 보스인 기가 미식축구 스트라이커가 맵에 있다면, 회복 대신 식물 회복량의 30%에 해당하는 보호막을 부여해줍니다."
+            "name": "Striker Junior",
+            "desc": "Summons a Striker Junior to fight for you (replaces current Pet). Every 3s, he moves to the plant with the lowest HP percentage and rallies the area, healing nearby plants and increasing damage taken by zombies. Rally effects scale with xp level"
         },
         "4002": {
-            "name": "아군: 만년설의 공주님!",
-            "desc": "꼬마 설원의 공주를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 그녀는 체력이 가장 높은 좀비를 목표로 고드름 투사체를 발사합니다. 대미지는 빙결되거나 둔화된 좀비의 수에 비례하여 증가하며, 설원의 여왕이 맵에 있을 경우 무제한 관통 및 추가 경험치를 얻습니다. 투사체 피해량은 경험치 레벨에 따라 증가합니다."
+            "name": "Prototype Iceborg",
+            "desc": "Summons a Prototype Iceborg to fight for you (replaces current Pet). She targets the highest-HP lane and fires ice projectiles. Damage increases based on the number of chilled/frozen zombies, and gains infinite pierce & bonus xp if the Iceborg Executrix is on the field. Projectile damage scale with xp level"
         },
         "4003": {
-            "name": "아군: 프레젠트",
-            "desc": "꼬마 광대 공주를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 15초마다 그녀는 무작위 공격을 수행합니다. 각 라인에 매혹된 고레벨 광대왕 좀비를 소환하거나 깜짝 상자(라인 전체 또는 전체)를 던집니다. 폭발 피해량은 경험치 레벨에 따라 증가합니다."
+            "name": "Baby Jill",
+            "desc": "Summons a Baby Jill to fight for you (replaces current Pet). Every 15s, she performs a random attack: summons high-tier hypnotized Clown-in-the-Box zombies per lane or throws out explosives (lane-wide or global). Explosion damage scales with xp level"
         },
         "4004": {
-            "name": "아군: 넵튠 트라이던트",
-            "desc": "꼬마 트리톤 호두를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 5초마다 전방으로 삼지창을 던지며, 삼지창은 좀비를 관통하고 폭발하며 피해를 입힙니다. 만약 연옥 보스인 포제이돈이 맵에 있다면, 10초마다 삼지창 4개를 대신 던집니다."
+            "name": "Mini Pozeidon",
+            "desc": "Summons a Mini Pozeidon to fight for you (replaces current Pet). Every 5s, he throws his trident ahead, which pierces and damages zombies with explosions. If the mini-boss Pozeidon is present, throws 4 tridents in each lane every 10s instead"
         },
         "4005": {
-            "name": "아군: 혼연일체",
-            "desc": "꼬마 해골마 대장을 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 전방으로 양동이 콩을 고속 발사하며, 20초마다 꼬마 군마 대열을 소환하여 좀비들을 향해 돌격시키고 적중한 좀비들을 좀비 영혼으로 만듭니다. 만약 연옥 보스인 기가 해골군마 사령관이 맵에 있다면, 소환 쿨타임이 절반으로 감소합니다. (주의: 상당한 렉 유발!!)"
+            "name": "Young Duke",
+            "desc": "Summons a Young Duke to fight for you (replaces current Pet). Rapidly fires iron pea bullets forward, and every 20 seconds she summons a column of mini warhorses to charge at the zombies and create Zombie Souls of the ones they hit. If the mini-boss Archduke Deathrider is present, her summoning interval is halved. (WARNING: Will cause MASSIVE lag!!)"
         },
         "4006": {
-            "name": "아군: <s>삶은 황금빛 알</s>",
-            "desc": "임프 황금알보트를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 10초마다 레벨에 따라 일정 수의 좀비를 치킨 좀키 또는 메카 치킨 좀키로 변형시킵니다. 만약 연옥 보스인 임프 제왕선이 맵에 있다면, 최대 변형 수가 200%로 증가합니다."
+            "name": "Imperor Hatchling",
+            "desc": "Summons an Imperor Hatchling to fight for you (replaces current Pet). Every 10 seconds, he will transform a certain number of zombies (based on XP level) into Chicken Jockey or Hydrofowl Zombies. If the mini-boss Imperor's Ark of the Duck is present, the maximum number of transformations is doubled."
         },
         "4007": {
-            "name": "아군: 나사 빠진 기계고기",
-            "desc": "피쉬트론 Jr.를 소환하여 아군으로 싸우게 합니다. (이미 아군이 있을 경우 현재 아군과 대체됩니다.) 매혹된 좀플린류 좀비들의 깜짝 상자 폭발 대미지를 900/2700/8100만큼 증가시키며, 1.5초마다 좀비들에게 폭발성 나사를 발사합니다 (매 3번째 공격은 모든 라인에 발사됩니다). 만약 연옥 보스인 기가 하늘의 파수꾼이 맵에 있다면, 공격 쿨타임이 절반으로 감소합니다."
+            "name": "Skyglider Mecha",
+            "desc": "Summons a Skyglider Mecha to fight for you (replaces current Pet). Increases damage from plant-side Jack-in-the-Box explosions, and fires an explosive at zombies every 1.5s (every 3rd attack is fired across each row). If the mini-boss Skystrider Mecha is present, the pet's attack interval is halved."
         },
         "5000": {
-            "name": "거인 슬레이어",
-            "desc": "연옥 보스 좀비와 보스 좀비에게 100%의 추가 대미지를 줄 수 있습니다."
+            "name": "Goliath Slayer",
+            "desc": "Plants deal +100% to Mini-bosses and Bosses"
         },
         "5001": {
-            "name": "저주의 힘",
-            "desc": "가지고 있는 좀비 버프 1개 당 식물의 대미지가 5% 증가합니다."
+            "name": "Adverse Adaptation",
+            "desc": "Plants gain a 5% damage bonus for every Zombie Modifier you have"
         },
         "5002": {
-            "name": "라그나로크",
-            "desc": "검의 현자 스타푸르츠 해금"
+            "name": "Divine Blade",
+            "desc": "Unlock Swordsage Starfruit"
         },
         "5003": {
-            "name": "양날의 검",
-            "desc": "식물은 100%의 추가 대미지를 줄 수 있지만 400% 대미지를 받게됩니다."
+            "name": "Curse of Envy",
+            "desc": "Plants deal ×2 damage but receive ×4 damage"
         },
         "5004": {
-            "name": "탐욕의 저주",
-            "desc": "식물 쿨타임이 없어지지만 식물을 심을 때 식물의 가격 × 15 + 현재 보유 태양량의 50%를 소비하게 됩니다."
+            "name": "Curse of Greed",
+            "desc": "Seed packets no longer need recharge but each use costs 15× their base Sun + 50% of the player's current Sun"
         },
         "6000": {
-            "name": "백업 에너지",
-            "desc": "잔디깍이: 최종 대미지 +200%, 공격 속도 +300%"
+            "name": "Final Frontier",
+            "desc": "Lawnmowers: Final damage +200%, Attack speed +300%"
         },
         "6001": {
-            "name": "체리질라 마스터 1",
-            "desc": "체리질라 마스터 1: 회복량 +100%"
+            "name": "Cherrizilla Mastery I",
+            "desc": "Cherrizilla: Healing Power +100%"
         },
         "6002": {
-            "name": "체리질라 마스터 2",
-            "desc": "체리질라 마스터 2: 대미지 +50%"
+            "name": "Cherrizilla Mastery II",
+            "desc": "Cherrizilla: Attack Damage +50%"
         },
         "6003": {
-            "name": "체리 개틀링 마스터 1",
-            "desc": "체리 개틀링 마스터 1: 투사체 폭발 범위 +50%, 대미지 +100%"
+            "name": "Gatling Cherrybomber Mastery I",
+            "desc": "Gatling Cherrybomber: Cherry and other variants of projectiles' explosion radius +50% and damage +100%"
         },
         "6004": {
-            "name": "체리 개틀링 마스터 2",
-            "desc": "체리 개틀링 마스터 2: 투사체 폭발 범위 -50%  대미지 +300%"
+            "name": "Gatling Cherrybomber Mastery II",
+            "desc": "Gatling Cherrybomber: Cherry and other variants of projectiles' explosion radius -50%  but damage +300%"
         },
         "6005": {
-            "name": "파멸자 버섯 마스터 1",
-            "desc": "파멸자 버섯 마스터 1: 빙결된 좀비는 50% 더 많은 피해를 입습니다."
+            "name": "Doominator Mastery I",
+            "desc": "Doominator: Frozen zombies take +50% more damage"
         },
         "6006": {
-            "name": "파멸자 버섯 마스터 2",
-            "desc": "파멸자 버섯 마스터 2: 매혹된 좀비의 대미지가 200% 증가합니다."
+            "name": "Doominator Mastery II",
+            "desc": "Doominator: Hypnotized zombies deal 3× damage"
         },
         "6007": {
-            "name": "스쿼시 지옥불나무 마스터 1",
-            "desc": "스쿼시 지옥불나무 마스터 1: 할라피뇨 효과가 즉시 피해에서 지속피해로 바뀌며 총 피해량이 크게 증가합니다."
+            "name": "Infernal Squashwood Mastery I",
+            "desc": "Infernal Squashwood: Jalapeno effect changes from instant to DoT, dealing 1/3 the original damage 10 times within 1s"
         },
         "6008": {
-            "name": "스쿼시 지옥불나무 마스터 2",
-            "desc": "스쿼시 지옥불나무 마스터 2: 투사체가 점화되기 전에 +50%의 대미지를 부여합니다."
+            "name": "Infernal Squashwood Mastery II:",
+            "desc": "Infernal Squashwood: Grants projectiles +50% damage before igniting them"
         },
         "6009": {
-            "name": "보호장치",
-            "desc": "다섯 번째 열에 있는 식물은 최대 체력의 50%만큼 받는 피해 한도와 50%의 피해 감소 효과를 얻습니다. 왼쪽 열마다 피해 한도가 10%씩 감소하고, 피해 감소 효과가 10%씩 증가합니다."
+            "name": "Backline Bastion",
+            "desc": "Plants in the fifth column get 50% increased maximum Toughness and 50% damage reduction. Each column to the left reduces damage cap by 10% and increases damage reduction by 10%"
         },
         "10000": {
-            "name": "햇빛은 쨍쨍",
-            "desc": "즉시 100000 태양 획득 | 태양 보유 한도 +100000"
+            "name": "Solar Grace",
+            "desc": "Immediately gain 100k Sun | Sun Cap +100k"
         },
         "10001": {
-            "name": "메카 실드",
-            "desc": "즉시 체력 1000000으로 시작하는 기가 메카 호두 시드패킷 2개 획득합니다."
+            "name": "Giga Guardian",
+            "desc": "Immediately gain 2 Giga Mecha-nut seed packets which start with 1M HP"
         },
         "10002": {
-            "name": "슈퍼 마스터",
-            "desc": "무작위 식물 (1+n)개를 1 티어로 업그레이드합니다. (n은 현재 보유한 식물 특성 개수)"
+            "name": "Instant Promotion",
+            "desc": "Upgrade (1+n) random plants to Tier 1, where n is the number of Plant modifiers you currently have"
         },
         "10003": {
-            "name": "속도가 유일한 길",
-            "desc": "무작위 식물 (1+n)개의 속도 증가합니다. (n은 현재 보유한 식물 특성 개수)"
+            "name": "Accelerator",
+            "desc": "Increase the speed of (1+n) random plants, where n is the number of Plant modifiers you currently have"
         },
         "10004": {
-            "name": "불사의 토템",
-            "desc": "[불사의 토템] 버프를 얻습니다. 다음번에 좀비가 집에 도달하면 3초간 무시하며 모든 좀비를 시작 지점으로 밀쳐냅니다."
+            "name": "Totem of Undying",
+            "desc": "The next time zombies reach the house, it is ignored for 3s and knock all zombies back to the start"
         },
         "10005": {
-            "name": "아낌없이 주는 나무",
-            "desc": "모든 상위종 오디세이 퓨전 식물의 시드패킷 획득 (아종 제외)"
+            "name": "Supply Drop",
+            "desc": "Obtain a Pumpkin Chest that has many seed packets for Epic Odyssey Fusions (no Subspecies)"
         },
         "10006": {
-            "name": "규칙의 힘",
-            "desc": "모든 좀비를 시작 지점으로 밀쳐낸 뒤 즉시 처치합니다."
+            "name": "Deus Ex Machina",
+            "desc": "Knock all zombies back to the start, then instantly defeat all zombies"
         },
         "10007": {
-            "name": "영웅의 등장",
-            "desc": "대미지와 체력 +1500%, 속도 +1000% 강화된 백설 특전사 및 추가 위칠리 콩을 얻습니다"
+            "name": "Winter's Chosen One",
+            "desc": "Gain a Super Blizzard Commando with +1500% damage and HP, +1000% speed, and gain an extra Coldsnap Bean"
         },
         "10008": {
-            "name": "전투력 상승",
-            "desc": "무작위 오디세이 식물 획득. 새로운 좀비 웨이브마다 대미지 +25%, 체력 +25%, 속도 +10% 증가합니다."
+            "name": "Heat Riser",
+            "desc": "Gain a random Odyssey plant. Each new zombie wave, it gains +25% damage, +25% HP, and +10% speed"
         },
         "10009": {
-            "name": "부패 계약",
-            "desc": "망각 버섯 시드패킷 획득. 심을 경우 다음 챌린지를 하게됩니다.:\n각 라인에 3-6마리의 무작위 오디세이 좀비 소환 (네, 가능한 모든 종류가 나옵니다)\n모두 처치 시 \"광전사의 가호\" 버프 해금됩니다."
+            "name": "Pact of Corruption",
+            "desc": "Gain a Shroomageddon seed packet. Planting it ACCEPTS the challenge:\nSummon 3-6 random Odyssey zombies in each lane (yeah, ALL possible ones)\nDefeat them all to unlock the Modifier \"Corrupting Touch\""
         },
         "10010": {
-            "name": "마지막 순간",
-            "desc": "모든 식물 공격 대미지 200% 증가합니다."
+            "name": "Limit Break",
+            "desc": "All plant attack damage ×2"
         },
         "10011": {
-            "name": "보호막",
-            "desc": "모든 식물이 초당 50 + (최대 체력의 2%)만큼의 보호막 획득합니다."
+            "name": "Force Shield",
+            "desc": "All plants gain 50 + (2% max HP) shield per second"
         },
         "10012": {
-            "name": "희생의 정신",
-            "desc": "[희생의 정신] 버프를 얻습니다. 필드에 식물이 20개 이상 있을 때 좀비가 집에 도달해도 게임 오버가 되지 않는 대신, 모든 식물이 1/3 확률로 즉사합니다."
+            "name": "The Last Ditch",
+            "desc": "When you have 20 or more plants on the field, zombies reaching the house no longer results in game over, but causes all plants to have 1/3 chance to die instead"
         },
         "10013": {
-            "name": "영웅 계약",
-            "desc": "기계 호박 시드패킷 획득. 심을 경우 다음 도전을 수락함:\n다음 20웨이브 동안 좀비 수 두 배 증가\n도전 성공 시 기계 호박 안에 있는 모든 식물이 3 티어로 승급됩니다."
+            "name": "Pact of Promotion",
+            "desc": "Gain an Omni Pumpkin seed packet. Planting it ACCEPTS the challenge:\nThe number of zombies in the next 20 waves are doubled\nGet through and all plants on the Omni Pumpkin's tile will be promoted to Tier 3"
         },
         "10014": {
-            "name": "잔디깍이 전문가",
-            "desc": "모든 잔디깎이를 발사하고 한 열의 잔디깎이를 전체 복구됩니다."
+            "name": "Lawn Sweeper",
+            "desc": "Unleash all current lawnmowers and restore one full column of them"
         },
         "10015": {
-            "name": "부활",
-            "desc": "집에 도달한 좀비를 1.5초 내에 처치하면 게임 오버가 되지 않습니다."
+            "name": "Delay of Fate",
+            "desc": "You will not game over if you manage to kill the zombie reaching your house within 1.5s"
         },
         "10016": {
-            "name": "5개 복사할게요",
-            "desc": "즉시 따라쟁이 시드패킷 5개 획득합니다."
+            "name": "Clone Army",
+            "desc": "Immediately gain 5 Imitater seed packets"
         },
         "10017": {
-            "name": "공생의 선물",
-            "desc": "어떤 식물이든 처음으로 두 번째 복사본을 얻을 때 해당 식물의 시드패킷을 추가로 1개 더 획득합니다."
+            "name": "Shared Roots",
+            "desc": "Upon gaining a second copy of any plant for the first time, you receive an additional seed packet of that plant"
         },
         "10018": {
-            "name": "용합 소환",
-            "desc": "장갑을 사용하여 식물을 동일한 종류와 티어의 식물 위로 옮기면 1등급 업그레이드됩니다."
+            "name": "Evolution Catalyst",
+            "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
         },
         "10019": {
-            "name": "재활용",
-            "desc": "즉시 황금 꽃병 10개 획득. 추가로 매 웨이브마다 1개, 플래그마다 5개씩 획득합니다."
+            "name": "Fortune Reforged",
+            "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
         },
         "11000": {
-            "name": "빠른 손수레",
-            "desc": "손수레의 쿨타임이 3초로 감소합니다."
+            "name": "Speedy Deployment",
+            "desc": "Level gimmick: Wheelbarrow's cooldown is reduced to 3 seconds"
         },
         "11001": {
-            "name": "즉각적인 성장",
-            "desc": "레벨 기믹: 열탕 버섯은 성장 단계 1000인 상태로 시작하게 됩니다."
+            "name": "Instant Growth",
+            "desc": "Level gimmick: Deucalion-shroom starts with 1000 Growth Stages"
         },
         "12000": {
-            "name": "더 강한 네이팜탄",
-            "desc": "네이팜 버섯: 네이팜 멜론이 지면에 닿을 때 추가로 작열 구역을 생성하며, 좀비에게 적중 시 최대 2번 더 분열할 수 있습니다."
+            "name": "Ascend: Inferno",
+            "desc": "Napalm-shroom's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies"
         },
         "12001": {
-            "name": "궁극의 빙열 숨결",
-            "desc": "아포콩리스 터렛: 빙염 숨결을 시전할 때, 각각 50회의 대미지를 입히는 빙염 숨결을 4회 추가로 방출합니다. 각 대미지는 범위 내의 무작위 좀비에게 자신의 대미지의 10000%에 해당하는 대미지를 입힙니다."
+            "name": "Ascend: Burst",
+            "desc": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's attack power to a random zombie in range"
         },
         "12002": {
-            "name": "항상 치명타",
-            "desc": "파멸 저격콩: 치명타가 이제 확정적으로 발동합니다."
+            "name": "Ascend: True Aim",
+            "desc": "Berserker Snipea's critical hit will now be guaranteed"
         },
         "12003": {
-            "name": "으깬 감자",
-            "desc": "삼발 지뢰슈터: 투사체가 이제 좀비에게 적중할 때 감자 지뢰 폭발을 일으킵니다."
+            "name": "Ascend: Blasting",
+            "desc": "Threepeatato-mine's projectiles will now trigger a Potato Mine explosion when hitting a zombie"
         },
         "12004": {
-            "name": "파멸의 먹방",
-            "desc": "파멸 먹깨비: 공격할 때, 좀비를 삼켰는지 여부와 관계없이 파멸 버섯 폭발을 일으킵니다. 만약 좀비를 삼켰다면, 파멸 버섯 폭발이 두 번 일어납니다."
+            "name": "Ascend: Doom",
+            "desc": "When Doom Chomper attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions"
         },
         "12005": {
-            "name": "익스플로전",
-            "desc": "망각 버섯: 처치될 때 1000000 대미지의 파멸 버섯 폭발을 일으킵니다."
+            "name": "Ascend: Oblivion",
+            "desc": "Shroomageddon releases a 1-million damage Doom-shroom explosion upon death"
         },
         "12006": {
-            "name": "빛의 방패",
-            "desc": "테슬라 우산잎: 에너지를 소모하여 3×3 범위 내의 좀비를 밀쳐낼 수 있으며, 일반 공격의 목표 수가 300%로 증가할 수 있습니다."
+            "name": "Ascend: Shield of Light",
+            "desc": "Pharos Umbrella can consume energy to knock back zombies in a 3×3 area and regular attacks can have ×3 targets"
         },
         "12007": {
-            "name": "블랙홀은 좀비를 삼켜",
-            "desc": "퀀텀 옥수수: 궁극의 블랙홀은 이제 최대 체력의 50% 미만인 좀비들을 끌어당깁니다."
+            "name": "Ascend: Gravity",
+            "desc": "Black holes will attract zombies with less than 50% max HP"
         },
         "12008": {
-            "name": "날아오르라 주작이여",
-            "desc": "피닉스 삼발슈터: 이제 모든 라인에다 투사체를 발사하며, 투사체는 무한히 관통합니다."
+            "name": "Ascend: Penetration",
+            "desc": "Phoenix Threepeater now shoots in all lanes and its projectiles pierce infinitely"
         },
         "12009": {
-            "name": "폭식의 입",
-            "desc": "거대 발광 먹깨비: 소화 후 유혹 범위가 대폭 증가합니다."
+            "name": "Ascend: The Maw",
+            "desc": "Tyrannoflora Lux attraction range after digestion is vastly increased"
         },
         "12010": {
-            "name": "혼돈의 광선",
-            "desc": "인접한 혼돈의 광선 2개가 주기적으로 소형 블랙홀 폭발을 일으켜 100%의 대미지를 줍니다."
+            "name": "Ascend: Chaos Beam",
+            "desc": "Adjacent 2 Celestial Beams releases mini black hole explosions periodically"
         },
         "12011": {
-            "name": "통통강철탄",
-            "desc": "양동이 버섯 소대: 더 이상 헤드샷을 가할 수 없지만, 투사체가 맵내 가장자리에서 최대 (관통 횟수 + 2)회까지 튕겨 나갑니다."
+            "name": "Ascend: Ricochet",
+            "desc": "Buck-shroom Squad can no longer headshot but projectiles ricochet on lawn edges (like Split Pea), up to (number of pierces + 2) times"
         },
         "12012": {
-            "name": "베테랑 좀비들",
-            "desc": "여왕 버섯: 이제 능력치가 크게 증가한 좀비들을 소환합니다."
+            "name": "Ascend: Veterancy",
+            "desc": "Empress-shroom now summons zombies with greatly increased stats"
         },
         "12013": {
-            "name": "크고 멋진 탄환",
-            "desc": "기가 미식축구 특전사: 궁극기 사용 중 훨씬 더 크고 강력한 투사체를 발사합니다."
+            "name": "Ascend: Density",
+            "desc": "Buckshot Commando shoots even larger, stronger projectiles during Ultimate Moves"
         },
         "12014": {
-            "name": "세상에서 가장 아픈 지압판",
-            "desc": "옵시디언락: 스파이크락류 식물 위에 있는 좀비들은 2초 동안 공격 대미지의 400%에 달하는 체력을 지속적으로 잃습니다."
+            "name": "Ascend: Hemorrhage",
+            "desc": "Zombies targeted by any Spikerock continuously lose HP equal to 400% the attack for 2s"
         },
         "12015": {
-            "name": "나의 펫, 죽순",
-            "desc": "혹한의 죽순은 이제 마우스 커서의 움직임을 따라갈 수 있으며, 공격 속도 업그레이드 시 이동 속도가 증가하고 경로에 있는 모든 좀비에게 대미지를 줍니다."
+            "name": "Ascend: Fortune",
+            "desc": "Soulrender Bamboo can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
         },
         "13000": {
-            "name": "폭발로부터 보호",
-            "desc": "좀비들의 깜짝 상자의 폭발 대미지가 1000으로 감소합니다"
+            "name": "Blast Protection",
+            "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
         }
     },
     "ultimateBuffs": {
         "0": {
-            "name": "뱀파이어",
-            "desc": "체리질라 & 갈릭질라: 체력 회복량 300%로 증가합니다."
+            "name": "Bloodlust",
+            "desc": "Cherrizilla & Garlizilla: HP Recovery ×3"
         },
         "1": {
-            "name": "고속 소화력",
-            "desc": "체리질라 & 갈릭질라: 소화시간이 15초로 줄어듭니다."
+            "name": "Voracity",
+            "desc": "Cherrizilla & Garlizilla: Devour CD reduced to 15s"
         },
         "2": {
-            "name": "오직 파워",
-            "desc": "체리 개틀링: 폭발성 체리의 대미지가 300% 증가합니다."
+            "name": "Megaton Blast",
+            "desc": "Gatling Cherrybomber: Explosive cherries from plants ×3 damage"
         },
         "3": {
-            "name": "고속 장전",
-            "desc": "체리 개틀링 & 체리 개틀링 드론: 공격 속도가 0.75초로 감소됩니다."
+            "name": "Rapid Reload",
+            "desc": "Gatling Cherrybomber & Cherrybomber Drone: Attack Speed +100%"
         },
         "4": {
-            "name": "등골이 오싹",
-            "desc": "파멸자 버섯: 대미지가 300% 증가합니다. | 파멸자 선인장과 파수꾼 좀비의 대미지가 300% 증가합니다."
+            "name": "Absolute Zero",
+            "desc": "Doominator: Attack speed ×3; Thornminator attack damage ×3; Iceclaw Zombie attack damage ×3"
         },
         "5": {
-            "name": "혹한기",
-            "desc": "파멸자 버섯: 빙결이 풀릴 시 해당 좀비의 최대 체력의 30%가 깎입니다."
+            "name": "Thermal Shock",
+            "desc": "Doominator: Zombies will take 30% of their current health as damage when unfrozen"
         },
         "6": {
-            "name": "호율이 2배",
-            "desc": "스쿼시 지옥불나무 & 지옥별나무: 매운 식물을 생성하는 데 필요한 투사체가 절반으로 감소합니다."
+            "name": "Efficiency",
+            "desc": "Infernal Squashwood & Sparkwood: Projectiles required to spawn a Spicy plant are halved"
         },
         "7": {
-            "name": "나 삐졌어",
-            "desc": "스쿼시 지옥불나무 & 지옥별나무: 매운 식물을 생산할 공간이 없을 경우, 대신 해당 줄을 불태웁니다."
+            "name": "Overheat",
+            "desc": "Infernal Squashwood & Sparkwood: Ignites the lane immediately when spawning a Spicy plant is not possible"
         },
         "8": {
-            "name": "유성우",
-            "desc": "중성자 스타푸르츠: 공격 속도가 0.5초로 감소합니다."
+            "name": "Meteor Storm",
+            "desc": "Magnetar: Attack Interval 1.5s → 0.5s"
         },
         "9": {
-            "name": "올스타 파워",
-            "desc": "중성자 스타푸르츠: 1 레벨: 기본 공격 대미지가 200% 증가하고, 대미지 상한이 3000으로 상향됩니다.\n2 레벨: 기본 공격 대미지가 300% 증가하고, 대미지 상한이 제거됩니다."
+            "name": "Syzygy",
+            "desc": "Magnetar: Lv1: Base damage ×2 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed"
         },
         "10": {
-            "name": "그리고 아무도 없었다",
-            "desc": "망각 버섯: 파괴 시 폭발 피해가 1000000 증가합니다. | 망각 플랜턴: 제거 될 시 10초동안 모든 식물의 빛 레벨을 30 높입니다."
+            "name": "Final Countdown",
+            "desc": "Shroomageddon: Explosion damage on death increased by 1M | Atomheart Plantern: Lumos boost on death ×3"
         },
         "11": {
-            "name": "폭발성 차단막",
-            "desc": "망각 버섯: 피해에 면역이 되지만, 너무 많은 피격을 막아내면 즉시 사망합니다. | 망각 플랜턴: 대미지가 300% 증가합니다."
+            "name": "Volatile Barrier",
+            "desc": "Shroomageddon: Becomes immune to damage, but dies instantly after blocking too many hits | Atomheart Plantern: Attack damage ×3"
         },
         "12": {
-            "name": "한놈도 빠질 순 없지",
-            "desc": "위더 펄트 & 꼬마 위더 펄트: 매 공격마다 확정으로 1라인의 모든 좀비를 향해 투사체를 투척합니다."
+            "name": "Perfect Pitch",
+            "desc": "Wither-pult & Rot-pult: Spread-fire is now guaranteed"
         },
         "13": {
-            "name": "급발작",
-            "desc": "위더 펄트 & 꼬마 위더 펄트: 1 레벨: 독 포인트가 부여되면 바로 중독하며, 포인트 상한이 해제될때 최고 120으로 상향됩니다.\n2 레벨: 독 포인트의 상한을 완전히 제거됩니다."
+            "name": "Toxic Overdose",
+            "desc": "Wither-pult & Rot-pult: Lv1: Stacking Poison points will immediately poison the zombie and Poison Value Cap → 120; Lv2: Poison Value Cap removed"
         },
         "14": {
-            "name": "그라운드 제로",
-            "desc": "망각 옥수수 대포: 메인 포탄의 대미지가 400% 증가합니다. | 망각 멜론 대포: 대미지가 400% 증가합니다."
+            "name": "Ground Zero",
+            "desc": "Cob-literator: Main Blast damage ×4 | Panmelonium: Damage ×4"
         },
         "15": {
-            "name": "시간이 금",
-            "desc": "망각 옥수수 대포 & 망각 멜론 대포: 재장전 시간이 12초로 감소합니다."
+            "name": "Artillery Battery",
+            "desc": "Cob-literator & Panmelonium: Reload Time 36s → 12s"
         },
         "16": {
-            "name": "세기의 방패",
-            "desc": "흑요석 키다리 호두 & 흑요석 지뢰: 이제 체력이 96000으로 높아집니다."
+            "name": "Eon Shell",
+            "desc": "Obsidian Tall-Nut & Obsidian Mine: Max HP Cap ×3"
         },
         "17": {
-            "name": "내가 맞아 줄게",
-            "desc": "흑요석 키다리 호두 & 흑요석 지뢰: 흑요석 키다리 호두의 왼쪽과 오른쪽의 식물이 받는 대미지를 흡수합니다."
+            "name": "Guardian Shield",
+            "desc": "Obsidian Tall-nut & Obsidian Mine: Can now absorb the damage directed to the plants directly to its left and right"
         },
         "18": {
-            "name": "다 구제하리",
-            "desc": "매혹트론 버섯: 체력 상한이 100%로 증가합니다. | 매혹트론 호박: 잡힌 매혹된 좀비에게 가하는 피해가 절반으로 줄어듭니다."
+            "name": "Savior's Benevolence",
+            "desc": "Charmatron: Hypnotization HP threshold increased from 60% to 100% | Pumpkaptivator: Damage to captured hypnotized Zombies halved"
         },
         "19": {
-            "name": "영구기관",
-            "desc": "매혹트론 버섯: 공격 속도가 1초가 되며, 충전 레벨은 2 미만으로 떨어지지 않으며, 금속 물체를 줄시 5분 동안 레벨 3까지 올릴 수 있습니다. | 매혹트론 호박: 충전 레벨 3 해금."
+            "name": "Ceaseless Rhythm",
+            "desc": "Charmatron: Attack Interval → 1s, Charge Level will not drop below 2 and can be fed metal to reach Charge Level 3 for 5 mins | Pumpkaptivator: Charge Level 3 unlocked"
         },
         "20": {
-            "name": "조충지",
-            "desc": "아포콩리스 터렛 & 아포콩리스 레일건: 대미지가 300% 증가합니다."
+            "name": "Heavy Ordinance",
+            "desc": "Apeacalypse Minigun & Railgun: Attack Power ×3"
         },
         "21": {
-            "name": "스파르타",
-            "desc": "아포콩리스 터렛: 1 레벨: 궁극기 사용 시 에너지 50000을 반환합니다. 2 레벨: 달성 시 빙염 숨결이 피해 감소를 무시하는 20% 추가 피해를 입힙니다. | 아포콩리스 레일건: 1 레벨: 체력이 감소함에 따라 방어력이 증가하고, 체력이 500 미만일 때 1000 미만의 피해에 면역이 됩니다. 2 레벨: 체력이 500 미만일 때 기본 피해량이 200%가 됩니다."
+            "name": "Desperation Drive",
+            "desc": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR | Apeacalypse Railgun: Lv1: Defense increases as HP decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2"
         },
         "22": {
-            "name": "금으로 물들어",
-            "desc": "천상의 양배추: 태양이 15000 초과시, 투사체에 초과량의 0.5%만큼 소비하여 소비량 x 20 만큼의 대미지를 추가합니다. | 월광의 양배추: 대미지가 빛 레벨당 300% 증가합니다."
+            "name": "Perihelion Surge",
+            "desc": "Helios Cabbage: When Sun exceeds 15k, each of Helios Cabbage's attacks consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent | Selene Cabbage: Damage increased by 3× per Lumos Level"
         },
         "23": {
-            "name": "인공 태양",
-            "desc": "천상의 양배추: 소형 태양의 대미지가 300% 증가합니다. | 월광의 양배추: 소형 달의 회복량이 300% 증가합니다."
+            "name": "Zenith Radiance",
+            "desc": "Helios Cabbage: Mini Sun deals 3× damage | Selene Cabbage: Mini Moon heals 3×"
         },
         "24": {
-            "name": "트리오",
-            "desc": "레이저 호박 & 체리 드론 호박: 소환되는 윙맨의 수가 3으로 증가합니다."
+            "name": "Trinity Strike",
+            "desc": "Laser & Blast Pumpkin: Wingmen Amount 1 → 3"
         },
         "25": {
-            "name": "고살상 레이저",
-            "desc": "레이저 호박: 윙맨과 드론의 대미지가 300% 증가합니다."
+            "name": "Air Supremacy",
+            "desc": "Laser Pumpkin: Wingmen and Drone DMG ×3"
         },
         "26": {
-            "name": "이리 한가해 쓰냐",
-            "desc": "네이팜 버섯 & 마그마 버섯: 대미지 누적 속도와 최대 장전 시간이 300% 증가합니다."
+            "name": "Overcharge",
+            "desc": "Napalm-shroom & Magma-shroom: Charging speed and max charge ×3"
         },
         "27": {
-            "name": "좀비가 용암에 빠졌습니다",
-            "desc": "네이팜 버섯: 작열 구역의 지속 시간이 5초(200% 더 길게)로 변경됩니다. | 마그마 버섯: 마그마 버터의 대미지가 300% 증가합니다."
+            "name": "Scorched Earth",
+            "desc": "Napalm-shroom: Inferno now lasts 5s (twice as long) | Magma-shroom: Magma Butter Damage ×3"
         },
         "28": {
-            "name": "준비는 충분히",
-            "desc": "억만 크라켄: 1000 포인트를 소지할 때마다 식물들의 대미지가 5% 증가합니다. (최대 300%)"
+            "name": "Treasure Hoard",
+            "desc": "Kelptain Goldbeard: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
         },
         "29": {
-            "name": "상품권",
-            "desc": "억만 크라켄: 오디세이 상점의 가격이 30% 할인됩니다."
+            "name": "Merchant's Favor",
+            "desc": "Kelptain Goldbeard: The Odyssey shop now has a 30% discount on Modifiers"
         },
         "30": {
-            "name": "끝 없는 탐욕",
-            "desc": "퀀텀 옥수수: 궁극의 블랙홀이 투사체로부터 전환하는 대미지가 60%에서 80%로 증가합니다. | 퀀텀 호두: 블랙홀이 활성화되어 있을 때 피해 감소 33%를 얻습니다."
+            "name": "Accretion Disk",
+            "desc": "Cosmo-pult: Ultimate Black Hole's damage conversion from projectiles 60% → 80% | Astro-nut: Gains 33% Damage Reduction when its Black Hole is active"
         },
         "31": {
-            "name": "시간 지연",
-            "desc": "퀀텀 옥수수 & 퀀텀 호두: 궁극의 블랙홀 지속 시간과 최대 지속 시간이 200%로 증가하며, 활성화 상태가 유지되는 동안 매초 대미지가 2%씩 증가합니다."
+            "name": "Temporal Dilation",
+            "desc": "Cosmo-pult & Astro-nut: Ultimate Black Hole's duration and maximum duration ×2 and its damage increases by 2% every second it remains active"
         },
         "32": {
-            "name": "만년날",
-            "desc": "혹한의 가문비슈터: 톱날의 지속 시간이 15초로 증가합니다.  | 혹한의 죽순: 이제 받는 대미지를 33%만 받습니다."
+            "name": "Enduring Edge",
+            "desc": "Lifereaver Spruce: Boreal reaper saws now last for 15s | Soulrender Bamboo: Now receives only 1/3 incoming damage"
         },
         "33": {
-            "name": "청춘이여 영원하리",
-            "desc": "혹한의 가문비슈터: 회복 시 더 이상 식물 수만큼 포인트가 깎이지 않습니다. | 혹한의 죽순: 체력 및 보호막 회복량이 200% 증가합니다."
+            "name": "Perennial Vitality",
+            "desc": "Lifereaver Spruce: Healing is no longer split among plants | Soulrender Bamboo: HP and Shield recovery ×2"
         },
         "34": {
-            "name": "심연의 입",
-            "desc": "거대 발광 먹깨비: 공격 범위가 200% 증가합니다."
+            "name": "Ravenous Reach",
+            "desc": "Tyrannoflora Lux: Attack Range ×2"
         },
         "35": {
-            "name": "눈부신",
-            "desc": "거대 발광 먹깨비: 소화하는 동안 5×5 범위 내의 식물의 빛 레벨을 2 증가시킵니다."
+            "name": "Luminous Feast",
+            "desc": "Tyrannoflora Lux: Provides 2 Lumos Level to a 5×5 area during digestion"
         },
         "36": {
-            "name": "슈퍼 팝콘",
-            "desc": "화산 옥수수 대포: 팝콘 폭발의 대미지가 5400으로 상향됩니다. | 화산 양배추 대포: 화염 양배추의 대미지가 300% 증가합니다."
+            "name": "Volcanic Havoc",
+            "desc": "Vulcannon: Volcanic Bombs Damage ×3 | Kaledera Eruptor: Pyro Cabbages Damage ×3"
         },
         "37": {
-            "name": "핵폭 오버로드",
-            "desc": "화산 옥수수 대포: 이제 포탄은 체리 폭탄이나 할라페뇨에 맞으면 열핵 폭발을 일으킵니다. | 화산 양배추 대포: 공격 시 체리 폭탄 또는 할라피뇨 효과가 10% 확률로 발동하며, 공격 대상 제한(10)이 해제됩니다."
+            "name": "Critical Mass",
+            "desc": "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos | Kaledera Eruptor: 10% chance to trigger Cherry Bomb and Jalapeno effects at the barrel position and ignore the target limit of 10"
         },
         "38": {
-            "name": "연쇄반응",
-            "desc": "솔라노바 공주: 태양탄 투사체가 좀비에게 맞으면 주변 투사체도 폭발하여 대미지의 10%를 입힙니다."
+            "name": "Combustion Cycle",
+            "desc": "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well"
         },
         "39": {
-            "name": "대용량",
-            "desc": "솔라노바 공주: 에너지 상한이 300% 증가, 태양 저장량이 300% 증가됩니다."
+            "name": "Power Bank",
+            "desc": "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3"
         },
         "40": {
-            "name": "집중 폭격",
-            "desc": "네뷸라 멜론: 처음 5초 동안 성운 균열은 체력이 가장 낮은 좀비에 집중하여 공격 범위를 대상 주위 3 라인으로 좁힙니다. | 네뷸라 버섯: 이제 포탈을 1쌍만 생성하지만, 포탈당 얼음 입자 줄기를 1000% 추가로 생성합니다."
+            "name": "Target Lock",
+            "desc": "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage | Fungularity: Now only creates one set of portals, but they spawn ×10 ice particle streams"
         },
         "41": {
-            "name": "집중력",
-            "desc": "네뷸라 멜론: 대미지 600% 증가 및 스플래시 범위가 50% 감소합니다. | 네뷸라 멜론 & 네뷸라 버섯: 시간분열에 면역인 좀비라도 (누적 시간)%에 해당하는 체력 비율 대미지를 입습니다."
+            "name": "Concentration",
+            "desc": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius | Maelonstrom & Fungularity: Zombies immune to Chronoshift will still take damage equal to (Elapsed Time)% of their HP"
         },
         "42": {
-            "name": "작열광선",
-            "desc": "작열 캣테일: 열광선 대미지 빈도가 200% 증가합니다. | 열탕 버섯: 총 성장 단계로 제공되는 대미지 보너스가 300%로 증가합니다."
+            "name": "Heat Wave",
+            "desc": "Prometheus Liontail: Heatbeam damage frequency ×2 | Deucalion-shroom: Damage bonus provided by Total Growth Stages ×3"
         },
         "43": {
-            "name": "삼매진화",
-            "desc": "작열 캣테일 & 열탕 버섯: 투사체 피해량이 300% 증가합니다."
+            "name": "Holy Fire",
+            "desc": "Prometheus Liontail & Deucalion-shroom: Regular shots' damage ×3"
         },
         "44": {
-            "name": "심해의 공포",
-            "desc": "거대 크툴루 버섯: 버섯 문어는 최대 3마리의 좀비를 익사시키거나 300%의 대미지를 입힐 수 있습니다. 익사한 좀비 한 마리당 10 포인트를 제공합니다."
+            "name": "Feeding Frenzy",
+            "desc": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks"
         },
         "45": {
-            "name": "연사 발사",
-            "desc": "거대 크툴루 버섯: 이제 한번에 투사체를 3개씩 발사합니다."
+            "name": "Swarm Attack",
+            "desc": "Scylla Leviathan: Fires 3 base attack projectiles at once"
         },
         "46": {
-            "name": "적장 처단",
-            "desc": "극염 할라페뇨 & 꼬마 극염 할라페뇨: 영혼 포인트 최대치가 10으로 증가하며, 연옥 보스 좀비가 처치될 때마다 1 영혼 포인트를 획득합니다."
+            "name": "Trophy Hunter",
+            "desc": "Cryolina Reaper & Habanero Weeper: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies"
         },
         "47": {
-            "name": "흑요석 방어",
-            "desc": "극염 할라페뇨 & 꼬마 극염 할라페뇨: 영혼 포인트를 사용할 때, 모든 식물에게 1초간 무적 상태를 부여합니다."
+            "name": "Soul Curtain",
+            "desc": "Cryolina Reaper & Habanero Weeper: When using a soul charge, also grants 1s of invincibility to all plants"
         },
         "48": {
-            "name": "에너지 세일",
-            "desc": "폴룩스 스플릿슈터: 레벨 1: 빛 에너지 저장 한도가 1000에서 2000으로 증가합니다. 레벨 2: 빛 에너지 저장 한도가 10000으로 추가 증가합니다. | 우주 방사선 스플릿슈터: 투사체 범위가 50% 증가합니다."
+            "name": "Lumos Capacitor",
+            "desc": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k | Axion Orbiter: Projectile damage radius +50%"
         },
         "49": {
-            "name": "에너지 보상",
-            "desc": "폴룩스 스플릿슈터: 전이량이 50% 증가하며, 대상의 에너지가 1000 미만일 경우 전이 효율이 250%로 대폭 증가합니다. | 우주 방사선 스플릿슈터: 이제 공격마다 투사체 2개를 추가로 발사합니다."
+            "name": "Energy Discharge",
+            "desc": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000 | Axion Orbiter: Now fires 2 extra projectiles each attack"
         },
         "50": {
-            "name": "빠른 폭발",
-            "desc": "기가 미식축구 특전사: 특전사 콩류 식물의 궁극기 발동 확률이 300%로 증가합니다. | 크로노 저격콩: 저격콩류 식물이 헤드샷 공격후 한번 더 공격합니다."
+            "name": "Battle Tempo",
+            "desc": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3, Peatato Commando now shoots explosive potatoes | Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot"
         },
         "51": {
-            "name": "정밀 사격",
-            "desc": "기가 미식축구 특전사: 특전사 콩류 식물의 궁극기 대미지가 200% 증가하고, 더 이상 흩뿌려지 않게 됩니다. | 크로노 저격콩: 저격콩류 식물의 헤드샷에 필요한 공격 횟수가 3발 줄어듭니다."
+            "name": "Focused Fire",
+            "desc": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
         },
         "52": {
-            "name": "흑요석의 힘",
-            "desc": "흑요석 호두 요새: 맵에 있는 흑요석 식물의 종류가 다를때마다 모든 흑요석 식물이 받는 최종 피해량이 감소합니다."
+            "name": "Obsidian Formation",
+            "desc": "Obsidian Jugger-nut: While on the lawn, all Obsidian plants take reduced final damage based on the number of different Obsidian plants present"
         },
         "53": {
-            "name": "담금질과 제련",
-            "desc": "흑요석 호두 요새: 제련 대미지가 200% 증가합니다."
+            "name": "Frostfire Tempering",
+            "desc": "Obsidian Jugger-nut: Tempering Damage ×2"
         }
     },
     "debuffs": {
         "0": {
-            "name": "거침없는 돌격",
-            "desc": "신문지 체리 개틀링 좀비: 신문지가 찢어졌을 경우 식물들을 통과합니다."
+            "name": "Breakthrough",
+            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken"
         },
         "1": {
-            "name": "통제 불능",
-            "desc": "신문지 체리 개틀링 좀비: 이제 모든 상태 이상에 면역입니다."
+            "name": "Absolute Immunity",
+            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects"
         },
         "2": {
-            "name": "깊은 상처",
-            "desc": "기가 미식축구 호두 좀비 & 기가 미식축구 스트라이커: 해당 좀비에 의해 대미지를 받은 식물은 1초 동안 체력을 회복할 수 없습니다."
+            "name": "Exsanguination",
+            "desc": "Giga Football-nut Zombie: Bites now disable plant healing for 1s"
         },
         "3": {
-            "name": "트라우마",
-            "desc": "기가 미식축구 호두 좀비 & 기가 미식축구 스트라이커: 해당 좀비에 의해 대미지를 받은 식물은 1초 동안 받는 피해가 300% 증가합니다."
+            "name": "Debilitation",
+            "desc": "Giga Football-nut Zombie: Bites weaken plants, making them receive 3× damage for 1s"
         },
         "4": {
-            "name": "급류",
-            "desc": "샤크라이너 & 좀핀마린: 이동 속도가 200% 증가합니다."
+            "name": "Riptide",
+            "desc": "Sharkmarine: Movement Speed ×2"
         },
         "5": {
-            "name": "복합장갑",
-            "desc": "샤크라이너 & 좀핀마린: 받는 대미지가 50% 감소합니다."
+            "name": "Reinforced Hull",
+            "desc": "Sharkmarine: Gains 50% Damage Reduction"
         },
         "6": {
-            "name": "폭풍 돌파",
-            "desc": "키로프 좀플린 & 좀플린 비행선: 블로버에 면역이 됩니다. | 이동 속도가 500%가 됩니다."
+            "name": "Jet Propulsion",
+            "desc": "Kirov Zomppelin: Immunity to Blovers | Movement Speed ×5"
         },
         "7": {
-            "name": "공중 요새화",
-            "desc": "키로프 좀플린: 키로프 드론의 체력이 25000으로 증가합니다."
+            "name": "Iron Swarm",
+            "desc": "Kirov Zomppelin: Summoned Drones now have 50× HP"
         },
         "8": {
-            "name": "무조건 자폭",
-            "desc": "스카이콩콩 광대 좀비: 이제 사망시 무조건 폭발합니다, 준비 시간이 0.75초로 대폭 감소됩니다. | 수상스키 광대 좀비: 깜짝상자 대미지가 500 증가합니다."
+            "name": "Short Fuse",
+            "desc": "Clown-on-the-Pogo Zombie: Now always explodes on death, and big leap charging time is reduced by 90% | Clown-on-the-Jetski Zombie: Bomb damage +500"
         },
         "9": {
-            "name": "폭발 전염",
-            "desc": "스카이콩콩 광대 좀비: 깜짝 상자 폭발의 영향을 받은 깜짝 상자 좀비는 스카이콩콩 광대 좀비으로 변신합니다. | 수상스키 광대 좀비: 깜짝상자 대미지가 500 증가합니다."
+            "name": "Contagious Blast",
+            "desc": "Clown-on-the-Pogo Zombie: Jack-in-the-Box-type Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies | Clown-on-the-Jetski Zombie: Bomb damage +500"
         },
         "10": {
-            "name": "포화 투영",
-            "desc": "기가 삼지창 호두 좀비: 이제 공격 시 삼지창 2개를 추가로 투척합니다. | 포제이돈은 초대형 삼지창을 3개 던집니다."
+            "name": "Trident Torrents",
+            "desc": "Giga Trident-nut Zombie: Now throws 2 extra tridents each attack | Pozeidon throws 3 giant tridents"
         },
         "11": {
-            "name": "다중 궤적",
-            "desc": "기가 삼지창 호두 좀비: 우산잎 관련 식물의 특성을 무시하고 이제 범위 내 랜덤한 식물을 향해서 투척합니다."
+            "name": "Scatterthrow",
+            "desc": "Giga Trident-nut Zombie: Now ignores Umbrella-type plants and targets random plants to attack"
         },
         "12": {
-            "name": "정예 백댄서",
-            "desc": "슈퍼스타 좀비: 이제 슈퍼 장대 좀비를 소환합니다."
+            "name": "Premium Cast",
+            "desc": "Superstar Zombie: Can now summon Super Dancing Pole Vaulters"
         },
         "13": {
-            "name": "고스트 스텝",
-            "desc": "슈퍼스타 좀비 & 마이클 좀비: 돌진 시 식물들을 통과합니다."
+            "name": "Phantom Waltz",
+            "desc": "Superstar Zombie: Will now phase through plants when sliding in"
         },
         "14": {
-            "name": "사악한 폭발",
-            "desc": "불사의 강시: 폭발 대미지가 깜짝 상자 폭발 대미지에 면역인 식물을 무시합니다."
+            "name": "Aftershock",
+            "desc": "Undying Wraith: Explosion damage will now ignore immunities by Joker Pumpkins and other relevant plants"
         },
         "15": {
-            "name": "헬레이저",
-            "desc": "불사의 강시: 돌진의 시전 속도가 1/3으로 감소합니다, 대미지가 300% 증가합니다."
+            "name": "Ruthless Pursuit",
+            "desc": "Undying Wraith: Dash CD reduced | Attack Power Greatly Increased"
         },
         "16": {
-            "name": "굳건한 신념",
-            "desc": "삼지창 화차 좀비: 대부분의 상태 효과에 면역이며 삼지창을 더 많이 던집니다."
+            "name": "Myriad Tridents",
+            "desc": "Trident Hwacha: Now immune to most status effects and throws 5× as many tridents"
         },
         "17": {
-            "name": "미리 투척할께",
-            "desc": "삼지창 화차 좀비: 이제 화면 바깥에서 삼치창을 투척합니다."
+            "name": "First Strike",
+            "desc": "Trident Hwacha: Now attacks in advance"
         },
         "18": {
-            "name": "퍼레이드",
-            "desc": "마이클 좀보니: 매라운드마다 등장합니다 | 사망시 슈퍼스타 좀비를 소환합니다."
+            "name": "Worldwide Parade",
+            "desc": "Michael Zomboni: Now spawns every round | Spawns an extra Superstar Zombie when it dies"
         },
         "19": {
-            "name": "고속도로",
-            "desc": "마이클 좀보니 & 잭슨 월드와이드: 이동 속도가 500%가 됩니다."
+            "name": "Full Throttle",
+            "desc": "Michael Zomboni: Michael Zombonis & Jackson Worldwide Movement Speed ×5"
         },
         "20": {
-            "name": "자 배달입니다, 환불은 안되요",
-            "desc": "번지 좀비가 일정 확률로 오디세이 좀비를 떨어뜨릴 수 있고, 90% 대미지 감소 효과를 얻습니다."
+            "name": "Ace Drop",
+            "desc": "Bungee Zombies have a chance to drop an Odyssey Zombie in the 4th column or further to the right and will gain 90% DMG Reduction"
         },
         "21": {
-            "name": "완전 은폐",
-            "desc": "알파 어쌔신 스쿼드: 스텔스에 돌입할 시 항시 무적상태가 됩니다."
+            "name": "Immortality",
+            "desc": "Alpha Assassin Squad can now recover from being incapacitated infinitely"
         },
         "22": {
-            "name": "장거리 표적",
-            "desc": "혹한 UFO 궁중병: 용해 광선은 이제 범위 내에서 가장 먼 식물을 표적으로 삼습니다."
+            "name": "Far Sight",
+            "desc": "Frost Legion Frayer Disc: Dissolver Beams now target the farthest plant within range"
         },
         "23": {
-            "name": "범위 증가",
-            "desc": "혹한 UFO 궁중병: 흡수 배출기의 범위가 이제 1 타일에서 3×3 범위로 증가합니다."
+            "name": "Wide Suction",
+            "desc": "Frost Legion Frayer Disc: Siphon Drainer's range: 1 Tile → 3×3 Area"
         },
         "24": {
-            "name": "무술 숙련",
-            "desc": "특무장 가르강튀아: 외형은 더 이상 중요하지 않으며, 네 가지 능력을 동시에 지닙니다."
+            "name": "Elemental Confluence",
+            "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the extra abilities of all four affinities at once"
         },
         "25": {
-            "name": "부하 소환",
-            "desc": "특무장 가르강튀아: 이제 내려찍기 사용시 해당 속성에 맞는 특무장 임프를 소환합니다."
+            "name": "Affinity Awakening",
+            "desc": "Element-infused Gargantuar: Smashing now causes corresponding Element-infused Imps to appear"
         },
         "26": {
-            "name": "비상 적재",
-            "desc": "삼지창 거대 호두 가르강튀아: 삼지창 재장전 속도가 300% 빨라집니다."
+            "name": "Speed Charge",
+            "desc": "Trident Jugger-nut Gargantuar: Trident reload Speed ×3"
         },
         "27": {
-            "name": "바다신의 은총",
-            "desc": "삼지창 거대 호두 가르강튀아: 이제 삼지창을 던질 때 최대 체력의 10%를 회복합니다."
+            "name": "Pozeidon's Blessing",
+            "desc": "Trident Jugger-nut Gargantuar: Now recovers 10% max HP when throwing tridents"
         },
         "28": {
-            "name": "완층막",
-            "desc": "기가 메카 호두 좀비: 처음 공격 50번 동안 모든 좀비는 대미지를 1만 받습니다."
+            "name": "Shock Absorber",
+            "desc": "Giga Mecha-nut Zombie: For the first 50 hits, all zombies take only 1 damage"
         },
         "29": {
-            "name": "충격보호",
-            "desc": "기가 메카 호두 좀비: 모든 좀비는 피격 시 이전보다 낮거나 같은 대미지에 대해 0.2초간 대미지 면역을 얻습니다. 이 효과는 최대 100회까지 발동합니다."
+            "name": "Reactive Armor",
+            "desc": "Giga Mecha-nut Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
         },
         "30": {
-            "name": "무리",
-            "desc": "기가 미식축구 코끼리: 이제 3마리씩 등장합니다."
+            "name": "Stampede",
+            "desc": "War Elephant Zombie: Now spawns in groups of 3"
         },
         "31": {
-            "name": "경비원",
-            "desc": "기가 미식축구 코끼리: 맵에 있는 동안 모든 연옥 보스 좀비들의 방어 수치가 100만큼 증가합니다."
+            "name": "Alpha Escort",
+            "desc": "War Elephant Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
         },
         "32": {
-            "name": "안 추워",
-            "desc": "기가 양동이 봅슬레이: 이제 경직과 빙결에 면역이 됩니다."
+            "name": "Insulative Coating",
+            "desc": "Buckshot Bobsled Brigade: Immune to butter and freezing"
         },
         "33": {
-            "name": "구하러 갈게",
-            "desc": "기가 양동이 봅슬레이: 빠르게 등장하는 대신, 시간이 지남에 따라 속도가 느려집니다."
+            "name": "Blitz Entry",
+            "desc": "Buckshot Bobsled Brigade: Enters the field rapidly, but slows down over time"
         },
         "34": {
-            "name": "코브라 자세",
-            "desc": "기가 미식축구 깃발 좀비 & 기가 미식축구 호두 깃발 좀비: 등장 즉시 1번 회피 구르기를 시전합니다."
+            "name": "Cobra Stance",
+            "desc": "Giga Football Acrobat Zombie & Giga Football-nut Acrobat Zombie: Roll once immediately on appearance"
         },
         "35": {
-            "name": "핫 퍼슈트",
-            "desc": "기가 미식축구 깃발 좀비 & 기가 미식축구 호두 깃발 좀비: 회피 구르기후 200%의 대미지를 줍니다."
+            "name": "Hot Pursuit",
+            "desc": "Giga Football Acrobat Zombie & Giga Football-nut Acrobat Zombie: Deal ×2 damage after rolling"
         },
         "1000": {
-            "name": "절대 암흑",
-            "desc": "가진 태양이 0으로 됩니다."
+            "name": "Blackout",
+            "desc": "Your Sun will be reset to 0"
         },
         "1001": {
-            "name": "빈곤의 삶",
-            "desc": "가진 점수가 0으로 됩니다."
+            "name": "Bankrupt",
+            "desc": "Your Points will be reset to 0"
         },
         "1002": {
-            "name": "불모지",
-            "desc": "잔디밭에 120개 이상의 식물을 심을 수 없게됩니다."
+            "name": "Limited Space",
+            "desc": "You can have no more than 120 plants on the field"
         },
         "1003": {
-            "name": "병력 손실",
-            "desc": "기존 식물은 모두 1/3 확률로 죽습니다. (1회 적용)"
+            "name": "Wilting Blight",
+            "desc": "All your existing plants have a 1/3 chance to perish (applied once)"
         },
         "1004": {
-            "name": "신체 강화",
-            "desc": "매 라운드가 끝날 때마다 좀비의 최대 체력 증가율이 20%에서 30%로 늘어납니다."
+            "name": "Necrotic Growth",
+            "desc": "Zombie max HP increment rate after each round: 20% → 30%"
         },
         "1005": {
-            "name": "불사자",
-            "desc": "모든 좀비는 사망 시 1/3 확률로 모든 체력을 회복하며 부활하게 됩니다."
+            "name": "Resurrection",
+            "desc": "All zombies have a 1/3 chance to revive to full HP on death"
         },
         "1006": {
-            "name": "전면전",
-            "desc": "웨이브 당 등장하는 최대 좀비 수 제한이 100으로 증가합니다."
+            "name": "Mega Horde",
+            "desc": "Increase the maximum limit of zombies per wave to 100"
         },
         "1007": {
-            "name": "정예 부대",
-            "desc": "웨이브당 최대 좀비 수가 절반으로 감소하지만, 모든 좀비의 체력과 대미지가 200%로 증가합니다."
+            "name": "Veteran Forces",
+            "desc": "The maximum number of zombies each wave is halved, but all zombies have ×2 HP and Attack"
         },
         "1008": {
-            "name": "어려운 치료",
-            "desc": "식물이 받는 모든 회복 및 보호막 효과가 절반으로 감소합니다."
+            "name": "Healing Suppression",
+            "desc": "All healing and shields on Plants are reduced by 50%"
         },
         "1009": {
-            "name": "영구적 외상",
-            "desc": "식물이 피해를 입을 때, 받은 피해량의 10%만큼 최대 체력이 감소합니다. (최대 40%까지 감소하며, 매 라운드마다 초기화됩니다.)"
+            "name": "Permanent Damage",
+            "desc": "Plants lose max HP equal to 10% of the damage received (up to 40% and resets between rounds) when taking damage"
         },
         "1010": {
-            "name": "경제 위기",
-            "desc": "모든 식물의 필요 태양량이 300%로 증가합니다."
+            "name": "Inflation",
+            "desc": "All plants now cost 3× Sun"
         },
         "1011": {
-            "name": "강제 행군",
-            "desc": "첫 좀비 웨이브 시작까지의 대기 시간이 5초로 줄어들고, 웨이브 사이의 간격이 15초로 단축됩니다."
+            "name": "Restless Onslaught",
+            "desc": "Time before the first wave of zombie is reduced to 5s, and the interval between zombie waves is reduced to 15s"
         },
         "1012": {
-            "name": "하극상",
-            "desc": "오디세이 식물의 대미지와 최대 체력이 90% 감소하지만, 그 외 모든 식물은 대미지와 최대 체력이 4,000%로 증가하고 공격 속도가 200%로 빨라집니다."
+            "name": "Curse of Pride",
+            "desc": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack & max HP, and 2× Attack Speed"
         },
         "1013": {
-            "name": "지휘력 강화",
-            "desc": "연옥 보스 좀비들의 이동 속도와 최대 체력이 30%만큼 추가로 증가합니다."
+            "name": "Warlord's Might",
+            "desc": "Mini-boss zombies gain a 30% Speed & max HP buff"
         },
         "1014": {
-            "name": "강한 군단",
-            "desc": "연옥 보스가 아닌 좀비들의 이동 속도가 30%, 최대 체력이 60%만큼 추가로 증가합니다."
+            "name": "All-out Assault",
+            "desc": "Non-mini-boss zombies gain a 30% Speed & max HP buff"
         },
         "1015": {
-            "name": "공습 습격",
-            "desc": "공중 좀비들의 최대 체력이 200%로 증가합니다."
+            "name": "Flying Fortress",
+            "desc": "Flying zombies now have 2× max HP"
         },
         "1016": {
-            "name": "자연 파괴",
-            "desc": "식물이 처치될 때, 주변 3×3 범위 내의 다른 식물들에게 자신의 최대 체력만큼의 대미지를 입힙니다."
+            "name": "Collateral Damage",
+            "desc": "When Plants are killed, they deal damage equal to their max HP to other plants in a 3×3 Area"
         },
         "1017": {
-            "name": "보편적인 위협",
-            "desc": "연옥 보스가 아닌 모든 좀비의 체력이 200%, 대미지, 이동 속도가 150%로 증가합니다."
+            "name": "Mass Mutation",
+            "desc": "All non-Odyssey zombies now have ×2 HP, Attack and ×1.5 Speed"
         },
         "1018": {
-            "name": "식물 가림막",
-            "desc": "식물 체력 표시가 비활성화됩니다."
+            "name": "Lost Diagnostics",
+            "desc": "Plant's HP display will now be disabled"
         },
         "1019": {
-            "name": "좀비 가림막",
-            "desc": "좀비  체력 표시가 비활성화됩니다."
+            "name": "Fog of War",
+            "desc": "Zombie's HP display will now be disabled"
         },
         "2000": {
-            "name": "특급 거인",
-            "desc": "황금 특무장 가르강튀아가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "Celestial Gargantuar will appear"
         },
         "2001": {
-            "name": "파멸의 공격수",
-            "desc": "신문지 둠 개틀링 좀비가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "Gatling Doom Newspaper Zombie will appear"
         },
         "2002": {
-            "name": "UFO의 저주",
-            "desc": "기가 메카 UFO가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "D.A.M.P. Disc will appear"
         },
         "2003": {
-            "name": "저격수 등장",
-            "desc": "알파 스나이퍼가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "Alpha Assassin Hitman will appear"
         },
         "2004": {
-            "name": "나는 군단이다!",
-            "desc": "승마 기가 양동이 특전사가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "Buckshot Knight Captain Zombie will appear"
         },
         "2005": {
-            "name": "회피 구르기의 대가",
-            "desc": "기가 미식축구 호두 깃발 좀비가 다음 라운드에 등장합니다."
+            "name": "Crisis",
+            "desc": "Giga Football-nut Acrobat Zombie will appear"
         },
         "3000": {
-            "name": "여정의 끝에 있는 거인",
-            "desc": "심연의 가르강튀아가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Abyssal Gargantuar will appear as a Mini-boss"
         },
         "3001": {
-            "name": "해치웠나",
-            "desc": "심연의 가르강튀아: 사망시 닥터 좀보스가 등장합니다."
+            "name": "Zomboss Protocol",
+            "desc": "Abyssal Gargantuar: Spawns Dr. Zomboss on death"
         },
         "3002": {
-            "name": "치킨 조키!",
-            "desc": "임프 제왕선이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Imperor's Ark of the Duck will appear as a Mini-boss"
         },
         "3003": {
-            "name": "왕의 특권",
-            "desc": "임프 제왕선: 공격을 회피할 때마다 체력을 500씩 회복합니다."
+            "name": "Royal Resilience",
+            "desc": "Imperor's Ark of the Duck: Now recovers 500 HP every time he dodges an attack"
         },
         "3004": {
-            "name": "월드 투어 개막",
-            "desc": "잭슨 월드와이드가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Jackson Worldwide will appear as a Mini-boss"
         },
         "3005": {
-            "name": "빌리 진",
-            "desc": "잭슨 월드와이드: 이제 받는 대미지가 50% 감소합니다."
+            "name": "Shadow Dance",
+            "desc": "Jackson Worldwide: Now gains a 50% incoming Damage Reduction"
         },
         "3006": {
-            "name": "킥오프",
-            "desc": "기가 미식축구 스트라이커가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Giga Football Striker will appear as a Mini-boss"
         },
         "3007": {
-            "name": "투미닛 워닝",
-            "desc": "기가 미식축구 스트라이커: 이제 강해지는 속도가 200%로 빨라집니다."
+            "name": "Adrenaline Rush",
+            "desc": "Giga Football Striker: Now gains buffs 2× faster"
         },
         "3008": {
-            "name": "급류의 삼지창",
-            "desc": "포제이돈이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Pozeidon will appear as a Mini-boss"
         },
         "3010": {
-            "name": "거대 쇠-호두 굴러가유",
-            "desc": "울트라 메카 호두-Z가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Ultra Mecha-nut will appear as a Mini-boss"
         },
         "3012": {
-            "name": "공포의 물고기",
-            "desc": "하늘의 파수꾼이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Skystrider Mecha will appear as a Mini-boss"
         },
         "3014": {
-            "name": "교수님의 C 뿌리기",
-            "desc": "체리 개틀링 교수님이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Professor Cherryz will appear as a Mini-boss"
         },
         "3016": {
-            "name": "예술은 폭발이다",
-            "desc": "광대 여왕이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Queen Jill-in-the-Box will appear as a Mini-boss"
         },
         "3018": {
-            "name": "살식물청부업자",
-            "desc": "오메가 어쌔신 스쿼드가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Omega Assassin Squad will appear as a Mini-boss"
         },
         "3020": {
-            "name": "죽음의 기사",
-            "desc": "기가 해골군마 사령관이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Archduke Deathrider will appear as a Mini-boss"
         },
         "3021": {
-            "name": "광란의 낫",
-            "desc": "기가 해골군마 사령관: 낙마 후 자신의 군마를 낫으로 변형시키며, 능력이 대폭 상승합니다."
+            "name": "Grim Ascension",
+            "desc": "Archduke Deathrider: Archduke will transform his warhorse into a scythe and significantly boost his abilities after dismounting."
         },
         "3022": {
-            "name": "용신강림",
-            "desc": "영원의 주룡검이 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Millennium Dragon & Warden will appear as a Mini-boss"
         },
         "3024": {
-            "name": "고래 싸움에 식물 죽는다",
-            "desc": "체리케투스 라이더가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "Cerasocetus Rider will appear as a Mini-boss"
         },
         "3026": {
-            "name": "정글 지하의 연불꽃",
-            "desc": "언데드 플랜테라가 다음 라운드에 등장합니다."
+            "name": "Nemesis",
+            "desc": "King Necroflame will appear as a Mini-boss"
         },
         "4000": {
-            "name": "흑요석 갑옷",
-            "desc": "심연의 가르강튀아가 맵에 있는 동안 모든 좀비의 방어 수치가 400만큼 증가합니다."
+            "name": "Majestic Presence",
+            "desc": "Abyssal Gargantuar grants +400 DR value to all zombies while present"
         },
         "4001": {
-            "name": "제왕호령",
-            "desc": "임프 제왕선이 맵에 있는 동안 모든 좀비의 방어 수치가 400만큼 증가합니다."
+            "name": "Majestic Presence",
+            "desc": "Imperor's Ark of the Duck grants +400 DR value to all zombies while present"
         },
         "4002": {
-            "name": "라인배커",
-            "desc": "기가 미식축구 스트라이커가 맵에 있는 동안 모든 좀비의 방어 수치가 400만큼 증가합니다."
+            "name": "Majestic Presence",
+            "desc": "Giga Football Striker grants +400 DR value to all zombies while present"
         },
         "4003": {
-            "name": "스무스 크리미널",
-            "desc": "잭슨 월드와이드가 맵에 있는 동안 모든 좀비의 방어 수치가 400만큼 증가합니다."
+            "name": "Majestic Presence",
+            "desc": "Jackson Worldwide grants +400 DR value to all zombies while present"
         },
         "4004": {
-            "name": "기사의 진군",
-            "desc": "기가 해골군마 사령관이 맵에 있는 동안 모든 좀비의 방어 수치가 400만큼 증가합니다."
+            "name": "Majestic Presence",
+            "desc": "Archduke Deathrider grants +400 DR value to all zombies while present"
         },
         "5000": {
-            "name": "무조건 이동한다",
-            "desc": "좀비가 이동 방해 효과를 5초 동안 지속해서 받으면, 이후 3초 동안 모든 이동 방해 효과에 면역이 됩니다."
+            "name": "Acquired Antibody",
+            "desc": "Zombies gain a stalling status effect immunity for 3s after being continuously under any such effect for 5s"
         },
         "5001": {
-            "name": "적들이 강해진다",
-            "desc": "맵에 있는 모든 좀비의 공격 대미지가 3초마다 200%씩 증가하며, 최대 1000000까지 중첩됩니다."
+            "name": "Rampage Spiral",
+            "desc": "The Attack damage of all zombies on the field is doubled every 3s, up to 1M"
         },
         "5002": {
-            "name": "적응력",
-            "desc": "좀비가 100 이상의 대미지를 입을 때마다 받은 대미지의 1%만큼 방어 수치를 얻으며, 최대 1000까지 증가합니다."
+            "name": "Pain Response",
+            "desc": "Zombies gain DR value equal to 1% of the incoming damage when they receive damage more than 100, up to +1000 DR value"
         },
         "5003": {
-            "name": "피했죠?",
-            "desc": "좀비가 공격을 회피하면 0.2초의 쿨타임을 두고 식물에게 받은 대미지의 100%를 반사합니다."
+            "name": "Counterstrike",
+            "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 0.2s"
         },
         "5004": {
-            "name": "저주인형",
-            "desc": "좀비가 식물에게 강력한 피해를 입히면, 해당 식물은 [10% × (식물 기본 체력 + 생명력) / 2]에 해당하는 저주 중첩을 얻습니다."
+            "name": "Brand of Ruin",
+            "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to [1%×(plant HP + plant Toughness)/2]"
         }
     },
     "unlocks": {
         "0": {
-            "name": "킹 오브 플랜트",
-            "desc": "체리질라 해금: 먹깨비질라 + 체리 먹깨비\n(갈릭질라 전환식: 체리 폭탄 <-> 마늘)"
+            "name": "",
+            "desc": "Unlock Cherrizilla: Chompzilla + Cherry Chomper\nand its Subspecies Garlizilla"
         },
         "1": {
-            "name": "체리엇 전쟁",
-            "desc": "체리 개틀링 해금: 풋체리 개틀링 + 체리슈터\n(체리 개틀링 드론 전환식: 삽 파내기 <-> 블로버)"
+            "name": "",
+            "desc": "Unlock Gatling Cherrybomber: Gatling Cherry + Explode-o-shooter\nand its Subspecies Cherrybomber Drone"
         },
         "2": {
-            "name": "크라이오레이터",
-            "desc": "파멸자 버섯 해금: 혹한 버섯 + 얼음 최면 버섯\n(파멸자 선인장 전환식: 가스 버섯 <-> 선인장)"
+            "name": "",
+            "desc": "Unlock Doominator: Doomspike-shroom + Cryonic-shroom\nand its Subspecies Thornminator"
         },
         "3": {
-            "name": "헬'스 키친",
-            "desc": "스쿼시 지옥불나무 해금: 스파이시 스쿼시 + 지옥불나무\n(지옥별나무 전환식: 스쿼시 <-> 스타푸르츠)"
+            "name": "",
+            "desc": "Unlock Infernal Squashwood: Spicy Squash + Infernowood\nand its Subspecies Infernal Sparkwood"
         },
         "4": {
-            "name": "토리노 척도",
-            "desc": "중성자 스타푸르츠 해금: 슈팅 스타푸르츠 + 자석 선인장\n(중성자 스타로버 전환식: 스타푸르츠 <-> 블로버)"
+            "name": "",
+            "desc": "Unlock Magnetar: Stardrop + Magnethorn\nand its Subspecies Pulsar"
         },
         "5": {
-            "name": "혼돈! 폭발! 망가ㄱ!",
-            "desc": "망각 버섯 해금: 혹한 버섯 + 쿠울 버섯\n(망각 플랜턴 전환식: 우울 버섯 <-> 플랜턴)"
+            "name": "",
+            "desc": "Unlock Shroomageddon: Doomspike-shroom + Frost Gloom-shroom\nand its Subspecies Atomheart Plantern"
         },
         "6": {
-            "name": "시들어 버린 지붕",
-            "desc": "위더 펄트 해금: 샐러드 펄트 + 통마늘 펄트\n(꼬마 위더펄트 전환식: 멜론 펄트 <-> 뻐끔 버섯×3"
+            "name": "",
+            "desc": "Unlock Wither-pult: Salad-pult + Garlic-pult\nand its Subspecies Litter-pult"
         },
         "7": {
-            "name": "절대영도 핵탄두",
-            "desc": "망각 옥수수 대포 해금: 얼음 옥수수 대포 + 얼음 파멸 버섯\n(망각 멜론 대포 전환식: 옥수수 펄트 <-> 멜론 펄트)"
+            "name": "",
+            "desc": "Unlock Cob-literator: Cryo Cannon + Demise-shroom\nand its Subspecies Panmelonium"
         },
         "8": {
-            "name": "아이스 버킷 챌린지",
-            "desc": "흑요석 키다리 호두 해금: 얼음 키다리 호두 + 불꽃 카디라 호두\n(흑요석 지뢰 전환식: 키다리 호두 <-> 감자 지뢰)"
+            "name": "",
+            "desc": "Unlock Obsidian Tall-nut: Frost Tall-nut + Flame Tall-nut\nand its Subspecies Obsidian Mine"
         },
         "9": {
-            "name": "매혹은 카리스마의 구현",
-            "desc": "매혹트론 버섯 해금: 매혹 버섯 + 최면 자석 버섯\n(매혹트론 호박 전환식: 삽 파내기 <-> 호박)"
+            "name": "",
+            "desc": "Unlock Charmatron: Charm-shroom + Hypno Magnet\nand its Subspecies Pumpkaptivator"
         },
         "10": {
-            "name": "양치질이 필요해 보이는걸",
-            "desc": "아포콩리스 터렛 해금: 거대 콩 터렛 + 빙염 할라페뇨\n(아포콩리스 레일건 전환식: 콩슈터 <-> 저격콩)"
+            "name": "",
+            "desc": "Unlock Apeacalypse Minigun: Titan Pea Turret + Spicicle\nand its Subspecies Apeacalypse Railgun"
         },
         "11": {
-            "name": "썬&문",
-            "desc": "천상의 양배추 해금: 태양배추 펄트 + 황금 양배추\n(월광의 양배추 전환식: 해바라기 <-> 플랜턴)"
+            "name": "",
+            "desc": "Unlock Helios Cabbage: Solar-pult + Golden Cabbage\nand its Subspecies Selene Cabbage"
         },
         "12": {
-            "name": "호박이 쪼와요",
-            "desc": "레이저 호박 해금: 호박 착륙장 + 자석 블로버\n(체리드론 호박 전환식: 선인장 <-> 체리 폭탄)"
+            "name": "",
+            "desc": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin"
         },
         "13": {
-            "name": "폭탄 받아라!",
-            "desc": "네이팜 버섯 해금: 여름 멜론 + 미식축구 가스 버섯\n(마그마 버섯 전환식: 멜론 펄트 <-> 옥수수 펄트)"
+            "name": "",
+            "desc": "Unlock Napalm-shroom: Summer Melon + Football-shroom\nand its Subspecies Magma-shroom"
         },
         "14": {
-            "name": "돈은 항상 옳다",
-            "desc": "억만 크라켄 해금: 쌍둥이 금잔화 + 켈프베로스"
+            "name": "",
+            "desc": "Unlock Kelptain Goldbeard: Twin Marigold > Hydra Kelp"
         },
         "15": {
-            "name": "인터스텔라",
-            "desc": "퀀텀 옥수수 해금: 꼬마 옥수수 펄트×3 + 크로노 펄트\n(퀀텀 호두 전환식: 옥수수 펄트 <-> 호두)"
+            "name": "",
+            "desc": "Unlock Cosmo-pult: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut"
         },
         "16": {
-            "name": "설원왕국",
-            "desc": "혹한의 가문비슈터 해금: 가문비 궁극슈터 + 눈꽃 가문비\n(혹한의 죽순 전환식: 가문비 가시슈터 <-> 겨울 죽순)"
+            "name": "",
+            "desc": "Unlock Lifereaver Spruce: Spruce Supershooter + Snowbloom Spruce\nand its Subspecies Soulrender Bamboo"
         },
         "17": {
-            "name": "반드시 좀비를 먹는 먹깨비",
-            "desc": "거대 발광 먹깨비 해금: 발광 먹깨비 + 거대 먹깨비"
+            "name": "",
+            "desc": "Unlock Tyrannoflora Lux: Lumos Angler > Chomper Maw"
         },
         "18": {
-            "name": "즉석 옥수수구이",
-            "desc": "화산 옥수수 대포 해금: 화염 옥수수 대포 + 체리붐\n(화산 양배추 대포 전환식: 옥수수 펄트 <-> 양배추 펄트)"
+            "name": "",
+            "desc": "Unlock Vulcannon: Pyro Cannon + Pepper Popper\nand its Subspecies Kaledera Eruptor"
         },
         "19": {
-            "name": "태양의 후예",
-            "desc": "솔라노바 공주 해금: 횃불라기 + 황금 해바라기"
+            "name": "",
+            "desc": "Unlock Princess Solarnova: Torchflower + Golden Sunflower"
         },
         "20": {
-            "name": "성운상 수상 식물",
-            "desc": "네뷸라 멜론 해금: 겨울 멜론 + 크로노 멜론\n(네뷸라 버섯 전환식: 멜론 펄트 <-> 파멸 버섯)"
+            "name": "",
+            "desc": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies Fungularity"
         },
         "21": {
-            "name": "핫 워터 소시지",
-            "desc": "작열 캣테일 해금: 화염 캣테일 + 체리붐\n(열탕 버섯 전환식: 캣테일 <-> 바다 버섯)"
+            "name": "",
+            "desc": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper\nand its Subspecies Deucalion-shroom"
         },
         "22": {
-            "name": "크툴루의 부름",
-            "desc": "거대 크툴루 버섯 해금: 거대 크라켄 버섯 + 뽀구 버섯"
+            "name": "",
+            "desc": "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom"
         },
         "23": {
-            "name": "회생의 기도",
-            "desc": "극염 할라페뇨 해금: 빙염 할라페뇨 + 빙염 할라페뇨\n(꼬마 극염 할라페뇨 전환식: 히카매지션 <-> 뻐끔 버섯×3)"
+            "name": "",
+            "desc": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper"
         },
         "24": {
-            "name": "쌍둥이별의 빛",
-            "desc": "폴룩스 스플릿슈터 해금: 발광 스플릿슈터 + 크로노슈터\n(우주 방사선 스플릿슈터 전환식: 플랜턴 <-> 마늘)"
+            "name": "",
+            "desc": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Orbiter"
         },
         "25": {
-            "name": "진짜 사나이",
-            "desc": "기가 미식축구 특전사 해금: 양동이슈터 + 미식축구 개틀링\n(크로노 저격콩 전환식: 미식축구 헬멧 <-> 크로노 코어)"
+            "name": "",
+            "desc": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
         },
         "26": {
-            "name": "더 깊은 곳으로",
-            "desc": "흑요석 호두 요새 해금: 거대 호두 요새 + 빙염 할라페뇨"
+            "name": "",
+            "desc": "Unlock Obsidian Jugger-nut: Spicicle > Jugger-nut"
         }
     },
     "investmentBuffs": {
         "0": {
-            "name": "완벽한 시작",
-            "desc": "라운드 전반부(50%) 동안 식물의 피해량이 40% 증가합니다."
+            "name": "",
+            "desc": "Plants do 40% more damage in the first 50% of the round"
         },
         "1": {
-            "name": "분위기 메이커",
-            "desc": "매 라운드 종료 시, 이번 라운드에서 피해를 0 입힌 식물 유형 하나당 300 포인트를 획득합니다. (최대 10가지 식물 종류)"
+            "name": "",
+            "desc": "At the end of each round, gain 300 points for every type of plant that dealt 0 damage this round (up to 10 plant types)"
         },
         "2": {
-            "name": "노히트",
-            "desc": "매 라운드 종료 시, 이번 라운드에서 체력이 0이 된 식물이 하나도 없다면 1500 포인트와 모든 식물의 최대 체력 5% 증가 효과를 얻습니다."
+            "name": "",
+            "desc": "At the end of each round, gain 1.5k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round"
         },
         "3": {
-            "name": "식물 재조합",
-            "desc": "맵에 모든 식물을 랜덤한 식물로 변환합니다. 즉시 1000 포인트를 획득하며, 이번 라운드 동안 장갑의 쿨타임이 사라집니다."
+            "name": "",
+            "desc": "Turn all plants on the lawn into random plants, gain 1000 points immediately and the Glove will have no CD in this round"
         },
         "4": {
-            "name": "최고의 지원",
-            "desc": "즉시 랜덤한 오디세이 식물 시드패킷 10개를 획득합니다."
+            "name": "",
+            "desc": "Immediately gain 10 random Odyssey plants as seed packets"
         },
         "5": {
-            "name": "활력 되찾기",
-            "desc": "연옥 보스 좀비를 처치할 때마다 모든 식물의 체력이 최대 체력의 10%만큼 회복됩니다."
+            "name": "",
+            "desc": "Every time a Mini-boss is defeated, all plants heal for 10% of their max HP"
         },
         "6": {
-            "name": "간단 모드",
-            "desc": "일반 좀비 (연옥 보스 제외)들의 체력이 10% 감소합니다."
+            "name": "",
+            "desc": "All non-mini-boss Zombies have 10% less HP"
         },
         "7": {
-            "name": "난이도 내리기",
-            "desc": "모든 연옥 보스 좀비들의 체력이 10% 감소합니다."
+            "name": "",
+            "desc": "All Mini-bosses have 10% less HP"
         },
         "8": {
-            "name": "체력이 높으면 아픈데",
-            "desc": "매 웨이브마다 가장 체력이 높은 좀비에게 기초 대미지의 1500% 만큼 피해를 입힙니다."
+            "name": "",
+            "desc": "Every wave, 1500% base damage is dealt to the zombie with the most HP"
         },
         "9": {
-            "name": "롤모델",
-            "desc": "가장 높은 피해를 입힌 식물 유형의 피해량이 25% 추가로 증가합니다."
+            "name": "",
+            "desc": "The plant type that deals the most damage deals an additional 25% damage"
         },
         "10": {
-            "name": "풀뿌리 기여",
-            "desc": "매 라운드 시작 시, 맵에 있는 오디세이가 아닌 식물 유형 하나당 식물들의 피해 감소가 3%씩 증가합니다. (최대 30%)"
+            "name": "",
+            "desc": "At the start of every round, your plants gain 3% damage reduction for every type of non-Odyssey plant on the lawn, up to 30%"
         },
         "11": {
-            "name": "절대 권력상",
-            "desc": "매 라운드 시작 시, 가장 높은 피해를 입힌 식물 6개의 피해량이 20% 증가합니다."
+            "name": "",
+            "desc": "At the start of every round, the 6 plants with the most damage gain a 20% damage boost"
         },
         "12": {
-            "name": "비상금",
-            "desc": "상점에서 아무것도 구매하지 않고 퇴장할 경우, 다음 방문 시 리롤 기회를 6회 추가로 얻습니다."
+            "name": "",
+            "desc": "You gain 6 extra rerolls in the Shop if you didn't buy anything from the last visit"
         },
         "13": {
-            "name": "무료 리롤 11회",
-            "desc": "리롤 기회를 11회 추가로 얻습니다."
+            "name": "",
+            "desc": "Gain 11 extra Shop rerolls"
         },
         "1000": {
-            "name": "현금이 최고",
-            "desc": "<color=#AF4900>모든 식물을 삽으로 파내지만, 보유한 태양이 200%가 됩니다. 또한 매 라운드 시작 시 모든 식물은 파낸 식물들의 필요 태양의 합계만큼의 보호막을 얻습니다."
+            "name": "",
+            "desc": "<color=#AF4900>Shovel all of your plants, but your Sun is doubled, and at the start of every round all plants gain Shield equal to the total amount of Sun cost of the plants shoveled"
         },
         "1001": {
-            "name": "호율성 항상",
-            "desc": "<color=#AF4900>모든 식물을 삽으로 파내지만, 보유한 태양이 200%가 됩니다. 또한 이번 라운드 동안 시드패킷의 쿨타임이 사라집니다."
+            "name": "",
+            "desc": "<color=#AF4900>Shovel all of your plants, but your Sun is doubled, and Seed packets have no CD in this round"
         },
         "1002": {
-            "name": "치명타 증가",
-            "desc": "<color=#AF4900>식물들의 치명타율이 18% 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain an 18% chance to crit"
         },
         "1003": {
-            "name": "강해지는 식물",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 맵에 있는 식물 유형 하나당 식물들의 최대 체력이 3%, 대미지가 6%씩 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, your plants gain 3% more HP and 6% more attack damage for every type of plant on the lawn"
         },
         "1004": {
-            "name": "롤모델 II",
-            "desc": "<color=#AF4900>가장 높은 피해를 입힌 식물 유형의 대미지가 40% 추가로 증가하며, 식물 전체 대미지도 10% 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>The plant type that deals the most damage deals an additional 40% damage and your teams also do 10% more damage"
         },
         "1005": {
-            "name": "이판사판",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 각 줄의 가장 왼쪽에 있는 일반 식물의 공격 속도가 150% 증가합니다. 하지만 매 웨이브 시작 시, 해당 식물들은 최대 체력의 1000%에 해당하는 피해를 입습니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, the leftmost regular plant in every lane gains a 150% attack speed boost, but at the start of every wave, they receive damage equal to 1000% of their max HP"
         },
         "1006": {
-            "name": "둘다 강해지자",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 각 줄의 가장 왼쪽에 있는 일반 식물은 가장 오른쪽 일반 식물의 최대 체력의 0.1%만큼 대미지 버프를 얻고, 가장 오른쪽 식물은 가장 왼쪽 식물 대미지의 1000% 만큼 최대 체력이 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, the leftmost regular plant on every lane gains a damage boost equal to 0.1% of the rightmost regular plant's max HP, and the rightmost regular plant gains max HP equal to 1000% of the leftmost regular plant's damage"
         },
         "1007": {
-            "name": "생명의 구슬",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 아군 팀의 치명타율이 25% 증가하지만 최대 체력이 30% 감소합니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, your teams gain a 25% chance to crit, and 30% reduced max HP"
         },
         "1008": {
-            "name": "예리한 잎사귀",
-            "desc": "<color=#AF4900>아군 팀의 치명타율이 10% 증가합니다. 매 라운드 시작 시, 이 확률은 1%씩 추가로 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain a 10% chance to crit. At the start of every round, that chance is increased by 1%"
         },
         "1009": {
-            "name": "우리는 군단이다",
-            "desc": "<color=#AF4900>아군 팀의 대미지가 10% 증가합니다. 매 라운드 시작 시, 아군 식물이 200개 이상이라면 모든 식물의 대미지가 50% 추가로 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain a 10% attack damage boost. At the start of every round, if there are 200 or more plants in your teams, all plants gain an additional 50% attack damage boost"
         },
         "1010": {
-            "name": "지원금",
-            "desc": "<color=#AF4900>현재 및 매 라운드 시작 시, 1500 포인트와 추가 리롤 기회 1회를 얻습니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round and now, gain 1.5k points and an extra reroll"
         },
         "1011": {
-            "name": "일반종이 강해진다",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 랜덤한 오디세이 식물이 아닌 식물 하나를 2티어로 승급시킵니다."
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, promote a random non-Odyssey plant to Tier 2"
         },
         "1012": {
-            "name": "보너스 해택",
-            "desc": "<color=#AF4900>조합을 할 때마다 식물 상자를 획득합니다."
+            "name": "",
+            "desc": "<color=#AF4900>You gain a Plant Giftbox every time you perform a fusion"
         },
         "1013": {
-            "name": "마지막에는 열심히",
-            "desc": "<color=#AF4900>라운드 후반부(50%) 동안 식물의 피해량이 40% 증가합니다."
+            "name": "",
+            "desc": "<color=#AF4900>Your plants do 40% more damage in the last 50% of the round"
         },
         "2000": {
-            "name": "역습의 서막",
-            "desc": "<color=#AF4900>아군 팀의 치명타율이 25% 증가합니다. 또한 치명타율의 30%에 해당하는 확률로 받는 피해를 1로 고정합니다."
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain a 25% chance to crit. They also gain a chance equal to 30% of their crit chance to reduce any incoming damage to 1"
         },
         "2001": {
-            "name": "단단한 일침",
-            "desc": "<color=#AF4900>아군 팀의 피해 감소가 25% 증가하며, 치명타율이 현재 피해 감소율만큼 증가합니다."
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain 25% damage reduction, and crit chance equal to their damage reduction rate"
         },
         "2002": {
-            "name": "동전 던지기",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 모든 식물은 50% 확률로 대미지 100% 증가 효과를 얻습니다."
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, every plant has a 50% chance to gain a 100% attack damage boost"
         },
         "2003": {
-            "name": "토벌의 훈장",
-            "desc": "<color=#AF4900>연옥 보스 좀비를 처치할 때마다 아군 팀의 대미지가 영구적으로 8% 증가합니다."
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain a permanent 8% attack damage boost every time a Mini-boss is defeated"
         },
         "2004": {
-            "name": "벼락 출세",
-            "desc": "<color=#AF4900>매 라운드 시작 시, 랜덤한 오디세이 식물이 아닌 식물 하나를 3티어로 승급시킵니다."
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, promote a random non-Odyssey plant to Tier 3"
         },
         "2005": {
-            "name": "한계 돌파",
-            "desc": "<color=#AF4900>아군 팀의 치명타율이 30% 증가합니다. 치명타율이 100%를 초과할 경우, 초과분만큼 치명타 피해량이 40% 증가합니다."
+            "name": "",
+            "desc": "<color=#007FFF>Increase your teams' crit chance by 30%. If the crit chance is above 100%, crit damage is increased by 40%"
         },
         "2006": {
-            "name": "연불꽃 스포트라이트",
-            "desc": "<color=#AF4900>엄청난 양의 포인트를 가진 초희귀 연불꽃이 나타납니다."
+            "name": "",
+            "desc": "<color=#007FFF>A super rare Endoflame that holds a ton of Points appears (you gain 20k Points)"
         },
         "2007": {
-            "name": "절약의 보상",
-            "desc": "<color=#AF4900>즉시 5000 포인트를 얻습니다. 이제부터 상점에서 아무것도 사지 않고 다음 라운드로 넘어가면 3000 포인트를 얻습니다. (20000 포인트를 획득합니다.)"
+            "name": "",
+            "desc": "<color=#007FFF>Immediately gain 5k points. From now on, you gain 3k points if you enter into the next round without buying anything from the Shop"
         },
         "2008": {
-            "name": "행운의 리롤",
-            "desc": "<color=#AF4900>새로고침을 할 때 45%의 확률로 새로고침 기회를 1회 돌려받습니다."
+            "name": "",
+            "desc": "<color=#007FFF>You have a 45% chance to gain an extra reroll when you reroll"
         },
         "2009": {
-            "name": "포인트 연금",
-            "desc": "<color=#AF4900>매 라운드 시작 시 2000 포인트를 얻습니다."
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, gain 2k points"
         },
         "2010": {
-            "name": "스텔라 복제",
-            "desc": "<color=#AF4900>매 라운드 시작 시 스텔라 따라쟁이를 얻습니다. 스텔라 버전이 있는 식물에 사용하면 해당 식물을 스텔라 변종으로 변환합니다."
+            "name": "",
+            "desc": "<color=#007FFF>At the start of each round, gain a Stellar Imitater. If used on a plant with a Stellar form, it becomes that plant's Stellar variant"
         },
         "2011": {
-            "name": "선택의 대가",
-            "desc": "<color=#AF4900>리롤을 하거나 좀비 버프를 선택할때 마다 500 포인트를 얻습니다. "
+            "name": "",
+            "desc": "<color=#007FFF>Gain 500 points every time you reroll in the Shop or when selecting Zombie Modifiers"
         },
         "2012": {
-            "name": "전재산 올인",
-            "desc": "<color=#AF4900>현재 보유한 모든 포인트를 소모합니다. 소모한 1000 포인트당 식물들의 치명타율이 1%씩 증가합니다."
+            "name": "",
+            "desc": "<color=#007FFF>Deplete all of your current points. For every 1k points depleted, your plants gain a 1% chance to crit"
         },
         "2013": {
-            "name": "배수의 진",
-            "desc": "<color=#AF4900>이번 라운드 한정으로, 좀비가 집에 침입할 경우 10000 포인트를 얻으며 해당 라운드에서 승리합니다."
+            "name": "",
+            "desc": "<color=#007FFF>For this round only, you gain 10k points and win the round if a zombie enters your house"
         }
     }
 }
