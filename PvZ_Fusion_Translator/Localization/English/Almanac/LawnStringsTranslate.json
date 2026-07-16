@@ -760,7 +760,7 @@
             "seedType": 919,
             "name": "Phoenix Threepeater",
             "introduce": "<align=left><size=36><color=black>No one knows if fire truly brings rebirth to plants—it's just a legend. Those who chased it turned to ash, until he became the new legend. \"I don't know how many times I must endure the flames to succeed, but for them, I have to.\"</color>",
-            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Projectiles inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through an Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff\n2. Phoenix peas can now pierce infinitely and cause Enflamed explosions | Phoenix Drone Subspecies Unlocked</color>",
+            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Projectiles inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is quadrupled after passing through an Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage bonus 50% → 150%, and regular ignited projectiles can now inflict the debuff\n2. Phoenix peas can now pierce infinitely and cause Enflamed explosions | Phoenix Drone Subspecies Unlocked</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Charred Threepeater + Jalapeno</color>"
         },
         {
@@ -4386,7 +4386,7 @@
             "seedType": 1436,
             "name": "Cryo Pumpkin",
             "introduce": "<align=left><size=36><color=black>He has always been proud of his hairstyle, even though he merely snapped off an icicle from under a roof and placed it on his head.</color>",
-            "info": "<size=36>Cryo Pumpkin stores the power of Ice-shrooms, allowing them to be released at the right moment.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts Chill to biters and adds 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge meter is below 3, prevents Ice-shroom effects on its tile and 1 tile in front from activating, then gains 1 charge.\n<color=black>•</color> Every 5s, automatically consumes 1 charge to release an Ice-shroom effect. Clicking can also trigger this effect.</color>",
+            "info": "<size=36>Cryo Pumpkin stores the power of Ice-shrooms, allowing them to be released at the right moment.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts Chill to biters and adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge meter is below 3, prevents Ice-shroom effects on its tile and 1 tile in front from activating, then gains 1 charge.\n<color=black>•</color> Every 5s, automatically consumes 1 charge to release an Ice-shroom effect. Clicking can also trigger this effect.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom > Pumpkin</color>"
         },
         {
@@ -4414,7 +4414,7 @@
             "seedType": 1440,
             "name": "Doom-spreader",
             "introduce": "<align=left><size=36><color=black>Three heads give Doom-spreader triple the thinking power, allowing him to achieve great accomplishments in nuclear physics research. Outside of academia, he also enjoys pondering other questions — such as why certain plants always try to stuff Jalapeno onto him.</color>",
-            "info": "<size=36>Doom-spreader fires Doom peas across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Doom peas penetrate type 2 armor.\n<color=black>•</color> Every 7th attack fires three large Doom Shell dealing 3× damage. They can pierce type 2 armor, dealing single-target damage before exploding in a 3-tile radius.</color>",
+            "info": "<size=36>Doom-spreader fires Doom peas across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Doom peas penetrate type 2 armor.\n<color=black>•</color> Every 7th attack fires three large Doom Shells dealing 3× damage. They can pierce type 2 armor, dealing single-target damage before exploding in a 3-tile radius.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Threepeater</color>"
         },
         {
