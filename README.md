@@ -27,7 +27,8 @@ The download links for the Multi-language Mod and the translation files of the M
 
 
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
-> Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
+>
+> Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258) **(NOTE: You'll have to join our [Discord Server](https://discord.gg/DPAC5ZVJ8T) to read this guide!)**
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
