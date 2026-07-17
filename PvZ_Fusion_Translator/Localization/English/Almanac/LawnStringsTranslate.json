@@ -2650,7 +2650,7 @@
             "seedType": 1188,
             "name": "Golden Sunflower",
             "introduce": "<align=left><size=36><color=black>Standing guard over a trophy had been <i>so</i> last season. Now? She was ready to shine—and not just under the sun. \"Look, I love a good tan, but let's be real... I was made for the fight!\"</color>",
-            "info": "<size=36>Golden Sunflower stores sun in a personal piggy bank at a fast rate, it's ultimate gives all that sun to you!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 10 seconds, 50 Sun is accumulated, up to 10,000.\n<color=black>•</color> The Sun limit in the level is adjusted to 50,000.\n<color=black>•</color> The excess will be stored in the available Golden Sunflowers.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; makes all Golden Sunflowers release their stored Sun.</color>",
+            "info": "<size=36>Golden Sunflower stores sun in a personal piggy bank at a fast rate, its ultimate gives all that sun to you!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 10 seconds, 50 Sun is accumulated, up to 10,000.\n<color=black>•</color> The Sun limit in the level is adjusted to 50,000.\n<color=black>•</color> The excess will be stored in the available Golden Sunflowers.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; makes all Golden Sunflowers release their stored Sun.</color>",
             "cost": "<size=36>Upgrade Cost: </color><color=#8B0000>3000 Coins; each existing Golden Sunflower will double the cost</color>"
         },
         {
