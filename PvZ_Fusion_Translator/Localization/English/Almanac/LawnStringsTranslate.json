@@ -2118,7 +2118,7 @@
             "seedType": 1112,
             "name": "Cabbage Pot",
             "introduce": "<align=left><size=36><color=black>\"I'm not just a pot to hold cabbages, and Cabbage-pult is not the weakest plant! Cabbage-pult and I are best buddies,\" Cabbage Pot says confidently. Their friendship might have come to be because... one of them is balding, and the other is already bald.</color>",
-            "info": "<size=36>Cabbage Pot provides an attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult and Helios Cabbage above it by 25%, other Cabbage plants by 33%.</color>",
+            "info": "<size=36>Cabbage Pot provides an attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult, Helios Cabbage and Selene Cabbage above it by 25%, other Cabbage plants by 33%.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult > Flower Pot</color>"
         },
         {
