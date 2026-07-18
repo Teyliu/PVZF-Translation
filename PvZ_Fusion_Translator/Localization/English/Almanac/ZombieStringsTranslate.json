@@ -160,7 +160,7 @@
             "theZombieType": 26,
             "name": "Zomppelin",
             "introduce": "<align=left><size=36><color=black>The Zomppelin, Dr. Edgar's latest creation, is quickly becoming the zombies' trusted ally. Speculation abounds about who will pilot this powerful weapon—perhaps the imp or even the airship itself? \"It's just a balloon,\" Dr. Edgar remarked. \"Zombies need to keep up with the times. I'm even considering turning it into a drone to avoid embarrassment when defeated by plants.\"</color>",
-            "info": "<size=36>Drops deadly bombs as it flies over your plants.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops Jack-in-the-Box Bombs every 3s to the plant directly below. Can be pushed back half a tile by Blovers. Crashes if hit 10 times with Magnethorn or Magnetar projectiles.</color>"
+            "info": "<size=36>Drops deadly bombs as it flies over your plants.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops Jack-in-the-Box Bombs every 3s to the plant directly below. Can be pushed back half a tile by Blovers. Crashes if hit 10 times with Magnet Cactus or Magnetar projectiles.</color>"
         },
         {
             "theZombieType": 27,
@@ -778,13 +778,13 @@
             "theZombieType": 205,
             "name": "Kirov Zomppelin",
             "introduce": "<align=left><size=36><color=black>Was that a huge flying object? No, it was actually a gigantic airship, featuring a sturdy shell and the ability to release a squadron of fighters. Even when destroyed, the airship could still wreak havoc on surrounding creatures, causing other zombies to keep their distance, fearing that a crash might send them to their demise.</color>",
-            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every 3s. Crashes if hit 20 times with Magnethorn or Magnetar projectiles.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins and Kirov Zomppelins now have their movement speed ×5 and become immune to Blovers\n2. Each Kirov Drone Toughness increased to 25k</color>"
+            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every 3s. Crashes if hit 20 times with Magnet Cactus or Magnetar projectiles.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins and Kirov Zomppelins now have their movement speed ×5 and become immune to Blovers\n2. Each Kirov Drone Toughness increased to 25k</color>"
         },
         {
             "theZombieType": 206,
             "name": "Kirov Drone",
             "introduce": "<align=left><size=36><color=black>This is no ordinary aircraft; it is a special plane that has been compressed through water pressure. While the exact method of compression remains a mystery, its battlefield strength rivals that of conventional bombers.</color>",
-            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3s. Crashes if hit 3 times with Magnethorn or Magnetar projectiles.</color>"
+            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3s. Crashes if hit 3 times with Magnet Cactus or Magnetar projectiles.</color>"
         },
         {
             "theZombieType": 207,
@@ -874,7 +874,7 @@
             "theZombieType": 221,
             "name": "<u>Skystrider Mecha</u>",
             "introduce": "<align=left><size=36><color=black>The battlefield trembled as Skystrider Mecha rolled in, its mechanical frame gleaming under the dim light. \"Engaging ground assault,\" it announced, crushing plants like twigs. But the true horror began when it took to the skies. \"Aerial dominance achieved,\" it declared, summoning Kirov Zomppelins and dropping bombs with surgical precision. \"Your defenses are obsolete.\"</color>",
-            "info": "<size=36>Lift off! We have a lift off!\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and being downed by Magnethorn's special traits.\n<color=black>•</color> Very fast on land, crushes plants.\n<color=black>•</color> At 2/3 Toughness, it briefly becomes invincible then takes off, summoning a fleet of Kirov Zomppelins every 3s and dropping Jack-in-the-Box bombs.</color>"
+            "info": "<size=36>Lift off! We have a lift off!\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and being downed by Magnet Cactus's special traits.\n<color=black>•</color> Very fast on land, crushes plants.\n<color=black>•</color> At 2/3 Toughness, it briefly becomes invincible then takes off, summoning a fleet of Kirov Zomppelins every 3s and dropping Jack-in-the-Box bombs.</color>"
         },
         {
             "theZombieType": 222,
@@ -1270,19 +1270,19 @@
             "theZombieType": 327,
             "name": "Kirov Bomber",
             "introduce": "<align=left><size=36><color=black>Since top-of-the-line parts aren't windfall, Gfishtus Corps thought it would be cost efficient to make a simplified model for lower scale attacks. Though ultimately they just made an airship that is uncannily similar to Dr. Zomboss' original model...\n\n- Written by Mr. Etc.</color>",
-            "info": "<size=36>A Kirov airship that periodically drops Jack-in-the-Box bombs.\n\n<color=black>Damage: </color><color=#4B0082>500/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Crashes if hit 20 times with Magnethorn or Magnetar projectiles.</color>"
+            "info": "<size=36>A Kirov airship that periodically drops Jack-in-the-Box bombs.\n\n<color=black>Damage: </color><color=#4B0082>500/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Crashes if hit 20 times with Magnet Cactus or Magnetar projectiles.</color>"
         },
         {
             "theZombieType": 328,
             "name": "Kirov Mothership",
             "introduce": "<align=left><size=36><color=black>The Kirov mothership is a core product of Gfishtus Corps, and the company claims it uses cutting-edge drone technology. But if you examine the debris of its minions closely, you'll often find \"Recycled\" painted in red.</color>",
-            "info": "<size=36>An aerial mothership that deploys Kirovs Drones.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Every 3s, summons a Kirov Drone with 0.1× its own HP.\n<color=black>•</color> Crashes if hit 30 times with Magnethorn or Magnetar projectiles.</color>"
+            "info": "<size=36>An aerial mothership that deploys Kirovs Drones.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Every 3s, summons a Kirov Drone with 0.1× its own HP.\n<color=black>•</color> Crashes if hit 30 times with Magnet Cactus or Magnetar projectiles.</color>"
         },
         {
             "theZombieType": 329,
             "name": "Kirov Flagship",
             "introduce": "<align=left><size=36><color=black>High-altitude infiltration! Integrated recon and assault! Total firepower coverage! Fully digitalized unmanned combat! Gfishtus Corps proudly presents Kirov 2.0! It's the ultimate beast, except for the ridiculously short flight range that relegates it to being a mere frigate under a larger mothership. The mothership, of course, is sold separately.</color>",
-            "info": "<size=36>An aerial supremacy that deploys rapid carpet bombers.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Every 3s, summons 2 Supersonic Bombers to quickly decimate the lane.\n<color=black>•</color> Crashes if hit 40 times with Magnethorn or Magnetar projectiles.</color>"
+            "info": "<size=36>An aerial supremacy that deploys rapid carpet bombers.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Every 3s, summons 2 Supersonic Bombers to quickly decimate the lane.\n<color=black>•</color> Crashes if hit 40 times with Magnet Cactus or Magnetar projectiles.</color>"
         },
         {
             "theZombieType": 330,
