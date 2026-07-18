@@ -624,7 +624,7 @@
         },
         "8": {
             "name": "Meteor Storm",
-            "desc": "Magnetar: Attack Interval 1.5s → 0.5s"
+            "desc": "Magnetar: Attack Interval 1s → 0.5s"
         },
         "9": {
             "name": "Syzygy",
@@ -1192,7 +1192,7 @@
         },
         "4": {
             "name": "",
-            "desc": "Unlock Magnetar: Stardrop + Magnethorn\nand its Subspecies Pulsar"
+            "desc": "Unlock Magnetar: Stardrop + Magnet Cactus\nand its Subspecies Pulsar"
         },
         "5": {
             "name": "",

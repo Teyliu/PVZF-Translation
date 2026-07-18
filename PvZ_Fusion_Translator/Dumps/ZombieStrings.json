@@ -244,7 +244,7 @@
             "theZombieType": 40,
             "name": "机械保龄球僵尸",
             "introduce": "<color=#3D1400>启动保龄球可是个麻烦的事——首先要加好油、上好润滑，然后还得把它搬到弹射装置上，之后才能启动。小鬼可搬不动保龄球，这些都是巨人帮忙干的。。</color>",
-            "info": "滚动的保龄球，动力来自小鬼僵尸和重力势能。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>免疫黄油和中毒。滚动前进，在斜坡上加速，撞到植物后换行并减速，碰到保护伞时停下。碾压血量不足1000的植物，否则造成1000伤害。蓝眼/红眼状态死亡时，生成冰球/火球和5个小鬼僵尸。黄眼状态死亡时掉落机械保龄球碎片</color>\n<color=#A86A44>冰球/火球：</color><color=red>存在30秒，碾压非坚实植物。碾压被抵抗、被坚实植物阻挡（会对其造成500伤害）、阻挡30发子弹、受到火爆辣椒/寒冰菇效果时提前消失</color>\n<color=#3D1400>弱点：</color><color=red>保护伞类融合植物</color>"
+            "info": "滚动的保龄球，动力来自小鬼僵尸和重力势能。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>免疫黄油和中毒。滚动前进，在斜坡上加速，撞到植物后换行并减速，碰到保护伞时停下。碾压血量不足1000的植物，否则造成1000伤害。蓝眼/红眼状态死亡时，生成冰球/火球和5个小鬼僵尸。黄眼状态死亡时掉落机械碎片</color>\n<color=#A86A44>冰球/火球：</color><color=red>存在30秒，碾压非坚实植物。碾压被抵抗、被坚实植物阻挡（会对其造成500伤害）、阻挡30发子弹、受到火爆辣椒/寒冰菇效果时提前消失</color>\n<color=#3D1400>弱点：</color><color=red>保护伞类融合植物</color>"
         },
         {
             "theZombieType": 41,
@@ -442,7 +442,7 @@
             "theZombieType": 73,
             "name": "僵尸火红莲",
             "introduce": "<color=#3D1400>没有人知道他为什么出现在僵尸聚集的地方、也没有人知道他为什么能召唤源源不断的僵尸。有人说他是火红莲的墓碑，也有人说他是植物中的叛徒。僵尸火红莲把一切都埋藏在心底，或许他曾经解释过，但没有人能听懂。</color>",
-            "info": "会招来僵尸的恶之花，能像墓碑一样顶替植物。\n\n<color=#3D1400>韧性：</color><color=red>300</color>\n<color=#3D1400>特点：①</color><color=red>只会在地图右5列出场，尽可能在空地出场，否则随机顶替一格植物</color>\n<color=#3D1400>②</color><color=red>不会被承伤</color>\n<color=#3D1400>③</color><color=red>能吸收经过的植物方子弹，每吸收1发子弹流失0.1倍韧性的血量</color>\n<color=#3D1400>④</color><color=red>出场10秒后，随机召唤一只植物僵尸，此后每15秒召唤1只。死亡时召唤1只并掉落僵尸肥料</color>\n<color=#3D1400>⑤</color><color=red>对其使用肥料时，消失并掉落1张惊喜礼盒卡牌</color>\n<color=#3D1400>僵尸肥料：</color><color=red>火封一格植物。5秒内未使用时，也会随机对场上一株主位植物使用。无法对免疫火封的植物使用</color>\n<color=#3D1400>火封：</color><color=red>巨型植物、火系植物免疫火封。期间不可与植物交互。吸收25发子弹或受到肥料效果后解除。僵尸方解除火封时，将原植物变为僵尸火红莲</color>"
+            "info": "会招来僵尸的恶之花，能像墓碑一样顶替植物。\n\n<color=#3D1400>韧性：</color><color=red>300</color>\n<color=#3D1400>特点：①</color><color=red>只会在地图右5列出场，尽可能在空地出场，否则随机顶替一格植物</color>\n<color=#3D1400>②</color><color=red>不会被承伤</color>\n<color=#3D1400>③</color><color=red>能吸收经过的植物方子弹，每吸收1发子弹流失0.1倍韧性的血量</color>\n<color=#3D1400>④</color><color=red>出场10秒后，随机召唤一只植物僵尸，此后每15秒召唤1只。死亡时召唤1只并掉落僵尸肥料</color>\n<color=#3D1400>⑤</color><color=red>对其使用肥料时，消失并掉落1张惊喜礼盒卡牌</color>\n<color=#3D1400>僵尸肥料：</color><color=red>火封一格植物。5秒内未使用时，也会随机对场上一株主位植物使用。无法对免疫火封的植物使用</color>\n<color=#3D1400>火封：</color><color=red>巨型植物、火系植物、超级机械坚果免疫火封。期间不可与植物交互。吸收25发子弹或受到肥料效果后解除。僵尸方解除火封时，将原植物变为僵尸火红莲</color>"
         },
         {
             "theZombieType": 74,
@@ -556,7 +556,7 @@
             "theZombieType": 101,
             "name": "樱桃射手僵尸",
             "introduce": "<color=#3D1400>樱桃射手僵尸是一个17岁的高中生，脖子上顶着一个植物脑袋，他最喜欢的水果是樱桃，由于生在教皇世家，僵尸们称他为“绿色法皇。”</color>",
-            "info": "发射粉色樱桃子弹攻击你的植物。\n\n<color=#3D1400>子弹伤害：</color><color=red>40</color>\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>每1.5秒发射一颗粉樱桃</color>"
+            "info": "发射粉樱桃攻击你的植物。\n\n<color=#3D1400>子弹伤害：</color><color=red>40</color>\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>每1.5秒发射一颗粉樱桃</color>"
         },
         {
             "theZombieType": 102,
@@ -808,7 +808,7 @@
             "theZombieType": 210,
             "name": "超级机械保龄球",
             "introduce": "<color=#3D1400>巨人僵尸一直想要一个保龄球，小鬼听说后连夜改造。实际上他只是在外面涂了一层油漆，并趁机把里面的零食拿出来了。</color>",
-            "info": "机鱼公司研发的电力滚地机器人。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>移速：</color><color=red>极快</color>\n<color=#3D1400>特点：</color><color=red>拥有机械保龄球僵尸的特点，但死亡时只会掉落超级机械保龄球碎片</color>\n<color=#3D1400>词条1：</color><color=red>缓冲保护：所有僵尸前50次受伤降为1点伤害</color>\n<color=#3D1400>词条2：</color><color=red>受击保护：所有僵尸前100次受伤后0.2秒内只会受到高于受伤值的伤害</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
+            "info": "机鱼公司研发的电力滚地机器人。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>移速：</color><color=red>极快</color>\n<color=#3D1400>特点：</color><color=red>拥有机械保龄球僵尸的特点，但死亡时只会掉落超级机械碎片</color>\n<color=#3D1400>词条1：</color><color=red>缓冲保护：所有僵尸前50次受伤降为1点伤害</color>\n<color=#3D1400>词条2：</color><color=red>受击保护：所有僵尸前100次受伤后0.2秒内只会受到高于受伤值的伤害</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
         },
         {
             "theZombieType": 211,
@@ -868,7 +868,7 @@
             "theZombieType": 220,
             "name": "究极黑橄榄将军",
             "introduce": "<color=#3D1400>他是经历尸山血海的将军，是僵尸一族的战神。他曾于败军之际率残部殊死抵抗，突出重围。身后的旗帜记录着那一战被消灭的敌军的姓名，也禁锢着他们的灵魂。</color>",
-            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退。受到植物方回血量0.1倍且至多为1%韧性的伤害，以阻止植物回血。通过啃咬，可以将植物变为黑橄榄高坚果僵尸。每行动3秒，攻击力x2（最高100万），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>词条：</color><color=red>战意激增：每次成长所需的行动时间减半</color>\n<color=#3D1400>不会被其啃咬转变的植物：</color>\n<color=#3D1400>①</color><color=red>坚实植物</color>\n<color=#3D1400>②</color><color=red>大蒜类植物，魅惑菇类植物</color>"
+            "info": "负旗陷阵的猛将，截断植物生机，致其坐困愁城。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退。受到植物方回血量0.1倍且至多为1%韧性的伤害，以阻止植物回血。通过啃咬，可以将植物变为黑橄榄高坚果僵尸。每行动3秒，攻击力x2（最高100万），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>词条：</color><color=red>战意激增：每次成长所需的行动时间减半</color>\n<color=#3D1400>不会被其啃咬转变的植物：</color>\n<color=#3D1400>①</color><color=red>坚实植物</color>\n<color=#3D1400>②</color><color=red>大蒜类植物，魅惑菇类植物</color>"
         },
         {
             "theZombieType": 221,
@@ -886,13 +886,13 @@
             "theZombieType": 223,
             "name": "究极Z教授",
             "introduce": "<color=#3D1400>作为埃德加博士的恩师，究极Z教授的谈吐都透露出一股儒雅随和的气质。你如果详备地问他问题，他是不会生气的。当然倘若是拿走他的报纸，那就另当别论了。。</color>",
-            "info": "痴迷研究的博学者，最近将目光投向了你...\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>6000+15000（一类）+3000（二类）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快\n失去报纸后变为极快</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退、换行。拥有报纸时，本体和一类防具免疫伤害。失去报纸时，将附近最多30个僵尸转化为失去报纸的樱桃机枪读报僵尸（进化模式中会转化为樱桃机枪硕士僵尸），随后自身发射、投掷爆炸樱桃攻击植物。受到扎胎效果时，立即失去报纸，然后移速归零</color>\n<color=#3D1400>转化对象：</color><color=red>可以是魅惑僵尸。不能是载具、巨型、BOSS和领袖、水生、飞行僵尸或毁灭机枪读报僵尸</color>"
+            "info": "痴迷研究的博学者，最近将目光投向了你...\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>6000+15000（一类）+3000（二类）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快\n失去报纸后变为极快</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退、换行。碾压植物。拥有报纸时，本体和一类防具免疫伤害。失去报纸时，将附近最多30个僵尸转化为失去报纸的樱桃机枪读报僵尸（进化模式中会转化为樱桃机枪硕士僵尸），随后自身发射、投掷爆炸樱桃攻击植物。受到扎胎效果时，立即失去报纸，然后移速归零</color>\n<color=#3D1400>转化对象：</color><color=red>可以是魅惑僵尸。不能是载具、巨型、BOSS和领袖、水生、飞行僵尸或毁灭机枪读报僵尸</color>"
         },
         {
             "theZombieType": 224,
             "name": "究极玩偶匣皇后",
             "introduce": "<color=#3D1400>女皇的威仪不容置疑，只需一个眼神，周围的仆从者便已开始颤栗。但与此同时，玩偶匣女皇也很喜欢分享，她的礼物盒里除了炸弹还准备好了给小孩子们的礼物，而她已经迫不及待要把这些礼物送出去啦。</color>",
-            "info": "咔嗒，咔嗒——玩偶匣弹出皇后的身影，小丑的爆炸派对狂欢开场！\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、冻结。碾压植物。每8秒开启玩偶匣，从以下效果中随机释放一种：\n·在第五列及更右侧每格召唤已进入自爆状态（免疫伤害）的小丑王僵尸\n·在第五列及更右侧每格召唤小丑跳跳王（水路自动变为小丑爆破王）\n·在本体所在列的每一格释放1次造成物理伤害的玩偶匣爆炸\n死亡时，释放造成物理伤害的玩偶匣爆炸</color>"
+            "info": "每当巨型玩偶匣开启，小丑的爆炸派对便会迎来高潮。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、冻结。碾压植物。每8秒开启玩偶匣，从以下效果中随机释放一种：\n·在第五列及更右侧每格召唤已进入自爆状态（免疫伤害）的小丑王僵尸\n·在第五列及更右侧每格召唤小丑跳跳王（水路自动变为小丑爆破王）\n·在本体所在列的每一格释放1次造成物理伤害的玩偶匣爆炸\n死亡时，释放造成物理伤害的玩偶匣爆炸</color>"
         },
         {
             "theZombieType": 225,
@@ -946,7 +946,7 @@
             "theZombieType": 233,
             "name": "特种武装巨人",
             "introduce": "<color=#3D1400>特种武装巨人们总表示他们的友谊坚不可摧，但蓝眼总受到他们的排斥。“我们刚好可以组成信号灯，他来就多余了！”绿眼这么说。</color>",
-            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>巨型僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#A86A44>红眼：</color><color=red>免疫红温。拥有200点护甲</color>\n<color=#A86A44>蓝眼：</color><color=red>免疫寒冷、冻结、击退。速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#A86A44>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外攻击一次</color>\n<color=#A86A44>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>武艺贯通：整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>震地呼唤：锤击时生成外表对应的武装小鬼僵尸</color>"
+            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>巨型僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#A86A44>红眼：</color><color=red>免疫红温。拥有200点护甲</color>\n<color=#A86A44>蓝眼：</color><color=red>免疫寒冷、冻结、击退。速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#A86A44>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外攻击一次</color>\n<color=#A86A44>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>武艺贯通：整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>震地呼唤：锤击每击中一株植物，就召唤一次外表对应的武装小鬼僵尸</color>"
         },
         {
             "theZombieType": 234,
@@ -1096,7 +1096,13 @@
             "theZombieType": 259,
             "name": "究极僵尸火红莲",
             "introduce": "<color=#3D1400>在丛林深处，有着一株世纪之花：它的根茎连接着智慧树，喷出的焰蓝深火可焚烧万物，身体里藏着无数的灵魂欲火。起初大家都只把它当成一个传说，直到僵尸们真的发现了一根无边无际望不到尽头的黑黄根茎……</color>",
-            "info": "以含苞姿态携着生机接近，于绽放时显露狰狞与死兆。\n\n<color=#3D1400>韧性：</color><color=red>48000 </color>\n<color=#3D1400>伤害：</color><color=red>100</color>\n<color=#3D1400>移速：</color><color=red>极慢\n僵尸状态变为中等</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫寒冷、冻结、定身、击退。无视植物移动。以花苞状态出场，定期在该状态与僵尸状态间切换。在场时，使地图无法生产肥料，且解除火封状态需要的子弹数提升至[245+5×自身韧性的立方根]。死亡时，解除全场植物的火封状态</color>\n<color=#3D1400>花苞状态：</color><color=red>持续15秒。免疫伤害。使植物肥料失效。每吸收[49+自身韧性的立方根]发子弹后，掉落一份肥料、流失3%血量、向后退缩、换行</color>\n<color=#3D1400>绽放状态：</color><color=red>持续30秒。被攻击时略微退缩，幅度随伤害量提升。每5秒，使地图左上角生产一份僵尸肥料，并喷射火焰对前方6格所有植物造成伤害（飞行植物除外）</color>\n<color=#3D1400>僵尸肥料：</color><color=red>火封一格植物。5秒内未使用时，也会随机对场上一株主位植物使用。无法对免疫火封的植物使用</color>\n<color=#3D1400>火封：</color><color=red>巨型植物、火系植物免疫火封。期间不可与植物交互。吸收25发子弹或受到肥料效果后解除。由僵尸方解除火封时，对应植物会变为僵尸火红莲</color>"
+            "info": "以含苞姿态携着生机接近，于绽放时显露狰狞与死兆。\n\n<color=#3D1400>韧性：</color><color=red>48000 </color>\n<color=#3D1400>伤害：</color><color=red>100</color>\n<color=#3D1400>移速：</color><color=red>极慢\n绽放状态变为中等</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫寒冷、冻结、定身、击退。无视植物移动。以花苞状态出场，定期在该状态与绽放状态间切换。在场时，肥料不会在地图中生产，且只能用于解除火封，解除火封所需吸收的子弹数量提升至[245+5×自身韧性的立方根]。死亡时，解除全场植物的火封状态</color>\n<color=#3D1400>花苞状态：</color><color=red>持续15秒。免疫伤害。每吸收[49+自身韧性的立方根]发子弹后，掉落一份肥料、流失3%血量、向后退缩、换行</color>\n<color=#3D1400>绽放状态：</color><color=red>持续30秒。被攻击时略微退缩，幅度随伤害量提升。每5秒，使地图左上角生产一份僵尸肥料，并喷射火焰对前方6格所有植物造成伤害（飞行植物除外）</color>\n<color=#3D1400>僵尸肥料：</color><color=red>火封一格植物。5秒内未使用时，也会随机对场上一株主位植物使用。无法对免疫火封的植物使用</color>\n<color=#3D1400>火封：</color><color=red>巨型植物、火系植物、超级机械坚果免疫火封。期间不可与植物交互。吸收25发子弹或受到肥料效果后解除。由僵尸方解除火封时，对应植物会变为僵尸火红莲</color>"
+        },
+        {
+            "theZombieType": 260,
+            "name": "<BOSS>黑橄榄将军",
+            "introduce": "<color=#3D1400></color>",
+            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>韧性：</color><color=red>90000</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特点：</color><color=red>BOSS僵尸。免疫冻结、定身、换行，会秒杀接触的魅惑僵尸。在地图右侧出场，随后向前方插入三支将旗。将旗每5秒召唤一次橄榄类僵尸，共5次。通过攻击，将植物转化为黑橄榄高坚果僵尸。移动至第二列时返回最后一列，重新携带将旗出场并插旗</color>"
         },
         {
             "theZombieType": 300,
