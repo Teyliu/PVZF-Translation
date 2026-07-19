@@ -333,7 +333,7 @@
             "seedType": 223,
             "name": "Hearty Apple",
             "introduce": "<align=left><size=36><color=black>\"Peace and joy!\" Hearty Apple cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
-            "info": "<size=36>Hearty Apple wards off disaster and keeps you \"apples\" safe by taking damage on their behalf!n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
+            "info": "<size=36>Hearty Apple wards off disaster and keeps you \"apples\" safe by taking damage on their behalf!\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
