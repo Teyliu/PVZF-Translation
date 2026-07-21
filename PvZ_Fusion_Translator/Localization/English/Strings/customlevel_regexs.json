@@ -86,5 +86,7 @@
   "密码值：komnz([^\\s]+)": "Encoded coordinates: komnz{0}",
   "密码值：totk([^\\s]+)": "Encoded coordinates: totk{0}",
   "密码值：zkt([^\\s]+)": "Encoded coordinates: zkt{0}",
-  "密码值：ykbkt([^\\s]+)": "Encoded coordinates: ykbkt{0}"
+  "密码值：ykbkt([^\\s]+)": "Encoded coordinates: ykbkt{0}",
+  "消耗阳光([^\\s]+)": "Spend {0} Sun",
+  "获得阳光([^\\s]+)": "Receieve {0} Sun"
 }

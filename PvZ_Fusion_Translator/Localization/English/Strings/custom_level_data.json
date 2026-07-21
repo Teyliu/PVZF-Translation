@@ -294,5 +294,25 @@
     "level_1782642575043_0vkbc2fvn": {
         "name": "3.7.0 Mini-game Energy Crisis-The Decay Zone",
         "startTip": "After protecting the energy node last time, we seem to have to fallen into an unstable space.\nUh oh, our battleground is decaying! Most of our fusions are missing, too. What's worse is we don't have any sun producing plants!\nDing-Phenomenon C-72 detected, Detecting level entered.\nDetection success, the entered level is level 609-“The Decay Zone”."
+    },
+    "level_1783824951429_94tcqoq2u": {
+        "name": "3.8.0 Custom Creation   Gacha Simulator",
+        "startTip": "<#FF3>Recommended difficulty for this level: 5. Press esc to see this tip again. Start with 500 Sun. Use the giftbox in slot 2 or 5 (Slot 5 has different rates which won't be listed here.) to do a gacha pull. One pull costs 100 Sun, with the below rates:\n<#272727>15% Trash, <#7B7B7B>20% Normal, <#0072E3>45% Rare, <#FF5809>15% Legendary, <#FF0000>5% Mythical.</color>\n<#FFE><#FFEC>Slot 3 Giftbox: No risk 25 Sun. 5 Second CD. Slot 4 Giftbox: High Risk, Spend 200~500 Sun to get 100~500 Sun. Press cancel to reroll up to twice. 30 Second CD. Slot 6 Giftbox: Custom buffs, try the specifics out yourself.\n<#ff2D2D>Use your collected plants and buffs to defeat an Abyssal Gargantuar and reach 5000 Sun to win. (Can be completed seperately.) Click on a collected plant if you wish to delete it."
+    },
+    "level_1783824952876_6hk7plrdo": {
+        "name": "3.8.0 Mini-game Hurdles",
+        "startTip": "<b>[High difficulty warning: try with caution]\n[This level has reduced spawn rate]\n[Remember to protect the Nut Pots on the lawn!]</b>\n<i>Climbing mountains!</i></color>\n\n\n\n\n\n\n\n<size=25>The Zombies are holding a hurdles competition on your lawn, and the prize is your brains!\nLadders have been put on all your plants... Although, this might not be entirely a bad thing?</size>\n<size=16>Tips: Plants under a ladder can't be moved, so you can get rid of that glove.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1784114512548_3nlbxyvwm": {
+        "name": "3.8.0 I, Zombie      Doom From Above",
+        "startTip": "<size=18>Doom-pult's melons can instakill other plants!\nUse its weird projectile arc to beat this level!\nRight, don't forget the mechanics of Umbrella Kale and Midas Umbrella!\nRecommended Difficulty: 0, Submitter: 小董玩的好, Best Solution: 575 Sun."
+    },
+    "level_1784114515280_ta0m57ini": {
+        "name": "3.8.0 I, Zombie   Getting Over It",
+        "startTip": "<color=#00F8FF>W<color=#08F0FF>i<color=#10E8FF>t<color=#18E0FF>h<color=#20D8FF> t<color=#28D0FF>h<color=#30C8FF>e<color=#38C0FF> p<color=#40B8FF>o<color=#48B0FF>w<color=#50A8FF>e<color=#58A0FF>r<color=#6098FF> o<color=#6890FF>f<color=#7088FF> l<color=#7880FF>a<color=#8078FF>d<color=#8870FF>d<color=#9068FF>e<color=#8870FF>r<color=#9860FF>s<color=#A058FF>,<color=#A850FF>n<color=#B048FF>o<color=#B840FF>t<color=#C038FF>h<color=#C830FF>i<color=#D028FF>n<color=#D820FF>g<color=#E018FF> c<color=#E810FF>a<color=#F008FF>n<color=#F800FF> g<color=#FF00FF>e<color=#FF08FF>t<color=#FF10FF> i<color=#FF18FF>n<color=#FF20FF> y<color=#FF28FF>o<color=#FF30FF>u<color=#FF38FF>r<color=#FF40FF> w<color=#FF48FF>a<color=#FF50FF>y<color=#FF58FF> a<color=#FF60FF>n<color=#FF68FF>y<color=#FF70FF>m<color=#FF78FF>o<color=#FF80FF>r<color=#FF88FF>e!\n<color=#FFFF8888>ps. Click on a plant to stack a ladder on it. There'll be multiple popups if you click on more than one plant at once.\nDon't accidentally put multiple ladders in the same spot.\n<alpha=#FF><color=#FFFFBB>Best Solution: 50 Sun    Submitter: <color=#88DD88>用<color=#964B00>钓<color=#BBFFBB>钩<color=#964B00>钓钓<color=#BBFFBB>钩     <color=#FFFFBB>Recommended Difficulty: 4"
+    },
+    "level_1784114517094_j294150za": {
+        "name": "3.8.0 I, Zombie   Plant's Doom",
+        "startTip": "This level enables the Certain Doom modifier.\nSubmitter: 窝是fvv Best Solution: 125 Sun"
     }
 }
