@@ -5,7 +5,7 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.8 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.8.1 Changelog</size></align>
 
 1. The Gods: Evolved - Revolutionized Plus
 - Added even more evolution paths and upgrade modifiers
@@ -33,9 +33,13 @@ Please visit our community for future updates and support.
   - Doom-spreader (Doom-shroom + Threepeater)
   - Starry Squash (Squash + Starfruit)
   - Tri-pot (Threepeater > Flower Pot)
+- Advanced Fusions:
+  - Cryomancer Pea (Coldsnap Bean + Snow Pea)
 - Odyssey Fusions:
   - Common:
     - Quetzalcoatl Blover (Blover + Cyclover)
+    - SP Cryomancer Pea (Upgraded Cryomancer Pea, see Almanac)
+    - Ender Pumpkin Chest (Pumpkin Chest + Chrono-nut)
 - SP:
     - SP Phoenix Threepeater (Jalapeno > Phoenix Threepeater)
     - SP Phoenix Drone (Jalapeno > Phoenix Drone)
@@ -66,12 +70,15 @@ Please visit our community for future updates and support.
     - Shadow Elephant
     - Terror Elephant
     - Crimson Elephant
+  - Boss:
+    - Striker Boss (WIP)
 
 5. Balance Adjustments
 - Shroomageddon Modifier Rework: Blast Absorption > Volatile Barrier, now immune to all damage with a tradeoff
 - Cosmo-pult & Astro-nut Modifiers & Mechanics Rework
 - Infernal Squashwood & Infernal Sparkwood: Can now ignite more kinds of projectiles
 - Element-infused Gargantuar Modifier Rework: Affinity Awakening now summons Element-infused Imps
+- When a lane loses a lawn mower, zombies will not spawn in that lane for a short period of time.
 
 6. QOL Optimizations
 - New function to show projectile damage overlay on pressing T (toggleable in the settings)

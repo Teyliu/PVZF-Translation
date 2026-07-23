@@ -176,6 +176,22 @@
             "name": "Swift Winds",
             "desc": "Quetzalcoatl Blover: Blover spawning CD 10s → 3s"
         },
+        "44": {
+            "name": "Hat Trick",
+            "desc": "SP Cryomancer Pea: Everytime Cryomancer Pea's projectile ricochets, its damage increases by 10%. At Level 2, ricochet amount ×3"
+        },
+        "45": {
+            "name": "Spellbound",
+            "desc": "SP Cryomancer Pea: Cryomancer Pea's projectiles now prioritize targetting bosses with the highest HP when ricocheting. At Level 2, zombies hit by ricocheting projectiles take +10% extra damage"
+        },
+        "46": {
+            "name": "Steel Legend",
+            "desc": "Ender Pumpkin Chest: Can store metal objects dropped and uses them to heal Giga Mecha-nuts; prioritizing the one with the lowest HP first"
+        },
+        "47": {
+            "name": "Large Ender Chest",
+            "desc": "Ender Pumpkin Chest: The stack limit for each individual slot is now doubled for all Pumpkin Chests."
+        },
         "1000": {
             "name": "Quick Hands",
             "desc": "Gloves' cooldown is reduced by 10s (No CD for the plant Glove), and can now move Mini-bosses"
@@ -263,6 +279,14 @@
         "1021": {
             "name": "Healing Boost",
             "desc": "Plants gain a 20% healing bonus"
+        },
+        "1022": {
+            "name": "Coldsnap Blessing I",
+            "desc": "Upgrade Cryomancer Pea to SP Cryomancer Pea (Level 1)"
+        },
+        "1023": {
+            "name": "Coldsnap Blessing II",
+            "desc": "Upgrade SP Cryomancer Pea to Level 2"
         },
         "2000": {
             "name": "Doomsday",
@@ -583,6 +607,10 @@
         "12015": {
             "name": "Ascend: Fortune",
             "desc": "Soulrender Bamboo can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
+        },
+        "12016": {
+            "name": "Ascend: Decryption",
+            "desc": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies."
         },
         "13000": {
             "name": "Blast Protection",
