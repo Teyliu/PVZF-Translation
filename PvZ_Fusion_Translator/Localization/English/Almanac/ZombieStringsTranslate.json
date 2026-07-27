@@ -860,9 +860,9 @@
         },
         {
             "theZombieType": 219,
-            "name": "<u>Ultra Mecha-nut</u>",
-            "introduce": "<align=left><size=36><color=black>The Ultra Mecha-Nut was meant to be a smaller, precise Giga Mecha-Nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
-            "info": "<size=36>Secret artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>300000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Extremely Fast</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Inherits traits from Giga Mecha-nut.\n<color=black>•</color> Takes a maximum of 300 damage per hit after damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-Nut Zombie reduces the damage taken by all other zombies (except Mystery-box Zombies) to 1, but redirects the original damage to itself.</color>"
+            "name": "<u>Ultra Mecha-nut Zombie</u>",
+            "introduce": "<align=left><size=36><color=black>The Ultra Mecha-nut Zombie was meant to be a smaller, precise Giga Mecha-Nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
+            "info": "<size=36>Secret artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>300000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Extremely Fast</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Inherits traits from Giga Mecha-nut.\n<color=black>•</color> Takes a maximum of 300 damage per hit after damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-nut Zombie Zombie reduces the damage taken by all other zombies (except Mystery-box Zombies) to 1, but redirects the original damage to itself.</color>"
         },
         {
             "theZombieType": 220,

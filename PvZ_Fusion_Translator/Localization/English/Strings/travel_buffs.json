@@ -478,7 +478,7 @@
         },
         "10005": {
             "name": "Supply Drop",
-            "desc": "Obtain a Pumpkin Chest that has many seed packets for Epic Odyssey Fusions (no Subspecies)"
+            "desc": "Obtain a Pumpkin Chest that has many seed packets for Odyssey Fusions (no Subspecies)"
         },
         "10006": {
             "name": "Deus Ex Machina",
@@ -1122,7 +1122,7 @@
         },
         "3010": {
             "name": "Nemesis",
-            "desc": "Ultra Mecha-nut will appear as a Mini-boss"
+            "desc": "Ultra Mecha-nut Zombie will appear as a Mini-boss"
         },
         "3012": {
             "name": "Nemesis",
