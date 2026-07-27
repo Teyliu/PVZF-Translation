@@ -3,7 +3,7 @@
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.6.1**.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.8.1**.
 
 > **Discord Server**:
 >
@@ -32,12 +32,12 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
-	Up-to-date 3.8 - None
-	Last Updated 3.7 - English, Indonesian, Vietnamese
+	Up-to-date 3.8.1 - English, Korean
+	Last Updated 3.7 - Indonesian, Vietnamese
 	Last Updated 3.6.1 - Spanish
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
-	Last Updated 3.3.1 - Korean, Romanian
+	Last Updated 3.3.1 - Romanian
 
 	Languages below have been removed due to a lack of updates.
 	Last Updated 2.6.1 - Russian 
