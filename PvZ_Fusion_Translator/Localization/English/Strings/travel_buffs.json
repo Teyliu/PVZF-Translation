@@ -177,20 +177,20 @@
             "desc": "Quetzalcoatl Blover: Blover spawning CD 10s → 3s"
         },
         "44": {
-            "name": "Permafrost",
-            "desc": "Cryomancer Pea: Polar peas gain +10% damage every ricochet | Epic Odyssey form gains 3x ricochets"
+            "name": "Hat Trick",
+            "desc": "SP Cryomancer Pea: Everytime Cryomancer Pea's projectile ricochets, its damage increases by 10%. At Level 2, ricochet amount ×3"
         },
         "45": {
-            "name": "Arctic Wrath",
-            "desc": "Cryomancer Pea: Polar peas now prioritize Mini-bosses when ricocheting. When in its Epic Odyssey form, zombies hit by ricocheting polar peas recieve 10% more damage."
+            "name": "Spellbound",
+            "desc": "SP Cryomancer Pea: Cryomancer Pea's projectiles now prioritize targetting bosses with the highest HP when ricocheting. At Level 2, zombies hit by ricocheting projectiles take +10% extra damage"
         },
         "46": {
-            "name": "Emergency First Aid",
-            "desc": "Ender Pumpkin Chest: Can now store metal objects as seed packets, and will automatically apply them to the Giga Mecha-nut with the lowest health on the board if any are present."
+            "name": "Salvage Scavenger",
+            "desc": "Ender Pumpkin Chest: Can store metal objects dropped and uses them to heal Giga Mecha-nuts; prioritizing the one with the lowest HP first"
         },
         "47": {
-            "name": "Kleptomania",
-            "desc": "Ender Pumpkin Chest: Storage limits doubled"
+            "name": "Large Ender Chest",
+            "desc": "Ender Pumpkin Chest: The stack limit for each individual slot is now doubled for all Pumpkin Chests."
         },
         "1000": {
             "name": "Quick Hands",
@@ -281,12 +281,12 @@
             "desc": "Plants gain a 20% healing bonus"
         },
         "1022": {
-            "name": "Spell Enhancements - Level 1",
-            "desc": "Cryomancer Pea recieves an upgrade into its Common Odyssey form."
+            "name": "Coldsnap Insight I",
+            "desc": "Upgrade Cryomancer Pea to SP Cryomancer Pea (Level 1)"
         },
         "1023": {
-            "name": "Spell Enhancements - Level 2",
-            "desc": "Cryomancer Pea recieves an upgrade into its Epic Odyssey form."
+            "name": "Coldsnap Insight II",
+            "desc": "Upgrade SP Cryomancer Pea to Level 2"
         },
         "2000": {
             "name": "Doomsday",
@@ -607,6 +607,10 @@
         "12015": {
             "name": "Ascend: Fortune",
             "desc": "Soulrender Bamboo can now follow mouse movements with attack speed upgrades increasing the movement speed, deal damage to any zombies caught in its way"
+        },
+        "12016": {
+            "name": "Ascend: Decryption",
+            "desc": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies."
         },
         "13000": {
             "name": "Blast Protection",
