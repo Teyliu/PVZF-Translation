@@ -1,310 +1,1372 @@
 {
-    "debuffs": [
-        "チェリーガトリング新聞ゾンビ：Ability to walk through plants when its newspaper's broken",
-        "チェリーガトリング新聞ゾンビ：すべての状態効果が無効",
-        "Giga Football-nut Zombie: Bites now disable plant healing for 1s",
-        "Giga Football-nut Zombie: Bites weaken plants, making them receive 3× damage for 1s",
-        "Sharkmarine: Movement speed is now doubled",
-        "Sharkmarine: Gains 50% Damage Reduction",
-        "キーロフ飛空艇：ブロウヴァー無効｜移動速度UP",
-        "キーロフ飛空艇：キーロフドローンのHPが50倍",
-        "Clown-on-the-Pogo Zombie: Will always explode regardless of its state, and its charging time is reduced by 90%",
-        "Clown-on-the-Pogo Zombie: びっくり箱-type Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies",
-        "Giga Trident-nut Zombie: Tridents deal 5× damage",
-        "Giga Trident-nut Zombie: Now ignores Umbrella-type plants and targets random plants to attack",
-        "Superstar Zombie: Can now summon Super Dancing 棒高跳びゾンビs",
-        "Superstar Zombie: Will now phase through plants when sliding in",
-        "Undying Wraith: 爆発ダメージ will now ignore immunities by Joker パンプキンs and other relevant plants",
-        "Undying Wraith: Dash CD reduced｜攻撃力 Greatly Increased",
-        "Trident Hwacha: Now immune to most status effects and throws 5× as many tridents",
-        "All your existing plants have a 1/3 chance to perish (applied once)",
-        "Your Sun will be reset to 0",
-        "Double the health of all zombies",
-        "Increase the maximum limit of zombies per wave to 100",
-        "Michael Zomboni: Spawns Every Round｜Spawns Superstar Zombies when it dies",
-        "Michael Zomboni: Increased Movement Speed",
-        "黒曜石装甲ガーガンチュア：Spawns ゾンボス博士 when it dies",
-        "Pozeidon will appear as a ミニボス",
-        "Ultra Mecha-nut will appear as a ミニボス",
-        "究極フットボールストライカー will appear as a ミニボス",
-        "Skystrider Mecha will appear as a ミニボス",
-        "マイケルのスーパーライブ移動車 will appear as a ミニボス",
-        "チェリーＺ教授 will appear as a ミニボス",
-        "Bungee Zombies have a chance to drop an Odyssey Zombie in the 4th column or further to the right and will gain 90% DMG Reduction",
-        "Queen Jill-in-the-Box will appear as a ミニボス",
-        "Zombies have a chance to revive to full HP on death",
-        "You can have no more than 120 plants on the field",
-        "Alpha Assassin Squad will also appear as a ミニボス",
-        "Alpha Assassin Squad will always be invincible when incapacitated",
-        "Trident Hwacha will attack in advance",
-        "Giga Football 大公 will appear as a ミニボス",
-        "霜の軍団・空飛ぶ円盤: Dissolver Beams now target the farthest plant within range",
-        "霜の軍団・空飛ぶ円盤: Siphon Drainer's range: 1 Tile→3×3 Area",
-        "Element-infused ガーガンチュア: Appearance no longer matters, has the extra abilities of all four affinities at once",
-        "Element-infused ガーガンチュア: Appearance no longer matters, has the debuff immunities of all four affinities at once",
-        "Trident Jugger-nut ガーガンチュア: Trident Reload Speed ×3",
-        "Celestial ガーガンチュア will appear",
-        "破壊ガトリング新聞ゾンビ will appear"
-    ],
     "advancedBuffs": {
-        "0": "Enchantress-shroom Subspecies Unlocked｜Empress-shroom & Enchantress-shroom: Summon Interval→10s",
-        "1": "Empress-shroom & Enchantress-shroom: Can now summon Odyssey Zombies",
-        "2": "Gatling Frenzy-shroom Subspecies Unlocked｜Gatling Doom: No more rest after firing an Ultimate Doom Shell｜Effects also apply to SP variants",
-        "3": "Gatling Doom: Now fires an Ultimate Doom Shell every round instead of every 4th round｜Gatling Frenzy-shroom: Now fires an Ultimate Doom Shell every 4 attacks｜Effects also apply to SP variants",
-        "4": "Twin Solar-nut: Click Cost 500→200 Sun｜Twin Inferno-nut: Healing amount ×2｜Effects also apply to SP variants",
-        "5": "Twin Inferno-nut Subspecies Unlocked｜Twin Solar-nut: 耐久力 reduces by 10 for each hit instead of 50｜Twin Inferno-nut: Click cost 500→200 HP｜Effects also apply to SP variants",
-        "6": "Obsidian Spike-nut Subspecies Unlocked｜Obsidian Spikerock & Spike-nut: Damage multiplied by 5",
-        "7": "Obsidian Spikerock & Spike-nut: Gains 95% DMG Reduction",
-        "8": "Phoenix Drone Subspecies Unlocked｜炎帝スリーピーター & Phoenix Drone: Shots can now pierce infinitely and cause 炎上 explosions upon impact",
-        "9": "炎帝スリーピーター: Global 炎上 damage bonus 50%→150%, and regular ignited projectiles can now inflict the debuff",
-        "10": "Gatling Icicle-shroom & Sunburst-shroom: Icicles now pierce infinitely and split into two diagonal icicles upon impact the first five times｜Effects also apply to SP variants",
-        "11": "Gatling Sunburst-shroom Subspecies Unlocked｜Gatling Icicle-shroom: Damage to Frozen/Chill-immune zombies 4×→12×｜Effects also apply to SP variants",
-        "12": "Radiant Pot: Upgrade costs from Silver Pots to Golden Pots will not exceed 8k",
-        "13": "Radiant Pot: Coins exceeding the maximum amount will be converted into Sun at a rate of 2:1",
-        "14": "Aegis Umbrella Subspecies Unlocked｜Midas Umbrella & Aegis Umbrella: Activates Ultimate automatically if zombies are near",
-        "15": "Midas Umbrella: Damage Boost 100%→300%",
-        "16": "Aristocattail: Drone Attack Damage ×3｜Thunder Bunnyon: Summoned Drone is no longer nerfed and fires 60 shots normally",
-        "17": "Thunder Bunnyon Subspecies Unlocked｜Aristocattail: Regular Attack Damage ×5｜Thunder Bunnyon: Attack Damage ×3",
-        "18": "アバリスキノコ Subspecies Unlocked｜Calamity-shroom: All 破壊キノコ explosions are now craterless",
-        "19": "Calamity-shroom: Now spawns 3 extra Hypnotized ガーガンチュアs and Zombonis when it explodes",
-        "20": "Tycoonwood & Magnate プランタン: 1% Damage increase to Coin projectiles/lasers for every 1000 Coins you have",
-        "21": "Magnate プランタン Subspecies Unlocked｜Tycoonwood: Coin projectiles now deal splash damage",
-        "22": "Boreas Umbrella Subspecies Unlocked｜Pharos Umbrella: Energy Limit ×10, Recovery Speed ×20, Healing Speed ×2｜Boreas Umbrella: Damage in Scatter Mode increases linearly up to ×4, Damage in Focus Mode ×4",
-        "23": "Pharos Umbrella: Normal Attack Damage ×3, Explosion Damage ×10, Attack Interval→2s｜Boreas Umbrella: Cryo-beam in Focus Mode now applies Freeze for 1s",
-        "24": "Buck-shroom Squad: Sniper always headshots with a 1/3 chance to trigger rapid-fire, but attack CD increased to 7.5s｜Buck-strike Squadron: Attack damage ×3",
-        "25": "Buck-strike Squadron Subspecies Unlocked｜Buck-shroom Squad: Flak cannon knockback ×2, splash damage ×3｜Buck-strike Squadron: Attack damage ×3",
-        "26": "Dyson Magnet Subspecies Unlocked｜Tesla Magnet: Attack Range ×2｜Dyson Magnet: Metal Production CD halved",
-        "27": "Tesla Magnet: Absorbs 3 金属物s at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3｜Dyson Magnet: Heal amount ×3, extra 金属物 production limit (3 + (n/m)/4)→(3 + (n/m)/3)",
-        "28": "Wicked Undertater Subspecies Unlocked｜Grim Arbiter & Wicked Undertater: 種パケット drop is now guaranteed",
-        "29": "Grim Arbiter & Wicked Undertater: Zombie Soul damage transfer ×2",
-        "30": "Big Bang Cherry & Big Crunch Squash: Particle Soup initial duration increased from 7s to 10s",
-        "31": "Big Crunch Squash Subspecies Unlocked｜Big Bang Cherry & Big Crunch Squash: Explosive and doom projectiles have a small chance of transforming into Cosmic Debris with 12× damage when they hit zombies",
-        "32": "Cornposter Pot Subspecies Unlocked｜Cornveyor Weed & Cornposter Pot: Cornveyor and Cornposter's Butter stun duration ×3",
-        "33": "Cornveyor Weed: Now makes zombies on it to continuously slide to the right｜Cornposter Pot: Butter Chance for the plant above 50%→100%",
-        "34": "Omni Pumpkin: On entry, grants all connected 磁気植物s a Shield equal to 30 × number of 磁気植物s｜Quasar: On entry, resets and grants them an Attack buff of 0.5% × number of 磁気植物s instead",
-        "35": "Omni Pumpkin & Quasar: Now counts twice towards the number of 磁気植物s",
-        "36": "Dragonbreath Torcher: Explosion Frequency ×2",
-        "37": "Dragonbreath Torcher: Each zombie hit by Dragonbreath Torcher's fire breath increases the damage of the next hit of that same attack by 1%, stacking up to 400%",
-        "38": "Lethal Glacier-shroom Subspecies Unlocked｜Tundral Glacier-shroom: +100 Initial Energy｜Lethal Glacier-shroom: Damage ×2",
-        "39": "Tundral Glacier-shroom: Attack Radius ×2｜Lethal Glacier-shroom: Attack Interval halved",
-        "40": "魅惑魔法猫娘: Ability CD Halved, Ability radius +0.5 tiles",
-        "41": "魅惑魔法猫娘: 催眠されたゾンビs spawned by her ability deal an additional 30% true damage that ignores damage reduction when biting",
-        "1000": "Gloves' cooldown is reduced by 10s (No CD for the プラント手袋), and can now move Mini-bosses",
-        "1001": "All Plants' recharge is halved",
-        "1002": "Each Sun now gives more value｜5→15→25→50→75",
-        "1003": "Gloves' cooldown is halved, and can now move Mini-bosses",
-        "1004": "Imitater's Recharge: 5mins→50s",
-        "1005": "木槌's cooldown is reduced to 6s",
-        "1006": "You now have the option to re-pick your Plant Loadout during the game",
-        "1007": "Zombies take an additional 1800 damage when they take more than 1800 damage (after damage reduction)",
-        "1008": "Plants' Damage is increased by 20%",
-        "1009": "Zombies receive 20% more damage",
-        "1010": "Modifier 再抽選 times +2",
-        "1011": "The freeze time of all zombies is increased by 25%, and the slow rate from chill is increased by 10%",
-        "1012": "Gain 3000 Sun, then double your total amount of Sun after｜Sun Cap 50k→100k",
-        "1013": "True チェリー爆弾: Explosive cherries will now deal at least 1800 damage and cause Cremator damage",
-        "1014": "Clicking on the same plant when you have it on your Glove will disassemble it at the cost of 500 Sun｜20s cooldown",
-        "1015": "When two identical plants are placed one above the other (adjacent in the same column), they gain a 50% damage bonus and a 50% damage reduction",
-        "1016": "催眠されたゾンビs gain a 500% damage buff and 80% damage reduction (警告：Also causes Cherry Newspaper Zombies from Empress/Enchantress-shroom to not lose their newspaper on summon!!)",
-        "1017": "All Meteors' attack cooldowns are halved｜Base Meteor DMG increased by 300 for every Magnetar in the field",
-        "1018": "Adds 4 光レベルs for the entire field",
-        "1019": "When 催眠されたゾンビs die, they explode, dealing damage equal to 150% of their max HP to nearby zombies",
-        "1020": "After a plant is healed, they heal for 5% of their current health per second for the next 3 seconds (unstackable)",
-        "1021": "Plants gain a 20% healing bonus",
-        "2000": "True 破壊キノコ: 破壊キノコ rounds will now release a craterless 破壊キノコ explosion upon impact",
-        "2001": "Enable Column Planting",
-        "2002": "You can upgrade 1 upgradable Epic Modifier",
-        "2003": "If a Plant Type has dealt the highest total damage on the field, its attacks deal an extra 30% of original damage as true damage",
-        "2004": "After firing 50 times (25 for catapults), plants gain an unlimited attack speed for 1s",
-        "2005": "Plants gain 1% life steal, applied to the plant with the lowest HP percentage on the field",
-        "2006": "The longer since a zombie was last damaged, the more damage it takes from the next hit. <1s: Damage * (1 + 9t); ≥1s: Damage * (10 + 9ln(t))",
-        "2007": "Gains the Corrupt Sac. Corruption effect: each time a Zombie is damaged, the next instance of damage to it is increased by 5% (stackable)",
-        "2008": "You can remove 1 非ミニボス Zombie Modifier from the View Modifier menu",
-        "3000": "When Cherrizilla and 黒曜石トールナッツ (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum 耐久力 cap, and 黒曜石トールナッツ/Obsidian Mine gains a 90% damage reduction",
-        "3001": "If there are at least 10 Magnetars and 10 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors",
-        "3002": "Gatling Cherrybomber now spreads its shots evenly across three lanes with sine and cosine trajectories, and Infernal Squashwood and its subspecies triggers a full-field ハラペーニョ effect if it can't plant a Spicy plant",
-        "3003": "When there are at least 10 Magnetars and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each Magnetar and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP",
-        "3004": "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Quantum McCornics always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage",
-        "3005": "Click on a reloaded 火山砲 while holding an Epic Twin Inferno-nut with the Glove to make all reloaded 火山砲 on the field perform a synergized attack towards the sky. Every 8th Inferno Shell shot calls down an Inferno Meteor dealing 80× damage, decimating all zombies on the screen",
-        "3006": "When Cherrybomber Drone is placed above Epic Gatling Frenzy-shroom, the more they attack, the more bullets they fire in the next volley. This bonus decays after they stop attacking. (警告：Will lead to cancerous amounts of projectiles!!)",
-        "3007": "Photon Splitter can lock onto any Atomheart プランタン ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (警告：Contains flashing lights)",
-        "3008": "When Litter-pult and SP Gatling Icicle-shroom are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (警告：Will cause lag)",
-        "3009": "Doominator now spawns 黒曜石トールナッツ Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which doubles for each ice and fire plant present on the 芝生, and a synergy between the 炎上 and Chill debuffs is unlocked.",
-        "4000": "Summons an Abyssal Chibi to fight for you (replaces current Pet). His hammer smash damages both nearby plants and zombies, grants damage reduction to affected plants, and deals increased damage to zombies based on nearby plants' HP. Hammer effects scale with XP level.",
-        "4001": "Summons a Striker Junior to fight for you (replaces current Pet). Every 3s, he moves to the plant with the lowest HP percentage and rallies the area, healing nearby plants and increasing damage taken by zombies. Rally effects scale with xp level",
-        "4002": "Summons a Prototype Iceborg to fight for you (replaces current Pet). She targets the highest-HP lane and fires ice projectiles. Damage increases based on the number of chilled/frozen zombies, and gains infinite pierce & bonus xp if the Iceborg Executrix is on the field. Projectile damage scale with xp level",
-        "4003": "Summons a Baby Jill to fight for you (replaces current Pet). Every 15s, she performs a random attack: summons high-tier hypnotized Clown-in-the-Box zombies per lane or throws out explosives (lane-wide or global). Explosion damage scales with xp level",
-        "4004": "Summons a Mini Pozeidon to fight for you (replaces current Pet). Every 5s, he throws his trident ahead, which pierces and damages zombies with explosions. If the mini-boss Pozeidon is present, throws 4 tridents in each lane every 10s instead",
-        "4005": "Summons a Young Duke to fight for you (replaces current Pet). Rapidly fires iron pea bullets forward, and every 20 seconds she summons a column of mini warhorses to charge at the zombies and create Zombie Souls of the ones they hit. If the mini-boss 復讐に燃える大公 is present, her summoning interval is halved. (警告：Will cause MASSIVE lag!!)",
-        "4006": "Summons an Imperor Hatchling to fight for you (replaces current Pet). Every 10 seconds, he will transform a certain number of zombies (based on XP level) into Chicken Jockey or Hydrofowl Zombies. If the mini-boss Imperor's Ark of the Duck is present, the maximum number of transformations is doubled.",
-        "4007": "Summons a Skyglider Mecha to fight for you (replaces current Pet). Increases damage from plant-side Jack-in-the-Box explosions, and fires an explosive at zombies every 1.5s (every 3rd attack is fired across each row). If the mini-boss Skystrider Mecha is present, the pet's attack interval is halved.",
-        "5000": "Plants deal +100% to Mini-bosses and Bosses",
-        "5001": "Plants gain a 5% damage bonus for every Zombie Modifier you have",
-        "5002": "Unlock Swordsage スターフルーツ",
-        "5003": "Plants deal ×2 damage but receive ×4 damage",
-        "5004": "種パケットs no longer need recharge but each use costs 15× their base Sun + 50% of the player's current Sun",
-        "6000": "芝生mowers: Final damage +200%, Attack speed +300%",
-        "6001": "Cherrizilla Mastery I: Healing Power +100%",
-        "6002": "Cherrizilla Mastery II: Attack Damage +50%",
-        "6003": "Gatling Cherrybomber Mastery I: Cherry and other variants of projectiles' explosion radius +50% and damage +100%",
-        "6004": "Gatling Cherrybomber Mastery II: Cherry and other variants of projectiles' explosion radius -50%  but damage +300%",
-        "6005": "Doominator Mastery I: Frozen zombies take +50% more damage",
-        "6006": "Doominator Mastery II: 催眠されたゾンビs deal 3× damage",
-        "6007": "Infernal Squashwood Mastery I: ハラペーニョ effect changes from instant to DoT, dealing 1/3 the original damage 10 times within 1s",
-        "6008": "Infernal Squashwood Mastery II: Grants projectiles +50% damage before igniting them",
-        "6009": "Plants in the fifth column get 50% increased maximum 耐久力 and 50% damage reduction. Each column to the left reduces damage cap by 10% and increases damage reduction by 10%",
-        "10000": "Immediately gain 100k Sun｜Sun Cap +100k",
-        "10001": "Immediately gain 2 超級メカナッツ 種パケットs which start with 1M HP",
-        "10002": "Upgrade (1+n) random plants to Tier 1, where n is the number of Plant modifiers you currently have",
-        "10003": "Increase the speed of (1+n) random plants, where n is the number of Plant modifiers you currently have",
-        "10004": "Gain an Undying Totem. The next time zombies reach the house, it is ignored for 3s and knock all zombies back to the start",
-        "10005": "Obtain a Pumpkin Storage that has the 種パケットs of all Epic Odyssey Fusions (no Subspecies)",
-        "10006": "Knock all zombies back to the start, then instantly defeat all zombies",
-        "10007": "Gain a Super 吹雪 Commando with +1500% damage and HP, +1000% speed, and gain an extra Coldsnap Bean",
-        "10008": "Gain a random Odyssey plant. Each new zombie wave, it gains +25% damage, +25% HP, and +10% speed",
-        "10009": "Gain a Shroomageddon 種パケット. Planting it ACCEPTS the challenge:\nSummon 3-6 random Odyssey zombies in each lane (yeah, ALL possible ones)\nDefeat them all to unlock the Modifier \"Corrupt Sac\"",
-        "10010": "All plant attack damage ×2",
-        "10011": "All plants gain 50 + (2% max HP) shield per second",
-        "10012": "Gain the Saurian Medallion. When you have 20 or more plants on the field, zombies reaching the house no longer results in game over, but causes all plants to have 1/3 chance to die instead",
-        "10013": "Gain an Omni Pumpkin 種パケット. Planting it ACCEPTS the challenge:\nThe number of zombies in the next 20 waves are doubled\nGet through and all plants on the Omni Pumpkin's tile will be promoted to Tier 3",
-        "10014": "Unleash all current 芝生mowers and restore one full column of them",
-        "10015": "You will not game over if you manage to kill the zombie reaching your house within 1.5s",
-        "10016": "Immediately gain 5 Imitater 種パケットs",
-        "10017": "Upon gaining a second copy of any plant for the first time, you receive an additional 種パケット of that plant",
-        "10018": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier",
-        "10019": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)",
-        "11000": "手押し車のクールタイムが3秒に減少",
-        "12000": "Napalm-shroom's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies.",
-        "12001": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's attack power to a random zombie in range.",
-        "12002": "Berserker Snipea's critical hit will now be guaranteed.",
-        "12003": "Threepeatato-mine's projectiles will now trigger a ジャガイモ地雷 explosion when hitting a zombie.",
-        "12004": "When 破壊チョンパー attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions.",
-        "12005": "Shroomageddon releases a 1-million damage 破壊キノコ explosion upon death."
+        "0": {
+            "name": "",
+            "desc": "魅皇后キノコ亜種解放｜魅帝王キノコ＆魅皇后キノコ：召喚間隔→10秒"
+        },
+        "1": {
+            "name": "",
+            "desc": "魅帝王キノコ＆魅皇后キノコ：旅行ゾンビを召喚できるようになる"
+        },
+        "2": {
+            "name": "",
+            "desc": "ガトリングバタバタキノコ亜種解放｜破壊ガトリングピー：大破壊弾を発射した後の休止時間がなくなり｜効果はＳＰバリアントにも適用"
+        },
+        "3": {
+            "name": "",
+            "desc": "破壊ガトリングピー：毎回大破壊弾を発射できるようになる｜ガトリングバタバタキノコ：4回攻撃ごとに、大破壊弾丸を発射｜効果はＳＰバリアントにも適用"
+        },
+        "4": {
+            "name": "",
+            "desc": "双子太陽ナッツ：太陽クリックコスト500→200｜双子焦熱ナッツ：回復力が2倍｜効果はＳＰバリアントにも適用"
+        },
+        "5": {
+            "name": "",
+            "desc": "双子焦熱ナッツ亜種解放｜双子太陽ナッツ：攻撃を受けるごとに耐久力の減少50→10｜双子焦熱ナッツ：HPクリックコスト500→200｜効果はＳＰバリアントにも適用"
+        },
+        "6": {
+            "name": "",
+            "desc": "黒曜石スパイクナッツ亜種解放｜黒曜石スパイクロック＆黒曜石スパイクナッツ：攻撃力が5倍"
+        },
+        "7": {
+            "name": "",
+            "desc": "黒曜石スパイクロック＆黒曜石スパイクナッツ：被ダメージが95%減少"
+        },
+        "8": {
+            "name": "",
+            "desc": "炎翔スリーピーター亜種解放｜炎帝スリーピーター＆炎翔スリーピーター：弾丸が無限に貫通し、炎上爆発を引き起こすようになる"
+        },
+        "9": {
+            "name": "",
+            "desc": "炎帝スリーピーター：全ボーナス炎上ダメージ50%→150%、、点火ピー豆が炎上デバフを付与可能。"
+        },
+        "10": {
+            "name": "",
+            "desc": "つららガトリングキノコ＆太陽嵐ガトリングキノコ：貫通が無限化。横方向の最初の5発は±15°に2発ずつ分裂し、(20×分裂数)%の追加ダメージ｜効果はＳＰバリアントにも適用"
+        },
+        "11": {
+            "name": "",
+            "desc": "太陽嵐ガトリングキノコ亜種解放｜つららガトリングキノコ：凍結・冷却無効ゾンビへのダメージが4倍→12倍｜効果はＳＰバリアントにも適用"
+        },
+        "12": {
+            "name": "",
+            "desc": "黄金の太陽の鉢：銀の鉢から銀の鉢への金化コストは8000を超えない"
+        },
+        "13": {
+            "name": "",
+            "desc": "黄金の太陽の鉢：最大コイン量を超えた分は、2:1の割合で太陽に変換される"
+        },
+        "14": {
+            "name": "",
+            "desc": "ルビーの傘亜種解放｜エメラルドの傘＆ルビーの傘：ゾンビが近くにいる場合に必殺技を自動発動"
+        },
+        "15": {
+            "name": "",
+            "desc": "エメラルドの傘：跳ね返すたびに弾丸のダメージが100%→300%増加する"
+        },
+        "16": {
+            "name": "",
+            "desc": "貴族の猫尾草：ドローンのダメージが3倍｜雷神バニーオン：召喚ドローンは弱体化されなくなり、通常通り60発発射するようになる"
+        },
+        "17": {
+            "name": "",
+            "desc": "雷神バニーオン亜種解放｜貴族の猫尾草：基礎ダメージが5倍｜雷神バニーオン：攻撃力が3倍"
+        },
+        "18": {
+            "name": "",
+            "desc": "アバリスキノコ亜種解放｜災厄キノコ：破壊キノコの爆発がクレーターを残さなくなる"
+        },
+        "19": {
+            "name": "",
+            "desc": "災厄キノコ：爆発時に催眠ガーガンチュアと催眠ゾンボニ3体を召喚"
+        },
+        "20": {
+            "name": "",
+            "desc": "マネートーチ＆マネーランプ：所持コインが1000枚ごとに、コイン弾のダメージが1%増加"
+        },
+        "21": {
+            "name": "",
+            "desc": "マネーランプ亜種解放｜マネートーチ：コイン弾がスプラッシュダメージを与えるようになる"
+        },
+        "22": {
+            "name": "",
+            "desc": "北風傘亜種解放｜ファロス傘：エネルギー上限が10倍、応答速度が20倍、回復速度が2倍｜北風傘：散射モードのダメージが最大が4倍まで線形増加、集中モードのダメージが4倍"
+        },
+        "23": {
+            "name": "",
+            "desc": "ファロス傘：通常攻撃力の倍率が3倍、爆発力の倍率が10倍、攻撃間隔を2秒に設定｜北風傘：集中モードの氷の光線が1秒間凍結を付与"
+        },
+        "24": {
+            "name": "",
+            "desc": "鉄のパフキノコ部隊：狙撃は常にヘッドショットを狙う、1/3の確率で速射狙撃が発動。ただし、攻撃間隔は7.5秒に設定される｜鉄のパフキノコ部隊の司令官：攻撃力が3倍"
+        },
+        "25": {
+            "name": "",
+            "desc": "鉄のパフキノコ部隊の司令官亜種解放｜鉄のパフキノコ部隊：対空砲の撃退力が2倍、スプラッシュダメージが3倍｜鉄のパフキノコ部隊の司令官：攻撃力が3倍"
+        },
+        "26": {
+            "name": "",
+            "desc": "太陽磁石キノコの女王亜種解放｜超電磁爆弾：攻撃範囲が2倍｜太陽磁石キノコの女王：金属物生産クールタイムが半減"
+        },
+        "27": {
+            "name": "",
+            "desc": "超電磁爆弾：金属物体を一度に3つ吸収し、超級トライデントゾンビおよび超級フットボールナッツゾンビへのダメージが3倍になる｜太陽磁石キノコの女王：回復力が3倍、追加金属物製造上限[3+(n/m)/4]→[3+(n/m)/3]"
+        },
+        "28": {
+            "name": "",
+            "desc": "死神ジャガイモ地雷亜種解放｜死神チョンパー＆死神ジャガイモ地雷：種パケットドロップが確定"
+        },
+        "29": {
+            "name": "",
+            "desc": "死神チョンパー＆死神ジャガイモ地雷：ゾンビソウルのダメージ転送が2倍"
+        },
+        "30": {
+            "name": "",
+            "desc": "核チェリー＆核スクワッシュ：粒子渦の初期持続時間が7秒→10秒に増加"
+        },
+        "31": {
+            "name": "",
+            "desc": "核スクワッシュ亜種解放｜核チェリー＆核スクワッシュ：破壊ピー豆、爆発的チェリー、爆発的スクワッシュ、爆発的スター、大破壊弾がゾンビに命中した際、1%の確率でコスミックの残骸へ変換される"
+        },
+        "32": {
+            "name": "",
+            "desc": "コーンポスター鉢亜種解放｜コーンヴェヤーウィード＆コーンポスター鉢：バタースタン時間が3倍"
+        },
+        "33": {
+            "name": "",
+            "desc": "コーンヴェヤーウィード：ゾンビはその上で右方向へ継続的に滑るようになる｜コーンポスター鉢：上のプラントのバター率が50%から100%に上昇"
+        },
+        "34": {
+            "name": "",
+            "desc": "多機能パンプキン：出現時、磁気植物の数に応じて30×数の追加シールド値を付与｜多機能スターフルーツ：出現時、接続された磁気植物をリセットし、磁気植物の数に応じて0.5%×数の追加攻撃力バフを付与"
+        },
+        "35": {
+            "name": "",
+            "desc": "多機能パンプキン＆多機能スターフルーツ：磁気植物の数が2倍カウントされるようになる"
+        },
+        "36": {
+            "name": "",
+            "desc": "燃える竹龍：爆発間隔が半減"
+        },
+        "37": {
+            "name": "",
+            "desc": "燃える竹龍：炎の息で命中したゾンビ1体ごとに、その同じ攻撃の次のヒットダメージが1%増加（最大400%まで累積）"
+        },
+        "38": {
+            "name": "",
+            "desc": "致死性氷河キノコ亜種解放｜永久氷河キノコ：初期エネルギー+100｜致死性氷河キノコ：ダメージが2倍"
+        },
+        "39": {
+            "name": "",
+            "desc": "永久氷河キノコ：攻撃範囲が2倍｜致死性氷河キノコ：攻撃間隔が半減"
+        },
+        "40": {
+            "name": "",
+            "desc": "魅惑魔法猫娘：必殺技のクールタイム半減、必殺技範囲+0.5タイル"
+        },
+        "41": {
+            "name": "",
+            "desc": "魅惑魔法猫娘：必殺技で催眠されたゾンビが噛む際、ダメージ軽減を無視して+30%真ダメージ"
+        },
+        "1000": {
+            "name": "",
+            "desc": "プラント手袋にクールタイムは0秒。ゾンビ手袋のクールタイムが10秒減少、ミニボスを移動できる"
+        },
+        "1001": {
+            "name": "",
+            "desc": "全プラントのクールタイムが半減"
+        },
+        "1002": {
+            "name": "",
+            "desc": "太陽量増加：5→15→25→50→75"
+        },
+        "1003": {
+            "name": "",
+            "desc": "手袋のクールタイムが半減、ミニボスを移動できる"
+        },
+        "1004": {
+            "name": "",
+            "desc": "イミテーターのクールタイムが5分→50秒に減少"
+        },
+        "1005": {
+            "name": "",
+            "desc": "木槌のクールタイムが6秒に減少"
+        },
+        "1006": {
+            "name": "",
+            "desc": "ゲーム中にプラントロードアウトを再選択できるようになる"
+        },
+        "1007": {
+            "name": "",
+            "desc": "ゾンビは、ダメージ軽減後、被ダメージが1800を超えた場合、さらに1800ダメージを受ける"
+        },
+        "1008": {
+            "name": "",
+            "desc": "プラントの攻撃力が20%増加"
+        },
+        "1009": {
+            "name": "",
+            "desc": "ゾンビへのダメージが20%増加"
+        },
+        "1010": {
+            "name": "",
+            "desc": "修正効果の再抽選の数+2"
+        },
+        "1011": {
+            "name": "",
+            "desc": "ゾンビへの凍結時間が25%増加、冷却からスロー効率が10%増加"
+        },
+        "1012": {
+            "name": "",
+            "desc": "太陽を3000個獲得、その後太陽の総量を2倍にする｜太陽上限50,000→100,000"
+        },
+        "1013": {
+            "name": "",
+            "desc": "真チェリー爆弾：爆発的なチェリーは少なくとも1800ダメージを与え、焼夷ダメージを与えるようになる"
+        },
+        "1014": {
+            "name": "",
+            "desc": "同じプラントを手袋に所持している状態でクリックすると、500太陽量を消費して分解できる｜クールタイムは20秒"
+        },
+        "1015": {
+            "name": "",
+            "desc": "同じ列に同じプラントを隣接して配置すると、攻撃力とダメージ軽減が50%増加"
+        },
+        "1016": {
+            "name": "",
+            "desc": "催眠ゾンビの攻撃力が500%増加、ダメージ軽減が80%増加（警告：魅帝王キノコ＆魅皇后キノコから召喚されるチェリー新聞ゾンビは、召喚時に新聞を失わなくなる！）"
+        },
+        "1017": {
+            "name": "",
+            "desc": "全メテオ攻撃のメテオクールタイムが半減｜フィールド上に存在するマグネッター1体につき、メテオの基礎ダメージが300増加"
+        },
+        "1018": {
+            "name": "",
+            "desc": "芝生全体に光レベル4が付与される"
+        },
+        "1019": {
+            "name": "",
+            "desc": "催眠ゾンビが死亡すると爆発し、最大HPの150%に相当するダメージを周囲のゾンビに与える"
+        },
+        "1020": {
+            "name": "",
+            "desc": "プラントが回復を受けた後、次の3秒間は毎秒現在HPの5%を回復する（スタック不可）"
+        },
+        "1021": {
+            "name": "",
+            "desc": "プラントの回復力が20%増加"
+        },
+        "2000": {
+            "name": "",
+            "desc": "真破壊キノコ：破壊シェルはクレーターを残さなくなる"
+        },
+        "2001": {
+            "name": "",
+            "desc": "列植えを有効化"
+        },
+        "2002": {
+            "name": "",
+            "desc": "強化可エピック修正効果を1つ強化できる"
+        },
+        "2003": {
+            "name": "",
+            "desc": "フィールド上で累計ダメージが最も高いプラントタイプ（統計参照）が存在する場合、そのタイプの全プラントは元ダメージの30%分の真ダメージを追加で与える"
+        },
+        "2004": {
+            "name": "",
+            "desc": "プラントが50発の弾を発射すると（カタパルト系は半分の25発）、次の1秒間は攻撃速度が無制限になる"
+        },
+        "2005": {
+            "name": "",
+            "desc": "プラントはライフスティールを1%獲得、フィールド上でHP率が最も低いプラントに適用"
+        },
+        "2006": {
+            "name": "",
+            "desc": "The longer since a zombie was last damaged, the more damage it takes from the next hit. <1s: Damage * (1 + 9t); ≥1s: Damage * (10 + 9ln(t))"
+        },
+        "2007": {
+            "name": "",
+            "desc": "Gains the Corrupt Sac. Corruption effect: each time a Zombie is damaged, the next instance of damage to it is increased by 5% (stackable)"
+        },
+        "2008": {
+            "name": "",
+            "desc": "You can remove 1 非ミニボス Zombie Modifier from the View Modifier menu"
+        },
+        "3000": {
+            "name": "",
+            "desc": "When Cherrizilla and 黒曜石トールナッツ (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and 黒曜石トールナッツ/Obsidian Mine gains a 90% damage reduction"
+        },
+        "3001": {
+            "name": "",
+            "desc": "If there are at least 10 マグネッターs and 10 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors"
+        },
+        "3002": {
+            "name": "",
+            "desc": "Gatling Cherrybomber now spreads its shots evenly across three lanes with sine and cosine trajectories, and Infernal Squashwood and its subspecies triggers a full-field ハラペーニョ effect if it can't plant a Spicy plant"
+        },
+        "3003": {
+            "name": "",
+            "desc": "When there are at least 10 マグネッターs and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each マグネッター and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP"
+        },
+        "3004": {
+            "name": "",
+            "desc": "Hail melons from Maelonstrom's Nebula Rifts now deal 6× damage and create Singularities, and Quantum McCornics always lob Ultimate Black Holes. When an Ultimate Black Hole collapses, it also detonates all Singularities to further increase its own damage"
+        },
+        "3005": {
+            "name": "",
+            "desc": "Click on a reloaded Vulcannon while holding an Epic 双子焦熱ナッツ with the Glove to make all reloaded Vulcannon on the field perform a synergized attack towards the sky. Every 8th Inferno Shell shot calls down an Inferno Meteor dealing 80× damage, decimating all zombies on the screen"
+        },
+        "3006": {
+            "name": "",
+            "desc": "When Cherrybomber Drone is placed above Epic ガトリングバタバタキノコ, the more they attack, the more bullets they fire in the next volley. This bonus decays after they stop attacking. (警告：Will lead to cancerous amounts of projectiles!!)"
+        },
+        "3007": {
+            "name": "",
+            "desc": "Photon Splitter can lock onto any Atomheart Plantern ahead (click to select) to charge it. When energy exceeds 10k, its brightness increases, dealing heavy damage and slowing zombies in its radius. At 100k, collapses into a black hole and explodes, devastating all zombies on screen. (警告：Contains flashing lights)"
+        },
+        "3008": {
+            "name": "",
+            "desc": "When Litter-pult and SP つららガトリングキノコ are planted on the same tile, the latter's projectiles split one additional time. Both plants' normal and special projectiles inherit some properties from each other's shots. (警告：Will cause lag)"
+        },
+        "3009": {
+            "name": "",
+            "desc": "Doominator now spawns 黒曜石トールナッツ氷爪ゾンビs, 火炎弾キノコ's main projectile will split into an additional 黒曜石スイカ; dealing AoE damage equal to the melon's original 攻撃力 which doubles for each ice and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
+        },
+        "4000": {
+            "name": "",
+            "desc": "Summons an Abyssal Chibi to fight for you (replaces current Pet). His hammer smash damages both nearby plants and zombies, grants damage reduction to affected plants, and deals increased damage to zombies based on nearby plants' HP. Hammer effects scale with XP level."
+        },
+        "4001": {
+            "name": "",
+            "desc": "Summons a Striker Junior to fight for you (replaces current Pet). Every 3s, he moves to the plant with the lowest HP percentage and rallies the area, healing nearby plants and increasing damage taken by zombies. Rally effects scale with xp level"
+        },
+        "4002": {
+            "name": "",
+            "desc": "Summons a Prototype Iceborg to fight for you (replaces current Pet). She targets the highest-HP lane and fires ice projectiles. Damage increases based on the number of chilled/凍結ゾンビs, and gains infinite pierce＆bonus xp if the Iceborg Executrix is on the field. Projectile damage scale with xp level"
+        },
+        "4003": {
+            "name": "",
+            "desc": "Summons a Baby Jill to fight for you (replaces current Pet). Every 15s, she performs a random attack: summons high-tier hypnotized Clown-in-the-Box zombies per lane or throws out explosives (lane-wide or global). Explosion damage scales with xp level"
+        },
+        "4004": {
+            "name": "",
+            "desc": "Summons a Mini Pozeidon to fight for you (replaces current Pet). Every 5s, he throws his trident ahead, which pierces and damages zombies with explosions. If the mini-boss Pozeidon is present, throws 4 tridents in each lane every 10s instead"
+        },
+        "4005": {
+            "name": "",
+            "desc": "Summons a Young Duke to fight for you (replaces current Pet). Rapidly fires iron pea bullets forward, and every 20 seconds she summons a column of mini warhorses to charge at the zombies and create Zombie Souls of the ones they hit. If the mini-boss Archduke Deathrider is present, her summoning interval is halved. (警告：Will cause MASSIVE lag!!)"
+        },
+        "4006": {
+            "name": "",
+            "desc": "Summons an Imperor Hatchling to fight for you (replaces current Pet). Every 10 seconds, he will transform a certain number of zombies (based on XP level) into Chicken Jockey or Hydrofowl Zombies. If the mini-boss Imperor's Ark of the Duck is present, the maximum number of transformations is doubled."
+        },
+        "4007": {
+            "name": "",
+            "desc": "Summons a Skyglider Mecha to fight for you (replaces current Pet). Increases damage from plant-side Jack-in-the-Box explosions, and fires an explosive at zombies every 1.5s (every 3rd attack is fired across each row). If the mini-boss Skystrider Mecha is present, the pet's 攻撃間隔 is halved."
+        },
+        "5000": {
+            "name": "",
+            "desc": "Plants deal +100% to Mini-bosses and Bosses"
+        },
+        "5001": {
+            "name": "",
+            "desc": "Plants gain a 5% damage bonus for every Zombie Modifier you have"
+        },
+        "5002": {
+            "name": "",
+            "desc": "Unlock 剣聖 Starfruit"
+        },
+        "5003": {
+            "name": "",
+            "desc": "Plants deal ×2 damage but receive ×4 damage"
+        },
+        "5004": {
+            "name": "",
+            "desc": "Seed packets no longer need recharge but each use costs 15× their base Sun + 50% of the player's current Sun"
+        },
+        "6000": {
+            "name": "",
+            "desc": "Lawnmowers: Final damage +200%, 攻撃速度 +300%"
+        },
+        "6001": {
+            "name": "",
+            "desc": "Cherrizilla Mastery I: Healing Power +100%"
+        },
+        "6002": {
+            "name": "",
+            "desc": "Cherrizilla Mastery II: Attack Damage +50%"
+        },
+        "6003": {
+            "name": "",
+            "desc": "Gatling Cherrybomber Mastery I: Cherry and other variants of projectiles' explosion radius +50% and damage +100%"
+        },
+        "6004": {
+            "name": "",
+            "desc": "Gatling Cherrybomber Mastery II: Cherry and other variants of projectiles' explosion radius -50%  but damage +300%"
+        },
+        "6005": {
+            "name": "",
+            "desc": "Doominator Mastery I: 凍結ゾンビs take +50% more damage"
+        },
+        "6006": {
+            "name": "",
+            "desc": "Doominator Mastery II: Hypnotized zombies deal 3× damage"
+        },
+        "6007": {
+            "name": "",
+            "desc": "Infernal Squashwood Mastery I: ハラペーニョ effect changes from instant to DoT, dealing 1/3 the 元ダメージ 10 times within 1s"
+        },
+        "6008": {
+            "name": "",
+            "desc": "Infernal Squashwood Mastery II: Grants projectiles +50% damage before igniting them"
+        },
+        "6009": {
+            "name": "",
+            "desc": "Plants in the fifth column get 50% increased maximum Toughness and 50% damage reduction. Each column to the left reduces damage cap by 10% and increases damage reduction by 10%"
+        },
+        "10000": {
+            "name": "",
+            "desc": "Immediately gain 100k Sun｜Sun Cap +100k"
+        },
+        "10001": {
+            "name": "",
+            "desc": "Immediately gain 2 Giga Mecha-nut seed packets which start with 1M HP"
+        },
+        "10002": {
+            "name": "",
+            "desc": "Upgrade (1+n) random plants to Tier 1, where n is the number of Plant modifiers you currently have"
+        },
+        "10003": {
+            "name": "",
+            "desc": "Increase the speed of (1+n) random plants, where n is the number of Plant modifiers you currently have"
+        },
+        "10004": {
+            "name": "",
+            "desc": "Gain an Undying Totem. The next time zombies reach the house, it is ignored for 3s and knock all zombies back to the start"
+        },
+        "10005": {
+            "name": "",
+            "desc": "Obtain a Pumpkin Storage that has the seed packets of all Epic Odyssey Fusions (no Subspecies)"
+        },
+        "10006": {
+            "name": "",
+            "desc": "Knock all zombies back to the start, then instantly defeat all zombies"
+        },
+        "10007": {
+            "name": "",
+            "desc": "Gain a Super Blizzard Commando with +1500% damage and HP, +1000% speed, and gain an extra Coldsnap Bean"
+        },
+        "10008": {
+            "name": "",
+            "desc": "Gain a random Odyssey plant. Each new zombie wave, it gains +25% damage, +25% HP, and +10% speed"
+        },
+        "10009": {
+            "name": "",
+            "desc": "Gain a Shroomageddon seed packet. Planting it ACCEPTS the challenge:\nSummon 3-6 random Odyssey zombies in each lane (yeah, ALL possible ones)\nDefeat them all to unlock the Modifier \"Corrupt Sac\""
+        },
+        "10010": {
+            "name": "",
+            "desc": "全プラントの攻撃力が2倍"
+        },
+        "10011": {
+            "name": "",
+            "desc": "全プラントは毎秒シールド値を50+(2%最大HP)を獲得"
+        },
+        "10012": {
+            "name": "",
+            "desc": "Gain the Saurian Medallion. When you have 20 or more plants on the field, zombies reaching the house no longer results in game over, but causes all plants to have 1/3 chance to die instead"
+        },
+        "10013": {
+            "name": "",
+            "desc": "Gain an 多機能パンプキン seed packet. Planting it ACCEPTS the challenge:\nThe number of zombies in the next 20 waves are doubled\nGet through and all plants on the 多機能パンプキン's tile will be promoted to Tier 3"
+        },
+        "10014": {
+            "name": "",
+            "desc": "Unleash all current lawnmowers and restore one full column of them"
+        },
+        "10015": {
+            "name": "",
+            "desc": "You will not game over if you manage to kill the zombie reaching your house within 1.5s"
+        },
+        "10016": {
+            "name": "",
+            "desc": "Immediately gain 5 Imitater seed packets"
+        },
+        "10017": {
+            "name": "",
+            "desc": "Upon gaining a second copy of any plant for the first time, you receive an additional seed packet of that plant"
+        },
+        "10018": {
+            "name": "",
+            "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
+        },
+        "10019": {
+            "name": "",
+            "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
+        },
+        "11000": {
+            "name": "",
+            "desc": "Wheelbarrow's cooldown is reduced to 3 seconds"
+        },
+        "12000": {
+            "name": "",
+            "desc": "火炎弾キノコ's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies."
+        },
+        "12001": {
+            "name": "",
+            "desc": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's 攻撃力 to a random zombie in range."
+        },
+        "12002": {
+            "name": "",
+            "desc": "Berserker 狙撃ピー's critical hit will now be guaranteed."
+        },
+        "12003": {
+            "name": "",
+            "desc": "Threepeatato-mine's projectiles will now trigger a ジャガイモ地雷 explosion when hitting a zombie."
+        },
+        "12004": {
+            "name": "",
+            "desc": "When Doom Chomper attacks, it will trigger a Doom explosion regardless of if it swallows a zombie or not. If it swallows a zombie, it will trigger two Doom explosions."
+        },
+        "12005": {
+            "name": "",
+            "desc": "Shroomageddon releases a 1-million damage Doom-shroom explosion upon death."
+        }
     },
     "ultimateBuffs": {
-        "0": "Cherrizilla & Garlizilla: HP Recovery ×3",
-        "1": "Cherrizilla & Garlizilla: Devour CD reduced to 15s",
-        "2": "Gatling Cherrybomber: Explosive cherries from plants ×3 damage",
-        "3": "Gatling Cherrybomber & Cherrybomber Drone: Attack Speed +100%",
-        "4": "Doominator: Attack speed ×3; Thornminator attack damage ×3; Iceclaw Zombie attack damage ×3",
-        "5": "Doominator: Zombies will take 30% of their current health as damage when unfrozen",
-        "6": "Infernal Squashwood & Sparkwood: Projectiles required to spawn a Spicy plant are halved",
-        "7": "Infernal Squashwood & Sparkwood: Ignites the lane immediately when spawning a Spicy plant is not possible",
-        "8": "Magnetar: Attack Interval 1.5s→0.5s",
-        "9": "Magnetar: Lv1: Base damage ×2 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed",
-        "10": "Shroomageddon: Explosion damage on death→1M｜Atomheart プランタン: Lumos boost on death ×3",
-        "11": "Shroomageddon & Atomheart プランタン: Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a 破壊キノコ explosion",
-        "12": "Wither-pult & Rot-pult: Spread-fire is now guaranteed",
-        "13": "Wither-pult & Rot-pult: Lv1: Stacking 毒ポイントs will immediately poison the zombie and Poison Value Cap→120; Lv2: Poison Value Cap removed",
-        "14": "Cob-literator: Main Blast damage ×4｜Panmelonium: Damage ×4",
-        "15": "Cob-literator & Panmelonium: Reload Time 36s→12s",
-        "16": "黒曜石トールナッツ & Obsidian Mine: Max HP Cap ×3",
-        "17": "黒曜石トールナッツ & Obsidian Mine: Can now absorb the damage directed to the plants directly to its left and right",
-        "18": "Charmatron: Hypnotization HP threshold increased from 60% to 100%｜Pumpkaptivator: Damage to captured 催眠されたゾンビs halved",
-        "19": "Charmatron: Attack Interval→1s, Charge Level will not drop below 2 and can be fed metal to reach Charge Level 3 for 5 mins｜Pumpkaptivator: Charge Level 3 unlocked",
-        "20": "Apeacalypse Minigun & Railgun: Attack Power ×3",
-        "21": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR｜Apeacalypse Railgun: Lv1: Defense increases as HP decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2",
-        "22": "Helios Cabbage: When Sun exceeds 15k, each of Helios Cabbage's attacks consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent｜Selene Cabbage: Damage increased by 3× per 光レベル",
-        "23": "Helios Cabbage: Mini Sun deals 3× damage｜Selene Cabbage: Mini Moon heals 3×",
-        "24": "Laser & Blast Pumpkin: Wingmen Amount 1→3",
-        "25": "Laser Pumpkin: Wingmen and Drone DMG ×3",
-        "26": "Napalm-shroom & Magma-shroom: Charging speed and max charge ×3",
-        "27": "Napalm-shroom: Inferno now lasts 5s (twice as long)｜Magma-shroom: Magma Butter Damage ×3",
-        "28": "ケルプテイン・ドレッドハート: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)",
-        "29": "ケルプテイン・ドレッドハート: The 旅行ショップ now has a 30% discount on Modifiers",
-        "30": "Quantum McCornics: Ultimate Black Hole can absorb all projectiles",
-        "31": "Quantum McCornics: Ultimate Black Hole's absorption radius ×2",
-        "32": "Lifereaver Spruce: Boreal reaper saws now last for 15s｜Soulrender Bamboo: Now receives only 1/3 incoming damage",
-        "33": "Lifereaver Spruce: Healing is no longer split among plants｜Soulrender Bamboo: HP and Shield recovery ×2",
-        "34": "Tyrannoflora Lux: Attack Range ×2",
-        "35": "Tyrannoflora Lux: Provides 2 光レベル to a 5×5 area during digestion",
-        "36": "火山砲: Volcanic Bombs Damage ×3｜Kaledera Eruptor: Pyro Cabbages Damage ×3",
-        "37": "火山砲: Now triggers Thermonuclear Detonations when main blasts strike チェリー爆弾s or ハラペーニョs｜Kaledera Eruptor: 10% chance to trigger チェリー爆弾 and ハラペーニョ effects at the barrel position and ignore the target limit of 10",
-        "38": "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well",
-        "39": "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3",
-        "40": "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage｜Fungularity: Now only creates one set of portals, but they spawn ×10 ice particle streams",
-        "41": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius｜Maelonstrom & Fungularity: Zombies immune to クロノシフト will still take damage equal to（経過時間）% of their HP",
-        "42": "Prometheus Liontail: Heatbeam damage frequency ×2",
-        "43": "Prometheus Liontail: Regular shots' damage ×3",
-        "44": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks",
-        "45": "Scylla Leviathan: Fires 3 base attack projectiles at once",
-        "46": "Cryolina Reaper & Habanero Weeper: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies",
-        "47": "Cryolina Reaper & Habanero Weeper: When using a soul charge, also grants 1s of invincibility to all plants",
-        "48": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k｜Axion Orbiter: Projectile damage radius +50%",
-        "49": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000｜Axion Orbiter: Now fires 2 extra projectiles each attack",
-        "50": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3｜Synchronizer Snipea: All Snipeas now fire an extra shot after a Headshot",
-        "51": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread｜Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
+        "0": {
+            "name": "",
+            "desc": "Cherrizilla＆Garlizilla: HP Recovery ×3"
+        },
+        "1": {
+            "name": "",
+            "desc": "Cherrizilla＆Garlizilla: Devour CD reduced to 15s"
+        },
+        "2": {
+            "name": "",
+            "desc": "Gatling Cherrybomber: Explosive cherries from plants ×3 damage"
+        },
+        "3": {
+            "name": "",
+            "desc": "Gatling Cherrybomber＆Cherrybomber Drone: 攻撃速度 +100%"
+        },
+        "4": {
+            "name": "",
+            "desc": "Doominator: 攻撃速度 ×3; Thornminator 攻撃力が3倍; Iceclaw Zombie 攻撃力が3倍"
+        },
+        "5": {
+            "name": "",
+            "desc": "Doominator: Zombies will take 30% of their current health as damage when unfrozen"
+        },
+        "6": {
+            "name": "",
+            "desc": "Infernal Squashwood＆Sparkwood: Projectiles required to spawn a Spicy plant are halved"
+        },
+        "7": {
+            "name": "",
+            "desc": "Infernal Squashwood＆Sparkwood: Ignites the lane immediately when spawning a Spicy plant is not possible"
+        },
+        "8": {
+            "name": "",
+            "desc": "マグネッター: 攻撃間隔 1.5s→0.5s"
+        },
+        "9": {
+            "name": "",
+            "desc": "マグネッター: Lv1: Base ダメージが2倍 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed"
+        },
+        "10": {
+            "name": "",
+            "desc": "Shroomageddon: Explosion damage on death→1M｜Atomheart Plantern: Lumos boost on death ×3"
+        },
+        "11": {
+            "name": "",
+            "desc": "Shroomageddon＆Atomheart Plantern: Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a Doom-shroom explosion"
+        },
+        "12": {
+            "name": "",
+            "desc": "Wither-pult＆Rot-pult: Spread-fire is now guaranteed"
+        },
+        "13": {
+            "name": "",
+            "desc": "Wither-pult＆Rot-pult: Lv1: Stacking Poison points will immediately poison the zombie and Poison Value Cap→120; Lv2: Poison Value Cap removed"
+        },
+        "14": {
+            "name": "",
+            "desc": "Cob-literator: Main Blast damage ×4｜Panmelonium: Damage ×4"
+        },
+        "15": {
+            "name": "",
+            "desc": "Cob-literator＆Panmelonium: Reload Time 36s→12s"
+        },
+        "16": {
+            "name": "",
+            "desc": "黒曜石トールナッツ＆Obsidian Mine: Max HP Cap ×3"
+        },
+        "17": {
+            "name": "",
+            "desc": "黒曜石トールナッツ＆Obsidian Mine: Can now absorb the damage directed to the plants directly to its left and right"
+        },
+        "18": {
+            "name": "",
+            "desc": "Charmatron: Hypnotization HP threshold increased from 60% to 100%｜Pumpkaptivator: Damage to captured hypnotized Zombies halved"
+        },
+        "19": {
+            "name": "",
+            "desc": "Charmatron: 攻撃間隔→1s, Charge Level will not drop below 2 and can be fed metal to reach Charge Level 3 for 5 mins｜Pumpkaptivator: Charge Level 3 unlocked"
+        },
+        "20": {
+            "name": "",
+            "desc": "Apeacalypse Minigun＆Railgun: 攻撃力が3倍"
+        },
+        "21": {
+            "name": "",
+            "desc": "Apeacalypse Minigun: Lv1: Doing Ultimate move refunds 50k energy; Lv2: Ultimate also deals 20% bonus damage that ignores DR｜Apeacalypse Railgun: Lv1: Defense increases as HP decreases. Below 500 HP, becomes immune to damage under 1k; Lv2: Below 500 HP, base ダメージが2倍"
+        },
+        "22": {
+            "name": "",
+            "desc": "Helios Cabbage: When Sun exceeds 15k, each of Helios Cabbage's attacks consumes 0.5% of the excess to boost projectile damage by 20 per 1 Sun spent｜Selene Cabbage: Damage increased by 3× per Lumos Level"
+        },
+        "23": {
+            "name": "",
+            "desc": "Helios Cabbage: Mini Sun deals 3× damage｜Selene Cabbage: Mini Moon heals 3×"
+        },
+        "24": {
+            "name": "",
+            "desc": "Laser＆Blast Pumpkin: Wingmen Amount 1→3"
+        },
+        "25": {
+            "name": "",
+            "desc": "Laser Pumpkin: Wingmen and Drone DMG ×3"
+        },
+        "26": {
+            "name": "",
+            "desc": "火炎弾キノコ＆炎核キノコ: Charging speed and max charge ×3"
+        },
+        "27": {
+            "name": "",
+            "desc": "火炎弾キノコ: Inferno now lasts 5s (twice as long)｜炎核キノコ: マグマバターのダメージが3倍"
+        },
+        "28": {
+            "name": "",
+            "desc": "Kelptain Goldbeard: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
+        },
+        "29": {
+            "name": "",
+            "desc": "Kelptain Goldbeard: The Odyssey shop now has a 30% discount on Modifiers"
+        },
+        "30": {
+            "name": "",
+            "desc": "Quantum McCornics: Ultimate Black Hole can absorb all projectiles"
+        },
+        "31": {
+            "name": "",
+            "desc": "Quantum McCornics: Ultimate Black Hole's absorption radius ×2"
+        },
+        "32": {
+            "name": "",
+            "desc": "Lifereaver Spruce: Boreal reaper saws now last for 15s｜Soulrender Bamboo: Now receives only 1/3 incoming damage"
+        },
+        "33": {
+            "name": "",
+            "desc": "Lifereaver Spruce: Healing is no longer split among plants｜Soulrender Bamboo: HP and Shield recovery ×2"
+        },
+        "34": {
+            "name": "",
+            "desc": "Tyrannoflora Lux: 攻撃範囲が2倍"
+        },
+        "35": {
+            "name": "",
+            "desc": "Tyrannoflora Lux: Provides 2 Lumos Level to a 5×5 area during digestion"
+        },
+        "36": {
+            "name": "",
+            "desc": "Vulcannon: Volcanic Bombs Damage ×3｜Kaledera Eruptor: Pyro Cabbages Damage ×3"
+        },
+        "37": {
+            "name": "",
+            "desc": "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or ハラペーニョs｜Kaledera Eruptor: 10% chance to trigger Cherry Bomb and ハラペーニョ effects at the barrel position and ignore the target limit of 10"
+        },
+        "38": {
+            "name": "",
+            "desc": "太陽新星姫：When a solar shot hits a zombie, it cause nearby projectiles to explode as well"
+        },
+        "39": {
+            "name": "",
+            "desc": "太陽新星姫：Energy cap ×3, Sun production amount after storage overflow ×3"
+        },
+        "40": {
+            "name": "",
+            "desc": "Maelonstrom: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage｜氷時破壊キノコ: Now only creates one set of portals, but they spawn ×10 ice particle streams"
+        },
+        "41": {
+            "name": "",
+            "desc": "Maelonstrom: Cryo-melon damage ×6, but with decreased splash radius｜Maelonstrom＆氷時破壊キノコ: Zombies immune to Chronoshift will still take damage equal to (Elapsed Time)% of their HP"
+        },
+        "42": {
+            "name": "",
+            "desc": "爆焱猫尾草: Heatbeam damage frequency ×2"
+        },
+        "43": {
+            "name": "",
+            "desc": "爆焱猫尾草: Regular shots' damage ×3"
+        },
+        "44": {
+            "name": "",
+            "desc": "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks"
+        },
+        "45": {
+            "name": "",
+            "desc": "Scylla Leviathan: Fires 3 base attack projectiles at once"
+        },
+        "46": {
+            "name": "",
+            "desc": "Cryolina Reaper＆Habanero Weeper: Soul charge cap increased to 10, now gains 1 soul charge whenever a Mini-boss dies"
+        },
+        "47": {
+            "name": "",
+            "desc": "Cryolina Reaper＆Habanero Weeper: When using a soul charge, also grants 1s of invincibility to all plants"
+        },
+        "48": {
+            "name": "",
+            "desc": "Photon Splitter: Lv1: Lumos energy cap increase from 1000 to 2000; Lv2: Lumos energy cap further increased to 10k｜Axion Orbiter: Projectile damage radius +50%"
+        },
+        "49": {
+            "name": "",
+            "desc": "Photon Splitter: Boosts Transfer efficiency by 50%, and by 250% if target's energy < 1000｜Axion Orbiter: Now fires 2 extra projectiles each attack"
+        },
+        "50": {
+            "name": "",
+            "desc": "Buckshot Commando: All Commandos Ultimate Trigger chances ×3｜Synchronizer 狙撃ピー: All 狙撃ピーs now fire an extra shot after a ヘッドショット"
+        },
+        "51": {
+            "name": "",
+            "desc": "Buckshot Commando: All Commandos Ultimate ダメージが2倍 and no longer spread｜Synchronizer 狙撃ピー: All 狙撃ピーs required shots before triggering ヘッドショット -3"
+        }
+    },
+    "debuffs": {
+        "0": {
+            "name": "",
+            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken"
+        },
+        "1": {
+            "name": "",
+            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects"
+        },
+        "2": {
+            "name": "",
+            "desc": "Giga Football-nut Zombie: Bites now disable plant healing for 1s"
+        },
+        "3": {
+            "name": "",
+            "desc": "Giga Football-nut Zombie: Bites weaken plants, making them receive 3× damage for 1s"
+        },
+        "4": {
+            "name": "",
+            "desc": "Sharkmarine: Movement Speed ×2"
+        },
+        "5": {
+            "name": "",
+            "desc": "Sharkmarine: Gains 50% Damage Reduction"
+        },
+        "6": {
+            "name": "",
+            "desc": "Kirov Zomppelin: Immunity to Blovers｜Movement Speed ×5"
+        },
+        "7": {
+            "name": "",
+            "desc": "Kirov Zomppelin: Summoned Drones now have 50× HP"
+        },
+        "8": {
+            "name": "",
+            "desc": "Clown-on-the-Pogo Zombie: Now always explodes on death, and big leap charging time is reduced by 90%｜Clown-on-the-Jetski Zombie: Bomb damage +500"
+        },
+        "9": {
+            "name": "",
+            "desc": "Clown-on-the-Pogo Zombie: Jack-in-the-Box-type Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies｜Clown-on-the-Jetski Zombie: Bomb damage +500"
+        },
+        "10": {
+            "name": "",
+            "desc": "Giga Trident-nut Zombie: Now throws 2 extra tridents each attack｜Pozeidon throws 3 giant tridents"
+        },
+        "11": {
+            "name": "",
+            "desc": "Giga Trident-nut Zombie: Now ignores Umbrella-type plants and targets random plants to attack"
+        },
+        "12": {
+            "name": "",
+            "desc": "Superstar Zombie: Can now summon Super Dancing Pole Vaulters"
+        },
+        "13": {
+            "name": "",
+            "desc": "Superstar Zombie: Will now phase through plants when sliding in"
+        },
+        "14": {
+            "name": "",
+            "desc": "Undying Wraith: Explosion damage will now ignore immunities by Joker Pumpkins and other relevant plants"
+        },
+        "15": {
+            "name": "",
+            "desc": "Undying Wraith: Dash CD reduced｜攻撃力 Greatly Increased"
+        },
+        "16": {
+            "name": "",
+            "desc": "Trident Hwacha: Now immune to most status effects and throws 5× as many tridents"
+        },
+        "17": {
+            "name": "",
+            "desc": "Trident Hwacha: Now attacks in advance"
+        },
+        "18": {
+            "name": "",
+            "desc": "Michael Zomboni: Now spawns every round｜Spawns an extra Superstar Zombie when it dies"
+        },
+        "19": {
+            "name": "",
+            "desc": "Michael Zomboni: Michael Zombonis＆Jackson Worldwide Movement Speed ×5"
+        },
+        "20": {
+            "name": "",
+            "desc": "Bungee Zombies have a chance to drop an Odyssey Zombie in the 4th column or further to the right and will gain 90% DMG Reduction"
+        },
+        "21": {
+            "name": "",
+            "desc": "Alpha Assassin Squad can now recover from being incapacitated infinitely"
+        },
+        "22": {
+            "name": "",
+            "desc": "Frost Legion Frayer Disc: Dissolver Beams now target the farthest plant within range"
+        },
+        "23": {
+            "name": "",
+            "desc": "Frost Legion Frayer Disc: Siphon Drainer's range: 1 Tile→3×3 Area"
+        },
+        "24": {
+            "name": "",
+            "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the extra abilities of all four affinities at once"
+        },
+        "25": {
+            "name": "",
+            "desc": "Element-infused Gargantuar: Appearance no longer matters, now has the debuff immunities of all four affinities at once"
+        },
+        "26": {
+            "name": "",
+            "desc": "Trident Jugger-nut Gargantuar: Trident reload Speed ×3"
+        },
+        "27": {
+            "name": "",
+            "desc": "Trident Jugger-nut Gargantuar: Now recovers 10% max HP when throwing tridents"
+        },
+        "28": {
+            "name": "",
+            "desc": "Giga Mecha-nut Bowling Zombie: For the first 50 hits, all zombies take only 1 damage"
+        },
+        "29": {
+            "name": "",
+            "desc": "Giga Mecha-nut Bowling Zombie: All zombies gain 0.2s of damage immunity after each hit to any damage that does not exceed the previous one; this triggers up to 100 times"
+        },
+        "30": {
+            "name": "",
+            "desc": "War Mammoth Zombie: Now spawns in groups of 3"
+        },
+        "31": {
+            "name": "",
+            "desc": "War Mammoth Zombie: For each one on the field, mini-boss zombies gain +100 DR value"
+        },
+        "32": {
+            "name": "",
+            "desc": "Buckshot Bobsled Brigade: Immune to butter and freezing"
+        },
+        "33": {
+            "name": "",
+            "desc": "Buckshot Bobsled Brigade: Enters the field rapidly, but slows down over time"
+        },
+        "1000": {
+            "name": "",
+            "desc": "Your Sun will be reset to 0"
+        },
+        "1001": {
+            "name": "",
+            "desc": "Your Points will be reset to 0"
+        },
+        "1002": {
+            "name": "",
+            "desc": "You can have no more than 120 plants on the field"
+        },
+        "1003": {
+            "name": "",
+            "desc": "All your existing plants have a 1/3 chance to perish (applied once)"
+        },
+        "1004": {
+            "name": "",
+            "desc": "Zombie max HP increment rate after each round: 20%→30%"
+        },
+        "1005": {
+            "name": "",
+            "desc": "All zombies have a 1/3 chance to revive to full HP on death"
+        },
+        "1006": {
+            "name": "",
+            "desc": "Increase the maximum limit of zombies per wave to 100"
+        },
+        "1007": {
+            "name": "",
+            "desc": "The maximum number of zombies each wave is halved, but all zombies have ×2 HP and Attack"
+        },
+        "1008": {
+            "name": "",
+            "desc": "All healing and shields on Plants are reduced by 50%"
+        },
+        "1009": {
+            "name": "",
+            "desc": "Plants lose max HP equal to 10% of the damage received (up to 40% and resets between rounds) when taking damage"
+        },
+        "1010": {
+            "name": "",
+            "desc": "All plants now cost 3× Sun"
+        },
+        "1011": {
+            "name": "",
+            "desc": "Time before the first wave of zombie is reduced to 5s, and the interval between zombie waves is reduced to 15s"
+        },
+        "1012": {
+            "name": "",
+            "desc": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack＆max HP, and 2× 攻撃速度"
+        },
+        "1013": {
+            "name": "",
+            "desc": "Mini-boss zombies gain a 60% Speed buff and 30% max HP buff"
+        },
+        "1014": {
+            "name": "",
+            "desc": "非ミニボス zombies gain a 30% Speed buff and 60% max HP buff"
+        },
+        "1015": {
+            "name": "",
+            "desc": "Flying zombies now have 2× max HP"
+        },
+        "1016": {
+            "name": "",
+            "desc": "When Plants are killed, they deal damage equal to their max HP to other plants in a 3×3 Area"
+        },
+        "1017": {
+            "name": "",
+            "desc": "All non-Odyssey zombies now have ×2 HP, Attack and Speed"
+        },
+        "1018": {
+            "name": "",
+            "desc": "Plant's HP display will now be disabled"
+        },
+        "1019": {
+            "name": "",
+            "desc": "Zombie's HP display will now be disabled"
+        },
+        "2000": {
+            "name": "",
+            "desc": "Celestial Gargantuar will appear"
+        },
+        "2001": {
+            "name": "",
+            "desc": "破壊ガトリングピー Newspaper Zombie will appear"
+        },
+        "2002": {
+            "name": "",
+            "desc": "D.A.M.P. Disc will appear"
+        },
+        "2003": {
+            "name": "",
+            "desc": "Alpha Assassin Hitman will appear"
+        },
+        "2004": {
+            "name": "",
+            "desc": "Buckshot Knight Captain Zombie will appear"
+        },
+        "3000": {
+            "name": "",
+            "desc": "Abyssal Gargantuar will appear as a Mini-boss"
+        },
+        "3001": {
+            "name": "",
+            "desc": "Abyssal Gargantuar: Spawns Dr. Zomboss on death"
+        },
+        "3002": {
+            "name": "",
+            "desc": "Imperor's Ark of the Duck will appear as a Mini-boss"
+        },
+        "3003": {
+            "name": "",
+            "desc": "Imperor's Ark of the Duck: Now recovers 500 HP every time he dodges an attack"
+        },
+        "3004": {
+            "name": "",
+            "desc": "Jackson Worldwide will appear as a Mini-boss"
+        },
+        "3005": {
+            "name": "",
+            "desc": "Jackson Worldwide: Now gains a 50% incoming Damage Reduction"
+        },
+        "3006": {
+            "name": "",
+            "desc": "Giga Football Striker will appear as a Mini-boss"
+        },
+        "3007": {
+            "name": "",
+            "desc": "Giga Football Striker: Now gains buffs 2× faster"
+        },
+        "3008": {
+            "name": "",
+            "desc": "Pozeidon will appear as a Mini-boss"
+        },
+        "3010": {
+            "name": "",
+            "desc": "Ultra Mecha-nut will appear as a Mini-boss"
+        },
+        "3012": {
+            "name": "",
+            "desc": "Skystrider Mecha will appear as a Mini-boss"
+        },
+        "3014": {
+            "name": "",
+            "desc": "Professor Cherryz will appear as a Mini-boss"
+        },
+        "3016": {
+            "name": "",
+            "desc": "Queen Jill-in-the-Box will appear as a Mini-boss"
+        },
+        "3018": {
+            "name": "",
+            "desc": "Omega Assassin Squad will appear as a Mini-boss"
+        },
+        "3020": {
+            "name": "",
+            "desc": "Archduke Deathrider will appear as a Mini-boss"
+        },
+        "3021": {
+            "name": "",
+            "desc": "Archduke Deathrider: Archduke will transform his warhorse into a scythe and significantly boost his abilities after dismounting."
+        },
+        "3022": {
+            "name": "",
+            "desc": "Millennium Dragon＆Warden will appear as a Mini-boss"
+        },
+        "3023": {
+            "name": "",
+            "desc": "Cerasocetus Rider will appear as a Mini-boss"
+        },
+        "4000": {
+            "name": "",
+            "desc": "Abyssal Gargantuar grants +400 DR value to all zombies while present"
+        },
+        "4001": {
+            "name": "",
+            "desc": "Imperor's Ark of the Duck grants +400 DR value to all zombies while present"
+        },
+        "4002": {
+            "name": "",
+            "desc": "Giga Football Striker grants +400 DR value to all zombies while present"
+        },
+        "4003": {
+            "name": "",
+            "desc": "Jackson Worldwide grants +400 DR value to all zombies while present"
+        },
+        "4004": {
+            "name": "",
+            "desc": "Archduke Deathrider grants +400 DR value to all zombies while present"
+        },
+        "5000": {
+            "name": "",
+            "desc": "Zombies gain a stalling status effect immunity for 3s after being continuously under any such effect for 5s"
+        },
+        "5001": {
+            "name": "",
+            "desc": "The Attack damage of all zombies on the field is doubled every 3s, up to 1M"
+        },
+        "5002": {
+            "name": "",
+            "desc": "Zombies gain DR value equal to 1% of the incoming damage when they receive damage more than 100, up to +1000 DR value"
+        },
+        "5003": {
+            "name": "",
+            "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 0.2s"
+        },
+        "5004": {
+            "name": "",
+            "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to 1% of their HP."
+        }
     },
     "unlocks": {
-        "0": "Unlock Cherrizilla: Chompzilla + Cherry チョンパー\nand its Subspecies Garlizilla",
-        "1": "Unlock Gatling Cherrybomber: Gatling Cherry + Explode-o-shooter\nand its Subspecies Cherrybomber Drone",
-        "2": "Unlock Doominator: Doomspike-shroom + Cryonic-shroom\nand its Subspecies Thornminator",
-        "3": "Unlock Infernal Squashwood: Spicy Squash + Infernowood\nand its Subspecies Infernal Sparkwood",
-        "4": "Unlock Magnetar: Stardrop + Magnethorn\nand its Subspecies Pulsar",
-        "5": "Unlock Shroomageddon: Doomspike-shroom + Frost Gloom-shroom\nand its Subspecies Atomheart プランタン",
-        "6": "Unlock Wither-pult: Salad-pult + Garlic-pult\nand its Subspecies Litter-pult",
-        "7": "Unlock Cob-literator: Cryo Cannon + Demise-shroom\nand its Subspecies Panmelonium",
-        "8": "Unlock 黒曜石トールナッツ: Frost トールナッツ + Flame トールナッツ\nand its Subspecies Obsidian Mine",
-        "9": "Unlock Charmatron: Charm-shroom + Hypno Magnet\nand its Subspecies Pumpkaptivator",
-        "10": "Unlock Apeacalypse Minigun: Titan Pea Turret + Spicicle\nand its Subspecies Apeacalypse Railgun",
-        "11": "Unlock Helios Cabbage: Solar-pult + Golden Cabbage\nand its Subspecies Selene Cabbage",
-        "12": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin",
-        "13": "Unlock Napalm-shroom: Summer Melon + Football-shroom\nand its Subspecies Magma-shroom",
-        "14": "Unlock ケルプテイン・ドレッドハート: Twin Marigold→Hydra Kelp",
-        "15": "Unlock Quantum McCornics: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut",
-        "16": "Unlock Lifereaver Spruce: Spruce Supershooter + Snowbloom Spruce\nand its Subspecies Soulrender Bamboo",
-        "17": "Unlock Tyrannoflora Lux: Lumos Angler→チョンパー Maw",
-        "18": "Unlock 火山砲: Pyro Cannon + 桜花火\nand its Subspecies Kaledera Eruptor",
-        "19": "Unlock Princess Solarnova: Torchflower + Golden Sunflower",
-        "20": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies Fungularity",
-        "21": "Unlock Prometheus Liontail: Flame Cattail + 桜花火",
-        "22": "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom",
-        "23": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper",
-        "24": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Orbiter",
-        "25": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
+        "0": {
+            "name": "",
+            "desc": "Unlock Cherrizilla: Chompzilla + Cherry Chomper\nand its Subspecies Garlizilla"
+        },
+        "1": {
+            "name": "",
+            "desc": "Unlock Gatling Cherrybomber: Gatling Cherry + Explode-o-shooter\nand its Subspecies Cherrybomber Drone"
+        },
+        "2": {
+            "name": "",
+            "desc": "Unlock Doominator: 破晶キノコ + Cryonic-shroom\nand its Subspecies Thornminator"
+        },
+        "3": {
+            "name": "",
+            "desc": "Unlock Infernal Squashwood: Spicy Squash + Infernowood\nand its Subspecies Infernal Sparkwood"
+        },
+        "4": {
+            "name": "",
+            "desc": "Unlock マグネッター: スタードロップ + Magnethorn\nand its Subspecies Pulsar"
+        },
+        "5": {
+            "name": "",
+            "desc": "Unlock Shroomageddon: 破晶キノコ + Frost Gloom-shroom\nand its Subspecies Atomheart Plantern"
+        },
+        "6": {
+            "name": "",
+            "desc": "Unlock Wither-pult: サラダパルト + Garlic-pult\nand its Subspecies Litter-pult"
+        },
+        "7": {
+            "name": "",
+            "desc": "Unlock Cob-literator: Cryo Cannon + 霜終キノコ\nand its Subspecies Panmelonium"
+        },
+        "8": {
+            "name": "",
+            "desc": "Unlock 黒曜石トールナッツ: Frost Tall-nut + Flame Tall-nut\nand its Subspecies Obsidian Mine"
+        },
+        "9": {
+            "name": "",
+            "desc": "Unlock Charmatron: 魅力キノコ + Hypno Magnet\nand its Subspecies Pumpkaptivator"
+        },
+        "10": {
+            "name": "",
+            "desc": "Unlock Apeacalypse Minigun: Titan Pea Turret + Spicicle\nand its Subspecies Apeacalypse Railgun"
+        },
+        "11": {
+            "name": "",
+            "desc": "Unlock Helios Cabbage: Solar-pult + Golden Cabbage\nand its Subspecies Selene Cabbage"
+        },
+        "12": {
+            "name": "",
+            "desc": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin"
+        },
+        "13": {
+            "name": "",
+            "desc": "Unlock 火炎弾キノコ: Summer Melon + Football-shroom\nand its Subspecies 炎核キノコ"
+        },
+        "14": {
+            "name": "",
+            "desc": "Unlock Kelptain Goldbeard: Twin Marigold→ヒドラケルプ"
+        },
+        "15": {
+            "name": "",
+            "desc": "Unlock Quantum McCornics: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut"
+        },
+        "16": {
+            "name": "",
+            "desc": "Unlock Lifereaver Spruce: Spruce Supershooter + 蓮スプルース\nand its Subspecies Soulrender Bamboo"
+        },
+        "17": {
+            "name": "",
+            "desc": "Unlock Tyrannoflora Lux: Lumos Angler→Chomper Maw"
+        },
+        "18": {
+            "name": "",
+            "desc": "Unlock Vulcannon: Pyro Cannon + Pepper Popper\nand its Subspecies Kaledera Eruptor"
+        },
+        "19": {
+            "name": "",
+            "desc": "Unlock 太陽新星姫：Torchflower + Golden Sunflower"
+        },
+        "20": {
+            "name": "",
+            "desc": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies 氷時破壊キノコ"
+        },
+        "21": {
+            "name": "",
+            "desc": "Unlock 爆焱猫尾草: Flame Cattail + Pepper Popper"
+        },
+        "22": {
+            "name": "",
+            "desc": "Unlock Scylla Leviathan: Minnow-shroom + Kraken-shroom"
+        },
+        "23": {
+            "name": "",
+            "desc": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper"
+        },
+        "24": {
+            "name": "",
+            "desc": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Orbiter"
+        },
+        "25": {
+            "name": "",
+            "desc": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer 狙撃ピー"
+        }
     },
     "investmentBuffs": {
-        "0": "Plants do 40% more damage in the first 50% of the round",
-        "1": "At the end of each round, gain 300 points for every type of plant that dealt 0 damage this round (up to 10 plant types)",
-        "2": "At the end of each round, gain 1.5k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round",
-        "3": "Turn all plants on the 芝生 into random plants, gain 1000 points immediately and the Glove will have no CD in this round",
-        "4": "Immediately gain 10 random Odyssey plants as 種パケットs",
-        "5": "Every time a Mini-boss is defeated, all plants heal for 10% of their max HP",
-        "6": "All 非ミニボス Zombies have 10% less HP",
-        "7": "All Mini-bosses have 10% less HP",
-        "8": "Every wave, 1500% base damage is dealt to the zombie with the most HP",
-        "9": "The plant type that deals the most damage deals an additional 25% damage",
-        "10": "At the start of every round, your plants gain 3% damage reduction for every type of non-Odyssey plant on the 芝生, up to 30%",
-        "11": "At the start of every round, the 6 plants with the most damage gain a 20% damage boost",
-        "12": "You gain 6 extra 再抽選s in the Shop if you didn't buy anything from the last visit",
-        "13": "Gain 11 extra Shop 再抽選s",
-        "1000": "<color=#AF4900>シャベル all of your plants, but your Sun is doubled, and at the start of every round all plants gain Shield equal to the total amount of Sun cost of the plants shoveled",
-        "1001": "<color=#AF4900>シャベル all of your plants, but your Sun is doubled, and 種パケットs have no CD in this round",
-        "1002": "<color=#AF4900>Your teams gain an 18% chance to crit",
-        "1003": "<color=#AF4900>At the start of every round, your plants gain 3% more HP and 6% more attack damage for every type of plant on the 芝生",
-        "1004": "<color=#AF4900>The plant type that deals the most damage deals an additional 40% damage and your teams also do 10% more damage",
-        "1005": "<color=#AF4900>At the start of every round, the leftmost regular plant in every lane gains a 150% attack speed boost, but at the start of every wave, they receive damage equal to 1000% of their max HP",
-        "1006": "<color=#AF4900>At the start of every round, the leftmost regular plant on every lane gains a damage boost equal to 0.1% of the rightmost regular plant's max HP, and the rightmost regular plant gains max HP equal to 1000% of the leftmost regular plant's damage",
-        "1007": "<color=#AF4900>At the start of every round, your teams gain a 25% chance to crit, and 30% reduced max HP",
-        "1008": "<color=#AF4900>Your teams gain a 10% chance to crit. At the start of every round, that chance is increased by 1%",
-        "1009": "<color=#AF4900>Your teams gain a 10% attack damage boost. At the start of every round, if there are 200 or more plants in your teams, all plants gain an additional 50% attack damage boost",
-        "1010": "<color=#AF4900>At the start of every round and now, gain 1.5k points and an extra 再抽選",
-        "1011": "<color=#AF4900>At the start of every round, promote a random non-Odyssey plant to Tier 2",
-        "1012": "<color=#AF4900>You gain a Plant Giftbox every time you perform a fusion",
-        "1013": "<color=#AF4900>Your plants do 40% more damage in the last 50% of the round",
-        "2000": "<color=#007FFF>Your teams gain a 25% chance to crit. They also gain a chance equal to 30% of their crit chance to reduce any incoming damage to 1",
-        "2001": "<color=#007FFF>Your teams gain 25% damage reduction, and crit chance equal to their damage reduction rate",
-        "2002": "<color=#007FFF>At the start of every round, every plant has a 50% chance to gain a 100% attack damage boost",
-        "2003": "<color=#007FFF>Your teams gain a permanent 8% attack damage boost every time a Mini-boss is defeated",
-        "2004": "<color=#007FFF>At the start of every round, promote a random non-Odyssey plant to Tier 3",
-        "2005": "<color=#007FFF>Increase your teams' crit chance by 30%. If the crit chance is above 100%, crit damage is increased by 40%",
-        "2006": "<color=#007FFF>A super rare エンドフレイム that holds a ton of Points appears (you gain 20k Points)",
-        "2007": "<color=#007FFF>Immediately gain 5k points. From now on, you gain 3k points if you enter into the next round without buying anything from the Shop",
-        "2008": "<color=#007FFF>You have a 45% chance to gain an extra 再抽選 when you 再抽選",
-        "2009": "<color=#007FFF>At the start of every round, gain 2k points",
-        "2010": "<color=#007FFF>At the start of each round, gain a Stellar Imitater. If used on a plant with a Stellar form, it becomes that plant's Stellar variant",
-        "2011": "<color=#007FFF>Gain 500 points every time you 再抽選 in the Shop or when selecting Zombie Modifiers",
-        "2012": "<color=#007FFF>Deplete all of your current points. For every 1k points depleted, your plants gain a 1% chance to crit",
-        "2013": "<color=#007FFF>For this round only, you gain 10k points and win the round if a zombie enters your house"
+        "0": {
+            "name": "",
+            "desc": "Plants do 40% more damage in the first 50% of the round"
+        },
+        "1": {
+            "name": "",
+            "desc": "At the end of each round, gain 300 points for every type of plant that dealt 0 damage this round (up to 10 plant types)"
+        },
+        "2": {
+            "name": "",
+            "desc": "At the end of each round, gain 1.5k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round"
+        },
+        "3": {
+            "name": "",
+            "desc": "Turn all plants on the lawn into random plants, gain 1000 points immediately and the Glove will have no CD in this round"
+        },
+        "4": {
+            "name": "",
+            "desc": "Immediately gain 10 random Odyssey plants as seed packets"
+        },
+        "5": {
+            "name": "",
+            "desc": "Every time a Mini-boss is defeated, all plants heal for 10% of their max HP"
+        },
+        "6": {
+            "name": "",
+            "desc": "All 非ミニボス Zombies have 10% less HP"
+        },
+        "7": {
+            "name": "",
+            "desc": "All Mini-bosses have 10% less HP"
+        },
+        "8": {
+            "name": "",
+            "desc": "Every wave, 1500% base damage is dealt to the zombie with the most HP"
+        },
+        "9": {
+            "name": "",
+            "desc": "The plant type that deals the most damage deals an additional 25% damage"
+        },
+        "10": {
+            "name": "",
+            "desc": "At the start of every round, your plants gain 3% damage reduction for every type of non-Odyssey plant on the lawn, up to 30%"
+        },
+        "11": {
+            "name": "",
+            "desc": "At the start of every round, the 6 plants with the most damage gain a 20% damage boost"
+        },
+        "12": {
+            "name": "",
+            "desc": "You gain 6 extra rerolls in the Shop if you didn't buy anything from the last visit"
+        },
+        "13": {
+            "name": "",
+            "desc": "Gain 11 extra Shop rerolls"
+        },
+        "1000": {
+            "name": "",
+            "desc": "<color=#AF4900>Shovel all of your plants, but your Sun is doubled, and at the start of every round all plants gain Shield equal to the total amount of Sun cost of the plants shoveled"
+        },
+        "1001": {
+            "name": "",
+            "desc": "<color=#AF4900>Shovel all of your plants, but your Sun is doubled, and Seed packets have no CD in this round"
+        },
+        "1002": {
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain an 18% chance to crit"
+        },
+        "1003": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, your plants gain 3% more HP and 6% more attack damage for every type of plant on the lawn"
+        },
+        "1004": {
+            "name": "",
+            "desc": "<color=#AF4900>The plant type that deals the most damage deals an additional 40% damage and your teams also do 10% more damage"
+        },
+        "1005": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, the leftmost regular plant in every lane gains a 150% 攻撃速度 boost, but at the start of every wave, they receive damage equal to 1000% of their max HP"
+        },
+        "1006": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, the leftmost regular plant on every lane gains a damage boost equal to 0.1% of the rightmost regular plant's max HP, and the rightmost regular plant gains max HP equal to 1000% of the leftmost regular plant's damage"
+        },
+        "1007": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, your teams gain a 25% chance to crit, and 30% reduced max HP"
+        },
+        "1008": {
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain a 10% chance to crit. At the start of every round, that chance is increased by 1%"
+        },
+        "1009": {
+            "name": "",
+            "desc": "<color=#AF4900>Your teams gain a 10% attack damage boost. At the start of every round, if there are 200 or more plants in your teams, all plants gain an additional 50% attack damage boost"
+        },
+        "1010": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round and now, gain 1.5k points and an extra reroll"
+        },
+        "1011": {
+            "name": "",
+            "desc": "<color=#AF4900>At the start of every round, promote a random non-Odyssey plant to Tier 2"
+        },
+        "1012": {
+            "name": "",
+            "desc": "<color=#AF4900>You gain a Plant Giftbox every time you perform a fusion"
+        },
+        "1013": {
+            "name": "",
+            "desc": "<color=#AF4900>Your plants do 40% more damage in the last 50% of the round"
+        },
+        "2000": {
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain a 25% chance to crit. They also gain a chance equal to 30% of their crit chance to reduce any incoming damage to 1"
+        },
+        "2001": {
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain 25% damage reduction, and crit chance equal to their damage reduction rate"
+        },
+        "2002": {
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, every plant has a 50% chance to gain a 100% attack damage boost"
+        },
+        "2003": {
+            "name": "",
+            "desc": "<color=#007FFF>Your teams gain a permanent 8% attack damage boost every time a Mini-boss is defeated"
+        },
+        "2004": {
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, promote a random non-Odyssey plant to Tier 3"
+        },
+        "2005": {
+            "name": "",
+            "desc": "<color=#007FFF>Increase your teams' crit chance by 30%. If the crit chance is above 100%, crit damage is increased by 40%"
+        },
+        "2006": {
+            "name": "",
+            "desc": "<color=#007FFF>A super rare Endoflame that holds a ton of Points appears (you gain 20k Points)"
+        },
+        "2007": {
+            "name": "",
+            "desc": "<color=#007FFF>Immediately gain 5k points. From now on, you gain 3k points if you enter into the next round without buying anything from the Shop"
+        },
+        "2008": {
+            "name": "",
+            "desc": "<color=#007FFF>You have a 45% chance to gain an extra reroll when you reroll"
+        },
+        "2009": {
+            "name": "",
+            "desc": "<color=#007FFF>At the start of every round, gain 2k points"
+        },
+        "2010": {
+            "name": "",
+            "desc": "<color=#007FFF>At the start of each round, gain a Stellar Imitater. If used on a plant with a Stellar form, it becomes that plant's Stellar variant"
+        },
+        "2011": {
+            "name": "",
+            "desc": "<color=#007FFF>Gain 500 points every time you reroll in the Shop or when selecting Zombie Modifiers"
+        },
+        "2012": {
+            "name": "",
+            "desc": "<color=#007FFF>Deplete all of your current points. For every 1k points depleted, your plants gain a 1% chance to crit"
+        },
+        "2013": {
+            "name": "",
+            "desc": "<color=#007FFF>For this round only, you gain 10k points and win the round if a zombie enters your house"
+        }
     }
 }

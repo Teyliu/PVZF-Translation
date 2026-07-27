@@ -6,103 +6,78 @@
 今後のアップデートやサポートについては、コミュニティをご覧ください。
 
 <align=center><size=130%>プラント vs. ゾンビ：融合</size></align>
-<align=center><size=130%>アップデート3.7の変更履歴</size></align>
+<align=center><size=130%>アップデート3.8の変更履歴</size></align>
 
-①神々：進化・刷新
- ※Added many gameplay customization options, including plant limits, difficulty levels, and progression tiers.
- ※Modifiers now come in multiple rarities and can be used to obtain new plants or upgrade existing ones.
- ※Be on the look out for special modifiers handed out by 神々, they can be game-breaking! 
- ＊（注：You can access this level through the new 「おすすめレベル」 button on the main menu.）
+①禅ガーデン更新
+ ※禅ガーデンの管理がより簡単になるよう、ページナビゲーションを追加しました。
+ ※禅ガーデンの照明や雰囲気を調整できるステージ切り替え機能を追加しました。
+ ※完全に成長したプラントを売却すると、エンドフレイムコインを獲得できるようになりました。エンドフレイムコインは、プラントの大量栽培に必要な高度な栽培アイテムの購入に使用できます。
+ ※禅ガーデンとグランドガーデンは相互に接続されなくなりました。
 
 ②新プラント
  ※基本融合：
-  ◎冬筍地衣（冬筍バリケード＋氷霜地衣）
-  ◎氷霜蓮（雪蓮＋氷霜地衣）
-  ◎ピー鉢（ピーシューター→植木鉢）
-  ◎破壊スイカパルト（破壊キノコ＋スイカパルト）
-  ◎氷霜アロエ（水滴アロエ＋氷霜地衣）
-  ◎Pumpkin Chest（Pumpkin→Pumpkin（full HP））
-  ◎破壊カーネルパルト（破壊キノコ＋カーネルパルト）
-  ◎スターシューター（ピーシューター＋スターフルーツ）
-  ◎炎パンプキン（ハラペーニョ→Pumpkin）
-  ◎Doom Kelp（破壊キノコ→Tangle Kelp）
-  ◎Thornweed（スパイクウィード＋Cactus）
-  ◎Snow-me-not（刃草＋氷霜地衣）
-  ◎Bounceweed（スパイクウィード＋Cabbage-pult）
-  ◎Springweed（スパイクウィード＋スイカパルト）
-  ◎Solarweed（Sunflower＋スパイクウィード）
-  ◎Cyclover（Blover＋Blover）
-  ◎Hot Potato（ジャガイモ地雷＋Torchwood）
-  ◎Roasted Potato（spawned from Hot Potato）
-  ◎Shooty-shroom（ピーシューター＋Scaredy-shroom）
-  ◎Levitater（ジャガイモ地雷＋Blover）
+  ◎氷サボテン（氷キノコ＋サボテン）
+  ◎トリガーキノコ（チェリー爆弾＋フュームキノコ）
+  ◎炎流木（炎木→海キノコ）
+  ◎熱い海キノコ
+  ◎三連スイカパルト（スリーピーター＋スイカパルト）
+  ◎三連カーネルパルト（スリーピーター＋カーネルパルト）
+  ◎三連パンプキン（スリーピーター→パンプキン）
+  ◎氷パンプキン（氷キノコ→パンプキン）
+  ◎ブロウヴァー鉢（ブロウヴァー＋植木鉢）
+  ◎トビキノコ（フュームキノコ＋スパイクウィード）
+  ◎三线卷心菜炮手（スリーピーター＋キャベツパルト）
+  ◎破壊スリーピーター（破壊キノコ＋スリーピーター）
+  ◎スタースクワッシュ（スクワッシュ＋スターフルーツ）
+  ◎三列鉢（スリーピーター→植木鉢）
  ※旅行融合：
   ◎コモン：
-   • Tundral Glacier-shroom（Demise-shroom＋Ice-shroom）
-   • 魅惑魔法猫娘（ヒプノキノコ→魔法猫娘）
-   ＊（注：You can use the shovel to switch between its water and land forms.）
-   • Lethal Glacier-shroom（Tundral Glacier-shroom＋破壊キノコ）
+   • 風神ブロウヴァー
+  ◎ＳＰ：
+   • ＳＰ炎帝スリーピーター（ハラペーニョ→炎帝スリーピーター）
+   • ＳＰ炎翔スリーピーター（ハラペーニョ→炎翔スリーピーター）
   ◎エピック：
-   • Magma-shroom (Napalm-shroom + Kernel-pult)
+   • 爆焱海キノコ（爆焱猫尾草＋海キノコ）
+   • 黒曜石の要塞ナッツ（黒曜石のハラペーニョ→要塞ナッツ）
   ◎特殊：
-   • 狙撃鉢 (Snipea > Flower Pot)
-   • Pumpkommando (Pea-storm Commando > Pumpkin)
-   • Pea-nut Commando (Pea-storm Commando + Wall-nut)
-   • Snapper Snipea (Snipea + Chomper)
- ※レジェンダリー融合：
-  ◎岩盤トールナッツ
- ※特別／その他
-  ◎Prickly Bear
+   • ジャガイモ大将（ピー大将＋ジャガイモ地雷）
+   • 星呼び狙撃ピー（狙撃ピー＋スターフルーツ）
+  ◎レジェンダリー：
+   • 究極狙撃チョンプジラ
 
-③新ゾンビ
- ※コモン：
-  ◎鉄のコーンヘッドゾンビ
-  ◎Mammoth Zombie
- ※旅行：
-  ◎一般
-   • Obsidian Tall-nut Iceclaw Zombie
-   • Astronut-copter Zombie
-   • Black Knight Zombie
-   • Buckshot Knight Captain Zombie
-   • Devil-in-the-Box Zombie
-   • War Mammoth Zombie
-   • Buckshot Bobsled Brigade
-  ◎ボス
-   • Cerasocetus Rider
+➂新ゾンビ
+ ※一般ゾンビ
+  ◎ボウリングゾンビナッツ
+  ◎超級ボウリングゾンビナッツ
+  ◎岩盤トールナッツイエティ
+ ※旅行ゾンビ：
+  ◎一般：
+   • 超級フットボールアクロバットゾンビ
+   • 超級フットボールナッツアクロバットゾンビ
+   • 元素注入インプ
+  ◎ミニボス：
+   • キング・ネクロフレイム
+  ◎進化：
+   • 戦象
+   • 上級戦象
+   • 精鋭戦象
 
-④旅行アップデート
- ※Added 馬乗りバックショット大公 ルート
- ※Adjusted spawns for existing routes.
- ※Added the possibility to gain Diamond modifiers from The Gods: Evolved in regular Odyssey runs.
- ※Added Napalm-shroom + Doominator synergy modifier.
- ※追加されたペット：
-  ◎若き公爵（馬乗りバックショット大公）
-  ◎インプの王の幼子（インプの王・鴨の箱舟）
-  ◎裂空者メカ（裂空者メカ）
+④新ステージ：雪夜
+ ※このステージには、今後、新機能やその他のミニゲーム要素が追加される予定です。
 
 ⑤新レベル
- ※ミニゲーム：
-  ◎旅行ガチャ：ガチャ箱
-  ◎融合挑戦：手押し車
-  ＊（注：このミニゲームをクリアすると、手押し車が永久に使えるようになります）
-  ＊（プラントは一時的に保管して後で植え直すことができます）
-  ◎タイムアタック
+ ※神々進化：多くのプラントの進化経路と強化効果が追加され、神々モードの高度植物も導入されました。
 
 ⑥バランス調整
- ※Torchweed can now ignite mini-nut projectiles.
- ※Reduced the speed of Chicken Jockey and Hydrofowl zombies.
- ※Reduced the amount of metal objects produced by Dyson Magnet while increasing its potential damage boost.
- ※The "Curse" mechanics (held by Archduke Deathrider and Lifelink Ladder Zombie) have been fully reworked.
- ※Celestial Gargantuar now only does one full-screen attack right after becoming giant.
+ ※崩壊キノコ：『爆発で爆発を制す』の効果が変更されました。爆発ダメージを吸収して破壊キノコの効果を発動するのではなく、すべてのダメージを無効化します。ただし短期間に免疫を繰り返しすぎると死亡する可能性があります。
+ ※スクワッシュの地獄木＆地獄の火花木：より多くの弾丸に影響を与える。
+ ※量子カーネル：究極ブラックホールの基本効果は『無尽の貪欲』の既存効果を獲得しました。二重効果を修正し、原種と亜種の両方に強化を提供できるようになりました。
+ ※量子ナッツ：必殺技がリワークされました。いまや究極ブラックホールを発動でき、弾丸を吸収して自身に強力なシールドを付与しつつ、敵にダメージを与えます。
+ ※元素注入ガーガンチュア：図鑑の旅行モード強化の項目2効果が更新されました。圧殺時、対応する元素注入インプが出現するようになりました。
 
-⑦生活の質
- ※If you are not on the latest version of the game, an update option will become available on the main menu. (Requires an internet connection to work)
-<color=red> ＊(WARNING: This has NOT been tested or verified to work with the Blooms translation mod.)</color>
- ※Added a Modifier Almanac section.
- ※Reworked plant HP display.
- ※Reworked the Survival save system, including more save slots and custom naming support.
- ※Added the ability to preview the full lineup of zombies in a level before starting.
- ※Zombies can no longer move forward in between attacks if they still have to attack a plant.
- ※Added a variable system to the Node Editor in the Super Level Editor.
- ※Mini-games with the "Blessings and Curses" system now have a difficulty selection menu.
- ※Tower Defense is now located in the Challenge menu.
+⑦その他の最適化
+ ※「T」キーを押すと弾丸のダメージを表示できるようになりました。
+ ※レベル内でUIの位置を自由に調整できるようになりました。
+ ※新しく図鑑スタイルの記録画面を追加しました。入手順ではなく番号順に並べて表示されます。
+
+⑧既知のバグを修正し、ゲーム体験を最適化しました。
