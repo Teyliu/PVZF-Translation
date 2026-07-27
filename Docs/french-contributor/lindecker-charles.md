@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4338**
-* Traductions ajustées : **136**
+* Nouvelles traductions : **4358**
+* Traductions ajustées : **138**
 * Reviews effectuées : **637**
 
 ---
@@ -37,6 +37,49 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `14/07/26 → 25/07/26`
+> [PR#210](https://github.com/Teyliu/PVZF-Translation/pull/210)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **20**
+* Traductions ajustées : **2**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🧩 Modified Plant Entries
+* **Double-champi-pois** (`seedType: 1019`) — `introduce` : espace fine insécable (U+202F) remplacée par une espace normale avant « ? »
+* **Tireur de Bambou** (`seedType: 1260`) — `info` : cadratins (U+2003) remplacés par des espaces normales dans la liste « Spécial »
+
+## 🧪 New Regex Patterns Added
+* **(\d+)/(\d+)\n本轮：(\d+)/(\d+)\n(\d+)**
+
+## 🧵 New String Entries Added
+* **巨嘴花升级到究极灯笼巨嘴花**
+* **冬笋路障升级到莲花冬笋路障**
+* **获得新植物：究极速射樱桃射手**
+* **获得新植物：究极五叶草**
+* **获得新植物：究极火爆星炬**
+* **获得新植物：绿宝石伞**
+* **获得新植物：究极武装大嘴花**
+* **大帝抽到了钻石奖：幸运一击率+20%，幸运一击伤害+50%**
+* **大帝抽到了木头奖：全场光照等级+1**
+* **大帝抽到了黄金奖：立即获得一次选词条的机会**
+* **大帝抽到了钻石奖：全体植物伤害增幅+30%，幸运一击伤害+50%**
+* **大帝抽到了白银奖：刷新次数+1**
+* **爆炸保护**
+* **僵尸方的小丑爆炸伤害降低至1000**
+* **可能是因为你场上什么植物都没有或者词条都选完了**
+* **现在还不能存档**
+* **手动**
+* **自动**
+* **最新备份**
 
 ---
 
