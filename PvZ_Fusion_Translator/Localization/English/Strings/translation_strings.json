@@ -3078,6 +3078,8 @@
   "豌豆射手升级到寒冰射手": "Peashooter: Upgrade to Snow Pea",
   "寒冰射手升级到究极魔法寒冰射手": "Snow Pea: Upgrade to Cryomancer Pea",
   "质变：拿来吧你": "Ascend: Coldsnap Wisdom",
+  "敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies",
+  "质变-拿来吧你：敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies",
   "获得词条：魔力升级II\n获得词条：举世无双": "Cryomancer Pea: Obtain the \"Coldsnap Insight II\" and \"Hat Trick\" modifiers.",
   "质变：魔力升级": "Ascend: Empowered Spell",
   "强化：解读": "Upgrade: Decryption",
