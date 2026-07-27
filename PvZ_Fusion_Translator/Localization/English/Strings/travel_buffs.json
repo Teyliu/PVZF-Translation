@@ -185,7 +185,7 @@
             "desc": "SP Cryomancer Pea: Cryomancer Pea's projectiles now prioritize targetting bosses with the highest HP when ricocheting. At Level 2, zombies hit by ricocheting projectiles take +10% extra damage"
         },
         "46": {
-            "name": "Steel Legend",
+            "name": "Salvage Scavenger",
             "desc": "Ender Pumpkin Chest: Can store metal objects dropped and uses them to heal Giga Mecha-nuts; prioritizing the one with the lowest HP first"
         },
         "47": {
@@ -281,11 +281,11 @@
             "desc": "Plants gain a 20% healing bonus"
         },
         "1022": {
-            "name": "Coldsnap Blessing I",
+            "name": "Coldsnap Insight I",
             "desc": "Upgrade Cryomancer Pea to SP Cryomancer Pea (Level 1)"
         },
         "1023": {
-            "name": "Coldsnap Blessing II",
+            "name": "Coldsnap Insight II",
             "desc": "Upgrade SP Cryomancer Pea to Level 2"
         },
         "2000": {
