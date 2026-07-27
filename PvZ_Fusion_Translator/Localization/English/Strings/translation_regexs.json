@@ -89,7 +89,6 @@
   "^快捷键一览：\\s+1：铲子\\s+": "",
   "-------Strings - New Update v2": "Strings - New Update 2.3.1-------",
   "^坚果台球(\\d+)?": "Wall-nut Billiards {0}",
-  "^旅行冒险：第(\\d+)关": "Odyssey Adventure: Level {0}",
   "^剩余积分：(\\d+)点": "Remaining Points: {0}",
   "^但(.*)": "But, {0}",
   "^成功击败领袖，获得(\\d+)积分": "Mini-boss successfully defeated. You have earned {0} Points.",
@@ -478,5 +477,6 @@
   "购买植物需要花费(\\d+)": "Would you like to buy this plant for ${0}?",
   "BUFF_NAME_FORMAT": "<align=center><color=#700000>[{0}]</color></align>\n<align=left>{1}",
   "翻页\\((\\d+)/(\\d+)\\)": "Page {0}/{1} (click to turn)",
-  "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nThis Round: {2}/{3}\n{4}"
+  "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nThis Round: {2}/{3}\n{4}",
+  "^旅行冒险 ([^\\s:]+)": "Odyssey Adventure: {0}"
 }
