@@ -274,5 +274,25 @@
     "level_1781918387541_b2ireh0n8": {
         "name": "3.7.0 나, 좀비 무한모드",
         "startTip": ""
+    },
+    "level_1782008318845_zaq9ufdit": {
+        "name": "3.7 Mini-game Scapelander",
+        "startTip": "<b>The Glove in this level has increased CD, use it wisely!\n[This level has an extra amount of Zombies, be careful!]</b>\n<i>Time is more precious than gold.</i>\n\n\n\n\n\n\n\n\n<size=25>Carefully plan on how to balance spending your sun on Pots and other plants...</size>\n<size=16>Bonus challenge: Try to beat the level while using the least sun possible!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1782008394513_hjoll3k8q": {
+        "name": "3.7.0 Mini-game !?Scape?!",
+        "startTip": "<b>The Glove in this level has reduced CD, use it well!\n[High difficulty warning: try with caution]</b>\n<i><size=16>Big Zombie Little Trouble</size></i>\n\n\n\n\n\n\n\n\n<size=25>Did the Zombies grow or did the Plants shrink?!</size>\n<size=16>Tips: Use right click and the scroll wheel to move and zoom the camera!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1782008464526_pz17yaqz9": {
+        "name": "3.7 Mini-game !?Land?!",
+        "startTip": "<b>[High difficulty warning: try with caution]\n[Some modifiers are enabled in this level. You can use purification to decrease the difficulty.]</b>\n<i>!?Minesweeper?!</i>\n\n\n\n\n\n\n\n\n<size=25>Zombies are coming to step on your potatoes! Protect them!\nWhy protect Potato Mines? Because I'm craaazy!!!</size>\n<size=16>Tips: Wabi Wabo, I love the taste of garlic, burp.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1782642546983_r2y1uocjn": {
+        "name": "3.7.0 Mini-game Sensory Sabotage",
+        "startTip": "<b>[High difficulty warning: try with caution]\n[It's recommended to have SFX on for this level for the full experience]</b>\n<i>I can't tell! I can't tell!</i>\n\n\n\n\n\n\n\n\n<size=25>The Zombies have hacked into your systems!\nTry to distinguish real from fake while the sound systems are going haywire!</size>\n<size=16>Tips: Try to remember the order of your plants in the seed slots!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "level_1782642575043_0vkbc2fvn": {
+        "name": "3.7.0 Mini-game Energy Crisis-The Decay Zone",
+        "startTip": "After protecting the energy node last time, we seem to have to fallen into an unstable space.\nUh oh, our battleground is decaying! Most of our fusions are missing, too. What's worse is we don't have any sun producing plants!\nDing-Phenomenon C-72 detected, Detecting level entered.\nDetection success, the entered level is level 609-“The Decay Zone”."
     }
 }
