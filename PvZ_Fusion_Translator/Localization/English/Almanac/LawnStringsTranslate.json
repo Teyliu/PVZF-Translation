@@ -2161,7 +2161,7 @@
             "name": "Pumpkarrier",
             "introduce": "<align=left><size=36><color=black>Pumpkarrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
             "info": "<size=36>Pumpkarrier commands a Cactus Drone that moves around the field to attack flying zombies, and summons stationary Cactus Drones around itself.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s (Drone), 30×2/1s (Wingman)\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area every 30s (first time 10s).</color></size>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Blover > Pumpkin OR Blover > Cactus > Pumpkin</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Windy Pumpkin OR Blover > Thorny Pumpkin</color>"
         },
         {
             "seedType": 1111,
@@ -2657,7 +2657,7 @@
             "seedType": 1181,
             "name": "Disguster",
             "introduce": "<align=left><size=36><color=black>Disguster used to have a simple life, working at a bustling barbecue joint where business was booming. \"Ah, those were the days,\" it sighs. \"Customers used to leave with a green glow of happiness after I blew away the overwhelming garlic. Now? Things just aren't the same.\"",
-            "info": "<size=36>Disguster can poison zombies accross the entire field and force them to change lanes.\n\n<color=#5E1675>Poison System: </color><color=#8B0000>Inflicts 5 Poison Points to every non-poisoned zombie in the screen and applies the Toxic Effect. Inflicts an additional 1 Poison Point and increases the time the debuff stays by 5 more seconds.</color>\n<color=black>Special: </color><color=#8B0000>Forces Zombies to change lanes. </color>",
+            "info": "<size=36>Disguster can poison zombies across the entire field and force them to change lanes.\n\n<color=#5E1675>Poison System: </color><color=#8B0000>Inflicts 5 Poison Points to every non-poisoned zombie in the screen and applies the Toxic Effect. Inflicts an additional 1 Poison Point and increases the time the debuff stays by 5 more seconds.</color>\n<color=black>Special: </color><color=#8B0000>Forces Zombies to change lanes. </color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Garlic + Blover</color>"
         },
         {
@@ -4176,7 +4176,7 @@
             "seedType": 1398,
             "name": "Kimchi-pult",
             "introduce": "<align=left><size=36><color=black>Thanks to his mastery of chili sauce, his Korean restaurant is always booming. Its owner, Kimchi-pult, is just as fiery, bold, passionate, and intense. There's only one thing to remember when eating his food: once you're full, leave quickly… or he'll serve you another round.</color>",
-            "info": "<size=36>Kimchi-pult hurls cabbages that explode into smaller cabbage piecies on impact.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>On hit, projectile splits into smaller projectiles across a 3×3 area (1/3 damage each), all applying Enflamed debuff before dealing damage.</color>",
+            "info": "<size=36>Kimchi-pult hurls cabbages that explode into smaller cabbage pieces on impact.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>On hit, projectile splits into smaller projectiles across a 3×3 area (1/3 damage each), all applying Enflamed debuff before dealing damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Cabbage-pult</color>"
         },
         {
