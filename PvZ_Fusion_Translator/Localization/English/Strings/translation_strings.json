@@ -3202,6 +3202,7 @@
   "解散分组": "Break Group",
   "移出分组": "Remove from Group",
   "分类": "Category",
+  "有节点存在于其他分组中": "Some Nodes already belong to other existing Groups!",
   "对于基础植物，可以使用鼠标中键点击植物\n让他不要跳转到融合界面": "You can Middle Click on Base Plants\nto avoid opening their fusion result pages.",
   "无标题": "No Title",
   "无描述": "No Description",
