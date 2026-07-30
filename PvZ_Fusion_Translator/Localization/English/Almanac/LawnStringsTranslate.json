@@ -495,7 +495,7 @@
             "name": "Coldsnap Bean",
             "introduce": "<align=left><size=36><color=black>The plants couldn't figure out how such a tiny bean could chill the air so effectively. But Coldsnap Bean just grinned mischievously. \"You know why Cattail sneezes when she washes clothes? Because she washes 'cat' clothes.\" Maybe the real magic was in his sense of humor.</color>",
             "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Unlock Conditions: Complete Wall-nut Billiards 1</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Strengthens snow pea shooters in a 3×3 surrounding area to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
-            "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>30s</color>"
+            "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 242,
