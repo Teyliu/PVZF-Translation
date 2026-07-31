@@ -176,6 +176,22 @@
             "name": "Vents rapides",
             "desc": "Troufle Quetzalcoatl : TR de génération d'une Troufle 10 s → 3 s"
         },
+        "44": {
+            "name": "Tour de Chapeau",
+            "desc": "Pois Cryomancien Épique : chaque ricochet du projectile du Pois Cryomancien augmente ses dégâts de 10 %. Au niveau 2, nombre de ricochets ×3"
+        },
+        "45": {
+            "name": "Envoûtement",
+            "desc": "Pois Cryomancien Épique : les projectiles du Pois Cryomancien ciblent en priorité, lors des ricochets, les boss ayant le plus de PV. Au niveau 2, les zombies touchés par un projectile qui ricoche subissent +10 % de dégâts supplémentaires"
+        },
+        "46": {
+            "name": "Récupérateur de Ferraille",
+            "desc": "Coffre-citrouille de l’Ender : peut stocker les objets métalliques tombés au sol et s’en servir pour soigner les Méga Mecha-noix, en priorisant celle qui a le moins de PV"
+        },
+        "47": {
+            "name": "Grand Coffre de l’Ender",
+            "desc": "Coffre-citrouille de l’Ender : la limite de cumul de chaque emplacement est désormais doublée pour tous les Coffres-citrouilles."
+        },
         "1000": {
             "name": "",
             "desc": "Le TR des Gants est réduit de 10 s (pas de TR pour la plante Gant), et ils peuvent désormais déplacer les Mini-boss"
@@ -263,6 +279,14 @@
         "1021": {
             "name": "",
             "desc": "Les plantes gagnent un bonus de soins de 20%"
+        },
+        "1022": {
+            "name": "Magie Renforcée I",
+            "desc": "Améliore le Pois Cryomancien en Pois Cryomancien Épique (niveau 1)"
+        },
+        "1023": {
+            "name": "Magie Renforcée II",
+            "desc": "Fait passer le Pois Cryomancien Épique au niveau 2"
         },
         "2000": {
             "name": "",
@@ -583,6 +607,10 @@
         "12015": {
             "name": "Transcendance : Fortune",
             "desc": "Le Bambou Brise-âmes peut désormais suivre les mouvements de la souris ; les améliorations de vitesse d'attaque augmentent sa vitesse de déplacement et il inflige des dégâts aux zombies rencontrés sur son passage"
+        },
+        "12016": {
+            "name": "Transcendance : Décryptage",
+            "desc": "Les zombies qui entrent en jeu sont affligés de 3 charges de Magie de Décryptage. À chaque manche, le zombie ayant le plus de PV reçoit 100 charges de Décryptage. Chaque charge augmente de 100 % les dégâts subis par le zombie, et lorsqu’un zombie affligé de Décryptage meurt, ses charges restantes se propagent aux zombies proches."
         },
         "13000": {
             "name": "Protection antidéflagrante",

@@ -1343,6 +1343,12 @@
             "name": "Mammouth Écarlate",
             "introduce": "<align=left><size=36><color=black>Le Mammouth Écarlate pousse un rugissement furieux et frappe le sol de ses quatre pattes, faisant trembler la terre elle-même. Après s'être échappé du laboratoire il y a des années, il a non seulement rejoint les forces Giga Quarterback, mais est devenu un mammouth de guerre d'élite équipé d'une lourde armure spécialisée. Pourtant, l'épine de cactus sur laquelle il a marché pendant cette fuite chaotique est toujours plantée dans son pied.</color>",
             "info": "<size=36>Lance un assaut dévastateur sur les premières lignes, pousse les troupes vers l'avant et libère une puissante onde de choc.\n\n<color=black>Dégâts : </color><color=#4B0082>7200 (hors morsure)</color>\n<color=black>Robustesse : </color><color=#4B0082>72000</color>\n<color=black>Caractéristiques : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Insensible au recul et à l'hypnose. Une attaque sur 5 provoque un écrasement qui pousse les zombies non-boss situés devant lui de 0,74 case vers l'avant et inflige des dégâts de zone dans un rayon de 1,5 case.</color>"
+        },
+        {
+            "theZombieType": 260,
+            "name": "<u><i>Boss Attaquant (En Développement)</i></u>",
+            "introduce": "<align=justified><size=36><color=red><i>NOTE : ce zombie est encore en cours de développement et sera finalisé dans une future mise à jour.</i></color>",
+            "info": "<color=red>NOTE : ce zombie est encore en cours de développement et sera finalisé dans une future mise à jour.</color>\n\n<color=black>Robustesse : </color>90000\n<color=black>Vitesse de déplacement : </color>Rapide\n<color=black>Caractéristiques :</color>\n<color=black>•</color> Boss. Immunisé au Froid, au Gel, au recul, aux étourdissements et aux effets de changement de rangée. Tue instantanément tout zombie hypnotisé qu’il touche et transforme en Zombie QB Giga-noix toute plante qu’il touche.\n<color=black>•</color> Entre par la droite du terrain en plantant 3 drapeaux devant lui. Chaque drapeau fait apparaître des zombies de type Quarterback toutes les 5 secondes, jusqu’à 5 fois.\n<color=black>•</color> Une fois la deuxième colonne atteinte, il retourne à droite du terrain puis revient planter de nouveaux drapeaux.</color>"
         }
     ]
 }

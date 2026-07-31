@@ -3676,5 +3676,16 @@
   "现在还不能存档": "Impossible de sauvegarder pour le moment !",
   "手动": "Manuelle",
   "自动": "Auto",
-  "最新备份": "Dernière sauvegarde"
+  "最新备份": "Dernière sauvegarde",
+  "豌豆射手升级到寒冰射手": "Pisto-pois : Améliorer en Pois Glacé",
+  "寒冰射手升级到究极魔法寒冰射手": "Pois Glacé : Améliorer en Pois Cryomancien",
+  "质变：拿来吧你": "Transcendance : Décryptage",
+  "敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸": "Les zombies qui entrent en jeu sont affligés de 3 charges de Magie de Décryptage. À chaque manche, le zombie ayant le plus de PV reçoit 100 charges de Décryptage. Chaque charge augmente de 100 % les dégâts subis par le zombie, et lorsqu’un zombie affligé de Décryptage meurt, ses charges restantes se propagent aux zombies proches",
+  "质变-拿来吧你：敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸": "Pois Cryomancien : les zombies qui entrent en jeu sont affligés de 3 charges de Magie de Décryptage. À chaque manche, le zombie ayant le plus de PV reçoit 100 charges de Décryptage. Chaque charge augmente de 100 % les dégâts subis par le zombie, et lorsqu’un zombie affligé de Décryptage meurt, ses charges restantes se propagent aux zombies proches",
+  "获得词条：魔力升级II\n获得词条：举世无双": "Pois Cryomancien : obtenir les modificateurs \" Magie Renforcée II \" et \" Tour de Chapeau \".",
+  "质变：魔力升级": "Transcendance : Magie Renforcée",
+  "强化：解读": "Amélioration : Décryptage",
+  "究极魔法寒冰射手攻击僵尸时有几率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数+1。多选提高概率": "Pois Cryomancien : chaque attaque a une chance d’appliquer une charge de Décryptage. Si un pois qui ricoche touche un zombie déjà marqué, une charge est consommée et le pois ricoche une fois de plus. Chaque sélection de ce modificateur augmente la probabilité. Chaque charge augmente de 100 % les dégâts subis par le zombie",
+  "有节点存在于其他分组中": "Certains nœuds appartiennent déjà à d’autres groupes !",
+  "花园植物": "Plantes du Jardin"
 }
