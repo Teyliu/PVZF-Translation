@@ -28,7 +28,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4358**
+* Nouvelles traductions : **4387**
 * Traductions ajustées : **138**
 * Reviews effectuées : **637**
 
@@ -37,6 +37,58 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `25/07/26 → 31/07/26`
+> [PR#212](https://github.com/Teyliu/PVZF-Translation/pull/212)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **29**
+* Traductions ajustées : **0**
+* Reviews effectuées : **0**
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Diable à ressort** (`seedType: 212`)
+* **Pioche** (`seedType: 213`)
+* **Noyau Temporel** (`seedType: 214`)
+* **Fragment de Mécha** (`seedType: 215`)
+* **Fragment de Méga Mécha** (`seedType: 216`)
+* **Ultra Mecha-noix** (`seedType: 310`)
+* **Pois Cryomancien Épique** (`seedType: 5001`)
+* **Coffre-citrouille de l’Ender** (`seedType: 5002`)
+* **Pois Cryomancien** (`seedType: 1443`)
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **<u><i>Boss Attaquant (En Développement)</i></u>** (`theZombieType: 260`)
+
+## 🧪 New Regex Patterns Added
+* **^旅行冒险 ([^\s:]+)**
+
+## 🧵 New String Entries Added
+* **豌豆射手升级到寒冰射手**
+* **寒冰射手升级到究极魔法寒冰射手**
+* **质变：拿来吧你**
+* **敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸**
+* **质变-拿来吧你：敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸**
+* **获得词条：魔力升级II\n获得词条：举世无双**
+* **质变：魔力升级**
+* **强化：解读**
+* **究极魔法寒冰射手攻击僵尸时有几率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数+1。多选提高概率**
+* **有节点存在于其他分组中**
+* **花园植物**
+* **advancedBuffs.44**
+* **advancedBuffs.45**
+* **advancedBuffs.46**
+* **advancedBuffs.47**
+* **advancedBuffs.1022**
+* **advancedBuffs.1023**
+* **advancedBuffs.12016**
 
 ---
 
