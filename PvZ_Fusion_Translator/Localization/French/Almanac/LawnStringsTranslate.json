@@ -4577,6 +4577,69 @@
             "introduce": "<align=left><size=36><color=black> En réalité, l'astuce pour jouer à chat est très simple , expliqua l'Écraseur Étoilé à ses nouveaux amis.  Il suffit de laisser vos amis se cacher derrière vous, puis de sauter tous ensemble pour esquiver lorsque le chat approche.  Tous adoptèrent rapidement cette technique, mais un nouveau problème se posa bientôt : qui allait jouer le chat ?</color>",
             "info": "<size=36>L'Écraseur Étoilé s'abat telle la Montagne aux Cinq Doigts et écrase des groupes de zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>900×5 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>Atterrit simultanément au centre, en haut à gauche, en haut à droite, plus loin à gauche et plus loin à droite. Chaque impact inflige des dégâts de zone réduits, et les zones peuvent se chevaucher.</color>",
             "cost": "\n<size=36>Recette de fusion : <color=#8B0000>Écraseur + Carambole</color>"
+        },
+        {
+            "seedType": 212,
+            "name": "Diable à ressort",
+            "introduce": "<align=justified><size=36><color=black>Surprise, effroi, panique : le Zombie Diable à ressort n’a jamais su faire la différence entre les trois. C’est ainsi qu’est née cette terrifiante boîte.</color></size>",
+            "info": "<size=36>Peut fusionner avec certaines plantes pour leur permettre de déclencher des explosions de Diable à ressort ou de s’en protéger.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 213,
+            "name": "Pioche",
+            "introduce": "<align=justified><size=36><color=black>Cette pioche appartenait à un Zombie Mineur dont la demande de permis d’exploitation avait été refusée. Ce pauvre bougre honnête et sans cervelle ignorait que tous ses collègues creusaient eux aussi sans permis.</color></size>",
+            "info": "<size=36>Peut fusionner avec certaines plantes pour leur permettre de bloquer la progression des Zombies Mineurs ou d’attaquer les zombies en restant dissimulée sous terre.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posée au sol comme une plante classique ou utilisée comme ingrédient de fusion.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 214,
+            "name": "Noyau Temporel",
+            "introduce": "<align=justified><size=36><color=black>ATTENTION : mieux vaut ne pas toucher cet objet. Il a beau ressembler à un petit trou noir factice, il n’en possède pas moins un horizon des événements impitoyable.</color></size>",
+            "info": "<size=36>Peut fusionner avec certaines plantes pour leur transmettre le pouvoir de manipuler le temps.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 215,
+            "name": "Fragment de Mécha",
+            "introduce": "<align=justified><size=36><color=black>Si ce fragment a pu se détacher et être ramassé, c’est tout simplement qu’il avait été mal fixé dès le départ. C’est précisément cette malfaçon qui explique pourquoi les Zombies Noix-mecha tombent si souvent en panne.</color></size>",
+            "info": "<size=36>Peut fusionner avec la Noix pour lui permettre d’encaisser les dégâts à la place des plantes voisines.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 216,
+            "name": "Fragment de Méga Mécha",
+            "introduce": "<align=justified><size=36><color=black>Les nouveaux Fragments de Méga Mécha avaient beau surpasser leurs prédécesseurs sur tous les plans, les ventes restaient poussives : la concurrence faisait courir la rumeur qu’ils n’étaient que de vulgaires morceaux de plastique. L’affaire n’a été réglée que lorsque la GFishtus Corp a publié un communiqué prouvant que les fragments étaient bel et bien faits de \" matière cérébrale \".</color></size>",
+            "info": "<size=36>Peut fusionner avec la Noix pour lui conférer une quantité colossale de PV et lui permettre d’encaisser les dégâts à la place des plantes voisines.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles à tir direct).\n<color=black>•</color> Peut être posé au sol comme une plante classique ou utilisé comme ingrédient de fusion.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 310,
+            "name": "Ultra Mecha-noix",
+            "introduce": "<align=justified><size=36><color=black>L’Ultra Mecha-noix est une plante que l’on repère depuis l’autre bout de la pelouse. La rumeur veut qu’elle ait autrefois été modifiée par le Dr Edgar, même si lui-même ne semble pas s’en souvenir. Entre-temps, avec l’aide de ses congénères les Noix, son entreprise d’énergies renouvelables est officiellement entrée en bourse sous le symbole \" NUTS \".</color></size>",
+            "info": "<size=36>Possède un corps colossal qui encaisse les dégâts à la place de toutes les plantes de la pelouse, et se soigne lorsque d’autres plantes sont soignées.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte</color>\n<color=black>Robustesse : </color><color=#8B0000>64000</color>\n<color=black>Plafond de dégâts : </color><color=#8B0000>1000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante haute et plante Titan, anti-écrasement.\n<color=black>•</color> Ses PV max peuvent dépasser sa Robustesse.\n<color=black>•</color> Encaisse les dégâts à la place de toutes les plantes du terrain. Se soigne d’autant chaque fois que d’autres plantes du terrain sont soignées, et récupère ×10 plus de PV que la Méga Mecha-noix grâce aux objets métalliques.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 5001,
+            "name": "Pois Cryomancien Épique",
+            "introduce": "<align=justified><size=36><color=black>Nous savons très peu de choses du Pois Cryomancien, si ce n’est qu’il s’agit d’un grand mage suivi par une foule d’adeptes. Ses projectiles ne sont guère mieux connus : seuls quelques érudits zombies les ont étudiés en profondeur, et ils en ont conclu que leur capacité à ricocher défiait toutes les lois connues de la physique.</color></size>",
+            "info": "<size=36>Tire des pois de glace polaire encore plus puissants qui ricochent.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | <color=blue>Remplace le Pois Cryomancien lorsque le modificateur <color=#001355>\" Magie Renforcée I \"</color> est actif</color></color>\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Utilise un système de Niveaux de Magie fondé sur les modificateurs <color=#2B2B2B>\" Magie Renforcée \"</color> obtenus.\n<color=black>  •</color> Niveau 1 : actif lorsque le modificateur <color=#2B2B2B>\" Magie Renforcée I \"</color> est obtenu. Dégâts ×6, 6 ricochets\n<color=black>  •</color> Niveau 2 : actif lorsque le modificateur <color=#2B2B2B>\" Magie Renforcée II \"</color> est obtenu. Dégâts ×10, 8 ricochets\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Pois Cryomancien Épique : chaque ricochet du projectile du Pois Cryomancien augmente ses dégâts de 10 %. Au niveau 2, nombre de ricochets ×3\n2. Pois Cryomancien Épique : les projectiles du Pois Cryomancien ciblent en priorité, lors des ricochets, les boss ayant le plus de PV. Au niveau 2, les zombies touchés par un projectile qui ricoche subissent +10 % de dégâts supplémentaires</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 5002,
+            "name": "Coffre-citrouille de l’Ender",
+            "introduce": "<align=justified><size=36><color=black>\" ATTENTION : ne placez JAMAIS un Coffre-citrouille de l’Ender à l’intérieur d’un autre Coffre-citrouille de l’Ender. Cela pourrait provoquer des paradoxes récursifs imprévus ou de chaotiques anomalies spatio-temporelles. \"\nVoilà ce que répètent tous les Coffres-citrouilles de l’Ender. En réalité, ils veulent surtout éviter la nausée qui s’ensuit.</color></size>",
+            "info": "<size=36>Stocke automatiquement les cartes à proximité et partage son contenu depuis n’importe quel emplacement.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Anti-écrasement, les dégâts reçus sont plafonnés à 1000 par coup.\n<color=black>•</color> Conserve toutes les caractéristiques du Coffre-citrouille. Stocke automatiquement les paquets de graines dans un rayon de 3,7 cases, gagnant 1000 PV de bouclier à chaque stockage et en perdant 1000 à chaque retrait.\n<color=black>•</color> Tous les Coffres-citrouilles de l’Ender partagent un espace de stockage unique et indépendant, accessible depuis n’importe lequel d’entre eux.\n<color=black>•</color> Apparaît avec une plante d’Odyssée aléatoire à l’intérieur dans les modes Gacha.\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Coffre-citrouille de l’Ender : peut stocker les objets métalliques tombés au sol et s’en servir pour soigner les Méga Mecha-noix, en priorisant celle qui a le moins de PV\n2. Coffre-citrouille de l’Ender : la limite de cumul de chaque emplacement est désormais doublée pour tous les Coffres-citrouilles.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Coffre-citrouille + Noix Temporelle</color>"
+        },
+        {
+            "seedType": 1443,
+            "name": "Pois Cryomancien",
+            "introduce": "<align=justified><size=36><color=black>\" Chapeau de mage ? C’est bon ! Lunettes antigel ? C’est bon ! Brosse à dents et un bras pour la tenir ? Euh… Dents propres ? C’est bon ! \" Même au cœur des préparatifs les plus tendus, le Pois Cryomancien trouve toujours le moyen de rester joyeux et de garder son sang-froid.</color></size>",
+            "info": "<size=36>Tire des pois de glace polaire capables de ricocher entre les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire des pois de glace polaire qui, après avoir touché un premier zombie, peuvent ricocher jusqu’à 4 fois vers les zombies proches.\n<color=blue>Amélioration Odyssée : </color> Obtenir le modificateur <color=#2B2B2B>\" Magie Renforcée I \"</color> transforme le Pois Cryomancien en sa variante Odyssée, le Pois Cryomancien Épique.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Haricot Gelé + Pois Glacé</color>"
         }
     ]
 }
