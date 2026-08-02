@@ -2076,7 +2076,7 @@
             "seedType": 1098,
             "name": "Joker Pumpkin",
             "introduce": "<align=left><size=36><color=black>\"Whenever I emerge, it signals the arrival of the clown. Everyone wonders what lies within his box, but the outcome remains a mystery. I caught a glimpse once, and that moment changed everything for me.\"</color></size>",
-            "info": "<size=36>Joker Pumpkin can block explosions caused by Jack-in-the-Box zombies, negeting any damage taken to itself or the plant inside..\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Nullifies Jack-in-the-Box explosion damage, protecting the plant inside. Can be fed metal objects to restore 500 HP.</color></size>",
+            "info": "<size=36>Joker Pumpkin can block explosions caused by Jack-in-the-Box zombies, negating any damage taken to itself or the plant inside..\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Nullifies Jack-in-the-Box explosion damage, protecting the plant inside. Can be fed metal objects to restore 500 HP.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jack-in-the-Box > Pumpkin Morph</color>"
         },
         {
