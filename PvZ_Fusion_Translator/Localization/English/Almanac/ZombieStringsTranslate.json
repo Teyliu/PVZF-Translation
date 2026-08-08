@@ -525,7 +525,7 @@
         {
             "theZombieType": 87,
             "name": "Aluminum-head Zombie",
-            "introduce": "<align=left><size=36><color=black>Aluminum-Shield Zombie is delightfully ecstatic that Magnet-shroom can't absorb his armor, but at the same time he's a bit puzzled — after all, silver-gray and hard things are Iron. That's just common sense for us zombies! \"Aluminum? What is that?\"</color>",
+            "introduce": "<align=left><size=36><color=black>Aluminum-head Zombie is delightfully ecstatic that Magnet-shroom can't absorb his armor, but at the same time he's a bit puzzled — after all, silver-gray and hard things are Iron. That's just common sense for us zombies! \"Aluminium? What is that?\"</color>",
             "info": "<size=36>Wears a sturdy and insulating aluminum helmet.\n\n<color=black>Toughness: </color>270 + 1470 (Type 1)\n<color=black>Movement Speed: </color>Slow</color>"
         },
         {
