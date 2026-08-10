@@ -4491,7 +4491,7 @@
             "seedType": 1443,
             "name": "Cryomancer Pea",
             "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Snowpea to its Odyssey variant, SP Cryomancer Snowpea.</color>",
+            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
         },
         {
