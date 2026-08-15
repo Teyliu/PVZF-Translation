@@ -1,110 +1,88 @@
 <align=center><size=20>Aviso Legal</size></align>
-A fonte oficial do PvZ Fusion é apenas o Bilibili do desenvolvedor, 蓝飘飘fly.</color>
-A única fonte válida desta tradução é esta comunidade: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> e as páginas do GitHub associadas.
+A fonte oficial de PvZ Fusion é exclusiva no Bilibili do desenvolvedor, 蓝飘飘fly</color>
+A única fonte válida desta tradução é desta comunidade: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> e as páginas associadas do GitHub.
 Fique longe de outras fontes como <color=#8B0000>pvzfusion.net</color> ou <color=#8B0000>pvzfusion.pro</color>, pois elas redistribuem nosso trabalho sem permissão.
-Se quiser mudar o idioma da tradução, confira o menu "Idiomas" no canto inferior direito deste menu.
-Visite nossa comunidade para futuras atualizações e suporte.
+Se você quiser alterar o idioma da tradução, confira o menu "Idiomas" no canto inferior direito deste menu.
+Por favor, visite nossa comunidade para futuras atualizações e suporte.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Registro de Alterações da Atualização 3.7</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Registro de Alterações da Atualização 3.8.1</size></align>
 
-1. Os Deuses: Evoluídos — Revolucionados
-- Adicionadas muitas opções de personalização de jogabilidade, incluindo limites de plantas, níveis de dificuldade e camadas de progressão.
-- Os modificadores agora vêm em múltiplas raridades e podem ser usados para obter novas plantas ou aprimorar as já existentes.
-- Fique de olho nos modificadores especiais distribuídos pelos deuses, eles podem virar o jogo!
-  * (Obs.: Você pode acessar esta fase pelo novo botão "Fases Recomendadas" no menu principal.)
+1. Os Deuses: Evoluídos - Revolucionados Plus
+- Adicionadas ainda mais rotas de evolução e modificadores de aprimoramento
+- Adicionadas as plantas Peritas dos Deuses
 
-2. Novas Plantas
+2. Atualização do Jardim Zen
+- Adicionada a função de Pular Página para navegação rápida
+- Adicionada a função de Mudar Cenário de Fundo, agora você pode ajustar o ambiente e a iluminação no jardim
+- Adicionadas as Moedas de Lírio Flamejante: vender plantas totalmente crescidas e com nível máximo de amizade concede Moedas de Lírio Flamejante, que podem ser usadas para comprar ferramentas em grande quantidade na nova Loja de Ferramentas
+- O Jardim Zen e o Grande Jardim agora são totalmente separados; não é mais possível mover plantas entre eles
+
+3. Novas Plantas
 - Fusões Básicas:
-  - Bamblíquen (Bambloco + Líquen-Gélido)
-  - Lótus-Gélido (Lótus-de-Neve + Líquen-Gélido)
-  - Vasoervilha (Disparervilha > Vaso de Flores)
-  - Ruínapulta (Ruínagumelo + Melãopulta)
-  - Babosa-Gélida (Babosa-Aquática + Líquen-Gélido)
-  - Abóbora-Baú (Abóbora > Abóbora (vida cheia))
-  - Escombropulta (Ruínagumelo + Milhopulta)
-  - Estrelervilha (Disparervilha + Carambola)
-  - Abóbora-Ígnea (Jalapeño > Abóbora)
-  - Alga-Ruína (Ruínagumelo > Alga-prendedora)
-  - Espinherva (Erva-Espinho + Cacto)
-  - Gela-me-não (Serra-me-não + Líquen-Gélido)
-  - Erva-Quicante (Erva-Espinho + Repolhopulta)
-  - Erva-Mola (Erva-Espinho + Melãopulta)
-  - Erva-Solar (Girassol + Erva-Espinho)
-  - Ciclotrevo (Trevo + Trevo)
-  - Batata-Quente (Batatamina + Tochalenho)
-  - Batata-Assada (gerada pela Batata-Quente)
-  - Disparogumelo (Disparervilha + Medogumelo)
-  - Levibatata (Batatamina + Trevo)
+  - Cacto-Gélido (Gelogumelo + Cacto)
+  - Gasogumelo-Cereja (Cerejas-Bomba + Gasogumelo)
+  - Tronco-Flutuante (Tronco Flamejante > Cogumarinho)
+  - Cogumarinho Assado
+  - Melancipulta Tripla (Triplervilha + Melancipulta)
+  - Milhopulta Tripla (Triplervilha + Milhopulta)
+  - Abóbora Tripla (Triplervilha > Abóbora)
+  - Abóbora de Gelo (Gelogumelo > Abóbora)
+  - Vaso Turbinado (Turbinada > Vaso)
+  - Espinhogumelo (Gasogumelo + Erva-Espinho)
+  - Repolhopulta Tripla (Triplervilha + Repolhopulta)
+  - Ruínaspreader (Ruínagumelo + Triplervilha)
+  - Esmagador Estelar (Esmagador + Carambola)
+  - Vaso Triplo (Triplervilha > Vaso)
+- Fusões Avançadas:
+  - Bruxervilha (Bruxervilha + Gelervilha)
 - Fusões da Odisseia:
   - Comuns:
-    - Glaciogumelo Tundral (Óbitogumelo + Gelogumelo)
-    - Taboa-Hipnótica (Hipnogumelo > Moça-Taboa)
-      * (Obs.: Você pode usar a pá para alternar entre suas formas aquática e terrestre.)
-    - Glaciogumelo Letal (Glaciogumelo Tundral + Ruínagumelo)
+    - Turbinada Quetzalcoatl (Turbinada + Ventania-Dupla)
+    - Bruxervilha SP (Bruxervilha aprimorada, consulte o Almanaque)
+    - Baú Abóbora do Fim (Baú de Abóbora + Noz-Plasmática)
+  - SP:
+    - Fênixervilha SP (Pimenta > Fênixervilha)
+    - Aerofênix SP (Pimenta > Aerofênix)
   - Épicas:
-    - Magmagumelo (Napalmgumelo + Milhopulta)
+    - Deucaliãogumelo (Labareda de Leão + Cogumarinho)
+    - Noz-Colosso de Obsidiana (Pimenta Obsidiana > Noz-Muralha)
   - Únicas:
-    - Snipervaso (Snipervilha > Vaso de Flores)
-    - Comando-Abóbora (Comando Tempestervilha > Abóbora)
-    - Comando-Amendoim (Comando Tempestervilha + Noz-Obstáculo)
-    - Snipervilha Mordedora (Snipervilha + Carnívora)
+    - Batatamina-Comando (Coronelervilha + Batatamina)
+    - Sniper-Estrelar (Snipervilha + Carambola)
 - Fusões Lendárias:
-  - Noz-Alta de Rocha-Matriz
-- Especiais/Diversos:
-  - Urso-Espinhoso
+  - A.L.A.C.E.
+- Fusões Estelares:
+  - Colapsogumelo Estelar
 
-3. Novos Zumbis
+4. Novos Zumbis
 - Comuns:
-  - Zumbi Cabeça-de-Alumínio
-  - Zumbi Mamute
+  - Zumbi Noz-Boliche
+  - Zumbi Noz-Boliche Gigante
+  - Zumbi Yeti Noz-Alta de Rocha-Matriz
 - Odisseia:
-  - Comuns
-    - Zumbi Garra-Gélida com Noz-Alta de Obsidiana
-    - Zumbi Astronoz-Cóptero
-    - Zumbi Cavaleiro Negro
-    - Zumbi Capitão-Cavaleiro de Chumbo Grosso
-    - Zumbi Diabo-na-Caixa
-    - Zumbi Mamute de Guerra
-    - Brigada de Trenó Chumbo-Grosso
-  - Chefes
-    - Cavaleiro do Cerasocetus
+  - Regulares:
+    - Zumbi Acrobata de Futebol Americano Gigante
+    - Zumbi Acrobata Noz-Rúgbi Gigante
+    - Zumbinho com Infusão Elemental
+  - Mini-chefes:
+    - Rei Lírio Necrótico
+  - Evoluídos:
+    - Mamute das Sombras
+    - Mamute do Terror
+    - Mamute Carmesim
+  - Chefe:
+    - Chefe Atacante (Em desenvolvimento)
 
-4. Atualização da Odisseia
-- Adicionada a rota do Arquiduque Cavaleiro-da-Morte.
-- Ajustados os surgimentos de zumbis das rotas já existentes.
-- Adicionada a possibilidade de ganhar modificadores de Diamante de Os Deuses: Evoluídos em partidas normais da Odisseia.
-- Adicionado o modificador de sinergia Napalmgumelo + Doominator.
-- Adicionados mascotes:
-  - Jovem Duque (Arquiduque Cavaleiro-da-Morte)
-  - Filhote de Imperor (Arca do Pato de Imperor)
-  - Meca Planador-Celeste (Meca Andarilho-Celeste)
+5. Ajustes de Equilíbrio
+- Reformulação do Modificador do Colapsogumelo: Absorção de Explosão > Barreira Volátil, agora imune a todo dano com um contraponto
+- Reformulação de Modificadores e Mecânicas do Cronomilho Celestial e da Cronoz Celestial
+- Tronco Infernal e Estrela Ardente: Agora podem incendiar mais tipos de projéteis
+- Reformulação do Modificador do Gargantuá com Infusão Elemental: Despertar de Afinidade agora invoca Zumbinhos com Infusão Elemental
+- Quando uma fileira perde um cortador de grama, zumbis não surgirão nessa fileira por um curto período de tempo.
 
-5. Novas Fases
-- Minijogos:
-  - Gacha da Odisseia: Caixa Gacha
-  - Desafio do Carrinho de Mão
-  * (Obs.: Completar este minijogo desbloqueia permanentemente a nova ferramenta Carrinho de Mão.)
-  * (Você pode guardar uma planta dentro do Carrinho de Mão para replantá-la mais tarde.)
-  - Contra o Relógio
+6. Otimizações de Qualidade de Vida (QOL)
+- Nova função para exibir a camada de dano dos projéteis ao pressionar T (alternável nas configurações)
+- Novas configurações de personalização da posição da interface (UI)
+- Nova tela "Ver Todos os Modificadores", permitindo visualizar os modificadores atuais no Almanaque de Modificadores
 
-6. Ajustes de Balanceamento
-- A Erva-Tocha agora pode incendiar projéteis de mini-noz.
-- Reduzida a velocidade dos zumbis Jóquei de Galinha e Hidroave.
-- Reduzida a quantidade de objetos de metal produzidos pelo Ímã Dyson, ao mesmo tempo em que se aumentou seu potencial de aumento de dano.
-- As mecânicas de "Maldição" (usadas pelo Arquiduque Cavaleiro-da-Morte e pelo Zumbi-com-Escada Elo-Vital) foram totalmente reformuladas.
-- O Gargântua Celestial agora só realiza um ataque de tela cheia logo após se tornar gigante.
-
-7. Otimizações de Qualidade de Vida
-- Se você não estiver na versão mais recente do jogo, uma opção de atualização ficará disponível no menu principal. (Requer conexão com a internet para funcionar)
-<color=red>* (AVISO: Isto NÃO foi testado nem verificado para funcionar com o mod de tradução Blooms.)</color>
-- Adicionada uma seção de Almanaque de Modificadores.
-- Reformulada a exibição de vida das plantas.
-- Reformulado o sistema de salvamento do modo Sobrevivência, incluindo mais espaços de salvamento e suporte a nomes personalizados.
-- Adicionada a possibilidade de visualizar a lista completa de zumbis de uma fase antes de começar.
-- Os zumbis não podem mais avançar entre os ataques se ainda tiverem que atacar uma planta.
-- Adicionado um sistema de variáveis ao Editor de Nós do Super Editor de Fases.
-- Os minijogos com o sistema de "Bênçãos e Maldições" agora têm um menu de seleção de dificuldade.
-- A Defesa de Torre agora fica no menu Desafios.
-
-9. Diversas correções de bugs e otimizações.
-
+7. Diversas correções de bugs e otimizações.

@@ -87,4 +87,6 @@
  "密码值：totk([^\\s]+)": "Coordenadas codificadas: totk{0}",
  "密码值：zkt([^\\s]+)": "Coordenadas codificadas: zkt{0}",
  "密码值：ykbkt([^\\s]+)": "Coordenadas codificadas: ykbkt{0}"
+   "^消耗阳光(\\d+)$": "Sóis gastos {0}",
+  "^获得阳光(\\d+)$": "Sóis recebidos {0}"
 }
