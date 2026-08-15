@@ -1289,6 +1289,60 @@
             "name": "Mamute Carmesim",
             "introduce": "<align=left><size=36><color=black>O Mamute Carmesim solta um rugido furioso e bate no chão com as quatro patas, fazendo a própria terra tremer. Após escapar do laboratório anos atrás, ele não apenas se juntou novamente às forças Giga Futebol, como também se tornou um mamute de guerra de elite e foi equipado com uma armadura pesada especializada. Ainda assim, o espinho de cacto em que pisou durante aquela fuga caótica continua cravado em sua pata até hoje.</color>",
             "info": "<size=36>Desfere uma investida devastadora nas linhas de frente, empurrando as tropas para frente e liberando uma poderosa onda de choque.\n\n<color=black>Dano: </color><color=#4B0082>7200 (não-mordida)</color>\n<color=black>Resistência: </color><color=#4B0082>72000</color>\n<color=black>Características: </color><color=#4B0082>\n<color=black>•</color> Zumbi Evoluído Nível 3.\n<color=black>•</color> Imune a empurrões e a ser hipnotizado. A cada 5º ataque realiza um esmagamento, empurrando os zumbis não-chefes à sua frente 0,74 célula para frente e causando dano em área num raio de 1,5 célula.</color>"
+        },
+        {
+            "theZombieType": 89,
+            "name": "Zumbi Noz-Boliche",
+            "introduce": "<align=left><size=36><color=black>Um boato circula entre as plantas: em certos dias especiais, nozes mordidas por zumbis se transformam gradualmente em zumbis famintos por cérebros. Após investigar, as plantas receberam duas notícias. A má notícia: o boato é verdadeiro. A pior notícia: elas falharam em destruí-los e, em vez disso, mandaram esses zumbis que antes eram imóveis rolando por todo o campo de batalha.</color>",
+            "info": "<size=36>Rola em direção às fileiras de plantas, quicando repetidamente e causando dano.\n\n<color=black>Resistência: </color>1350\n<color=black>Dano: </color><color=#4B0082>100</color>\n<color=black>Velocidade de Movimento: </color>Média para Rápida\n<color=black>Características: </color><color=#4B0082>Imune a veneno e atordoamentos. Ganha velocidade em declives. Causa dano às plantas ao contato e depois troca de fileira.</color>"
+        },
+        {
+            "theZombieType": 90,
+            "name": "Zumbi Noz-Boliche Gigante",
+            "introduce": "<align=left><size=36><color=black>Se há um zumbi que odeia a Erva-Espinho, o Zumbi Bola de Boliche de Olhos Vermelhos com certeza está entre eles. Basta olhar para seus olhos injetados de sangue — dá para ver que ele já foi espetado nos olhos inúmeras vezes por espinhos enquanto rolava pelo chão.</color>",
+            "info": "<size=36>Uma Bola de Boliche Zumbi mais forte.\n\n<color=black>Resistência: </color>2700\n<color=black>Dano: </color><color=#4B0082>200</color>\n<color=black>Velocidade de Movimento: </color>Média para Rápida\n<color=black>Características: </color><color=#4B0082>Imune a veneno e atordoamentos. Ganha velocidade em declives. Causa dano às plantas ao contato e depois troca de fileira.</color>"
+        },
+        {
+            "theZombieType": 132,
+            "name": "Zumbi Yeti Noz-Alta de Rocha-Matriz",
+            "introduce": "<align=left><size=36><color=black>O Zumbi Yeti Noz-Alta de Rocha-Matriz se arrepende profundamente de sua curiosidade na época. Ele só colocou essa Noz-Alta na cabeça por diversão, mas virou algo impossível de remover. Agora ele só consegue ver o mundo através da Noz-Alta para sempre. E como se não bastasse, os olhos dessa Noz-Alta estão fechados.</color>",
+            "info": "<size=36>Vagueia pelo campo de batalha com defesa absoluta, deixando um presente para trás quando parte.\n\n<color=black>Resistência: </color><color=#4B0082>160000</color>\n<color=black>Características: </color><color=#4B0082>Imune a dano. Foge após permanecer no campo por um período de tempo e foge imediatamente ao alcançar a metade esquerda do gramado. Quando hipnotizado, o dano é multiplicado por 10, a vida é reduzida para 1% e perde a invencibilidade. Ao morrer, tem 75% de chance de soltar uma Planta Presente; caso contrário, solta uma Imitadora.</color>"
+        },
+        {
+            "theZombieType": 247,
+            "name": "Alma de Zumbi",
+            "introduce": "<align=left><size=36><color=black>Não possui introdução</color>",
+            "info": "<size=36>Não possui informações</color>"
+        },
+        {
+            "theZombieType": 256,
+            "name": "Zumbi Acrobata de Futebol Americano Gigante",
+            "introduce": "<align=left><size=36><color=black>Desde criança, o maior sonho do Zumbi Acrobata de Futebol Americano Gigante era colecionar todas as bandeiras de suas partidas, inimigos e batalhas, usando-as como uma forma de demonstrar seu poder e habilidade. Ele ainda não reuniu todas as bandeiras, mas uma coisa é certa: ele já tem uma quantidade considerável, e cada uma carrega uma longa história de como foi conquistada.\n\n-- Escrito por clarkstacks</color>",
+            "info": "<size=36>Rola pelas brechas das defesas e rasga as plantas com garras afiadas como navalhas.\n\n<color=black>Dano: </color><color=#4B0082>100 (mordida)\n<color=black>Resistência: </color>3000 + 6000 (Tipo 1)\n<color=black>Velocidade de Movimento: </color>Média para Rápida\n<color=black>Características: </color>\n<color=black>•</color> Possui 80% de resistência a empurrões. Suas mordidas aplicam acúmulos de Maldição iguais ao seu poder de ataque.\n<color=black>•</color> Após sua primeira mordida, realiza um rolamento, avançando 2,7 células à frente enquanto ignora plantas.\n<color=black>Modificadores da Odisseia:</color>\n1. Rola uma vez imediatamente ao aparecer\n2. Causa dano ×2 após rolar</color>"
+        },
+        {
+            "theZombieType": 257,
+            "name": "Zumbi Acrobata Noz-Rúgbi Gigante",
+            "introduce": "<align=left><size=36><color=black>O que é mais importante para aprender a rolar? Talento, técnica ou treino incansável dia e noite? \"Nada disso!\" O Zumbi Acrobata Noz-Rúgbi Gigante deu a resposta definitiva: \"O que você precisa para aprender a rolar é de uma cabeça dura o suficiente para aguentar o impacto!\"</color>",
+            "info": "<size=36>Um Zumbi Acrobata de Futebol Americano mais forte que reúne suas tropas e lança ataques com seus rolamentos.\n\n<color=black>Dano: </color><color=#4B0082>200 (mordida)\n<color=black>Resistência: </color>3000 + 12000 (Tipo 1)\n<color=black>Velocidade de Movimento: </color>Média para Rápida\n<color=black>Características: </color>\n<color=black>•</color> Possui 80% de resistência a empurrões. Suas mordidas aplicam acúmulos de Maldição iguais ao seu poder de ataque.\n<color=black>•</color> Após sua primeira mordida, realiza um rolamento, avançando 2,9 células à frente enquanto ignora plantas, e invoca uma coluna de Zumbis Acrobata de Futebol Americano Gigante.\n<color=black>Modificadores da Odisseia:</color>\n1. Rola uma vez imediatamente ao aparecer\n2. Causa dano ×2 após rolar</color>"
+        },
+        {
+            "theZombieType": 258,
+            "name": "Zumbinho com Infusão Elemental",
+            "introduce": "<align=left><size=36><color=black>Dizem que a armadura dos Zumbinhos com Infusão Elemental foi feita a partir de sobras esculpidas de uma estátua. Ela é incrivelmente resistente e possui algum tipo de efeito protetor especial. A maioria dos zumbis descarta isso como apenas uma história, mas aqueles Zumbinhos que escolhem acreditar visitam o adormecido Zumbi Yeti Noz-Alta de Rocha-Matriz e lascam pedacinhos dele, na esperança de arrancar uma parte para si mesmos.</color>",
+            "info": "<size=36>Quando invocado por um Gigante com Infusão Elemental, ganha habilidades baseadas na aparência do invocador.\n\n<color=black>Dano: </color><color=#4B0082>200 (mordida)\n<color=black>Resistência: </color><color=#4B0082>1500</color>\n<color=black>Velocidade de Movimento: </color>Média\n<color=black>Características: </color><color=#4B0082>\n<color=black>•</color> Ganha habilidades correspondentes baseadas na aparência do invocador:\n<color=red>• Zumbinho Forjado em Chama:</color> Resistência ×2.\n<color=blue>• Zumbinho Temperado pela Maré:</color> Velocidade ×2.\n<color=yellow>• Zumbinho Carregado de Vento:</color> Dano de ataque ×2.\n<color=green>• Zumbinho Atado à Terra:</color> Sempre surge em duplas.</color></color>"
+        },
+        {
+            "theZombieType": 259,
+            "name": "<u>Rei Lírio Necrótico</u>",
+            "introduce": "<align=left><size=36><color=black>Nas profundezas da selva repousa uma flor secular: suas raízes estão conectadas à Árvore da Sabedoria, suas chamas azuladas ardentes podem queimar todas as coisas, e incontáveis almas cheias de desejos ardentes estão ocultas dentro de seu corpo. A princípio, todos descartavam isso como nada mais que uma lenda, até que os zumbis realmente descobriram uma raiz interminável preta e amarela que se estendia para além da visão....</color>",
+            "info": "<size=36>Aproxima-se em forma de botão, trazendo sinais de vida, apenas para revelar sua natureza sinistra e se tornar o arauto da morte ao florescer.\n\n<color=black>Dano: </color><color=#4B0082>100 (não-mordida)\n<color=black>Resistência: </color>48000\n<color=black>Velocidade de Movimento: </color>Extremamente Lenta\n<color=black>Características:</color>\n<color=black>•</color> Mini-chefe. Imune a resfriamento, congelamento, empurrões e atordoamentos.\n<color=black>•</color> Ignora plantas enquanto se move. Entra no campo de batalha em Forma de Botão e alterna periodicamente entre a Forma de Botão e a Forma Florescida.\n<color=black>•</color> Enquanto presente, impede o gramado de produzir Fertilizante de plantas e aumenta o número de projéteis necessários para remover o efeito Fuligem para [245 + 5 × a raiz cúbica de sua Resistência]. Ao morrer, remove Fuligem de todas as plantas.\n<color=black>Forma de Botão: </color>Dura 15s. O Rei Lírio Necrótico fica imune a dano nesta forma. Desativa o uso de Fertilizante em plantas. Para cada [49 + a raiz cúbica de sua Resistência] projéteis absorvidos, solta um saco de Fertilizante de planta, perde 3% da vida máxima, recua para trás e troca de fileira.\n<color=black>Forma Florescida: </color>Dura 30s. Recua ligeiramente ao ser atacado, com a distância aumentando com base no dano recebido. A cada 5s, produz um Fertilizante Zumbi no canto superior esquerdo do gramado e cospe chamas para a frente, causando dano a todas as plantas dentro de 6 células (exceto plantas voadoras). Consulte o almanaque de mecânicas para explicações sobre o efeito Fuligem e as mecânicas do Fertilizante Zumbi.</color>"
+        },
+        {
+            "theZombieType": 260,
+            "name": "<u><i>Chefe Atacante (Em desenvolvimento)</i></u>",
+            "introduce": "<align=left><size=36><color=red><i>NOTA: Este zumbi está em desenvolvimento e será finalizado em uma atualização futura.</i></color>",
+            "info": "<color=red>NOTA: Este zumbi está em desenvolvimento e será finalizado em uma atualização futura.</color>\n\n<color=black>Resistência: </color>90000\n<color=black>Velocidade de Movimento: </color>Rápida\n<color=black>Características:</color>\n<color=black>•</color> Chefe. Imune a resfriamento, congelamento, empurrões, atordoamentos e efeitos de troca de fileira. Mata instantaneamente qualquer zumbi hipnotizado que tocar e converte qualquer planta que tocar em um Zumbi Noz-Alta Jogador-de-Futebol-Americano[cite: 10].\n<color=black>•</color> Entra pelo lado direito do campo, fincando 3 bandeiras à sua frente. Cada bandeira invoca zumbis temáticos de Futebol Americano a cada 5 segundos, até 5 vezes.\n<color=black>•</color> Ao alcançar a segunda coluna, recua de volta para o lado direito do campo e entra novamente para fincar bandeiras outra vez.</color>"
         }
  ]
 }
