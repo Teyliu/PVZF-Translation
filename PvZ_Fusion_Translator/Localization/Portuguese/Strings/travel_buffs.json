@@ -496,507 +496,507 @@
             "name": "Pacto de Corrupção",
             "desc": "Ganha um pacote de sementes de Colapsogumelo. Plantá-lo ACEITA o desafio:\nInvoca de 3 a 6 zumbis aleatórios da Odisseia em cada fileira (sim, TODOS os possíveis)\nDerrote todos eles para desbloquear o Modificador \"Toque Corruptor\""
         },
-    "10010": {
-      "name": "Quebra de Limite",
-      "desc": "Dano de ataque de todas as plantas ×2"
-    },
-    "10011": {
-      "name": "Escudo de Força",
-      "desc": "Todas as plantas ganham 50 + (2% da vida máxima) de escudo por segundo"
-    },
-    "10012": {
-      "name": "Último Recurso",
-      "desc": "Quando você tiver 20 ou mais plantas no campo, os zumbis alcançarem a casa não causa mais Fim de Jogo, mas faz com que todas as plantas tenham 1/3 de chance de morrer"
-    },
-    "10013": {
-      "name": "Pacto de Promoção",
-      "desc": "Receba um pacote de sementes da Abóbora Ômni. Plantá-la ACEITA o desafio:\nO número de zumbis nas próximas 20 hordas é dobrado\nSobreviva e todas as plantas no espaço da Abóbora Ômni serão promovidas ao Nível 3"
-    },
-    "10014": {
-      "name": "Varredor de Gramado",
-      "desc": "Aciona todos os cortadores de grama atuais e restaura uma coluna inteira deles"
-    },
-    "10015": {
-      "name": "Atraso do Destino",
-      "desc": "Você não terá Fim de Jogo se conseguir eliminar o zumbi que alcançar sua casa dentro de 1,5s"
-    },
-    "10016": {
-      "name": "Exército de Clones",
-      "desc": "Receba imediatamente 5 pacotes de sementes da Imitadora"
-    },
-    "10017": {
-      "name": "Raízes Compartilhadas",
-      "desc": "Ao obter uma segunda cópia de qualquer planta pela primeira vez, você recebe um pacote de sementes adicional dessa planta"
-    },
-    "10018": {
-      "name": "Catalisador de Evolução",
-      "desc": "Usar a luva para mover uma planta sobre outra do mesmo tipo e nível a aprimora em 1 nível"
-    },
-    "10019": {
-      "name": "Fortuna Reforjada",
-      "desc": "Receba imediatamente 10 Vasos Dourados de Reciclagem. Além disso, receba 1 por horda e 5 por bandeira (grande horda)"
-    },
-    "11000": {
-      "name": "Mobilização Rápida",
-      "desc": "Mecânica da fase: O tempo de recarga do Carrinho de Mão é reduzido para 3 segundos"
-    },
-    "11001": {
-      "name": "Crescimento Instantâneo",
-      "desc": "Mecânica da fase: Cogumelo Deucalião começa com 1000 Estágios de Crescimento"
-    },
-    "12000": {
-      "name": "Ascensão: Inferno",
-      "desc": "Os melões do Cogumelo Napalm criam um mar de fogo extra ao atingir o chão e podem se dividir até mais 2 vezes ao atingir zumbis"
-    },
-    "12001": {
-      "name": "Ascensão: Rajada",
-      "desc": "Ao conjurar sua habilidade suprema, a Metralhadora Apeocalipse libera 4 ondas extras de Fogo Congelante causando 50 instâncias de dano cada. Cada instância causa dano igual a 10.000% do poder de ataque da torre a um zumbi aleatório no alcance"
-    },
-    "12002": {
-      "name": "Ascensão: Mira Certeira",
-      "desc": "O acerto crítico da Disparervilha Franco-atiradora Furiosa agora é garantido"
-    },
-    "12003": {
-      "name": "Ascensão: Detonação",
-      "desc": "Os projéteis da Triplervilha Batata-mina agora ativam uma explosão de Batata-mina ao atingir um zumbi"
-    },
-    "12004": {
-      "name": "Ascensão: Destruição",
-      "desc": "Quando a Carnívora da Destruição ataca, ela ativa uma explosão da Destruição engolindo ou não um zumbi. Se engolir, ativará duas explosões da Destruição"
-    },
-    "12005": {
-      "name": "Ascensão: Oblivion",
-      "desc": "Cogumelagedom libera uma explosão de Cogumelo da Destruição de 1 milhão de dano ao morrer"
-    },
-    "12006": {
-      "name": "Ascensão: Escudo de Luz",
-      "desc": "Folha-Guarda-Chuva de Faros pode consumir energia para repelir zumbis em uma área 3×3 e ataques normais atingem ×3 alvos"
-    },
-    "12007": {
-      "name": "Ascensão: Gravidade",
-      "desc": "Buracos negros atraem zumbis com menos de 50% da vida máxima"
-    },
-    "12008": {
-      "name": "Ascensão: Penetração",
-      "desc": "Triplervilha Fênix agora dispara em todas as fileiras e seus projéteis perfuram infinitamente"
-    },
-    "12009": {
-      "name": "Ascensão: As Fauces",
-      "desc": "O alcance de atração da Tiranoflora Lux após a digestão é amplamente aumentado"
-    },
-    "12010": {
-      "name": "Ascensão: Feixe do Caos",
-      "desc": "2 Feixes Celestiais adjacentes liberam mini-explosões de buraco negro periodicamente"
-    },
-    "12011": {
-      "name": "Ascensão: Ricochete",
-      "desc": "Esquadrão Cogumelo-Chumbo não acerta mais tiros na cabeça, mas os projéteis ricocheteiam nas bordas do gramado (como a Ervilha Dupla), até (número de perfurações + 2) vezes"
-    },
-    "12012": {
-      "name": "Ascensão: Veterania",
-      "desc": "Imperatriz-cogumelo agora invoca zumbis com atributos amplamente aumentados"
-    },
-    "12013": {
-      "name": "Ascensão: Densidade",
-      "desc": "Comando Chumbo-Grosso dispara projéteis ainda maiores e mais fortes durante Ataques Supremos"
-    },
-    "12014": {
-      "name": "Ascensão: Hemorragia",
-      "desc": "Zumbis alvejados por qualquer Espinho-rocha perdem continuamente vida igual a 400% do ataque por 2s"
-    },
-    "12015": {
-      "name": "Ascensão: Fortuna",
-      "desc": "Bambu Ceifador de Almas agora segue o movimento do mouse, com melhorias de velocidade de ataque aumentando sua velocidade de movimento, causando dano a quaisquer zumbis em seu caminho"
-    },
-    "12016": {
-      "name": "Ascensão: Decodificação",
-      "desc": "Zumbis que surgirem serão amaldiçoados com 3 acúmulos de Magia de Decodificação. A cada horda, o zumbi com mais vida ganha 100 acúmulos de Decodificação. Cada acúmulo aumenta o dano sofrido pelo zumbi em 100%, e quando um zumbi amaldiçoado morre, seus acúmulos se espalham para zumbis próximos."
-    },
-    "13000": {
-      "name": "Proteção Antiexplosão",
-      "desc": "O dano de explosão do Zumbi Caixa-de-Surpresa é reduzido para 1000"
-    }
-  },
-  "ultimateBuffs": {
-    "0": {
-      "name": "Sede de Sangue",
-      "desc": "Cerejazilla e Alhozilla: Recuperação de Vida ×3"
-    },
-    "1": {
-      "name": "Voracidade",
-      "desc": "Cerejazilla e Alhozilla: Recarga de Devorar reduzida para 15s"
-    },
-    "2": {
-      "name": "Explosão Megaton",
-      "desc": "Metralhadora Bomba-cereja: Cerejas explosivas de plantas causam ×3 de dano"
-    },
-    "3": {
-      "name": "Recarga Rápida",
-      "desc": "Metralhadora Bomba-cereja e Drone Bomba-cereja: Velocidade de Ataque +100%"
-    },
-    "4": {
-      "name": "Zero Absoluto",
-      "desc": "Destruinador: Velocidade de ataque ×3; Dano de ataque do Espinhador ×3; Dano de ataque do Zumbi Garra-de-Gelo ×3"
-    },
-    "5": {
-      "name": "Choque Térmico",
-      "desc": "Destruinador: Zumbis sofrem 30% de sua vida atual como dano ao serem descongelados"
-    },
-    "6": {
-      "name": "Eficiência",
-      "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Projéteis necessários para gerar uma planta Picante são reduzidos pela metade"
-    },
-    "7": {
-      "name": "Superaquecimento",
-      "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Incendeia a fileira imediatamente quando não for possível gerar uma planta Picante"
-    },
-    "8": {
-      "name": "Tempestade de Meteoros",
-      "desc": "Magnetar: Intervalo de Ataque 1s → 0,5s"
-    },
-    "9": {
-      "name": "Sizígia",
-      "desc": "Magnetar: Nv1: Dano base ×2 e limite de dano (300) aumentado para 3000; Nv2: Dano base ×3, limite de dano removido"
-    },
-    "10": {
-      "name": "Contagem Regressiva",
-      "desc": "Cogumelagedom: Dano de explosão ao morrer aumentado em 1M | Lanterna Nuclear: Bônus de Lumos ao morrer ×3"
-    },
-    "11": {
-      "name": "Barreira Volátil",
-      "desc": "Cogumelagedom: Torna-se imune a dano, mas morre instantaneamente após bloquear muitos golpes | Lanterna Nuclear: Dano de ataque ×3"
-    },
-    "12": {
-      "name": "Tom Perfeito",
-      "desc": "Catapulta Murcha e Catapulta Pútrida: Disparo espalhado agora é garantido"
-    },
-    "13": {
-      "name": "Overdose Tóxica",
-      "desc": "Catapulta Murcha e Catapulta Pútrida: Nv1: Acumular pontos de Veneno envenenará o zumbi imediatamente e Limite de Veneno → 120; Nv2: Limite de Veneno removido"
-    },
-    "14": {
-      "name": "Marco Zero",
-      "desc": "Milho-literador: Dano da Explosão Principal ×4 | Panmelônio: Dano ×4"
-    },
-    "15": {
-      "name": "Bateria de Artilharia",
-      "desc": "Milho-literador e Panmelônio: Tempo de Recarga 36s → 12s"
-    },
-    "16": {
-      "name": "Casca Eterna",
-      "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Limite Máximo de Vida ×3"
-    },
-    "17": {
-      "name": "Escudo Guardião",
-      "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Agora absorve o dano direcionado às plantas imediatamente à sua esquerda e direita"
-    },
-    "18": {
-      "name": "Benevolência do Salvador",
-      "desc": "Charmatron: Limiar de vida para hipnose aumentado de 60% para 100% | Aboborativador: Dano a Zumbis hipnotizados capturados reduzido pela metade"
-    },
-    "19": {
-      "name": "Ritmo Incessante",
-      "desc": "Charmatron: Intervalo de Ataque → 1s, Nível de Carga não cai abaixo de 2 e pode receber metal para atingir Nível de Carga 3 por 5 min | Aboborativador: Nível de Carga 3 desbloqueado"
-    },
-    "20": {
-      "name": "Artilharia Pesada",
-      "desc": "Metralhadora e Canhão Eletromagnético Apeocalipse: Poder de Ataque ×3"
-    },
-    "21": {
-      "name": "Impulso de Desespero",
-      "desc": "Metralhadora Apeocalipse: Nv1: Usar Ataque Supremo recupera 50k de energia; Nv2: Supremo também causa 20% de dano bônus que ignora Redução de Dano | Canhão Eletromagnético Apeocalipse: Nv1: Defesa aumenta conforme a vida diminui. Abaixo de 500 de Vida, torna-se imune a danos abaixo de 1k; Nv2: Abaixo de 500 de Vida, dano base ×2"
-    },
-    "22": {
-      "name": "Surto do Periélio",
-      "desc": "Repolho Hélio: Quando o Sol ultrapassar 15k, cada ataque consome 0,5% do excesso para aumentar o dano do projétil em 20 a cada 1 Sol gasto | Repolho Selene: Dano aumentado em 3× por Nível de Lumos"
-    },
-    "23": {
-      "name": "Radiância do Zênite",
-      "desc": "Repolho Hélio: Mini Sol causa 3× de dano | Repolho Selene: Mini Lua cura 3×"
-    },
-    "24": {
-      "name": "Ataque Tríplice",
-      "desc": "Abóbora Laser e Explosiva: Quantidade de Asas de Suporte 1 → 3"
-    },
-    "25": {
-      "name": "Supremacia Aérea",
-      "desc": "Abóbora Laser: Dano de Asas de Suporte e Drones ×3"
-    },
-    "26": {
-      "name": "Sobrecarga",
-      "desc": "Cogumelo Napalm e Cogumelo de Magma: Velocidade de recarga e carga máxima ×3"
-    },
-    "27": {
-      "name": "Terra Arrasada",
-      "desc": "Cogumelo Napalm: Inferno agora dura 5s (o dobro) | Cogumelo de Magma: Dano da Manteiga de Magma ×3"
-    },
-    "28": {
-      "name": "Tesouro Acumulado",
-      "desc": "Kelpitão Barbadourada: Plantas causam 5% a mais de dano de ataque a cada 1000 pontos acumulados (até +300%)"
-    },
-    "29": {
-      "name": "Favor do Mercador",
-      "desc": "Kelpitão Barbadourada: A loja da Odisseia agora tem 30% de desconto em Modificadores"
-    },
-    "30": {
-      "name": "Disco de Acreção",
-      "desc": "Cosmopulta: Conversão de dano de projéteis do Buraco Negro Supremo 60% → 80% | Noz-astronômica: Ganha 33% de Redução de Dano quando seu Buraco Negro está ativo"
-    },
-    "31": {
-      "name": "Dilatação Temporal",
-      "desc": "Cosmopulta e Noz-astronômica: Duração e duração máxima do Buraco Negro Supremo ×2, e seu dano aumenta em 2% a cada segundo ativo"
-    },
-    "32": {
-      "name": "Gume Duradouro",
-      "desc": "Abeto Ceifa-vidas: Serras boreais agora duram 15s | Bambu Ceifador de Almas: Agora recebe apenas 1/3 do dano recebido"
-    },
-    "33": {
-      "name": "Vitalidade Perene",
-      "desc": "Abeto Ceifa-vidas: A cura não é mais dividida entre as plantas | Bambu Ceifador de Almas: Recuperação de Vida e Escudo ×2"
-    },
-    "34": {
-      "name": "Alcance Voraz",
-      "desc": "Tiranoflora Lux: Alcance de Ataque ×2"
-    },
-    "35": {
-      "name": "Banquete Luminoso",
-      "desc": "Tiranoflora Lux: Concede 2 Níveis de Lumos em uma área 5×5 durante a digestão"
-    },
-    "36": {
-      "name": "Estrago Vulcânico",
-      "desc": "Vulcanhão: Dano das Bombas Vulcânicas ×3 | Eruptor Caldeira: Dano dos Repolhos Pirotécnicos ×3"
-    },
-    "37": {
-      "name": "Massa Crítica",
-      "desc": "Vulcanhão: Agora ativa Detonações Termonucleares quando disparos principais atingem Bombas-cereja ou Pimentas Malagueta | Eruptor Caldeira: 10% de chance de ativar efeitos de Bomba-cereja e Malagueta no canhão e ignora o limite de 10 alvos"
-    },
-    "38": {
-      "name": "Ciclo de Combustão",
-      "desc": "Princesa Solarnova: Quando um tiro solar atinge um zumbi, faz com que projéteis próximos também explodam"
-    },
-    "39": {
-      "name": "Banco de Energia",
-      "desc": "Princesa Solarnova: Limite de energia ×3, produção de Sol após excesso de armazenamento ×3"
-    },
-    "40": {
-      "name": "Mira Travada",
-      "desc": "Maelstromelão: Fenda Nebulosa agora foca no zumbi com menos vida durante a primeira metade da rajada | Fungularidade: Agora cria apenas um conjunto de portais, mas eles geram ×10 feixes de partículas de gelo"
-    },
-    "41": {
-      "name": "Concentração",
-      "desc": "Maelstromelão: Dano do Melão Criogênico ×6, mas com raio de dispersão reduzido | Maelstromelão e Fungularidade: Zumbis imunes à Mudança Temporal ainda sofrerão dano igual a (Tempo Decorrido)% de sua vida"
-    },
-    "42": {
-      "name": "Onda de Calor",
-      "desc": "Rabo-de-Leão Prometeu: Frequência de dano do Raio Térmico ×2 | Cogumelo Deucalião: Bônus de dano concedido por Estágios Totais de Crescimento ×3"
-    },
-    "43": {
-      "name": "Fogo Sagrado",
-      "desc": "Rabo-de-Leão Prometeu e Cogumelo Deucalião: Dano de tiros normais ×3"
-    },
-    "44": {
-      "name": "Frenesi Alimentar",
-      "desc": "Leviatã Cila: Lacaios de alga podem afogar até 3 zumbis (ou causar ×3 de dano), e cada zumbi afogado concede 10 acúmulos de energia"
-    },
-    "45": {
-      "name": "Ataque em Enxame",
-      "desc": "Leviatã Cila: Dispara 3 projéteis de ataque base de uma só vez"
-    },
-    "46": {
-      "name": "Caçador de Troféus",
-      "desc": "Ceifadora Criolina e Pranto Habanero: Limite de almas aumentado para 10, agora ganha 1 alma sempre que um Mini-chefe morre"
-    },
-    "47": {
-      "name": "Cortina de Almas",
-      "desc": "Ceifadora Criolina e Pranto Habanero: Ao usar uma carga de alma, concede 1s de invencibilidade a todas as plantas"
-    },
-    "48": {
-      "name": "Capacitor Lumos",
-      "desc": "Divisor de Fótons: Nv1: Limite de energia Lumos aumentado de 1000 para 2000; Nv2: Limite aumentado para 10k | Orbitador de Áxions: Raio de dano do projétil +50%"
-    },
-    "49": {
-      "name": "Descarga de Energia",
-      "desc": "Divisor de Fótons: Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for < 1000 | Orbitador de Áxions: Agora dispara 2 projéteis extras a cada ataque"
-    },
-    "50": {
-      "name": "Ritmo de Batalha",
-      "desc": "Comando Chumbo-Grosso: Chance de ativação do Supremo de todos os Comandos ×3, Batata Comando agora atira batatas explosivas | Disparervilha Sincronizada: Todas as Disparervilhas agora disparam um tiro extra após um Tiro na Cabeça"
-    },
-    "51": {
-      "name": "Fogo Focado",
-      "desc": "Comando Chumbo-Grosso: Dano Supremo de todos os Comandos ×2 e não se espalha mais | Disparervilha Sincronizada: Disparos necessários antes de ativar Tiro na Cabeça em todas as Disparervilhas -3"
-    },
-    "52": {
-      "name": "Formação de Obsidiana",
-      "desc": "Noz-blindada de Obsidiana: Enquanto estiver no gramado, todas as plantas de Obsidiana sofrem dano final reduzido com base no número de plantas de Obsidiana diferentes presentes"
-    },
-    "53": {
-      "name": "Têmpera Fogofrio",
-      "desc": "Noz-blindada de Obsidiana: Dano da Têmpera ×2"
-    }
-  },
-  "debuffs": {
-    "0": {
-      "name": "Romper Linhas",
-      "desc": "Zumbi do Jornal Metralhadora-Cereja: Capacidade de atravessar plantas quando seu jornal é destruído"
-    },
-    "1": {
-      "name": "Imunidade Absoluta",
-      "desc": "Zumbi do Jornal Metralhadora-Cereja: Agora imune a todos os efeitos de status"
-    },
-    "2": {
-      "name": "Exsanguinação",
-      "desc": "Zumbi Giga Noz-de-Futebol: Mordidas desativam a cura das plantas por 1s"
-    },
-    "3": {
-      "name": "Debilitação",
-      "desc": "Zumbi Giga Noz-de-Futebol: Mordidas enfraquecem as plantas, fazendo-as receber 3× de dano por 1s"
-    },
-    "4": {
-      "name": "Correnteza",
-      "desc": "Tubarão-marino: Velocidade de Movimento ×2"
-    },
-    "5": {
-      "name": "Casco Reforçado",
-      "desc": "Tubarão-marino: Ganha 50% de Redução de Dano"
-    },
-    "6": {
-      "name": "Propulsão a Jato",
-      "desc": "Zomppelin Kirov: Imunidade a Trevos | Velocidade de Movimento ×5"
-    },
-    "7": {
-      "name": "Enxame de Ferro",
-      "desc": "Zomppelin Kirov: Drones invocados agora têm 50× mais Vida"
-    },
-    "8": {
-      "name": "Pavio Curto",
-      "desc": "Zumbi Palhaço-Pula-Pula: Sempre explode ao morrer, e tempo de salto reduzido em 90% | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
-    },
-    "9": {
-      "name": "Explosão Contagiosa",
-      "desc": "Zumbi Palhaço-Pula-Pula: Zumbis do tipo Caixa-de-Surpresa atingidos pela explosão viram Zumbis Palhaço-Pula-Pula | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
-    },
-    "10": {
-      "name": "Torrentes de Tridente",
-      "desc": "Zumbi Giga Noz-Tridente: Arremessa 2 tridentes extras a cada ataque | Pozeidon arremessa 3 tridentes gigantes"
-    },
-    "11": {
-      "name": "Dispersão",
-      "desc": "Zumbi Giga Noz-Tridente: Ignora plantas tipo Guarda-Chuva e alveja plantas aleatórias para atacar"
-    },
-    "12": {
-      "name": "Elenco de Estrelas",
-      "desc": "Zumbi Superastro: Pode invocar Zumbis Super Dançarinos com Vara"
-    },
-    "13": {
-      "name": "Valsa Fantasma",
-      "desc": "Zumbi Superastro: Atravessa plantas ao deslizar para o campo"
-    },
-    "14": {
-      "name": "Abalo Secundário",
-      "desc": "Aparição Imortal: O dano de explosão ignora imunidades de Abóboras Palhaço e outras plantas relevantes"
-    },
-    "15": {
-      "name": "Perseguição Implacável",
-      "desc": "Aparição Imortal: Recarga de investida reduzida | Poder de Ataque Muito Aumentado"
-    },
-    "16": {
-      "name": "Miríade de Tridentes",
-      "desc": "Hwacha Tridente: Imune à maioria dos efeitos de status e lança 5× mais tridentes"
-    },
-    "17": {
-      "name": "Primeiro Golpe",
-      "desc": "Hwacha Tridente: Ataca antecipadamente"
-    },
-    "18": {
-      "name": "Desfile Mundial",
-      "desc": "Michael Zomboni: Surge a cada rodada | Gera um Zumbi Superastro extra ao morrer"
-    },
-    "19": {
-      "name": "Acelerador Total",
-      "desc": "Michael Zomboni: Velocidade de Movimento de Michael Zombonis e Jackson Mundial ×5"
-    },
-    "20": {
-      "name": "Queda de Elite",
-      "desc": "Zumbis Bungee têm chance de soltar um Zumbi da Odisseia na 4ª coluna ou mais à direita e ganham 90% de Redução de Dano"
-    },
-    "21": {
-      "name": "Imortalidade",
-      "desc": "Esquadrão Assassino Alfa pode se recuperar de incapacitações infinitamente"
-    },
-    "22": {
-      "name": "Visão Longínqua",
-      "desc": "Disco Retalhador da Legião do Gelo: Raios Dissolventes miram na planta mais distante no alcance"
-    },
-    "23": {
-      "name": "Sucção Ampla",
-      "desc": "Disco Retalhador da Legião do Gelo: Alcance do Dreno Sifão: 1 Espaço → Área 3×3"
-    },
-    "24": {
-      "name": "Confluência Elemental",
-      "desc": "Gargantuar Elemental: A aparência não importa mais, agora possui as habilidades extras de todas as quatro afinidades simultaneamente"
-    },
-    "25": {
-      "name": "Despertar da Afinidade",
-      "desc": "Gargantuar Elemental: Esmagar faz surgir Zumbizinhos Elementais correspondentes"
-    },
-    "26": {
-      "name": "Carga Rápida",
-      "desc": "Gargantuar Noz-Blindada de Tridente: Velocidade de recarga do tridente ×3"
-    },
-    "27": {
-      "name": "Bênção de Pozeidon",
-      "desc": "Gargantuar Noz-Blindada de Tridente: Recupera 10% da vida máxima ao lançar tridentes"
-    },
-    "28": {
-      "name": "Amortecedor de Choque",
-      "desc": "Zumbi Giga Meca-Noz: Nos primeiros 50 golpes, todos os zumbis recebem apenas 1 de dano"
-    },
-    "29": {
-      "name": "Blindagem Reativa",
-      "desc": "Zumbi Giga Meca-Noz: Todos os zumbis ganham 0,2s de imunidade após cada golpe contra danos menores ou iguais ao anterior; ativa até 100 vezes"
-    },
-    "30": {
-      "name": "Estouro da Manada",
-      "desc": "Zumbi Elefante de Guerra: Surge em grupos de 3"
-    },
-    "31": {
-      "name": "Escolta Alfa",
-      "desc": "Zumbi Elefante de Guerra: Para cada um em campo, zumbis mini-chefes ganham +100 de Redução de Dano"
-    },
-    "32": {
-      "name": "Revestimento Isolante",
-      "desc": "Brigada de Bobsleigh Chumbo-Grosso: Imune a manteiga e congelamento"
-    },
-    "33": {
-      "name": "Entrada Relâmpago",
-      "desc": "Brigada de Bobsleigh Chumbo-Grosso: Entra no campo rapidamente, mas desacelera com o tempo"
-    },
-    "34": {
-      "name": "Postura da Naja",
-      "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Rola uma vez imediatamente ao surgir"
-    },
-    "35": {
-      "name": "Perseguição Fervorosa",
-      "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Causa ×2 de dano após rolar"
-    },
-    "1000": {
-      "name": "Apagão",
-      "desc": "Seu Sol será redefinido para 0"
-    },
-    "1001": {
-      "name": "Falência",
-      "desc": "Seus Pontos serão redefinidos para 0"
-    },
-    "1002": {
-      "name": "Espaço Limitado",
-      "desc": "Você não pode ter mais de 120 plantas no campo"
-    },
-    "1003": {
-      "name": "Praga Devastadora",
-      "desc": "Todas as suas plantas existentes têm 1/3 de chance de perecer (aplicado uma vez)"
-    },
-"1004": {
+        "10010": {
+            "name": "Quebra de Limite",
+            "desc": "Dano de ataque de todas as plantas ×2"
+        },
+        "10011": {
+            "name": "Escudo de Força",
+            "desc": "Todas as plantas ganham 50 + (2% da vida máxima) de escudo por segundo"
+        },
+        "10012": {
+            "name": "Último Recurso",
+            "desc": "Quando você tiver 20 ou mais plantas no campo, os zumbis alcançarem a casa não causa mais Fim de Jogo, mas faz com que todas as plantas tenham 1/3 de chance de morrer"
+        },
+        "10013": {
+            "name": "Pacto de Promoção",
+            "desc": "Receba um pacote de sementes da Abóbora Ômni. Plantá-la ACEITA o desafio:\nO número de zumbis nas próximas 20 hordas é dobrado\nSobreviva e todas as plantas no espaço da Abóbora Ômni serão promovidas ao Nível 3"
+        },
+        "10014": {
+            "name": "Varredor de Gramado",
+            "desc": "Aciona todos os cortadores de grama atuais e restaura uma coluna inteira deles"
+        },
+        "10015": {
+            "name": "Atraso do Destino",
+            "desc": "Você não terá Fim de Jogo se conseguir eliminar o zumbi que alcançar sua casa dentro de 1,5s"
+        },
+        "10016": {
+            "name": "Exército de Clones",
+            "desc": "Receba imediatamente 5 pacotes de sementes da Imitadora"
+        },
+        "10017": {
+            "name": "Raízes Compartilhadas",
+            "desc": "Ao obter uma segunda cópia de qualquer planta pela primeira vez, você recebe um pacote de sementes adicional dessa planta"
+        },
+        "10018": {
+            "name": "Catalisador de Evolução",
+            "desc": "Usar a luva para mover uma planta sobre outra do mesmo tipo e nível a aprimora em 1 nível"
+        },
+        "10019": {
+            "name": "Fortuna Reforjada",
+            "desc": "Receba imediatamente 10 Vasos Dourados de Reciclagem. Além disso, receba 1 por horda e 5 por bandeira (grande horda)"
+        },
+        "11000": {
+            "name": "Mobilização Rápida",
+            "desc": "Mecânica da fase: O tempo de recarga do Carrinho de Mão é reduzido para 3 segundos"
+        },
+        "11001": {
+            "name": "Crescimento Instantâneo",
+            "desc": "Mecânica da fase: Cogumelo Deucalião começa com 1000 Estágios de Crescimento"
+        },
+        "12000": {
+            "name": "Ascensão: Inferno",
+            "desc": "Os melões do Cogumelo Napalm criam um mar de fogo extra ao atingir o chão e podem se dividir até mais 2 vezes ao atingir zumbis"
+        },
+        "12001": {
+            "name": "Ascensão: Rajada",
+            "desc": "Ao conjurar sua habilidade suprema, a Metralhadora Apeocalipse libera 4 ondas extras de Fogo Congelante causando 50 instâncias de dano cada. Cada instância causa dano igual a 10.000% do poder de ataque da torre a um zumbi aleatório no alcance"
+        },
+        "12002": {
+            "name": "Ascensão: Mira Certeira",
+            "desc": "O acerto crítico da Disparervilha Franco-atiradora Furiosa agora é garantido"
+        },
+        "12003": {
+            "name": "Ascensão: Detonação",
+            "desc": "Os projéteis da Triplervilha Batata-mina agora ativam uma explosão de Batata-mina ao atingir um zumbi"
+        },
+        "12004": {
+            "name": "Ascensão: Destruição",
+            "desc": "Quando a Carnívora da Destruição ataca, ela ativa uma explosão da Destruição engolindo ou não um zumbi. Se engolir, ativará duas explosões da Destruição"
+        },
+        "12005": {
+            "name": "Ascensão: Oblivion",
+            "desc": "Cogumelagedom libera uma explosão de Cogumelo da Destruição de 1 milhão de dano ao morrer"
+        },
+        "12006": {
+            "name": "Ascensão: Escudo de Luz",
+            "desc": "Folha-Guarda-Chuva de Faros pode consumir energia para repelir zumbis em uma área 3×3 e ataques normais atingem ×3 alvos"
+        },
+        "12007": {
+            "name": "Ascensão: Gravidade",
+            "desc": "Buracos negros atraem zumbis com menos de 50% da vida máxima"
+        },
+        "12008": {
+            "name": "Ascensão: Penetração",
+            "desc": "Triplervilha Fênix agora dispara em todas as fileiras e seus projéteis perfuram infinitamente"
+        },
+        "12009": {
+            "name": "Ascensão: As Fauces",
+            "desc": "O alcance de atração da Tiranoflora Lux após a digestão é amplamente aumentado"
+        },
+        "12010": {
+            "name": "Ascensão: Feixe do Caos",
+            "desc": "2 Feixes Celestiais adjacentes liberam mini-explosões de buraco negro periodicamente"
+        },
+        "12011": {
+            "name": "Ascensão: Ricochete",
+            "desc": "Esquadrão Cogumelo-Chumbo não acerta mais tiros na cabeça, mas os projéteis ricocheteiam nas bordas do gramado (como a Ervilha Dupla), até (número de perfurações + 2) vezes"
+        },
+        "12012": {
+            "name": "Ascensão: Veterania",
+            "desc": "Imperatriz-cogumelo agora invoca zumbis com atributos amplamente aumentados"
+        },
+        "12013": {
+            "name": "Ascensão: Densidade",
+            "desc": "Comando Chumbo-Grosso dispara projéteis ainda maiores e mais fortes durante Ataques Supremos"
+        },
+        "12014": {
+            "name": "Ascensão: Hemorragia",
+            "desc": "Zumbis alvejados por qualquer Espinho-rocha perdem continuamente vida igual a 400% do ataque por 2s"
+        },
+        "12015": {
+            "name": "Ascensão: Fortuna",
+            "desc": "Bambu Ceifador de Almas agora segue o movimento do mouse, com melhorias de velocidade de ataque aumentando sua velocidade de movimento, causando dano a quaisquer zumbis em seu caminho"
+        },
+        "12016": {
+            "name": "Ascensão: Decodificação",
+            "desc": "Zumbis que surgirem serão amaldiçoados com 3 acúmulos de Magia de Decodificação. A cada horda, o zumbi com mais vida ganha 100 acúmulos de Decodificação. Cada acúmulo aumenta o dano sofrido pelo zumbi em 100%, e quando um zumbi amaldiçoado morre, seus acúmulos se espalham para zumbis próximos."
+        },
+        "13000": {
+            "name": "Proteção Antiexplosão",
+            "desc": "O dano de explosão do Zumbi Caixa-de-Surpresa é reduzido para 1000"
+        }
+    },
+    "ultimateBuffs": {
+        "0": {
+            "name": "Sede de Sangue",
+            "desc": "Cerejazilla e Alhozilla: Recuperação de Vida ×3"
+        },
+        "1": {
+            "name": "Voracidade",
+            "desc": "Cerejazilla e Alhozilla: Recarga de Devorar reduzida para 15s"
+        },
+        "2": {
+            "name": "Explosão Megaton",
+            "desc": "Metralhadora Bomba-cereja: Cerejas explosivas de plantas causam ×3 de dano"
+        },
+        "3": {
+            "name": "Recarga Rápida",
+            "desc": "Metralhadora Bomba-cereja e Drone Bomba-cereja: Velocidade de Ataque +100%"
+        },
+        "4": {
+            "name": "Zero Absoluto",
+            "desc": "Destruinador: Velocidade de ataque ×3; Dano de ataque do Espinhador ×3; Dano de ataque do Zumbi Garra-de-Gelo ×3"
+        },
+        "5": {
+            "name": "Choque Térmico",
+            "desc": "Destruinador: Zumbis sofrem 30% de sua vida atual como dano ao serem descongelados"
+        },
+        "6": {
+            "name": "Eficiência",
+            "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Projéteis necessários para gerar uma planta Picante são reduzidos pela metade"
+        },
+        "7": {
+            "name": "Superaquecimento",
+            "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Incendeia a fileira imediatamente quando não for possível gerar uma planta Picante"
+        },
+        "8": {
+            "name": "Tempestade de Meteoros",
+            "desc": "Magnetar: Intervalo de Ataque 1s → 0,5s"
+        },
+        "9": {
+            "name": "Sizígia",
+            "desc": "Magnetar: Nv1: Dano base ×2 e limite de dano (300) aumentado para 3000; Nv2: Dano base ×3, limite de dano removido"
+        },
+        "10": {
+            "name": "Contagem Regressiva",
+            "desc": "Cogumelagedom: Dano de explosão ao morrer aumentado em 1M | Lanterna Nuclear: Bônus de Lumos ao morrer ×3"
+        },
+        "11": {
+            "name": "Barreira Volátil",
+            "desc": "Cogumelagedom: Torna-se imune a dano, mas morre instantaneamente após bloquear muitos golpes | Lanterna Nuclear: Dano de ataque ×3"
+        },
+        "12": {
+            "name": "Tom Perfeito",
+            "desc": "Catapulta Murcha e Catapulta Pútrida: Disparo espalhado agora é garantido"
+        },
+        "13": {
+            "name": "Overdose Tóxica",
+            "desc": "Catapulta Murcha e Catapulta Pútrida: Nv1: Acumular pontos de Veneno envenenará o zumbi imediatamente e Limite de Veneno → 120; Nv2: Limite de Veneno removido"
+        },
+        "14": {
+            "name": "Marco Zero",
+            "desc": "Milho-literador: Dano da Explosão Principal ×4 | Panmelônio: Dano ×4"
+        },
+        "15": {
+            "name": "Bateria de Artilharia",
+            "desc": "Milho-literador e Panmelônio: Tempo de Recarga 36s → 12s"
+        },
+        "16": {
+            "name": "Casca Eterna",
+            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Limite Máximo de Vida ×3"
+        },
+        "17": {
+            "name": "Escudo Guardião",
+            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Agora absorve o dano direcionado às plantas imediatamente à sua esquerda e direita"
+        },
+        "18": {
+            "name": "Benevolência do Salvador",
+            "desc": "Charmatron: Limiar de vida para hipnose aumentado de 60% para 100% | Aboborativador: Dano a Zumbis hipnotizados capturados reduzido pela metade"
+        },
+        "19": {
+            "name": "Ritmo Incessante",
+            "desc": "Charmatron: Intervalo de Ataque → 1s, Nível de Carga não cai abaixo de 2 e pode receber metal para atingir Nível de Carga 3 por 5 min | Aboborativador: Nível de Carga 3 desbloqueado"
+        },
+        "20": {
+            "name": "Artilharia Pesada",
+            "desc": "Metralhadora e Canhão Eletromagnético Apeocalipse: Poder de Ataque ×3"
+        },
+        "21": {
+            "name": "Impulso de Desespero",
+            "desc": "Metralhadora Apeocalipse: Nv1: Usar Ataque Supremo recupera 50k de energia; Nv2: Supremo também causa 20% de dano bônus que ignora Redução de Dano | Canhão Eletromagnético Apeocalipse: Nv1: Defesa aumenta conforme a vida diminui. Abaixo de 500 de Vida, torna-se imune a danos abaixo de 1k; Nv2: Abaixo de 500 de Vida, dano base ×2"
+        },
+        "22": {
+            "name": "Surto do Periélio",
+            "desc": "Repolho Hélio: Quando o Sol ultrapassar 15k, cada ataque consome 0,5% do excesso para aumentar o dano do projétil em 20 a cada 1 Sol gasto | Repolho Selene: Dano aumentado em 3× por Nível de Lumos"
+        },
+        "23": {
+            "name": "Radiância do Zênite",
+            "desc": "Repolho Hélio: Mini Sol causa 3× de dano | Repolho Selene: Mini Lua cura 3×"
+        },
+        "24": {
+            "name": "Ataque Tríplice",
+            "desc": "Abóbora Laser e Explosiva: Quantidade de Asas de Suporte 1 → 3"
+        },
+        "25": {
+            "name": "Supremacia Aérea",
+            "desc": "Abóbora Laser: Dano de Asas de Suporte e Drones ×3"
+        },
+        "26": {
+            "name": "Sobrecarga",
+            "desc": "Cogumelo Napalm e Cogumelo de Magma: Velocidade de recarga e carga máxima ×3"
+        },
+        "27": {
+            "name": "Terra Arrasada",
+            "desc": "Cogumelo Napalm: Inferno agora dura 5s (o dobro) | Cogumelo de Magma: Dano da Manteiga de Magma ×3"
+        },
+        "28": {
+            "name": "Tesouro Acumulado",
+            "desc": "Kelpitão Barbadourada: Plantas causam 5% a mais de dano de ataque a cada 1000 pontos acumulados (até +300%)"
+        },
+        "29": {
+            "name": "Favor do Mercador",
+            "desc": "Kelpitão Barbadourada: A loja da Odisseia agora tem 30% de desconto em Modificadores"
+        },
+        "30": {
+            "name": "Disco de Acreção",
+            "desc": "Cosmopulta: Conversão de dano de projéteis do Buraco Negro Supremo 60% → 80% | Noz-astronômica: Ganha 33% de Redução de Dano quando seu Buraco Negro está ativo"
+        },
+        "31": {
+            "name": "Dilatação Temporal",
+            "desc": "Cosmopulta e Noz-astronômica: Duração e duração máxima do Buraco Negro Supremo ×2, e seu dano aumenta em 2% a cada segundo ativo"
+        },
+        "32": {
+            "name": "Gume Duradouro",
+            "desc": "Abeto Ceifa-vidas: Serras boreais agora duram 15s | Bambu Ceifador de Almas: Agora recebe apenas 1/3 do dano recebido"
+        },
+        "33": {
+            "name": "Vitalidade Perene",
+            "desc": "Abeto Ceifa-vidas: A cura não é mais dividida entre as plantas | Bambu Ceifador de Almas: Recuperação de Vida e Escudo ×2"
+        },
+        "34": {
+            "name": "Alcance Voraz",
+            "desc": "Tiranoflora Lux: Alcance de Ataque ×2"
+        },
+        "35": {
+            "name": "Banquete Luminoso",
+            "desc": "Tiranoflora Lux: Concede 2 Níveis de Lumos em uma área 5×5 durante a digestão"
+        },
+        "36": {
+            "name": "Estrago Vulcânico",
+            "desc": "Vulcanhão: Dano das Bombas Vulcânicas ×3 | Eruptor Caldeira: Dano dos Repolhos Pirotécnicos ×3"
+        },
+        "37": {
+            "name": "Massa Crítica",
+            "desc": "Vulcanhão: Agora ativa Detonações Termonucleares quando disparos principais atingem Bombas-cereja ou Pimentas Malagueta | Eruptor Caldeira: 10% de chance de ativar efeitos de Bomba-cereja e Malagueta no canhão e ignora o limite de 10 alvos"
+        },
+        "38": {
+            "name": "Ciclo de Combustão",
+            "desc": "Princesa Solarnova: Quando um tiro solar atinge um zumbi, faz com que projéteis próximos também explodam"
+        },
+        "39": {
+            "name": "Banco de Energia",
+            "desc": "Princesa Solarnova: Limite de energia ×3, produção de Sol após excesso de armazenamento ×3"
+        },
+        "40": {
+            "name": "Mira Travada",
+            "desc": "Maelstromelão: Fenda Nebulosa agora foca no zumbi com menos vida durante a primeira metade da rajada | Fungularidade: Agora cria apenas um conjunto de portais, mas eles geram ×10 feixes de partículas de gelo"
+        },
+        "41": {
+            "name": "Concentração",
+            "desc": "Maelstromelão: Dano do Melão Criogênico ×6, mas com raio de dispersão reduzido | Maelstromelão e Fungularidade: Zumbis imunes à Mudança Temporal ainda sofrerão dano igual a (Tempo Decorrido)% de sua vida"
+        },
+        "42": {
+            "name": "Onda de Calor",
+            "desc": "Rabo-de-Leão Prometeu: Frequência de dano do Raio Térmico ×2 | Cogumelo Deucalião: Bônus de dano concedido por Estágios Totais de Crescimento ×3"
+        },
+        "43": {
+            "name": "Fogo Sagrado",
+            "desc": "Rabo-de-Leão Prometeu e Cogumelo Deucalião: Dano de tiros normais ×3"
+        },
+        "44": {
+            "name": "Frenesi Alimentar",
+            "desc": "Leviatã Cila: Lacaios de alga podem afogar até 3 zumbis (ou causar ×3 de dano), e cada zumbi afogado concede 10 acúmulos de energia"
+        },
+        "45": {
+            "name": "Ataque em Enxame",
+            "desc": "Leviatã Cila: Dispara 3 projéteis de ataque base de uma só vez"
+        },
+        "46": {
+            "name": "Caçador de Troféus",
+            "desc": "Ceifadora Criolina e Pranto Habanero: Limite de almas aumentado para 10, agora ganha 1 alma sempre que um Mini-chefe morre"
+        },
+        "47": {
+            "name": "Cortina de Almas",
+            "desc": "Ceifadora Criolina e Pranto Habanero: Ao usar uma carga de alma, concede 1s de invencibilidade a todas as plantas"
+        },
+        "48": {
+            "name": "Capacitor Lumos",
+            "desc": "Divisor de Fótons: Nv1: Limite de energia Lumos aumentado de 1000 para 2000; Nv2: Limite aumentado para 10k | Orbitador de Áxions: Raio de dano do projétil +50%"
+        },
+        "49": {
+            "name": "Descarga de Energia",
+            "desc": "Divisor de Fótons: Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for < 1000 | Orbitador de Áxions: Agora dispara 2 projéteis extras a cada ataque"
+        },
+        "50": {
+            "name": "Ritmo de Batalha",
+            "desc": "Comando Chumbo-Grosso: Chance de ativação do Supremo de todos os Comandos ×3, Batata Comando agora atira batatas explosivas | Disparervilha Sincronizada: Todas as Disparervilhas agora disparam um tiro extra após um Tiro na Cabeça"
+        },
+        "51": {
+            "name": "Fogo Focado",
+            "desc": "Comando Chumbo-Grosso: Dano Supremo de todos os Comandos ×2 e não se espalha mais | Disparervilha Sincronizada: Disparos necessários antes de ativar Tiro na Cabeça em todas as Disparervilhas -3"
+        },
+        "52": {
+            "name": "Formação de Obsidiana",
+            "desc": "Noz-blindada de Obsidiana: Enquanto estiver no gramado, todas as plantas de Obsidiana sofrem dano final reduzido com base no número de plantas de Obsidiana diferentes presentes"
+        },
+        "53": {
+            "name": "Têmpera Fogofrio",
+            "desc": "Noz-blindada de Obsidiana: Dano da Têmpera ×2"
+        }
+    },
+    "debuffs": {
+        "0": {
+            "name": "Romper Linhas",
+            "desc": "Zumbi do Jornal Metralhadora-Cereja: Capacidade de atravessar plantas quando seu jornal é destruído"
+        },
+        "1": {
+            "name": "Imunidade Absoluta",
+            "desc": "Zumbi do Jornal Metralhadora-Cereja: Agora imune a todos os efeitos de status"
+        },
+        "2": {
+            "name": "Exsanguinação",
+            "desc": "Zumbi Giga Noz-de-Futebol: Mordidas desativam a cura das plantas por 1s"
+        },
+        "3": {
+            "name": "Debilitação",
+            "desc": "Zumbi Giga Noz-de-Futebol: Mordidas enfraquecem as plantas, fazendo-as receber 3× de dano por 1s"
+        },
+        "4": {
+            "name": "Correnteza",
+            "desc": "Tubarão-marino: Velocidade de Movimento ×2"
+        },
+        "5": {
+            "name": "Casco Reforçado",
+            "desc": "Tubarão-marino: Ganha 50% de Redução de Dano"
+        },
+        "6": {
+            "name": "Propulsão a Jato",
+            "desc": "Zomppelin Kirov: Imunidade a Trevos | Velocidade de Movimento ×5"
+        },
+        "7": {
+            "name": "Enxame de Ferro",
+            "desc": "Zomppelin Kirov: Drones invocados agora têm 50× mais Vida"
+        },
+        "8": {
+            "name": "Pavio Curto",
+            "desc": "Zumbi Palhaço-Pula-Pula: Sempre explode ao morrer, e tempo de salto reduzido em 90% | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
+        },
+        "9": {
+            "name": "Explosão Contagiosa",
+            "desc": "Zumbi Palhaço-Pula-Pula: Zumbis do tipo Caixa-de-Surpresa atingidos pela explosão viram Zumbis Palhaço-Pula-Pula | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
+        },
+        "10": {
+            "name": "Torrentes de Tridente",
+            "desc": "Zumbi Giga Noz-Tridente: Arremessa 2 tridentes extras a cada ataque | Pozeidon arremessa 3 tridentes gigantes"
+        },
+        "11": {
+            "name": "Dispersão",
+            "desc": "Zumbi Giga Noz-Tridente: Ignora plantas tipo Guarda-Chuva e alveja plantas aleatórias para atacar"
+        },
+        "12": {
+            "name": "Elenco de Estrelas",
+            "desc": "Zumbi Superastro: Pode invocar Zumbis Super Dançarinos com Vara"
+        },
+        "13": {
+            "name": "Valsa Fantasma",
+            "desc": "Zumbi Superastro: Atravessa plantas ao deslizar para o campo"
+        },
+        "14": {
+            "name": "Abalo Secundário",
+            "desc": "Aparição Imortal: O dano de explosão ignora imunidades de Abóboras Palhaço e outras plantas relevantes"
+        },
+        "15": {
+            "name": "Perseguição Implacável",
+            "desc": "Aparição Imortal: Recarga de investida reduzida | Poder de Ataque Muito Aumentado"
+        },
+        "16": {
+            "name": "Miríade de Tridentes",
+            "desc": "Hwacha Tridente: Imune à maioria dos efeitos de status e lança 5× mais tridentes"
+        },
+        "17": {
+            "name": "Primeiro Golpe",
+            "desc": "Hwacha Tridente: Ataca antecipadamente"
+        },
+        "18": {
+            "name": "Desfile Mundial",
+            "desc": "Michael Zomboni: Surge a cada rodada | Gera um Zumbi Superastro extra ao morrer"
+        },
+        "19": {
+            "name": "Acelerador Total",
+            "desc": "Michael Zomboni: Velocidade de Movimento de Michael Zombonis e Jackson Mundial ×5"
+        },
+        "20": {
+            "name": "Queda de Elite",
+            "desc": "Zumbis Bungee têm chance de soltar um Zumbi da Odisseia na 4ª coluna ou mais à direita e ganham 90% de Redução de Dano"
+        },
+        "21": {
+            "name": "Imortalidade",
+            "desc": "Esquadrão Assassino Alfa pode se recuperar de incapacitações infinitamente"
+        },
+        "22": {
+            "name": "Visão Longínqua",
+            "desc": "Disco Retalhador da Legião do Gelo: Raios Dissolventes miram na planta mais distante no alcance"
+        },
+        "23": {
+            "name": "Sucção Ampla",
+            "desc": "Disco Retalhador da Legião do Gelo: Alcance do Dreno Sifão: 1 Espaço → Área 3×3"
+        },
+        "24": {
+            "name": "Confluência Elemental",
+            "desc": "Gargantuar Elemental: A aparência não importa mais, agora possui as habilidades extras de todas as quatro afinidades simultaneamente"
+        },
+        "25": {
+            "name": "Despertar da Afinidade",
+            "desc": "Gargantuar Elemental: Esmagar faz surgir Zumbizinhos Elementais correspondentes"
+        },
+        "26": {
+            "name": "Carga Rápida",
+            "desc": "Gargantuar Noz-Blindada de Tridente: Velocidade de recarga do tridente ×3"
+        },
+        "27": {
+            "name": "Bênção de Pozeidon",
+            "desc": "Gargantuar Noz-Blindada de Tridente: Recupera 10% da vida máxima ao lançar tridentes"
+        },
+        "28": {
+            "name": "Amortecedor de Choque",
+            "desc": "Zumbi Giga Meca-Noz: Nos primeiros 50 golpes, todos os zumbis recebem apenas 1 de dano"
+        },
+        "29": {
+            "name": "Blindagem Reativa",
+            "desc": "Zumbi Giga Meca-Noz: Todos os zumbis ganham 0,2s de imunidade após cada golpe contra danos menores ou iguais ao anterior; ativa até 100 vezes"
+        },
+        "30": {
+            "name": "Estouro da Manada",
+            "desc": "Zumbi Elefante de Guerra: Surge em grupos de 3"
+        },
+        "31": {
+            "name": "Escolta Alfa",
+            "desc": "Zumbi Elefante de Guerra: Para cada um em campo, zumbis mini-chefes ganham +100 de Redução de Dano"
+        },
+        "32": {
+            "name": "Revestimento Isolante",
+            "desc": "Brigada de Bobsleigh Chumbo-Grosso: Imune a manteiga e congelamento"
+        },
+        "33": {
+            "name": "Entrada Relâmpago",
+            "desc": "Brigada de Bobsleigh Chumbo-Grosso: Entra no campo rapidamente, mas desacelera com o tempo"
+        },
+        "34": {
+            "name": "Postura da Naja",
+            "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Rola uma vez imediatamente ao surgir"
+        },
+        "35": {
+            "name": "Perseguição Fervorosa",
+            "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Causa ×2 de dano após rolar"
+        },
+        "1000": {
+            "name": "Apagão",
+            "desc": "Seu Sol será redefinido para 0"
+        },
+        "1001": {
+            "name": "Falência",
+            "desc": "Seus Pontos serão redefinidos para 0"
+        },
+        "1002": {
+            "name": "Espaço Limitado",
+            "desc": "Você não pode ter mais de 120 plantas no campo"
+        },
+        "1003": {
+            "name": "Praga Devastadora",
+            "desc": "Todas as suas plantas existentes têm 1/3 de chance de perecer (aplicado uma vez)"
+        },
+        "1004": {
             "name": "Crescimento Necrótico",
             "desc": "Taxa de aumento de vida máxima dos zumbis após cada rodada: 20% → 30%"
         },
@@ -1480,5 +1480,5 @@
             "name": "",
             "desc": "<color=#007FFF>Apenas nesta rodada, você ganha 10k pontos e vence a rodada se um zumbi entrar na sua casa"
         }
-	}
+    }
 }

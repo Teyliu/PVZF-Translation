@@ -479,4 +479,4 @@
   "翻页\\((\\d+)/(\\d+)\\)": "Página {0}/{1} (clique para virar)",
   "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nEsta Rodada: {2}/{3}\n{4}",
   "^旅行冒险 ([^\\s:]+)": "Aventura da Odisseia: {0}"
-  }
+}
