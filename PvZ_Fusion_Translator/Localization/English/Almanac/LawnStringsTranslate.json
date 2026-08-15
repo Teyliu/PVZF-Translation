@@ -123,7 +123,7 @@
             "seedType": 17,
             "name": "Spikeweed",
             "introduce": "<align=left><size=36><color=black>Hockey is Spikeweed's obsession. He's got box seat season tickets. He keeps close track of his favorite players. And he consistently cleans up in the office hockey pool. Just one problem: he's terrified of pucks.</color></size>",
-            "info": "<size=36>Spikeweeds pop tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20/1 Second</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Does not block regular zombies.\n<color=black>•</color> Pops tires. Instantly kills Zombonis. If Bobsled Zomboni or Michael Zomboni has more than 50% max HP, damage is capped at 50% of their max HP. If Evolved Zombonis have more than 1/3 toughness, damage is capped at 1/3 of their max HP.</color></size>",
+            "info": "<size=36>Spikeweeds pop tires and hurt any zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Does not block regular zombies.\n<color=black>•</color> Pops tires. Instantly kills Zombonis. If Bobsled Zomboni or Michael Zomboni has more than 50% max HP, damage is capped at 50% of their max HP. If Evolved Zombonis have more than 1/3 toughness, damage is capped at 1/3 of their max HP.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -1817,14 +1817,14 @@
             "seedType": 1061,
             "name": "Torchweed",
             "introduce": "<align=left><size=36><color=black>\"I'm Torchweed, the zombies' passionate barbecue chef! Ignite that little pea, and I'll throw them an unforgettable barbecue party. Rest assured, I'm a professional—I guarantee it will be crispy on the outside and tender on the inside!\"</color></size>",
-            "info": "<size=36>Torchweed can ignite small peas and puncture vehicles.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignite small peas for increased, and splashed, damage.\n<color=black>•</color> For every 100 small peas lit, a Roasted Spikeweed is spawned in front.\n<color=black>•</color> Can also pop the balloons of regular Balloon Zombies.</color></size>",
+            "info": "<size=36>Torchweed can ignite small peas and puncture vehicles.\n\n<color=black>Damage: </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignite small peas for increased, and splashed, damage.\n<color=black>•</color> For every 100 small peas lit, a Roasted Spikeweed is spawned in front.\n<color=black>•</color> Can also pop the balloons of regular Balloon Zombies.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Torchwood</color>"
         },
         {
             "seedType": 1062,
             "name": "Scorchweed",
             "introduce": "<align=left><size=36><color=black>\"Studies reveal that spiciness is actually a type of pain,\" Scorchweed announced, rattling the red thorns on his head. \"I intend to let the unbelieving zombies experience this reality for themselves.\"</color></size>",
-            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff. Scorchweeds can be upgraded to Hearthrocks using a Fertilizer.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
+            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff. Scorchweeds can be upgraded to Hearthrocks using a Fertilizer.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno + Spikeweed</color>"
         },
         {
@@ -2475,7 +2475,7 @@
             "seedType": 1155,
             "name": "Roasted Spikeweed",
             "introduce": "<align=left><size=36><color=black>After the test of fire, he's still the same old Spikeweed, just wiser, shinier, and ready to give the zombies a warmer welcome!</color>",
-            "info": "<size=36>A hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Damage: </color><color=#8B0000>20/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "info": "<size=36>A hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
@@ -2650,7 +2650,7 @@
             "seedType": 1180,
             "name": "Iceweed",
             "introduce": "<align=left><size=36><color=black>Breaking news from the first Plants vs. Zombies Hockey Tournament! Iceweed skated to victory, leaving the Bobsled Zombies scrambling. But now, they're calling foul! \"I did nothing wrong,\" Iceweed insists, adjusting their icy spikes. \"And these springs? Just a little pre-game safety gear.\"",
-            "info": "<size=36>Iceweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Iceweeds can be upgraded to Icerocks using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
+            "info": "<size=36>Iceweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1s</color>\n<color=black>Special: </color><color=#8B0000>Iceweeds can be upgraded to Icerocks using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Ice-shroom</color>"
         },
         {
