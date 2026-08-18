@@ -362,7 +362,7 @@
         },
         "3009": {
             "name": "Elemental Fury",
-            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which doubles for each ice and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
+            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which increases by 100% for each ice, snow and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
         },
         "4000": {
             "name": "Abyssal Chibi",
@@ -533,7 +533,7 @@
             "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
         },
         "10019": {
-            "name": "Fortune Reforged",
+            "name": "Fate Reforged",
             "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
         },
         "11000": {
@@ -732,11 +732,11 @@
         },
         "28": {
             "name": "Treasure Hoard",
-            "desc": "Kelptain Goldbeard: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
+            "desc": "Kelptain Goldbeard & Sea-greed Zombox: All plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
         },
         "29": {
-            "name": "Merchant's Favor",
-            "desc": "Kelptain Goldbeard: The Odyssey shop now has a 30% discount on Modifiers"
+            "name": "Gamble of Bounty",
+            "desc": "Kelptain Goldbeard & Sea-greed Zombox: Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox/Zombie Giftbox on an empty tile has a chance to spawn a seed packet for Kelptain Goldbeard/Sea-greed Zombox, respectively"
         },
         "30": {
             "name": "Accretion Disk",
