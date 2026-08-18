@@ -1,7 +1,7 @@
 {
- "<size=20>点击格子的植物所在区域面积为：([^\\s]+)": "<size=20>Área da planta na célula selecionada: {0}",
+ "<size=20>点击格子的植物所在区域面积为：([^\\s]+)": "<size=20>Área da planta no quadrado selecionada: {0}",
  "<size=20>在<color=yellow>第([^\\s]+)波</color>时，检测所有地刺花盆上的植物面积：\n如果该植物所在的区域面积<color=red>不为([^\\s]+)，则在对应地刺花盆上产生3次小丑爆炸\n</color>你可以随时按<color=yellow>H键</color>来重新显示这条信息": "<size=20>Na <color=yellow>Onda {0}</color>, a área de todas as plantas nos Vasos de Espinho será verificada:\nSe a área conectada de uma planta <color=red>não for igual a {1}, ocorrerão 3 explosões de JITB no Vaso de Espinho correspondente.\n</color>Pressione <color=yellow>H</color> a qualquer momento para exibir esta mensagem novamente",
- "<size=20>点击格子的植物所在区域面积为：([^\\s]+)<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Área da planta na célula selecionada: {0} <size=20>Ondas até a próxima verificação de área: {1}<size=20> Área necessária na próxima verificação: {2}",
+ "<size=20>点击格子的植物所在区域面积为：([^\\s]+)<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Área da planta no quadrado selecionada: {0} <size=20>Ondas até a próxima verificação de área: {1}<size=20> Área necessária na próxima verificação: {2}",
  "<size=20>点击格子的植物所在区域面积为：([^\\s]+)\n<size=20>距离下次面积判定剩余波次：([^\\s]+)<size=20>    下次判定的需求面积：([^\\s]+)": "<size=20>Área da planta na casa selecionada: {0}\n<size=20>Ondas até a próxima verificação de área:{1}<size=20> Área necessária na próxima verificação: {2}",
  "危险值：([^\\s]+)%": "Medidor de Perigo: {0}%",
  "<size=18>熔炼成功！<color=#ADADAD>铁桶x([^\\s]+)<size=18></color> 已被添加至熔炼资源中": "<size=18>Forja bem-sucedida! <color=#ADADAD>Balde x {0}<size=18></color> foi adicionado ao seu inventário de forja!",

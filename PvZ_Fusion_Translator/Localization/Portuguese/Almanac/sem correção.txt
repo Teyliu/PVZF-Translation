@@ -1,0 +1,15 @@
+sem correção
+		{
+			"cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Soprogumelo</color></size>",
+			"info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Gasogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Gasogumelo no lugar do Soprogumelo e gera Soprogumelos em intervalos iguais à frente (diminuindo a cada quadrado). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
+			"introduce": "<align=left><size=36><color=black></color></size></align>",
+			"name": "<size=20>Enxame de Dispersão do Gasogumelo",
+			"seedType": 1396.0
+		},
+		{
+			"cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Medogumelo + Soprogumelo</color></size>",
+			"info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Medogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Medogumelo no lugar do Soprogumelo e gera Soprogumelos da forma mais uniforme possível nos quadrados adjacentes à frente, acima e abaixo (com prioridade para a frente). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
+			"introduce": "<align=left><size=36><color=black></color></size></align>",
+			"name": "<size=20>Enxame de Dispersão do Medogumelo",
+			"seedType": 1397.0
+		},
