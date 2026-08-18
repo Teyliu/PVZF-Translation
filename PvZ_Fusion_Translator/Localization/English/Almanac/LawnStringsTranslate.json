@@ -1383,7 +1383,7 @@
             "seedType": 5002,
             "name": "Ender Pumpkin Chest",
             "introduce": "<align=left><size=36><color=black>\"WARNING: Do NOT place an Ender Pumpkin Chest inside of another Ender Pumpkin Chest. Doing so could lead to unexpected recursive paradoxes or chaotic space-time anomalies.\"\nThat is what every Ender Pumpkin Chest always says. In reality, they just don't want to deal with the resulting nausea.</color>",
-            "info": "<size=36>Automatically stores nearby cards and shares storage across any location.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush, damage received is capped at 1000 per hit.\n<color=black>•</color> Retains all features of Pumpkin Chest. Automatically stores plant cards within a 3.7-tile radius, gaining 1000 shield HP upon each storage and losing 1000 shield upon retrieval.\n<color=black>•</color> All Ender Pumpkin Chests share a single, independent storage space that can be accessed from each other.\n<color=black>•</color> Spawns with a random Odyssey plant inside of it while playing Gacha modes.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Ender Pumpkin Chest: Can store metal objects dropped and uses them to heal Giga Mecha-nuts; prioritizing the one with the lowest HP first\n2. Ender Pumpkin Chest: The stack limit for each individual slot is now doubled for all Pumpkin Chests</color>",
+            "info": "<size=36>Automatically stores nearby cards and shares storage across any location.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush, damage received is capped at 1000 per hit.\n<color=black>•</color> Retains all features of Pumpkin Chest. Automatically stores plant cards within a 3.7-tile radius, gaining 1000 shield HP upon each storage and losing 1000 shield upon retrieval.\n<color=black>•</color> All Ender Pumpkin Chests share a single, independent storage space that can be accessed from each other.\n<color=black>•</color> Gains the ability to transform regular Pumpkins on its tile into Ender Pumpkins after obtaining both its Modifiers.\n<color=black>•</color> Spawns with a random Odyssey plant inside of it while playing Gacha modes.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Ender Pumpkin Chest: Can store metal objects dropped and uses them to heal Giga Mecha-nuts; prioritizing the one with the lowest HP first\n2. Ender Pumpkin Chest: The stack limit for each individual slot is now doubled for all Pumpkin Chests | Ender Pumpkin: Main ability enabled</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pumpkin Chest + Chrono-nut</color>"
         },
         {
@@ -3182,7 +3182,7 @@
             "seedType": 1254,
             "name": "Atlantis Ballista",
             "introduce": "<align=left><size=36><color=black>Atlantis Ballista once served proudly atop the castle walls, convinced his power was like a roaring tsunami. Turns out, everyone was just talking about the screech his strings made when reloading. Embarrassed but undeterred, he found salvation in aloe juice. Now his bolts are smoother, deadlier, and most importantly, much quieter.</color>",
-            "info": "<size=36>Targets struck by Atlantis Ballista become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by any cryo-system attack. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
+            "info": "<size=36>Targets struck by Atlantis Ballista become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by any cryo system attack. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua > Spruce Ballista</color>"
         },
         {
@@ -4449,14 +4449,14 @@
             "seedType": 1435,
             "name": "Three-pumpkin",
             "introduce": "<align=left><size=36><color=black>One of Three-pumpkin's faces enjoys comedy, another prefers horror movies, while the last face dislikes both. However, they never fight over the remote: their three faces point in different directions, so they cannot even see the same television.</color>",
-            "info": "<size=36>Three-pumpkin creates peas whenever nearby zombies are hit, further damaging them.\n\n<color=black>Attack Range: </color><color=#8B0000>Own lane and 2 adjacent lanes</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When a zombie in range takes damage, creates a pea at the damaged zombie's location (limited to once every 0.02s). This projectile cannot target flying units, and dealing damage with this projectile will not trigger this effect.\n<color=black>•</color> Projectile damage equals 20% of the damage taken. If the damage source is a Threepeater-type plant, damage is ×4.</color>",
+            "info": "<size=36>Three-pumpkin creates peas whenever nearby zombies are hit, further damaging them.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Attack Range: </color><color=#8B0000>Own lane and 2 adjacent lanes</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When a zombie in range takes damage, creates a pea at the damaged zombie's location (limited to once every 0.02s). This projectile cannot target flying units, and dealing damage with this projectile will not trigger this effect.\n<color=black>•</color> Projectile damage equals 20% of the damage taken. If the damage source is a Threepeater-type plant, damage is ×4.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Threepeater > Pumpkin</color>"
         },
         {
             "seedType": 1436,
             "name": "Cryo Pumpkin",
             "introduce": "<align=left><size=36><color=black>He has always been proud of his hairstyle, even though he merely snapped off an icicle from under a roof and placed it on his head.</color>",
-            "info": "<size=36>Cryo Pumpkin stores the power of Ice-shrooms, allowing them to be released at the right moment.\n\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts Chill to biters and adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge meter is below 3, prevents Ice-shroom effects on its tile and 1 tile in front from activating, then gains 1 charge.\n<color=black>•</color> If charge meter is more than 1, automatically consumes 1 charge to release an Ice-shroom effect every 5s. Clicking can also trigger this effect.</color>",
+            "info": "<size=36>Cryo Pumpkin stores the power of Ice-shrooms, allowing them to be released at the right moment.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts Chill to biters and adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge meter is below 3, prevents Ice-shroom effects on its tile and 1 tile in front from activating, then gains 1 charge.\n<color=black>•</color> If charge meter is more than 1, automatically consumes 1 charge to release an Ice-shroom effect every 5s. Clicking can also trigger this effect.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom > Pumpkin</color>"
         },
         {
@@ -4511,128 +4511,128 @@
         {
             "seedType": 1444,
             "name": "Ender Pumpkin",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Ender Pumpkins never have to worry about going hungry. As long as one of their companions is well fed, none of them will feel hungry. When it comes to food, there's only one thing they need to worry about: whether one of their prank-loving companions has been drinking expired milk.</color>",
+            "info": "<size=36>Ender Pumpkin automatically retrieves and plants seeds from the Ender Dimension based on samples inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Every 1s, retrieves the seed packet corresponding to the primary plant in this tile from the shared Ender Storage and plants it in another Ender Pumpkin with an empty primary position.</color>",
+            "cost": "\n<size=36>"
         },
         {
             "seedType": 1445,
             "name": "Flurry Commando",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Flurry Commando has always been troubled by one thing: he wants to look cool wearing a helmet with goggles, but even the largest helmet can't get his eyes to line up with the goggles.</color>",
+            "info": "<size=36>Flurry Commando fires a flurry of peas and fume across the entire row, energizing the kinetic force of straight-flying projectiles.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>20+(20×6)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Range is the entire row ahead.\n<color=black>•</color> While attacking, accelerates straight-flying projectiles traveling to the right and increases their damage by 1% every 0.02s.\n<color=black>•</color> Each attack has a 2% chance to trigger its Ultimate: restores HP to max, grants 1s Invincibility, multiplies its damage boost by 4, and scatters 3 peas every 0.02s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Pea-storm Commando</color>"
         },
         {
             "seedType": 1446,
             "name": "Penny-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Penny-shroom is an excellent listener. She loves talking with people, hearing gossip, listening to stories. You can read about just how much she loves listening in her book <i>A Penny for Your Thoughts</i>. Unfortunately, only the audiobook is available.</color>",
+            "info": "<size=36>Penny-shroom produces a small amount of money, then produces more after growing up.\n\n<color=black>Coin Production: </color><color=#8B0000>100→300/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Can be stacked.\n<color=black>•</color> At first, produces 100 Coins each time. Grows up 120s after being planted, increasing its production to 300 each time.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Marigold > Puff-shroom</color>"
         },
         {
             "seedType": 1447,
             "name": "Loan-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Despite being a banker, Loan-shroom has no grand ambitions. What he thinks about most each day is simply stopping by for a hot coffee made from golden coffee beans after work. That's all.</color>",
+            "info": "<size=36>Loan-shroom is a forward-thinking money producer that grows your savings in Golden Coffee Beans and withdraws them in batches when producing money.\n\n<color=black>Coin Production: </color><color=#8B0000>900/50s</color>\n<color=black>Special: </color><color=#8B0000>When producing money, withdraws stored money in batches of 1000 (Diamond) whenever possible, until the stored balance falls below 50% of the amount withdrawn.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; deposits 1250 Coins as stored balance.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Marigold</color>"
         },
         {
             "seedType": 1448,
-            "name": "X",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "name": "Terrorizer Snipea",
+            "introduce": "<align=left><size=36><color=black>Terrorizer Snipea isn't actually scared, but whenever a Zombie gets close, he always acts timid and pitiful. \"Don't tell anyone about this,\" Terrorizer Snipea whispers. For a sniper, admitting that his short-range vision is so poor that he has to re-aim is far more damaging to his professional reputation than admitting he's a coward.</color>",
+            "info": "<size=36>A snipea with a ridiculously fast attack speed.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>After each attack, reduces attack interval by 0.1s, down to a minimum of 0.5s. When scared, his attack speed is reset.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Snipea</color>"
         },
         {
             "seedType": 1449,
             "name": "Silver Hypno-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Silver Hypno-shroom has a silver tongue, a wealth of knowledge, and a radiant allure. She's nearly perfect, if only she weren't missing the vivid colors of her ordinary counterpart. As a result, she can't stand the phrase \"lose one's luster\" or anything resembling it. Eventually, even \"petrified\" and \"whitewash\" became taboo, along with words like \"plain,\" \"dim,\" and \"fade.\"</color>",
+            "info": "<size=36>Silver Hypno-shroom turns Zombies against each other and causes them to drop silver coins.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Drops 100 Coins after hypnotizing a zombie.\n<color=black>•</color> Costs 1000 Coins to be upgraded to a Golden Hypno-shroom.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Hypno-shroom + Marigold</color>"
         },
         {
             "seedType": 1450,
             "name": "Golden Hypno-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>How could Zombies who crave nothing but brains possibly be bribed with money? Is Gold Hypno-shroom really giving the Zombies nothing but cash? The Plants have been arguing about it endlessly, while Gold Hypno-shroom couldn't care less. As for the truth, it seems only Gold Hypno-shroom herself knows.</color>",
+            "info": "<size=36>Golden Hypno-shroom summons mercenaries based on the enemy lineup.\n\n<color=black>Special: </color><color=#8B0000> Drops 300 Coins after hypnotizing a zombie.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 2s; Randomly summons a hypnotized zombie based on the zombies appearing in the current round, excluding flying, Odyssey, and Boss zombies. If no eligible zombie is available, summons a hypnotized Buckethead Zombie.</color>",
+            "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins"
         },
         {
             "seedType": 1451,
             "name": "Cherry Pop",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Cherry Pops are mischievous and cheerful. They love parties and games, and whenever someone has a birthday, they jump onto the birthday cake to give the birthday boy or girl a fright. They're very confident in their own flavor and texture: definitely crispier and juicier than the cherries that normally go on cakes.</color>",
+            "info": "<size=36>Cherry Pop attaches a half-ripe cherry to zombies, which produces a stronger explosion after a delay.\n\n<color=black>Damage: </color><color=#8B0000>900 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant, can be stacked.\n<color=black>•</color> Upon contact with a non-flying Zombie or dying, attaches a half-ripe cherry with base damage equal to its own attack power to a random Zombie within 1.5 tiles, then deals Cherry explosion damage in a 1.5-tile radius (same effect as Cherry Bomb explosion).</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Cherry Bomb > Puff-shroom</color>"
         },
         {
             "seedType": 1452,
             "name": "Hungry-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Hungry-shroom is very concerned about her oral hygiene because she's afraid she'll be tormented by her own bad breath whenever she hides. She's also been agonizing over one question: when cleaning her head, should she use shampoo or mouthwash?</color>",
+            "info": "<size=36>When scared, Hungry-shroom swallows nearby Zombies and spits out chunks of corpses to attack once the threat has passed.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When scared, swallows up to 3 Zombies within a 3×3 area. This effect then enters a 40s CD, during which it fires ground-rolling chunks of corpses with infinite pierce.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper + Scaredy-shroom</color>"
         },
         {
             "seedType": 1453,
             "name": "Bush-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>\"This is the hottest hairstyle around. Not only does it bring out my handsome, dignified side, it's also incredibly safe—it keeps out dust, basketballs, and Zombies falling from the sky.\" Bush-shroom is more than happy to praise his new hairstyle. Of course, all his friends know the real reason he's so pleased: the hairstyle hides his crooked nozzle./color>",
+            "info": "<size=36>Bush-shroom absorbs the force of zombie attacks and converts it into more powerful fume.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fume deals additional damage equal to its currently stored Energy, then consumes all Energy.\n<color=black>•</color> When taking damage from anything other than knockback self-damage, gains Energy equal to 50% of the damage taken, up to 1× Toughness, then reduces that instance of damage by 90%.\n<color=black>•</color> After deflecting a projectile, gains Energy equal to the projectile's damage.\n<color=black>•</color> Umbrella knockback: Deals damage equal to its attack power once, then gains the same amount of Energy once for each zombie knocked back.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Umbrella Leaf</color>"
         },
         {
             "seedType": 1454,
             "name": "Doom Pot",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>One of Doom Pot's biggest secrets is what it's made of: what kind of flowerpot can survive an atomic explosion completely intact? \"Well, I wouldn't say completely intact.\" He chuckles. \"Special flexible material plus a heat-resistant coating. Works pretty well, don't you think?\"</color>",
+            "info": "<size=36>Doom Pot sacrifices its own health to prevent craters from appearing.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can lose 75 max HP, then lose HP equal to 20% of its max HP, to prevent a crater from forming on its tile.\n<color=black>•</color> While present, reduces crater recovery time to 90s. Craters heal the Doom Pot with the lowest HP in their lane by 2% max HP every second.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom > Flower Pot</color>"
         },
         {
             "seedType": 1455,
             "name": "Doombrella",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Besides her regular job, Doombrella also sells noise-canceling earplugs. There's not exactly a huge market for them, but thanks to Doombrella's tireless efforts, sales of noise-canceling earplugs keep increasing every day.</color>",
+            "info": "<size=36>Doombrella unfurls her radiation-covered umbrella leaves to protect plants and fires aerial-burst shells back at zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When deflecting Bungee Zombies or projectiles, or triggering umbrella knockback, fires a projectile (this projectile has a 1s CD).\n<color=black>•</color> On hit, the projectile deals splash damage in a 1.5-tile radius. If thrown into the air, splits into one smaller projectile for each zombie in the lane that is Irradiated.\n<color=black>•</color> Umbrella knockback: Deals no damage but applies Irradiated.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom + Umbrella Leaf</color>"
         },
         {
             "seedType": 1456,
             "name": "Gulper-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Gulper-shroom sits \"lower\" on the food chain than Shark-shroom and Orca-shroom, despite having a larger mouth. Well, that's mainly because he simply lives in much deeper waters.</color>",
+            "info": "<size=36>Gulper-shroom grows larger while digesting, with his swallowing ability growing along with it.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Aquatic plant, short plant (before second growth).\n<color=black>•</color> Grows once after finishing digestion, up to 3 times. Each growth reduces digestion time by 10s and increases targeting range forward by 0.37 tiles. After final growth, he can swallow Gargantuars.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper > Sea-shroom</color>"
         },
         {
             "seedType": 1457,
-            "name": "Cold Star",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "name": "Winter Starfruit",
+            "introduce": "<align=left><size=36><color=black>Making countless stars spiral out along different trajectories doesn't sound like an easy trick. But as the creator of this magic, Winter Starfruit simply says, \"For a five-star magician, it's no big deal.\"</color>",
+            "info": "<size=36>Winter Starfruit fires icy stars that spiral outward around itself.\n\n<color=black>Damage: </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill, add 10 Cryo points and deal ×4 damage to frozen zombies.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Ice-shroom + Starfruit</color>"
         },
         {
             "seedType": 1458,
             "name": "Belch-shroom",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Belch-shroom has two mouths. The one that looks like a trash can is for eating, while the one that spits belch is for chasing away anyone who mistakes him for a trash can.</color>",
+            "info": "<size=36>Belch-shroom swallows nearby Zombies and emits more powerful smoke while digesting them.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s (Piercing)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>During digestion, damage is doubled and attacks inflict knockback.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper + Fume-shroom</color>"
         },
         {
             "seedType": 1459,
-            "name": "Y",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "name": "Nibble-shroom",
+            "introduce": "<align=left><size=36><color=black>Nibble-shrooms come from the jungle. They're fierce, hot-tempered, and have no interest in enjoying plant life or savoring the satisfaction of digestion. All they know is bite and advance. But we're not Nibble-shrooms, so who knows? Maybe biting is their idea of a good time.</color>",
+            "info": "<size=36>Nibble-shroom charges forward, consuming and swallowing prey along the way.\n\n<color=black>Damage: </color><color=#8B0000>200</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant, can be stacked.\n<color=black>•</color> Immune to freeze and crush. When a zombie is one tile ahead, starts to hop forward, becoming immune to damage during the attack. Advances approximately 0.4 tiles each hop, swallowing Imps or zombies below 1/3 HP within a small area; otherwise deals damage.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper > Puff-shroom</color>"
         },
         {
             "seedType": 1460,
             "name": "Sea Pot",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>\"I'm surrounded by moisture every day. I'm going to grow mold and mushroom on myself sooner or later!\" Sea Pot often complains like this while feeling the damp air, despite being a mushroom herself.</color>",
+            "info": "<size=36>Sea Pot draws from nearby water sources to invigorate aquatic plants on land.\n\n<color=black>Special: </color><color=#8B0000>Short plant. When there is a water tile within a 3×3 area, becomes Moist, granting aquatic plant fusions on land within the 3×3 area a 50% attack speed bonus. Odyssey plants only receive a 25% speed bonus. This bonus does not stack.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Sea-shroon > Flower Pot</color>"
         },
         {
             "seedType": 1461,
             "name": "Starlic",
-            "introduce": "<align=left><size=36><color=black>\"Magic hat? Check! Anti-frost goggles? Check! Toothbrush and an arm to hold it? Umm... Clean teeth? Check!\" Even amidst the tense preparations for battle, Cryomancer Pea still finds a way to be happy and remain chill in every situation.</color>",
-            "info": "<size=36>Fires polar ice peas that can ricochet between zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires polar ice peas that can ricochet up to 4 times towards nearby zombies after first hitting a zombie.\n<color=blue>Odyssey Upgrade: </color> Obtaining the <color=#2B2B2B>\"Coldsnap Blessing I\"</color> modifier will upgrade Cryomancer Pea to its Odyssey variant, SP Cryomancer Pea.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Coldsnap Bean + Snow Pea</color>"
+            "introduce": "<align=left><size=36><color=black>Starlic does three things every day: stays up all night playing video games, bathes in garlic juice, and replaces all three meals with garlic-flavored milk tea loaded with triple sugar. His neighbors gave up trying to convince him to keep a regular schedule long ago, and hardly anyone wants to talk to the guy who smells like garlic all over. But he's happy, and that's all that matters to him.</color>",
+            "info": "<size=36>Starlic fires poisonous stars.\n\n<color=black>Damage: </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Poison stars gain a damage bonus of (5× the target's current Poison point), then inflict 1 Poison point onto the target after dealing damage.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Starfruit + Garlic</color>"
         },
         {
             "seedType": 3000,
