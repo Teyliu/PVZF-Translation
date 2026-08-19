@@ -478,5 +478,6 @@
   "BUFF_NAME_FORMAT": "<align=center><color=#700000>[{0}]</color></align>\n<align=left>{1}",
   "翻页\\((\\d+)/(\\d+)\\)": "Page {0}/{1} (click to turn)",
   "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nThis Round: {2}/{3}\n{4}",
-  "^旅行冒险 ([^\\s:]+)": "Odyssey Adventure: {0}"
+  "^旅行冒险 ([^\\s:]+)": "Odyssey Adventure: {0}",
+  "^速度x ([^\\s:]+)": "Game Speed: ×{0}"
 }
