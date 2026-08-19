@@ -3329,7 +3329,7 @@
             "seedType": 1275,
             "name": "Fallout Blover",
             "introduce": "<align=left><size=36><color=black>Nyan Squash just wanted a stronger fan… but not even nuclear power can seem to meet her requirements. \"This is a terrible model,\" Zomboss noted. \"All that heat and waste product? Blasted straight out.\"</color>",
-            "info": "<size=36>Fallout Blover deals ticks of damage to all zombies on the field for a limited time, even more if the zombie is Irradiated..\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Lasts for 10s before disappearing.\n<color=black>•</color> Every second, deals 180 Cremator damage to all zombies on the lawn. Can target air. Damage is doubled against zombies with the Irradiated debuff.</color>",
+            "info": "<size=36>Fallout Blover deals ticks of damage to all zombies on the field for a limited time, even more if the zombie is Irradiated..\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Lasts for 10s before disappearing.\n<color=black>•</color> Every second, deals 180 Cremator damage to all zombies on the lawn. Can target air.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Blover + Doom-shroom</color>"
         },
         {
@@ -4538,8 +4538,8 @@
         },
         {
             "seedType": 1448,
-            "name": "Terrorizer Snipea",
-            "introduce": "<align=left><size=36><color=black>Terrorizer Snipea isn't actually scared, but whenever a Zombie gets close, he always acts timid and pitiful. \"Don't tell anyone about this,\" Terrorizer Snipea whispers. For a sniper, admitting that his short-range vision is so poor that he has to re-aim is far more damaging to his professional reputation than admitting he's a coward.</color>",
+            "name": "Fearmonger Snipea",
+            "introduce": "<align=left><size=36><color=black>Fearmonger Snipea isn't actually scared, but whenever a Zombie gets close, he always acts timid and pitiful. \"Don't tell anyone about this,\" Fearmonger Snipea whispers. For a sniper, admitting that his short-range vision is so poor that he has to re-aim is far more damaging to his professional reputation than admitting he's a coward.</color>",
             "info": "<size=36>A snipea with a ridiculously fast attack speed.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=black>Special: </color><color=#8B0000>After each attack, reduces attack interval by 0.1s, down to a minimum of 0.5s. When scared, his attack speed is reset.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Scaredy-shroom + Snipea</color>"
         },
