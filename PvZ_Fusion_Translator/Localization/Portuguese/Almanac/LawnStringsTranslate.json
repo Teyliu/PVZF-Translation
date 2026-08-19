@@ -478,7 +478,7 @@
     },
     {
       "cost": "<size=34>\nCusto: <color=#8B0000>200</color>\nRecarga: <color=#8B0000>7,5 segundos</color></size>",
-      "info": "<size=34>Libera gás frio ao redor que congela zumbis.\n\n<color=black>Dano: </color><color=#8B0000>5x4 | 3,8 segundos</color>\n<color=#003e9c>Sistema Cryo: </color><color=#8B0000>Cada ataque adiciona 5 Pontos Cryo.</color>\n\n<color=black>Melhoria Básica (80 sóis): </color><color=#8B0000>Velocidade de Ataque +50%</color>\n<color=black>Ramo Um (200 sóis): </color><color=#8B0000>Ataque aplica 10 de valor de congelamento</color>\n<color=black>Ramo Dois (200 sóis): </color><color=#8B0000>Duração da lentidão x2</color></size>",
+      "info": "<size=34>Libera gás frio ao redor que congela zumbis.\n\n<color=black>Dano: </color><color=#8B0000>5x4 | 3,8 segundos</color>\n<color=#003e9c>Sistema Cryo: </color><color=#8B0000>Cada ataque adiciona 5 Pontos Cryo.</color>\n\n<color=black>Melhoria Básica (80 sóis): </color><color=#8B0000>Velocidade de Ataque +50%</color>\n<color=black>Ramo Um (200 sóis): </color><color=#8B0000>Ataque aplica 10 pontos de congelamento</color>\n<color=black>Ramo Dois (200 sóis): </color><color=#8B0000>Duração da lentidão x2</color></size>",
       "introduce": "<size=34><color=black>Sonhando com uma carreira como físico, Geadagumelo dedica seus dias a desvendar as complexidades do mundo, evitando o contato com outras plantas. \"Por que tenho várias cordas de cones de gelo brotando da minha cabeça?\" ele reflete, a última questão que ocupa seus pensamentos. Ele é estranhamente insistente em chamá-las de \"cordas.\"</color></size>",
       "name": "<size=20>Geadagumelo [TZ]",
       "seedType": 355
@@ -666,7 +666,7 @@
       "seedType": 915
     },
     {
-      "cost": "<size=34>\n<color=black>Formula da Fusão: </color><color=#8B0000>Guarda-Chuva Diamante + Couve Guarda-Chuva</color></size>",
+      "cost": "<size=34>\n<color=black>Fórmula da Fusão: </color><color=#8B0000>Guarda-Chuva Diamante + Couve Guarda-Chuva</color></size>",
       "info": "<size=34>O guarda-chuva mais visionário visto.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=#780072>Característica(s): </color><color=#8B0000>Semelhante ao Diamante Guarda-Chuva e faz projéteis atingirem zumbis nas fileiras adjacentes. Você pode alternar para Rubi com Melancipultas. O Ataque Especial mata zumbis com menos de 50% de vida.</color></size>",
       "introduce": "<size=34><color=black>Dizem que o Guarda-chuva Esmeralda tem um talento especial para os negócios. Ela já fez negócios em diversos lugares ao redor do mundo, até em lugares inesperados. \"Sim, meu Chapéu de Esmeralda foi um item especial e raro que adquiri com um ávido negociador narigudo em lugar bem distante onde tudo era quadrado\", diz o Guarda-chuva Esmeralda.</color></size>",
       "name": "<size=36>Guarda-Chuva Esmeralda</size>",
@@ -715,7 +715,7 @@
       "seedType": 922
     },
     {
-      "cost": "<size=34>\n\n<color=black>Formula da Fusão: </color><color=#8B0000>. Guarda-Chuva Esmeralda  + Melancipulta</color></size>",
+      "cost": "<size=34>\n\n<color=black>Fórmula da Fusão: </color><color=#8B0000>. Guarda-Chuva Esmeralda  + Melancipulta</color></size>",
       "info": "<size=34>Reflete projéteis de zumbis.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=#780072>Especial : </color><color=#8B0000>Uma variante do Esmeralda Guarda-Chuva. Você pode alternar para Rubi com Melancipultas. Ele perde a habilidade de melhorar projéteis arremessados, mas ganha 90% de Redução de Dano e pode refletir projéteis de zumbis.</color></size>",
       "introduce": "<size=34><color=black>Muitos questionam a relação entre Esmeralda e o Guarda-Chuva Rubi. 'Somos irmãos!' declara o Guarda-Chuva Rubi com confiança, batendo em seu dossel. 'Meu querido irmão mais velho está passando por uma fase difícil emocionalmente.'</color></size>",
       "name": "<size=20>Guarda-Chuva Rubi ",
@@ -1340,7 +1340,7 @@
     {
       "cost": "<size=34>\n\n<color=black>Fusão: </color><color=#8B0000>Triplervilha + Pimenta</color></size>",
       "info": "<size=34>Não pode se fundir porque está queimada.\n\n<color=black>Dano: </color><color=#8B0000>20x3 | 1,5 segundos</color>\n<color=#EE2200>Sistema Pyro: </color><color=#8B0000>Produz uma linha de chamas que causam 1800 de dano em três linhas quando fundido.</color></size>",
-      "introduce": "<size=34><color=black>\"Por que o Pimenta sempre recebe todo o crédito?\" exclamaram as Queimadervilhas, com fumaça escapando de sua boca. \"Se eles soubessem que se fundir com Pimenta queima suas ervilhas...\" Ele se virou para a Tronco Flamejante com um olhar sério. \"Confie em mim, você não iria querer mastigar ervilhas queimadas!\"</color></size>",
+      "introduce": "<size=34><color=black>\"Por que a Pimenta sempre recebe todo o crédito?\" exclamaram as Queimadervilhas, com fumaça escapando de sua boca. \"Se eles soubessem que se fundir com Pimenta queima suas ervilhas...\" Ele se virou para a Tronco Flamejante com um olhar sério. \"Confie em mim, você não iria querer mastigar ervilhas queimadas!\"</color></size>",
       "name": "<size=20>Queimadervilha",
       "seedType": 1058
     },
@@ -3173,7 +3173,7 @@
     },
     {
       "cost": "\n<size=34><color=black>Fórmula da Fusão: </color><color=#8B0000>Girassol + Carambola</color></size>",
-      "info": "<size=34>Gasta sol para disparar estrelas de alto dano.\n\n<color=black>Dano: </color><color=#8B0000>100×5</color>\n<color=#780072>Característica(s):\n</color><color=#8B0000>- Cada ataque consome 25 de sóis.\n- Não busca inimigos sozinho, é preciso clicar nele manualmente para ele atacar.\n<color=#4400FF>Parceria: </color>Se estiver dentro de uma Carambóbora, ele atacará automaticamente a cada 0,35 segundos.</color>\n<color=black>Fórmula da fusão: </color><color=#8B0000>Carambola + Girassol</color></size>",
+      "info": "<size=34>Gasta sol para disparar estrelas de alto dano.\n\n<color=black>Dano: </color><color=#8B0000>100×5</color>\n<color=#780072>Característica(s):\n</color><color=#8B0000>- Cada ataque consome 25 de sóis.\n- Não busca inimigos sozinho, é preciso clicar nele manualmente para ele atacar.\n<color=#4400FF>Parceria: </color>Se estiver dentro de uma Carambóbora, ele atacará automaticamente a cada 0,35 segundos.</color>\n<color=black>Fórmula da Fusão: </color><color=#8B0000>Carambola + Girassol</color></size>",
       "introduce": "<size=34><color=black>\"Eu sou o Fruto Estrela, não a Carambola! Não me confundam com ela!\" O Fruto Estrela sempre se esforça para explicar aos outros que ele é diferente da Carambola, mas seus amigos desatentos não ligam para esses detalhes. Os únicos que o apoiam são os zumbis, porque o Estrelar é mais difícil de mastigar do que a Carambola.</color></size>",
       "name": "<size=20>Estrelar",
       "seedType": 1307
@@ -3361,7 +3361,7 @@
       "seedType": 964
     },
     {
-      "cost": "\n<size=36>Fórmula da Conversão: <color=#8B0000>Cerejas-Bomba <-> Esmagadora</color></size>",
+      "cost": "\n<size=36>Fórmula da Conversão: <color=#8B0000>Cerejas-Bomba <-> Esmagador</color></size>",
       "info": "<size=36>Carrega o imenso poder da contração do universo, mas enquanto fica em espera, esse potencial se dissipa gradualmente até zerar.\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável com o modificador das Cerejas-Atômicas</color>\n<color=black>Dano: </color><color=#8B0000>3600 (Esmagadora)</color>\n<color=black>Alcance de detecção: </color><color=#8B0000>2 espaços à esquerda; 3 espaços à direita</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie das Cerejas-Atômicas.\n<color=black>•</color> Ao aterrissar, ativa uma explosão de Ruínagumelo causando 3600 de dano, deixando a cratera no ponto de salto. Em seguida, libera um anel com 36 fragmentos nucleares, cada um causando o mesmo dano, e cria uma Zona de Radiação que dura [7 - 0,25 × (tempo do Atomizador no gramado)] segundos, até um mínimo de 0s.</color>\n<color=black>Modificadores do Modo Odisseia:</color>\n<color=#8B0000>1. Duração inicial da Zona de Radiação aumentada de 7s para 10s.\n2. Ervilhas Radioativas, Cerejas Explosivas, Esmagadoras Explosivas (Projétil), Estrelas Explosivas ou projéteis Radioativos têm 1% de chance de se transformarem em Fragmentos Nucleares ao atingir zumbis | Desbloqueia a Subespécie Atomizador.</color></size>",
       "introduce": "<align=justified><size=36><color=black>O Atomizador vive com aquela cara fechada, encarando tudo pela frente como se estivesse sempre de mau humor — até enquanto come ou dorme. Apesar de deixar os aliados meio desconfortáveis, perto daquelas duas cerejas barulhentas, ele até que é bem gente boa.</color></size></align>",
       "name": "<size=20>Atomizador",
@@ -3543,14 +3543,14 @@
       "seedType": 1338
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Cogumelo Marinho > Mina de Batata</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Cogumelo Marinho + Mina de Batata</color></size>",
       "info": "<size=36>Pode evoluir duas vezes.\n\n<color=black>Dano: </color><color=#8B0000>900 (Inicial)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa (desvia de projéteis de tiro reto).\n<color=black>•</color> Começa armada. Cresce 30s após surgir, dobrando o dano.\n<color=black>•</color> Após mais 30s, cresce novamente e aumenta o raio da explosão para 1,5 espaço atravessando faixas.</color></size>",
       "introduce": "<align=justified><size=36><color=black>Após permanecer escondida por muito tempo, a Mina Terrestre absorveu energia suficiente da luz solar e da umidade, alcançando um poder comparável ao de uma Cereja Explosiva. \"Batabum!\" ele gritou, mas os zumbis apenas se assustaram.</color></size></align>",
       "name": "<size=20>Batatamina Fúngica",
       "seedType": 1339
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Mina de Batata > Cogumelo Marinho</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Mina de Batata + Cogumelo Marinho</color></size>",
       "info": "<size=36>Aquática e pode evoluir duas vezes.\n\n<color=black>Dano: </color><color=#8B0000>900 (Inicial)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa (desvia de projéteis de tiro reto).\n<color=black>•</color> Começa armada. Cresce 30s após surgir, dobrando o dano.\n<color=black>•</color> Após mais 30s, cresce novamente e aumenta o raio da explosão para 1,5 espaço atravessando faixas.</color></size>",
       "introduce": "<align=justified><size=36><color=black>No momento em que entra na piscina, a Mina Marinha absorve água como um pequeno bebê aquático, convencida de que isso ampliará enormemente seu poder explosivo. Embora isso realmente aconteça, ela ainda não entende como funciona — assim como não entende por que a piscina nunca fica completamente cheia de zumbis mortos.</color></size></align>",
       "name": "<size=20>Batatamina Aquática",
@@ -3627,7 +3627,7 @@
       "seedType": 1350
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Girassol + Esmagadora</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Girassol + Esmagador</color></size>",
       "info": "<size=36>Consome Sol para permanecer no campo após esmagar.\n\n<color=black>Dano: </color><color=#8B0000>1800 (Esmagamento)</color>\n<color=black>Alcance de Detecção: </color><color=#8B0000>0,5 espaço à esquerda; 1 espaço à direita</color>\n<color=black>Especial: </color>\n<color=#8B0000>Ao aterrissar ou morrer, consome 50 + (número de vezes que foi revivido) de Sol para permanecer no espaço de aterrissagem/ressurgir. Se isso falhar, 50 de Sol são reembolsados.</color></size>",
       "introduce": "<align=justified><size=36><color=black>A coisa favorita do Solardor é dar leves tapinhas nas pétalas da própria cabeça com sua folha e se gabar para outras Esmagadoras: \"Isso aqui é o efeito do xampu movido a Sol. Olha como meu cabelo está macio.\" Felizmente para ele, as outras Esmagadoras são todas muito sérias e nunca o provocam, então ele ainda não percebeu que está exibindo uma clássica linha de entrada de cabelo.</color></size></align>",
       "name": "<size=20>Solardor",
@@ -3641,7 +3641,7 @@
       "seedType": 1352
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Esmagadora</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Esmagador</color></size>",
       "info": "<size=36>Produz um Enterrador (Armado) que pode esmagar zumbis.\n\n<color=black>Alcance de Detecção: </color><color=#8B0000>0,5 espaço à esquerda; 1 espaço à direita</color>\n<color=black>Especial: </color>\n<color=#8B0000><color=black>•</color> Planta baixa (desvia de projéteis em linha reta).\n<color=black>•</color> Já começa armada por padrão. Gera um Enterrador (Armado) no local quando um zumbi entra no seu alcance de alvo, então se enterra no solo por 15s para se armar novamente.\n<color=black>•</color> O Enterrador tem o mesmo efeito e dano da Esmagadora, mas com um alcance de alvo maior.</color></size>",
       "introduce": "<align=justified><size=36><color=black>Você já viu Esmagadoras crescendo em vinhas, mas já viu uma brotando diretamente do chão? Não se engane — o Enterrador é apenas purê de batata moldado como uma Esmagadora. Mas não ouse rir do tamanho dele. Se ele ouvir, vai te deixar ainda menor do que ele mesmo.</color></size></align>",
       "name": "<size=20>Enterrador",
@@ -3655,7 +3655,7 @@
       "seedType": 1354
     },
     {
-      "cost": "\n<size=36>Fórmula de Fusão: <color=#8B0000>Ruínagumelo + Alho</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Alho</color></size>",
       "info": "<size=36>Faz com que os zumbis que o morderem explodam ao morrer.\n\n<color=#780072>Característica(s): </color><color=#8B0000>\n<color=black>•</color> Planta baixa (evita projéteis disparados em linha reta).\n<color=black>•</color> Aplica efeito Inflamado nos zumbis que a mordem e os amaldiçoa (<color=black>Efeito \"Amaldiçoado\"</color>). Zumbis amaldiçoados explodem ao morrer em um raio de 1,5 espaço, causando 300 de dano.\n<color=black>•</color> Aplica efeito Veneno e 1 ponto de Veneno nos zumbis que a mordem.\n<color=black>•</color> Quando os efeitos \"Inflamado\" e \"Veneno\" estão ativos simultaneamente em um zumbi, a duração do Veneno se torna infinita.</color></size>",
       "introduce": "<align=justified><size=36><color=black>Em um Campeonato de Comer Alho Zumbi, o Alho do Apocalipse foi servido como prato final. O resultado: três dos dez competidores desistiram, cinco foram levados às pressas para o hospital, e os dois restantes explodiram no local. Sem mais competidores, o próprio Alho do Apocalipse foi declarado campeão do evento daquele ano.</color></size></align>",
       "name": "<size=20>Alho Negro",
@@ -3683,7 +3683,7 @@
       "seedType": 1802
     },
     {
-      "cost": "\n<size=36>Fórmula de Fusão: <color=#8B0000>Snipervilha + Ruínatralhadora</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Snipervilha + Ruínatralhadora</color></size>",
       "info": "<size=36>Seus disparos criam explosões do Juízo Final!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia</color>\n<color=black>Especial: </color>\n<color=#8B0000><color=black>•</color> Libera uma explosão do Ruínagumelo na posição do alvo a cada 8s.\n<color=black>•</color> Realiza tiros na cabeça a cada 2 ataques.\n<color=black>Modificadores do Modo Odisseia:\n</color><color=#8B0000>1. (1º Modificador da Ruínatralhadora) Intervalo de ataque → 4s.\n2. (2º Modificador da Ruínatralhadora) Agora todos os disparos atingem a cabeça do alvo.</color></size>",
       "introduce": "<align=justified><size=36><color=black>Ele é o guardião da noite, o caçador nas sombras. O luar é seu véu, e o céu noturno, seu disfarce. Sou grato ao destino por me conceder este poder capaz de abalar o mundo — junto com as provações que ele traz e os fardos que acrescenta.</color></size></align>",
       "name": "<size=20>Snipervilha do Juízo Final",
@@ -3711,7 +3711,7 @@
       "seedType": 223
     },
     {
-      "cost": "\n<size=36>Fórmula de Fusão: <color=#8B0000>Ruínagumelo > Ruínatralhadora</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Ruínatralhadora</color></size>",
       "info": "<size=36>Dispara projéteis de brasa que causam efeitos adicionais com base nos debuffs de status.\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueado automaticamente após obter os 2 modificadores da Ruínatralhadora</color>\n<color=black>Dano: </color><color=#8B0000>300×4 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Promoção da Ruínatralhadora, herdando suas outras características.\n<color=black>•</color> Dispara projéteis de brasa que ignoram armadura Tipo 2 em rajadas de 4 e aplicam o debuff de Brasa. Dispara um Projétil Supremo de Brasa que causa 1800 de dano a cada 4 rajadas de tiros e depois entra em descanso por 4,5s após ser disparado. Os Projéteis Supremos de Brasa causam dano em área em uma grande região duas vezes.\n<color=black>•</color> Dependendo dos debuffs do alvo, ganha os seguintes efeitos:\n- Resfriado: Congela o alvo por 1s e multiplica o dano deste acerto por 4.\n- Inflamado: Dispara uma explosão Inflamada causando o mesmo dano deste acerto.\n- Envenenado: Causa dano adicional igual a (dano do acerto × 0,5 × [valor do Veneno]).\n<color=black>•</color> Apenas a segunda explosão do Projétil Supremo de Brasa ativa os efeitos acima. Veja a entrada da Ruína Flamejante para interações adicionais entre Brasa e outros debuffs.</color>\n<color=black>Modificadores do Modo Odisseia:\n</color><color=#8B0000>1. Não há mais tempo de descanso após disparar um Projétil Supremo da Ruína | Desbloqueia a Subespécie Belicogumelo Absoluto (Épica) | Efeitos também se aplicam às variantes (Épica).\n2. Agora dispara um Projétil Supremo da Ruína a cada rodada em vez de a cada 4 rodadas | Efeitos também se aplicam às variantes (Épica).</color></size>",
       "introduce": "<align=justified><size=36><color=black>Silêncio. Um silêncio profundo e frio. As cinzas do que antes florescia crepitam suavemente. Nada resta; apenas brasas sem vida até onde a vista alcança. Uma leve brisa percorre o campo estéril. Esta terra está queimada agora. Este é o fim.</color></size></align>",
       "name": "<size=20>Ruínatralhadora Absoluta (Épica)",
@@ -3781,7 +3781,7 @@
       "seedType": 1359
     },
     {
-      "cost": "<size=36>Fórmula de Fusão: <color=#8B0000>Turbinada + Milhopulta</color></size>",
+      "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Turbinada + Milhopulta</color></size>",
       "info": "<size=36>Fornece suporte aéreo de curto alcance ao lançar grãos de milho ou manteiga.\n\n<color=black>Dano: </color><color=#8B0000>20×3 / 3s</color>\n<color=black>Alcance de Ataque: </color><color=#8B0000>Próprio espaço e 2 espaços adjacentes na mesma linha</color>\n<color=black>Especial: </color>\n<color=#8B0000>Planta voadora. Tem 25% de chance de lançar manteiga, causando 40 de dano.</color></size>",
       "introduce": "<align=justified><size=36><color=black>O Milho Aéreo se inscreveu no Show de Talentos do Jardim esperando interpretar um OVNI no palco, mas não passou na seleção. Ele simplesmente continuava jogando milho e manteiga por toda parte, gerando forte oposição da equipe de palco e até fazendo o diretor que o apoiava levar uma bela queda.</color></size></align>",
       "name": "<size=20>Milho Aéreo",
@@ -3802,8 +3802,8 @@
       "seedType": 1362
     },
     {
-      "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Esmagadora + Milhopulta</color></size>",
-      "info": "<size=36>Os projéteis lançados esmagam zumbis como a Esmagadora, com chance de passar manteiga nos que forem atingidos.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s (Esmagamento)</color>\n<color=black>Especial: </color>\n<color=#8B0000>Os projéteis causam dano em área de esmagamento ao atingir o chão. Tem 25% de chance de lançar uma Abóbora com Manteiga, causando 60 de dano e aplicando 4s de atordoamento de manteiga em até 3 alvos atingidos.</color></size>",
+      "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Milhopulta</color></size>",
+      "info": "<size=36>Os projéteis lançados esmagam zumbis como o Esmagador, com chance de passar manteiga nos que forem atingidos.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s (Esmagamento)</color>\n<color=black>Especial: </color>\n<color=#8B0000>Os projéteis causam dano em área de esmagamento ao atingir o chão. Tem 25% de chance de lançar uma Abóbora com Manteiga, causando 60 de dano e aplicando 4s de atordoamento de manteiga em até 3 alvos atingidos.</color></size>",
       "introduce": "<align=justified><size=36><color=black>O Esmanteiga-pulta nunca foi bom em biologia. Ele sempre acreditou que a ideia de \"dominância apical\" está errada, mas aprendeu a guardar essa opinião para si — não por vergonha de suas notas, mas porque não quer que percebam que ele é um milho com a ponta pouco desenvolvida.</color></size></align>",
       "name": "<size=20>Esmanteiga-pulta",
       "seedType": 1363
@@ -3823,7 +3823,7 @@
       "seedType": 1365
     },
     {
-      "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Esmagadora</color></size>",
+      "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Esmagador</color></size>",
       "info": "<size=36>Explode em uma tempestade de ervilhas ao cair.\n\n<color=black>Dano: </color><color=#8B0000>1800 (Esmagamento)</color>\n<color=black>Alcance de Detecção: </color><color=#8B0000>0,5 espaço à esquerda; 1 espaço à direita</color>\n<color=black>Especial: </color>\n<color=#8B0000>Ao atingir o chão, libera 3 anéis de projéteis de ervilha (108 ervilhas no total).</color></size>",
       "introduce": "<align=justified><size=36><color=black>\"Será que eu devo pular e esmagar zumbis, ou simplesmente ser um atirador de respeito?\" Essa pergunta perseguiu o Ervilhador durante toda a sua adolescência. No fim, ele escolheu o estilo de vida mais tradicional da Esmagadora, mas toda vez que atinge o chão, aquelas pequenas protuberâncias verdes em seu corpo disparam ervilhas por reflexo.</color></size></align>",
       "name": "<size=20>Ervilhador",
@@ -3851,7 +3851,7 @@
       "seedType": 1369
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagadora + Soprogumelo</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Soprogumelo</color></size>",
       "info": "<size=36>Pequenas abóboras cheias de energia que pulam por aí e esmagam inimigos.\n\n<color=black>Dano: </color><color=#8B0000>300 (Esmagamento)</color>\n<color=black>Alcance de Detecção: </color><color=#8B0000>2 espaços à esquerda e à direita</color>\n<color=black>Especial: </color>\n<color=#8B0000><color=black>•</color> Esmaga uma vez a cada 1s e não desaparece após esmagar; quando não está atacando, volta pulando para seu espaço original.\n<color=black>•</color> Fica vulnerável a ataques de zumbis por 0,6s após cada esmagamento.\n<color=black>•</color> Imune a esmagamento. Ao ser esmagada, recebe 500 de dano a cada 0,02s. Ao esmagar, recebe dano equivalente ao que um zumbi hipnotizado sofreria ao ser esmagado.</color></size>",
       "introduce": "<align=justified><size=36><color=black>São só três criancinhas pedindo doce. Nada demais… até você dizer não. Aí, bom… digamos que elas sabem muito bem como botar \"pressão\".</color></size></align>",
       "name": "<size=20>Esmagadorzinha",
@@ -3879,7 +3879,7 @@
       "seedType": 1373
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagadora + Turbinada</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Turbinada</color></size>",
       "info": "<size=36>Esmaga repetidamente os zumbis abaixo dele.\n\n<color=black>Dano: </color><color=#8B0000>100 / 1,35s (Esmagamento)</color>\n<color=black>Alcance de Detecção: </color><color=#8B0000>Espaço atual</color>\n<color=black>Especial: </color>\n<color=#8B0000>Planta voadora. Quando há um zumbi no alcance, esmaga repetidamente o zumbi abaixo.</color></size>",
       "introduce": "<align=justified><size=36><color=black>Ao aproveitar a energia potencial gravitacional, as Aero-Esmagadoras conseguem desferir impactos devastadores com facilidade — o que faz aquele preparo exagerado antes do ataque parecer desnecessário. \"Nada disso\", explica o Aeroesmagador. \"Eu só estou espantando as joaninhas que ficam nas minhas folhas, pra não acabar esmagando elas sem querer.\"</color></size></align>",
       "name": "<size=20>Aeroesmagador",
@@ -3929,14 +3929,14 @@
     },
     {
       "cost": "<size=34>\n\n<color=black>Condição: </color><color=#8B0000>Usar no Modo Colheita</color></size>",
-      "info": "<size=36>Gera sol ao ser ferido. Pode gastar sol para se curar e invocar uma Noz-Solar Gigante à frente.\n\n<color=#4A2900>Condição de uso: Modo Colheita</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao ser ferido, anula o golpe, recebe 50 de dano fixo e solta 15 de sol.\n<color=black>•</color> Clique para gastar 500 de sol, restaurar 100% da resistência e criar uma Noz-Solar Gigante na célula à frente.</color></size>",
+      "info": "<size=36>Gera sol ao ser ferido. Pode gastar sol para se curar e invocar uma Noz-Solar Gigante à frente.\n\n<color=#4A2900>Condição de uso: Modo Colheita</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao ser ferido, anula o golpe, recebe 50 de dano fixo e solta 15 de sol.\n<color=black>•</color> Clique para gastar 500 de sol, restaurar 100% da resistência e criar uma Noz-Solar Gigante no quadrado à frente.</color></size>",
       "introduce": "<align=left><size=36><color=black>\"Como será o jardim do futuro?\" Para descobrir, o Imperador-Sol do passado construiu um dispositivo temporal movido a luz e viajou até o presente. Ele planejava dar uma olhada rápida e voltar, mas depois de ver versões de si mesmo destruindo um laboratório, habitando o corpo de um zumbi e até faltando a uma festa de sorvete na praia, decidiu ficar um tempo e colocar as coisas nos eixos.</color></size></align>",
       "name": "<size=20>Imperador-Sol-Primordial",
       "seedType": 307
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Rojão Flamejante + Pimenta Cereja</color></size>",
-      "info": "<size=36>Cospe fogo intenso, invoca dragões e, em meio à festa, explode os zumbis para longe.\n\n<color=#4A2900>Condição de uso: Modo Viagem</color>\n<color=black>Dano: </color><color=#8B0000>200</color>\n<color=black>Alcance: </color><color=#8B0000>5 células à frente</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 4s, cospe fogo cobrindo um alcance de 5 células, causando dano de fogo a cada 0,02s a todos os zumbis que acerta (incluindo inimigos aéreos) e provocando empurrão e uma pequena explosão de cereja a cada 0,2s.\n<color=black>•</color> Ao terminar o sopro, o Dragão de Bambu Flamejante invoca um mini bambu voador que empurra os zumbis e provoca uma pequena explosão de cereja em cada zumbi que toca, a cada 0,02s. Pode atacar inimigos aéreos.\n<color=black>Atributos do Modo Viagem:</color>\n1. Frequência de explosão ×2.\n2. Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu Flamejante aumenta em 1% o dano do próximo acerto deste mesmo ataque, acumulando até 400%.</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Rojão Flamejante + Pimenta Cereja</color></size>",
+      "info": "<size=36>Cospe fogo intenso, invoca dragões e, em meio à festa, explode os zumbis para longe.\n\n<color=#4A2900>Condição de uso: Modo Viagem</color>\n<color=black>Dano: </color><color=#8B0000>200</color>\n<color=black>Alcance: </color><color=#8B0000>5 quadrados à frente</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 4s, cospe fogo cobrindo um alcance de 5 quadrados, causando dano de fogo a cada 0,02s a todos os zumbis que acerta (incluindo inimigos aéreos) e provocando empurrão e uma pequena explosão de cereja a cada 0,2s.\n<color=black>•</color> Ao terminar o sopro, o Dragão de Bambu Flamejante invoca um mini bambu voador que empurra os zumbis e provoca uma pequena explosão de cereja em cada zumbi que toca, a cada 0,02s. Pode atacar inimigos aéreos.\n<color=black>Atributos do Modo Viagem:</color>\n1. Frequência de explosão ×2.\n2. Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu Flamejante aumenta em 1% o dano do próximo acerto deste mesmo ataque, acumulando até 400%.</color></size>",
       "introduce": "<align=left><size=36><color=black>Entre o estourar dos rojões, o ano velho vai embora, e a brisa morna de primavera traz vida nova. O Ano Novo é a época mais feliz de todas as plantas. O único contratempo aconteceu com o Dragão de Bambu Flamejante: ao soltar os rojões, ele acabou, sem querer, ateando fogo no palco do Girassol, que estava cantando \"Felicidades e Prosperidade\".</color></size></align>",
       "name": "<size=20>Dragão de Bambu Flamejante",
       "seedType": 979
@@ -3950,34 +3950,34 @@
     },
     {
       "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Melãopulta <-> Ruínagumelo</color></size>",
-      "info": "<size=36>Congela o espaço-tempo e gera correntes de partículas de gelo que apagam os inimigos sem parar. Consome Ruínagumelos para chegar ao próximo nível.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com a Melancia Deus do Gelo Suprema</color>\n<color=black>Dano: </color><color=#8B0000>3600 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie da Melancia Deus do Gelo Suprema. Não explode automaticamente.\n<color=black>•</color> Clique nele uma vez para escolher um ponto de detonação. Clique de novo para confirmar. A explosão libera o efeito do Ruínagumelo no ponto-alvo, aplica 30s de Distorção Temporal, congela temporariamente a fase (adiando a próxima onda de zumbis) e gera 5 grupos de portais verticais que duram 10s cada. Alguns efeitos escalam com o nível de energia.\n<color=black>•</color> Começa no nível de energia 1. Usar um Ruínagumelo nele aumenta o nível em 1, até 3.\n- No nível de energia 1: 1 corrente de partículas de gelo por portal, congela a fase por 1s;\n- No nível de energia 2: dano de explosão ×3, 2 correntes de partículas de gelo por portal, congela a fase por 3s;\n- No nível de energia 3: dano de explosão ×3, 5 correntes de partículas de gelo por portal, congela a fase por 10s, causa 10× o ataque ao zumbi de maior vida na célula do epicentro da detonação, devolve 1 carta de Melancia Deus do Gelo Suprema e fica extremamente instável: se não for detonado manualmente em 10s após surgir, explode no mesmo lugar.\n<color=black>•</color> As correntes de partículas de gelo causam 10 de dano a cada 0,02s aos zumbis em contato, aplicam Frio e 1s de Distorção Temporal e aumentam em 1s o tempo decorrido da Distorção Temporal. Podem atacar o ar. Ao desaparecerem com os portais, causam dano de cinzas num raio de 1,5 célula e aplicam 10s de Congelamento.\n<color=black>Atributos do Modo Viagem:</color>\n1. Agora cria só um grupo de portais, mas eles geram ×10 correntes de partículas de gelo.\n2. Zumbis imunes à Distorção Temporal ainda sofrem dano igual a (tempo decorrido)% da vida deles.</color></size>",
+      "info": "<size=36>Congela o espaço-tempo e gera correntes de partículas de gelo que apagam os inimigos sem parar. Consome Ruínagumelos para chegar ao próximo nível.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com a Melancia Deus do Gelo Suprema</color>\n<color=black>Dano: </color><color=#8B0000>3600 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie da Melancia Deus do Gelo Suprema. Não explode automaticamente.\n<color=black>•</color> Clique nele uma vez para escolher um ponto de detonação. Clique de novo para confirmar. A explosão libera o efeito do Ruínagumelo no ponto-alvo, aplica 30s de Distorção Temporal, congela temporariamente a fase (adiando a próxima onda de zumbis) e gera 5 grupos de portais verticais que duram 10s cada. Alguns efeitos escalam com o nível de energia.\n<color=black>•</color> Começa no nível de energia 1. Usar um Ruínagumelo nele aumenta o nível em 1, até 3.\n- No nível de energia 1: 1 corrente de partículas de gelo por portal, congela a fase por 1s;\n- No nível de energia 2: dano de explosão ×3, 2 correntes de partículas de gelo por portal, congela a fase por 3s;\n- No nível de energia 3: dano de explosão ×3, 5 correntes de partículas de gelo por portal, congela a fase por 10s, causa 10× o ataque ao zumbi de maior vida no quadrado do epicentro da detonação, devolve 1 carta de Melancia Deus do Gelo Suprema e fica extremamente instável: se não for detonado manualmente em 10s após surgir, explode no mesmo lugar.\n<color=black>•</color> As correntes de partículas de gelo causam 10 de dano a cada 0,02s aos zumbis em contato, aplicam Frio e 1s de Distorção Temporal e aumentam em 1s o tempo decorrido da Distorção Temporal. Podem atacar o ar. Ao desaparecerem com os portais, causam dano de cinzas num raio de 1,5 quadrado e aplicam 10s de Congelamento.\n<color=black>Atributos do Modo Viagem:</color>\n1. Agora cria só um grupo de portais, mas eles geram ×10 correntes de partículas de gelo.\n2. Zumbis imunes à Distorção Temporal ainda sofrem dano igual a (tempo decorrido)% da vida deles.</color></size>",
       "introduce": "<align=left><size=36><color=black>O Ruínagumelo Deus do Gelo Supremo personifica à perfeição o significado de \"paradoxo\". Apesar de ser feito quase só de gelo, ele adora o verão, especialmente passear na praia e se esbaldar ao sol. Fica muito frustrado por não conseguir se bronzear.</color></size></align>",
       "name": "<size=20>Ruínagumelo Deus do Gelo Supremo",
       "seedType": 981
     },
     {
-      "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Tochalenho <-> Flor-lampião</color></size>",
-      "info": "<size=36>Fornece iluminação para uma área ampla e turbina o laser das plantas com luz e dinheiro.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o atributo do Tochalenho Magnata</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Tochalenho Magnata.\n<color=black>•</color> Fornece 3 níveis de iluminação numa área de 5×5.\n<color=black>•</color> Quando mirada por um Canhão de Laser Apocalíptico, divide o feixe à frente em três Lasers Dourados, a 0° e ±10°, que soltam 50 moedas por zumbi atingido.\n<color=black>•</color> Pode receber energia luminosa de Disparervilhas Cintilantes Supremas, até 1000. Quando uma Disparervilha Cintilante Suprema numa área de 3×3 ataca, a Tridisparflor-lampião Coletora de Moedas consome (1 + energia atual/10) de energia, e cada ponto aumenta o dano da Disparervilha Cintilante Suprema em 1%.\n<color=black>•</color> Cada nível de iluminação aumenta o dano de ambos os lasers acima em mais 0,1×.\n<color=black>Atributos do Modo Viagem:</color>\n1. +1% de dano aos lasers a cada 1000 moedas que você tiver.\n2. Subespécie Tridisparflor-lampião Coletora de Moedas desbloqueada.</color></size>",
-      "introduce": "<align=left><size=36><color=black>A Tridisparflor-lampião Coletora de Moedas pulsa com um calor ganancioso, lançando feixes dourados que fazem reluzir até as plantas mais sem graça. Sua luz brilha com generosidade, escondendo a verdadeira intenção de tomar para si todas as riquezas do mundo. Quem se demora sob seu brilho até pode sentir um quê de fortuna, mas o que de fato o espera é a desgraça.</color></size></align>",
-      "name": "<size=20>Tridisparflor-lampião Coletora de Moedas",
+      "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Tronco Flamejante <-> Planterna</color></size>",
+      "info": "<size=36>Fornece iluminação para uma área ampla e turbina o laser das plantas com luz e dinheiro.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o atributo do Tronco Flamejante Magnata</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Tronco Flamejante Magnata.\n<color=black>•</color> Fornece 3 níveis de iluminação numa área de 5×5.\n<color=black>•</color> Quando mirada por um Canhão de Laser Apocalíptico, divide o feixe à frente em três Lasers Dourados, a 0° e ±10°, que soltam 50 moedas por zumbi atingido.\n<color=black>•</color> Pode receber energia luminosa de Disparervilhas Cintilantes Supremas, até 1000. Quando uma Disparervilha Cintilante Suprema numa área de 3×3 ataca, a Triplanterna Magnata consome (1 + energia atual/10) de energia, e cada ponto aumenta o dano da Disparervilha Cintilante Suprema em 1%.\n<color=black>•</color> Cada nível de iluminação aumenta o dano de ambos os lasers acima em mais 0,1×.\n<color=black>Atributos do Modo Viagem:</color>\n1. +1% de dano aos lasers a cada 1000 moedas que você tiver.\n2. Subespécie Triplanterna Magnata desbloqueada.</color></size>",
+      "introduce": "<align=left><size=36><color=black>A Triplanterna Magnata pulsa com um calor ganancioso, lançando feixes dourados que fazem reluzir até as plantas mais sem graça. Sua luz brilha com generosidade, escondendo a verdadeira intenção de tomar para si todas as riquezas do mundo. Quem se demora sob seu brilho até pode sentir um quê de fortuna, mas o que de fato o espera é a desgraça.</color></size></align>",
+      "name": "<size=20>Triplanterna Magnata",
       "seedType": 982
     },
     {
       "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Carnívora <-> Batatamina</color></size>",
-      "info": "<size=36>Ao explodir, reencarna as plantas próximas, retalia os lançadores de maldição e invoca uma Alma de Zumbi.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o atributo do Árbitro Sombrio</color>\n<color=black>Tempo de ativação: </color><color=#8B0000>30s</color>\n<color=black>Dano: </color><color=#8B0000>1800 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Árbitro Sombrio. Planta baixa.\n<color=black>•</color> Quando ativada e então acionada, libera o efeito da Pimenta e um efeito do Ruínagumelo sem cratera, destruindo as plantas numa área de 3×3 com 50% de chance de soltar a carta da planta destruída, e gera uma Alma de Zumbi do zumbi de maior vida em sua célula. Se a planta estiver amaldiçoada, a carta cai com certeza e o lançador da maldição perde 15% da vida máxima. Não destrói Árbitros Sombrios, Batataminas Ceifadores, Lótus Rubros nem plantas Titã.\n<color=black>Atributos do Modo Viagem:</color>\n1. A queda da carta agora é garantida.\n2. Transferência de dano da Alma de Zumbi ×2 | Subespécie Batatamina Ceifador desbloqueada.</color></size>",
+      "info": "<size=36>Ao explodir, reencarna as plantas próximas, retalia os lançadores de maldição e invoca uma Alma de Zumbi.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o atributo do Árbitro Sombrio</color>\n<color=black>Tempo de ativação: </color><color=#8B0000>30s</color>\n<color=black>Dano: </color><color=#8B0000>1800 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Árbitro Sombrio. Planta baixa.\n<color=black>•</color> Quando ativada e então acionada, libera o efeito da Pimenta e um efeito do Ruínagumelo sem cratera, destruindo as plantas numa área de 3×3 com 50% de chance de soltar a carta da planta destruída, e gera uma Alma de Zumbi do zumbi de maior vida em seu quadrado. Se a planta estiver amaldiçoada, a carta cai com certeza e o lançador da maldição perde 15% da vida máxima. Não destrói Árbitros Sombrios, Batataminas Ceifadores, Lótus Rubros nem plantas Titã.\n<color=black>Atributos do Modo Viagem:</color>\n1. A queda da carta agora é garantida.\n2. Transferência de dano da Alma de Zumbi ×2 | Subespécie Batatamina Ceifador desbloqueada.</color></size>",
       "introduce": "<align=left><size=36><color=black>A Batatamina Ceifador é a fiel coveira do Árbitro, percorrendo o campo de batalha com um sorriso maligno. Nenhuma planta escapa de seu escrutínio, e as que tombam à sua sombra não simplesmente somem: são transformadas em combustível para sua magia negra de conjuração de almas e remoção de maldições. Algumas das tombadas podem renascer como ecos de vida, dando ao mundo a chance de se maravilhar com sua sombria obra de arte.</color></size></align>",
       "name": "<size=20>Batatamina Ceifador",
       "seedType": 983
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha Cintilante Retransmissora + Disparervilha Hiperespacial</color></size>",
-      "info": "<size=36>Recebe, canaliza, transfere e usa energia luminosa para aniquilar alvos no espaço-tempo.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável</color>\n<color=black>Dano: </color><color=#8B0000>40</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao seu nível de iluminação atual. Limite de armazenamento de 1000. Energia consumida em ataques ou transferências = 1 + energia atual × 10%.\n<color=black>•</color> Pode transferir energia luminosa para a Disparervilha Cintilante Suprema à frente na mesma linha, ou para a Flor-lampião Suprema ou Tridisparflor-lampião Coletora de Moedas selecionada (não adjacentes). Clicar em si mesma faz com que mire os zumbis e ataque.\n<color=black>•</color> Consome energia luminosa a cada 0,1s para transferir, fornecendo ao alvo 10% do próprio ataque em energia luminosa. Cada ponto de energia gasto dobra a quantidade fornecida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar, aumentando o dano na quantidade de energia gasta. Os ataques aplicam Distorção Temporal. Os lasers são reforçados se houver uma Flor-lampião Suprema ou Tridisparflor-lampião Coletora de Moedas transferindo energia numa área de 3×3.\n<color=black>Atributos principais do Modo Viagem:</color>\n1. Nível 1: limite de energia luminosa sobe de 1000 para 2000; Nível 2: limite de energia luminosa sobe para 10 mil.\n2. Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for menor que 1000.\n<color=black>Atributo de sinergia com a Flor-lampião Suprema:</color>\n- Você precisa ter desbloqueado todos os atributos da Disparervilha Cintilante Suprema e do Ruínagumelo Cogu antes que esta sinergia fique disponível na loja por 20 mil.\n- As Disparervilhas Cintilantes Supremas podem enviar energia para Flores-lampião Supremas em outras linhas. O limite de energia luminosa sobe para 100 mil. Acima de 10 mil de energia, entra em modo de supercarga (ataca e ganha energia luminosa extra a cada 0,02s). Ao atingir a energia máxima, colapsa num buraco negro supermassivo, suga e consome rapidamente os zumbis não-líderes e então irrompe num clarão ofuscante que causa 1 milhão de dano a todos os zumbis 100 vezes.</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha Cintilante Retransmissora + Disparervilha Hiperespacial</color></size>",
+      "info": "<size=36>Recebe, canaliza, transfere e usa energia luminosa para aniquilar alvos no espaço-tempo.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável</color>\n<color=black>Dano: </color><color=#8B0000>40</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao seu nível de iluminação atual. Limite de armazenamento de 1000. Energia consumida em ataques ou transferências = 1 + energia atual × 10%.\n<color=black>•</color> Pode transferir energia luminosa para a Disparervilha Cintilante Suprema à frente na mesma linha, ou para a Planterna Suprema ou Triplanterna Magnata selecionada (não adjacentes). Clicar em si mesma faz com que mire os zumbis e ataque.\n<color=black>•</color> Consome energia luminosa a cada 0,1s para transferir, fornecendo ao alvo 10% do próprio ataque em energia luminosa. Cada ponto de energia gasto dobra a quantidade fornecida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar, aumentando o dano na quantidade de energia gasta. Os ataques aplicam Distorção Temporal. Os lasers são reforçados se houver uma Planterna Suprema ou Triplanterna Magnata transferindo energia numa área de 3×3.\n<color=black>Atributos principais do Modo Viagem:</color>\n1. Nível 1: limite de energia luminosa sobe de 1000 para 2000; Nível 2: limite de energia luminosa sobe para 10 mil.\n2. Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for menor que 1000.\n<color=black>Atributo de sinergia com a Planterna Suprema:</color>\n- Você precisa ter desbloqueado todos os atributos da Disparervilha Cintilante Suprema e do Ruínagumelo Cogu antes que esta sinergia fique disponível na loja por 20 mil.\n- As Disparervilhas Cintilantes Supremas podem enviar energia para Flores-lampião Supremas em outras linhas. O limite de energia luminosa sobe para 100 mil. Acima de 10 mil de energia, entra em modo de supercarga (ataca e ganha energia luminosa extra a cada 0,02s). Ao atingir a energia máxima, colapsa num buraco negro supermassivo, suga e consome rapidamente os zumbis não-líderes e então irrompe num clarão ofuscante que causa 1 milhão de dano a todos os zumbis 100 vezes.</color></size>",
       "introduce": "<align=left><size=36><color=black>\"O tempo é uma coisa fascinante. Num instante eu sou o último defensor de um gramado devastado, e de repente é como se nenhuma daquelas batalhas tivesse acontecido, e lá estamos nós enfrentando o mesmo bando de zumbis com uma estratégia um pouco diferente.\" A cabeça da frente tem muitas histórias assim, mas a cabeça de trás só suspira: \"Por que sou sempre colocada atrás nessas missões...\"\n\n- Escrito por Boxpone</color></size></align>",
       "name": "<size=20>Disparervilha Cintilante Suprema",
       "seedType": 984
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Metralhervilha Azeitona + Disparervilha Cabeça-de-Balde</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Metralhervilha Azeitona + Disparervilha Cabeça-de-Balde</color></size>",
       "info": "<size=36>Dispara seis Ervilhas de Ferro por ataque, com chance de desencadear uma tempestade de aço de projéteis.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável</color>\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Dano: </color><color=#8B0000>80×6 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta de ferro. Cada ataque tem 2% de chance de acionar seu Golpe Supremo: recupera 100% da resistência e, por 5s, fica temporariamente imune a dano e atropelamento e dispara 3 Ervilhas Azeitona dispersas a cada 0,02s.\n<color=black>•</color> Os projéteis combinam os efeitos da Ervilha de Ferro e da Ervilha Azeitona (empurrão e dano bônus igual à vida da armadura de tipo 2 do alvo; ao acertar zumbis do tipo bola de futebol americano vermelha, fazem-nos virar-se e fugir).\n<color=black>Atributos do Modo Viagem:</color>\n1. Chance de acionar o Golpe Supremo de todas as Metralhervilhas Comando ×3.\n2. Dano do Golpe Supremo de todas as Metralhervilhas Comando ×2 e não dispersa mais.</color></size>",
       "introduce": "<align=left><size=36><color=black>Como vice-presidente da Liga Internacional de Futebol Americano, a Metralhervilha Azeitona Preta Suprema sempre foi conhecida pelo rigor. Toda noite ela vira a madrugada forjando munição suficiente para o dia seguinte, pronta para despejá-la em campo como demonstração de fúria contra aqueles que claramente não entendem nada de futebol americano.</color></size></align>",
       "name": "<size=20>Metralhervilha Azeitona Preta Suprema",
@@ -3992,7 +3992,7 @@
     },
     {
       "cost": "\n<size=36>Receita de evolução: <color=#8B0000>Disparervilha > Metralhervilha Soprogumelo Gélido</color></size>",
-      "info": "<size=36>Dispara estalactites perfurantes. Quanto mais frio acumulado nos zumbis, mais dano eles sofrem.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueado automaticamente após obter os 2 atributos da Metralhervilha Soprogumelo Gélido</color>\n<color=black>Dano: </color><color=#8B0000>40×4 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Forma avançada da Metralhervilha Soprogumelo Gélido; herda suas demais características.\n<color=black>•</color> Planta baixa. Os projéteis penetram até 2 vezes, aplicam Frio e infligem 5 pontos de congelamento. Causa ×4 de dano a zumbis Congelados ou imunes a Frio/Congelamento.\n<color=black>•</color> Cada 4º tiro vira uma Estalactite Glacial de penetração infinita. Contra zumbis com Frio, aplica Congelamento por 4s e causa 12× de dano; se o alvo já estiver Congelado, remove o Congelamento e causa 48× de dano.\n<color=black>Atributos principais do Modo Viagem:\n</color>1. Penetração elevada a infinita; os 5 primeiros acertos dos tiros horizontais se dividem em 2 novos projéteis a ±15°, causando (20 × número de divisões)% mais dano | os efeitos também valem para as variantes SP.\n2. Dano a zumbis Congelados e imunes a frio aumentado em 12× | os efeitos também valem para as variantes SP.\n\n<color=black>Atributo de sinergia com o Lixopulta:</color>\n- Você precisa ter desbloqueado todos os atributos da Metralhervilha Soprogumelo Gélido e do Lixopulta antes que esta sinergia fique disponível na loja por 15 mil.\n- Quando o Lixopulta e o Soprogumelo Gélido Supremo são plantados na mesma célula, os projéteis do primeiro se dividem uma vez a mais, aplicam Frio e infligem 5 pontos de congelamento; já os projéteis do segundo aplicam o Efeito Tóxico; ambos ganham as propriedades do mini alho-manteiga.</color></size>",
+      "info": "<size=36>Dispara estalactites perfurantes. Quanto mais frio acumulado nos zumbis, mais dano eles sofrem.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueado automaticamente após obter os 2 atributos da Metralhervilha Soprogumelo Gélido</color>\n<color=black>Dano: </color><color=#8B0000>40×4 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Forma avançada da Metralhervilha Soprogumelo Gélido; herda suas demais características.\n<color=black>•</color> Planta baixa. Os projéteis penetram até 2 vezes, aplicam Frio e infligem 5 pontos de congelamento. Causa ×4 de dano a zumbis Congelados ou imunes a Frio/Congelamento.\n<color=black>•</color> Cada 4º tiro vira uma Estalactite Glacial de penetração infinita. Contra zumbis com Frio, aplica Congelamento por 4s e causa 12× de dano; se o alvo já estiver Congelado, remove o Congelamento e causa 48× de dano.\n<color=black>Atributos principais do Modo Viagem:\n</color>1. Penetração elevada a infinita; os 5 primeiros acertos dos tiros horizontais se dividem em 2 novos projéteis a ±15°, causando (20 × número de divisões)% mais dano | os efeitos também valem para as variantes SP.\n2. Dano a zumbis Congelados e imunes a frio aumentado em 12× | os efeitos também valem para as variantes SP.\n\n<color=black>Atributo de sinergia com o Lixopulta:</color>\n- Você precisa ter desbloqueado todos os atributos da Metralhervilha Soprogumelo Gélido e do Lixopulta antes que esta sinergia fique disponível na loja por 15 mil.\n- Quando o Lixopulta e o Soprogumelo Gélido Supremo são plantados no mesmo quadrado, os projéteis do primeiro se dividem uma vez a mais, aplicam Frio e infligem 5 pontos de congelamento; já os projéteis do segundo aplicam o Efeito Tóxico; ambos ganham as propriedades do mini alho-manteiga.</color></size>",
       "introduce": "<align=left><size=36><color=black>Após anos de serviço militar, a unidade do Soprogumelo Gélido Supremo subiu à patente de oficial dentro de um exército imenso. \"Para a tropa, devemos parecer bem imponentes agora\", dizem eles. Na verdade, continuam tão pequeninos quanto sempre foram.</color></size></align>",
       "name": "<size=20>Soprogumelo Gélido Supremo",
       "seedType": 987
@@ -4005,7 +4005,7 @@
       "seedType": 988
     },
     {
-      "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Flor-lampião <-> Alho</color></size>",
+      "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Planterna <-> Alho</color></size>",
       "info": "<size=36>Dispara projéteis corrosivos que afetam continuamente os alvos próximos, sem que nem mesmo os buracos negros escapem.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com a Disparervilha Cintilante Suprema</color>\n<color=black>Dano: </color><color=#8B0000>40×3 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie da Disparervilha Cintilante Suprema. Dispara projéteis corrosivos teleguiados por toda a linha, com penetração infinita.\n<color=black>•</color> Os projéteis corrosivos seguem em linha reta após acertar um alvo, causando dano a cada 0,02s e aplicando 1 ponto de Veneno.\n<color=black>•</color> Se capturado por um Buraco Negro Supremo, não é absorvido, mas passa a orbitá-lo; ao detonar, aplica o Efeito Tóxico e 30 pontos de Veneno aos alvos.\n<color=black>Atributos do Modo Viagem:</color>\n1. Raio de dano do projétil +50%.\n2. Agora dispara 2 projéteis a mais por ataque.</color></size>",
       "introduce": "<align=left><size=36><color=black>\"O poder da curvatura do espaço-tempo nos torna fortes. Ele nos permite dominar a matéria escura e curvar trajetórias livremente, a ponto de orbitar um buraco negro\", diz a cabeça da frente. A de trás acrescenta: \"E graças ao dobramento do espaço, podemos ler o mesmo artigo ao mesmo tempo, ponderando juntos os mistérios do universo. Foi assim que nos tornamos um dos físicos mais eruditos do gramado.\"</color></size></align>",
       "name": "<size=20>Disparervilha Eclipse Suprema",
@@ -4013,328 +4013,327 @@
     },
     {
       "cost": "\n<size=36>Receita de conversão: <color=#8B0000>Batata de Fusão <-> Soprogumelo</color></size>",
-      "info": "<size=36>Gera um anel de obsidiana para proteger as plantas e pode gastar energia para salvá-las em momentos críticos.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o Cogu-pimenta de Obsidiana Supremo</color>\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Dano: </color><color=#8B0000>1800 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Cogu-pimenta de Obsidiana Supremo. Planta baixa, de plantio denso. Você só pode ter no máximo (número de linhas + 2) deles no gramado de uma vez.\n<color=black>•</color> Entra em campo com 0 carga de alma. Pode acumular no máximo 3 cargas. Ganha 1 carga a cada 500 zumbis que morrem de qualquer lado.\n<color=black>•</color> Possui um Anel de Obsidiana associado. Clique para atribuí-lo a outra planta como alvo de proteção; reinicia quando o alvo morre. Pode ser reatribuído infinitamente clicando de novo no Cogu-pimentinha de Obsidiana Supremo. O Anel de Obsidiana causa 1/6 do ataque em dano aos zumbis em contato (ignora redução de dano), aplica Frio e cura o alvo protegido em 10% do dano causado. Quando o alvo protegido for morrer, consome 1 carga para deixá-lo com 1 de vida e, em seguida: recupera 100% da resistência, dispara um efeito de Pimenta na posição dele (ignora redução de dano) e dispara um efeito de Gelogumelo.\n<color=black>•</color> Ao morrer, dispara um efeito de Pimenta (ignora redução de dano) e, em seguida, um efeito de Gelogumelo.\n<color=black>Atributos do Modo Viagem:</color>\n1. Limite de cargas de alma elevado a 10; agora ganha 1 carga sempre que um zumbi líder morre.\n2. Ao usar uma carga de alma, também concede 1s de invencibilidade a todas as plantas.</color></size>",
+      "info": "<size=36>Gera um anel de obsidiana para proteger as plantas e pode gastar energia para salvá-las em momentos críticos.\n\n<color=#4A2900>Condição de uso: Modo Viagem | desbloqueável com o Pimentinha de Obsidiana Supremo</color>\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Dano: </color><color=#8B0000>1800 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie do Pimentinha de Obsidiana Supremo. Planta baixa, de plantio denso. Você só pode ter no máximo (número de linhas + 2) deles no gramado de uma vez.\n<color=black>•</color> Entra em campo com 0 carga de alma. Pode acumular no máximo 3 cargas. Ganha 1 carga a cada 500 zumbis que morrem de qualquer lado.\n<color=black>•</color> Possui um Anel de Obsidiana associado. Clique para atribuí-lo a outra planta como alvo de proteção; reinicia quando o alvo morre. Pode ser reatribuído infinitamente clicando de novo no Cogu-pimentinha de Obsidiana Supremo. O Anel de Obsidiana causa 1/6 do ataque em dano aos zumbis em contato (ignora redução de dano), aplica Frio e cura o alvo protegido em 10% do dano causado. Quando o alvo protegido for morrer, consome 1 carga para deixá-lo com 1 de vida e, em seguida: recupera 100% da resistência, dispara um efeito de Pimenta na posição dele (ignora redução de dano) e dispara um efeito de Gelogumelo.\n<color=black>•</color> Ao morrer, dispara um efeito de Pimenta (ignora redução de dano) e, em seguida, um efeito de Gelogumelo.\n<color=black>Atributos do Modo Viagem:</color>\n1. Limite de cargas de alma elevado a 10; agora ganha 1 carga sempre que um zumbi líder morre.\n2. Ao usar uma carga de alma, também concede 1s de invencibilidade a todas as plantas.</color></size>",
       "introduce": "<align=left><size=36><color=black>O Cogu-pimentinha de Obsidiana Supremo encara tudo com raiva, com seu olho único. Os olhos dele ardem secos de fúria, mas o corpo de obsidiana não o deixa piscar — o que só o deixa ainda mais irritado.</color></size></align>",
       "name": "<size=20>Cogu-pimentinha de Obsidiana Supremo",
       "seedType": 990
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Esmagadora + Repolhopulta</color></size>",
-      "info": "<size=36>A Repolhopulta-Encaixotada lança versões menores de si mesma, revelando suas camadas para atacar mais zumbis.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s (esmagamento)</color>\n<color=black>Especial: </color><color=#8B0000>Arremessa uma mini Repolhopulta-Encaixotada que causa dano de esmagamento em área ao cair e então lança 2 Repolhopultas-Encaixotadas ainda menores, com 50% do dano original, antes de desaparecer. As menores lançam 2 versões ainda menores, com 25% do dano original, que desaparecem imediatamente, antes de desaparecerem também.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Robôs inteligentes são uma mão na roda! Encomendei um feito à minha exata medida, e isso disparou minha eficiência de arremesso!\", exclamou a Repolhopulta-Encaixotada, animada. \"Ah, a batalha vai começar.\" E dito isso, ela pulou para dentro de uma versão maior de si mesma. Momentos depois, ouviu a outra dizer: \"Robôs inteligentes são uma mão na roda! Encomendei um feito à minha...\"</color></size></align>",
-      "name": "<size=20>Repolhopulta-Encaixotada",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Repolhopulta</color></size>",
+      "info": "<size=36>A Repolhopulta Encaixotada lança versões menores de si mesma, revelando suas camadas para atacar mais zumbis.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s (esmagamento)</color>\n<color=black>Especial: </color><color=#8B0000>Arremessa uma mini Repolhopulta Encaixotada que causa dano de esmagamento em área ao cair e então lança 2 Repolhopultas-Encaixotadas ainda menores, com 50% do dano original, antes de desaparecer. As menores lançam 2 versões ainda menores, com 25% do dano original, que desaparecem imediatamente, antes de desaparecerem também.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Robôs inteligentes são uma mão na roda! Encomendei um feito à minha exata medida, e isso disparou minha eficiência de arremesso!\", exclamou a Repolhopulta Encaixotada, animada. \"Ah, a batalha vai começar.\" E dito isso, ela pulou para dentro de uma versão maior de si mesma. Momentos depois, ouviu a outra dizer: \"Robôs inteligentes são uma mão na roda! Encomendei um feito à minha...\"</color></size></align>",
+      "name": "<size=20>Repolhopulta Encaixotada",
       "seedType": 1378
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Soprogumelo > Alga-prendedora</color></size>",
-      "info": "<size=36>Ao tocar um zumbi, o Broto de Alga se rompe e gruda em outros zumbis para se multiplicar.\n\n<color=black>Dano: </color><color=#8B0000>20 × 30</color>\n<color=black>Especial: </color><color=#8B0000>Quando um zumbi entra em contato com o Broto de Alga, ele estoura em 30 projéteis de alga que aplicam 1 de valor de Alga antes de desaparecer. Se um zumbi for morto pelo projétil de alga, surge um Broto de Alga extra naquela célula (se possível).</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Soprogumelo + Emaranhalga</color></size>",
+      "info": "<size=36>Ao tocar um zumbi, o Broto de Alga se rompe e gruda em outros zumbis para se multiplicar.\n\n<color=black>Dano: </color><color=#8B0000>20 × 30</color>\n<color=black>Especial: </color><color=#8B0000>Quando um zumbi entra em contato com o Broto de Alga, ele estoura em 30 projéteis de alga que aplicam 1 ponto de Alga antes de desaparecer. Se um zumbi for morto pelo projétil de alga, surge um Broto de Alga extra naquele quadrado (se possível).</color></size>",
       "introduce": "<align=left><size=36><color=black>O pequeno Broto de Alga é extremamente cauteloso. Vive sozinho, procurando comida só nas águas rasas. Quando necessário, chega a se esconder embaixo dos zumbis pra fugir dos predadores. Ele dorme com um olho aberto, o que não é nada fácil pra quem tem só um olho.</color></size></align>",
       "name": "<size=20>Broto de Alga",
       "seedType": 1377
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gelogumelo + Milhopulta</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gelogumelo + Milhopulta</color></size>",
       "info": "<size=36>Arremessa grãos de milho gelados e manteiga.\n\n<color=black>Dano: </color><color=#8B0000>20 / 3s</color>\n<color=#0077b6>Sistema Crio: </color><color=#8B0000>Os ataques aplicam Congelamento, somam 10 pontos de Crio e causam ×4 de dano a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Tem 25% de chance de arremessar um picolé de manteiga que congela os zumbis por 4 segundos.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Para congelar a manteiga perfeita, a Milhopulta de Gelo fez questão de viajar até a Sibéria. Agora a manteiga dela é lisa como mármore: pesada, dura, linda, e ainda faz um \"tum\" satisfatório ao acertar a cabeça dos zumbis.</color></size></align>",
-      "name": "<size=20>Milhopulta de Gelo",
+      "introduce": "<align=left><size=36><color=black>Para congelar a manteiga perfeita, a Milhopulta Gelado fez questão de viajar até a Sibéria. Agora a manteiga dela é lisa como mármore: pesada, dura, linda, e ainda faz um \"tum\" satisfatório ao acertar a cabeça dos zumbis.</color></size></align>",
+      "name": "<size=20>Milhopulta Gelado",
       "seedType": 1376
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Tridisparervilha + Flor-lampião</color></size>",
-      "info": "<size=36>Fornece o triplo da iluminação de uma Flor-lampião comum e divide os lasers em três.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Fornece 3 níveis de iluminação em uma área de 3×3.\n<color=black>•</color> Os lasers terrestres do Cacto Radiante e do Cogu-raio que a atravessam criam dois lasers adicionais na mesma linha, cada um causando 30 de dano.</color></size>",
-      "introduce": "<align=left><size=36><color=black>O número favorito da Flor-lampião Tripla é o três. Três vezes a luz, três vezes a visão, até o salário em triplo. Com economias tão fartas, ela pode comprar o triplo de petiscos, bem guardados em suas três caixas de luz. As coisas em triplo que ela odeia são o triplo de zumbis, o triplo de ondas e o triplo de níveis de gacha.</color></size></align>",
-      "name": "<size=20>Flor-lampião Tripla",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Planterna</color></size>",
+      "info": "<size=36>Fornece o triplo da iluminação de uma Planterna comum e divide os lasers em três.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Fornece 3 níveis de iluminação em uma área de 3×3.\n<color=black>•</color> Os lasers terrestres do Cacto Radiante e do Cogu-raio que a atravessam criam dois lasers adicionais na mesma linha, cada um causando 30 de dano.</color></size>",
+	  "introduce": "<align=left><size=36><color=black>O número favorito da Triplanterna é o três. Três vezes a luz, três vezes a visão, até o salário triplicado. Com economias tão fartas, ela pode comprar o triplo de petiscos, bem guardados em suas três caixas de luz. As coisas em triplo que ela odeia são o triplo de zumbis, o triplo de ondas e o triplo de níveis de Gacha.</color></size></align>",      "name": "<size=20>Triplanterna",
       "seedType": 1379
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Hipnogumelo > Vaso</color></size>",
-      "info": "<size=36>O encanto do vaso nutre zumbis hipnotizados.\n\n<color=black>Especial: </color><color=#8B0000>Concede aos zumbis hipnotizados em sua célula 33% de Redução de Dano e cura 1 de vida a cada 0,04s. Ao ser mordido, hipnotiza o agressor e volta a ser um Vaso.</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Hipnogumelo + Vaso</color></size>",
+      "info": "<size=36>O encanto do vaso nutre zumbis hipnotizados.\n\n<color=black>Especial: </color><color=#8B0000>Concede aos zumbis hipnotizados em seu quadrado 33% de Redução de Dano e cura 1 de vida a cada 0,04s. Ao ser mordido, hipnotiza o agressor e volta a ser um Vaso.</color></size>",
       "introduce": "<align=left><size=36><color=black>O Vaso Hipnótico é querido por todos. Plantas, zumbis, até besourinhos travessos são todos seus amigos. Ele trabalha numa central de cultivo de cogumelos e, nas horas vagas, é membro orgulhoso do clube dos Zamigos, sempre compartilhando sua terra arco-íris feita à mão durante os feriados.</color></size></align>",
       "name": "<size=20>Vaso Hipnótico",
       "seedType": 1380
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Disparervilha Radiante</color></size>",
-      "info": "<size=36>Dispara dois lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10×2 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao nível de iluminação, até 1000. Cada feixe de laser consome (1 + energia atual × 10%) de energia ao atacar ou transferir.\n<color=black>•</color> Pode mirar uma Atiradora Relé Radiante à frente na mesma linha (não imediatamente ao lado). Transfere energia a cada 0,1s, reabastecendo energia igual a 20% do seu ataque. Cada ponto de energia gasto dobra a quantidade transferida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar 2 zumbis de uma vez, aumentando o dano pela quantidade de energia gasta.\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
-      "introduce": "<align=left><size=36><color=black>O baile de luzes da piscina, que acontece toda semana, é um evento social importante para a Duplaervilha Radiante. Antes de sair, ela ajeita com cuidado seu chapéu-lampião; as folhas sob a aba não só a deixam estilosa, como também oferecem aos seus amigos vaga-lumes um pouso para descansar depois da festa.</color></size></align>",
-      "name": "<size=20>Duplaervilha Radiante",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Disparalaser</color></size>",
+      "info": "<size=36>Dispara dois lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10×2 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao nível de iluminação, até 1000. Cada feixe de laser consome (1 + energia atual × 10%) de energia ao atacar ou transferir.\n<color=black>•</color> Pode mirar uma Bidisparalasers à frente na mesma linha (não imediatamente ao lado). Transfere energia a cada 0,1s, reabastecendo energia igual a 20% do seu ataque. Cada ponto de energia gasto dobra a quantidade transferida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar 2 zumbis de uma vez, aumentando o dano pela quantidade de energia gasta.\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>O baile de luzes da piscina, que acontece toda semana, é um evento social importante para a Duplolaser. Antes de sair, ela ajeita com cuidado seu chapéu-lampião; as folhas sob a aba não só a deixam estilosa, como também oferecem aos seus amigos vaga-lumes um pouso para descansar depois da festa.</color></size></align>",
+      "name": "<size=20>Duplolaser",
       "seedType": 1381
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Duplaervilha Radiante</color></size>",
-      "info": "<size=36>Recebe energia de laser da esquerda e dispara lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cabeça direita funciona como uma Disparervilha Radiante.\n<color=black>•</color> A cabeça esquerda pode receber energia luminosa de plantas da família Disparervilha Radiante na mesma linha (não na célula imediatamente ao lado).\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Agora é a minha vez de usar o chapéu.\" \"Mas o cordão está amarrado no meu queixo.\" As duas cabeças da Atiradora Relé Radiante discutem o tempo todo. Nem o baile de luzes da piscina as distrai; a única coisa que faz a discussão parar é quando elas começam a brigar pela sobrancelha.</color></size></align>",
-      "name": "<size=20>Atiradora Relé Radiante",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Duplolaser</color></size>",
+      "info": "<size=36>Recebe energia de laser da esquerda e dispara lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cabeça direita funciona como uma Disparalaser.\n<color=black>•</color> A cabeça esquerda pode receber energia luminosa de plantas da família Disparalaser na mesma linha (não no quadrado imediatamente ao lado).\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Agora é a minha vez de usar o chapéu.\" \"Mas o cordão está amarrado no meu queixo.\" As duas cabeças da Bidisparalasers discutem o tempo todo. Nem o baile de luzes da piscina as distrai; a única coisa que faz a discussão parar é quando elas começam a brigar pela sobrancelha.</color></size></align>",
+      "name": "<size=20>Bidisparalasers",
       "seedType": 1382
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Atiradora Relé Radiante</color></size>",
-      "info": "<size=36>Dispara quatro lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10×4 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao nível de iluminação, até 1000. Cada feixe de laser consome (1 + energia atual × 10%) de energia ao atacar ou transferir.\n<color=black>•</color> Pode mirar uma Atiradora Relé Radiante à frente na mesma linha (não imediatamente ao lado). Transfere energia a cada 0,1s, reabastecendo energia igual a 40% do seu ataque. Cada ponto de energia gasto dobra a quantidade transferida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar 4 zumbis de uma vez, aumentando o dano pela quantidade de energia gasta.\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
-      "introduce": "<align=left><size=36><color=black>A Metralhervilha Radiante brilha intensamente no campo de batalha, muitas vezes conquistando o quádruplo dos méritos. Embora seu fulgor a torne um alvo fácil, ela nunca recua. As feridas em meio à luz são as medalhas de honra dos guerreiros.</color></size></align>",
-      "name": "<size=20>Metralhervilha Radiante",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Bidisparalasers</color></size>",
+      "info": "<size=36>Dispara quatro lasers em alta frequência.\n\n<color=black>Dano: </color><color=#8B0000>10×4 / 0,2s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> A cada 0,5s, ganha energia luminosa igual ao nível de iluminação, até 1000. Cada feixe de laser consome (1 + energia atual × 10%) de energia ao atacar ou transferir.\n<color=black>•</color> Pode mirar uma Bidisparalasers à frente na mesma linha (não imediatamente ao lado). Transfere energia a cada 0,1s, reabastecendo energia igual a 40% do seu ataque. Cada ponto de energia gasto dobra a quantidade transferida.\n<color=black>•</color> Consome energia a cada 0,2s para atacar 4 zumbis de uma vez, aumentando o dano pela quantidade de energia gasta.\n<color=black>•</color> Clicar nela redefine o alvo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>A Metralhalasers brilha intensamente no campo de batalha, muitas vezes conquistando o quádruplo dos méritos. Embora seu fulgor a torne um alvo fácil, ela nunca recua. As feridas em meio à luz são as medalhas de honra dos guerreiros.</color></size></align>",
+      "name": "<size=20>Metralhalasers",
       "seedType": 1383
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Pimenta > Soprogumelo</color></size>",
-      "info": "<size=36>Corpo pequeno, temperamento de fogo.\n\n<color=black>Dano: </color><color=#8B0000>600 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>Planta baixa. Explode quando os zumbis se aproximam, disparando um efeito de Pimenta com menos dano.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Cada Cogu-pimenta pode ser pequeno e insignificante sozinho, mas juntos eles esquentam pra valer. É por isso que gostam de andar em bando. As outras plantas até os classificam pelo tamanho do grupo: levemente picante, médio e extra picante.</color></size></align>",
-      "name": "<size=20>Cogu-pimenta",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta + Soprogumelo</color></size>",
+      "info": "<size=36>Corpo pequeno, temperamento de fogo.\n\n<color=black>Dano: </color><color=#8B0000>600 (cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>Planta baixa. Queima toda sua linha quando os zumbis se aproxima dele, disparando o efeito da Pimenta com menos dano.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Cada Pimentinha pode ser pequeno e insignificante sozinho, mas juntos eles esquentam pra valer. É por isso que gostam de andar em bando. As outras plantas até os classificam pelo tamanho do grupo: levemente picante, médio e extra picante.</color></size></align>",
+      "name": "<size=20>Pimentinha",
       "seedType": 1384
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Alho</color></size>",
-      "info": "<size=36>Dispara ervilhas de alho que fazem os zumbis envenenados liberar toxinas, forming uma névoa venenosa.\n\n<color=black>Dano: </color><color=#8B0000>30 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 de valor de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele que dura 6s, aplicando 1 de valor de Veneno e causando, por segundo, dano igual a 20× o total de projéteis disparados em uma rodada por todas as plantas atiradoras retas do sistema de Veneno nessa linha, a todos os zumbis presos dentro. Pode haver no máximo 1 Névoa Venenosa ativa por linha.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Apesar do nome, a Disparervilha Alho-venenoso é uma chef de estilo marcante. Ela insiste para que todo cliente prove sua especialidade: ervilhas fritas com alho em pó. Só o cheiro já faz os zumbis transbordarem de lembranças: a infância, a família, o lar... e muitas lágrimas.</color></size></align>",
-      "name": "<size=20>Disparervilha Alho-venenoso",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Alho</color></size>",
+      "info": "<size=36>Dispara ervilhas de alho que fazem os zumbis envenenados liberar toxinas, formando uma névoa venenosa.\n\n<color=black>Dano: </color><color=#8B0000>30 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 ponto de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele que dura 6s, aplicando 1 ponto de Veneno e causando, por segundo, dano igual a 20 vezes o total de projéteis disparados em uma rodada por todas as plantas atiradoras retas do Sistema de Veneno nessa linha, a todos os zumbis presos dentro. Pode haver no máximo 1 Névoa Venenosa ativa por linha.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Apesar do nome, a Disparervilha de Alho é uma chef de estilo marcante. Ela insiste para que todo cliente prove sua especialidade: ervilhas fritas com alho em pó. Só o cheiro já faz os zumbis transbordarem de lembranças: a infância, a família, o lar... e muitas, muitas lágrimas.</color></size></align>",
+      "name": "<size=20>Disparervilha de Alho",
       "seedType": 1385
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Disparervilha Alho-venenoso</color></size>",
-      "info": "<size=36>Dispara duas ervilhas de alho de uma vez.\n\n<color=black>Dano: </color><color=#8B0000>30×2 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 de valor de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color>\n<color=black>Especial: </color><color=#8B0000>Toque para fundir automaticamente com uma Disparervilha grátis 15s após plantar.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Lutar! Lutar! Atacar! Atacar!\" A Duplaervilha Alho-venenoso vive com paixão e veneno. Nada a distrai: nem zumbis, nem vampiros, nem mesmo vendedores insistentes.</color></size></align>",
-      "name": "<size=20>Duplaervilha Alho-venenoso",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Disparervilha de Alho</color></size>",
+      "info": "<size=36>Dispara duas ervilhas de alho de uma vez.\n\n<color=black>Dano: </color><color=#8B0000>30×2 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 ponto de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color>\n<color=black>Especial: </color><color=#8B0000>Clique nele para fundir automaticamente com uma Disparervilha gratúitamente 15s após ser plantado no campo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Lutar! Lutar! Atacar! Ataquem!\" A Duplaervilha de Alho vive com paixão e veneno. Nada a distrai: nem zumbis, nem vampiros, nem mesmo vendedores insistentes.</color></size></align>",
+      "name": "<size=20>Duplaervilha de Alho",
       "seedType": 1386
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Duplaervilha Alho-venenoso</color></size>",
-      "info": "<size=36>Dispara ervilhas de alho para frente e para trás.\n\n<color=black>Dano: </color><color=#8B0000>30×3 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 de valor de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color>\n<color=black>Especial: </color><color=#8B0000>Toque para fundir automaticamente com uma Disparervilha grátis 15s após plantar.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Disparos que ricocheteiam são uma habilidade indispensável para qualquer Atiradora-de-Vagem-Cindida moderna, mas a Atiradora-de-Vagem-Cindida Alho-venenoso não se deu ao trabalho de aprender. Nem precisou. Ela simplesmente dispara as ervilhas de alho para dentro da casa atrás de si e, cedo ou tarde, alguém as joga de volta.</color></size></align>",
-      "name": "<size=20>Atiradora-de-Vagem-Cindida Alho-venenoso",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Duplaervilha de Alho</color></size>",
+      "info": "<size=36>Dispara ervilhas de alho para frente e para trás.\n\n<color=black>Dano: </color><color=#8B0000>30×3 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 ponto de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color>\n<color=black>Especial: </color><color=#8B0000>Clique nele para fundir automaticamente com uma Disparervilha gratúitamente 15s após ser plantado no campo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Disparos que ricocheteiam são uma habilidade indispensável para qualquer Bidisparaervilha, mas a Bidisparaervilha de Alho não se deu ao trabalho de aprender. Nem precisou. Ela simplesmente dispara as ervilhas de alho para dentro da casa atrás de si e, cedo ou tarde, alguém as rebate de volta.</color></size></align>",
+      "name": "<size=20>Bidisparaervilha de Alho",
       "seedType": 1387
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Atiradora-de-Vagem-Cindida Alho-venenoso</color></size>",
-      "info": "<size=36>Dispara quatro ervilhas de alho de uma vez.\n\n<color=black>Dano: </color><color=#8B0000>30×4 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 de valor de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color></size>",
-      "introduce": "<align=left><size=36><color=black>No piquenique do bairro, o renomado linguista Metralhervilha Alho-venenoso serviu com orgulho uma \"receita tradicional\" de 'pois' e 'poisson'. Estava uma delícia, exceto pelo fato de que todos passaram mal depois. Até hoje ele insiste que o 'veneno' fazia parte do 'presente'.</color></size></align>",
-      "name": "<size=20>Metralhervilha Alho-venenoso",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Bidisparaervilha de Alho</color></size>",
+      "info": "<size=36>Dispara ervilhas de alho para frente e para trás.\n\n<color=black>Dano: </color><color=#8B0000>30×4 / 1,5s</color>\n<color=#5E1675>Sistema de Veneno: </color><color=#8B0000>\n<color=black>•</color> Os projéteis somam 1 ponto de Veneno aos zumbis ao acertar.\n<color=black>•</color> Se o zumbi atingido já estiver Envenenado, cria uma Névoa Venenosa aos pés dele.</color>\n<color=black>Especial: </color><color=#8B0000>Clique nele para fundir automaticamente com uma Disparervilha gratúitamente 15s após ser plantado no campo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>No piquenique do bairro, o renomado linguista Metralhervilha de Alho serviu com orgulho uma \"receita tradicional\" de 'vianda' e 'veneno'. Estava uma delícia, exceto pelo fato de que todos passaram mal depois. Até hoje ele insiste que o 'veneno' fazia parte da 'receita'.</color></size></align>",
+      "name": "<size=20>Metralhervilha de Alho",
       "seedType": 1388
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gasogumelo + Tochalenho</color></size>",
-      "info": "<size=36>Queima as ervilhas que o atravessam, comprimindo-as em uma rajada de chamas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Não ataca por conta própria.\n<color=black>•</color> Absorve as ervilhas que passam. A cada 1s, expele uma chama perfurante por 4 células à frente. O dano equivale ao dano total das ervilhas absorvidas, até 300.\n<color=black>•</color> Derrete Gelervilhas, transformando-as em ervilhas normais.</color></size>",
-      "introduce": "<align=left><size=36><color=black>O Gasogumelo Tocha ficou famoso no ramo por transformar rapidamente ervilhas em um caldo bem encorpado e processá-lo em \"tortinhas de ervilha\". Sua técnica é célebre, mas sua péssima administração também: ele vai à falência ao ritmo de um restaurante por ano, basicamente porque queima ervilhas demais só para manter o penteado.</color></size></align>",
-      "name": "<size=20>Gasogumelo Tocha",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Tronco Flamejante</color></size>",
+      "info": "<size=36>Queima as ervilhas que o atravessam, comprimindo-as em uma rajada de chamas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Não ataca por conta própria.\n<color=black>•</color> Absorve as ervilhas que passam. A cada 1s, expele uma chama perfurante por 4 quadrados à frente. O dano equivale ao dano total das ervilhas absorvidas, até 300.\n<color=black>•</color> Derrete Gelervilhas, transformando-as em ervilhas normais.</color></size>",
+      "introduce": "<align=left><size=36><color=black>O Propangumelo ficou famoso no ramo por transformar rapidamente ervilhas em um caldo bem encorpado e processá-lo em \"tortinhas de ervilha\". Sua técnica é célebre, mas sua péssima administração também: ele vai à falência ao ritmo de um restaurante por ano, basicamente porque queima ervilhas demais só para manter o penteado estiloso.</color></size></align>",
+      "name": "<size=20>Propangumelo",
       "seedType": 1389
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Carnívora + Esmagadora</color></size>",
-      "info": "<size=36>Esmagadora gulosa que continua esmagando quando bem alimentada.\n\n<color=black>Dano: </color><color=#8B0000>1800 (esmagamento)</color>\n<color=black>Alcance de mira: </color><color=#8B0000>1 célula à direita</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao cair, tenta devorar um zumbi pego embaixo dela. Ainda causa dano aos zumbis que não são comidos.\n<color=black>•</color> Ao devorar com sucesso, retorna ao campo na mesma célula; caso contrário, desaparece.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Que fome, que fome, que fome! Tô morrendo de fome!\", grita a Esmagadora-Carnívora enquanto se atira sobre os zumbis à frente. Por mais que coma, nunca é o bastante. Olha lá: um Zumbi-gigante! Finalmente, uma refeição de verdade... Peraí, talvez tenha sido demais.</color></size></align>",
-      "name": "<size=20>Esmagadora-Carnívora",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Carnívora + Esmagador</color></size>",
+      "info": "<size=36>Esmagadora gulosa que continua esmagando quando bem alimentada.\n\n<color=black>Dano: </color><color=#8B0000>1800 (esmagamento)</color>\n<color=black>Alcance de mira: </color><color=#8B0000>1 quadrado à direita</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao cair, tenta devorar um zumbi pego embaixo dela. Ainda causa dano aos zumbis que não são comidos.\n<color=black>•</color> Ao devorar com sucesso, retorna ao campo no mesmo quadrado; caso contrário, ela desaparecerá.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Que fome, que fome, que fome! Tô morrendo de fome!\", grita a Carnívoradora enquanto se atira sobre os zumbis à frente. Por mais que coma, nunca é o bastante. Olha lá: um Zumbi Grandão! Finalmente, uma refeição de verdade... Peraí, talvez tenha sido demais.</color></size></align>",
+      "name": "<size=20>Carnívoradora",
       "seedType": 1390
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Tochalenho + Alho</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Tronco Flamejante + Alho</color></size>",
       "info": "<size=36>Defuma as ervilhas que passam, intensificando muito sua toxicidade.\n\n<color=black>Especial: </color><color=#8B0000>Afeta determinados projéteis que passam:\n<color=black>-</color> Ervilhas: dano +10, viram Ervilha de Alho;\n<color=black>-</color> Ervilhas de Alho: dano ×2, viram Ervilhas Venenosas que também causam dano em respingo.</color></size>",
-      "introduce": "<align=left><size=36><color=black>O aroma fresco do alho acalmar a alma, e o calor das chamas eleva esse cheiro a um patamar totalmente novo. O Tochalenho Alho-venenoso respira fundo, embriagado por esse perfume inebriante, e lamenta que as outras plantas não consigam apreciar tamanha beleza.</color></size></align>",
-      "name": "<size=20>Tochalenho Alho-venenoso",
+      "introduce": "<align=left><size=36><color=black>O aroma fresco do alho acalmar a alma, e o calor das chamas eleva esse cheiro a um patamar totalmente novo. O Tronco Fedorento respira fundo, embriagado por esse perfume inebriante, e lamenta que as outras plantas não consigam apreciar tamanha beleza e frescor.</color></size></align>",
+      "name": "<size=20>Tronco Fedorento",
       "seedType": 1391
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Esmagadora > Cogu-marinho</color></size>",
-      "info": "<size=36>A esmagadora aquática.\n\n<color=black>Dano: </color><color=#8B0000>1800 (esmagamento)</color>\n<color=black>Alcance de mira: </color><color=#8B0000>0,5 célula à esquerda; 1 célula à direita</color></size>",
-      "introduce": "<align=left><size=36><color=black>A Esmagadora-marinha trabalha como salva-vidas num balneário à beira-mar. Todos se espantam de como um corpo tão pesado consegue deslizar sem esforço pela água. Quando perguntam sobre isso, ela sempre responde: \"Não é algo fácil de se fazer.\" Na verdade, ela flutua graças a um chapéu-balão que dá sustentação, cujo fabricante, a Hopcap, faliu há dez anos.</color></size></align>",
-      "name": "<size=20>Esmagadora-marinha",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Cogumarinho</color></size>",
+      "info": "<size=36>O esmagador aquático.\n\n<color=black>Dano: </color><color=#8B0000>1800 (esmagamento)</color>\n<color=black>Alcance de mira: </color><color=#8B0000>0,5 quadrado à esquerda; 1 quadrado à direita</color></size>",
+      "introduce": "<align=left><size=36><color=black>O Esmagador Marinho trabalha como salva-vidas num balneário à beira-mar. Todos se espantam de como um corpo tão pesado consegue deslizar sem esforço pela água. Quando perguntam sobre isso, ele sempre responde: \"Não é algo fácil de se fazer.\" Na verdade, ele flutua graças a um chapéu-balão que dá sustentação, cujo fabricante, a Hopcap, faliu há dez anos.</color></size></align>",
+      "name": "<size=20>Esmagador Marinho",
       "seedType": 1392
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gasogumelo + Cacto</color></size>",
-      "info": "<size=36>Lança fumaça densa para atingir inimigos de baixa altitude. Pode se esticar para focar em alvos aéreos.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s (perfurante)</color>\n<color=black>Especial: </color><color=#8B0000>Clique para alternar entre os modos de ataque:\n<color=black>-</color> Baixa altitude: atinge terra e ar;\n<color=black>-</color> Alta altitude: dano ×4, só contra alvos aéreos.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"A névoa está densa demais! Não consigo respirar!\", exclama o Gasogumelo-Cacto, esticando o corpo para erguer seus poros respiratórios acima da névoa. \"Assim está melhor... mas não posso subir mais, senão o ar logo fica sem oxigênio!\"</color></size></align>",
-      "name": "<size=20>Gasogumelo-Cacto",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Cacto</color></size>",
+      "info": "<size=36>Lança fumaça densa para atingir inimigos de baixa altitude. Pode se esticar para focar em alvos aéreos.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s (perfurante)</color>\n<color=black>Especial: </color><color=#8B0000>Clique nele para alternar entre os modos de ataque:\n<color=black>-</color> Baixa altitude: atinge terra e ar;\n<color=black>-</color> Alta altitude: 4 vezes mais dano, porém apenas contra os alvos aéreos.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"A névoa está densa demais! Não consigo respirar!\", exclama o Saguarogumelo, esticando o corpo para erguer seus poros respiratórios acima da névoa. \"Assim está melhor... mas não posso subir mais, senão eu fico sem oxigênio!\"</color></size></align>",
+      "name": "<size=20>Saguarogumelo",
       "seedType": 1393
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Hipnogumelo + Tochalenho</color></size>",
-      "info": "<size=36>Invoca Zumbis Metralhervilha a partir de suas chamas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Invoca um Zumbi Metralhervilha hipnotizado a cada 60 projéteis incendiados.\n<color=black>•</color> Ervilhas Hipnotizadas contam como 4 projéteis.\n<color=black>•</color> Ao ser mordida, hipnotiza o atacante e volta a ser Tochalenho.\n<color=black>•</color> Afeta os seguintes projéteis:\n<color=black>-</color> Ervilhas: incendiadas, dano +20;\n<color=black>-</color> Ervilhas Hipnotizadas: incendiadas, dano +30;\n<color=black>-</color> Ervilhas Geladas: voltam a ser Ervilhas.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Como estrela em ascensão do circuito de shows da piscina, a Tochalenho Hipnótico rapidamente conquistou uma legião de fãs, entre zumbis e plantas. Seu charme ardente e seu jeito prestativo viraram sua marca registrada. Mas, como tantas figuras públicas, ela é assombrada por boatos: rumores de cirurgia plástica e de uso excessivo de maquiagem sempre a perseguem.</color></size></align>",
-      "name": "<size=20>Tochalenho Hipnótico",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Hipnogumelo + Tronco Flamejante</color></size>",
+      "info": "<size=36>Invoca Zumbis Metralhervilha a partir de suas chamas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Invoca um Zumbi Metralhervilha hipnotizado a cada 60 projéteis incendiados.\n<color=black>•</color> Ervilhas Hipnoticas contam como 4 projéteis.\n<color=black>•</color> Ao ser mordida, hipnotiza o atacante e volta a ser um Tronco Flamejante.\n<color=black>•</color> Afeta os seguintes projéteis:\n<color=black>-</color> Ervilhas: incendiadas, dano +20;\n<color=black>-</color> Ervilhas Hipnoticas: incendiadas, dano +30;\n<color=black>-</color> Ervilhas Geladas: voltam a ser Ervilhas normais.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Como estrela em ascensão do circuito de shows da piscina, o Tronco Hipnotico rapidamente conquistou uma legião de fãs, entre zumbis e plantas. Seu charme ardente e seu jeito prestativo viraram sua marca registrada. Mas, como tantas figuras públicas, ele é assombrado por boatos: rumores de cirurgia plástica e de uso excessivo de maquiagem sempre o perseguem.</color></size></align>",
+      "name": "<size=20>Tronco Hipnotico",
       "seedType": 1394
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gasogumelo > Alga-prendedora</color></size>",
-      "info": "<size=36>Estende tentáculos para golpear repetidamente os inimigos à frente.\n\n<color=black>Dano: </color><color=#8B0000>30×3 / 3s (perfurante)</color>\n<color=black>Especial: </color><color=#8B0000>Ataca três vezes todos os zumbis num alcance de 4,5 células à frente. Cada acerto aplica 1 acúmulo de Emaranhado e dispara estes efeitos:\n<color=black>-</color> 1º acerto: +1 acúmulo extra;\n<color=black>-</color> 2º acerto: causa dano adicional igual a 5×(acúmulos atuais no zumbi);\n<color=black>-</color> 3º acerto: repulsão.</color></size>",
-      "introduce": "<align=left><size=36><color=black>O Gasogumelo-Alga tem uma visão singular sobre a arte: para ele, o caos absoluto é a mais alta forma de beleza. Como sua cabeleira cacheada, que nunca foi arrumada e, em vez disso, desenvolveu um estilo próprio. Por causa disso, ele faltou a todas as missões de limpeza de zumbis no fundo do rio.</color></size></align>",
-      "name": "<size=20>Gasogumelo-Alga",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Emaranhalga</color></size>",
+      "info": "<size=36>Estende tentáculos para golpear repetidamente os inimigos à frente.\n\n<color=black>Dano: </color><color=#8B0000>30×3 / 3s (perfurante)</color>\n<color=black>Especial: </color><color=#8B0000>Ataca três vezes todos os zumbis num alcance de 4,5 quadrados à frente. Cada acerto aplica 1 acúmulo de Emaranhado e dispara estes efeitos:\n<color=black>-</color> 1º acerto: +1 acúmulo extra;\n<color=black>-</color> 2º acerto: causa dano adicional igual a 5×(acúmulos atuais no zumbi);\n<color=black>-</color> 3º acerto: repulsão.</color></size>",
+      "introduce": "<align=left><size=36><color=black>O Algasogumelo tem uma visão singular sobre a arte: para ele, o caos absoluto é a mais alta forma de beleza. Como sua cabeleira cacheada, que nunca foi arrumada e, em vez disso, desenvolveu um estilo próprio. Por causa disso, ele faltou a todas as missões de limpeza de zumbis no fundo do rio.</color></size></align>",
+      "name": "<size=20>Algasogumelo",
       "seedType": 1395
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gasogumelo > Soprogumelo</color></size>",
-      "info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Gasogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Gasogumelo no lugar do Soprogumelo e gera Soprogumelos em intervalos iguais à frente (diminuindo a cada célula). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Soprogumelo</color></size>",
+      "info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Gasogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Gasogumelo no lugar do Soprogumelo e gera Soprogumelos em intervalos iguais à frente (diminuindo a cada quadrado). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
       "introduce": "<align=left><size=36><color=black></color></size></align>",
-      "name": "<size=20>Enxame de Dispersão de Gasogumelo",
+      "name": "<size=20>Enxame de Dispersão do Gasogumelo",
       "seedType": 1396
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Medogumelo > Soprogumelo</color></size>",
-      "info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Medogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Medogumelo no lugar do Soprogumelo e gera Soprogumelos da forma mais uniforme possível nas células adjacentes à frente, acima e abaixo (com prioridade para a frente). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Medogumelo + Soprogumelo</color></size>",
+      "info": "<size=36>Um aglomerado de cogumelos formado por Soprogumelos dispersados por um Medogumelo.\n\n<color=black>Especial: </color><color=#8B0000>Planta um Medogumelo no lugar do Soprogumelo e gera Soprogumelos da forma mais uniforme possível nos quadrados adjacentes à frente, acima e abaixo (com prioridade para a frente). Quanto mais Soprogumelos forem consumidos na fusão, mais são gerados.</color></size>",
       "introduce": "<align=left><size=36><color=black></color></size></align>",
-      "name": "<size=20>Enxame de Dispersão de Medogumelo",
+      "name": "<size=20>Enxame de Dispersão do Medogumelo",
       "seedType": 1397
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Pimenta + Repolhopulta</color></size>",
-      "info": "<size=36>Arremessa repolhos picantes que explodem em repolhos menores ao acertar.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>Ao acertar, o projétil se divide em projéteis menores numa área de 3×3 (1/3 do dano cada), todos aplicando o efeito Superaquecimento antes de causar dano.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Graças ao seu domínio do molho de pimenta, seu restaurante de comida picante está sempre lotado. O dono, o Repolhopulta Ardente, é tão intenso quanto: fervoroso, ousado, apaixonado e explosivo. Só há uma coisa para lembrar ao comer lá: assim que estiver satisfeito, saia rápido... ou ele vai te servir mais uma porção.</color></size></align>",
-      "name": "<size=20>Repolhopulta Ardente",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta + Repolhopulta</color></size>",
+	  "info": "<size=36>Arremessa repolhos picantes que explodem em repolhos menores ao acertar.\n\n<color=black>Dano: </color><color=#8B0000>60 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>Ao acertar, o projétil se divide em projéteis menores numa área de 3×3 (1/3 do dano cada), todos aplicando o efeito de Queimadura antes de causar dano.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Graças ao seu domínio do molho de pimenta, seu restaurante de comida picante está sempre lotado. O dono, o Repolhopulta Picante, é tão intenso quanto: fervoroso, ousado, apaixonado e explosivo. Só há uma coisa para lembrar ao comer lá: assim que estiver satisfeito, saia rápido... ou ele vai te servir mais uma porção.</color></size></align>",
+      "name": "<size=20>Repolhopulta Picante",
       "seedType": 1398
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Ruínagumelo + Repolhopulta</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Repolhopulta</color></size>",
       "info": "<size=36>Lança repolhos de alto dano que provocam explosões em alvos Irradiados.\n\n<color=black>Dano: </color><color=#8B0000>1800 / 15s</color>\n<color=black>Especial: </color><color=#8B0000>Ao acertar zumbis Irradiados, o projétil causa um pequeno respingo explosivo com 1/3 do dano e sem redução.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Eu sou o caçador da noite\", ele declara. Sua pele escura se mistura perfeitamente à escuridão, mas seus olhos vermelhos brilhantes costumam denunciá-lo. Ainda assim, o Repolhopulta da Ruína se recusa a usar óculos escuros, chamando isso de \"o olhar da morte\"... embora, na verdade, ele só não consiga descobrir como tirar as lentes de contato.</color></size></align>",
-      "name": "<size=20>Repolhopulta da Ruína",
+      "introduce": "<align=left><size=36><color=black>\"Eu sou o caçador da noite\", ele declara. Sua pele escura se mistura perfeitamente à escuridão, mas seus olhos vermelhos brilhantes costumam denunciá-lo. Ainda assim, o Repolhopulta Irradiante se recusa a usar óculos escuros, chamando isso de \"o olhar da morte\"... embora, na verdade, ele só não consiga descobrir como tirar as lentes de contato.</color></size></align>",
+      "name": "<size=20>Repolhopulta Irradiante",
       "seedType": 1399
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Pimenta + Milhopulta</color></size>",
-      "info": "<size=36>Arremessa manteiga de magma que incendeia inimigos e fortalece plantas de fogo.\n\n<color=black>Dano: </color><color=#8B0000>30 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Os projéteis aplicam o efeito Superaquecimento antes de causar dano.\n<color=black>•</color> Tem 25% de chance de lançar Manteiga de Magma (50 de dano): aplica 4s de imobilização, dispara um efeito de Pimenta em toda a fileira com 50 de dano e concede às plantas de fogo (fusões de Pimenta) +50% de dano de ataque por 6s (as da série suprema ganham +25%).</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Nossa pipoca é feita com ingredientes 100% naturais!\", anuncia o Milhopulta Ardente com orgulho. Mas os clientes costumam duvidar da afirmação, principalmente porque a manteiga dele parece estar eternamente fervendo e impossível de esfriar.</color></size></align>",
-      "name": "<size=20>Milhopulta Ardente",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta + Milhopulta</color></size>",
+      "info": "<size=36>Arremessa manteiga de magma que incendeia inimigos e fortalece plantas de fogo.\n\n<color=black>Dano: </color><color=#8B0000>30 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Os projéteis aplicam o efeito de Quimadura antes de causar dano.\n<color=black>•</color> Tem 25% de chance de lançar uma Manteiga de Magma (50 de dano): aplica 4s de imobilização, dispara o efeito da Pimenta em toda a fileira com 50 de dano e concede às plantas de fogo (fusões com a Pimenta) +50% de dano de ataque por 6s (as fusões supremas (odiseia) ganham +25%).</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Nossa pipoca é feita com ingredientes 100% naturais!\", anuncia a Pipocapulta com orgulho. Mas os clientes costumam duvidar da afirmação, principalmente porque a manteiga dela parece estar eternamente fervendo e impossível de esfriar.</color></size></align>",
+      "name": "<size=20>Pipocapulta",
       "seedType": 1400
     },
     {
-      "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Batatamina + Gelogumelo</color></size>",
-      "info": "<size=36>Libera gás gélido concentrado que dispara explosões de gelo em cadeia ao menor contato.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Especial: </color><color=#8B0000>Ao emergir e ao detonar, dispara uma explosão de gelo que congela os zumbis numa área de 3×3 por 4s, causando 1/3 do dano, e dispara microexplosões de gelo secundárias nas células adjacentes que contenham zumbis.</color></size>",
-      "introduce": "<align=left><size=36><color=black>\"Eu sou o verdadeiro astro do campo de batalha\", pensa a Batatamina de Gelo. \"E um astro sempre faz sua entrada no último instante.\" Antes da grande revisão das tropas, ela até se enterra no solo fresco para descansar, mas não sem antes garantir que seu penteado perfeito fique intocado, do lado de fora.</color></size></align>",
-      "name": "<size=20>Batatamina de Gelo",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Gelogumelo</color></size>",
+      "info": "<size=36>Libera gás gélido concentrado que dispara explosões de gelo em cadeia ao menor contato.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Especial: </color><color=#8B0000>Ao emergir e ao detonar, dispara uma explosão de gelo que congela os zumbis numa área de 3×3 por 4s, causando 1/3 do dano, e dispara microexplosões de gelo secundárias nos quadrados adjacentes que contenham zumbis.</color></size>",
+      "introduce": "<align=left><size=36><color=black>\"Eu sou o verdadeiro astro do campo de batalha\", pensa a Batata Fria. \"E um astro sempre faz sua entrada no último instante.\" Antes da grande revisão das tropas, ela até se enterra no solo fresco para descansar, mas não sem antes garantir que seu penteado perfeito fique intocado, do lado de fora.</color></size></align>",
+      "name": "<size=20>Batata Fria",
       "seedType": 1401
     },
 	{
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Broto de Bambu + Líquen-Nevado</color></size>",
-    "info": "<size=36>Broto-Nevado libera um anel de bolas de neve a cada golpe recebido!\n\n<color=black>Resistência: </color><color=#8B0000>1500</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ao entrar em contato com zumbis, explode em um anel de bolas de neve: 5 são bolas de neve pretas que causam 100 de dano, e 3 são bolas de neve brancas.</color></size>",
-    "introduce": "<align=left><size=36><color=black>Construir bonecos de neve é um dos passatempos mais comuns nas Planícies Nevadas, e o Broto-Nevado gosta especialmente de se transformar em um boneco de neve. Se misturar com eles não apenas o oculta, como também permite punir severamente os zumbis que os chutam por aí. Ouvir os gritos ecoando pela vastidão é uma lição gravada fundo nas canelas deles.</color></size></align>",
-    "name": "<size=20>Broto-Nevado",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Broto de Bambu + Líquen Detonador</color></size>",
+    "info": "<size=36>Broto de Líquen libera um anel de bolas de neve a cada golpe recebido!\n\n<color=black>Resistência: </color><color=#8B0000>1500</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ao entrar em contato com zumbis, explode em um anel de bolas de neve: 5 são bolas de neve pretas que causam 100 de dano, e 3 são bolas de neve brancas.</color></size>",
+    "introduce": "<align=left><size=36><color=black>Construir bonecos de neve é um dos passatempos mais comuns nas Planícies Nevadas, e o Broto de Líquen gosta especialmente de se transformar em um boneco de neve. Se misturar com eles não apenas o oculta, como também permite punir severamente os zumbis que os chutam por aí. Ouvir os gritos ecoando pela vastidão é uma lição gravada fundo nas canelas deles.</color></size></align>",
+    "name": "<size=20>Broto de Líquen",
     "seedType": 1402.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Lótus Gélida + Líquen-Nevado</color></size>",
-    "info": "<size=36>A Lótus-Nevada usa o frio para conceder cargas a certas plantas, mas congela plantas próximas não adaptadas ao inverno.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1 carga de gelo a cada 5s. Ganha 1/1/60 cargas de gelo quando afetada por bola de neve/tridente de neve/nevasca, respectivamente.\n<color=black>•</color> Pode consumir 5 cargas para despertar. Ao despertar, cura plantas em uma área de 3×3 em 100 de vida e aplica Congelamento, além de despertar plantas do tipo Lótus Gélida e conceder 5 cargas de gelo para plantas do tipo Aloe Vera e Pinheiro Invernal. Depois disso, entra em um tempo de recarga de pelo menos 2s.</color></size>",
-    "introduce": "<align=left><size=36><color=black>Segundo a lenda, as flores de lótus nas Planícies Nevadas crescem no topo de picos nevados perigosos, visíveis apenas para os corajosos. A Lótus-Nevada descarta essa ideia. Ela cresce na base comum da montanha, usando cada gota de força para romper o solo congelado e a neve. As manchas escuras de terra em suas folhas falam de seu esforço. Não é preciso alcançar o topo; dar o primeiro passo nas Planícies Nevadas já é um ato de coragem. E ela é a medalha dessa coragem.</color></size></align>",
-    "name": "<size=20>Lótus-Nevada",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Lótus Gélida + Líquen Detonador</color></size>",
+    "info": "<size=36>A Lótus de Líquen usa o frio para conceder cargas a certas plantas, mas congela plantas próximas não adaptadas ao inverno.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1 carga de gelo a cada 5s. Ganha 1/1/60 cargas de gelo quando afetada por bola de neve/tridente de neve/nevasca, respectivamente.\n<color=black>•</color> Pode consumir 5 cargas para despertar. Ao despertar, cura plantas em uma área de 3×3 em 100 de vida e aplica Congelamento, além de despertar plantas do tipo Lótus Gélida e conceder 5 cargas de gelo para plantas do tipo Aloe Vera e Lotusarqueiro. Depois disso, entra em um tempo de recarga de pelo menos 2s.</color></size>",
+    "introduce": "<align=left><size=36><color=black>Segundo a lenda, as flores de lótus nas Planícies Nevadas crescem no topo de picos nevados perigosos, visíveis apenas para os corajosos. A Lótus de Líquen descarta essa ideia. Ela cresce na base comum da montanha, usando cada gota de força para romper o solo congelado e a neve. As manchas escuras de terra em suas folhas falam de seu esforço. Não é preciso alcançar o topo; dar o primeiro passo nas Planícies Nevadas já é um ato de coragem. E ela é a representação viva dessa coragem.</color></size></align>",
+    "name": "<size=20>Lótus de Líquen",
     "seedType": 1403.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha > Vaso</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Vaso</color></size>",
     "info": "<size=36>O Vaso de Ervilha faz com que certas plantas do tipo Disparervilha posicionadas sobre ele disparem uma rajada de 5 projéteis após atirarem o suficiente normalmente.\n\n<color=black>Especial: </color><color=#8B0000>Plantas do tipo Disparervilha neste espaço ativam uma rajada extra de 5 tiros rápidos a cada 30 disparos normais.</color></size>",
     "introduce": "<align=left><size=36><color=black>O Vaso de Ervilha é um fã dedicado da Disparervilha. Ele se pintou de verde, fez decorações de folha com polpa de papel e até modificou um vaso antigo para ser o cano de um canhão de ervilhas. Só falta o autógrafo.</color></size></align>",
     "name": "<size=20>Vaso de Ervilha",
     "seedType": 1404.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Snipervilha > Vaso</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Snipervilha + Vaso</color></size>",
     "info": "<size=36>O Vaso Sniper faz com que plantas do tipo Snipervilha posicionadas sobre ele realizem um ataque extra a cada 6 disparos!\n\n<color=black>Especial: </color><color=#8B0000>Plantas do tipo Snipervilha neste espaço realizam 1 ataque extra imediato a cada 6 disparos.</color></size>",
     "introduce": "<align=left><size=36><color=black>Da perspectiva do Vaso Sniper, usar um rifle de precisão não é nada difícil. Você só precisa saber como recarregar, como engrenar a munição e como entregar o rifle recarregado para o colega de equipe que sabe usar.</color></size></align>",
     "name": "<size=20>Vaso Sniper",
     "seedType": 1405.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Abetarqueiro + Líquen-Nevado</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Abetarqueiro + Líquen Detonador</color></size>",
     "info": "<size=36>Quando atingido por bolas de neve, o Abetarqueiro-Nevado contra-ataca lançando bolas de neve para frente e para trás.\n\n<color=black>Dano: </color><color=#8B0000>200×3 (bolas de neve pretas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Não mira em inimigos diretamente. Quando atingido por bolas de neve brancas, dispara 3 bolas de neve pretas para frente para atacar zumbis, e 3 bolas de neve brancas para trás para congelar plantas.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Quer uma guerra de bolinhas de neve?\" O Abetarqueiro-Nevado sempre aparece junto com essa pergunta. Guerras de bolinhas de neve são seu esporte de inverno favorito e onde é mais forte, tendo alcançado uma lendária vitória de 1 contra 13 no passado. \"Osa me emboscar? Há! Toma essa!\"</color></size></align>",
     "name": "<size=20>Abetarqueiro-Nevado",
     "seedType": 1406.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Metralhervilha Comando > Abóbora</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Metralhervilha Comando + Abóbora</color></size>",
     "info": "<size=36>A Abóbora-Comando dispara Ervilhas normais em rajadas de 6 e tem chance de ativar um Ataque Supremo a cada disparo!\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Dano: </color><color=#8B0000>20×6 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>2% de chance de disparar uma tempestade de ervilhas normais a cada ataque, durando 5s.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Já estou na capacidade máxima!\", grita a Abóbora-Comando. \"Entupida de munição de ervilha!\" Embora sempre diga isso, ela ainda tenta espremer um espacinho extra no final, permitindo que as plantas se escondam dentro dela para bloquear os ataques dos zumbis.</color></size></align>",
     "name": "<size=20>Abóbora-Comando",
     "seedType": 1407.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Ruínagumelo + Melancipulta</color></size>",
-    "info": "<size=36>A Ruínapulta lança melancias carregadas de radiação que explodem ao impactar, liberando explosões poderosas onde crateras se formam.\n\n<color=black>Dano: </color><color=#8B0000>1800 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Projéteis não atingem zumbis diretamente; em vez disso, ativam explosões de Ruínagumelo ao aterrissar (mesmo dano, deixando Crateras Irradiadas).\n<color=black>•</color> Se o espaço de aterrissagem já contiver uma cratera ou estiver na água, causa dano reduzido (1/18) em uma pequena área; o alcance dessa área aumenta se fortalecido pelo Vaso de Melancia.\nCrateras Irradiadas aplicam o efeito Irradiado aos zumbis na mesma célula.</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Melancipulta</color></size>",
+    "info": "<size=36>A Ruínapulta lança melancias carregadas de radiação que explodem ao impactar, liberando explosões poderosas onde crateras se formam.\n\n<color=black>Dano: </color><color=#8B0000>1800 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Projéteis não atingem zumbis diretamente; em vez disso, ativam explosões de Ruínagumelo ao aterrissar (mesmo dano, deixando Crateras Irradiadas).\n<color=black>•</color> Se o espaço de aterrissagem já contiver uma cratera ou estiver na água, causa dano reduzido (1/18) em uma pequena área; o alcance dessa área aumenta se fortalecido pelo Vaso de Melancia.\nCrateras Irradiadas aplicam o efeito Irradiado aos zumbis no mesmo quadrado.</color></size>",
     "introduce": "<align=left><size=36><color=black>Geralmente dá para saber o sabor de uma melancia apenas dando levinhas batidas em sua casca. Um som estalado significa uma melancia doce, um som abafado significa uma bem suculenta… e um som ensurdecedor? Essa é uma Melancia do Juízo Final.</color></size></align>",
     "name": "<size=20>Ruínapulta",
     "seedType": 1408.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Aloe Vera + Líquen-Nevado</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aloe Vera + Líquen Detonador</color></size>",
     "info": "<size=36>A Aloe-Neve lança bolas de neve continuamente, mantendo as plantas refrescadas e geladas.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s (bolas de neve pretas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1/15 de carga de gelo quando afetada por congelamento ou efeitos de Gelogumelo.\n<color=black>•</color> Lança bolas de neve continuamente em si mesma se não houver zumbis no alcance; se tiver um alvo, há 25% de chance de mudar para lançar bolas de neve pretas nos zumbis.\n<color=black>•</color> Ao lançar bolas de neve brancas, pode consumir 3 cargas de gelo para lançar adicionalmente bolas de neve brancas para cada planta à sua frente em até 3 espaços.</color></size>",
     "introduce": "<align=left><size=36><color=black>No arremesso de bolas de neve, a Aloe-Neve é um gênio. Com apenas uma folha, consegue arremessar com precisão bolas de neve do tamanho de punhos, fazendo malabarismo com várias ao mesmo tempo. O único problema é sua habilidade de captura: as bolas de neve frequentemente acabam acertando sua própria cabeça.</color></size></align>",
     "name": "<size=20>Aloe-Neve",
     "seedType": 1409.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Abóbora > Abóbora (Vida Cheia)</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Abóbora + Abóbora (Vida Cheia)</color></size>",
     "info": "<size=36>O Baú de Abóbora pode armazenar pacotes de sementes de plantas para você.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Pode armazenar pacotes de sementes de plantas caídos no campo e recuperá-los clicando.\n<color=black>•</color> Pacotes de sementes não são mantidos quando o Baú morre ou ao avançar para a próxima rodada.\n<color=black>•</color> Possui 27 slots. Limites de acúmulo por qualidade de planta:\n\t- Plantas básicas: 32\n\t- Fusões básicas: 16\n\t- Fusões avançadas: 8\n\t- Odisseia comum: 4\n\t- Odisseia épica: 2\n\t- Lendárias: 1\n<color=black>•</color> No modo Odisseia Gacha, possui 54 slots e todos os limites de acúmulo sobem para 64.</color></size>",
     "introduce": "<align=left><size=36><color=black>O Baú de Abóbora é o armazenamento ideal para sementes de plantas. Durante o Halloween, todas as casas preparam doces para os visitantes, e esta abóbora se tornou o recipiente perfeito. Tem grande capacidade, qualidade sólida e uma aparência festiva, tornando-se muito popular. Quanto ao boato de que rouba petiscos secretamente quando ninguém está olhando… quem sabe?</color></size></align>",
     "name": "<size=20>Baú de Abóbora",
     "seedType": 1410.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Ruínagumelo + Milhopulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Milhopulta</color></size>",
     "info": "<size=36>A Detritopulta usa energia de radiação para comandar plantas catapultas adjacentes a dispararem em uníssono.\n\n<color=black>Dano: </color><color=#8B0000>40 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ataques aplicam o efeito Irradiado.\n<color=black>•</color> Começa com 10 de energia de radiação. Ganha 1 de energia sempre que um zumbi afetado por Irradiado morre em sua linha.\n<color=black>•</color> 25% de chance de disparar uma manteiga de 60 de dano. Também pode consumir 1 de energia cada para fazer plantas catapultas adjacentes à esquerda e à direita dispararem imediatamente (apenas um tiro padrão, disparado por ela mesma).</color></size>",
     "introduce": "<align=left><size=36><color=black>A Detritopulta é especialmente habilidosa em prender outros projéteis atrás da manteiga, lançando ataques surpresa contra zumbis que subestimam investidas baseadas em manteiga. Ele também usa essa técnica para \"pegar emprestado\" os lanches dos colegas de equipe.</color></size></align>",
     "name": "<size=20>Detritopulta",
     "seedType": 1411.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Carambola</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Carambola</color></size>",
     "info": "<size=36>A Disparestrela lança ervilhas estelares que se dividem em múltiplas estrelas antes do impacto.\n\n<color=black>Dano: </color><color=#8B0000>20 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>O projétil se divide em 5 projéteis de estrela em todas as direções a cada 0,5s (primeiro aos 0,2s), até 5 vezes.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Disparestrela é muito orgulhosa de si mesma e acredita que brilha como uma estrela no céu. Embora outros digam a ela que não emite luz capaz de perfurar a névoa ou a escuridão, isso não afeta seu bom humor — ela até ajudou a decorar o teto da prefeitura com um design de céu estrelado.</color></size></align>",
     "name": "<size=20>Disparestrela",
     "seedType": 1412.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Pimenta > Abóbora</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta + Abóbora</color></size>",
     "info": "<size=36>A Abóbora-Ardente armazena poder térmico; clicar libera tudo em uma rajada poderosa pela linha.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao ser mordida, causa 20 de dano ao atacante e aplica Inflamado.\n<color=black>•</color> Ganha energia térmica igual a 10% do dano quando afetada por efeitos de Pimenta. Ganha 60 de energia térmica quando um zumbi Inflamado morre em sua linha.\n<color=black>•</color> Energia térmica máxima: 1M. Cada 30 pontos de energia aumentam o dano do contra-ataque de mordida em +1. Se a energia térmica for ≥ 1800, clicar ou morrer consome toda a energia para liberar um efeito de Pimenta com dano igual à energia armazenada.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Abóbora-Ardente é uma excelente funcionária de restaurante. Ela geralmente trabalha como garçonete, faz truques de mágica em festivais e, quando algo dá errado na cozinha, pode substituir temporariamente um fogão a gás.</color></size></align>",
     "name": "<size=20>Abóbora-Ardente",
     "seedType": 1413.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Ruínagumelo > Emaranhalga</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Emaranhalga</color></size>",
     "info": "<size=36>A Alga-Nuke explode como um Ruínagumelo ao ser ativada.\n\n<color=black>Dano: </color><color=#8B0000>Morte Instantânea (Afogamento) + 1800 (Cinzas)</color>\n<color=black>Especial: </color><color=#8B0000>Ativa o efeito do Ruínagumelo ao morrer.</color></size>",
     "introduce": "<align=left><size=36><color=black>Devido a longas noites pesquisando problemas de fusão e à privação crônica de sono, os olhos da Alga-Nuke estão vermelhos de sangue. Muitos colegas sugeriram que ele descansasse mais e tratasse os olhos, mas ele recusou completamente. \"Se eu fizesse isso… meu rosto pareceria apenas uma poça de escuridão total nas fotos… só de pensar nisso já é aterrorizante.\"</color></size></align>",
     "name": "<size=20>Alga-Nuke",
     "seedType": 1414.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Erva-Espinho + Cacto</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Erva-Espinho + Cacto</color></size>",
     "info": "<size=36>O Cacto-Espinho pode atirar espinhos para cima para atacar zumbis, até mesmo os aéreos!\n\n<color=black>Dano: </color><color=#8B0000>20 / 1s</color>\n<color=black>Especial: </color><color=#8B0000>Cada ataque dispara 3 espinhos para cima; tanto o ataque regular quanto os projéteis podem atingir zumbis voadores.</color></size>",
     "introduce": "<align=left><size=36><color=black>Ela costumava ser um simples Cacto trabalhando no instituto de pesquisa de elefantes, cuidando dos elefantes.</color></size></align>",
     "name": "<size=20>Cacto-Espinho",
     "seedType": 1415.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Petalâmina + Líquen-Nevado</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Petalâmina + Líquen Detonador</color></size>",
     "info": "<size=36>A Nevalâmina usa suas lâminas em rápida rotação para arremessar bolas de neve; a velocidade de ataque aumenta com mais escudos.\n\n<color=black>Dano: </color><color=#8B0000>5 / 0,02s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Herda características da Petalâmina.\n<color=black>•</color> A cada 10 ataques, dispara uma bola de neve adicional. As bolas de neve espiralam para fora: as que vão para a esquerda são bolas de neve brancas; as outras são bolas de neve pretas que causam 4× de dano.\n<color=black>•</color> A velocidade de ataque da bola de neve aumenta em (Escudo/Resistência)×, até +100%.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Não se preocupe, não vou segurar minha serra perto de você\", a Nevalâmina tranquilizou as outras plantas. Embora mantenha um aperto firme em sua serra circular, a neve acumulada na lâmina em rotação rápida é constantemente arremessada para todos os lados.</color></size></align>",
     "name": "<size=20>Nevalâmina",
     "seedType": 1416.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Erva-Espinho + Repolhopulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Erva-Espinho + Repolhopulta</color></size>",
     "info": "<size=36>A Rebatipulta coleta projéteis caídos e os reflete de volta nos zumbis.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1s</color>\n<color=black>Especial: </color><color=#8B0000>Quando outros projéteis lançados por catapultas aterrissam na mesma linha, no máximo uma vez a cada 0,7s, ela ataca e rebate uma cópia daquele projétil em direção ao zumbi mais próximo da linha; retorna-o pelo seu caminho se nenhum alvo existir.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Rebatipulta odeia ser confundido com idosos caçadores de pechinchas atrás de sobras no mercado. Na verdade, ele é alguém que acorda cedo todos os dias apenas para pegar os vegetais mais frescos.</color></size></align>",
     "name": "<size=20>Rebatipulta",
     "seedType": 1417.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Erva-Espinho + Melancipulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Erva-Espinho + Melancipulta</color></size>",
     "info": "<size=36>A Trampolim-Espinho lança zumbis próximos para o alto e os desorienta.\n\n<color=black>Dano: </color><color=#8B0000>80 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>Lança zumbis para o alto por um curto período ao atacar. Efeito reduzido para 1/3 contra Zumbis-Gigantes. Mata Zumbinhos instantaneamente. Não pode lançar zumbis chefões ou veículos.</color></size>",
     "introduce": "<align=left><size=36><color=black>Diferente de seu primo preguiçoso, a Trampolim-Espinho é muito dedicada em seu trabalho como terapeuta de saúde mental. Até agora, a única receita que ela prescreveu foi: \"Vá pular em um trampolim por um tempo.\"</color></size></align>",
     "name": "<size=20>Trampolim-Espinho",
     "seedType": 1418.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Girassol + Erva-Espinho</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Girassol + Erva-Espinho</color></size>",
     "info": "<size=36>A Erva-Solar gera sol sempre que espeta um zumbi.\n\n<color=black>Dano: </color><color=#8B0000>20 / 1s</color>\n<color=black>Especial: </color><color=#8B0000>Derruba 5 de sol a cada ataque.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Erva-Solar se apega firmemente ao chão, um reflexo do seu amor pela Mãe Terra. As vibrações zumbindo no subsolo são o melhor ritmo do jazz da Terra, embora os passos dos zumbis passando por cima sejam o barulho que ela mais odeia.</color></size></align>",
     "name": "<size=20>Erva-Solar",
     "seedType": 1419.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Turbinada + Turbinada</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Turbinada + Turbinada</color></size>",
     "info": "<size=36>A Ventania-Dupla empurra zumbis se aproximando, sendo especialmente eficaz contra zumbis no ar.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Especial: </color><color=#8B0000>A cada 3s, se houver zumbis terrestres à frente, empurra lentamente para trás até 3 zumbis mais próximos. O efeito é dobrado em zumbis voadores, triplicado em zumbis lançados no ar e reduzido para 1/3 contra veículos e Zumbis-Gigantes.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Alta potência do ventilador, não toque\", avisa a Ventania-Dupla a qualquer um que tente se aproximar. \"E também, este é o meu rosto, não o logotipo de uma marca de ventiladores.\"</color></size></align>",
     "name": "<size=20>Ventania-Dupla",
     "seedType": 1420.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Batatamina + Tronco Flamejante</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Tronco Flamejante</color></size>",
     "info": "<size=36>A Batata-Quente incendeia Ervilhas Pequenas e Batatas-Ervilhas, criando Batatas Assadas a partir delas.\n\n<color=black>Dano: </color><color=#8B0000>1800</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa. Afeta determinados projéteis que passam por ela:\n\tErvilhas Pequenas, Batatas-Ervilhas: Incendiadas, +20 de dano\n\tNozes Rolantes: Dano ×2 e contagem de penetração reiniciada\n<color=black>•</color> Para cada 100+ projéteis afetados, cria uma Batata Assada não-fundível à frente (Batatas-Ervilhas contam como 8 projéteis).\n<color=black>•</color> Dispara uma explosão de Batatamina ao morrer.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Batata-Quente só queria ser uma mina terrestre comum, até que um projétil incendiário atingiu seu pavio. Embora esteja infeliz por não poder mais permanecer escondida, tornar-se a queridinha do refeitório acabou sendo uma benção disfarçada.</color></size></align>",
     "name": "<size=20>Batata-Quente",
@@ -4348,56 +4347,56 @@
     "seedType": 1422.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Metralhervilha Comando + Noz-Obstáculo</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Metralhervilha Comando + Noz-Obstáculo</color></size>",
     "info": "<size=36>O Noz-Comando dispara mini Nozes-Obstáculo rolantes, com seu ataque supremo disparando 6 Nozes-Gigantes.\n\n<color=#4A2900>Condição de uso: Modo Odisseia</color>\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Dano: </color><color=#8B0000>30×6 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Dano recebido é limitado ao máximo de 1/4 da resistência por golpe.\n<color=black>•</color> 2% de chance de disparar 6 Nozes-Gigantes causando 20× de dano, e ganha um Escudo igual a 1/4 da sua resistência a cada ataque.</color></size>",
     "introduce": "<align=left><size=36><color=black>O Noz-Comando aceitou um contrato publicitário. Ele foi solicitado a usar uma roupa especial de Noz-Obstáculo para promover a marca de suplemento cerebral para zumbis 'Nut-o-mix'. Até agora, a campanha recebeu zero reclamações.</color></size></align>",
     "name": "<size=20>Noz-Comando",
     "seedType": 1423.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Snipervilha + Carnívora</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Snipervilha + Carnívora</color></size>",
     "info": "<size=36>A Sniper-Carnívora devora qualquer zumbi que ela \"mira\".\n\n<color=#4A2900>Condição de uso: Modo Odisseia</color>\n<color=black>Dano: </color><color=#8B0000>500 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Mira em qualquer lugar à frente pelas linhas, incluindo zumbis no ar.\n<color=black>•</color> Realiza um efeito de devorar da Carnívora antes do cálculo de dano. A cada 6º ataque realiza um tiro na cabeça, permitindo que o efeito de devorar afete qualquer zumbi não-chefe e cause 1M de dano.</color></size>",
     "introduce": "<align=left><size=36><color=black>Uma boa mira ajuda um sniper a atirar com mais precisão. Pela mesma lógica, pode ajudar uma Carnívora a morder mais de longe. Se a sua Carnívora vizinha mastiga muito alto, talvez tente colocar um silenciador nela.</color></size></align>",
     "name": "<size=20>Sniper-Carnívora",
     "seedType": 1424.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Disparervilha + Medogumelo</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Disparervilha + Medogumelo</color></size>",
     "info": "<size=36>O Medogumelo-Atirador aumenta rapidamente sua velocidade de ataque e dano enquanto dispara, mas perde tudo quando assustado.\n\n<color=black>Dano: </color><color=#8B0000>20 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>Ganha 5% de velocidade de ataque e +1 de dano após cada disparo, até +150% de velocidade de ataque e +30 de dano. Este bônus é reiniciado quando assustado.</color></size>",
     "introduce": "<align=left><size=36><color=black>O Medogumelo-Atirador aprendeu um truque notável de arremesso rápido de ervilhas no circo. Ninguém sabe exatamente quantas ervilhas ele consegue arremessar nessa velocidade. Ele adoraria exibir isso para os zumbis, mas não quando eles chegam muito perto — isso revelaria como o truque funciona.</color></size></align>",
     "name": "<size=20>Medogumelo-Atirador",
     "seedType": 1425.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Batatamina + Turbinada</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Turbinada</color></size>",
     "info": "<size=36>A Mina-Levitante permite que Batataminas em seu espaço se rearmem após explodirem.\n\n<color=black>Especial: </color><color=#8B0000>Quando uma planta do tipo Batatamina no mesmo espaço se autodestrói ao entrar em contato com um inimigo, ela não desaparece e, em vez disso, se enterra novamente para se rearmar (esta habilidade tem 15s de tempo de recarga).</color></size>",
     "introduce": "<align=left><size=36><color=black>A Mina-Levitante está profundamente incomodada. Ela tem dor de dente, mas não consegue encontrar um dentista disposto a operar seu dente minúsculo.</color></size></align>",
     "name": "<size=20>Mina-Levitante",
     "seedType": 1426.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gelogumelo + Cacto</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gelogumelo + Cacto</color></size>",
     "info": "<size=36>O Cacto-Gélido dispara espinhos congelantes que são especialmente eficazes contra alvos aéreos e congelados.\n\n<color=black>Dano: </color><color=#8B0000>20 / 1,5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>Ataques aplicam Frio, somam 10 pontos de Cryo e causam ×4 de dano a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Contra alvos aéreos, projéteis penetram duas vezes e causam ×4 de dano.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"É realmente frio aqui em cima!\" O Cacto-Gélido frequentemente suspira assim, deixando outras plantas bastante confusas. Mas não é difícil de entender. Afinal, se você voltasse das nuvens com o rosto coberto de geada, provavelmente diria o mesmo.</color></size></align>",
     "name": "<size=20>Cacto-Gélido",
     "seedType": 1427.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Cerejas-Bomba + Gasogumelo</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Cerejas-Bomba + Gasogumelo</color></size>",
     "info": "<size=36>Os gases do Gasogumelo-Cereja catalisam Cerejas Rosa em Cerejas Explosivas.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao atacar, converte até 4 projéteis de cereja retos ou projéteis de cereja incendiados dentro de 5,5 espaços à frente em cerejas explosivas. Cerejas convertidas causam o dobro de dano.\n<color=black>•</color> Se houver projéteis conversíveis dentro do alcance, ele atacará mesmo sem um zumbi.</color></size>",
     "introduce": "<align=left><size=36><color=black>Para melhorar a eficiência da linha de produção de projéteis de cereja, o Gasogumelo-Cereja criou um corante novinho em folha. Seca rápido, é fácil de aplicar e não desbota facilmente. É praticamente impecável, exceto pelo fato de ser altamente volátil.</color></size></align>",
     "name": "<size=20>Gasogumelo-Cereja",
     "seedType": 1428.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Carambola + Snipervilha</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Carambola + Snipervilha</color></size>",
     "info": "<size=36>O Sniper-Estrelar elimina inimigos enquanto invoca estrelas cadentes e meteoros em queda.\n\n<color=#4A2900>Condição de uso: Modo Odisseia</color>\n<color=black>Dano: </color><color=#8B0000>500 / 3s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Mira inimigos em qualquer lugar à frente e pode mirar zumbis no ar.\n<color=black>•</color> Ataques normais disparam 5 projéteis de estrela, cada um causando 1× o dano de ataque, priorizando o inimigo mirado.\n<color=black>•</color> A cada 6º ataque acerta um tiro na cabeça, causando 1M de dano e invocando um Meteoro. Ao impactar, causa 18× o dano de ataque. As estrelas divididas também causam 1× o dano de ataque.</color></size>",
     "introduce": "<align=left><size=36><color=black>A lenda diz que sempre que uma vida se apaga, uma estrela cadente cai do céu. Para o Sniper-Estrelar, essa lenda é verdadeira. Só exige que a ordem de causa e efeito seja invertida. Cada estrela cadente que ele abate traz uma vida consigo.</color></size></align>",
     "name": "<size=20>Sniper-Estrelar",
     "seedType": 1429.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Tronco Flamejante > Cogumarinho</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Tronco Flamejante + Cogumarinho</color></size>",
     "info": "<size=36>O Tronco-Flutuante incendeia projéteis que passam e pode criar Cogumarinhos a partir da absorção de energia de chamas próxima.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa. Possui a habilidade de aprimorar projéteis do Tronco Flamejante, com efeitos adicionais em certos projéteis:\n · Ervilha: Incendiada, +20 de dano.\n · Disparo de Alga: Incendiado, +20 de dano, dano em respingo aplica 1 ponto de Emaranhado.\n<color=black>•</color> Para cada 100 projéteis incendiados, gera um Cogumarinho Assado à frente que não pode ser usado em fusões. Se um Cogumarinho Assado já existir, ele ganha 20 de poder de ataque e aumenta ligeiramente de tamanho, até 11 vezes.</color></size>",
     "introduce": "<align=left><size=36><color=black>O Tronco-Flutuante é muito orgulhoso da chama ardente queimando no topo de sua cabeça, o que o faz parecer cheio de energia. Para manter essa aparência chique, ele tem que constantemente remar na água e manter a cabeça acima da superfície. Seus tentáculos grossos parecidos com raízes mostram todo o esforço que dedica a isso.</color></size></align>",
     "name": "<size=20>Tronco-Flutuante",
@@ -4411,84 +4410,84 @@
     "seedType": 1431.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Batatamina + Metralhervilha Comando</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Batatamina + Metralhervilha Comando</color></size>",
     "info": "<size=36>O Batatamina-Comando dispara Batatas-Ervilhas, se comunicando com seus parentes através de redes subterrâneas para disparar ataques coordenados.\n\n<color=black>Dano: </color><color=#8B0000>30×6 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa. Cada tiro disparado tem 2% de chance de ativar sua habilidade Suprema. Quando ativada, todos os outros Batataminas-Comando também ativam suas Supremas.\n<color=black>•</color> A Suprema restaura vida igual a 1× sua resistência, concede invencibilidade e imunidade a esmagamento por 5s, e dispara 1 tiro reto enquanto espalha 2 tiros em um leque de ±45° a cada 0,02s.\n<color=black>•</color> Ao morrer, libera uma explosão de Batatamina causando 1800 de dano.</color></size>",
     "introduce": "<align=left><size=36><color=black>Seja através de controle de ritmo preciso ou improvisação explosiva, o Batatamina-Comando é um membro indispensável da banda. Porém o público apaixonado parece sempre ignorá-lo — talvez por causa da sua altura, ou talvez porque ele é o baixista.</color></size></align>",
     "name": "<size=20>Batatamina-Comando",
     "seedType": 1432.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Triplervilha + Melancipulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Melancipulta</color></size>",
     "info": "<size=36>Arremessa rapidamente melancias por três linhas.\n\n<color=black>Dano: </color><color=#8B0000>80×3 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>Cada ciclo de ataque mira em sua própria linha e nas duas linhas acima e abaixo. Ataques se beneficiam de compensação nas linhas das bordas.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Melancipulta Tripla não tem certeza se tem sementes, mas ainda acredita ser sem sementes. \"Melancias triploides não têm sementes. Pelo menos, é o que o livro diz.\"</color></size></align>",
     "name": "<size=20>Melancipulta Tripla",
     "seedType": 1433.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Triplervilha + Milhopulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Milhopulta</color></size>",
     "info": "<size=36>Arremessa projéteis rapidamente por três linhas, aumentando continuamente a contagem de projéteis quando manteiga não é arremessada.\n\n<color=black>Dano: </color><color=#8B0000>20×3 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Cada ciclo de ataque mira em sua própria linha e nas duas linhas acima e abaixo. Ataques se beneficiam de compensação nas linhas das bordas.\n<color=black>•</color> Cada ciclo tem 25% de chance de arremessar manteiga causando 40 de dano. Se manteiga não for arremessada neste ciclo, o próximo ciclo ganha 1 projétil adicional (os projéteis extras são distribuídos aleatoriamente). Arremessar manteiga reseta o bônus.</color></size>",
     "introduce": "<align=left><size=36><color=black>A Milhopulta Tripla trabalha em uma fábrica de manteiga, separando manteiga e grãos de milho. Sua eficiência de trabalho é impressionante, mas toda vez que chega no lote final, ele tem dor de cabeça — só consegue separar em múltiplos de três. Quando sobra apenas um grão, ele nunca sabe como embalar.</color></size></align>",
     "name": "<size=20>Milhopulta Tripla",
     "seedType": 1434.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Triplervilha > Abóbora</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Abóbora</color></size>",
     "info": "<size=36>A Abóbora Tripla cria ervilhas sempre que zumbis próximos são atingidos, causando mais dano a eles.\n\n<color=black>Alcance de Ataque: </color><color=#8B0000>Própria linha e 2 linhas adjacentes</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Quando um zumbi no alcance recebe dano, cria uma ervilha na posição do zumbi danificado (limitado a uma vez a cada 0,02s). Este projétil não pode mirar unidades voadoras, e causar dano com este projétil não ativará este efeito novamente.\n<color=black>•</color> O dano do projétil equivale a 20% do dano recebido. Se a fonte do dano for uma planta do tipo Triplervilha, o dano é ×4.</color></size>",
     "introduce": "<align=left><size=36><color=black>Uma das caras da Abóbora Tripla gosta de comédia, outra prefere filmes de terror, enquanto a última cara odeia ambos. Porém, elas nunca brigam pelo controle remoto: suas três caras apontam para direções diferentes, então elas nem conseguem ver a mesma televisão.</color></size></align>",
     "name": "<size=20>Abóbora Tripla",
     "seedType": 1435.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gelogumelo > Abóbora</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gelogumelo + Abóbora</color></size>",
     "info": "<size=36>A Abóbora de Gelo armazena o poder de Gelogumelos, permitindo que sejam liberados no momento certo.\n\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>Aplica Frio a quem mordê-la e soma 5 pontos de Cryo.</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Quando o medidor de carga está abaixo de 3, impede que efeitos de Gelogumelo em seu espaço e 1 espaço à frente sejam ativados, ganhando 1 carga.\n<color=black>•</color> A cada 5s, consome automaticamente 1 carga para liberar um efeito de Gelogumelo. Clicar também pode ativar este efeito.</color></size>",
     "introduce": "<align=left><size=36><color=black>Ele sempre teve muito orgulho do seu penteado, mesmo tendo apenas quebrado um pedaço de gelo debaixo de um telhado e colocado na cabeça.</color></size></align>",
     "name": "<size=20>Abóbora de Gelo",
     "seedType": 1436.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Turbinada > Vaso</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Turbinada + Vaso</color></size>",
     "info": "<size=36>O Vaso Turbinado sacrifica plantas voadoras para nutrir plantas sobre ele.\n\n<color=black>Especial: </color><color=#8B0000>Planta baixa. A cada 1 segundo, remove a planta voadora em seu espaço. Após a remoção, restaura 150 de vida à planta no espaço e concede um bônus de 20% no poder de ataque por 5s.</color></size>",
     "introduce": "<align=left><size=36><color=black>Os alunos da academia de voo das plantas finalmente ganharam seu primeiro dia de folga. Até agora, o instrutor Vaso Turbinado sempre tratou todos com a atitude mais rigorosa: \"Sua postura de voo está errada! Desça e calibre de novo!\" Porém, ele tem estado incapaz de se mostrar recentemente, pois acidentalmente perturbou a celebração de aniversário da Carambola e agora está sendo procurado por elas.</color></size></align>",
     "name": "<size=20>Vaso Turbinado",
     "seedType": 1437.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Gasogumelo + Erva-Espinho</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gasogumelo + Erva-Espinho</color></size>",
     "info": "<size=36>O Espinhogumelo dispara gases espinhosos que estouram pneus.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa. Não pode bloquear zumbis. Pode estourar pneus de veículos ao contato e depois desaparece.\n<color=black>•</color> Ataques causam 30% da vida máxima em dano a veículos (exceto veículos mini-chefes).</color></size>",
     "introduce": "<align=left><size=36><color=black>O que sabemos sobre o Espinhogumelo é que ele já foi um policial que se aposentou devido a uma lesão. Além disso, não sabemos nada sobre seu trabalho anterior. Uma descoberta recente pode ajudar a revelar seu passado: uma planta o viu procurando desesperadamente por um jogo de corrida onde os jogadores controlam Erva-Espinho.</color></size></align>",
     "name": "<size=20>Espinhogumelo",
     "seedType": 1438.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Triplervilha + Repolhopulta</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Repolhopulta</color></size>",
     "info": "<size=36>A Repolhopulta Tripla arremessa rapidamente repolhos em camadas por três linhas.\n\n<color=black>Dano: </color><color=#8B0000>40×3 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Cada ciclo de ataque mira em sua própria linha e nas duas linhas acima e abaixo. Ataques se beneficiam de compensação nas linhas das bordas.\n<color=black>•</color> Após acertar um alvo, projéteis se dividem em um repolho comum mirando no zumbi mais próximo nas linhas adjacentes superior e inferior. Projéteis originalmente disparados em sua própria linha podem se dividir uma vez adicional.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Os arremessos de gancho? Eu mesmo fiz. Minha carreira no basquete depende deles.\" A Repolhopulta Tripla riu durante uma entrevista. \"Meu segredo para vencer campeonatos está nesses arremessos. Nunca encontrei um oponente que pudesse bloquear três bolas de uma vez.\"</color></size></align>",
     "name": "<size=20>Repolhopulta Tripla",
     "seedType": 1439.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Ruínagumelo + Triplervilha</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Ruínagumelo + Triplervilha</color></size>",
     "info": "<size=36>O Ruínaspreader dispara Ervilhas do Juízo Final por três linhas.\n\n<color=black>Dano: </color><color=#8B0000>40×3 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ervilhas do Juízo Final penetram armadura Tipo 2.\n<color=black>•</color> A cada 7º ataque dispara três grandes Projéteis do Juízo Final causando 3× de dano. Eles podem perfurar armadura Tipo 2, causando dano a alvo único antes de explodirem em um raio de 3 espaços.</color></size>",
     "introduce": "<align=left><size=36><color=black>Três cabeças dão ao Ruínaspreader o triplo de poder de pensamento, permitindo-lhe alcançar grandes feitos na pesquisa de física nuclear. Fora da academia, ele também gosta de refletir sobre outras questões — como o porquê de certas plantas sempre tentarem enfiar Pimenta nele.</color></size></align>",
     "name": "<size=20>Ruínaspreader",
     "seedType": 1440.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Esmagador + Carambola</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Esmagador + Carambola</color></size>",
     "info": "<size=36>O Esmagador Estelar cai como a Montanha dos Cinco Dedos, esmagando grupos de zumbis.\n\n<color=black>Dano: </color><color=#8B0000>900×5 (Esmagamento)</color>\n<color=black>Alcance de Detecção: </color><color=#8B0000>0,5 espaço à esquerda; 1 espaço à direita</color>\n<color=black>Especial: </color><color=#8B0000>Aterrissa simultaneamente no centro, superior esquerdo, superior direito, extremo esquerdo e extremo direito, cada um causando dano em uma área menor (as áreas podem se sobrepor).</color></size>",
     "introduce": "<align=left><size=36><color=black>\"O truque para jogar pica-esconde é na verdade bem simples.\" O Esmagador Estelar explicou sua técnica aos seus novos amigos. \"Apenas deixe seus amigos se esconderem atrás de você, e quando quem pega chegar perto, pulem juntos e desviem.\" A técnica foi rapidamente aceita por todos, mas logo enfrentaram um novo problema: quem iria pegar?</color></size></align>",
     "name": "<size=20>Esmagador Estelar",
     "seedType": 1441.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Triplervilha > Vaso</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Triplervilha + Vaso</color></size>",
     "info": "<size=36>O Vaso Triplo aumenta o ataque de plantas do tipo Triplervilha e expande a cobertura de linha de plantas do tipo Disparervilha.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta baixa. Retorna 100 de Sol extra na fusão.\n<color=black>•</color> Plantas do tipo Triplervilha colocadas acima ganham 20% de bônus de poder de ataque.\n<color=black>•</color> Plantas do tipo Disparervilha colocadas acima atacam uma vez em cada linha adjacente a cada 6 disparos, causando 50% do seu poder de ataque. Este ataque se beneficia de compensação nas linhas das bordas.</color></size>",
     "introduce": "<align=left><size=36><color=black>A loja do Vaso Triplo sempre recebeu avaliações excelentes. Desde que vendeu projéteis de ervilha pela primeira vez, ele manteve a promoção \"compre um, leve dois grátis\". As ervilhas faziam seus pedidos felizes, apenas para descobrir durante o disparo que os brindes eram todos feitos de papel. Porém, considerando o preço acessível, ninguém se importou de verdade.</color></size>",
     "name": "<size=20>Vaso Triplo",
     "seedType": 1442.0
   },
   {
-    "cost": "\n<size=36>Receita de fusão: <color=#8B0000>Bruxervilha + Gelervilha</color></size>",
+    "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Bruxervilha + Gelervilha</color></size>",
     "info": "<size=36>Dispara ervilhas de gelo polar ainda mais fortes que ricocheteiam entre os zumbis.\n\n<color=black>Dano: </color><color=#8B0000>40 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>Dispara ervilhas de gelo polar que podem ricochetear até 4 vezes em zumbis próximos após atingirem o primeiro zumbi.\n<color=blue>Melhoria da Odisseia: </color>Obter o modificador <color=#2B2B2B>\"Bênção Congelante I\"</color> vai melhorar a Bruxervilha para sua variante da Odisseia, a SP Bruxervilha.</color></size>",
     "introduce": "<align=left><size=36><color=black>\"Chapéu mágico? Conferido! Óculos anti-geada? Conferido! Escova de dentes e um braço para segurá-la? Hum... Dentes limpos? Conferido!\" Mesmo em meio às preparações tensas para a batalha, a Bruxervilha ainda encontra uma maneira de ser feliz e manter a calma em qualquer situação.</color></size></align>",
     "name": "<size=20>Bruxervilha",
@@ -4503,9 +4502,9 @@
   },
     {
       "cost": "<size=36>Custo: <color=#8B0000>100</color>\nRecarga: <color=#8B0000>30s</color></size>",
-      "info": "<size=36>Líquen-Nevado explode em um anel de bolas de neve, congelando plantas e zumbis próximos.\n\n<color=black>Dano: </color><color=#8B0000>600×7</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Bolas de neve disparadas para a esquerda causam 1 de dano a plantas e congelam plantas em uma área 3×3.\n<color=black>•</color> Todas as outras bolas de neve causam 600 de dano a zumbis e aplicam Congelamento Profundo por 1 segundo.</color></size>",
-      "introduce": "<align=left><size=36><color=black>Para sobreviver à tundra congelada, o Líquen-Nevado desenvolveu uma pelagem branca e macia. Mas dá mais trabalho do que vale: ela solta pelos o tempo todo, e as outras plantas não resistem em fazer carinho em sua cabeça, como se ele fosse um dente-de-leão selvagem qualquer.</color></size></align>",
-      "name": "<size=20>Líquen-Nevado",
+      "info": "<size=36>Líquen Detonador explode em um anel de bolas de neve, congelando plantas e zumbis próximos.\n\n<color=black>Dano: </color><color=#8B0000>600×7</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Bolas de neve disparadas para a esquerda causam 1 de dano a plantas e congelam plantas em uma área 3×3.\n<color=black>•</color> Todas as outras bolas de neve causam 600 de dano a zumbis e aplicam Congelamento Profundo por 1 segundo.</color></size>",
+      "introduce": "<align=left><size=36><color=black>Para sobreviver à tundra congelada, o Líquen Detonador desenvolveu uma pelagem branca e macia. Mas dá mais trabalho do que vale: ela solta pelos o tempo todo, e as outras plantas não resistem em fazer carinho em sua cabeça, como se ele fosse um dente-de-leão selvagem qualquer.</color></size></align>",
+      "name": "<size=20>Líquen Detonador",
       "seedType": 40
     },
     {
@@ -4572,7 +4571,7 @@
       "seedType": 992
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Hipnogumelo > Shironeko D'água</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Hipnogumelo + Shironeko D'água</color></size>",
       "info": "<size=36>Dispara projéteis mágicos que perseguem os alvos globalmente e usa magia radiante para encantar inimigos.\n\n<color=blue>Planta de Colaboração do Plant Girls vs Zombies</color>\n<color=#4A2900>Condições de Uso: Modo Odisseia</color>\n<color=black>Dano: </color><color=#8B0000>300×2 / 1,5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Mira global, prioriza inimigos aéreos.\n<color=black>•</color> Ativação manual: selecione um espaço em sua fileira para hipnotizar todos os zumbis em um raio de 1 espaço; pode mirar unidades aéreas. Após o uso, entra em recarga de 50s. Cada disparo normal reduz a recarga em 1s.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Recarga da habilidade reduzida pela metade, raio da habilidade +0,5 espaço.\n2. Zumbis hipnotizados por sua habilidade causam +30% de dano verdadeiro que ignora redução de dano ao morder.</color></size>",
       "introduce": "<align=left><size=36><color=black>Muitas plantas perguntam como ela consegue suas cores bonitas. O que muitas não sabem é que ela na verdade ficou presa em sua transformação de garota mágica.</color></size></align>",
       "name": "<size=20>Shironeko Encantadora (Aquática)",
@@ -4600,7 +4599,7 @@
       "seedType": 996
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Espinho de Obsidiana > Noz-Colosso</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Espinho de Obsidiana + Noz-Colosso</color></size>",
       "info": "<size=36>Canaliza o poder da família Obsidiana, desencadeando um verdadeiro terremoto em batalha como uma montanha desabando.\n\n<color=#3D1400>Condições de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Resistência: </color><color=#8B0000>64000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta alta e Planta Titã. Imune a esmagamento. Dano recebido é limitado a no máximo 1000 por golpe.\n<color=black>•</color> Cura 1500 de vida a cada 15s.\n<color=black>•</color> Quando plantas de Obsidiana no gramado têm sua vida alterada, Energia é gerada na mesma quantidade (limitado a uma vez a cada 0,02s). Quando plantas de Obsidiana causam dano, 300 de Energia são gerados. Esta Energia é distribuída igualmente entre todas as Noz-Colossos de Obsidiana no gramado.\n<color=black>•</color> Ao ganhar Energia, pode consumir 300 de Energia para realizar um ataque de Têmpera na fonte da Energia. Têmpera causa dano em um raio de 1 espaço igual a 0,1% da vida total de todas as plantas de Obsidiana no gramado.\n<color=black>•</color> Sempre que for afetado por efeitos de Gelogumelo ou Pimenta, ganha +10% de dano por 3s.\n<color=black>•</color> Plantas de Obsidiana: Cevadabsidiana e qualquer planta que tenha Espinho de Obsidiana direta ou indiretamente em sua receita.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Enquanto estiver no gramado, todas as plantas de Obsidiana recebem dano final reduzido em [10% + 50%×(tipos de plantas de Obsidiana no gramado)/(tipos de plantas de Obsidiana no jogo)].\n2. Dano da Têmpera ×2.</color></size>",
       "introduce": "<align=left><size=36><color=black>Noz-Colosso de Obsidiana frequentemente solta um \"Humph!\" abafado no campo de batalha. As plantas acreditam que é uma demonstração de confiança, enquanto os zumbis acham que é uma provocação direcionada a eles. Apenas o Noz-Colosso de Obsidiana sabe a verdade: é apenas um resfriado severo causado por seu corpo alternar constantemente entre temperaturas gélidas e escaldantes.</color></size></align>",
       "name": "<size=20>Noz-Colosso de Obsidiana",
@@ -4635,7 +4634,7 @@
       "seedType": 5001
     },
     {
-      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Baú Abóbora + Cronoz-Obstáculo</color></size>",
+      "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Baú Abóbora + Noz-Plasmática</color></size>",
       "info": "<size=36>Armazena automaticamente cartas próximas e compartilha o armazenamento entre qualquer local.\n\n<color=#4A2900>Condições de Uso: Modo Odisseia</color>\n<color=black>Resistência: </color><color=#8B0000>16000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a esmagamento, dano recebido é limitado a no máximo 1000 por golpe.\n<color=black>•</color> Mantém todas as características do Baú Abóbora. Armazena automaticamente cartas de plantas em um raio de 3,7 espaços, ganhando 1000 de escudo ao armazenar e perdendo 1000 de escudo ao retirar.\n<color=black>•</color> Todos os Baús Abóbora do Fim compartilham um espaço de armazenamento único e independente que pode ser acessado a partir de qualquer um deles.\n<color=black>•</color> Surge com uma planta aleatória da Odisseia em seu interior ao jogar nos modos Gacha.\n<color=black>Modificadores da Odisseia:\n</color><color=#8B0000>1. Baú Abóbora do Fim: Pode armazenar objetos metálicos soltos e os usa para curar Nozes-Mechatron Gigantes; priorizando aquela com menor vida primeiro.\n2. Baú Abóbora do Fim: O limite de acúmulo para cada compartimento individual agora é dobrado para todos os Baús Abóbora.</color></size>",
       "introduce": "<align=left><size=36><color=black>\"AVISO: NÃO coloque um Baú Abóbora do Fim dentro de outro Baú Abóbora do Fim. Fazer isso pode levar a paradoxos recursivos inesperados ou anomalias caóticas no espaço-tempo.\"\nIsso é o que todo Baú Abóbora do Fim sempre diz. Na verdade, eles só não querem ter que lidar com o enjoo resultante.</color></size></align>",
       "name": "<size=20>Baú Abóbora do Fim",
