@@ -655,7 +655,7 @@
             "seedType": 309,
             "name": "A.L.E.C.",
             "introduce": "<align=left><size=36><color=black>As a rising mainstream celebrity in the midst of a career transition, A.L.E.C.'s finances have long been a hot topic of discussion. His income mainly comes from fighting, appearing on variety shows and interviews, and selling Chomp-nut merchandise. His expenses include image management, volunteering to clean up community trash, and paying Chomper Wall-nut for the royalty fee.</color>",
-            "info": "<size=36>Short for Arsenalized Long-range Elite Chompzilla, he is a perfectly armed powerhouse equipped with a heavy machine gun and sniper rifle.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Sniper: 1800/1.5s\nMachine Gun: 450×12/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Incoming damage is capped at 1/3 Toughness, anti-crush.\n<color=black>•</color> Targets enemies in front across the entire lawn. Fires a single-target laser at the nearest zombie that can target air, then fires bullets that track the same target. Bullets have a 1/8 chance to swallow targets. Can swallow Gargantuars.\n<color=black>•</color> Every 6th attack performs a headshot, dealing 1M damage and activating his Ultimate: \n- Restores health equal to 1× Toughness\n- Summons 12 Giant Zomb-nuts that damage and knock back enemies on contact.\n- Fires bullets continuously along fixed trajectories for 1s. These do not track targets.</color>",
+            "info": "<size=36>Short for Arsenalized Long-range Elite Chompzilla, he is a perfectly armed powerhouse equipped with a heavy machine gun and sniper rifle.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Sniper: 1800/1.5s\nMachine Gun: 450×12/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Incoming damage is capped at 1/3 Toughness, anti-crush.\n<color=black>•</color> Targets enemies in front across the entire lawn. Fires a single-target laser at the nearest zombie that can target air, then fires bullets that track the same target. Bullets have a 1/8 chance to swallow targets. Can swallow giant zombies.\n<color=black>•</color> Every 6th attack performs a headshot, dealing 1M damage and activating his Ultimate: \n- Restores health equal to 1× Toughness\n- Summons 12 Giant Zomb-nuts that damage and knock back enemies on contact.\n- Fires bullets continuously along fixed trajectories for 1s. These do not track targets.</color>",
             "cost": ""
         },
         {
@@ -2622,7 +2622,7 @@
             "seedType": 1174,
             "name": "Chomper Maw",
             "introduce": "<align=left><size=36><color=black>Chomper Maw won the grand prix in an Gourmet king contest, finishing 10 giga garg cakes in 44 seconds — with 3 of those seconds wasted because he didn't hear the starting whistle. \"If there's another event like this, please call me. The buffet near the garden won't let me in anymore,\" said the Chomper Maw during the interview.</color>",
-            "info": "<size=36>Chomper Maw can swallow many zombies at once!\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>\n<color=black>•</color> [8 + 3 × ln(Sum Toughness of Zombies)]s</color>\n<color=black>•</color><color=#8B0000> For reference: Zombie - 24.8 Seconds | Buckethead - 29.9 Seconds | Giga Gargantuar - 34 Seconds | 10 Giga Gargantuars - 41s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can swallow all zombies in a 1.5 tile range, including Gargantuars. Unable to swallow other zombies that have immunity to Chompers. </color>",
+            "info": "<size=36>Chomper Maw can swallow many zombies at once!\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>\n<color=black>•</color> [8 + 3 × ln(Sum Toughness of Zombies)]s</color>\n<color=black>•</color><color=#8B0000> For reference: Zombie - 24.s | Buckethead - 29.9s | Giga Gargantuar - 34s | 10 Giga Gargantuars - 41s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can swallow all zombies in a 1.5 tile range, including giant zombies. Unable to swallow other zombies that have immunity to Chompers. </color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Chomper ∞ [Chomper] ∞ Chomper < Jicamagic (Place on Middle)</color>"
         },
         {
@@ -4330,7 +4330,7 @@
             "seedType": 1418,
             "name": "Springweed",
             "introduce": "<align=left><size=36><color=black>Unlike his lazy cousin, Springweed is very diligent in his work as a mental health therapist. So far, the only prescription he has ever written is: \"Go jump on a trampoline for a while.\"</color>",
-            "info": "<size=36>Springweed launches nearby zombies upward and disorients them.\n\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Launches zombies upward for a short time when attacking. Effect is reduced to 1/3 against gargantuars. Instantly kills Imps. Cannot launch boss zombies or vehicles.</color>",
+            "info": "<size=36>Springweed launches nearby zombies upward and disorients them.\n\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Launches zombies upward for a short time when attacking. Effect is reduced to 1/3 against giant zombies. Instantly kills Imps. Cannot launch boss zombies or vehicles.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed + Melon-pult</color>"
         },
         {
@@ -4344,7 +4344,7 @@
             "seedType": 1420,
             "name": "Cyclover",
             "introduce": "<align=left><size=36><color=black>\"High fan power, do not touch.\" Cyclover warns anyone who tries to get close. \"And also, that's my face, not a fan brand logo.\"</color>",
-            "info": "<size=36>Cyclover blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and gargantuars.</color>",
+            "info": "<size=36>Cyclover blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and giant zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Blover + Blover</color>"
         },
         {
@@ -4596,7 +4596,7 @@
             "seedType": 1456,
             "name": "Gulper-shroom",
             "introduce": "<align=left><size=36><color=black>Gulper-shroom sits \"lower\" on the food chain than Shark-shroom and Orca-shroom, despite having a larger mouth. Well, that's mainly because he simply lives in much deeper waters.</color>",
-            "info": "<size=36>Gulper-shroom grows larger while digesting, with his swallowing ability growing along with it.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Aquatic plant, short plant (before second growth).\n<color=black>•</color> Grows once after finishing digestion, up to 3 times. Each growth reduces digestion time by 10s and increases targeting range forward by 0.37 tiles. After final growth, he can swallow Gargantuars.</color>",
+            "info": "<size=36>Gulper-shroom grows larger while digesting, with his swallowing ability growing along with it.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Aquatic plant, short plant (before second growth).\n<color=black>•</color> Grows once after finishing digestion, up to 3 times. Each growth reduces digestion time by 10s and increases targeting range forward by 0.37 tiles. After final growth, he can swallow giant zombies.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper > Sea-shroom</color>"
         },
         {

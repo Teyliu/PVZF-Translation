@@ -214,7 +214,7 @@
             "theZombieType": 35,
             "name": "Gargantuar",
             "introduce": "<align=left><size=36><color=black>The Gargantuar is like a massive, clumsy beast, its size an advantage at the cost of intelligence. It doesn't understand plants or brains; it only knows how to move forward, relentlessly. </color>",
-            "info": "<size=36>A massive, slow-moving zombie that crushes everything in its way with its enormous size.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Throws an Imp upon reaching half health. Deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
+            "info": "<size=36>A massive, slow-moving zombie that crushes everything in its way with its enormous size.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Throws an Imp upon reaching half health. Deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
         },
         {
             "theZombieType": 36,
@@ -232,7 +232,7 @@
             "theZombieType": 38,
             "name": "Mecha Gargantuar",
             "introduce": "<align=left><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
-            "info": "<size=36>Another invention by Dr. Gargantuar, full-metal and will stomp on your defenses without hesitation.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to most status effects.\n<color=black>•</color> Crushes plants, deals 500 Damage to anti-crush plants and 150 Damage to Spike Rocks.  Deals 1000 Damage to hypnotized zombies every second.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
+            "info": "<size=36>Another invention by Dr. Gargantuar, full-metal and will stomp on your defenses without hesitation.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Immune to most status effects.\n<color=black>•</color> Crushes plants, deals 500 Damage to anti-crush plants and 150 Damage to Spike Rocks. Deals 1000 Damage to hypnotized zombies every second.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
         },
         {
             "theZombieType": 39,
@@ -262,7 +262,7 @@
             "theZombieType": 43,
             "name": "Armored Gargantuar",
             "introduce": "<align=left><size=36><color=black>The Armored Gargantuar is a big fan of a skin called 'Cavalier' from his favorite game. So, he spent a fortune custom-ordering a set of medieval armor tailored just for him. However, when he tried to take it off, he found it was stuck for good... And that's how he ended up with a permanent 'Cadavelier' skin.</color>",
-            "info": "<size=36>Spawns Imps every time he smashes with his mace!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Moves at half the speed of regular Gargantuars.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized, devoured and knocked back, other status effects only last half as long.\n<color=black>•</color> Throws a Mecha-nut ball when its Toughness is at half, spawning 5 Imps when it breaks.\n<color=black>•</color> Spawns 1-3 Imps every time he slams the ground with his mace.\n<color=black>•</color> Always appears in the last wave of stages that has 4 Flags or higher on Difficulty 5 in the first playthrough.</color>"
+            "info": "<size=36>Spawns Imps every time he smashes with his mace!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss & giant zombie. Moves at half the speed of regular Gargantuars.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized, devoured and knocked back, other status effects only last half as long.\n<color=black>•</color> Throws a Mecha-nut ball when its Toughness is at half, spawning 5 Imps when it breaks.\n<color=black>•</color> Spawns 1-3 Imps every time he slams the ground with his mace.\n<color=black>•</color> Always appears in the last wave of stages that has 4 Flags or higher on Difficulty 5 in the first playthrough.</color>"
         },
         {
             "theZombieType": 44,
@@ -304,13 +304,13 @@
             "theZombieType": 50,
             "name": "Frost Legion Shieldbearer",
             "introduce": "<align=left><size=36><color=black>Frost Legion Shieldbearer was once an elite soldier on the battlefield. Now retired, he’s the reigning champion of the graveyard snowball fight tournament. He treasures the shield that brought him so much glory, constantly checking it for scratches—though some say that very habit might be what got him injured and retired in the first place.</color>",
-            "info": "<size=36>A shieldbearer from the snowy plains, he deflects straight-firing projectiles and returns them as snowballs.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Raises shield every 1.5s to reflect straight-firing projectiles as snowballs. Takes 20 damage when reflecting and does not block the projectile. Delivers shield bashes instead of biting when holding the shield, dealing 50 damage.</color>"
+            "info": "<size=36>A shieldbearer from the snowy plains, he deflects straight-firing projectiles and returns them as snowballs.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Raises shield every 1.35s to reflect straight-firing projectiles as snowballs. Takes 20 damage when reflecting and does not block the projectile. Delivers shield bashes instead of biting when holding the shield, dealing 50 damage.</color>"
         },
         {
             "theZombieType": 51,
             "name": "Frost Legion Trident Thrower",
             "introduce": "<align=left><size=36><color=black>At the ongoing 5th Undead Olympics Winter Games, Frost Legion Trident Thrower hogs all the spotlight. He plans to use his prize money to buy a new sled for himself and his crew—and maybe treat them to a luxurious foot massage to make up for all the damage from stepping on Spikeweeds.</color>",
-            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply freeze for 5s on hit.</color>"
+            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Inherits traits from Trident Zombie. Ice Tridents are not attracted by Umbrellas and glaciate plants.</color>"
         },
         {
             "theZombieType": 52,
@@ -340,13 +340,13 @@
             "theZombieType": 56,
             "name": "Snowfur",
             "introduce": "<align=left><size=36><color=black>Research into the biological classification of Snowfurs has seen little progress. After all, you can't expect zombies—who lack brains—to be academically sharp. Most can’t even tell a real Snowfur from a Yeti Zombie in a Snowfur pelt. Thankfully, Dr. Edgar offered a brilliant method: 'The smarter-looking one is the Snowfur.'</color>",
-            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Ice block with no corresponding Zombotany, a Snowfur appears. Moves very slowly, crushes plants, but does not directly attack.</color>"
+            "info": "<size=36>A hostile creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Moves very slowly, crushes plants, but does not directly attack.</color>"
         },
         {
             "theZombieType": 57,
             "name": "Elder Snowfur",
             "introduce": "<align=left><size=36><color=black>Stronger, wiser, and with a heavier tail than other snow beasts, what truly made him leader was his remarkable leap — guiding his kin to the source of the frozen waterfall.</color>",
-            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. When zombies destroy an Ice block with no corresponding Zombotany, a Snowfur appears, with a 1/4 chance of it being an Elder Snowfur. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
+            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
         },
         {
             "theZombieType": 58,
@@ -424,7 +424,7 @@
             "theZombieType": 70,
             "name": "Knight Captain Zombie",
             "introduce": "<align=left><size=36><color=black>Jed and his horse Spiky are superstars in the Seven Undercontinents Zombie Football League. With Spiky's speed and Football launchers he bought at high prices from plants, they sweep through the field. Even though this is a serious foul, and the projectiles aren't even footballs, no one cares as long as he targets the few referees who actually understand football first.</color>",
-            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts as a Giga Buckshot Commando with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
+            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse, Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts as a Giga Buckshot Commando with fully restored HP, and starts to fire Iron peas every 0.1s. If the Knight Captain dies while mounted, drops a Football Helmet.</color>"
         },
         {
             "theZombieType": 71,
@@ -460,7 +460,7 @@
             "theZombieType": 76,
             "name": "Trident Gargantuar",
             "introduce": "<align=left><size=36><color=black>Zombies with higher body fat float more easily, but the Trident Gargantuar Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
-            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Drowning.\n<color=black>•</color> Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
+            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Immune to Drowning.\n<color=black>•</color> Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
         },
         {
             "theZombieType": 77,
@@ -532,7 +532,7 @@
             "theZombieType": 88,
             "name": "Elephant Zombie",
             "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>Toughness: </color>6000\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082>Immune to knockback. When moving forward, crushes plants and pushes non-mini-boss zombies beside its feet forward.</color>"
+            "info": "<size=36>A behemoth that can easily trample your defenses.\n\n<color=black>Toughness: </color>6000\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Immune to knockback. When moving forward, crushes plants and pushes non-mini-boss zombies beside its feet forward.</color>"
         },
         {
             "theZombieType": 89,
@@ -545,6 +545,12 @@
             "name": "Giga Bowling Zomb-nut",
             "introduce": "<align=left><size=36><color=black>If there is one zombie who hates Spikeweed, Red-Eyed Zombie Bowling Ball is definitely among them. Just look at his bloodshot eyes — you can tell he has been poked in the eyes countless times by spikes while rolling across the ground.</color>",
             "info": "<size=36>A stronger Zombie Bowling Ball.\n\n<color=black>Toughness: </color>2700\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>Immune to poison and stuns. Gains speed on slopes. Damages plants on contact, then changes lanes.</color>"
+        },
+        {
+            "theZombieType": 91,
+            "name": "Pole Vaulting Football Zombie",
+            "introduce": "<align=left><size=36><color=black>No one knows why Pole-Vaulting Football Zombie brings a pole to a football game, but according to him, it's because he wants to use it to jump over that horse wearing a jersey.</color>",
+            "info": "<size=36>A Football zombie that also pole-vaults.\n\n<color=black>Toughness: </color>720+1400 (Type 1)\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>Vaults over the first Plant he encounters (blocked by Tall Plants), then loses his pole.</color>"
         },
         {
             "theZombieType": 100,
@@ -592,7 +598,7 @@
             "theZombieType": 107,
             "name": "Cherry-nut Zombie",
             "introduce": "<align=left><size=36><color=black>Real men never turn around to watch explosions, and Cherry-nut Zombie certainly fits the bill, as he often catches bombs with his face.</color>",
-            "info": "<size=36>Has a slight resistance against explosive bullets.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Takes 150 maximum damage from Cherry Bombs, and receives half the damage from explosive cherry projectiles. Immune to on-death freeze from Frozen Cherries.</color>"
+            "info": "<size=36>Has a slight resistance against explosive bullets.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Takes 150 maximum damage from Cherry Bombs, and receives half the damage from explosive cherry projectiles.</color>"
         },
         {
             "theZombieType": 108,
@@ -676,25 +682,25 @@
             "theZombieType": 121,
             "name": "Mystery Gargantuar",
             "introduce": "<align=left><size=36><color=black>Mystery Gargantuar stumbles with a box on his head, maybe to keep you guessing, or maybe to shield his rare, patchwork eyes from the world. Whatever's inside, it's a mystery wrapped in a smash waiting to happen.</color>",
-            "info": "<size=36>Who knows what's waiting for us under that paper mask?\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Smashes plants and turns into a random Gargantuar when his mask is destroyed.</color>"
+            "info": "<size=36>Who knows what's waiting for us under that paper mask?\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Smashes plants and turns into a random Gargantuar when his mask is destroyed.</color>"
         },
         {
             "theZombieType": 122,
             "name": "Turbo Gargantuar",
             "introduce": "<align=left><size=36><color=black>Turbo Gargantuar is always at the forefront in pursuit of fresh brains. Thanks to his outstanding record, Dr. Zomboss once personally awarded him the Second-Class Tombstone Medal. Sadly, as an exemplary warrior, he never gets to join the zombie parade, as his stride just never matches the others.</color>",
-            "info": "<size=36>Fast-moving Gargantuar.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Has ×2 the attack speed, movement speed and throwing speed of a regular Gargantuar.</color>"
+            "info": "<size=36>Fast-moving Gargantuar.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Has ×2 the attack speed, movement speed and throwing speed of a regular Gargantuar.</color>"
         },
         {
             "theZombieType": 123,
             "name": "Shepherd Gargantuar",
             "introduce": "<align=left><size=36><color=black>Shepherd Gargantuar swings his power pole, and Imps swarm out from under the ground. These little troublemakers bring plenty of fun, but headaches, too, to their master's life… especially right after he's cracked open a Wall-nut.</color>",
-            "info": "<size=36>Gargantuar that summons Imps with every smash.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Every time he successfully smashes a plant, an Imp is summoned.</color>"
+            "info": "<size=36>Gargantuar that summons Imps with every smash.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Every time he successfully smashes a plant, an Imp is summoned.</color>"
         },
         {
             "theZombieType": 124,
             "name": "Volley Gargantuar",
             "introduce": "<align=left><size=36><color=black>Volley Gargantuar is a descendant of the Sloth Gargantuar from the Frostbite Caves. Those before him have thrown different things, from throwing Jack-in-the-box Zombies to throwing other Gargantuars. He thought he should go back to the roots and throw more Imps, 5 to be exact, a testament to his lineage.\n\n-Written by Medineer Gaming</color>",
-            "info": "<size=36>Gargantuar with more Imps hiding on his back.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 Imps at once.</color>"
+            "info": "<size=36>Gargantuar with more Imps hiding on his back.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Giant zombie. Throws 5 Imps at once.</color>"
         },
         {
             "theZombieType": 125,
@@ -743,6 +749,12 @@
             "name": "Bedrock Tall-nut Yeti",
             "introduce": "<align=left><size=36><color=black>Bedrock Tall-nut Yeti deeply regrets his curiosity back then. He only put this Tall-Nut on his head for fun, but it became impossible to remove. Now he can only see the world through the Tall-Nut forever. As if that wasn't bad enough, this Tall-Nut's eyes are closed.</color>",
             "info": "<size=36>Wanders across the battlefield with absolute defense, leaving behind a gift when it departs.\n\n<color=black>Toughness: </color><color=#4B0082>160000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to damage. Runs away after being on the field for a period of time, and immediately flees on reaching the left half of the lawn. When hypnotized, damage ×10, health is reduced to 1%, and loses invincibility. Upon death, has a 75% chance to drop a Plant Giftbox; otherwise drops an Imitater.</color>"
+        },
+        {
+            "theZombieType": 133,
+            "name": "Nyan Squash Zombie",
+            "introduce": "<align=left><size=36><color=black>Zombotanies and their corresponding plants often have a rather strained relationship, but Nyan Squash Zombie and Nyan Squash get along remarkably well. They often chat, sing, and shop for new outfits together. Sometimes, she even helps Nyan Squash with hunting for Endoflames to squash on the lawn.</color>",
+            "info": "<size=36>Summons Squash Zombies based on the number of plants crushed.\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>When she encounters a plant, her head detaches from her body and crushes all non-flying plants in the tile. She then summons Squash Zombies in that tile equal to the number of Plants there (up to 3) and dies. If there are 3 or more Plants, she also summons one Spicy Squash Zombie. If she fails to squash any plant, she revives at full HP.</color>"
         },
         {
             "theZombieType": 200,
@@ -820,7 +832,7 @@
             "theZombieType": 212,
             "name": "<u>Abyssal Gargantuar</u>",
             "introduce": "<align=left><size=36><color=black>By ancient writ, it is recorded that the abyssal obsidian armor may only be borne by a body tempered through trials of bitter frost and searing flame. When the kin of zombies art plunged into utmost peril, his visage may yet appear at the heart of the dreadest battlefield. 'Stir not great commotion, lest ye rouse the giant that slumbereth beneath the earth.' A warning to the plants.</color>",
-            "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>32000 + 32000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Mini-boss. While present, provides +500 DR value to all zombies on screen, spawns Abyssal Imps when he smashes the ground, and inherits other traits of the Armored Gargantuar. His smashing range is 2.5 tiles in front of him.</color>\n<color=#8B0000><u>Mini-bosses: </color></u><color=#4B0082>Mini-bosses receive only 5000 damage from insta-kills, are immune to hypnotization, devouring, drowning, cremators, transmutation, shrinking, chronoshift and teleporting, take only 50% the knockback from Umbrellas and possess +100 DR value themselves. They only appear in huge waves of some levels with more than 3 flags. In Odyssey: Evolved, they have ×2 HP.</color>\n<color=#8B0000><u>Armor Mechanic: </color></u><color=#4B0082>Damage taken is reduced to (Damage Taken) × 100/(100 + DR value).</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death</color>"
+            "info": "<size=36>An ancient, eldritch and insidious threat.\n\n<color=black>Toughness: </color><color=#4B0082>32000 + 32000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Mini-boss, giant zombie. . While present, provides +500 DR value to all zombies on screen, spawns 1-3 Abyssal Imps when he smashes the ground, and throws a Mecha-nut Zombie at half health. His smashing range is 2.5 tiles in front of him and deals 7200 damage to hypnotized zombies.</color>\n<color=#8B0000><u>Mini-bosses: </color></u><color=#4B0082>Mini-bosses receive only 5000 damage from insta-kills, are immune to hypnotization, devouring, drowning, cremators, transmutation, shrinking, chronoshift and teleporting, take only 50% the knockback from Umbrellas and possess +100 DR value themselves. They only appear in huge waves of some levels with more than 3 flags. In Odyssey: Evolved, they have ×2 HP.</color>\n<color=#8B0000><u>Armor Mechanic: </color></u><color=#4B0082>Damage taken is reduced to (Damage Taken) × 100/(100 + DR value).</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Summons Dr. Zomboss on death</color>"
         },
         {
             "theZombieType": 213,
@@ -861,7 +873,7 @@
         {
             "theZombieType": 219,
             "name": "<u>Ultra Mecha-nut Zombie</u>",
-            "introduce": "<align=left><size=36><color=black>The Ultra Mecha-nut Zombie was meant to be a smaller, precise Giga Mecha-Nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
+            "introduce": "<align=left><size=36><color=black>The Ultra Mecha-nut Zombie was meant to be a smaller, precise Giga Mecha-nut, but a blueprint mix-up made it much bigger. The engineers noticed too late—so they just <i>rolled</i> with it.</color>",
             "info": "<size=36>Secret artifact of the Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>300000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Extremely Fast</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Inherits traits from Giga Mecha-nut.\n<color=black>•</color> Takes a maximum of 300 damage per hit after damage reduction calculations.\n<color=black>•</color> The Ultra Mecha-nut Zombie Zombie reduces the damage taken by all other zombies (except Mystery-box Zombies) to 1, but redirects the original damage to itself.</color>"
         },
         {
@@ -898,7 +910,7 @@
             "theZombieType": 225,
             "name": "Buckshot Commando Zombie",
             "introduce": "<align=left><size=36><color=black>Buckshot Commando Zombie is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
-            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
+            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now ignores plants when moving\n2. Now shoots Cursed iron peas instead</color>"
         },
         {
             "theZombieType": 226,
@@ -916,7 +928,7 @@
             "theZombieType": 228,
             "name": "<u>Ice-borg Executrix Mk. Alpha</u>",
             "introduce": "<align=left><size=36><color=black>With blades of ice and a cloak of blizzard, she carves statues from shattered flesh and molds divine power with unyielding will. An artificial deity, a specter of the tundra. When hell reunites us, will she remember this land of sorrow?</color>",
-            "info": "<size=36>Sovereign of the Frozen Tundra.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to chill, knock-backs and stuns.\n<color=black>•</color> Crushes plants. Attacks freeze plants for 5s. \n<color=black>•</color> Upon entering, performs a slash that damages all plants in front (can be protected by Pumpkin), then releases 5 snowballs around her lane, each damaging a 3×3 area.\n<color=black>•</color> Afterwards, slashes or performs a normal attack every 3s — lower HP increases chance for slash.\n<color=black>•</color> Normal attacks launch 4 ice swords forward.\n<color=black>•</color> On Snow map, has a chance to summon a blizzard instantly.</color>"
+            "info": "<size=36>Sovereign of the Frozen Tundra.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to chill, knock-backs and stuns.\n<color=black>•</color> Crushes plants. Attacks freeze plants for 5s. \n<color=black>•</color> Upon entering, performs a slash that damages all plants in front (can be protected by Pumpkin), then releases 5 snowballs around her lane, each damaging a 3×3 area.\n<color=black>•</color> Afterwards, slashes or performs a normal attack every 3s — lower HP increases chance for slash.\n<color=black>•</color> Normal attacks launch 4 ice swords forward and has a chance to unleash a large amount of white snowballs.\n<color=black>•</color> On Snow map, has a chance to summon a blizzard instantly.</color>"
         },
         {
             "theZombieType": 229,
@@ -946,7 +958,7 @@
             "theZombieType": 233,
             "name": "Element-infused Gargantuar",
             "introduce": "<align=left><size=36><color=black>Long ago, Master Zomboss sought to train more versatile soldiers by infusing his Gargantuars with the powers of the four elements - fire, water, air, and earth. The experiment was a success… mostly. While the Fire-forged, Wind-charged and Soil-bound Gargs quickly bonded over their newfound strength, the Tide-tempered Garg found himself left out. \"We already make a perfect set of signal colors without you,\" the other three grumbled. \"Red, yellow, green - you're just… extra blue.\"</color>",
-            "info": "<size=36>A fully armed Gargantuar zombie with eye color indicating their elemental affinity.\n\n<color=black>Toughness: </color><color=#4B0082>16000 + 16000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Does not throw Imps. Smashing deals 3600 damage to hypnotized zombies. Gains one of four appearances (eye colors) at spawn, each with unique elemental affinity:\n<color=red>• Flame-forged Gargantuar:</color> Immune to Enflamed; has inherent +200 DR value.\n<color=blue>• Tide-tempered Gargantuar:</color> Immune to chill, freeze, and knockback; has double speed; each smash counts as 5 attacks.\n<color=yellow>• Wind-charged Gargantuar:</color> Immune to stun; jumps a short distance forward after each smash and does an additional smash.\n<color=green>• Soil-bound Gargantuar:</color> Immune to poison; recovers 10% max HP after smashing.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Appearance no longer matters, now has the extra abilities of all four affinities at once\n2. Smashing now causes corresponding Element-infused Imps to appear</color>"
+            "info": "<size=36>A fully armed Gargantuar zombie with eye color indicating their elemental affinity.\n\n<color=black>Toughness: </color><color=#4B0082>16000 + 16000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Does not throw Imps. Smashing deals 3600 damage to hypnotized zombies. Gains one of four appearances (eye colors) at spawn, each with unique elemental affinity:\n<color=red>• Flame-forged Gargantuar:</color> Immune to Enflamed; has inherent +200 DR value.\n<color=blue>• Tide-tempered Gargantuar:</color> Immune to chill, freeze, and knockback; has double speed; each smash counts as 5 attacks.\n<color=yellow>• Wind-charged Gargantuar:</color> Immune to stun; jumps a short distance forward after each smash and does an additional smash.\n<color=green>• Soil-bound Gargantuar:</color> Immune to poison; recovers 10% max HP after smashing.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Appearance no longer matters, now has the extra abilities of all four affinities at once\n2. Smashing now causes corresponding Element-infused Imps to appear</color>"
         },
         {
             "theZombieType": 234,
@@ -988,13 +1000,13 @@
             "theZombieType": 240,
             "name": "Trident Jugger-nut Gargantuar",
             "introduce": "<align=left><size=36><color=black>When Gargantuars of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut Gargantuar always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred Wall-nuts.</color>",
-            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> For each type of Gargantuar or Elephant present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
+            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. For each type of Giant or Mini-boss zombie present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
         },
         {
             "theZombieType": 241,
             "name": "Celestial Gargantuar",
             "introduce": "<align=left><size=36><color=black>When the old Master Zomboss refined the Elemental Gargantuars, he believed their training incomplete - he felt something invisible behind their powers he could not fully grasp. That unseen medium was Aether, the fifth element whispered of in forgotten notes, the substance that carries force, binds matter, and fills the space between. By anchoring the element into a Gargantuar's body, Dr. Zomboss created a titan that does not merely wield the elements, but moves through them as though the world itself were obliged to make way.</color>",
-            "info": "<size=36>When heavily wounded, becomes impervious to all effects, summons clones, and gains sky-crumbling power under their cover.\n\n<color=black>Damage: </color><color=#4B0082>4800 (smash)</color>\n<color=black>Toughness: </color><color=#4B0082>18000 +18000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to hypnotization and knockback. When the main body's HP first drops below 50% max, Enflamed, Irradiated, Poison, Chill, and Freeze debuffs are removed; for each debuff removed, recovers HP equal to 5% of its maximum toughness, then permanently gains immunity to all five and butter. At the same time, summon one Element-infused Gargantuar clone in each row of this column, each with 1/3 of the main body's toughness. While any clone exists, the main body is immune to damage. If any clones remain after 15s, Celestial Gargantuar absorbs them all, enters gigantified state with double Toughness and Attack Power, and afterward each of his attack additionally deals damage equal to (20% of Attack Power × [number of absorbed clones]) to all plants on the field.\n<color=black>•</color> When the main body's HP first drops below 1% max, recover HP equal to 5% of its max toughness.</color>"
+            "info": "<size=36>When heavily wounded, becomes impervious to all effects, summons clones, and gains sky-crumbling power under their cover.\n\n<color=black>Damage: </color><color=#4B0082>4800 (smash)</color>\n<color=black>Toughness: </color><color=#4B0082>18000 +18000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Immune to hypnotization and knockback. When the main body's HP first drops below 50% max, Enflamed, Irradiated, Poison, Chill, and Freeze debuffs are removed; for each debuff removed, recovers HP equal to 5% of its maximum toughness, then permanently gains immunity to all five and butter. At the same time, summon one Element-infused Gargantuar clone in each row of this column, each with 1/3 of the main body's toughness. While any clone exists, the main body is immune to damage. If any clones remain after 15s, Celestial Gargantuar absorbs them all, enters gigantified state with double Toughness and Attack Power, and afterward each of his attack additionally deals damage equal to (20% of Attack Power × [number of absorbed clones]) to all plants on the field.\n<color=black>•</color> When the main body's HP first drops below 1% max, recover HP equal to 5% of its max toughness.</color>"
         },
         {
             "theZombieType": 242,
@@ -1054,7 +1066,7 @@
             "theZombieType": 251,
             "name": "Black Knight Zombie",
             "introduce": "<align=left><size=36><color=black>\"This is unfair! Football is a contact sport! Am I really being penalized just for tackling too hard?\" Black Knight Zombie grumbled indignantly. \"Oh, certainly not. It was your horse that committed the foul; you may continue to participate in the match.\"</color>",
-            "info": "<size=36>Charges at plants riding a cursed steed in iron armor.\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 6000 (Type 2)\n<color=black>Movement Speed: </color>Medium Fast; Extremely Fast when Charging\n<color=black>Traits:</color>\n<color=black>•</color> Immune to knockback.\n<color=black>•</color> Rides a steed that crushes plants.\n<color=black>•</color> Enters by charging; upon hitting a plant, applies [0.05 × (Plant HP + Toughness) / 2] curse stacks to that plant. Then advances steadily, applying [0.01 × (Plant HP + Toughness) / 2] curse stacks when crushing.\n<color=black>•</color> When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Football Zombie.</color>"
+            "info": "<size=36>Charges at plants riding a cursed steed in iron armor.\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 6000 (Type 2)\n<color=black>Movement Speed: </color>Medium Fast; Extremely Fast when Charging\n<color=black>Traits:</color>\n<color=black>•</color> Immune to knockback.\n<color=black>•</color> Rides a steed that crushes plants.\n<color=black>•</color> Enters by charging; upon hitting a plant, applies [0.05 × (Plant HP + Toughness) / 2] curse stacks to that plant. Then advances steadily, applying [0.01 × (Plant HP + Toughness) / 2] curse stacks when crushing.\n<color=black>•</color> When the steed is defeated, dismounts, fully restores HP, and transforms into a Giga Football Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Charging now applies curse stacks to plants in a 3×3 area\n2. All crushing zombies now receive only half the knockback from anti-crush plants</color>"
         },
         {
             "theZombieType": 252,
@@ -1066,13 +1078,13 @@
             "theZombieType": 253,
             "name": "Devil-in-the-Box Zombie",
             "introduce": "<align=left><size=36><color=black>Devil-in-the-Box Zombie is practically the busiest zombie in the graveyard. She participates in chess matches between the Striker and the Archduke, plays the Man in the Iron Mask in the weekly medieval opera performances, serves as the center for the basketball team, and disguises herself as a horned devil to scare the Imp Zombies running around by the river. The rest of her time is spent mending the clothes she tore during these activities.</color>",
-            "info": "<size=36>Can throw cursed Jack-in-the-Boxes from a distance.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)\n<color=black>Traits: </color>\n<color=black>•</color> Her Jack-in-the-Box cannot be attracted by magnets.\n<color=black>•</color> Has a small chance of self-detonation after a short period of time, but a higher probability of throwing it at the last column of plants.\n<color=black>•</color> When it self-detonates, it triggers a Jack-in-the-Box explosion, but the bomb box only deals 1000 physical damage when thrown. Either way, the bomb applies [10% × (Plant HP + Toughness) / 2] curse stacks to plants caught in the explosion or Umbrellas that have deflected the bomb.</color>"
+            "info": "<size=36>Can throw cursed Jack-in-the-Boxes from a distance.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)\n<color=black>Traits: </color>\n<color=black>•</color> Her Jack-in-the-Box cannot be attracted by magnets.\n<color=black>•</color> Has a small chance of self-detonation after a short period of time, but a higher probability of throwing it at the last column of plants.\n<color=black>•</color> When it self-detonates, it triggers a Jack-in-the-Box explosion, but the bomb box only deals 1000 physical damage when thrown. Either way, the bomb applies [10% × (Plant HP + Toughness) / 2] curse stacks to plants caught in the explosion or Umbrellas that have deflected the bomb.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Curse stacks applied by the Bomb Box ×2 and regenerates a Bomb Box every 6s\n2. Bomb Boxes are now immune to Umbrella deflection and spawns another Devil-in-the-Box Zombie upon landing</color>"
         },
         {
             "theZombieType": 254,
             "name": "War Elephant Zombie",
             "introduce": "<align=left><size=36><color=black>After comprehensively considering the graveyard's size and material supplies, Dr. Zomboss decided that War Elephant Zombies should be deployed in squads of at most three. However, the Striker and the Archduke raised objections, arguing that three elephants are simply not enough for them to play a game of Chinese chess.</color>",
-            "info": "<size=36>Guards the General and Commander until death.\n\n<color=black>Toughness: </color><color=#4B0082>18000\n<color=black>Damage: </color>1800\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color>\n<color=black>•</color> Only appears in Flag waves.\n<color=black>•</color> Immune to knockback and being hypnotized.\n<color=black>•</color> Regardless of where it comes from, takes damage on behalf of the Giga Football Striker and Archduke Deathrider.\n<color=black>•</color> Every 12th attack causes a crush, pushing non-mini-boss zombies at its feet forward by 0.74 tiles.\n<color=black>Odyssey Modifiers: </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all Mini-boss Zombies gain 100 DR Value</color>"
+            "info": "<size=36>Guards the General and Commander until death.\n\n<color=black>Toughness: </color><color=#4B0082>18000\n<color=black>Damage: </color>1800\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color>\n<color=black>•</color> Only appears in Flag waves.\n<color=black>•</color> Giant zombie. Immune to knockback and being hypnotized.\n<color=black>•</color> Regardless of where it comes from, takes damage on behalf of the Giga Football Striker and Archduke Deathrider.\n<color=black>•</color> Every 12th attack causes a crush, pushing non-mini-boss zombies at its feet forward by 0.74 tiles.\n<color=black>Odyssey Modifiers: </color>\n1. Spawns in groups of 3\n2. For each one present on the field, all Mini-boss Zombies gain 100 DR Value</color>"
         },
         {
             "theZombieType": 255,
@@ -1106,9 +1118,15 @@
         },
         {
             "theZombieType": 260,
-            "name": "<u><i>Striker Boss (WIP)</i></u>",
-            "introduce": "<align=left><size=36><color=red><i>NOTE: This zombie is a work in progress and will be finished in a future update.</i></color>",
-            "info": "<color=red>NOTE: This zombie is a work in progress and will be finished in a future update.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Movement Speed: </color>Fast\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to chill, freeze, knockback, stuns, and lane-switching effects. Instantly kills any hypnotized zombies it touches and converts any plant it touches into a Giga Football-nut Zombie.\n<color=black>•</color> Enters from the right side of the field, planting 3 flags ahead of itself. Each flag spawns Football-themed zombies every 5 seconds up to 5 times.\n<color=black>•</color> Upon reaching the second column, retreats back to the right side of the field and re-enters to plant flags again.</color>"
+            "name": "<u><i>Last Striker</i></u>",
+            "introduce": "<align=left><size=36><color=red>War is a grand drama with no final act. This is Last Striker's promise to return to the battlefield. He frees the vengeful spirits bound within his war banners and unleashes the power buried within him. Revenge after defeat? Or pursuit after victory? He cares not. It is the war itself that he enjoys.</color>",
+            "info": "<color=red>Your towering walls are nothing but fleeting illusions.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Movement Speed: </color>Fast\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to chill, freeze, knockback, stuns, and lane-switching effects. Instantly kills any hypnotized zombies it touches. Enters in Charge Formation state when spawned, then changes state each time he re-enters.\n<color=black>• Charge Formation:</color> Enters from the right side of the field, planting 3 banners ahead of himself. Each banner spawns a Football-type zombie every 5s for 5 and lasts 5 summons. Attacks convert plants into Giga Football-nut Leader Zombies. Retreats and re-enters the field upon reaching the 2nd column.\n<color=black>• Acrobat Formation:</color> Rolls back and forth across the lawn, changing lanes whenever he reaches the 2nd or rightmost column and converts all plants encountered into Giga Football Strikers. Retreats and re-enters the lawn after 20s.</color>"
+        },
+        {
+            "theZombieType": 261,
+            "name": "<u><i>Jackson Universe</i></u>",
+            "introduce": "<align=left><size=36><color=red>This is the final frontier of his world tour, the swan song of a stage legend. Fans from around the galaxy have gathered for one last show of madness. The songs and dances go on again and again; no one wants it to end. Stage smoke rises, if only to hide the reluctant eyes of those who cannot bear to say goodbye.</color>",
+            "info": "<color=red>A flawless stage tour that never takes its final bow.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Movement Speed: </color>Fast\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to chill, freeze, stuns, poison, enflamed and tire puncturing. While negating chill, poison, or enflamed effects, takes damage equal to 0.01%, 0.04% or 0.04% of its HP, respectively.\n<color=black>•</color> Instantly kills any plants or hypnotized zombies it touches and deals continuous damage to Spikeweeds and Spikerocks.\n<color=black>•</color> Moves back and forth across the right half of the lawn. Changes lanes every 5s. Approximately every 10s, summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters.</color>"
         },
         {
             "theZombieType": 300,
@@ -1330,19 +1348,19 @@
             "theZombieType": 336,
             "name": "Shadow Elephant",
             "introduce": "<align=left><size=36><color=black>Volcano tours are the hottest attraction offered by the Zombie Travel Agency. Zombie elephants absolutely love soaking in sulfurous fumes or strolling through showers of sparks. The result is obvious: their darkened skin gives them a significantly higher success rate when being selected for the Giga Football forces.</color>",
-            "info": "<size=36>Uses its tusks to quickly crush plants.\n\n<color=black>Damage: </color><color=#4B0082>1800 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Immune to knockback and hypnotization.</color>"
+            "info": "<size=36>Uses its tusks to quickly crush plants.\n\n<color=black>Damage: </color><color=#4B0082>1800 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Giant zombie. Immune to knockback and hypnotization.</color>"
         },
         {
             "theZombieType": 337,
             "name": "Terror Elephant",
             "introduce": "<align=left><size=36><color=black>The War Elephants have grown tired of life in the Giga Football forces. Endless training, slaughter, betrayal, survival of the fittest... It no longer trusts any zombies, its own kind, or even fruit. The only thing it can rely on is the perfectly fitted bone helmet covering its face — a trophy obtained after betraying another of its kind.</color>",
-            "info": "<size=36>Tramples plants during its assault and sends zombies deeper into the defensive line.\n\n<color=black>Damage: </color><color=#4B0082>3600 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>36000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Immune to knockback and hypnotization. Every 12th attack performs a crush attack, pushing non-boss zombies in front of it forward by 0.74 tiles.</color>"
+            "info": "<size=36>Tramples plants during its assault and sends zombies deeper into the defensive line.\n\n<color=black>Damage: </color><color=#4B0082>3600 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>36000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Giant zombie. Immune to knockback and hypnotization. Every 12th attack performs a crush attack, pushing non-boss zombies in front of it forward by 0.74 tiles.</color>"
         },
         {
             "theZombieType": 338,
             "name": "Crimson Elephant",
             "introduce": "<align=left><size=36><color=black>Crimson Elephant lets out an enraged roar and stomps the ground with all four feet, shaking the earth itself. After escaping the laboratory years ago, it not only rejoined the Giga Football forces, but grew into an elite war elephant and was equipped with specialized heavy armor. Yet the cactus spine it stepped on during that chaotic escape is still stuck in its foot to this day.</color>",
-            "info": "<size=36>Launches a devastating assault on the front lines, pushing troops forward and unleashing a powerful shockwave.\n\n<color=black>Damage: </color><color=#4B0082>7200 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>72000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Immune to knockback and hypnotization. Every 5th attack performs a crush attack, pushing non-boss zombies in front of it forward by 0.74 tiles and dealing area damage within a 1.5-tile radius.</color>"
+            "info": "<size=36>Launches a devastating assault on the front lines, pushing troops forward and unleashing a powerful shockwave.\n\n<color=black>Damage: </color><color=#4B0082>7200 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>72000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Giant zombie. Immune to knockback and hypnotization. Every 5th attack performs a crush attack, pushing non-boss zombies in front of it forward by 0.74 tiles and dealing area damage within a 1.5-tile radius.</color>"
         }
     ]
 }
