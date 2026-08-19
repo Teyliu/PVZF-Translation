@@ -333,7 +333,7 @@
             "seedType": 218,
             "name": "Prickly Bear",
             "introduce": "<align=left><size=36><color=black>\"If one were to go travelling, where would be a good place to go?\"\nPrickly Bear often pondered this question, although he himself laid lazily in place. He was rather delighted to help dutiful bullets fly off in all directions to seek out unique scenery themselves.",
-            "info": "Prickly Bear reflects plant projectiles with a resilient body.\n\n<color=black>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of projectiles that come in contact with itself (left -> right, right -> left).\n<color=black>•</color> A maximum of 29 projectiles can be alternated in each 1.5s.</color>",
+            "info": "Prickly Bear reflects plant projectiles with a resilient body.\n\n<color=black>Special:\n</color><color=#8B0000><color=black>•</color> Alternates the direction of projectiles that come in contact with itself (left -> right, right -> left, all other directions -> left).\n<color=black>•</color> A maximum of 29 projectiles can be alternated in each 1.5s.</color>",
             "cost": ""
         },
         {
@@ -375,14 +375,14 @@
             "seedType": 224,
             "name": "Bucket",
             "introduce": "<align=left><size=36><color=black>Ever since the first bucket was made, it has found many unusual uses: armor, fusion materials, roadblocks, and more. Yet despite all that, it has never once been used as an actual bucket.</color>",
-            "info": "<size=36>The Bucket can fuse with certain plants, making them hard as iron.\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Can be placed (planted) on the ground like a normal plant, or used as a fusion ingredient.\n<color=black>•</color> Plants with Bucket in their recipe have higher toughness and take half damage from explosive cherries.</color>",
+            "info": "<size=36>The Bucket can fuse with certain plants, making them hard as iron.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Can be placed (planted) on the ground like a normal plant, or used as a fusion ingredient.\n<color=black>•</color> Plants with Bucket in their recipe have higher toughness and take half damage from explosive cherries.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 225,
             "name": "Football Helmet",
             "introduce": "<align=left><size=36><color=black>\"You can find these things everywhere on a football field,\" the plants say. But the Football Gatling replies solemnly: \"This helmet is special, because its former owner truly understood football.\"</color>",
-            "info": "<size=36>The Football Helmet can fuse with certain plants, making them hard as steel.\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Can be placed (planted) on the ground like a normal plant, or used as a fusion ingredient.\n<color=black>•</color> Plants with Football Helmet in their recipe have higher toughness and take half damage from explosive cherries.</color>",
+            "info": "<size=36>The Football Helmet can fuse with certain plants, making them hard as steel.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Can be placed (planted) on the ground like a normal plant, or used as a fusion ingredient.\n<color=black>•</color> Plants with Football Helmet in their recipe have higher toughness and take half damage from explosive cherries.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
@@ -4274,7 +4274,7 @@
             "seedType": 1412,
             "name": "Starshooter",
             "introduce": "<align=left><size=36><color=black>Starshooter is very proud of itself and believes it shines like a star in the sky. Although others tell it that it does not actually emit light capable of piercing fog or darkness, this does not affect its good mood, and it even helps decorate a city hall ceiling with a starry sky design.</color>",
-            "info": "<size=36>Starshooter fires star peas that split into multiple stars before impact.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectile split into 5 star projectiles in all directions every 0.5s (first at 0.2s), up to 5 times.</color>",
+            "info": "<size=36>Starshooter fires star peas that split into multiple stars before impact.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles split into 5 star projectiles in all directions every 0.5s (first at 0.2s), up to 5 times.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter +Starfruit</color>"
         },
         {
@@ -4337,7 +4337,7 @@
             "seedType": 1421,
             "name": "Hot Potato",
             "introduce": "<align=left><size=36><color=black>Hot Potato only wanted to be an ordinary landmine, until an incendiary shell landed on his fuse. Though he's unhappy about no longer being able to stay hidden, becoming the darling of the mess hall has turned out to be a blessing in disguise.</color>",
-            "info": "<size=36>Hot Potato ignites Small Peas and Potato Peas, creating Roasted Potatoes from them.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Affects certain projectiles that pass through it:\n\tSmall Peas, Potato Peas: Ignited, +20 damage\n\tRolling Wall-nuts: Damage ×2 and piercing count reset\n<color=black>•</color> For every 100+ projectiles affected, creates a non-fusable Roasted Potato ahead (Potato Peas count as 8 projectiles).\n<color=black>•</color> Triggers a Potato Mine explosion upon death.</color>",
+            "info": "<size=36>Hot Potato ignites Small Peas and Potato Peas, creating Roasted Potatoes from them.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Affects certain projectiles that pass through it:\n\tSmall Peas, Potato Peas: Ignited, +20 damage\n\tRolling Wall-nuts: Damage ×2 and piercing count reset\n<color=black>•</color> For every 100+ projectiles affected, a Roasted Potato is spawned in front. (Potato Peas count as 8 projectiles).\n<color=black>•</color> Triggers a Potato Mine explosion upon death.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Torchwood</color>"
         },
         {
