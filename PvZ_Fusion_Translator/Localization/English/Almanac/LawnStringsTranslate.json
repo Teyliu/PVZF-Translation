@@ -4330,7 +4330,7 @@
             "seedType": 1420,
             "name": "Cyclover",
             "introduce": "<align=left><size=36><color=black>\"High fan power, do not touch.\" Cyclover warns anyone who tries to get close. \"And also, that's my face, not a fan brand logo.\"</color>",
-            "info": "<size=36>Cyclover blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and gargantuars.</color>",
+            "info": "<size=36>Cyclover blows back approaching zombies, especially effective against zombies in the air.\n\n<color=black>Special: </color><color=#8B0000>Every 3s, if there are ground zombies ahead, slowly pushes back up to 3 nearest zombies. Effect is doubled on flying zombies, tripled on zombies knocked into the air, and reduced to 1/3 against vehicles and gargantuars.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Blover + Blover</color>"
         },
         {
