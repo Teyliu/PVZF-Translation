@@ -256,7 +256,7 @@
             "seedType": 36,
             "name": "Spruce Sharpshooter",
             "introduce": "<align=left><size=36><color=black>Spruce Sharpshooter just moved to the snowy plains. His pursed lips make him look fierce and hard to approach. But Firnace isn't scared—he knows that expression is just from his new friend pulling up his collar because the snowfield is just that cold.</color>",
-            "info": "<size=36>Spruce Sharpshooter is a cold-resistant archer that fires piercing spruce needles.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Projectiles pierce once (including ice blocks) and ignore handheld armor (Type 2).</color>",
+            "info": "<size=36>Spruce Sharpshooter is a cold-resistant archer that fires piercing spruce needles.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles pierce once (including ice blocks) and ignore handheld armor (Type 2).</color>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -2923,7 +2923,7 @@
             "seedType": 1217,
             "name": "Spruce Sawshooter",
             "introduce": "<align=left><size=36><color=black>In the snowy plains, it’s said that the taller the Christmas tree, the happier the next year will be. So who can place the star on top? That's a job for the Spruce Sawshooter and his unmatched aim.</color>",
-            "info": "<size=36>Spruce Sawshooter fires piercing saws that latch onto zombies.\n\n<color=black>Damage: </color><color=#8B0000>80/3s; 1×75/1.5s (Spinning spruce needle)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Projectiles pierce once (including ice blocks) and leave spinning spruce needles on the first zombie hit.\n<color=black>•</color> Spinning needles deal 1 damage every 0.02s for 1.5s.</color>",
+            "info": "<size=36>Spruce Sawshooter fires piercing saws that latch onto zombies.\n\n<color=black>Damage: </color><color=#8B0000>80/3s; 1×75/1.5s (Spinning spruce needle)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles pierce once (including ice blocks) and leave spinning spruce needles on the first zombie hit.\n<color=black>•</color> Spinning needles deal 1 damage every 0.02s for 1.5s.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Spruce Sharpshooter + Saw-me-not</color>"
         },
         {
@@ -3224,7 +3224,7 @@
             "seedType": 1260,
             "name": "Bamboo Shooter",
             "introduce": "<align=left><size=36><color=black>The zombies thought they could avoid any road accidents by steering clear of Bamblocks. But ever since the Bamboo Shooter arrived, sharpened shoots started flying their way. Scattering in panic, they fled while shouting, \"Shoot! Shoots!\"</color>",
-            "info": "<size=36>Bamboo Shooter fires bamboo bolts that deal high damage at the cost of Bamboo Shooters' own health!\n\n<color=black>Toughness: </color><color=#8B0000>1800</color>\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Shots pierce once.\n<color=black>•</color> When a shot hits a zombie: If HP is higher than the zombie's, deals damage equal to the HP difference to self and the zombie is instantly killed. If lower, HP is reduced to a minimum of 300, and the zombie takes damage equivalent to the difference. This ability does not activate if HP is 300 or lower.</color>",
+            "info": "<size=36>Bamboo Shooter fires bamboo bolts that deal high damage at the cost of Bamboo Shooters' own health!\n\n<color=black>Toughness: </color><color=#8B0000>1800</color>\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Shots pierce once.\n<color=black>•</color> When a shot hits a zombie: If HP is higher than the zombie's, deals damage equal to the HP difference to self and the zombie is instantly killed. If lower, HP is reduced to a minimum of 300, and the zombie takes damage equivalent to the difference. This ability does not activate if HP is 300 or lower.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spruce Sharpshooter + Bamblock</color>"
         },
         {
