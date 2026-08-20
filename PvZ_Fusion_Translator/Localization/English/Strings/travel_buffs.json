@@ -756,7 +756,7 @@
         },
         "34": {
             "name": "Ravenous Reach",
-            "desc": "Tyrannoflora Lux: Attack effect range ×2 (activation range unchanged)"
+            "desc": "Tyrannoflora Lux: Attack effect range ×2 (currently bugged and does nothing)"
         },
         "35": {
             "name": "Luminous Feast",
