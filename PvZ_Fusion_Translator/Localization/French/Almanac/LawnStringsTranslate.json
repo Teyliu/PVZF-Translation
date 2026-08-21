@@ -4710,6 +4710,76 @@
             "introduce": "<align=left><size=36><color=black>Les Cerises Surprises sont espiègles et joyeuses. Elles adorent les fêtes et les jeux, et dès que quelqu’un fête son anniversaire, elles bondissent sur le gâteau pour faire sursauter le roi ou la reine du jour. Elles sont très sûres de leur saveur et de leur texture : assurément plus croquantes et plus juteuses que les cerises qui garnissent d’ordinaire les gâteaux.</color>",
             "info": "<size=36>Cerise Surprise accroche aux zombies une cerise à demi mûre, qui produit une explosion plus puissante après un délai.\n\n<color=black>Dégâts : </color><color=#8B0000>900 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse, empilable.\n<color=black>•</color> Au contact d’un zombie non volant ou à sa mort, accroche à un zombie aléatoire dans un rayon de 1,5 case une cerise à demi mûre dont les dégâts de base égalent sa propre puissance d’attaque, puis inflige des dégâts d’explosion de Cerise dans un rayon de 1,5 case (même effet que l’explosion de la Cerise Explosive).</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1452,
+            "name": "Champi-glouton",
+            "introduce": "<align=left><size=36><color=black>Le Champi-glouton se soucie beaucoup de son hygiène bucco-dentaire : il a peur d’être torturé par sa propre haleine chaque fois qu’il se cache. Une question le ronge d’ailleurs depuis toujours : pour se laver la tête, doit-il utiliser du shampoing ou du bain de bouche ?</color>",
+            "info": "<size=36>Lorsqu’il prend peur, le Champi-glouton avale les zombies proches, puis recrache des morceaux de cadavres pour attaquer une fois la menace passée.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il prend peur, avale jusqu’à 3 zombies dans une zone de 3×3. Cet effet entre ensuite dans un temps de recharge de 40 s, pendant lequel il tire des morceaux de cadavres roulant au sol, à perforation infinie.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-peureux</color>"
+        },
+        {
+            "seedType": 1453,
+            "name": "Champi-touffu",
+            "introduce": "<align=left><size=36><color=black>\" C’est la coiffure la plus tendance du moment. Non seulement elle met en valeur mon côté beau gosse distingué, mais elle est aussi incroyablement sûre : elle arrête la poussière, les ballons de basket et les zombies qui tombent du ciel. \" Le Champi-touffu ne se lasse jamais de vanter sa nouvelle coupe. Évidemment, tous ses amis connaissent la vraie raison de son enthousiasme : cette coiffure cache son embout tordu./color>",
+            "info": "<size=36>Le Champi-touffu absorbe la force des attaques des zombies et la convertit en fumée plus puissante.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (Perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sa fumée inflige des dégâts supplémentaires équivalant à l’Énergie actuellement stockée, puis consomme toute l’Énergie.\n<color=black>•</color> Lorsqu’il subit des dégâts autres que les dégâts auto-infligés par la répulsion, gagne de l’Énergie équivalant à 50 % des dégâts subis, jusqu’à 1× sa Robustesse, puis réduit ces dégâts de 90 %.\n<color=black>•</color> Après avoir dévié un projectile, gagne de l’Énergie équivalant aux dégâts du projectile.\n<color=black>•</color> Répulsion de l’ombrelle : inflige une fois des dégâts égaux à sa puissance d’attaque, puis gagne une fois la même quantité d’Énergie pour chaque zombie repoussé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Ombrelle</color>"
+        },
+        {
+            "seedType": 1454,
+            "name": "Pot Maudit",
+            "introduce": "<align=left><size=36><color=black>L’un des plus grands secrets du Pot Maudit, c’est sa composition : quel genre de pot de fleurs peut sortir parfaitement intact d’une explosion atomique ? \" Eh bien, parfaitement intact, c’est beaucoup dire. \" Il a un petit rire. \" Un matériau souple spécial, plus un revêtement résistant à la chaleur. Ça marche plutôt bien, vous ne trouvez pas ? \"</color>",
+            "info": "<size=36>Le Pot Maudit sacrifie sa propre santé pour empêcher l’apparition de cratères.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut perdre 75 PV max, puis perdre des PV équivalant à 20 % de ses PV max, pour empêcher un cratère de se former sur sa case.\n<color=black>•</color> Tant qu’il est présent, réduit le temps de récupération des cratères à 90 s. Les cratères soignent le Pot Maudit ayant le moins de PV de leur rangée, à hauteur de 2 % de ses PV max par seconde.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1455,
+            "name": "Mortbrelle",
+            "introduce": "<align=left><size=36><color=black>En plus de son travail habituel, la Mortbrelle vend aussi des bouchons d’oreilles antibruit. Le marché n’est pas franchement énorme, mais grâce aux efforts inlassables de la Mortbrelle, les ventes de bouchons d’oreilles antibruit augmentent un peu plus chaque jour.</color>",
+            "info": "<size=36>La Mortbrelle déploie ses feuilles d’ombrelle couvertes de radiations pour protéger les plantes et riposte en tirant des obus à éclatement aérien sur les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> En déviant des Zombies Kidnappeurs ou des projectiles, ou en déclenchant la répulsion de l’ombrelle, tire un projectile (ce projectile a un temps de recharge de 1 s).\n<color=black>•</color> À l’impact, le projectile inflige des dégâts d’éclaboussure dans un rayon de 1,5 case (inflige des dégâts aux zombies dans toutes les positions). S’il est projeté en l’air, il se divise en un projectile plus petit pour chaque zombie Irradié de la rangée.\n<color=black>•</color> Répulsion de l’ombrelle : n’inflige aucun dégât mais applique Irradié.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Ombrelle</color>"
+        },
+        {
+            "seedType": 1456,
+            "name": "Champi-grandgousier",
+            "introduce": "<align=left><size=36><color=black>Le Champi-grandgousier se trouve \" plus bas \" dans la chaîne alimentaire que le Champi-requin et le Champi-orque, alors qu’il a une bouche bien plus grande. Bon, c’est surtout parce qu’il vit tout simplement dans des eaux beaucoup plus profondes.</color>",
+            "info": "<size=36>Le Champi-grandgousier grossit pendant la digestion, et sa capacité d’engloutissement grandit avec lui.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante aquatique, plante basse (avant sa deuxième croissance).\n<color=black>•</color> Grandit une fois à la fin de chaque digestion, jusqu’à 3 fois. Chaque croissance réduit le temps de digestion de 10 s et étend sa portée de ciblage de 0,37 case vers l’avant. Après sa dernière croissance, il peut avaler les zombies géants.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur > Champi-mer</color>"
+        },
+        {
+            "seedType": 1457,
+            "name": "Carambole Glacée",
+            "introduce": "<align=left><size=36><color=black>Faire jaillir d’innombrables étoiles en spirale sur des trajectoires différentes n’a rien d’un tour facile. Mais la créatrice de cette magie, Carambole Glacée, répond simplement : \" Pour une magicienne cinq étoiles, ce n’est pas bien sorcier. \"</color>",
+            "info": "<size=36>Carambole Glacée tire des étoiles de glace qui s’éloignent en spirale tout autour d’elle.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Carambole</color>"
+        },
+        {
+            "seedType": 1458,
+            "name": "Champi-rot",
+            "introduce": "<align=left><size=36><color=black>Champi-rot a deux bouches. Celle qui ressemble à une poubelle sert à manger, tandis que celle qui crache des rots sert à faire fuir quiconque le prend pour une poubelle.</color>",
+            "info": "<size=36>Champi-rot avale les zombies proches et crache une fumée plus puissante pendant qu’il les digère.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s (Perçant)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40s</color>\n<color=black>Spécial : </color><color=#8B0000>Pendant la digestion, les dégâts sont doublés et les attaques infligent un recul.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1459,
+            "name": "Champi-mordilleur",
+            "introduce": "<align=left><size=36><color=black>Les Champi-mordilleurs viennent de la jungle. Féroces et soupe au lait, ils ne s’intéressent ni aux plaisirs de la vie végétale ni à la satisfaction d’une bonne digestion. Ils ne connaissent qu’une chose : mordre et avancer. Mais nous ne sommes pas des Champi-mordilleurs, alors qui sait ? Mordre est peut-être leur façon à eux de prendre du bon temps.</color>",
+            "info": "<size=36>Champi-mordilleur fonce vers l’avant, dévorant et avalant ses proies en chemin.\n\n<color=black>Dégâts : </color><color=#8B0000>200</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse, empilable.\n<color=black>•</color> Insensible au gel et à l’écrasement. Lorsqu’un zombie se trouve une case devant lui, se met à bondir vers l’avant, devenant insensible aux dégâts pendant l’attaque. Avance d’environ 0,4 case à chaque bond, avalant les Diablotins ou les zombies sous 1/3 de leurs PV dans une petite zone ; sinon, inflige des dégâts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1460,
+            "name": "Pot Marin",
+            "introduce": "<align=left><size=36><color=black>\" Je baigne dans l’humidité à longueur de journée. Tôt ou tard, je vais finir couvert de moisissures et de champignons ! \" Voilà comment Pot Marin se plaint souvent en sentant l’air humide, alors qu’il est lui-même un champignon.</color>",
+            "info": "<size=36>Pot Marin puise dans les sources d’eau voisines pour revigorer les plantes aquatiques sur la terre ferme.\n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Lorsqu’une case d’eau se trouve dans une zone de 3×3, devient Humide, accordant aux fusions de plantes aquatiques sur la terre ferme dans la zone de 3×3 un bonus de 50 % de vitesse d’attaque. Les plantes d’Odyssée ne reçoivent qu’un bonus de vitesse de 25 %. Ce bonus ne se cumule pas.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mer > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1461,
+            "name": "Caramb'ail",
+            "introduce": "<align=left><size=36><color=black>Caramb'ail fait trois choses chaque jour : passer la nuit blanche sur les jeux vidéo, se baigner dans du jus d’ail et remplacer ses trois repas par du thé au lait saveur ail avec triple dose de sucre. Ses voisins ont renoncé depuis longtemps à le convaincre d’adopter un rythme de vie sain, et plus grand monde ne veut adresser la parole au type qui empeste l’ail des pieds à la tête. Mais il est heureux, et c’est tout ce qui compte à ses yeux.</color>",
+            "info": "<size=36>Caramb'ail tire des étoiles empoisonnées.\n\n<color=black>Dégâts : </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles empoisonnées gagnent un bonus de dégâts égal à (5× les points de Poison actuels de la cible), puis appliquent 1 point de Poison à la cible après avoir infligé leurs dégâts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Carambole + Ail</color>"
         }
     ]
 }
