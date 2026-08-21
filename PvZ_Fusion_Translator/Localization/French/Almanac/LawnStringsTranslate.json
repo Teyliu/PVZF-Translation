@@ -4654,6 +4654,62 @@
             "introduce": "<align=left><size=36><color=black>L’entrée de l’exposition de sculptures sur glace a toujours affiché un panneau indiquant \" Interdit aux zombies \". Mais après une seule visite du Four Panacée, le panneau est devenu \" Interdit aux zombies et aux Fours Polaires \".</color>",
             "info": "<size=36>Le Four Panacée dégèle rapidement les plantes proches tout en prodiguant des soins et l’aura des plaines enneigées.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante volante, dotée d’une zone de protection de 3×3. Lorsqu’il est planté ou déplacé et que sa zone de protection chevauche celle d’un autre Four Panacée, il se laisse tomber sous forme de paquet de graines.\n<color=black>•</color> Pour les plantes protégées : réduit la durée de gel de 75 % ; lorsque la glaciation est retirée, elle est toujours considérée comme ayant été retirée par les plantes.\n<color=black>•</color> Stockage d’Essence : stocke 1 Essence toutes les 15 s et 1 Essence lorsqu’il est affecté par le Champi-glace (jusqu’à 3).\n<color=black>•</color> Utilisation d’Essence : utilise automatiquement 1 Essence toutes les 3 s. Si la réserve d’Essence est déjà pleine, ou si une plante protégée remplit l’une des conditions suivantes, utilise 1 Essence stockée :\n-Gelée ou glaciée\n-PV sous 1/3\n-Charges de malédiction dépassant 2/3 de ses PV\n<color=black>•</color> Effets de l’Essence à la libération :\n-Retire immédiatement le gel ou la glaciation de 1 plante à portée\n-Inflige 500 dégâts aux blocs de glace à portée\n-Confère 10 charges de glace aux plantes de type Neige à portée\n<color=black>•</color> Effets de l’Essence à l’atterrissage :\n-Rend 100 PV à toutes les plantes à portée\n-Confère 100 de Bouclier aux plantes de type Neige à portée\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. L’Essence augmente les PV max des plantes de 0,2 % de leur Robustesse de base pour la manche en cours\n2. Puissance des soins et du Bouclier d’Essence ×2 | Nombre de retraits de gel et de glaciation ×3 | Vitesse de récupération automatique d’Essence ×2</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Infirmier + Aloès Nivéa</color>"
+        },
+        {
+            "seedType": 1444,
+            "name": "Citrouille de l’Ender",
+            "introduce": "<align=left><size=36><color=black>Les Citrouilles de l’Ender n’ont jamais à se soucier de la faim. Tant que l’une de leurs camarades est bien nourrie, aucune d’entre elles n’a faim. Côté nourriture, une seule chose les préoccupe vraiment : savoir si l’une de leurs camarades farceuses n’a pas bu du lait périmé.</color>",
+            "info": "<size=36>La Citrouille de l’Ender récupère et plante automatiquement des graines venues de la Dimension de l’Ender, selon les échantillons qu’elle contient.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000> Toutes les 1 s, récupère dans le Stockage de l’Ender partagé le paquet de graines correspondant à la plante principale de sa case et le plante dans une autre Citrouille de l’Ender dont l’emplacement principal est vide.</color>",
+            "cost": "\n<size=36>"
+        },
+        {
+            "seedType": 1445,
+            "name": "Commando Rafale",
+            "introduce": "<align=left><size=36><color=black>Une seule chose a toujours tracassé le Commando Rafale : il veut avoir l’air cool avec un casque à lunettes, mais même le plus grand casque du monde n’arrive pas à aligner ses yeux sur les lunettes.</color>",
+            "info": "<size=36>Le Commando Rafale tire une rafale de pois et de fumée sur toute la rangée, galvanisant la force cinétique des projectiles en ligne droite.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20+(20×6)/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sa portée couvre toute la rangée devant lui.\n<color=black>•</color> Lorsqu’il attaque, accélère les projectiles en ligne droite se déplaçant vers la droite et augmente leurs dégâts de 1 % toutes les 0,02 s.\n<color=black>•</color> Chaque attaque a 2 % de chances de déclencher son Ultime : restaure ses PV au maximum, accorde 1 s d’Invincibilité, multiplie son bonus de dégâts par 4 et disperse 3 pois toutes les 0,02 s.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Pois Commando</color>"
+        },
+        {
+            "seedType": 1446,
+            "name": "Champi-sou",
+            "introduce": "<align=left><size=36><color=black>Champi-sou est une oreille en or. Il adore discuter avec les autres, écouter les ragots, écouter les histoires des uns, écouter les autres parler en général. Vous pouvez lire à quel point il aime écouter dans son livre, Un sou pour tes pensées. Uniquement disponible en livre audio pour le moment.\n\n- Écrit par Doot</color>",
+            "info": "<size=36>Champi-sou produit un peu d’argent, puis en produit davantage une fois adulte.\n\n<color=black>Production de pièces : </color><color=#8B0000>100→300/25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse. Empilable.\n<color=black>•</color> Au début, produit 100 pièces à chaque fois. Grandit 120 s après avoir été planté, faisant passer sa production à 300 à chaque fois.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Souci > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1447,
+            "name": "Champi-prêt",
+            "introduce": "<align=left><size=36><color=black>Bien qu’il soit banquier, Champi-prêt n’a aucune grande ambition. Ce à quoi il pense le plus chaque jour, c’est simplement de passer prendre après le travail un bon café chaud préparé avec des grains de café dorés. Rien de plus.</color>",
+            "info": "<size=36>Champi-prêt est un producteur d’argent prévoyant qui fait fructifier votre épargne en Grains de Café Dorés et la retire par tranches lorsqu’il produit de l’argent.\n\n<color=black>Production de pièces : </color><color=#8B0000>900/50s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il produit de l’argent, retire l’argent stocké par tranches de 1000 (Diamant) chaque fois que possible, jusqu’à ce que le solde stocké tombe sous 50 % du montant retiré.\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces ; dépose 1250 pièces sur le solde stocké.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Souci</color>"
+        },
+        {
+            "seedType": 1448,
+            "name": "Pois-sniper Froussard",
+            "introduce": "<align=left><size=36><color=black>Pois-sniper Froussard n’a pas vraiment peur, mais dès qu’un zombie s’approche, il joue toujours les timides à l’air pitoyable. \" Ne le répétez à personne \", murmure Pois-sniper Froussard. Pour un sniper, admettre que sa vision à courte portée est mauvaise au point de devoir reprendre sa visée nuirait bien plus à sa réputation professionnelle que d’avouer qu’il est un froussard.</color>",
+            "info": "<size=36>Un pois-sniper à la vitesse d’attaque ridiculement élevée.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Après chaque attaque, réduit l’intervalle d’attaque de 0,1 s, jusqu’à un minimum de 0,5 s. Lorsqu’il est effrayé, sa vitesse d’attaque est réinitialisée.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux + Pois-sniper</color>"
+        },
+        {
+            "seedType": 1449,
+            "name": "Champi-hypno Argenté",
+            "introduce": "<align=left><size=36><color=black>Champi-hypno Argenté a la langue argentée, un immense savoir et un charme éclatant. Il serait presque parfait, s’il ne lui manquait pas les couleurs vives de son homologue ordinaire. Résultat, il ne supporte pas l’expression \" perdre son éclat \", ni rien qui s’en approche. Avec le temps, même \" pétrifié \" et \" blanchi \" sont devenus tabous, tout comme \" terne \", \" éteint \" et \" fané \".</color>",
+            "info": "<size=36>Champi-hypno Argenté retourne les zombies les uns contre les autres et leur fait lâcher des pièces d’argent.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lâche 100 pièces après avoir hypnotisé un zombie.\n<color=black>•</color> Coûte 1000 pièces pour être amélioré en Champi-hypno Doré.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Souci</color>"
+        },
+        {
+            "seedType": 1450,
+            "name": "Champi-hypno Doré",
+            "introduce": "<align=left><size=36><color=black>Comment des zombies qui ne rêvent que de cerveaux pourraient-ils se laisser soudoyer avec de l’argent ? Champi-hypno Doré ne donnerait-il vraiment aux zombies que du liquide ? Les plantes en débattent sans fin, tandis que Champi-hypno Doré s’en moque éperdument. Quant à la vérité, seul Champi-hypno Doré lui-même semble la connaître.</color>",
+            "info": "<size=36>Champi-hypno Doré invoque des mercenaires en fonction de la composition ennemie.\n\n<color=black>Spécial : </color><color=#8B0000> Lâche 300 pièces après avoir hypnotisé un zombie.\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2s ; invoque aléatoirement un zombie hypnotisé parmi les zombies apparaissant dans la manche actuelle, à l’exclusion des zombies volants, d’Odyssée et des Boss. Si aucun zombie éligible n’est disponible, invoque un Zombie Seau hypnotisé.</color>",
+            "cost": "\n<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces"
+        },
+        {
+            "seedType": 1451,
+            "name": "Cerise Surprise",
+            "introduce": "<align=left><size=36><color=black>Les Cerises Surprises sont espiègles et joyeuses. Elles adorent les fêtes et les jeux, et dès que quelqu’un fête son anniversaire, elles bondissent sur le gâteau pour faire sursauter le roi ou la reine du jour. Elles sont très sûres de leur saveur et de leur texture : assurément plus croquantes et plus juteuses que les cerises qui garnissent d’ordinaire les gâteaux.</color>",
+            "info": "<size=36>Cerise Surprise accroche aux zombies une cerise à demi mûre, qui produit une explosion plus puissante après un délai.\n\n<color=black>Dégâts : </color><color=#8B0000>900 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse, empilable.\n<color=black>•</color> Au contact d’un zombie non volant ou à sa mort, accroche à un zombie aléatoire dans un rayon de 1,5 case une cerise à demi mûre dont les dégâts de base égalent sa propre puissance d’attaque, puis inflige des dégâts d’explosion de Cerise dans un rayon de 1,5 case (même effet que l’explosion de la Cerise Explosive).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive > Champi-gnon</color>"
         }
     ]
 }
