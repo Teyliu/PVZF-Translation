@@ -698,7 +698,7 @@
             "name": "Doominator",
             "introduce": "<align=left><size=36><color=black>Do any supreme leader lack charisma? Doominator once relied on fear alone, until Hypno-shroom taught it a better lesson. Terror became fascination, fascination became obedience. True domination is not won on battlefields, but in minds. Doominator now rules not as an executioner, but as a mastermind, echoing the legends of a certain psychic device that promised a world ruled by a single will. I am Doominator. Obey me.</color></size>",
             "info": "<size=36>Doominator deals immense damage, simultaneously hypnotizing and slowing down zombies!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 20 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a chance to turn zombies with Toughness < 40% into hypnotized Frost Tall-nut Iceclaw Zombies.\n<color=black>•</color> Creates an explosion in the tile where the hypnotized zombie is located, dealing 450 damage.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack speed ×3\n2. Zombies take damage equal to 30% of their current HP each time they are defrozen</color></size>\n<color=black>Napalm-shroom Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Doominator and Napalm-shroom's modifiers before this synergy becomes available in the shop for 15k.\n<color=black>• </color> Special:\n<color=black>\t• </color> Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, and Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which increases by 100% for each ice, snow and fire plant present on the lawn.\n<color=black>\t• </color> If a zombie is simultaneously affected by the Enflamed debuff and Chill debuff, an Obsidian Explosion is triggered at their location dealing 300 true damage.</color></size>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Doomspike-shroom + Cryonic-shroom</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Glacier-shroom + Cryonic-shroom</color>"
         },
         {
             "seedType": 905,
@@ -740,7 +740,7 @@
             "name": "Shroomageddon",
             "introduce": "<align=left><size=36><color=black>\"Nuclear deterrence is beneficial. Someday, zombies will stop attacking out of fear of my self-detonation,\" Shroomageddon claimed confidently. Sadly, all the radiation did was turn it into a grotesque monstrosity vaguely resembling a legendary mutated cephalopodic calamity that flattened cities. Still, it was evident that Shroomageddon failed to understand that zombies wouldn't initiate a Cold War just because of some cold breeze.</color></size>",
             "info": "<size=36>Shroomageddon sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Explosion damage on death increased by 1M\n2. Becomes immune to damage, but dies instantly after blocking too many hits</color></size>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Doomspike-shroom + Frost Gloom-shroom</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Glacier-shroom + Frost Gloom-shroom</color>"
         },
         {
             "seedType": 911,
@@ -1724,9 +1724,9 @@
         },
         {
             "seedType": 1046,
-            "name": "Doomspike-shroom",
+            "name": "Glacier-shroom",
             "introduce": "<align=left><size=36><color=black>Frost has wrapped around his body, stripping away the innocence of his youth. His eyes, colder and deadlier than any gun's barrel, now only show disdain for his enemies. He's become the reaper, the end of the line. Anyone caught in his frosty sights would do well to leave one less meal prepared at home.</color></size>",
-            "info": "<size=36>Doomspike-shroom can fire chilly doomspikes that pierce and deal damage in an area.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 5 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
+            "info": "<size=36>Glacier-shroom can fire chilly doomspikes that pierce and deal damage in an area.\n\n<color=black>Damage: </color><color=#8B0000>20×4/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Add 5 Cryo points to zombies each hit. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Pierces 2 times. Splashes for 10 damage without falloff within a range of 1 tile.</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Ice-shroom + Doom-shroom</color>"
         },
         {
