@@ -154,11 +154,11 @@
         },
         "38": {
             "name": "Cold Front",
-            "desc": "Lethal Glacier-shroom Subspecies Unlocked | Tundral Glacier-shroom: +100 Initial Energy | Lethal Glacier-shroom: Damage ×2"
+            "desc": "Oblivion-shroom Subspecies Unlocked | Avalance-shroom: +100 Initial Energy | Oblivion-shroom: Damage ×2"
         },
         "39": {
             "name": "Frozen Horizon",
-            "desc": "Tundral Glacier-shroom: Attack Radius ×2 | Lethal Glacier-shroom: Attack Interval halved"
+            "desc": "Avalance-shroom: Attack Radius ×2 | Oblivion-shroom: Attack Interval halved"
         },
         "40": {
             "name": "Arcane Prowess",
