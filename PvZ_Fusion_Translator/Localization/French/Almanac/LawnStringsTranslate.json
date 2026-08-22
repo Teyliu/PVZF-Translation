@@ -4640,6 +4640,146 @@
             "introduce": "<align=justified><size=36><color=black>\" Chapeau de mage ? C’est bon ! Lunettes antigel ? C’est bon ! Brosse à dents et un bras pour la tenir ? Euh… Dents propres ? C’est bon ! \" Même au cœur des préparatifs les plus tendus, le Pois Cryomancien trouve toujours le moyen de rester joyeux et de garder son sang-froid.</color></size>",
             "info": "<size=36>Tire des pois de glace polaire capables de ricocher entre les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire des pois de glace polaire qui, après avoir touché un premier zombie, peuvent ricocher jusqu’à 4 fois vers les zombies proches.\n<color=blue>Amélioration Odyssée : </color> Obtenir le modificateur <color=#2B2B2B>\" Magie Renforcée I \"</color> transforme le Pois Cryomancien en sa variante Odyssée, le Pois Cryomancien Épique.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Haricot Gelé + Pois Glacé</color>"
+        },
+        {
+            "seedType": 5003,
+            "name": "Zomboîte Algue-avide",
+            "introduce": "<align=left><size=36><color=black>Le Zomboîte Algue-avide a toujours été convaincu que le mystérieux coffre au trésor tiré des plus profondes cryptes de l’Atlantide a complètement changé sa vie. Cette boîte, qui épouse parfaitement les formes de son corps, peut invoquer les zombies enterrés sous l’Atlantide, stocker les cœurs et les lianes en trop et, surtout, empêcher l’eau de mer qu’elle contient de jamais croupir. Grâce à elle, il peut enfin poser le pied sur la terre ferme dont il a toujours rêvé.</color>",
+            "info": "<size=36>Le Zomboîte Algue-avide invoque un équipage de morts-vivants sur la terre ferme, permettant aux plantes d’étendre leur couverture offensive à tout le terrain.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec le Capitaine Algue-d'or</color>\n<color=black>Dégâts : </color><color=#8B0000>40×3/5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce du Capitaine Algue-d'or. Ne bloque pas les zombies.\n<color=black>•</color> Toute Algue-piquante générée pendant qu’il est sur la pelouse éclate en projectiles d’Algue Cupide à la place.\n<color=black>•</color> Avant chaque attaque, fait apparaître un Zombie Boîte-en-Or. Si celui-ci est vaincu en moins de 10 s, il éclate en 3 projectiles d’Algue Cupide.\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Les plantes infligent 5 % de dégâts supplémentaires par tranche de 1000 points possédés (jusqu’à +300 %)\n2. Le plafond de points obtenus en éliminant des zombies dorés est doublé | Utiliser un Cadeau Zombie sur une case vide a une chance de faire apparaître un paquet de graines de Zomboîte Algue-avide</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Cadeau Florale <-> Cadeau Zombie</color>"
+        },
+        {
+            "seedType": 5004,
+            "name": "Four Panacée",
+            "introduce": "<align=left><size=36><color=black>L’entrée de l’exposition de sculptures sur glace a toujours affiché un panneau indiquant \" Interdit aux zombies \". Mais après une seule visite du Four Panacée, le panneau est devenu \" Interdit aux zombies et aux Fours Polaires \".</color>",
+            "info": "<size=36>Le Four Panacée dégèle rapidement les plantes proches tout en prodiguant des soins et l’aura des plaines enneigées.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante volante, dotée d’une zone de protection de 3×3. Lorsqu’il est planté ou déplacé et que sa zone de protection chevauche celle d’un autre Four Panacée, il se laisse tomber sous forme de paquet de graines.\n<color=black>•</color> Pour les plantes protégées : réduit la durée de gel de 75 % ; lorsque la glaciation est retirée, elle est toujours considérée comme ayant été retirée par les plantes.\n<color=black>•</color> Stockage d’Essence : stocke 1 Essence toutes les 15 s et 1 Essence lorsqu’il est affecté par le Champi-glace (jusqu’à 3).\n<color=black>•</color> Utilisation d’Essence : utilise automatiquement 1 Essence toutes les 3 s. Si la réserve d’Essence est déjà pleine, ou si une plante protégée remplit l’une des conditions suivantes, utilise 1 Essence stockée :\n-Gelée ou glaciée\n-PV sous 1/3\n-Charges de malédiction dépassant 2/3 de ses PV\n<color=black>•</color> Effets de l’Essence à la libération :\n-Retire immédiatement le gel ou la glaciation de 1 plante à portée\n-Inflige 500 dégâts aux blocs de glace à portée\n-Confère 10 charges de glace aux plantes de type Neige à portée\n<color=black>•</color> Effets de l’Essence à l’atterrissage :\n-Rend 100 PV à toutes les plantes à portée\n-Confère 100 de Bouclier aux plantes de type Neige à portée\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. L’Essence augmente les PV max des plantes de 0,2 % de leur Robustesse de base pour la manche en cours\n2. Puissance des soins et du Bouclier d’Essence ×2 | Nombre de retraits de gel et de glaciation ×3 | Vitesse de récupération automatique d’Essence ×2</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Infirmier + Aloès Nivéa</color>"
+        },
+        {
+            "seedType": 1444,
+            "name": "Citrouille de l’Ender",
+            "introduce": "<align=left><size=36><color=black>Les Citrouilles de l’Ender n’ont jamais à se soucier de la faim. Tant que l’une de leurs camarades est bien nourrie, aucune d’entre elles n’a faim. Côté nourriture, une seule chose les préoccupe vraiment : savoir si l’une de leurs camarades farceuses n’a pas bu du lait périmé.</color>",
+            "info": "<size=36>La Citrouille de l’Ender récupère et plante automatiquement des graines venues de la Dimension de l’Ender, selon les échantillons qu’elle contient.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000> Toutes les 1 s, récupère dans le Stockage de l’Ender partagé le paquet de graines correspondant à la plante principale de sa case et le plante dans une autre Citrouille de l’Ender dont l’emplacement principal est vide.</color>",
+            "cost": "\n<size=36>"
+        },
+        {
+            "seedType": 1445,
+            "name": "Commando Rafale",
+            "introduce": "<align=left><size=36><color=black>Une seule chose a toujours tracassé le Commando Rafale : il veut avoir l’air cool avec un casque à lunettes, mais même le plus grand casque du monde n’arrive pas à aligner ses yeux sur les lunettes.</color>",
+            "info": "<size=36>Le Commando Rafale tire une rafale de pois et de fumée sur toute la rangée, galvanisant la force cinétique des projectiles en ligne droite.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20+(20×6)/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sa portée couvre toute la rangée devant lui.\n<color=black>•</color> Lorsqu’il attaque, accélère les projectiles en ligne droite se déplaçant vers la droite et augmente leurs dégâts de 1 % toutes les 0,02 s.\n<color=black>•</color> Chaque attaque a 2 % de chances de déclencher son Ultime : restaure ses PV au maximum, accorde 1 s d’Invincibilité, multiplie son bonus de dégâts par 4 et disperse 3 pois toutes les 0,02 s.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Pois Commando</color>"
+        },
+        {
+            "seedType": 1446,
+            "name": "Champi-sou",
+            "introduce": "<align=left><size=36><color=black>Champi-sou est une oreille en or. Il adore discuter avec les autres, écouter les ragots, écouter les histoires des uns, écouter les autres parler en général. Vous pouvez lire à quel point il aime écouter dans son livre, Un sou pour tes pensées. Uniquement disponible en livre audio pour le moment.\n\n- Écrit par Doot</color>",
+            "info": "<size=36>Champi-sou produit un peu d’argent, puis en produit davantage une fois adulte.\n\n<color=black>Production de pièces : </color><color=#8B0000>100→300/25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse. Empilable.\n<color=black>•</color> Au début, produit 100 pièces à chaque fois. Grandit 120 s après avoir été planté, faisant passer sa production à 300 à chaque fois.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Souci > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1447,
+            "name": "Champi-prêt",
+            "introduce": "<align=left><size=36><color=black>Bien qu’il soit banquier, Champi-prêt n’a aucune grande ambition. Ce à quoi il pense le plus chaque jour, c’est simplement de passer prendre après le travail un bon café chaud préparé avec des grains de café dorés. Rien de plus.</color>",
+            "info": "<size=36>Champi-prêt est un producteur d’argent prévoyant qui fait fructifier votre épargne en Grains de Café Dorés et la retire par tranches lorsqu’il produit de l’argent.\n\n<color=black>Production de pièces : </color><color=#8B0000>900/50s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il produit de l’argent, retire l’argent stocké par tranches de 1000 (Diamant) chaque fois que possible, jusqu’à ce que le solde stocké tombe sous 50 % du montant retiré.\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces ; dépose 1250 pièces sur le solde stocké.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Souci</color>"
+        },
+        {
+            "seedType": 1448,
+            "name": "Pois-sniper Froussard",
+            "introduce": "<align=left><size=36><color=black>Pois-sniper Froussard n’a pas vraiment peur, mais dès qu’un zombie s’approche, il joue toujours les timides à l’air pitoyable. \" Ne le répétez à personne \", murmure Pois-sniper Froussard. Pour un sniper, admettre que sa vision à courte portée est mauvaise au point de devoir reprendre sa visée nuirait bien plus à sa réputation professionnelle que d’avouer qu’il est un froussard.</color>",
+            "info": "<size=36>Un pois-sniper à la vitesse d’attaque ridiculement élevée.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/3s</color>\n<color=black>Spécial : </color><color=#8B0000>Après chaque attaque, réduit l’intervalle d’attaque de 0,1 s, jusqu’à un minimum de 0,5 s. Lorsqu’il est effrayé, sa vitesse d’attaque est réinitialisée.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux + Pois-sniper</color>"
+        },
+        {
+            "seedType": 1449,
+            "name": "Champi-hypno Argenté",
+            "introduce": "<align=left><size=36><color=black>Champi-hypno Argenté a la langue argentée, un immense savoir et un charme éclatant. Il serait presque parfait, s’il ne lui manquait pas les couleurs vives de son homologue ordinaire. Résultat, il ne supporte pas l’expression \" perdre son éclat \", ni rien qui s’en approche. Avec le temps, même \" pétrifié \" et \" blanchi \" sont devenus tabous, tout comme \" terne \", \" éteint \" et \" fané \".</color>",
+            "info": "<size=36>Champi-hypno Argenté retourne les zombies les uns contre les autres et leur fait lâcher des pièces d’argent.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lâche 100 pièces après avoir hypnotisé un zombie.\n<color=black>•</color> Coûte 1000 pièces pour être amélioré en Champi-hypno Doré.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Souci</color>"
+        },
+        {
+            "seedType": 1450,
+            "name": "Champi-hypno Doré",
+            "introduce": "<align=left><size=36><color=black>Comment des zombies qui ne rêvent que de cerveaux pourraient-ils se laisser soudoyer avec de l’argent ? Champi-hypno Doré ne donnerait-il vraiment aux zombies que du liquide ? Les plantes en débattent sans fin, tandis que Champi-hypno Doré s’en moque éperdument. Quant à la vérité, seul Champi-hypno Doré lui-même semble la connaître.</color>",
+            "info": "<size=36>Champi-hypno Doré invoque des mercenaires en fonction de la composition ennemie.\n\n<color=black>Spécial : </color><color=#8B0000> Lâche 300 pièces après avoir hypnotisé un zombie.\n<color=black>Ultime : </color><color=#8B0000>Coût : 1000 pièces, Recharge : 2s ; invoque aléatoirement un zombie hypnotisé parmi les zombies apparaissant dans la manche actuelle, à l’exclusion des zombies volants, d’Odyssée et des Boss. Si aucun zombie éligible n’est disponible, invoque un Zombie Seau hypnotisé.</color>",
+            "cost": "\n<size=36>Coût d’Amélioration : </color><color=#8B0000>1000 pièces"
+        },
+        {
+            "seedType": 1451,
+            "name": "Cerise Surprise",
+            "introduce": "<align=left><size=36><color=black>Les Cerises Surprises sont espiègles et joyeuses. Elles adorent les fêtes et les jeux, et dès que quelqu’un fête son anniversaire, elles bondissent sur le gâteau pour faire sursauter le roi ou la reine du jour. Elles sont très sûres de leur saveur et de leur texture : assurément plus croquantes et plus juteuses que les cerises qui garnissent d’ordinaire les gâteaux.</color>",
+            "info": "<size=36>Cerise Surprise accroche aux zombies une cerise à demi mûre, qui produit une explosion plus puissante après un délai.\n\n<color=black>Dégâts : </color><color=#8B0000>900 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse, empilable.\n<color=black>•</color> Au contact d’un zombie non volant ou à sa mort, accroche à un zombie aléatoire dans un rayon de 1,5 case une cerise à demi mûre dont les dégâts de base égalent sa propre puissance d’attaque, puis inflige des dégâts d’explosion de Cerise dans un rayon de 1,5 case (même effet que l’explosion de la Cerise Explosive).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cerise Explosive > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1452,
+            "name": "Champi-glouton",
+            "introduce": "<align=left><size=36><color=black>Le Champi-glouton se soucie beaucoup de son hygiène bucco-dentaire : il a peur d’être torturé par sa propre haleine chaque fois qu’il se cache. Une question le ronge d’ailleurs depuis toujours : pour se laver la tête, doit-il utiliser du shampoing ou du bain de bouche ?</color>",
+            "info": "<size=36>Lorsqu’il prend peur, le Champi-glouton avale les zombies proches, puis recrache des morceaux de cadavres pour attaquer une fois la menace passée.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il prend peur, avale jusqu’à 3 zombies dans une zone de 3×3. Cet effet entre ensuite dans un temps de recharge de 40 s, pendant lequel il tire des morceaux de cadavres roulant au sol, à perforation infinie.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-peureux</color>"
+        },
+        {
+            "seedType": 1453,
+            "name": "Champi-touffu",
+            "introduce": "<align=left><size=36><color=black>\" C’est la coiffure la plus tendance du moment. Non seulement elle met en valeur mon côté beau gosse distingué, mais elle est aussi incroyablement sûre : elle arrête la poussière, les ballons de basket et les zombies qui tombent du ciel. \" Le Champi-touffu ne se lasse jamais de vanter sa nouvelle coupe. Évidemment, tous ses amis connaissent la vraie raison de son enthousiasme : cette coiffure cache son embout tordu./color>",
+            "info": "<size=36>Le Champi-touffu absorbe la force des attaques des zombies et la convertit en fumée plus puissante.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s (Perçant)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sa fumée inflige des dégâts supplémentaires équivalant à l’Énergie actuellement stockée, puis consomme toute l’Énergie.\n<color=black>•</color> Lorsqu’il subit des dégâts autres que les dégâts auto-infligés par la répulsion, gagne de l’Énergie équivalant à 50 % des dégâts subis, jusqu’à 1× sa Robustesse, puis réduit ces dégâts de 90 %.\n<color=black>•</color> Après avoir dévié un projectile, gagne de l’Énergie équivalant aux dégâts du projectile.\n<color=black>•</color> Répulsion de l’ombrelle : inflige une fois des dégâts égaux à sa puissance d’attaque, puis gagne une fois la même quantité d’Énergie pour chaque zombie repoussé.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Ombrelle</color>"
+        },
+        {
+            "seedType": 1454,
+            "name": "Pot Maudit",
+            "introduce": "<align=left><size=36><color=black>L’un des plus grands secrets du Pot Maudit, c’est sa composition : quel genre de pot de fleurs peut sortir parfaitement intact d’une explosion atomique ? \" Eh bien, parfaitement intact, c’est beaucoup dire. \" Il a un petit rire. \" Un matériau souple spécial, plus un revêtement résistant à la chaleur. Ça marche plutôt bien, vous ne trouvez pas ? \"</color>",
+            "info": "<size=36>Le Pot Maudit sacrifie sa propre santé pour empêcher l’apparition de cratères.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut perdre 75 PV max, puis perdre des PV équivalant à 20 % de ses PV max, pour empêcher un cratère de se former sur sa case.\n<color=black>•</color> Tant qu’il est présent, réduit le temps de récupération des cratères à 90 s. Les cratères soignent le Pot Maudit ayant le moins de PV de leur rangée, à hauteur de 2 % de ses PV max par seconde.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1455,
+            "name": "Mortbrelle",
+            "introduce": "<align=left><size=36><color=black>En plus de son travail habituel, la Mortbrelle vend aussi des bouchons d’oreilles antibruit. Le marché n’est pas franchement énorme, mais grâce aux efforts inlassables de la Mortbrelle, les ventes de bouchons d’oreilles antibruit augmentent un peu plus chaque jour.</color>",
+            "info": "<size=36>La Mortbrelle déploie ses feuilles d’ombrelle couvertes de radiations pour protéger les plantes et riposte en tirant des obus à éclatement aérien sur les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> En déviant des Zombies Kidnappeurs ou des projectiles, ou en déclenchant la répulsion de l’ombrelle, tire un projectile (ce projectile a un temps de recharge de 1 s).\n<color=black>•</color> À l’impact, le projectile inflige des dégâts d’éclaboussure dans un rayon de 1,5 case (inflige des dégâts aux zombies dans toutes les positions). S’il est projeté en l’air, il se divise en un projectile plus petit pour chaque zombie Irradié de la rangée.\n<color=black>•</color> Répulsion de l’ombrelle : n’inflige aucun dégât mais applique Irradié.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort + Ombrelle</color>"
+        },
+        {
+            "seedType": 1456,
+            "name": "Champi-grandgousier",
+            "introduce": "<align=left><size=36><color=black>Le Champi-grandgousier se trouve \" plus bas \" dans la chaîne alimentaire que le Champi-requin et le Champi-orque, alors qu’il a une bouche bien plus grande. Bon, c’est surtout parce qu’il vit tout simplement dans des eaux beaucoup plus profondes.</color>",
+            "info": "<size=36>Le Champi-grandgousier grossit pendant la digestion, et sa capacité d’engloutissement grandit avec lui.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante aquatique, plante basse (avant sa deuxième croissance).\n<color=black>•</color> Grandit une fois à la fin de chaque digestion, jusqu’à 3 fois. Chaque croissance réduit le temps de digestion de 10 s et étend sa portée de ciblage de 0,37 case vers l’avant. Après sa dernière croissance, il peut avaler les zombies géants.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur > Champi-mer</color>"
+        },
+        {
+            "seedType": 1457,
+            "name": "Carambole Glacée",
+            "introduce": "<align=left><size=36><color=black>Faire jaillir d’innombrables étoiles en spirale sur des trajectoires différentes n’a rien d’un tour facile. Mais la créatrice de cette magie, Carambole Glacée, répond simplement : \" Pour une magicienne cinq étoiles, ce n’est pas bien sorcier. \"</color>",
+            "info": "<size=36>Carambole Glacée tire des étoiles de glace qui s’éloignent en spirale tout autour d’elle.\n\n<color=black>Dégâts : </color><color=#8B0000>20×5/1.5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Carambole</color>"
+        },
+        {
+            "seedType": 1458,
+            "name": "Champi-rot",
+            "introduce": "<align=left><size=36><color=black>Champi-rot a deux bouches. Celle qui ressemble à une poubelle sert à manger, tandis que celle qui crache des rots sert à faire fuir quiconque le prend pour une poubelle.</color>",
+            "info": "<size=36>Champi-rot avale les zombies proches et crache une fumée plus puissante pendant qu’il les digère.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5s (Perçant)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40s</color>\n<color=black>Spécial : </color><color=#8B0000>Pendant la digestion, les dégâts sont doublés et les attaques infligent un recul.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1459,
+            "name": "Champi-mordilleur",
+            "introduce": "<align=left><size=36><color=black>Les Champi-mordilleurs viennent de la jungle. Féroces et soupe au lait, ils ne s’intéressent ni aux plaisirs de la vie végétale ni à la satisfaction d’une bonne digestion. Ils ne connaissent qu’une chose : mordre et avancer. Mais nous ne sommes pas des Champi-mordilleurs, alors qui sait ? Mordre est peut-être leur façon à eux de prendre du bon temps.</color>",
+            "info": "<size=36>Champi-mordilleur fonce vers l’avant, dévorant et avalant ses proies en chemin.\n\n<color=black>Dégâts : </color><color=#8B0000>200</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse, empilable.\n<color=black>•</color> Insensible au gel et à l’écrasement. Lorsqu’un zombie se trouve une case devant lui, se met à bondir vers l’avant, devenant insensible aux dégâts pendant l’attaque. Avance d’environ 0,4 case à chaque bond, avalant les Diablotins ou les zombies sous 1/3 de leurs PV dans une petite zone ; sinon, inflige des dégâts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1460,
+            "name": "Pot Marin",
+            "introduce": "<align=left><size=36><color=black>\" Je baigne dans l’humidité à longueur de journée. Tôt ou tard, je vais finir couvert de moisissures et de champignons ! \" Voilà comment Pot Marin se plaint souvent en sentant l’air humide, alors qu’il est lui-même un champignon.</color>",
+            "info": "<size=36>Pot Marin puise dans les sources d’eau voisines pour revigorer les plantes aquatiques sur la terre ferme.\n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Lorsqu’une case d’eau se trouve dans une zone de 3×3, devient Humide, accordant aux fusions de plantes aquatiques sur la terre ferme dans la zone de 3×3 un bonus de 50 % de vitesse d’attaque. Les plantes d’Odyssée ne reçoivent qu’un bonus de vitesse de 25 %. Ce bonus ne se cumule pas.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mer > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1461,
+            "name": "Caramb'ail",
+            "introduce": "<align=left><size=36><color=black>Caramb'ail fait trois choses chaque jour : passer la nuit blanche sur les jeux vidéo, se baigner dans du jus d’ail et remplacer ses trois repas par du thé au lait saveur ail avec triple dose de sucre. Ses voisins ont renoncé depuis longtemps à le convaincre d’adopter un rythme de vie sain, et plus grand monde ne veut adresser la parole au type qui empeste l’ail des pieds à la tête. Mais il est heureux, et c’est tout ce qui compte à ses yeux.</color>",
+            "info": "<size=36>Caramb'ail tire des étoiles empoisonnées.\n\n<color=black>Dégâts : </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles empoisonnées gagnent un bonus de dégâts égal à (5× les points de Poison actuels de la cible), puis appliquent 1 point de Poison à la cible après avoir infligé leurs dégâts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Carambole + Ail</color>"
         }
     ]
 }
