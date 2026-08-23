@@ -1432,7 +1432,7 @@
             "seedType": 1004,
             "name": "Pea-nut",
             "introduce": "<align=left><size=36><color=black>\"No... don't call me ugly, or else... wait... I'll spray you.\" Pea-nut has always struggled with his \"unique\" appearance. But he firmly believes that what's inside a plant matters more than how it looks. Seeking guidance, he humbly asked senior Bowling Nut for advice and eventually mastered the technique of rolling nuts like bowling balls.</color></size>",
-            "info": "<size=36>Pea-nut fires mini-nuts that can pierce an infinite number of zombies!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5 Seconds (Piercing) </color>",
+            "info": "<size=36>Pea-nut fires mini-nuts that can pierce an infinite number of zombies!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s (Piercing) </color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Wall-nut</color></size>"
         },
         {
