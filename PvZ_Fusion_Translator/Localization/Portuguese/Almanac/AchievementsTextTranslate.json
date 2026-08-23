@@ -1,0 +1,387 @@
+{
+    "Welcome": {
+        "achievement": 0,
+        "Name": "Experimenta a mecânica principal do jogo.",
+        "Text": "Plantas vs Zombies: Fusion"
+    },
+    "PeaSunflower": {
+        "achievement": 1,
+        "Name": "Descobre o Girasol-Ervilha.",
+        "Text": "A Era da Fusão"
+    },
+    "GatlingPea": {
+        "achievement": 2,
+        "Name": "Descobre a Ervilha Gatling.",
+        "Text": "A Fazer Melhorias"
+    },
+    "TwinFlower": {
+        "achievement": 3,
+        "Name": "Descobre o Girasol Gémeo.",
+        "Text": "Não É o Girasol Gémeo?"
+    },
+    "SuperGatling": {
+        "achievement": 4,
+        "Name": "Descobre o Comando Ervilha.",
+        "Text": "O Irmão Mais Velho Está Furioso"
+    },
+    "CherryPaper": {
+        "achievement": 5,
+        "Name": "Deixa 4 ou mais das tuas plantas serem destruídas por uma única Cereja-Bomba.",
+        "Text": "Especialista em Demolições."
+    },
+    "BigWallNut": {
+        "achievement": 6,
+        "Name": "Coloca uma Noz em cima de outra Noz.",
+        "Text": "Como É Que Fugiu?"
+    },
+    "CherryPaper95": {
+        "achievement": 9,
+        "Name": "Encontra o Zombie Jornalista Cereja Gatling.",
+        "Text": "Grande Promoção de Cerejas!"
+    },
+    "Puff": {
+        "achievement": 7,
+        "Name": "Usa um Cogumelo Medroso ou Cogumelo de Fumo para espalhar o Cogumelo-Puff.",
+        "Text": "De Onde É Que Vim?"
+    },
+    "SunBomb": {
+        "achievement": 8,
+        "Name": "Faz uma Bomba Solar explodir 10 zombies de uma vez.",
+        "Text": "Um Flash Por Dia"
+    },
+    "BigWallNut2": {
+        "achievement": 10,
+        "Name": "Faz uma Noz Gigante esmagar 10 zombies de uma vez.",
+        "Text": "Rolo Compressor"
+    },
+    "BigWallNut3": {
+        "achievement": 11,
+        "Name": "Faz com que as tuas Nozes Gigantes causem 20.000 de dano ao mesmo zombie.",
+        "Text": "Rola e Repete"
+    },
+    "HypnoShroom": {
+        "achievement": 12,
+        "Name": "Usa um Cogumelo Hipnótico para hipnotizar um zombie.",
+        "Text": "Hoje Não!"
+    },
+    "JacksonZombie": {
+        "achievement": 13,
+        "Name": "Encontra o Zombie Michael.",
+        "Text": "O Michael Também Está Aqui"
+    },
+    "ScaredyHypno": {
+        "achievement": 14,
+        "Name": "Usa o Cogumelo Psicadélico para hipnotizar zombies à força.",
+        "Text": "Deus do Conceito"
+    },
+    "HypnoNut": {
+        "achievement": 15,
+        "Name": "Invoca um Zombie da Caixa-Mistério Dourada a partir da Noz Hipnótica.",
+        "Text": "Quem Sou Eu?"
+    },
+    "LilyPad": {
+        "achievement": 16,
+        "Name": "Faz o Nenúfar produzir uma planta.",
+        "Text": "Ponta Afiada do Jovem Lótus"
+    },
+    "ThreePeater": {
+        "achievement": 17,
+        "Name": "Planta um Trêservilha nas faixas laterais, fazendo-o disparar 2 ervilhas por ataque na sua própria faixa.",
+        "Text": "A Trajetória Inclina à Esquerda"
+    },
+    "SquashKelp": {
+        "achievement": 18,
+        "Name": "Descobre o Alga Esmaga.",
+        "Text": "Criatura das Profundezas"
+    },
+    "ThreeSpike": {
+        "achievement": 19,
+        "Name": "Usa o Espalha-Ervas para rebentar pneus.",
+        "Text": "Pneu aos Trambolhões"
+    },
+    "SunSeaShroom": {
+        "achievement": 20,
+        "Name": "Descobre o Cogumelo Solar Marinho.",
+        "Text": "Sol na Piscina"
+    },
+    "StarBlover": {
+        "achievement": 21,
+        "Name": "Usa o Soprador Estelar para atrair projéteis de estrela.",
+        "Text": "Manobra de Funda"
+    },
+    "MagnetShroom": {
+        "achievement": 22,
+        "Name": "Utiliza o Sistema Magnético.",
+        "Text": "Algoritmo de Busca em Largura"
+    },
+    "CornCabbage": {
+        "achievement": 23,
+        "Name": "Descobre o Taco-pulta.",
+        "Text": "A Taco-pulta É Uma Mentira"
+    },
+    "GarlicCorn": {
+        "achievement": 24,
+        "Name": "Envenena um Zombie.",
+        "Text": "Quem É Que Está a Comer Alho?"
+    },
+    "CabbageUmbrella": {
+        "achievement": 25,
+        "Name": "Usa a Couve Guarda-Chuva para repelir projéteis de catapulta.",
+        "Text": "Malabarista"
+    },
+    "GoldMelon": {
+        "achievement": 26,
+        "Name": "Faz chover meloas douradas do céu.",
+        "Text": "Chuva de Meloas"
+    },
+    "SquashTorch": {
+        "achievement": 27,
+        "Name": "Usa a Lenha Esmaga para produzir um Esmaga.",
+        "Text": "Está a Fervilhar"
+    },
+    "UltimateTorch": {
+        "achievement": 28,
+        "Name": "Descobre a Lenha Infernal.",
+        "Text": "Cozinha do Inferno"
+    },
+    "Superkelp": {
+        "achievement": 29,
+        "Name": "Descobre o Krakerberus.",
+        "Text": "Terror das Profundezas"
+    },
+    "DarkThreePeater": {
+        "achievement": 30,
+        "Name": "Tenta incendiar um Trêservilha.",
+        "Text": "A Dançar com o Fogo"
+    },
+    "AshThreePeater": {
+        "achievement": 31,
+        "Name": "Acende outro fogo no Trêservilha Carbonizado.",
+        "Text": "Terra Queimada"
+    },
+    "SuperThreePeater": {
+        "achievement": 32,
+        "Name": "Deixa o Trêservilha renascer das cinzas.",
+        "Text": "Renascido das Chamas"
+    },
+    "MagnetCactus": {
+        "achievement": 33,
+        "Name": "Usa o Espinhomagneto para derrubar dirigíveis.",
+        "Text": "Usa a Força"
+    },
+    "SuperStar": {
+        "achievement": 34,
+        "Name": "Observa um meteoro a cair do céu.",
+        "Text": "Deixa o Céu Cair"
+    },
+    "UltimateStar": {
+        "achievement": 35,
+        "Name": "Descobre o Magnetar.",
+        "Text": "Nível 1436"
+    },
+    "MagnetShroom2": {
+        "achievement": 36,
+        "Name": "Liga 50 plantas num Sistema Magnético.",
+        "Text": "Magnetosfera"
+    },
+    "UltimateStar2": {
+        "achievement": 37,
+        "Name": "Faz o dano do meteoro do Magnetar ultrapassar 1800.",
+        "Text": "Estrelacraft"
+    },
+    "HypnoMagnet": {
+        "achievement": 38,
+        "Name": "Invoca um Gargantuar Mecânico com um Magneto Hipnótico.",
+        "Text": "Torrente de Aço"
+    },
+    "SunMagnet": {
+        "achievement": 39,
+        "Name": "Usa o Íman Solar para produzir um objeto metálico.",
+        "Text": "Autossuficiente"
+    },
+    "SuperCherryShooter": {
+        "achievement": 40,
+        "Name": "Descobre o Explod-atirador.",
+        "Text": "Descansa em Pedaços"
+    },
+    "UltimateGatling": {
+        "achievement": 41,
+        "Name": "Descobre o Bombardeiro Cereja Gatling.",
+        "Text": "Bombardeiro Tapete"
+    },
+    "HypnoEmperor": {
+        "achievement": 42,
+        "Name": "Descobre a Imperatriz-Cogumelo.",
+        "Text": "É Uma Espécie de Magia"
+    },
+    "CobCannon": {
+        "achievement": 43,
+        "Name": "Descobre o Canhão de Milho.",
+        "Text": "Afiado Como Sempre"
+    },
+    "IceCannon": {
+        "achievement": 44,
+        "Name": "Usa o Canhão Criogénico para fundir plantas.",
+        "Text": "Congelado"
+    },
+    "FireCannon": {
+        "achievement": 45,
+        "Name": "Usa o Canhão Pirotécnico para fundir plantas.",
+        "Text": "Que o Mundo Arda"
+    },
+    "UltimateCannon": {
+        "achievement": 46,
+        "Name": "Descobre o Canhão Milhalipse.",
+        "Text": "Tornei-me a Morte"
+    },
+    "SuperUmbrella": {
+        "achievement": 47,
+        "Name": "Ganha dinheiro com o Guarda-Chuva Alquimista.",
+        "Text": "Transmutação"
+    },
+    "EmeraldUmbrella": {
+        "achievement": 48,
+        "Name": "Usa o Guarda-Chuva de Midas para provocar zombies tridenteiros.",
+        "Text": "Vem Bater-me!"
+    },
+    "RedEmeraldUmbrella": {
+        "achievement": 49,
+        "Name": "Usa o Guarda-Chuva Égide para refletir projéteis de zombies.",
+        "Text": "De Volta Para o Remetente"
+    },
+    "Plantern": {
+        "achievement": 50,
+        "Name": "Faz o Nível Lumos de uma planta ultrapassar 10.",
+        "Text": "Bem Iluminado"
+    },
+    "SuperFume": {
+        "achievement": 51,
+        "Name": "Descobre o Cogumelo Espinhado Apocalíptico",
+        "Text": "Vigilante Noturno Fúngico"
+    },
+    "UltimateFume": {
+        "achievement": 52,
+        "Name": "Descobre o Cogumelo Dominador",
+        "Text": "Domínio"
+    },
+    "UltimteGloom": {
+        "achievement": 53,
+        "Name": "Descobre o Cogumelo do Oblívio",
+        "Text": "Radioativo"
+    },
+    "CattailPlant": {
+        "achievement": 54,
+        "Name": "Aplica Fertilizante num Nenúfar.",
+        "Text": "Os Gatos Têm Nove Vidas"
+    },
+    "CattailGirl": {
+        "achievement": 55,
+        "Name": "Descobre a Rapariga Cattail.",
+        "Text": "Há uma Miúda no Teu Jardim"
+    },
+    "Cattailour": {
+        "achievement": 56,
+        "Name": "Descobre a Urtiga Mágica Felina.",
+        "Text": "Isto é uma Cat-ástrofe!"
+    },
+    "WallNut": {
+        "achievement": 57,
+        "Name": "Usa a Noz para defender contra Zombies.",
+        "Text": "Não Passarás"
+    },
+    "SuperChomper": {
+        "achievement": 58,
+        "Name": "Descobre o Trincossauro.",
+        "Text": "Durão"
+    },
+    "UltimateChomper": {
+        "achievement": 59,
+        "Name": "Descobre a Cerejazilla.",
+        "Text": "Deus da Guerra"
+    },
+    "UltimateTallNut": {
+        "achievement": 60,
+        "Name": "Usa a Noz Obsidiana para defender contra explosões.",
+        "Text": "Desafio do Balde de Gelo"
+    },
+    "SuperMachineNut": {
+        "achievement": 61,
+        "Name": "Cura o Giga Noz-Meca até ultrapassar 1 milhão de vida.",
+        "Text": "Giga ex Machina"
+    },
+    "SuperSunNut": {
+        "achievement": 62,
+        "Name": "Invoca uma Noz Gigante a partir da Noz Solar Gémea.",
+        "Text": "Lá Vem o Sol"
+    },
+    "UltimatePumpkin": {
+        "achievement": 63,
+        "Name": "Usa a Abóbora Laser para defender contra Zombies aéreos.",
+        "Text": "Nunca Falho"
+    },
+    "MelonJump": {
+        "achievement": 64,
+        "Name": "Usa uma Planta Guarda-Chuva para devolver um Zombie Melão Saltador ao chão.",
+        "Text": "Céu e Terra"
+    },
+    "IronNut": {
+        "achievement": 65,
+        "Name": "Descobre a Noz Blindada.",
+        "Text": "Equipamento Adquirido"
+    },
+    "Sub": {
+        "achievement": 999,
+        "Name": "Fica atento às próximas atualizações!",
+        "Text": "Fica Atento!"
+    },
+    "WelcomeChallenge": {
+        "achievement": 1000,
+        "Name": "Aqui estão alguns desafios avançados.",
+        "Text": "Avança Corajosamente"
+    },
+    "Travel": {
+        "achievement": 1001,
+        "Name": "Conclui a Odisseia: Sobrevivência.",
+        "Text": "Hora da Aventura"
+    },
+    "Travel2": {
+        "achievement": 1002,
+        "Name": "Conclui a Odisseia: Última Resistência.",
+        "Text": "Destinos Turísticos em Alta"
+    },
+    "Travel3": {
+        "achievement": 1003,
+        "Name": "Conclui a Odisseia: Purgatório.",
+        "Text": "Será que Encontrámos o Paraíso?"
+    },
+    "Travel_noBuff": {
+        "achievement": 1004,
+        "Name": "Conclui o Modo Odisseia sem escolher modificadores.",
+        "Text": "Mestre da Odisseia"
+    },
+    "Travel_noNut": {
+        "achievement": 1005,
+        "Name": "Conclui o Modo Odisseia sem usar Cerejazilla, Noz Obsidiana, Giga Noz-Meca nem Noz Solar Gémea.",
+        "Text": "Luta Limpa"
+    },
+    "Travel_sun": {
+        "achievement": 1006,
+        "Name": "Gasta mais de 1 milhão de Sol numa única ronda do Modo Odisseia.",
+        "Text": "A Gastar o Sol"
+    },
+    "Travel_fast": {
+        "achievement": 1007,
+        "Name": "Conclui o Modo Odisseia em menos de 40 minutos.",
+        "Text": "Velocista"
+    },
+    "SuperMachineNut_health": {
+        "achievement": 1008,
+        "Name": "Cura o Giga Noz-Meca até ultrapassar 100 milhões de vida.",
+        "Text": "Mas Porquê"
+    },
+    "SuperDamage": {
+        "achievement": 1009,
+        "Name": "Derrota um Gargantuar Abissal em menos de 10 segundos sem Bónus de Corrupção.",
+        "Text": "Poder Absoluto"
+    }
+}

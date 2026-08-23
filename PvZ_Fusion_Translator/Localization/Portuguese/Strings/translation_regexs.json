@@ -21,9 +21,9 @@
   "^([^\\s：]+)(：?挑战1?)$": "Desafio de Fusão: {0}",
   "^超级随机：(无尽|模仿)": "Gacha da Odisseia\n{0}",
   "^十旗挑战：([^\\s]+)": "Dez Bandeiras: {0}",
-  "^十旗挑战\\s([^\\s]+)": "Dez Bandeiras\n{0}",
+  "^十旗挑战\\s([^\\s]+)": "Dez Bandeiras:\n{0}",
   "^旅行体验(：)?(?:第)?(\\d+)(?:关)?": "Odisseia\nDemo {1}",
-  "^经典塔防(\\d+)?": "Defesa de Torre Clássica {0}",
+  "^经典塔防(\\d+)?": "Modo: Trilha Zumbi {0}",
   "^花园保卫战(\\d+)?": "Defesa do Jardim {0}",
   "-------UI - Puzzle Mode": "UI - Puzzle Mode-------",
   "^决战([^\\s]+)！": "<size=12>Batalha Final:\n{0}",
@@ -52,7 +52,7 @@
   "^Scene： (6路)?([^\\s]+)": "Cenário: {0} {1}",
   "^自定义关卡使用条款，开发者在此声明：\\s+": "<size=11>Termos de Uso de Fases Personalizadas, Declaração do Desenvolvedor:\nFases personalizadas são criadas pelos próprios jogadores. Se um mapa violar leis ou regulamentos, ou infringir os direitos de terceiros, saia e exclua a fase imediatamente. Jogar a fase implica que o jogador concorda em assumir quaisquer riscos e responsabilidades associados ao uso de fases personalizadas.",
   "^地图编辑器使用条款，开发者在此声明：\\s+": "<size=11>Termos de Uso do Editor de Mapas, Declaração do Desenvolvedor:\nO editor destina-se apenas à criação normal de fases. Qualquer comportamento que viole leis e regulamentos ou infrinja os direitos de terceiros é estritamente proibido. Os jogadores concordam em assumir os riscos e responsabilidades associados ao uso do editor.",
-  "^按Tab切换鼠标位置格子类型\\s+": "Pressione Tab para alternar o tipo de quadrado.\nSegure A ou D e mova o mouse para alternar entre grama e terra.\nPressione C para salvar; a fase salva entrará em vigor em Fase Personalizada.",
+  "^按Tab切换鼠标位置格子类型\\s+": "Pressione Tab para alternar o tipo de célula.\nSegure A ou D e mova o mouse para alternar entre grama e terra.\nPressione C para salvar; a fase salva entrará em vigor em Fase Personalizada.",
   "^保存关卡完毕！前往自定义关卡游玩\\s+": "<size=14>Fase salva com sucesso! Vá até Fase Personalizada para jogá-la.\nVocê também pode compartilhar as fases que criou com seus amigos para desafiá-los.\nO local do arquivo da fase é este:\nC:\\Users\\[Seu Nome de Usuário]\\AppData\\LocalLow\\LanPiaoPiao\\PlantsVsZombiesRH\\CustomBlock.json</size>",
   "^保存成功，前往我是僵尸的自定义关卡游玩\\s+": "<size=14>Fase salva com sucesso! Vá até a Fase Personalizada de Eu, Zumbi para jogá-la.\nOs zumbis que podem ser usados na fase são os que estão atualmente no plantel, e o Sol inicial é o Sol atual da fase.\nA dificuldade recomendada é a dificuldade atual. O nome do arquivo da fase é CustomIZ.json.",
   "-------UI - Settings": "UI - Settings-------",
@@ -284,7 +284,7 @@
   "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>\n<color=([^\\s]+)>需要完成前置关卡：([^\\s]+)6</color>$": "{0}\n<color={1}>Custo: {2}</color>\n<color={3}>Requer a conclusão de Aventura Estelar: {4} | Fase 6</color>",
   "([^\\s]+)（已选）$": "{0} (Selecionado)",
   "需要完成前置关卡：([^\\s]+)6$": "Requer a conclusão de Aventura Estelar: {0} | Fase 6",
-  "价格：(\\d+)$": "Preço: {0}",
+  "价格：(\\d+)$": "Preço: {0} Estrela(s)",
   "^请选择一个任务完成\n([^\\s]+)": "Escolha uma tarefa para concluir:\n Tarefa A: {0}",
   "^奖励：([^\\s]+)$": "Recompensa da tarefa: {0}",
   "^开始，([^\\s]+)": ", {0}",
@@ -478,5 +478,5 @@
   "BUFF_NAME_FORMAT": "<align=center><color=#700000>[{0}]</color></align>\n<align=left>{1}",
   "翻页\\((\\d+)/(\\d+)\\)": "Página {0}/{1} (clique para virar)",
   "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nEsta Rodada: {2}/{3}\n{4}",
-  "^旅行冒险 ([^\\s:]+)": "Aventura da Odisseia: {0}"
+  "^旅行冒险 ([^\\s:]+)": "Modo Aventura: Odisseia | {0}"
 }

@@ -82,11 +82,11 @@
         },
         "20": {
             "name": "Motor Numismático",
-            "desc": "Tronco Magnata e Triplanterna Magnata: 1% de aumento de dano para projéteis/lasers de Moedas para cada 1000 Moedas que você tiver"
+            "desc": "Tronco Magnata e Tridisparflor-lampião Coletora de Moedas: 1% de aumento de dano para projéteis/lasers de Moedas para cada 1000 Moedas que você tiver"
         },
         "21": {
             "name": "Chuva Dourada",
-            "desc": "Subespécie da Triplanterna Magnata Desbloqueada | Tronco Magnata: Projéteis de moedas agora causam dano em área"
+            "desc": "Subespécie da Tridisparflor-lampião Coletora de Moedas Desbloqueada | Tronco Magnata: Projéteis de moedas agora causam dano em área"
         },
         "22": {
             "name": "Dínamo de Cristal",
@@ -162,7 +162,7 @@
         },
         "40": {
             "name": "Destreza Arcana",
-            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0,5 quadrado"
+            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0,5 célula"
         },
         "41": {
             "name": "Mordida de Amor",
@@ -358,7 +358,7 @@
         },
         "3008": {
             "name": "Pequeno Milagre",
-            "desc": "Quando Definhazinha e Soprogumelo Gélido Supremo são plantados no mesmo quadrado, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
+            "desc": "Quando Definhazinha e Soprogumelo Gélido Supremo são plantados na mesma célula, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
         },
         "3009": {
             "name": "Fúria Elemental",
@@ -1300,7 +1300,7 @@
         },
         "24": {
             "name": "",
-            "desc": "Desbloqueie Disparervilha Cintilante Suprema: Bidisparalasers + Plasmervilha\ne sua subespécie Disparervilha Eclipse Suprema"
+            "desc": "Desbloqueie Disparervilha Cintilante Suprema: Atiradora Relé Radiante + Plasmervilha\ne sua subespécie Disparervilha Eclipse Suprema"
         },
         "25": {
             "name": "",
