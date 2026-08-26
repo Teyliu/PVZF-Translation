@@ -4377,9 +4377,9 @@
         },
         {
             "seedType": 1425,
-            "name": "Shooty-shroom",
-            "introduce": "<align=left><size=36><color=black>Shooty-shroom learned a remarkable rapid-fire pea tossing trick from the circus. No one knows just how many peas he can throw at that speed. He'd love to show it off to the zombies, but not when they get too close — that would reveal how the trick works.</color>",
-            "info": "<size=36>Shooty-shroom rapidly increases its attack speed and damage while firing, but loses everything when frightened.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Gains 5% attack speed and +1 damage after every attack, up to +150% attack speed and +30 damage. This bonus is reset when frightened.</color>",
+            "name": "Speedy-shroom",
+            "introduce": "<align=left><size=36><color=black>Speedy-shroom learned a remarkable rapid-fire pea tossing trick from the circus. No one knows just how many peas he can throw at that speed. He'd love to show it off to the zombies, but not when they get too close — that would reveal how the trick works.</color>",
+            "info": "<size=36>Speedy-shroom rapidly increases its attack speed and damage while firing, but loses everything when frightened.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Gains 5% attack speed and +1 damage after every attack, up to +150% attack speed and +30 damage. This bonus is reset when frightened.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Scaredy-shroom</color>"
         },
         {
