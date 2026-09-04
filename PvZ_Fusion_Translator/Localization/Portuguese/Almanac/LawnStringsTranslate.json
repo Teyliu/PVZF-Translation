@@ -268,9 +268,9 @@
         },
         {
             "seedType": 38,
-            "name": "Aloe Vera",
-            "introduce": "<size=34><color=black>As plantas sempre perguntam à Aloe Vera por que ela não se tornou médica como seus primos. Ela responde: \"Na verdade, eu também sou estudante de medicina... mas só sei acalmar, não sei aliviar a dor,\" disse Aloe Vera em um tom simples e calmo.</color></size>",
-            "info": "<size=36>Aloe Vera é uma arremessadora amante do frio que lança gotas de orvalho ou pedaços de gelo quando resfriada o suficiente.\n\n<color=black>Dano: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas ao ser afetada por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Consome 1 carga para arremessar um pedaço de gelo (dano ×2, aplica Resfriamento Profundo, 40 pontos Cryo).\n<color=black>•</color> Resfriamento Profundo: idêntico ao Resfriamento comum, mas afeta também Legionários Congelados. Zumbonis continuam imunes.\n<color=black>•</color> Causa dano ×4 a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
+            "name": "Babosa Polar",
+            "introduce": "<size=34><color=black>As plantas sempre perguntam à Babosa Polar por que ela não se tornou médica como seus primos. Ela responde: \"Na verdade, eu também sou estudante de medicina... mas só sei acalmar, não sei aliviar a dor,\" disse Babosa Polar em um tom simples e calmo.</color></size>",
+            "info": "<size=36>Babosa Polar é uma arremessadora amante do frio que lança gotas de orvalho ou pedaços de gelo quando resfriada o suficiente.\n\n<color=black>Dano: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas ao ser afetada por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Consome 1 carga para arremessar um pedaço de gelo (dano ×2, aplica Resfriamento Profundo, 40 pontos Cryo).\n<color=black>•</color> Resfriamento Profundo: idêntico ao Resfriamento comum, mas afeta também Legionários Congelados. Zumbonis continuam imunes.\n<color=black>•</color> Causa dano ×4 a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
             "cost": "<size=36>Custo: <color=#8B0000>75</color>\nRecarga: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -830,7 +830,7 @@
             "seedType": 904,
             "name": "Cataclismogumelo",
             "introduce": "<size=34><color=black>A Morte empregaria um consultor de moda? Cataclismogumelo não tinha ideia, mas depois de notar que não conseguia assustar bem os zumbis, ele recorreu ao Hipnogumelo para um conjunto personalizado de designs de moda. Embora as pessoas possam não favorecer a Morte, como reagiriam se ele usasse asas de gelo roxas?</color></size>",
-            "info": "<size=36>Cataclismogumelo causa dano imenso, simultaneamente hipnotizando e retardando zumbis!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Dano: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>Cada acerto adiciona 20 pontos Cryo.</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Possui chance de transformar zumbis com Resistência < 40% em Zumbis Garra-de-Gelo Noz-Gelada hipnotizados.\n<color=black>•</color> Cria uma explosão no quadrado onde o zumbi hipnotizado está localizado, causando 450 de dano.</color>\n<color=black>Modificadores da Odisseia:\n</color><color=#8B0000>1. Velocidade de ataque ×3\n2. Zumbis sofrem dano igual a 30% da sua vida atual a cada vez que são descongelados</color>\n<color=black>Modificador de Sinergia com Vulcânicogumelo:</color><color=#8B0000>\n<color=black>•</color> Você deve ter desbloqueado todos os modificadores de Cataclismogumelo e Vulcânicogumelo antes que esta sinergia fique disponível na loja por 15k.\n<color=black>•</color> Especial:\n<color=black>•</color> Cataclismogumelo agora gera Zumbis Garra-de-Gelo Noz-Obsidiana, e o projétil principal do Vulcânicogumelo se dividirá em uma Melancia de Obsidiana adicional; causando dano em área igual ao poder de ataque original da melancia, que aumenta em 100% para cada planta de gelo, neve e fogo presente no gramado.\n<color=black>•</color> Se um zumbi for simultaneamente afetado pela penalidade de Pyro e de Resfriamento, uma Explosão de Obsidiana é ativada em seu local, causando 300 de dano verdadeiro.</color></size>",
+            "info": "<size=36>Cataclismogumelo causa dano imenso, simultaneamente hipnotizando e retardando zumbis!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Dano: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>Cada acerto adiciona 20 pontos Cryo.</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Possui chance de transformar zumbis com Resistência < 40% em Zumbis Garra-de-Gelo Noz-Alta Gelada hipnotizados.\n<color=black>•</color> Cria uma explosão no quadrado onde o zumbi hipnotizado está localizado, causando 450 de dano.</color>\n<color=black>Modificadores da Odisseia:\n</color><color=#8B0000>1. Velocidade de ataque ×3\n2. Zumbis sofrem dano igual a 30% da sua vida atual a cada vez que são descongelados</color>\n<color=black>Modificador de Sinergia com Vulcânicogumelo:</color><color=#8B0000>\n<color=black>•</color> Você deve ter desbloqueado todos os modificadores de Cataclismogumelo e Vulcânicogumelo antes que esta sinergia fique disponível na loja por 15k.\n<color=black>•</color> Especial:\n<color=black>•</color> Cataclismogumelo agora gera Zumbis Garra-de-Gelo Noz-Obsidiana, e o projétil principal do Vulcânicogumelo se dividirá em uma Melancia de Obsidiana adicional; causando dano em área igual ao poder de ataque original da melancia, que aumenta em 100% para cada planta de gelo, neve e fogo presente no gramado.\n<color=black>•</color> Se um zumbi for simultaneamente afetado pela penalidade de Pyro e de Resfriamento, uma Explosão de Obsidiana é ativada em seu local, causando 300 de dano verdadeiro.</color></size>",
             "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Trevagumelo + Calafriogumelo</color></size>"
         },
         {
@@ -893,8 +893,8 @@
             "seedType": 913,
             "name": "Noz-Obsidiana",
             "introduce": "<size=34><color=black>Sua casca dura, semelhante a uma gema, com olhos firmes, são formados pela alma do Noz-Obsidiana após suportar as provações do gelo e do fogo em sua casca. Mesmo que sua casca e mente se desgaste um dia, ele está comprometido em fazer o que for necessário para manter outras plantas seguras.</color></size>",
-            "info": "<size=36>A Noz-Obsidiana possui quatro vezes a defesa de uma Noz-Gigante normal e pode resistir a muitas coisas; nem mesmo ser atropelada a derruba!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Resistência: </color><color=#8B0000>32000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Restaura 1500 de Resistência a cada 15s.\n<color=black>•</color> Planta alta. Imune a esmagamento, recebendo no máximo 200 de dano a cada golpe.\n<color=black>•</color> Quando uma Noz-Obsidiana recebe dano, ele é compartilhado e dividido entre todas as Noz-Obsidianas e Obsidiminas no gramado.\n<color=black>•</color> Recupera 10% da vida perdida quando afetada por Gelogumelos ou Pimentas.\n<color=black>•</color> Bloqueia a passagem de Zumbis Balão, forçando-os para o chão.</color>\n<color=black>Principais Modificadores da Odisseia:\n</color><color=#8B0000>1. Limite de Vida Máxima ×3\n2. Agora pode absorver o dano direcionado às plantas diretamente à sua esquerda e direita</color>\n\n<color=black>Modificador de Sinergia com Cerejazilla:</color><color=#8B0000>\n<color=black>•</color> Você deve ter desbloqueado todos os modificadores de Cerejazilla e Noz-Obsidiana antes que esta sinergia fique disponível na loja por 20k.\n<color=black>•</color> Quando Cerejazilla e Noz-Obsidiana (ou suas subespécies) estiverem ambos presentes, Cerejazilla/Alhozilla não possuem mais limite máximo de Resistência, e Noz-Obsidiana/Obsidimina ganham 90% de redução de dano.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Noz-Gelada + Noz-Flamejante</color></size>"
+            "info": "<size=36>A Noz-Obsidiana possui quatro vezes a defesa de uma Noz-Alta normal e pode resistir a muitas coisas; nem mesmo ser atropelada a derruba!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Resistência: </color><color=#8B0000>32000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Restaura 1500 de Resistência a cada 15s.\n<color=black>•</color> Planta alta. Imune a esmagamento, recebendo no máximo 200 de dano a cada golpe.\n<color=black>•</color> Quando uma Noz-Obsidiana recebe dano, ele é compartilhado e dividido entre todas as Noz-Obsidianas e Obsidiminas no gramado.\n<color=black>•</color> Recupera 10% da vida perdida quando afetada por Gelogumelos ou Pimentas.\n<color=black>•</color> Bloqueia a passagem de Zumbis Balão, forçando-os para o chão.</color>\n<color=black>Principais Modificadores da Odisseia:\n</color><color=#8B0000>1. Limite de Vida Máxima ×3\n2. Agora pode absorver o dano direcionado às plantas diretamente à sua esquerda e direita</color>\n\n<color=black>Modificador de Sinergia com Cerejazilla:</color><color=#8B0000>\n<color=black>•</color> Você deve ter desbloqueado todos os modificadores de Cerejazilla e Noz-Obsidiana antes que esta sinergia fique disponível na loja por 20k.\n<color=black>•</color> Quando Cerejazilla e Noz-Obsidiana (ou suas subespécies) estiverem ambos presentes, Cerejazilla/Alhozilla não possuem mais limite máximo de Resistência, e Noz-Obsidiana/Obsidimina ganham 90% de redução de dano.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Noz-Alta Gelada + Noz-Alta Flamejante</color></size>"
         },
         {
             "seedType": 914,
@@ -978,7 +978,7 @@
             "name": "Obsidimina",
             "introduce": "<size=34><color=black>A Obsidimina é pequena, mas tem grandes habilidades, nunca teme os zumbis. Porém, ela tem suas preocupações, pois sempre há um cabeça quadrada com uma picareta de diamante batendo em sua cabeça.</color></size>",
             "info": "<size=36>Obsidimina transforma seu corpo de muralha alta em uma mina inquebrável e instável!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável com Noz-Obsidiana</color>\n<color=black>Resistência: </color><color=#8B0000>32000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Subespécie da Noz-Obsidiana.\n<color=black>•</color> Planta baixa (desvia de projéteis disparados em linha reta).\n<color=black>•</color> Quando uma Obsidimina recebe dano, ele é compartilhado e dividido entre todas as Noz-Obsidianas e Obsidiminas no gramado.\n<color=black>•</color> Imune a esmagamento, recebendo no máximo 200 de dano por golpe.\n<color=black>•</color> Bloqueia Zumbis Mineradores, forçando-os a emergir antes da hora.\n<color=black>•</color> Libera uma pequena explosão de batata a cada 1000 de dano recebido (antes da redução de dano), causando 500 de dano a zumbis em uma pequena área.</color></size>",
-            "cost": "\n<size=36>Fórmula de Conversão: <color=#8B0000>Noz-Gigante <-> Batatamina</color></size>"
+            "cost": "\n<size=36>Fórmula de Conversão: <color=#8B0000>Noz-Alta <-> Batatamina</color></size>"
         },
         {
             "seedType": 926,
@@ -1194,7 +1194,7 @@
             "seedType": 956,
             "name": "Ceifadora",
             "introduce": "<size=34><color=black>A Ceifadora possui o poder terrível de aprisionar seres vivos no silêncio. Durante anos se dedicou à sua grande missão: \"Darei vida eterna a tudo, congelando o tempo nos momentos felizes; a guerra e a tragédia deixarão de existir, e toda tristeza será minha responsabilidade.\" As chamas infernais em seu dorso simbolizam os pecados que carrega por todos.</color></size>",
-            "info": "<size=36>Ceifadora pode consumir plantas para liberar explosões, redirecionar maldições e invocar uma Alma de Zumbi!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia</color>\n<color=black>Dano: </color><color=#8B0000>1800×2/30s (Cremação)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Não alveja zumbis.\n<color=black>•</color> Ativação manual. Ativa uma explosão de Pimenta e uma explosão sem cratera de Ruínagumelo no quadrado diretamente à frente.\n<color=black>•</color> Se houver uma planta (excluindo vasos e drones) no quadrado à frente, ela é destruída com 50% de chance de soltar seu pacote de sementes. Se a planta estiver amaldiçoada, a queda é garantida e o conjurador da maldição perde 15% da vida máxima.\n<color=black>•</color> Também gera uma Alma de Zumbi do zumbi com maior vida no quadrado à frente.\n<color=black>\t•</color> Alma de Zumbi: A Resistência é igual à do zumbi original. Desaparece após 10s. Todo o dano final que recebe é transferido e dividido entre os zumbis do mesmo tipo. A transferência para zumbis mini-chefes é reduzida pela metade.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Queda do pacote de sementes agora é garantida\n2. Transferência de dano da Alma de Zumbi ×2 | Subespécie Batatamina Ceifadora Desbloqueada</color></size>",
+            "info": "<size=36>Ceifadora pode consumir plantas para liberar explosões, redirecionar maldições e invocar uma Alma do Zumbi!\n\n<color=#4A2900>Condição de Uso: Modo Odisseia</color>\n<color=black>Dano: </color><color=#8B0000>1800×2/30s (Cremação)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Não alveja zumbis.\n<color=black>•</color> Ativação manual. Ativa uma explosão de Pimenta e uma explosão sem cratera de Ruínagumelo no quadrado diretamente à frente.\n<color=black>•</color> Se houver uma planta (excluindo vasos e drones) no quadrado à frente, ela é destruída com 50% de chance de soltar seu pacote de sementes. Se a planta estiver amaldiçoada, a queda é garantida e o conjurador da maldição perde 15% da vida máxima.\n<color=black>•</color> Também gera uma Alma do Zumbi do zumbi com maior vida no quadrado à frente.\n<color=black>\t•</color> Alma do Zumbi: A Resistência é igual à do zumbi original. Desaparece após 10s. Todo o dano final que recebe é transferido e dividido entre os zumbis do mesmo tipo. A transferência para zumbis mini-chefes é reduzida pela metade.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Queda do pacote de sementes agora é garantida\n2. Transferência de dano da Alma do Zumbi ×2 | Subespécie Batatamina Ceifadora Desbloqueada</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Arruínadora + Desgracenta</color></size>"
         },
         {
@@ -1383,7 +1383,7 @@
             "seedType": 983,
             "name": "Batatamina Ceifadora",
             "introduce": "<align=left><size=36><color=black>A Batatamina Ceifadora é a fiel coveira da Ceifadora, percorrendo o campo de batalha com um sorriso maligno. Nenhuma planta escapa de seu escrutínio, e as que tombam à sua sombra não simplesmente somem: são transformadas em combustível para sua magia negra de conjuração de almas e remoção de maldições. Algumas das tombadas podem renascer como ecos de vida, dando ao mundo a chance de se maravilhar com sua sombria obra de arte.</color></size></align>",
-            "info": "<size=36>Quando a Batatamina Ceifadora explode, pode reencarnar plantas próximas, contra-atacar conjuradores de maldições e invocar uma Alma de Zumbi.\n\n<color=#3D1400>Condições de Uso: Modo Odisseia | Desbloqueável com o Modificador da Ceifadora</color>\n<color=black>Tempo de Armação: </color><color=#8B0000>30s</color>\n<color=black>Dano: </color><color=#8B0000>1800 (Cremação)</color>\n<color=black>Especial: <color=#8B0000>\n<color=black>•</color> Subespécie da Ceifadora. Planta baixa.\n<color=black>•</color> Quando armada e acionada, libera efeito de Pimenta e efeito sem cratera de Ruínagumelo, destruindo plantas em uma área de 3×3 quadrados com 50% de chance de soltar o pacote de sementes da planta destruída, e gera uma Alma de Zumbi do zumbi de maior vida em seu quadrado. Se a planta estiver amaldiçoada, a queda é garantida e o conjurador da maldição perde 15% da vida máxima. Não destrói Ceifadoras, Batataminas Ceifadoras, Lírios Flamejantes ou plantas Titã.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Queda do pacote de sementes agora é garantida\n2. Transferência de dano da Alma de Zumbi ×2 | Subespécie Batatamina Ceifadora Desbloqueada</color></size>",
+            "info": "<size=36>Quando a Batatamina Ceifadora explode, pode reencarnar plantas próximas, contra-atacar conjuradores de maldições e invocar uma Alma do Zumbi.\n\n<color=#3D1400>Condições de Uso: Modo Odisseia | Desbloqueável com o Modificador da Ceifadora</color>\n<color=black>Tempo de Armação: </color><color=#8B0000>30s</color>\n<color=black>Dano: </color><color=#8B0000>1800 (Cremação)</color>\n<color=black>Especial: <color=#8B0000>\n<color=black>•</color> Subespécie da Ceifadora. Planta baixa.\n<color=black>•</color> Quando armada e acionada, libera efeito de Pimenta e efeito sem cratera de Ruínagumelo, destruindo plantas em uma área de 3×3 quadrados com 50% de chance de soltar o pacote de sementes da planta destruída, e gera uma Alma do Zumbi do zumbi de maior vida em seu quadrado. Se a planta estiver amaldiçoada, a queda é garantida e o conjurador da maldição perde 15% da vida máxima. Não destrói Ceifadoras, Batataminas Ceifadoras, Lírios Flamejantes ou plantas Titã.</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Queda do pacote de sementes agora é garantida\n2. Transferência de dano da Alma do Zumbi ×2 | Subespécie Batatamina Ceifadora Desbloqueada</color></size>",
             "cost": "\n<size=36>Fórmula de Conversão: <color=#8B0000>Carnívora <-> Batatamina</color></size>"
         },
         {
@@ -1398,7 +1398,7 @@
             "name": "Coronel Chumbervilha",
             "introduce": "<align=left><size=36><color=black>Como vice-presidente da Liga Internacional de Futebol Americano, o Coronel Chumbervilha sempre foi conhecida pelo rigor. Toda noite ela vira a madrugada forjando munição suficiente para o dia seguinte, pronta para despejá-la em campo como demonstração de fúria contra aqueles que claramente não entendem nada de futebol americano.</color></size></align>",
             "info": "<size=36>Coronel Chumbervilha dispara seis Ervilhas de Ferro por ataque, com chance de liberar uma tempestade de projéteis de aço.\n\n<color=#3D1400>Condições de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Dano: </color><color=#8B0000>80×6/1.5s</color>\n<color=black>Especial: <color=#8B0000>\n<color=black>•</color> Planta de Metal. Cada ataque possui 2% de chance de ativar seu Ataque Supremo: restaura 100% da Resistência, tornando-se temporariamente imune a dano e esmagamento por 5s e disparando 3 Ervilhas de Futebol Americano dispersas a cada 0.02s.\n<color=black>•</color> Projéteis combinam efeitos de Ervilha de Ferro e Ervilha de Futebol Americano (repulsão e dano bônus igual à vida da armadura Tipo 2 do alvo; atingir zumbis do tipo futebol americano vermelho faz com que deem meia-volta e fujam).</color>\n<color=black>Modificadores da Odisseia:</color>\n<color=#8B0000>1. Chance de ativação do Ataque Supremo de todos os Comandos ×3, Tenente Metralhatata agora dispara batatas explosivas\n2. Dano do Ataque Supremo de todos os Comandos ×2 e não se dispersa mais</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Rúgbi-Tralhadora + Metalervilha</color></size>"
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Rúgbi-Tralhadora + Baldervilha</color></size>"
         },
         {
             "seedType": 986,
@@ -1640,9 +1640,9 @@
         },
         {
             "seedType": 1020,
-            "name": "Metalervilha",
-            "introduce": "<size=34><color=black>\"Eu incorporo o espírito de meus ancestrais; não cairei aqui!\" Metalervilha afirmou confiantemente a qualquer um que cruzasse seu caminho. Quando foi apontado que seu capacete se parecia com um balde roubado do Zumbi Cabeça de Balde, ele contra-argumentou: \"Então vamos invocar a vontade deles e andar pelos ventos e ondas mais uma vez!\"</color></size>",
-            "info": "<size=36>Metalervilha pode empurrar zumbis e destruir instantaneamente armaduras manuais.\n\n<color=black>Resistência: </color><color=#8B0000>2000</color>\n<color=black>Dano: </color><color=#8B0000>80/1.5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta de Metal. Recupera 500 de Resistência ao ser alimentada com objeto metálico.\n<color=black>•</color> Sofre metade do dano de cerejas explosivas.\n<color=black>•</color> Projéteis empurram zumbis e quebram instantaneamente armaduras Tipo 2 (antes da redução de dano).</color></size>",
+            "name": "Baldervilha",
+            "introduce": "<size=34><color=black>\"Eu incorporo o espírito de meus ancestrais; não cairei aqui!\" Baldervilha afirmou confiantemente a qualquer um que cruzasse seu caminho. Quando foi apontado que seu capacete se parecia com um balde roubado do Zumbi Cabeça de Balde, ele contra-argumentou: \"Então vamos invocar a vontade deles e andar pelos ventos e ondas mais uma vez!\"</color></size>",
+            "info": "<size=36>Baldervilha pode empurrar zumbis e destruir instantaneamente armaduras manuais.\n\n<color=black>Resistência: </color><color=#8B0000>2000</color>\n<color=black>Dano: </color><color=#8B0000>80/1.5s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta de Metal. Recupera 500 de Resistência ao ser alimentada com objeto metálico.\n<color=black>•</color> Sofre metade do dano de cerejas explosivas.\n<color=black>•</color> Projéteis empurram zumbis e quebram instantaneamente armaduras Tipo 2 (antes da redução de dano).</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Balde de Ferro > Disparervilha</color></size>"
         },
         {
@@ -1689,8 +1689,8 @@
         },
         {
             "seedType": 1027,
-            "name": "Noz-Gigante",
-            "introduce": "<size=34><color=black>\"Quanto mais alto você é, mais poderoso você se torna.\" Noz-Gigante acreditava firmemente nisso, por isso sempre permaneceu na linha de frente. Outras plantas o incentivavam a se acalmar, mas ele apenas sorria e dizia: \"Está tudo bem, sou alto. Desde que você lute rapidamente, os zumbis não terão tempo de me comer completamente.\"</color></size>",
+            "name": "Noz-Alta",
+            "introduce": "<size=34><color=black>\"Quanto mais alto você é, mais poderoso você se torna.\" Noz-Alta acreditava firmemente nisso, por isso sempre permaneceu na linha de frente. Outras plantas o incentivavam a se acalmar, mas ele apenas sorria e dizia: \"Está tudo bem, sou alto. Desde que você lute rapidamente, os zumbis não terão tempo de me comer completamente.\"</color></size>",
             "info": "<size=36>Nozes-Gigantes são plantas barreira pesadas que não podem ser saltadas ou ultrapassadas.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>Planta alta. Bloqueia Zumbis com Vara, Zumbis com Golfinho e Zumbis no Pula-Pula. Não consegue bloquear Zumbis Montadores de Yeti e saltos carregados de pula-pula. Só pode ser plantada sobre Nozes-Obstáculo existentes.</color></size>",
             "cost": "<size=36>Custo: <color=#8B0000>125</color>\nRecarga: <color=#8B0000>50s</color></size>"
         },
@@ -1699,13 +1699,13 @@
             "name": "Noz-Rúgbi",
             "introduce": "<size=34><color=black>Noz-Rúgbi parecia feroz, fazendo algumas plantas pequenas que não sabiam a verdade sentirem medo de sua aparência. No entanto, as plantas que entendiam Noz-Rúgbi sabiam que por trás de seu exterior sério havia uma forte determinação em proteger seus companheiros. O capacete roubado sem dúvida aumentou sua confiança.</color></size>",
             "info": "<size=36>Noz-Rúgbi é capaz de suportar uma quantidade massiva de dano!\n\n<color=black>Resistência: </color><color=#8B0000>16000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta de Metal. Pode ser alimentada com objetos metálicos para restaurar 500 de Resistência.\n<color=black>•</color> Planta alta.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Capacete de Futebol Americano > Noz-Gigante</color></size>"
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Capacete de Futebol Americano > Noz-Alta</color></size>"
         },
         {
             "seedType": 1029,
-            "name": "Noz-Metálica",
-            "introduce": "<size=34><color=black>As plantas têm sentimentos conflitantes sobre Noz-Metálica. Como um soldado exemplar, ele executa ordens com precisão inabalável, mas sua atitude fria deixa muito a desejar. A ferrugem nos cantos de sua boca sugere um passado repleto de histórias. Nos momentos de quietude, no entanto, Noz-Metálica luta contra uma preocupação não dita: \"Como posso evitar ferrugem em um jardim úmido?\"</color></size>",
-            "info": "<size=36>Noz-Metálica bloqueia o avanço dos zumbis com uma muralha de ferro.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>Planta de Metal. Pode ser alimentada com objetos metálicos correspondentes para restaurar 500 de Resistência. Isto também se aplica a outras Plantas de Metal. Todas as plantas com Balde recebem metade do dano de cerejas explosivas.</color></size>",
+            "name": "Noz-Balde",
+            "introduce": "<size=34><color=black>As plantas têm sentimentos conflitantes sobre Noz-Balde. Como um soldado exemplar, ele executa ordens com precisão inabalável, mas sua atitude fria deixa muito a desejar. A ferrugem nos cantos de sua boca sugere um passado repleto de histórias. Nos momentos de quietude, no entanto, Noz-Balde luta contra uma preocupação não dita: \"Como posso evitar ferrugem em um jardim úmido?\"</color></size>",
+            "info": "<size=36>Noz-Balde bloqueia o avanço dos zumbis com uma muralha de ferro.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>Planta de Metal. Pode ser alimentada com objetos metálicos correspondentes para restaurar 500 de Resistência. Isto também se aplica a outras Plantas de Metal. Todas as plantas com Balde recebem metade do dano de cerejas explosivas.</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Balde de Ferro > Noz-Obstáculo</color></size>"
         },
         {
@@ -1773,10 +1773,10 @@
         },
         {
             "seedType": 1039,
-            "name": "Noz-Gelada",
-            "introduce": "<size=34><color=black>Noz-Gelada levantou seus espinhos gelados, pronta para enfrentar os zumbis. Outros comentaram sobre como ela parecia \"fria\" e \"silenciosa\". No entanto, sua expressão permaneceu inalterada, resoluta em sua defesa contra os mortos-vivos. A verdade era que seu rosto simplesmente congelou no lugar.</color></size>",
+            "name": "Noz-Alta Gelada",
+            "introduce": "<size=34><color=black>Noz-Alta Gelada levantou seus espinhos gelados, pronta para enfrentar os zumbis. Outros comentaram sobre como ela parecia \"fria\" e \"silenciosa\". No entanto, sua expressão permaneceu inalterada, resoluta em sua defesa contra os mortos-vivos. A verdade era que seu rosto simplesmente congelou no lugar.</color></size>",
             "info": "<size=36>Nozes-Geladas são barreiras altas que desaceleram zumbis que as mordem.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>Zumbis que a mordem são resfriados e acumulam 10 pontos Cryo.</color>\n<color=black>Especial: </color><color=#8B0000>Planta alta. Quando afetada por Gelogumelos, cura 1000 de Resistência.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gelogumelo > Noz-Gigante</color></size>"
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Gelogumelo > Noz-Alta</color></size>"
         },
         {
             "seedType": 1040,
@@ -1789,7 +1789,7 @@
             "seedType": 1041,
             "name": "Calafriogumelo",
             "introduce": "<size=34><color=black>Bela de Gelo? Flor da Alta Montanha? Calafriogumelo. Ela não se importava. Cuidadosamente cuidou do adereço de gelo em sua cabeça e estava pronta para entregar seu equipamento de nozes altas para os zumbis a qualquer momento. \"Eles vão gostar do estilo frio.\"</color></size>",
-            "info": "<size=36>Quando um zumbi come um Calafriogumelo, transforma-se em um Zumbi Noz-Gelada que lutará por você.\n\n<color=black>Especial: </color><color=#8B0000>Ao ser mordido, transforma o zumbi em um Zumbi Noz-Gelada Hipnotizado, congela o campo inteiro e desaparece.</color></size>",
+            "info": "<size=36>Quando um zumbi come um Calafriogumelo, transforma-se em um Zumbi Noz-Alta Gelada que lutará por você.\n\n<color=black>Especial: </color><color=#8B0000>Ao ser mordido, transforma o zumbi em um Zumbi Noz-Alta Gelada Hipnotizado, congela o campo inteiro e desaparece.</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Hipnogumelo + Gelogumelo</color></size>"
         },
         {
@@ -2011,10 +2011,10 @@
         },
         {
             "seedType": 1073,
-            "name": "Noz-Flamejante",
-            "introduce": "<size=34><color=black>Noz-Flamejante é um grande fã das Olimpíadas e insiste apaixonadamente que Tronco Flamejante seja escolhido como a tocha olímpica. Aviso cauteloso para os desinformados: não tente comê-lo. Você pode acabar se queimando com o calor picante.</color></size>",
-            "info": "<size=36>Noz-Flamejante é uma barreira alta que aplica Pyro em zumbis que a mordem.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>Quando afetada pela Pimenta, cura 3000 de Resistência. Aplica a penalidade de Pyro e causa 20 de dano a zumbis que a morderem.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta > Noz-Gigante</color></size>"
+            "name": "Noz-Alta Flamejante",
+            "introduce": "<size=34><color=black>Noz-Alta Flamejante é um grande fã das Olimpíadas e insiste apaixonadamente que Tronco Flamejante seja escolhido como a tocha olímpica. Aviso cauteloso para os desinformados: não tente comê-lo. Você pode acabar se queimando com o calor picante.</color></size>",
+            "info": "<size=36>Noz-Alta Flamejante é uma barreira alta que aplica Pyro em zumbis que a mordem.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>Quando afetada pela Pimenta, cura 3000 de Resistência. Aplica a penalidade de Pyro e causa 20 de dano a zumbis que a morderem.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pimenta > Noz-Alta</color></size>"
         },
         {
             "seedType": 1074,
@@ -2776,7 +2776,7 @@
             "seedType": 1182,
             "name": "Tronco Congelante",
             "introduce": "<size=34><color=black>\"Uma entrada, uma saída. Essa é a regra.\" O Tronco Congelante se orgulhava de sua lógica estruturada. \"É por isso que eu neutralizo as chamas do Tronco Flamejante com gelo puro e inflexível.\" Mas juntá-los? As coisas ficaram... confusas. Fogo e gelo, calor e frio — às vezes eles se equilibravam, às vezes eles se chocavam, e às vezes, bem... a física simplesmente desistia.</color></size>",
-            "info": "<size=36>Tronco Congelante pode transformar ervilhas comuns em gelervilhas ou ervilhas de gelo polar, e orbes de água em blocos de gelo.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Transforma as ervilhas comuns que passam por ele em gelervilhas, e as gelervilhas que passam em ervilhas de gelo polar para dano ×2 e pontos Cryo ×2.\n<color=black>•</color> Transforma os orbes de água do Alorqueiro em blocos de gelo.\n<color=black>•</color> Transforma ervilhas incendiadas em ervilhas comuns com 20 de dano.</color></size>",
+            "info": "<size=36>Tronco Congelante pode transformar ervilhas comuns em gelervilhas ou ervilhas de gelo polar, e orbes de água em blocos de gelo.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Transforma as ervilhas comuns que passam por ele em gelervilhas, e as gelervilhas que passam em ervilhas de gelo polar para dano ×2 e pontos Cryo ×2.\n<color=black>•</color> Transforma os orbes de água do Babosarqueiro em blocos de gelo.\n<color=black>•</color> Transforma ervilhas incendiadas em ervilhas comuns com 20 de dano.</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Tronco Flamejante + Gelogumelo</color></size>"
         },
         {
@@ -3005,9 +3005,9 @@
         },
         {
             "seedType": 1215,
-            "name": "Noz-Plasmática",
-            "introduce": "<size=34><color=black>Outras plantas costumam ouvir a Noz-Plasmática recontar os mistérios de suas aventuras — como uma Esfinge com cabeça de zumbi, uma van que só buzina e as 1001 invenções desenvolvidas pela corporação Z-Corp.</color></size>",
-            "info": "<size=36>Noz-Plasmática possui chance de teleportar atacantes para trás e pode rebobinar a própria vida uma vez quando estiver à beira da morte.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> 25% de chance de teleportar quem a morde para o extremo direito da mesma linha (tempo de recarga de 10s).\n<color=black>•</color> Ao sofrer dano letal, rebobina sua vida para o valor de 3s atrás e fica invulnerável por 3s (habilidade de uso único).</color></size>",
+            "name": "Cronoz",
+            "introduce": "<size=34><color=black>Outras plantas costumam ouvir a Cronoz recontar os mistérios de suas aventuras — como uma Esfinge com cabeça de zumbi, uma van que só buzina e as 1001 invenções desenvolvidas pela corporação Z-Corp.</color></size>",
+            "info": "<size=36>Cronoz possui chance de teleportar atacantes para trás e pode rebobinar a própria vida uma vez quando estiver à beira da morte.\n\n<color=black>Resistência: </color><color=#8B0000>4000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> 25% de chance de teleportar quem a morde para o extremo direito da mesma linha (tempo de recarga de 10s).\n<color=black>•</color> Ao sofrer dano letal, rebobina sua vida para o valor de 3s atrás e fica invulnerável por 3s (habilidade de uso único).</color></size>",
             "cost": "<size=36>\nFórmula da Fusão: <color=#8B0000>Núcleo Temporal > Noz-Obstáculo</color></size>"
         },
         {
@@ -3026,24 +3026,24 @@
         },
         {
             "seedType": 1218,
-            "name": "Petaloe",
-            "introduce": "<size=34><color=black>Após equipar um jato de água de alta pressão, a Petaloe melhorou bastante sua eficiência de corte. Mas há um ponto negativo: água corrente é difícil de encontrar na planície nevada.</color></size>",
-            "info": "<size=36>Petaloe é resistente ao frio, causando mais dano quando está suficientemente frio e aplicando Resfriamento.\n\n<color=black>Dano: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas quando afetada por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Com cargas gélidas, ataques causam dano dobrado, aplicam Resfriamento Profundo e adicionam 1 ponto Cryo, mas possuem 1/9 de chance de gastar uma carga.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Petalâmina + Aloe Vera</color></size>"
+            "name": "Petabosa",
+            "introduce": "<size=34><color=black>Após equipar um jato de água de alta pressão, a Petabosa melhorou bastante sua eficiência de corte. Mas há um ponto negativo: água corrente é difícil de encontrar na planície nevada.</color></size>",
+            "info": "<size=36>Petabosa é resistente ao frio, causando mais dano quando está suficientemente frio e aplicando Resfriamento.\n\n<color=black>Dano: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas quando afetada por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Com cargas gélidas, ataques causam dano dobrado, aplicam Resfriamento Profundo e adicionam 1 ponto Cryo, mas possuem 1/9 de chance de gastar uma carga.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Petalâmina + Babosa Polar</color></size>"
         },
         {
             "seedType": 1219,
-            "name": "Alorqueiro",
-            "introduce": "<size=34><color=black>Um arqueiro pode competir sem um arco? O Alorqueiro dá de ombros: \"É apenas manipulação de água.\"</color></size>",
-            "info": "<size=36>Alorqueiro dispara orbes de água ou consome cargas gélidas para lançar blocos de gelo em vez disso.\n\n<color=black>Dano: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas quando afetado por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Usa 1 carga gélida para disparar um bloco de gelo com dano dobrado que aplica Resfriamento Profundo e adiciona 40 pontos Cryo, causando dano ×4 a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pinheirarqueiro + Aloe Vera</color></size>"
+            "name": "Babosarqueiro",
+            "introduce": "<size=34><color=black>Um arqueiro pode competir sem um arco? O Babosarqueiro dá de ombros: \"É apenas manipulação de água.\"</color></size>",
+            "info": "<size=36>Babosarqueiro dispara orbes de água ou consome cargas gélidas para lançar blocos de gelo em vez disso.\n\n<color=black>Dano: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas quando afetado por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Usa 1 carga gélida para disparar um bloco de gelo com dano dobrado que aplica Resfriamento Profundo e adiciona 40 pontos Cryo, causando dano ×4 a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Pinheirarqueiro + Babosa Polar</color></size>"
         },
         {
             "seedType": 1220,
             "name": "Pinheiro Invernal",
             "introduce": "<size=34><color=black>O Pinheiro Invernal é antiquado, sério e exigente, tratando os outros e as situações com frieza — mas para um treinador de elite, todas essas características são qualidades.</color></size>",
             "info": "<size=36>Pinheiro Invernal dispara hidro-serras giratórias que se prendem aos zumbis ou consome cargas gélidas para disparar agulhas criogênicas giratórias.\n\n<color=black>Dano: </color><color=#8B0000>5×75/1.5s</color>\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1/1/15 cargas gélidas quando afetado por bola de neve/tridente de neve/Gelogumelo respectivamente.\n<color=black>•</color> Agulhas de hidro-serra giratórias causam 5 de dano a cada 0.02s e duram 1.5s.\n<color=black>•</color> Usa 1 carga gélida para disparar agulhas criogênicas giratórias com dano dobrado que aplicam Resfriamento Profundo e adicionam 1 ponto Cryo, causando dano ×4 a zumbis congelados.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
-            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Pinheirarqueiro + Aloe Vera + Petalâmina</color></size>"
+            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Pinheirarqueiro + Babosa Polar + Petalâmina</color></size>"
         },
 {
             "seedType": 1221,
@@ -3082,17 +3082,17 @@
         },
         {
             "seedType": 1226,
-            "name": "Aquecialoe",
-            "introduce": "<size=34><color=black>A Aquecialoe aprimorou seu sistema de ar para regular melhor a temperatura em pequenas áreas. O único problema: a água que pinga do condensador congela rapidamente na planície nevada.</color></size>",
-            "info": "<size=36>Aquecialoe cobre uma área maior que a Aquecilenha, mas apenas por tempo limitado.\n\n<color=black>Especial: </color><color=#8B0000>Herda os traços da Aquecilenha, mas com alcance expandido para 3×3 quadrados. Reverte para uma Aquecilenha comum após 45s.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aquecilenha + Aloe Vera</color></size>"
+            "name": "Aquecibosa",
+            "introduce": "<size=34><color=black>A Aquecibosa aprimorou seu sistema de ar para regular melhor a temperatura em pequenas áreas. O único problema: a água que pinga do condensador congela rapidamente na planície nevada.</color></size>",
+            "info": "<size=36>Aquecibosa cobre uma área maior que a Aquecilenha, mas apenas por tempo limitado.\n\n<color=black>Especial: </color><color=#8B0000>Herda os traços da Aquecilenha, mas com alcance expandido para 3×3 quadrados. Reverte para uma Aquecilenha comum após 45s.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aquecilenha + Babosa Polar</color></size>"
         },
         {
             "seedType": 1227,
-            "name": "Alótus Vera",
-            "introduce": "<size=34><color=black>O Dr. Alótus Vera é o jovem médico mais querido do hospital. Não é apenas por sua dedicação e habilidade — também pode ser por suas folhas semelhantes a um bigode. Afinal, os pacientes tendem a confiar mais em médicos com aparência madura.</color></size>",
-            "info": "<size=36>Alótus Vera usa algumas de suas cargas para aumentar a vida e a velocidade de ataque das plantas!\n\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1 carga gélida passivamente a cada 5 segundos.\n<color=black>•</color> Ganha 1/1/15/60 cargas gélidas quando afetada por bola de neve/tridente de neve/Gelogumelo/nevasca respectivamente.\n<color=black>•</color> A cada 5 segundos, consome 5 cargas para curar todas as plantas em uma área de 3×3 quadrados em 50 de vida e aumentar a velocidade de ataque delas em 30% por 5 segundos.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
-            "cost": "<size=36>\nFórmula da Fusão: <color=#8B0000>Aloe Vera + Lótus Gélida</color></size>"
+            "name": "Babosa de Lotús",
+            "introduce": "<size=34><color=black>O Dr. Babosa de Lotús é o jovem médico mais querido do hospital. Não é apenas por sua dedicação e habilidade — também pode ser por suas folhas semelhantes a um bigode. Afinal, os pacientes tendem a confiar mais em médicos com aparência madura.</color></size>",
+            "info": "<size=36>Babosa de Lotús usa algumas de suas cargas para aumentar a vida e a velocidade de ataque das plantas!\n\n<color=#0077b6>Sistema Cryo: </color><color=#8B0000>\n<color=black>•</color> Ganha 1 carga gélida passivamente a cada 5 segundos.\n<color=black>•</color> Ganha 1/1/15/60 cargas gélidas quando afetada por bola de neve/tridente de neve/Gelogumelo/nevasca respectivamente.\n<color=black>•</color> A cada 5 segundos, consome 5 cargas para curar todas as plantas em uma área de 3×3 quadrados em 50 de vida e aumentar a velocidade de ataque delas em 30% por 5 segundos.</color>\n<color=black>Especial: </color><color=#8B0000>Imune a congelamento e geada.</color></size>",
+            "cost": "<size=36>\nFórmula da Fusão: <color=#8B0000>Babosa Polar + Lótus Gélida</color></size>"
         },
         {
             "seedType": 1228,
@@ -3138,10 +3138,10 @@
         },
         {
             "seedType": 1234,
-            "name": "Aquecialótus Vera",
-            "introduce": "<size=34><color=black>A Aquecialótus Vera traz calor e vida para a vastidão congelada. Apesar de sua aparência peculiar, as crianças locais o adoram. \"Um torrão de açúcar, alguém quer?\" oferece ele com alegria. \"Ajuda a manter o calor!\"</color></size>",
-            "info": "<size=36>Aquecialótus Vera é uma Aquecilenha estável de alta temperatura que fornece periodicamente cargas ou cura para plantas próximas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Herda os traços da Aquecilenha, com um alcance de proteção de 3×3 quadrados.\n<color=black>•</color> Quando a geada na área protegida é removida, considera-se sempre que foi removida por plantas.\n<color=black>•</color> Não pode ser colocada perto de outras Aquecilenhas.\n<color=black>•</color> Fornece 1 carga gélida a plantas gélidas protegidas a cada 3s.\n<color=black>•</color> Cura plantas protegidas em 50 de vida a cada 15s.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aquecilenha + Alótus Vera</color></size>"
+            "name": "AqueciBabosa de Lotús",
+            "introduce": "<size=34><color=black>A AqueciBabosa de Lotús traz calor e vida para a vastidão congelada. Apesar de sua aparência peculiar, as crianças locais o adoram. \"Um torrão de açúcar, alguém quer?\" oferece ele com alegria. \"Ajuda a manter o calor!\"</color></size>",
+            "info": "<size=36>AqueciBabosa de Lotús é uma Aquecilenha estável de alta temperatura que fornece periodicamente cargas ou cura para plantas próximas.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Herda os traços da Aquecilenha, com um alcance de proteção de 3×3 quadrados.\n<color=black>•</color> Quando a geada na área protegida é removida, considera-se sempre que foi removida por plantas.\n<color=black>•</color> Não pode ser colocada perto de outras Aquecilenhas.\n<color=black>•</color> Fornece 1 carga gélida a plantas gélidas protegidas a cada 3s.\n<color=black>•</color> Cura plantas protegidas em 50 de vida a cada 15s.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aquecilenha + Babosa de Lotús</color></size>"
         },
         {
             "seedType": 1235,
@@ -3281,7 +3281,7 @@
             "name": "Pinheiro dos Mares",
             "introduce": "<size=34><color=black>O Pinheiro dos Mares serviu outrora com orgulho no topo das muralhas do castelo, convencido de que seu poder era como um tsunami estrondoso. Acontece que todos estavam apenas falando do rangido que suas cordas faziam ao recarregar. Envergonhado, mas determinado, ele encontrou a salvação no suco de babosa. Agora seus virotes são mais suaves, mais mortais e, o mais importante, muito mais silenciosos.</color></size>",
             "info": "<size=36>Alvos atingidos pelo Pinheiro dos Mares tornam-se mais vulneráveis ao frio.\n\n<color=black>Dano: </color><color=#8B0000>80/1s</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Dispara 4 virotes em rápida sucessão antes de descansar por 3s.\n<color=black>•</color> 90% de chance de disparar Virotes de Maré. Aplica Encharcado por 5s. Um zumbi encharcado será congelado em vez de resfriado ao ser atingido por qualquer ataque do sistema Cryo. O estado é então removido e não pode ser reaplicado por 10s.\n<color=black>•</color> 10% de chance de disparar Virotes de Gelo. Aplica Resfriamento Profundo.</color></size>",
-            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Aloe Vera > Balista de Pinheiro</color></size>"
+            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Babosa Polar > Balista de Pinheiro</color></size>"
         },
         {
             "seedType": 1255,
@@ -3313,10 +3313,10 @@
         },
         {
             "seedType": 1259,
-            "name": "Broto de Aloe",
-            "introduce": "<size=34><color=black>O Broto de Aloe adora viajar e promover sua cidade natal nevada. Mas ninguém parece interessado. \"Eles sempre acham que a mochila nas minhas costas é apenas um galo de briga\", reclama ele. \"Não admira que pensem que a tundra é um lugar implacável.\"</color></size>",
-            "info": "<size=36>Broto de Aloe pode usar suas cargas para diminuir a quantidade de dano que recebe.\n\n<color=black>Resistência: </color><color=#8B0000>1500</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha cargas gélidas como a Aloe Vera.\n<color=black>•</color> Resiliência (padrão 1): O dano recebido é dividido pela resiliência. A vida máxima é tratada como multiplicada pela resiliência. Consome 1 carga para aumentar a resiliência em 2. Ganha 1 de resiliência ao lutar contra zumbis resfriados/congelados (não acumulável com a habilidade anterior).</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Broto de Bambu + Aloe Vera</color></size>"
+            "name": "Broto de Babosa",
+            "introduce": "<size=34><color=black>O Broto de Babosa adora viajar e promover sua cidade natal nevada. Mas ninguém parece interessado. \"Eles sempre acham que a mochila nas minhas costas é apenas um galo de briga\", reclama ele. \"Não admira que pensem que a tundra é um lugar implacável.\"</color></size>",
+            "info": "<size=36>Broto de Babosa pode usar suas cargas para diminuir a quantidade de dano que recebe.\n\n<color=black>Resistência: </color><color=#8B0000>1500</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha cargas gélidas como a Babosa Polar.\n<color=black>•</color> Resiliência (padrão 1): O dano recebido é dividido pela resiliência. A vida máxima é tratada como multiplicada pela resiliência. Consome 1 carga para aumentar a resiliência em 2. Ganha 1 de resiliência ao lutar contra zumbis resfriados/congelados (não acumulável com a habilidade anterior).</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Broto de Bambu + Babosa Polar</color></size>"
         },
         {
             "seedType": 1260,
@@ -3328,7 +3328,7 @@
         {
             "seedType": 1261,
             "name": "Noz-Melancia",
-            "introduce": "<size=34><color=black>Sempre que zumbis vêm comprar melancias, o dono da barraca, o Dr. Alótus Vera, sempre lhes vende a maior de todas — a Noz-Melancia. Depois que os zumbis quebram os dentes nela, o Dr. Alótus Vera os encaminha para uma clínica odontológica próxima para consertá-los e, naturalmente, essa clínica também pertence a ele.</color></size>",
+            "introduce": "<size=34><color=black>Sempre que zumbis vêm comprar melancias, o dono da barraca, o Dr. Babosa de Lotús, sempre lhes vende a maior de todas — a Noz-Melancia. Depois que os zumbis quebram os dentes nela, o Dr. Babosa de Lotús os encaminha para uma clínica odontológica próxima para consertá-los e, naturalmente, essa clínica também pertence a ele.</color></size>",
             "info": "<size=36>Noz-Melancia desenvolve um escudo temporário e retalia com uma melancia após sofrer uma certa quantidade de dano.\n\n<color=black>Resistência: </color><color=#8B0000>8000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Ao sofrer dano, armazena 1.5× o dano recebido como Carga de Retaliação. Se o dano exceder 100/500/1000, armazena 3/4.5/6× o dano em vez disso.\n<color=black>•</color> O medidor de retaliação é limitado à vida máxima.\n<color=black>•</color> Quando o medidor de retaliação excede 1000, consome todas as cargas para lançar uma melancia que causa a mesma quantidade de dano e ganha um escudo de valor igual que decai totalmente ao longo de 5s.</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Noz-Obstáculo + Melancipulta</color></size>"
         },
@@ -3365,7 +3365,7 @@
             "name": "Noz-Muralha",
             "introduce": "<size=34><color=black>As plantas sempre reclamam que a Noz-Muralha é um obstáculo para a visão e que, apesar de ser tão grande, não faz nada para se livrar dos zumbis à sua frente. \"Ele é preguiçoso, acho que nem veio sozinho até aqui\", diziam alguns. \"Ele rolou de uma montanha e parou aqui\", zombavam outros. Mas a Noz-Muralha não pretendia responder, porque, assim como sua casca, sua determinação estava endurecida para proteger as plantas que precisavam dele, afinal.</color></size>",
             "info": "<size=36>Noz-Muralha ganha maior defesa quanto mais tipos de plantas defensivas estiverem em campo.\n\n<color=black>Resistência: </color><color=#8B0000>32000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta alta.\n<color=black>•</color> Imune a esmagamento; o dano recebido é limitado a no máximo 1/3 da Resistência por golpe.\n<color=black>•</color> Após o limite de dano, o dano recebido é reduzido dividindo-o por (1 + 0.1 × número de tipos de plantas defensivas em campo).</color></size>",
-            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Noz-Obstáculo ∞ [Noz-Gigante] ∞ Noz-Obstáculo < Unibérculo (Posicionar no Meio)</color></size>"
+            "cost": "<size=36>Fórmula da Fusão: <color=#8B0000>Noz-Obstáculo ∞ [Noz-Alta] ∞ Noz-Obstáculo < Unibérculo (Posicionar no Meio)</color></size>"
         },
         {
             "seedType": 1267,
@@ -4323,7 +4323,7 @@
             "seedType": 1403,
             "name": "Lótus de Líquen",
             "introduce": "<align=left><size=36><color=black>Segundo a lenda, as flores de lótus nas Planícies Nevadas crescem no topo de picos nevados perigosos, visíveis apenas para os corajosos. A Lótus de Líquen descarta essa ideia. Ela cresce na base comum da montanha, usando cada gota de força para romper o solo congelado e a neve. As manchas escuras de terra em suas folhas falam de seu esforço. Não é preciso alcançar o topo; dar o primeiro passo nas Planícies Nevadas já é um ato de coragem. E ela é a representação viva dessa coragem.</color></size></align>",
-            "info": "<size=36>Lótus de Líquen usa o frio para conceder cargas a certas plantas, mas congela plantas próximas não adaptadas ao inverno.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1 carga gélida a cada 5s. Ganha 1/1/60 cargas gélidas quando afetada por bola de neve/tridente de neve/nevasca respectivamente.\n<color=black>•</color> Pode consumir 5 cargas para despertar. Ao despertar, cura plantas em uma área de 3×3 quadrados em 100 de vida e aplica Congelamento, além de despertar plantas da família Lótus Gélida e conceder 5 cargas gélidas a plantas da família Aloe Vera e Lotusarqueiro. Depois disso, entra em um tempo de recarga de pelo menos 2s.</color></size>",
+            "info": "<size=36>Lótus de Líquen usa o frio para conceder cargas a certas plantas, mas congela plantas próximas não adaptadas ao inverno.\n\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1 carga gélida a cada 5s. Ganha 1/1/60 cargas gélidas quando afetada por bola de neve/tridente de neve/nevasca respectivamente.\n<color=black>•</color> Pode consumir 5 cargas para despertar. Ao despertar, cura plantas em uma área de 3×3 quadrados em 100 de vida e aplica Congelamento, além de despertar plantas da família Lótus Gélida e conceder 5 cargas gélidas a plantas da família Babosa Polar e Lotusarqueiro. Depois disso, entra em um tempo de recarga de pelo menos 2s.</color></size>",
             "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Lótus Gélida + Líquen Detonador</color></size>"
         },
         {
@@ -4363,10 +4363,10 @@
         },
         {
             "seedType": 1409,
-            "name": "Aloe Líquen",
-            "introduce": "<align=left><size=36><color=black>No arremesso de bolas de neve, a Aloe Líquen é um gênio. Com apenas uma folha, consegue arremessar com precisão bolas de neve do tamanho de punhos, fazendo malabarismo com várias ao mesmo tempo. O único problema é sua habilidade de captura: as bolas de neve frequentemente acabam acertando sua própria cabeça.</color></size></align>",
-            "info": "<size=36>Aloe Líquen arremessa bolas de neve continuamente, mantendo as plantas refrescadas e resfriadas.\n\n<color=black>Dano: </color><color=#8B0000>40/1.5s (bolas de neve pretas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1/15 de carga gélida quando afetada por congelamento ou efeitos de Gelogumelo.\n<color=black>•</color> Arremessa bolas de neve continuamente em si mesma se não houver zumbis no alcance; se tiver um alvo, há 25% de chance de mudar para o arremesso de bolas de neve pretas nos zumbis.\n<color=black>•</color> Ao arremessar bolas de neve brancas, pode consumir 3 cargas gélidas para arremessar adicionalmente bolas de neve brancas para cada planta à sua frente em até 3 quadrados de distância.</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aloe Vera + Líquen Detonador</color></size>"
+            "name": "Babosa de Líquen",
+            "introduce": "<align=left><size=36><color=black>No arremesso de bolas de neve, a Babosa de Líquen é um gênio. Com apenas uma folha, consegue arremessar com precisão bolas de neve do tamanho de punhos, fazendo malabarismo com várias ao mesmo tempo. O único problema é sua habilidade de captura: as bolas de neve frequentemente acabam acertando sua própria cabeça.</color></size></align>",
+            "info": "<size=36>Babosa de Líquen arremessa bolas de neve continuamente, mantendo as plantas refrescadas e resfriadas.\n\n<color=black>Dano: </color><color=#8B0000>40/1.5s (bolas de neve pretas)</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a congelamento e geada.\n<color=black>•</color> Ganha 1/15 de carga gélida quando afetada por congelamento ou efeitos de Gelogumelo.\n<color=black>•</color> Arremessa bolas de neve continuamente em si mesma se não houver zumbis no alcance; se tiver um alvo, há 25% de chance de mudar para o arremesso de bolas de neve pretas nos zumbis.\n<color=black>•</color> Ao arremessar bolas de neve brancas, pode consumir 3 cargas gélidas para arremessar adicionalmente bolas de neve brancas para cada planta à sua frente em até 3 quadrados de distância.</color></size>",
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Babosa Polar + Líquen Detonador</color></size>"
         },
         {
             "seedType": 1410,
@@ -4758,7 +4758,7 @@
             "name": "Baú Abóbora do Fim",
             "introduce": "<align=left><size=36><color=black>\"AVISO: NÃO coloque um Baú Abóbora do Fim dentro de outro Baú Abóbora do Fim. Fazer isso pode levar a paradoxos recursivos inesperados ou anomalias caóticas no espaço-tempo.\"\nIsso é o que todo Baú Abóbora do Fim sempre diz. Na verdade, eles só não querem ter que lidar com o enjoo resultante.</color></size></align>",
             "info": "<size=36>Armazena automaticamente cartas próximas e compartilha o armazenamento entre qualquer local.\n\n<color=#4A2900>Condição de Uso: Modo Odisseia</color>\n<color=black>Resistência: </color><color=#8B0000>16000</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Imune a esmagamento, o dano recebido é limitado a no máximo 1000 por golpe.\n<color=black>•</color> Mantém todos os recursos do Baú de Abóbora. Armazena automaticamente cartas de plantas em um raio de 3.7 quadrados, ganhando 1000 de escudo ao armazenar e perdendo 1000 de escudo ao resgatar.\n<color=black>•</color> Todos os Baús Abóbora do Fim compartilham um espaço de armazenamento único e independente que pode ser acessado entre si.\n<color=black>•</color> Ganha a habilidade de transformar Abóboras comuns em seu quadrado em Abóboras do Fim após obter ambos os seus Modificadores.\n<color=black>•</color> Surge com uma planta aleatória da Odisseia em seu interior ao jogar modos Gacha.\n<color=black>Modificadores da Odisseia:\n</color><color=#8B0000>1. Baú Abóbora do Fim: Pode armazenar objetos metálicos caídos e os usa para curar Nozes-Mechatron; priorizando aquela com menor vida primeiro\n2. Baú Abóbora do Fim: O limite de acúmulo para cada espaço individual agora é dobrado para todos os Baús de Abóbora | Abóbora do Fim: Habilidade principal ativada</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Baú de Abóbora + Noz-Plasmática</color></size>"
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Baú de Abóbora + Cronoz</color></size>"
         },
         {
             "seedType": 5003,
@@ -4772,7 +4772,7 @@
             "name": "Aquecinheiro Supremo",
             "introduce": "<align=left><size=36><color=black>A entrada da Exposição de Esculturas de Gelo sempre exibiu a placa \"Proibida a Entrada de Zumbis\". Depois que o Aquecinheiro Supremo participou de uma edição, a placa foi atualizada para \"Proibida a Entrada de Zumbis e do Aquecinheiro Supremo\".</color></size></align>",
             "info": "<size=36>Aquecinheiro Supremo descongela rapidamente plantas próximas enquanto fornece cura e a aura das planícies nevadas.\n\n<color=#4A2900>Condição de Uso: Modo Odisseia | Desbloqueável</color>\n<color=black>Especial: </color><color=#8B0000>\n<color=black>•</color> Planta voadora com alcance de proteção de 3×3 quadrados. Quando plantado ou movido e seu alcance de proteção se sobrepõe ao de outro Aquecinheiro Supremo, solta a si mesmo como um pacote de sementes.\n<color=black>•</color> Para plantas protegidas: reduz a duração do Congelamento em 75%; quando a geada é removida, é sempre considerada como tendo sido removida por plantas.\n<color=black>•</color> Armazenamento de Essência: Armazena 1 Essência a cada 15s e 1 Essência quando afetado por Gelogumelo (até 3).\n<color=black>•</color> Uso de Essência: Usa 1 Essência automaticamente a cada 3s. Se o armazenamento de Essência já estiver cheio, ou se uma planta protegida atender a qualquer uma das seguintes condições, usa 1 Essência armazenada:\n- Congelada ou sob Geada\n- Vida abaixo de 1/3\n- Acúmulos de maldição excedem 2/3 de sua vida\n<color=black>•</color> Efeitos da Essência na liberação:\n- Remove imediatamente Congelamento ou Geada de 1 planta no alcance\n- Causa 500 de dano a blocos de gelo no alcance\n- Concede a plantas gélidas no alcance 10 acúmulos de Carga Gélida\n<color=black>•</color> Efeitos da Essência na aterrissagem:\n- Restaura 100 de vida a todas as plantas no alcance\n- Concede a plantas gélidas no alcance 100 de Escudo\n<color=black>Modificadores da Odisseia:\n</color><color=#8B0000>1. A Essência aumenta a vida máxima das plantas em 0.2% de sua Resistência base na rodada atual\n2. Poder de Cura e Escudo da Essência ×2 | Quantidade de remoções de Congelamento e Geada ×3 | Velocidade de recuperação automática de Essência ×2</color></size>",
-            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>Aquecialótus Vera + Aloe Líquen</color></size>"
+            "cost": "\n<size=36>Fórmula da Fusão: <color=#8B0000>AqueciBabosa de Lotús + Babosa de Líquen</color></size>"
         }
     ]
 }

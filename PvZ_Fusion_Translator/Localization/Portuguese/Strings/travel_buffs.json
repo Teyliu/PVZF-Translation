@@ -114,11 +114,11 @@
         },
         "28": {
             "name": "Perdição Certa",
-            "desc": "Subespécie da Batatamina Ceifador Desbloqueada | Ceifadora e Batatamina Ceifador: A queda do pacote de sementes agora é garantida"
+            "desc": "Subespécie da Batatamina Ceifadora Desbloqueada | Ceifadora e Batatamina Ceifador: A queda do pacote de sementes agora é garantida"
         },
         "29": {
             "name": "Elo Sobrenatural",
-            "desc": "Ceifadora e Batatamina Ceifador: Transferência de dano da Alma de Zumbi ×2"
+            "desc": "Ceifadora e Batatamina Ceifadora: Transferência de dano da Alma do Zumbi ×2"
         },
         "30": {
             "name": "Radiação Persistente",
@@ -146,11 +146,11 @@
         },
         "36": {
             "name": "Sopro Explosivo",
-            "desc": "Dragão de Bambu Flamejante: Frequência de Explosão ×2"
+            "desc": "Dragão de Bambu: Frequência de Explosão ×2"
         },
         "37": {
             "name": "Momento Térmico",
-            "desc": "Dragão de Bambu Flamejante: Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu Flamejante aumenta o dano do próximo acerto desse mesmo ataque em 1%, acumulando até 400%"
+            "desc": "Dragão de Bambu: Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu aumenta o dano do próximo acerto desse mesmo ataque em 1%, acumulando até 400%"
         },
         "38": {
             "name": "Frente Fria",
@@ -162,7 +162,7 @@
         },
         "40": {
             "name": "Destreza Arcana",
-            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0,5 célula"
+            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0,5 quadrado"
         },
         "41": {
             "name": "Mordida de Amor",
@@ -170,7 +170,7 @@
         },
         "42": {
             "name": "Vendaval Intempestivo",
-            "desc": "Turbinada Quetzalcoatl: Bônus de dano do efeito Tontura 20% → 40%, e ataques reduzem o valor de Redução de Dano em 10"
+            "desc": "Turbinada Quetzalcoatl: Bônus de dano do efeito Tontura 20% → 40%, e ataques reduzem os pontos de Redução de Dano em 10"
         },
         "43": {
             "name": "Ventos Velozes",
@@ -178,11 +178,11 @@
         },
         "44": {
             "name": "Truque de Mágica",
-            "desc": "Bruxervilha SP: Toda vez que o projétil da Bruxervilha ricocheteia, seu dano aumenta em 10%. No Nível 2, quantidade de ricochetes ×3"
+            "desc": "Bruxaervilha Matriarca: Toda vez que o projétil da Bruxaervilha ricocheteia, seu dano aumenta em 10%. No Nível 2, quantidade de ricochetes ×3"
         },
         "45": {
             "name": "Enfeitiçado",
-            "desc": "Bruxervilha SP: Os projéteis da Bruxervilha agora priorizam como alvo chefões com maior quantidade de vida ao ricochetearem. No Nível 2, zumbis atingidos por projéteis ricocheteantes recebem +10% de dano extra"
+            "desc": "Bruxaervilha Matriarca: Os projéteis da Bruxaervilha agora priorizam como alvo chefões com maior quantidade de vida ao ricochetearem. No Nível 2, zumbis atingidos por projéteis ricocheteantes recebem +10% de dano extra"
         },
         "46": {
             "name": "Coletor de Sucata",
@@ -281,12 +281,12 @@
             "desc": "Plantas ganham 20% de bônus de cura"
         },
         "1022": {
-            "name": "Percepção da Bruxaria I",
-            "desc": "Melhora a Bruxervilha para Bruxervilha SP (Nível 1)"
+            "name": "Bençao do Congelamento I",
+            "desc": "Melhora a Bruxaervilha para Bruxaervilha Matriarca (Nível 1)"
         },
         "1023": {
-            "name": "Percepção da Bruxaria II",
-            "desc": "Melhora a Bruxervilha SP para o Nível 2"
+            "name": "Bençao do Congelamento II",
+            "desc": "Melhora a Bruxaervilha Matriarca para o Nível 2"
         },
         "2000": {
             "name": "Fim dos Tempos",
@@ -358,7 +358,7 @@
         },
         "3008": {
             "name": "Pequeno Milagre",
-            "desc": "Quando Definhazinha e Soprogumelo Gélido Supremo são plantados na mesma célula, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
+            "desc": "Quando Definhazinha e Avalanchegumelo são plantados no mesmo quadrado, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
         },
         "3009": {
             "name": "Fúria Elemental",
@@ -378,7 +378,7 @@
         },
         "4003": {
             "name": "Bebê Jill",
-            "desc": "Invoca uma Bebê Jill para lutar por você (substitui o Mascote atual). A cada 15s, ela realiza um ataque aleatório: invoca Zumbis Palhaço Caixa-Surpresa hipnotizados de alto nível por fileira ou arremessa explosivos (na fileira inteira ou globalmente). O dano de explosão escala com o nível de EXP."
+            "desc": "Invoca uma Bebê Jill para lutar por você (substitui o Mascote atual). A cada 15s, ela realiza um ataque aleatório: invoca Zumbis Palhaço Caixa Surpresa hipnotizados de alto nível por fileira ou arremessa explosivos (na fileira inteira ou globalmente). O dano de explosão escala com o nível de EXP."
         },
         "4004": {
             "name": "Mini Pozeidon",
@@ -394,7 +394,7 @@
         },
         "4007": {
             "name": "Mecha Planador Celeste",
-            "desc": "Invoca um Mecha Planador Celeste para lutar por você (substitui o Mascote atual). Aumenta o dano de explosões de Caixa-Surpresa do lado das plantas e dispara um explosivo contra zumbis a cada 1,5s (a cada 3º ataque dispara em todas as fileiras). Se o mini-chefe Mecha Passos Celestes estiver presente, o intervalo de ataque do mascote é reduzido pela metade."
+            "desc": "Invoca um Mecha Planador Celeste para lutar por você (substitui o Mascote atual). Aumenta o dano de explosões de Caixa Surpresa do lado das plantas e dispara um explosivo contra zumbis a cada 1,5s (a cada 3º ataque dispara em todas as fileiras). Se o mini-chefe Mecha Passos Celestes estiver presente, o intervalo de ataque do mascote é reduzido pela metade."
         },
         "5000": {
             "name": "Matador de Golias",
@@ -486,7 +486,7 @@
         },
         "10007": {
             "name": "O Escolhido do Inverno",
-            "desc": "Ganha um Super Coronevervilha com +1500% de dano e vida, +1000% de velocidade, e ganha uma Bruxervilha extra"
+            "desc": "Ganha um Super Coronevervilha com +1500% de dano e vida, +1000% de velocidade, e ganha um Feijão Feitigelida extra"
         },
         "10008": {
             "name": "Elevador Térmico",
@@ -684,11 +684,11 @@
         },
         "16": {
             "name": "Casca Eterna",
-            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Limite Máximo de Vida ×3"
+            "desc": "Noz-Obsidiana e Mina de Obsidiana: Limite Máximo de Vida ×3"
         },
         "17": {
             "name": "Escudo Guardião",
-            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Agora absorve o dano direcionado às plantas imediatamente à sua esquerda e direita"
+            "desc": "Noz-Obsidiana e Mina de Obsidiana: Agora absorve o dano direcionado às plantas imediatamente à sua esquerda e direita"
         },
         "18": {
             "name": "Benevolência do Salvador",
@@ -748,11 +748,11 @@
         },
         "32": {
             "name": "Gume Duradouro",
-            "desc": "Abeto Ceifa-vidas: Serras boreais agora duram 15s | Bambu Ceifador de Almas: Agora recebe apenas 1/3 do dano recebido"
+            "desc": "Pinheiro Ceifa-vidas: Serras boreais agora duram 15s | Bambu Ceifador de Almas: Agora recebe apenas 1/3 do dano recebido"
         },
         "33": {
             "name": "Vitalidade Perene",
-            "desc": "Abeto Ceifa-vidas: A cura não é mais dividida entre as plantas | Bambu Ceifador de Almas: Recuperação de Vida e Escudo ×2"
+            "desc": "Pinheiro Ceifa-vidas: A cura não é mais dividida entre as plantas | Bambu Ceifador de Almas: Recuperação de Vida e Escudo ×2"
         },
         "34": {
             "name": "Alcance Voraz",
@@ -1070,19 +1070,19 @@
         },
         "2002": {
             "name": "Crise",
-            "desc": "O Disco D.A.M.P. aparecerá"
+            "desc": "O N.A.R.D aparecerá"
         },
         "2003": {
             "name": "Crise",
-            "desc": "O Atirador de Elite Alfa aparecerá"
+            "desc": "O Zumbi Franco-Atirador Alfa aparecerá"
         },
         "2004": {
             "name": "Crise",
-            "desc": "O Coronel Cavaleiro Azeitona-Negra com Metralhadora aparecerá"
+            "desc": "O Zumbi Cavaleiro Negro Abissal Blindado aparecerá"
         },
         "2005": {
             "name": "Crise",
-            "desc": "O Zumbi Acrobata Noz-Rúgbi Gigante aparecerá"
+            "desc": "O Zumbi Nóz-Rúgbi Blindado e Reforçado aparecerá"
         },
         "3000": {
             "name": "Nêmesis",
@@ -1134,7 +1134,7 @@
         },
         "3016": {
             "name": "Nêmesis",
-            "desc": "A Rainha Caixa-Surpresa Suprema aparecerá como um Mini-chefe"
+            "desc": "A Rainha Caixa Surpresa Suprema aparecerá como um Mini-chefe"
         },
         "3018": {
             "name": "Nêmesis",
@@ -1150,35 +1150,35 @@
         },
         "3022": {
             "name": "Nêmesis",
-            "desc": "O Dragão Milenar e Guardião aparecerá como um Mini-chefe"
+            "desc": "O O Dragão Milenar e o Defensor aparecerá como um Mini-chefe"
         },
         "3024": {
             "name": "Nêmesis",
-            "desc": "O Cavaleiro da Cerasocetus Supremo aparecerá como um Mini-chefe"
+            "desc": "O Megazubarão Biônico Domado aparecerá como um Mini-chefe"
         },
         "3026": {
             "name": "Nêmesis",
-            "desc": "O Rei Lírio Necrótico aparecerá como um Mini-chefe"
+            "desc": "O Rei Necrotera aparecerá como um Mini-chefe"
         },
         "4000": {
             "name": "Presença Majestosa",
-            "desc": "O Gigante de Obsidiana Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Gigante de Obsidiana Supremo concede +400 pontos de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4001": {
             "name": "Presença Majestosa",
-            "desc": "A Arca do Pato do Imperor concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "A Arca do Pato do Imperor concede +400 pontos de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4002": {
             "name": "Presença Majestosa",
-            "desc": "O General Azeitona-Negra Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O General Azeitona-Negra Supremo concede +400 pontos de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4003": {
             "name": "Presença Majestosa",
-            "desc": "O Palco Itinerante Dançarino Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Palco Itinerante Dançarino Supremo concede +400 pontos de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4004": {
             "name": "Presença Majestosa",
-            "desc": "O Grande Marechal Azeitona Preta Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Grande Marechal Azeitona Preta Supremo concede +400 pontos de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "5000": {
             "name": "Anticorpo Adquirido",
@@ -1190,7 +1190,7 @@
         },
         "5002": {
             "name": "Resposta à Dor",
-            "desc": "Zumbis ganham valor de redução de dano igual a 1% do dano recebido ao sofrerem mais de 100 de dano, até +1000 de valor de redução de dano"
+            "desc": "Zumbis ganham pontos de redução de dano igual a 1% do dano recebido ao sofrerem mais de 100 de dano, até +1000 pontos de redução de dano"
         },
         "5003": {
             "name": "Contra-ataque",
@@ -1236,7 +1236,7 @@
         },
         "8": {
             "name": "",
-            "desc": "Desbloqueie Noz-Obsidiana: Noz-Gelada + Noz-Flamejante\ne sua subespécie Obsidimina"
+            "desc": "Desbloqueie Noz-Obsidiana: Noz-Alta Gelada + Noz-Alta Flamejante\ne sua subespécie Obsidimina"
         },
         "9": {
             "name": "",
@@ -1268,7 +1268,7 @@
         },
         "16": {
             "name": "",
-            "desc": "Desbloqueie Abetalâmina Ártica: Pinheiro Invernal + Lotusarqueiro\ne sua subespécie Cone Broto-de-Inverno Supremo"
+            "desc": "Desbloqueie Pinheilâmina Ártica: Pinheiro Invernal + Lotusarqueiro\ne sua subespécie Broto de Laminatus"
         },
         "17": {
             "name": "",
@@ -1284,11 +1284,11 @@
         },
         "20": {
             "name": "",
-            "desc": "Desbloqueie Nebulancia: Gelancipulta + Cosmolância\ne sua subespécie Ruínagumelo Deus do Gelo Supremo"
+            "desc": "Desbloqueie Nebulancia: Gelancipulta + Cosmolância\ne sua subespécie Temporínagumelo Glacial"
         },
         "21": {
             "name": "",
-            "desc": "Desbloqueie Labareda de Leão: Brasa de Gato + Míssil Picante\ne sua subespécie Deucaliãogumelo"
+            "desc": "Desbloqueie Labareda de Leão: Brasa de Gato + Míssil Picante\ne sua subespécie Deucalirinho"
         },
         "22": {
             "name": "",
@@ -1296,7 +1296,7 @@
         },
         "23": {
             "name": "",
-            "desc": "Desbloqueie Pimenta do Ressurgimento: Pimenta Obsidiana + Pimenta Obsidiana\ne sua subespécie Cogu-pimentinha de Obsidiana Supremo"
+            "desc": "Desbloqueie Pimenta do Ressurgimento: Pimenta Obsidiana + Pimenta Obsidiana\ne sua subespécie Pimentinha Dura-De-Roer"
         },
         "24": {
             "name": "",
@@ -1304,11 +1304,11 @@
         },
         "25": {
             "name": "",
-            "desc": "Desbloqueie Metralhervilha Azeitona Preta Suprema: Rúgbi-Tralhadora + Metalervilha\ne sua subespécie Disparervilha Atiradora de Elite Hiperespacial Suprema"
+            "desc": "Desbloqueie Coronel Chumbervilha: Rúgbi-Tralhadora + Baldervilha\ne sua subespécie Disparervilha Atiradora de Elite Hiperespacial Suprema"
         },
         "26": {
             "name": "",
-            "desc": "Desbloqueie Noz-Colosso de Obsidiana: Pimenta Obsidiana > Noz-Muralha"
+            "desc": "Desbloqueie Noz-Muralha Obsidiana: Pimenta Obsidiana > Noz-Muralha"
         }
     },
     "investmentBuffs": {

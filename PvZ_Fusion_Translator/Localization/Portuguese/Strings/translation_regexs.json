@@ -18,7 +18,7 @@
   "^星辉无尽：危机泳池-第(\\d+)轮": "Infinito Estelar: Piscina | Rodada {0}",
   "^冒险模式(：)?(?:第)?(\\d+)(?:关)?": "Modo Aventura: Clássico | Nível {1}",
   "-------UI - Challenge Mode": "UI - Challenge Mode-------",
-  "^([^\\s：]+)(：?挑战1?)$": "Desafio de Fusão: {0}",
+  "^([^\\s：]+)(：?挑战1?)$": "Desafio da Fusão:\n{0}",
   "^超级随机：(无尽|模仿)": "Gacha da Odisseia\n{0}",
   "^十旗挑战：([^\\s]+)": "Dez Bandeiras: {0}",
   "^十旗挑战\\s([^\\s]+)": "Dez Bandeiras:\n{0}",

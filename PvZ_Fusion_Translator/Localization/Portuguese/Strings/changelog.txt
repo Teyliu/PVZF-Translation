@@ -34,18 +34,18 @@ Por favor, visite nossa comunidade para futuras atualizações e suporte.
   - Esmagador Estelar (Esmagador + Carambola)
   - Vaso Triplo (Triplervilha > Vaso)
 - Fusões Avançadas:
-  - Bruxervilha (Bruxervilha + Gelervilha)
+  - Bruxaervilha (Bruxaervilha + Gelervilha)
 - Fusões da Odisseia:
   - Comuns:
-    - Turbinada Quetzalcoatl (Turbinada + Ventania-Dupla)
-    - Bruxervilha SP (Bruxervilha aprimorada, consulte o Almanaque)
-    - Baú Abóbora do Fim (Baú de Abóbora + Noz-Plasmática)
+    - Turbinada Quetzalcoatl (Turbinada + Ventilada)
+    - Bruxaervilha Matriarca (Bruxaervilha aprimorada, consulte o Almanaque)
+    - Baú Abóbora do Fim (Baú de Abóbora + Cronoz)
   - SP:
-    - Fênixervilha SP (Pimenta > Fênixervilha)
+    - Hiperfênixervilha (Pimenta > Fênixervilha)
     - Aerofênix SP (Pimenta > Aerofênix)
   - Épicas:
-    - Deucaliãogumelo (Labareda de Leão + Cogumarinho)
-    - Noz-Colosso de Obsidiana (Pimenta Obsidiana > Noz-Muralha)
+    - Deucalirinho (Labareda de Leão + Cogumarinho)
+    - Noz-Muralha Obsidiana (Pimenta Obsidiana > Noz-Muralha)
   - Únicas:
     - Batatamina-Comando (Coronelervilha + Batatamina)
     - Sniper-Estrelar (Snipervilha + Carambola)
@@ -56,22 +56,22 @@ Por favor, visite nossa comunidade para futuras atualizações e suporte.
 
 4. Novos Zumbis
 - Comuns:
-  - Zumbi Noz-Boliche
-  - Zumbi Noz-Boliche Gigante
-  - Zumbi Yeti Noz-Alta de Rocha-Matriz
+  - Noz-Zumboliche
+  - Mega Noz-Zumboliche
+  - Yeti de Rocha-Matriz
 - Odisseia:
   - Regulares:
-    - Zumbi Acrobata de Futebol Americano Gigante
-    - Zumbi Acrobata Noz-Rúgbi Gigante
-    - Zumbinho com Infusão Elemental
+    - Zumbi All-Stars Blindado e Reforçado
+    - Zumbi Nóz-Rúgbi Blindado e Reforçado
+    - Zumbinho Imbuído de Elementos
   - Mini-chefes:
-    - Rei Lírio Necrótico
+    - Rei Necrotera
   - Evoluídos:
-    - Mamute das Sombras
-    - Mamute do Terror
-    - Mamute Carmesim
+    - Elefante Zumbi  Sombrio
+    - Elefante Zumbi  do Terror
+    - Elefante Zumbi  Carmesim
   - Chefe:
-    - Chefe Atacante (Em desenvolvimento)
+    - Chefão Alfa Chad Gigatônico (Em desenvolvimento)
 
 5. Ajustes de Equilíbrio
 - Reformulação do Modificador do Colapsogumelo: Absorção de Explosão > Barreira Volátil, agora imune a todo dano com um contraponto
