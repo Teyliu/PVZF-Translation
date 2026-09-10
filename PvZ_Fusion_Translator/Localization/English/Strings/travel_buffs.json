@@ -1325,7 +1325,7 @@
             "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to [1%×(plant HP + plant Toughness)/2]"
         },
         "10000": {
-            "name": "Jinxed"
+            "name": "Jinxed",
             "desc": "Lose 75 points of Luck"
         },
         "10001": {
