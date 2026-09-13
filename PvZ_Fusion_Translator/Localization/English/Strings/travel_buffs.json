@@ -658,11 +658,11 @@
         },
         "13001": {
             "name": "Enchanted Shield",
-            "desc": "持有护盾的植物每秒回复0.1%护盾量的生命值"
+            "desc": "Plants with Shield recover HP equal to 0.1% of their Shield every second"
         },
         "13100": {
             "name": "No Pains No Gains",
-            "desc": "杀死你的全部植物，并将全场植物的独立伤害增幅和速度增幅减半\n在20波后重复这一操作，但改为增幅翻倍"
+            "desc": "Kill all of your plants, and halve the independent damage and speed buffs for all your plants;\nThe same will happen after 20 waves, but this time the buffs are doubled"
         },
         "13101": {
             "name": "All or Nothing",
