@@ -489,6 +489,6 @@
   "持有护盾的植物每秒回复0.1%护盾量的生命值，并立即获得(\\d+)护盾": "Plants with Shield recover HP equal to 0.1% of their Shield every second, and gain {0} Shield immediately",
   "全体植物获得抵御碾压的能力，复活后依然生效，并立即获得(\\d+)护盾": "All plants gain a permanent anti-crush ability (persists after respawns) and {0} Shield immediately",
   "获得了([\\s\\S]+)%力量增幅": "{0}% damage buff gained!",
-  "出保底了，当前保底阈值：(\\d+)": "Pity system activated! Current pity system threshold: {0}"
-  "炼狱难度需要选择：(\\d+)/5个负面词条": "{0}/5 Zombie modifiers selected",
+  "出保底了，当前保底阈值：(\\d+)": "Pity system activated! Current pity system threshold: {0}",
+  "炼狱难度需要选择：(\\d+)/5个负面词条": "{0}/5 Zombie modifiers selected"
 }
