@@ -3444,7 +3444,7 @@
   "-------Strings - TGE 3.9 Zombie Modifiers": "Strings - TGE 3.9 Zombie Modifiers-------",
   "自选词条": "Custom Modifiers",
   "共5轮，每轮从5个词条中自选一个僵尸词条": "Pick 5 random Zombie modifiers of your choice.",
-  "以50的幸运开局，并使幸运上限增加至300，然后随机选择5个僵尸词条\n随机的5个词条只有在成功通关任意难度诸神进化后才会刷新": "Start with 50 Luck and increase the Luck cap to 300, but take 5 random Zombie modifiers.\nThe chosen modifiers will change every time The Gods: Evolved is beaten."
+  "以50的幸运开局，并使幸运上限增加至300，然后随机选择5个僵尸词条\n随机的5个词条只有在成功通关任意难度诸神进化后才会刷新": "Start with 50 Luck and increase the Luck cap to 300, but take 5 random Zombie modifiers.\nThe chosen modifiers will change every time The Gods: Evolved is beaten.",
   "榜样激励": "Curse of Envy",
   "伤害统计面板排名第一的植物造成85%的原伤害，其他植物造成105%原伤害\n\n难度积分：150": "The plant type with the highest amount of cumulative damage deals only 85% damage, other plants deal 105% damage\n\nDifficulty points：150",
   "随从号令": "Horn of Power",
@@ -3454,17 +3454,17 @@
   "特立独行": "Zombie Sacrifice",
   "僵尸出现时，有概率立即消失，并使随机的一个其他僵尸获得自身80%生命值（对领袖和boss无效），概率随关卡波次提高\n\n难度积分：1000": "Non-mini-boss zombies have a chance to disappear immediately upon spawning and grant another zombie 80% of their HP; this chance increases as wave progresses\n\nDifficulty points：1000",
   "-------Strings - TGE 3.9 Plant Modifiers": "Strings - TGE 3.9 Plant Modifiers-------",
-  "Ascend: 人人有份": "Ascend: Golden Barrage",
-  "质变-人人有份：金瓜大招额外给全场僵尸发射西瓜，且大招分裂数x2": "Golden Melon's Ultimate additionally launches Golden melons at all zombies, and the Ultimate's split count ×2"
-  "狙击射手升级到火焰狙击射手\n\nRole: Damage": "Snipea: Upgrade to Blazer Snipea\n\nRole: Damage"
-  "Upgrade: 密集火焰": "Upgrade: Firewall",
-  "火焰狙击射手的火墙密度+3\n需要重新手动建立火墙": "Blazer Snipea: Gains +3 Firewall links.\nThe Firewall will have to be manually rebuilt after picking this modifier."
-  "Ascend: 烈焰迸发": "Ascend: Wildfire",
-  "火焰狙击射手的火墙顶点数加2": "Blazer Snipea: Firewall can now be chained together an additional 2 times."
-  "僵尸方的小丑爆炸伤害降低至1000，并立即获得3000护盾": "Jack-in-the-box explosions now deal 1000 damage, and every plant gains 3000 shield."
-  "从多个选项中自选一株专家植物": "Pick from a random assortment of Reinforcement plants"
-  "Ascend: 固甲摧锋": "Ascend: Hardened Saw", 
-  "质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%": "Lifereaver Spruce's projectiles gain an additional 0.6% of its current Shield as Attack Damage, capped at 300% of its base Attack"
+  "人人有份": "Golden Barrage",
+  "质变-人人有份：金瓜大招额外给全场僵尸发射西瓜，且大招分裂数x2": "Golden Melon's Ultimate additionally launches Golden melons at all zombies, and the Ultimate's split count ×2",
+  "狙击射手升级到火焰狙击射手\n\nRole: Damage": "Snipea: Upgrade to Blazer Snipea\n\nRole: Damage",
+  "密集火焰": "Firewall",
+  "火焰狙击射手的火墙密度+3\n需要重新手动建立火墙": "Blazer Snipea: Gains +3 Firewall links.\nThe Firewall will have to be manually rebuilt after picking this modifier.",
+  "烈焰迸发": "Wildfire",
+  "火焰狙击射手的火墙顶点数加2": "Blazer Snipea: Firewall can now be chained together an additional 2 times.",
+  "僵尸方的小丑爆炸伤害降低至1000，并立即获得3000护盾": "Jack-in-the-box explosions now deal 1000 damage, and every plant gains 3000 shield.",
+  "从多个选项中自选一株专家植物": "Pick from a random assortment of Reinforcement plants",
+  "固甲摧锋": "Hardened Saw", 
+  "质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%": "Lifereaver Spruce's projectiles gain an additional 0.6% of its current Shield as Attack Damage, capped at 300% of its base Attack",
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "Tiles saved!",
   "加载格子完毕！": "Tiles loaded!",
