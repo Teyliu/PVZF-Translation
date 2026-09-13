@@ -2,7 +2,7 @@
     "advancedBuffs": {
         "0": {
             "name": "Chamado às Armas",
-            "desc": "Subespécie da Encantrizgumelo Desbloqueada | Imperatrizgumelo e Encantrizgumelo: Intervalo de Invocação → 10s"
+            "desc": "Subespécie Encantrizgumelo Desbloqueada | Imperatrizgumelo e Encantrizgumelo: Intervalo de Invocação → 10s"
         },
         "1": {
             "name": "Tropa de Elite",
@@ -10,43 +10,43 @@
         },
         "2": {
             "name": "Sobrecarga",
-            "desc": "Subespécie do Bélicogumelo Desbloqueada | Ruínatralhadora: Sem mais descanso após disparar um Projétil Supremo da Ruína | Efeitos também se aplicam às variantes SP"
+            "desc": "Subespécie Bélicogumelo Desbloqueada | Ruínatralhadora: Sem descanso após disparar uma Ogiva da Ruína Suprema | Efeitos aplicam-se também a variantes Épicas"
         },
         "3": {
             "name": "Exagero Destrutivo",
-            "desc": "Ruínatralhadora: Agora dispara um Projétil Supremo da Ruína a cada rodada em vez de a cada 4 rodadas | Bélicogumelo: Agora dispara um Projétil Supremo da Ruína a cada 4 ataques | Efeitos também se aplicam às variantes SP"
+            "desc": "Ruínatralhadora: Agora dispara uma Ogiva da Ruína Suprema a cada rodada em vez de a cada 4 rodadas | Bélicogumelo: Agora dispara uma Ogiva da Ruína Suprema a cada 4 ataques | Efeitos aplicam-se também a variantes Épicas"
         },
         "4": {
             "name": "Fotossíntese",
-            "desc": "Rei Noz-Solar: Custo do Clique 500 → 200 de Sol | Tiranoz Infernal: Quantidade de cura ×2 | Efeitos também se aplicam às variantes SP"
+            "desc": "Rei Noz-Solar: Custo do Clique 500 → 200 de Sol | Tiranoz Infernal: Quantidade de cura ×2 | Efeitos aplicam-se também a variantes Épicas"
         },
         "5": {
             "name": "Hematopoiese",
-            "desc": "Subespécie da Tiranoz Infernal Desbloqueada | Rei Noz-Solar: A tenacidade é reduzida em 10 para cada golpe em vez de 50 | Tiranoz Infernal: Custo do clique 500 → 200 de Vida | Efeitos também se aplicam às variantes SP"
+            "desc": "Subespécie Tiranoz Infernal Desbloqueada | Rei Noz-Solar: A Resistência é reduzida em 10 para cada golpe em vez de 50 | Tiranoz Infernal: Custo do clique 500 → 200 de Vida | Efeitos aplicam-se também a variantes Épicas"
         },
         "6": {
             "name": "Caminho da Dor",
-            "desc": "Subespécie da Noz-Abissal Desbloqueada | Obsidiana-Espinho e Noz-Espinho: Dano multiplicado por 5"
+            "desc": "Subespécie Noz-Abissal Desbloqueada | Obsidiana-Espinho e Noz-Abissal: Dano multiplicado por 5"
         },
         "7": {
             "name": "Pele de Aço",
-            "desc": "Obsidiana-Espinho e Noz-Espinho: Ganham 95% de Redução de Dano"
+            "desc": "Obsidiana-Espinho e Noz-Abissal: Ganham 95% de Redução de Dano"
         },
         "8": {
             "name": "Chama Perfurante",
-            "desc": "Subespécie do Aerofênix Desbloqueada | Fênixervilha e Aerofênix: Disparos agora perfuram infinitamente e causam explosões de Chamas ao impactar | Efeitos também se aplicam às variantes SP"
+            "desc": "Subespécie Aerofênix Desbloqueada | Fênixervilha e Aerofênix: Disparos agora perfuram infinitamente e causam explosões de Pyro ao impacto | Efeitos aplicam-se também a variantes Épicas"
         },
         "9": {
             "name": "Ponto de Fusão",
-            "desc": "Fênixervilha e Aerofênix: Bônus global de dano de chamas 50% → 150%, e projéteis incendiados normais agora podem aplicar o debuff | Efeitos também se aplicam às variantes SP"
+            "desc": "Fênixervilha e Aerofênix: Bônus global de dano de Pyro 50% → 150%, e projéteis incendiados comuns agora podem aplicar a penalidade | Efeitos aplicam-se também a variantes Épicas"
         },
         "10": {
             "name": "Disparo Estilhaçante",
-            "desc": "Nevascagumelo e Centelhogumelo: Estalactites agora perfuram infinitamente e se dividem em duas estalactites diagonais ao impactar nas primeiras cinco vezes | Efeitos também se aplicam às variantes SP"
+            "desc": "Nevascagumelo e Centelhogumelo: Estalactites agora perfuram infinitamente e se dividem em duas estalactites diagonais ao impactar nas primeiras cinco vezes | Efeitos aplicam-se também a variantes Épicas"
         },
         "11": {
             "name": "Quebra-Gelo",
-            "desc": "Subespécie do Centelhogumelo Desbloqueada | Nevascagumelo: Dano a zumbis Congelados/imunes a Frio 4× → 12× | Efeitos também se aplicam às variantes SP"
+            "desc": "Subespécie Centelhogumelo Desbloqueada | Nevascagumelo: Dano a zumbis Congelados/imunes a Resfriamento 4× → 12× | Efeitos aplicam-se também a variantes Épicas"
         },
         "12": {
             "name": "Mão de Vaca",
@@ -58,7 +58,7 @@
         },
         "14": {
             "name": "Escudo Inteligente",
-            "desc": "Subespécie do Guarda-Chuva Rubi Desbloqueada | Guarda-Chuva Esmeralda e Guarda-Chuva Rubi: Ativam o Supremo automaticamente se houver zumbis por perto"
+            "desc": "Subespécie Guarda-Chuva Rubi Desbloqueada | Guarda-Chuva Esmeralda e Guarda-Chuva Rubi: Ativam o Supremo automaticamente se houver zumbis por perto"
         },
         "15": {
             "name": "Home Run",
@@ -70,27 +70,27 @@
         },
         "17": {
             "name": "Bordado de Agulha",
-            "desc": "Subespécie da Cebolétrica Charmosa Desbloqueada | Charme de Gato: Dano do Ataque Normal ×5 | Cebolétrica Charmosa: Dano de Ataque ×3"
+            "desc": "Subespécie Cebolétrica Charmosa Desbloqueada | Charme de Gato: Dano do Ataque Normal ×5 | Cebolétrica Charmosa: Dano de Ataque ×3"
         },
         "18": {
             "name": "Fusão Controlada",
-            "desc": "Subespécie do Avarezagumelo Desbloqueada | Catastrogumelo: Todas as explosões de Ruínagumelo agora não deixam crateras"
+            "desc": "Subespécie Avarezagumelo Desbloqueada | Catastrogumelo: Todas as explosões de Ruínagumelo agora não deixam crateras"
         },
         "19": {
             "name": "Máquina de Guerra",
-            "desc": "Catastrogumelo: Agora gera 3 Gargantuas Blindados e Zombonis Hipnotizados extras ao explodir"
+            "desc": "Catastrogumelo: Agora gera 3 Devoradores Blindados e Zumbonis Hipnotizados extras ao explodir"
         },
         "20": {
             "name": "Motor Numismático",
-            "desc": "Tronco Magnata e Triplanterna Magnata: 1% de aumento de dano para projéteis/lasers de Moedas para cada 1000 Moedas que você tiver"
+            "desc": "Tronco Magnata e Triplanterna Magnata: +1% de aumento de dano para projéteis/lasers de Moedas para cada 1000 Moedas que você tiver"
         },
         "21": {
             "name": "Chuva Dourada",
-            "desc": "Subespécie da Triplanterna Magnata Desbloqueada | Tronco Magnata: Projéteis de moedas agora causam dano em área"
+            "desc": "Subespécie Triplanterna Magnata Desbloqueada | Tronco Magnata: Projéteis de moedas agora causam dano em área"
         },
         "22": {
             "name": "Dínamo de Cristal",
-            "desc": "Subespécie do Guarda-Chuva Boreal Desbloqueada | Guarda-Chuva Celestial: Limite de Energia ×10, Velocidade de Recuperação ×20, Velocidade de Cura ×2 | Guarda-Chuva Boreal: Dano no Modo Dispersão aumenta linearmente em até ×4, Dano no Modo Foco ×4"
+            "desc": "Subespécie Guarda-Chuva Boreal Desbloqueada | Guarda-Chuva Celestial: Limite de Energia ×10, Velocidade de Recuperação ×20, Velocidade de Cura ×2 | Guarda-Chuva Boreal: Dano no Modo Dispersão aumenta linearmente até ×4, Dano no Modo Foco ×4"
         },
         "23": {
             "name": "Foco de Energia",
@@ -98,39 +98,39 @@
         },
         "24": {
             "name": "Olho Certeiro",
-            "desc": "Esquadrão Ferrogumelo: O Sniper sempre acerta tiros na cabeça com 1/3 de chance de ativar disparo rápido, mas o tempo de recarga de ataque aumenta para 7,5s | Esquadrão Dronegumelo: Dano de ataque ×3"
+            "desc": "Esquadrão Ferrogumelo: Frequência esperada de tiros na cabeça do Sniper aumentada para uma vez a cada 5s | Esquadrão Dronegumelo: Dano de ataque ×3"
         },
         "25": {
             "name": "Choque de Artilharia",
-            "desc": "Subespécie do Esquadrão Dronegumelo Desbloqueada | Esquadrão Ferrogumelo: Repulsão do canhão antiaéreo ×2, dano em área ×3 | Esquadrão Dronegumelo: Dano de ataque ×3"
+            "desc": "Subespécie Esquadrão Dronegumelo Desbloqueada | Esquadrão Ferrogumelo: Repulsão do canhão antiaéreo ×2, dano de ataque ×3 | Esquadrão Dronegumelo: Dano de ataque ×3"
         },
         "26": {
             "name": "Propulsão de Fluxo",
-            "desc": "Subespécie da Eclipsegumelo Desbloqueada | Magnetogumelo: Alcance de Ataque ×2 | Eclipsegumelo: Tempo de recarga de produção de metal reduzido pela metade"
+            "desc": "Subespécie Eclipsegumelo Desbloqueada | Magnetogumelo: Alcance de Ataque ×2 | Eclipsegumelo: Tempo de recarga de produção de metal reduzido pela metade"
         },
         "27": {
             "name": "Magnetomania",
-            "desc": "Magnetogumelo: Absorve 3 Objetos de Metal de uma vez, dano a Zumbis Noz-Tridente Giga ou Zumbis Jogador de Futebol Americano Gigantes ×3 | Eclipsegumelo: Quantidade de cura ×3, limite extra de produção de Objetos de Metal (3 + (n/m)/4) → (3 + (n/m)/3)"
+            "desc": "Magnetogumelo: Absorve 3 Objetos de Metal de uma vez, dano a Zumbis Noz-Pélago do Tridente ou Zumbis Noz-Rúgbi Blindados ×3 | Eclipsegumelo: Quantidade de cura ×3, limite extra de produção de Objetos de Metal (3 + (n/m)/4) → (3 + (n/m)/3)"
         },
         "28": {
             "name": "Perdição Certa",
-            "desc": "Subespécie da Batatamina Ceifador Desbloqueada | Ceifadora e Batatamina Ceifador: A queda do pacote de sementes agora é garantida"
+            "desc": "Subespécie Batatamina Ceifadora Desbloqueada | Ceifadora e Batatamina Ceifadora: A queda do pacote de sementes agora é garantida"
         },
         "29": {
             "name": "Elo Sobrenatural",
-            "desc": "Ceifadora e Batatamina Ceifador: Transferência de dano da Alma de Zumbi ×2"
+            "desc": "Ceifadora e Batatamina Ceifadora: Transferência de dano da Alma do Zumbi ×2"
         },
         "30": {
             "name": "Radiação Persistente",
-            "desc": "Cerejas Atômicas e Atomizador: Duração inicial da Sopa de Partículas aumentada de 7s para 10s"
+            "desc": "Cerejas Atômicas e Atomizador: Duração inicial da Sopa Primordial aumentada de 7s para 10s"
         },
         "31": {
             "name": "Reação em Cadeia",
-            "desc": "Subespécie do Atomizador Desbloqueada | Cerejas Atômicas e Atomizador: Projéteis explosivos e de ruína têm uma pequena chance de se transformarem em Detritos Cósmicos com 12× de dano ao atingirem zumbis"
+            "desc": "Subespécie Atomizador Desbloqueada | Cerejas Atômicas e Atomizador: Projéteis explosivos e de ruína possuem uma pequena chance de se transformarem em Detritos Cósmicos com 12× de dano ao atingirem zumbis"
         },
         "32": {
             "name": "Manteiga Mais Pegajosa",
-            "desc": "Subespécie do Vaso Amanteigado Desbloqueada | Ervescorrega e Vaso Amanteigado: Duração do atordoamento de manteiga da Ervescorrega e do Vaso Amanteigado ×3"
+            "desc": "Subespécie Vaso Amanteigado Desbloqueada | Ervescorrega e Vaso Amanteigado: Duração do atordoamento de manteiga da Ervescorrega e do Vaso Amanteigado ×3"
         },
         "33": {
             "name": "Show de Deslize",
@@ -138,7 +138,7 @@
         },
         "34": {
             "name": "Ressonância Magnética",
-            "desc": "Eletróbora: Ao entrar, concede a todas as Plantas Magnéticas conectadas um Escudo igual a 30 × número de Plantas Magnéticas | Estrela Quasar: Ao entrar, redefine e concede a elas um bônus de Ataque de 0,5% × número de Plantas Magnéticas"
+            "desc": "Eletróbora: Ao entrar, concede a todas as Plantas Magnéticas conectadas um Escudo igual a 30 × número de Plantas Magnéticas | Estrela Quasar: Ao entrar, redefine e concede a elas um bônus de Ataque de 0.5% × número de Plantas Magnéticas em vez disso"
         },
         "35": {
             "name": "Polaridade Dupla",
@@ -146,15 +146,15 @@
         },
         "36": {
             "name": "Sopro Explosivo",
-            "desc": "Dragão de Bambu Flamejante: Frequência de Explosão ×2"
+            "desc": "Dragão de Bambu: Frequência de Explosão ×2"
         },
         "37": {
             "name": "Momento Térmico",
-            "desc": "Dragão de Bambu Flamejante: Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu Flamejante aumenta o dano do próximo acerto desse mesmo ataque em 1%, acumulando até 400%"
+            "desc": "Dragão de Bambu: Cada zumbi atingido pelo sopro de fogo do Dragão de Bambu aumenta o dano do próximo acerto desse mesmo ataque em 1%, acumulando até 400%"
         },
         "38": {
             "name": "Frente Fria",
-            "desc": "Subespécie do Glacialgumelo Letal Desbloqueada | Glacialgumelo da Tundra: +100 de Energia Inicial | Glacialgumelo Letal: Dano ×2"
+            "desc": "Subespécie Glacialgumelo Letal Desbloqueada | Glacialgumelo da Tundra: +100 de Energia Inicial | Glacialgumelo Letal: Dano ×2"
         },
         "39": {
             "name": "Horizonte Congelado",
@@ -162,7 +162,7 @@
         },
         "40": {
             "name": "Destreza Arcana",
-            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0,5 quadrado"
+            "desc": "Shironeko Encantadora: Tempo de Recarga da Habilidade reduzido pela metade, raio da habilidade +0.5 quadrados"
         },
         "41": {
             "name": "Mordida de Amor",
@@ -170,7 +170,7 @@
         },
         "42": {
             "name": "Vendaval Intempestivo",
-            "desc": "Turbinada Quetzalcoatl: Bônus de dano do efeito Tontura 20% → 40%, e ataques reduzem o valor de Redução de Dano em 10"
+            "desc": "Turbinada Quetzalcoatl: Bônus de dano do efeito Tontura 20% → 40%, e ataques reduzem os pontos de Redução de Dano em 10"
         },
         "43": {
             "name": "Ventos Velozes",
@@ -178,19 +178,19 @@
         },
         "44": {
             "name": "Truque de Mágica",
-            "desc": "Bruxervilha SP: Toda vez que o projétil da Bruxervilha ricocheteia, seu dano aumenta em 10%. No Nível 2, quantidade de ricochetes ×3"
+            "desc": "Bruxaervilha Matriarca: Toda vez que o projétil da Bruxaervilha ricocheteia, seu dano aumenta em 10%. No Nível 2, quantidade de ricochetes ×3"
         },
         "45": {
             "name": "Enfeitiçado",
-            "desc": "Bruxervilha SP: Os projéteis da Bruxervilha agora priorizam como alvo chefões com maior quantidade de vida ao ricochetearem. No Nível 2, zumbis atingidos por projéteis ricocheteantes recebem +10% de dano extra"
+            "desc": "Bruxaervilha Matriarca: Os projéteis da Bruxaervilha agora priorizam como alvo chefes com maior quantidade de vida ao ricochetearem. No Nível 2, zumbis atingidos por projéteis ricocheteantes recebem +10% de dano extra"
         },
         "46": {
             "name": "Coletor de Sucata",
-            "desc": "Baú Abóbora do Fim: Pode armazenar objetos metálicos soltos e os usa para curar Nozes-Mechatron; priorizando aquela com menor vida primeiro"
+            "desc": "Baú Abóbora do Fim: Pode armazenar objetos metálicos caídos e os usa para curar Nozes-Mechatron; priorizando aquela com menor vida primeiro"
         },
         "47": {
             "name": "Grande Baú do Fim",
-            "desc": "Baú Abóbora do Fim: O limite de acúmulo para cada compartimento individual agora é dobrado para todos os Baús de Abóbora"
+            "desc": "Baú Abóbora do Fim: O limite de acúmulo para cada compartimento individual agora é dobrado para todos os Baús de Abóbora."
         },
         "1000": {
             "name": "Mãos Rápidas",
@@ -234,19 +234,19 @@
         },
         "1010": {
             "name": "Engenhosidade",
-            "desc": "Rerrolagens de Modificador +2"
+            "desc": "Tentativas de re-sorteio de Modificador +2"
         },
         "1011": {
             "name": "Criostase",
-            "desc": "O tempo de congelamento de todos os zumbis é aumentado em 25%, e a taxa de lentidão do efeito de frio é aumentada em 10%"
+            "desc": "O tempo de congelamento de todos os zumbis é aumentado em 25%, e a taxa de lentidão do Resfriamento é aumentada em 10%"
         },
         "1012": {
             "name": "Reserva Solar",
-            "desc": "Ganhe 3000 de Sol, e em seguida dobre sua quantidade total de Sol | Limite de Sol 50k → 100k"
+            "desc": "Ganha 3000 de Sol e, em seguida, dobra sua quantidade total de Sol | Limite de Sol 50k → 100k"
         },
         "1013": {
             "name": "Cereja no Topo",
-            "desc": "Verdadeira Cerejas-Bomba: Cerejas explosivas agora causarão pelo menos 1800 de dano e aplicarão dano de Cremação"
+            "desc": "Verdadeira Cerejas-Bomba: Cerejas explosivas agora causarão pelo menos 1800 de dano e causarão dano de Cremação"
         },
         "1014": {
             "name": "Reciclagem",
@@ -258,7 +258,7 @@
         },
         "1016": {
             "name": "Encanto Revitalizante",
-            "desc": "Zumbis hipnotizados ganham 500% de bônus de dano e 80% de redução de dano (AVISO: Também faz com que Zumbis Jornaleiros Disparacereja da Imperatriz/Encantrizgumelo não percam o jornal ao serem invocados!!)"
+            "desc": "Zumbis hipnotizados ganham 500% de bônus de dano e 80% de redução de dano (AVISO: Também faz com que Zumbis do Jornal Metralhacerejas da Imperatrizgumelo/Encantrizgumelo não percam o jornal ao serem invocados!!)"
         },
         "1017": {
             "name": "Cascata Cósmica",
@@ -269,28 +269,24 @@
             "desc": "Adiciona 4 Níveis de Lumos para o campo inteiro"
         },
         "1019": {
-            "name": "Chama da Glória",
-            "desc": "Quando zumbis hipnotizados morrem, eles explodem, causando dano igual a 150% de sua vida máxima aos zumbis próximos"
+            "name": "Segundo Fôlego",
+            "desc": "Após uma planta ser curada, ela regenera 5% de sua vida atual por segundo durante os próximos 3s (não acumulável)"
         },
         "1020": {
-            "name": "Segundo Fôlego",
-            "desc": "Após uma planta ser curada, ela regenera 5% de sua vida atual por segundo durante os próximos 3 segundos (não acumulável)"
-        },
-        "1021": {
             "name": "Impulso de Cura",
             "desc": "Plantas ganham 20% de bônus de cura"
         },
-        "1022": {
-            "name": "Percepção da Bruxaria I",
-            "desc": "Melhora a Bruxervilha para Bruxervilha SP (Nível 1)"
+        "1021": {
+            "name": "Bênção do Congelamento I",
+            "desc": "Aprimora a Bruxaervilha para Bruxaervilha Matriarca (Nível 1)"
         },
-        "1023": {
-            "name": "Percepção da Bruxaria II",
-            "desc": "Melhora a Bruxervilha SP para o Nível 2"
+        "1022": {
+            "name": "Bênção do Congelamento II",
+            "desc": "Aprimora a Bruxaervilha Matriarca para o Nível 2"
         },
         "2000": {
             "name": "Fim dos Tempos",
-            "desc": "Verdadeiro Ruínagumelo: Projéteis de Ruína agora liberarão uma explosão de Ruínagumelo sem cratera ao impactar"
+            "desc": "Verdadeiro Ruínagumelo: Ogivas da Ruína agora liberarão uma explosão de Ruínagumelo sem cratera ao impactar"
         },
         "2001": {
             "name": "Formação em Linha",
@@ -324,9 +320,13 @@
             "name": "Purificação",
             "desc": "Você pode remover 1 Modificador de Zumbi que não seja de mini-chefe no menu de Visualização de Modificadores"
         },
+        "2009": {
+            "name": "Chama da Glória",
+            "desc": "Quando zumbis hipnotizados morrem, eles explodem, causando dano igual a 150% de sua vida máxima aos zumbis próximos"
+        },
         "3000": {
             "name": "Baluarte Eterno",
-            "desc": "Quando Cerejazilla e Noz-Obsidiana (ou suas subespécies) estiverem ambas presentes, Cerejazilla/Alhozilla não possuem mais limite máximo de Tenacidade, e Noz-Obsidiana/Obsidimina ganham 90% de redução de dano"
+            "desc": "Quando Cerejazilla e Noz-Obsidiana (ou suas subespécies) estiverem ambas presentes, Cerejazilla/Alhozilla não possuem mais limite máximo de Resistência, e Noz-Obsidiana/Obsidimina ganham 90% de redução de dano"
         },
         "3001": {
             "name": "Convergência Astral",
@@ -334,11 +334,11 @@
         },
         "3002": {
             "name": "Poder de Fogo Total",
-            "desc": "A Metralhabombas agora espalha seus tiros uniformemente por três fileiras com trajetórias de seno e cosseno, e o Tronco Infernal e suas subespécies ativam um efeito de Pimenta em todo o campo se não puderem plantar uma planta Picante"
+            "desc": "A Metralhabombas agora espalha seus tiros uniformemente por três linhas com trajetórias de seno e cosseno, e o Tronco Infernal e suas subespécies ativam um efeito de Pimenta em todo o campo se não puderem plantar uma planta Picante"
         },
         "3003": {
             "name": "Farol Celestial",
-            "desc": "Quando houver pelo menos 10 Supernovas e 10 Repolhinhas Divinas no campo, a Mini-Lua invocada pela Repolhinha não desaparecerá, enquanto cada Supernova e Repolhinha carregarão um feixe na Mini-Lua, que o redirecionará para alvejar o zumbi com a maior quantidade de vida"
+            "desc": "Quando houver pelo menos 10 Supernovas e 10 Repolhinhas Divinas no campo, a Mini-Lua invocada pela Repolhinha Divina não desaparecerá, enquanto cada Supernova e Repolhinha Divina carregarão um feixe na Mini-Lua, que o redirecionará para alvejar o zumbi com a maior quantidade de vida"
         },
         "3004": {
             "name": "Horizonte de Eventos",
@@ -346,7 +346,7 @@
         },
         "3005": {
             "name": "Ira dos Céus",
-            "desc": "Clique em um Canhão Incinerador recarregado enquanto segura uma Arquitiranoz Infernal (Épica) com a Luva para fazer todos os Canhões Incineradores recarregados no campo realizarem um ataque sinérgico em direção ao céu. A cada 8º Projétil Infernal disparado, invoca um Meteoro Infernal causando 80× de dano, dizimando todos os zumbis na tela"
+            "desc": "Clique em um Canhão Incinerador recarregado enquanto segura uma Arquitiranoz Infernal (Épica) com a Luva para fazer todos os Canhões Incineradores recarregados no campo realizarem um ataque sinérgico em direção ao céu. A cada 8º disparo, invoca um Meteoro Infernal causando 80× de dano, dizimando todos os zumbis na tela"
         },
         "3006": {
             "name": "Inferno de Projéteis",
@@ -354,15 +354,15 @@
         },
         "3007": {
             "name": "Ultranova",
-            "desc": "A Disparervilha Cintilante Suprema pode travar a mira em qualquer Trevanterna à frente (clique para selecionar) para carregá-la. Quando a energia ultrapassa 10k, seu brilho aumenta, causando alto dano e aplicando lentidão a zumbis em seu raio. Aos 100k, colapsa em um buraco negro e explode, devastando todos os zumbis na tela. (AVISO: Contém luzes piscantes)"
+            "desc": "A Bidisparalaser de Fótons pode travar a mira em qualquer Trevanterna à frente (clique para selecionar) para carregá-la. Quando a energia ultrapassa 10k, seu brilho aumenta, causando alto dano e aplicando lentidão a zumbis em seu raio. Aos 100k, colapsa em um buraco negro e explode, devastando todos os zumbis na tela. (AVISO: Contém luzes piscantes)"
         },
         "3008": {
             "name": "Pequeno Milagre",
-            "desc": "Quando Definhazinha e Soprogumelo Gélido Supremo são plantados no mesmo quadrado, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
+            "desc": "Quando Definhazinha e Avalanchegumelo são plantados no mesmo quadrado, os projéteis deste último se dividem uma vez adicional. Os projéteis normais e especiais de ambas as plantas herdam algumas propriedades dos disparos uma da outra. (AVISO: Causará lentidão/queda de desempenho)"
         },
         "3009": {
             "name": "Fúria Elemental",
-            "desc": "Cataclismogumelo agora gera Zumbis Garra de Neve Noz-Alta Gelada, o projétil principal do Vulcânicogumelo se dividirá em uma Melancia de Obsidiana adicional; causando dano em área igual ao poder de ataque original da melancia, que dobra para cada planta de gelo e fogo presente no gramado, e uma sinergia entre os debuffs de Inflamado e Frio é desbloqueada."
+            "desc": "Cataclismogumelo agora gera Zumbis Garra-de-Gelo Noz-Obsidiana, o projétil principal do Vulcânicogumelo se dividirá em uma Melancia de Obsidiana adicional; causando dano em área igual ao poder de ataque original da melancia, que dobra para cada planta de gelo, neve e fogo presente no gramado, e uma sinergia entre as penalidades de Pyro e Resfriamento é desbloqueada."
         },
         "4000": {
             "name": "Chibi Abissal",
@@ -374,27 +374,27 @@
         },
         "4002": {
             "name": "Protótipo Iceborg",
-            "desc": "Invoca um Protótipo Iceborg para lutar por você (substitui o Mascote atual). Ela mira na fileira com maior quantidade de vida e dispara projéteis de gelo. O dano aumenta com base no número de zumbis com frio/congelados, e ganha perfuração infinita e EXP bônus se a Executora Ice-borg Mk. Alfa estiver no campo. O dano dos projéteis escala com o nível de EXP."
+            "desc": "Invoca um Protótipo Iceborg para lutar por você (substitui o Mascote atual). Ela mira na linha com maior quantidade de vida e dispara projéteis de gelo. O dano aumenta com base no número de zumbis resfriados/congelados, e ganha perfuração infinita e EXP bônus se a Mk. Alfa - A Carrasca da Tundra estiver em campo. O dano dos projéteis escala com o nível de EXP."
         },
         "4003": {
             "name": "Bebê Jill",
-            "desc": "Invoca uma Bebê Jill para lutar por você (substitui o Mascote atual). A cada 15s, ela realiza um ataque aleatório: invoca Zumbis Palhaço Caixa-Surpresa hipnotizados de alto nível por fileira ou arremessa explosivos (na fileira inteira ou globalmente). O dano de explosão escala com o nível de EXP."
+            "desc": "Invoca uma Bebê Jill para lutar por você (substitui o Mascote atual). A cada 15s, ela realiza um ataque aleatório: invoca Zumbis Palhaço hipnotizados de alto nível por linha ou arremessa explosivos (na linha inteira ou globalmente). O dano de explosão escala com o nível de EXP."
         },
         "4004": {
             "name": "Mini Pozeidon",
-            "desc": "Invoca um Mini Pozeidon para lutar por você (substitui o Mascote atual). A cada 5s, ele arremessa seu tridente para frente, que perfura e causa dano a zumbis com explosões. Se o mini-chefe Pozeidon estiver presente, arremessa 4 tridentes em cada fileira a cada 10s."
+            "desc": "Invoca um Mini Pozeidon para lutar por você (substitui o Mascote atual). A cada 5s, ele arremessa seu tridente para a frente, que perfura e causa dano a zumbis com explosões. Se o mini-chefe Zumbi Pozeidon estiver presente, arremessa 4 tridentes em cada linha a cada 10s em vez disso."
         },
         "4005": {
             "name": "Jovem Duque",
-            "desc": "Invoca uma Jovem Duque para lutar por você (substitui o Mascote atual). Dispara rapidamente ervilhas de ferro para frente, e a cada 20 segundos invoca uma coluna de mini cavalos de guerra para investirem contra os zumbis e criarem Almas de Zumbi daqueles que atingirem. Se o mini-chefe Grande Marechal Cavaleiro da Morte estiver presente, seu intervalo de invocação é reduzido pela metade. (AVISO: Causará GRANDE queda de desempenho!!)"
+            "desc": "Invoca uma Jovem Duque para lutar por você (substitui o Mascote atual). Dispara rapidamente ervilhas de ferro para a frente, e a cada 20 segundos ela invoca uma coluna de mini cavalos de guerra para investirem contra os zumbis e criarem Almas de Zumbi daqueles que atingirem. Se o mini-chefe Arquiduque Chumbervilha Blindado estiver presente, seu intervalo de invocação é reduzido pela metade. (AVISO: Causará GRANDE queda de desempenho!!)"
         },
         "4006": {
             "name": "Filhote do Imperor",
-            "desc": "Invoca um Filhote do Imperor para lutar por você (substitui o Mascote atual). A cada 10 segundos, transformará um certo número de zumbis (com base no nível de EXP) em Zumbis Cavaleiro-Galinha ou Zumbis com Boia de Pato. Se o mini-chefe Arca do Pato do Imperor estiver presente, o número máximo de transformações é dobrado."
+            "desc": "Invoca um Filhote do Imperor para lutar por você (substitui o Mascote atual). A cada 10 segundos, transformará um certo número de zumbis (com base no nível de EXP) em Zumbinhos de Galinha ou Galinhas Robô Anfíbias. Se o mini-chefe Pato Dourado do Imperador estiver presente, o número máximo de transformações é dobrado."
         },
         "4007": {
             "name": "Mecha Planador Celeste",
-            "desc": "Invoca um Mecha Planador Celeste para lutar por você (substitui o Mascote atual). Aumenta o dano de explosões de Caixa-Surpresa do lado das plantas e dispara um explosivo contra zumbis a cada 1,5s (a cada 3º ataque dispara em todas as fileiras). Se o mini-chefe Mecha Passos Celestes estiver presente, o intervalo de ataque do mascote é reduzido pela metade."
+            "desc": "Invoca um Mecha Planador Celeste para lutar por você (substitui o Mascote atual). Aumenta o dano de explosões de Caixa Surpresa do lado das plantas e dispara um explosivo contra zumbis a cada 1.5s (a cada 3º ataque dispara em todas as linhas). Se o mini-chefe Artilharia Classe-Kirov estiver presente, o intervalo de ataque do mascote é reduzido pela metade."
         },
         "5000": {
             "name": "Matador de Golias",
@@ -402,7 +402,7 @@
         },
         "5001": {
             "name": "Adaptação Adversa",
-            "desc": "Plantas ganham 5% de bônus de dano para cada Modificador de Zumbi que você tiver"
+            "desc": "Plantas ganham 5% de bônus de dano para cada Modificador de Zumbi que você possuir"
         },
         "5002": {
             "name": "Lâmina Divina",
@@ -410,7 +410,7 @@
         },
         "5003": {
             "name": "Maldição da Inveja",
-            "desc": "Plantas causam ×2 de dano, mas recebem ×4 de dano"
+            "desc": "Plantas da Odisseia têm Ataque e vida máxima reduzidos em 90%, mas todas as outras plantas passam a ter 40× de Ataque e vida máxima, e 2× de Velocidade de Ataque"
         },
         "5004": {
             "name": "Maldição da Ganância",
@@ -454,15 +454,31 @@
         },
         "6009": {
             "name": "Bastião de Retaguarda",
-            "desc": "Plantas na quinta coluna recebem 50% a mais de Tenacidade máxima e 50% de redução de dano. Cada coluna para a esquerda reduz o limite de dano em 10% e aumenta a redução de dano em 10%"
+            "desc": "Plantas na quinta coluna recebem 50% a mais de Resistência máxima e 50% de redução de dano. Cada coluna para a esquerda reduz o limite de dano em 10% e aumenta a redução de dano em 10%"
+        },
+        "7000": {
+            "name": "Evolução SP",
+            "desc": "Desbloqueia a Ruínatralhadora Absoluta (Épica) e o Belicogumelo Absoluto (Épica)\nUse Ruínagumelo para aprimorar"
+        },
+        "7001": {
+            "name": "Evolução SP",
+            "desc": "Desbloqueia a Imperanoz Solar (Épica) e a Arquitiranoz Infernal (Épica)\nUse Noz-Obstáculo para aprimorar"
+        },
+        "7002": {
+            "name": "Evolução SP",
+            "desc": "Desbloqueia a Hiperfênixervilha e o Aerohiperfênix\nUse Pimenta para aprimorar"
+        },
+        "7003": {
+            "name": "Evolução SP",
+            "desc": "Desbloqueia o Avalanchegumelo e o Solstíciogumelo\nUse Disparervilha para aprimorar"
         },
         "10000": {
             "name": "Graça Solar",
-            "desc": "Ganhe imediatamente 100k de Sol | Limite de Sol +100k"
+            "desc": "Ganha imediatamente 100k de Sol | Limite de Sol +100k"
         },
         "10001": {
             "name": "Guardião Giga",
-            "desc": "Ganhe imediatamente 2 pacotes de sementes de Noz-Mechatron que começam com 1M de Vida"
+            "desc": "Ganha imediatamente 3 pacotes de sementes de Noz-Mechatron que começam com 640k de Vida"
         },
         "10002": {
             "name": "Promoção Instantânea",
@@ -486,7 +502,7 @@
         },
         "10007": {
             "name": "O Escolhido do Inverno",
-            "desc": "Ganha um Super Coronevervilha com +1500% de dano e vida, +1000% de velocidade, e ganha uma Bruxervilha extra"
+            "desc": "Ganha um Super Coronevervilha com +1500% de dano e vida, +1000% de velocidade, e ganha um Feijão Feitigelida extra"
         },
         "10008": {
             "name": "Elevador Térmico",
@@ -494,7 +510,7 @@
         },
         "10009": {
             "name": "Pacto de Corrupção",
-            "desc": "Ganha um pacote de sementes de Colapsogumelo. Plantá-lo ACEITA o desafio:\nInvoca de 3 a 6 zumbis aleatórios da Odisseia em cada fileira (sim, TODOS os possíveis)\nDerrote todos eles para desbloquear o Modificador \"Toque Corruptor\""
+            "desc": "Ganha um pacote de sementes de Colapsogumelo. Plantá-lo ACEITA o desafio:\nInvoca de 3 a 6 zumbis aleatórios da Odisseia em cada linha (sim, TODOS os possíveis)\nDerrote todos eles para desbloquear o Modificador \"Toque Corruptor\""
         },
         "10010": {
             "name": "Quebra de Limite",
@@ -506,11 +522,11 @@
         },
         "10012": {
             "name": "Último Recurso",
-            "desc": "Quando você tiver 20 ou mais plantas no campo, os zumbis alcançarem a casa não causa mais Fim de Jogo, mas faz com que todas as plantas tenham 1/3 de chance de morrer"
+            "desc": "Quando você tiver 20 ou mais plantas no campo, os zumbis alcançarem a casa não causa mais Fim de Jogo, mas faz com que todas as plantas tenham 1/3 de chance de morrer em vez disso"
         },
         "10013": {
             "name": "Pacto de Promoção",
-            "desc": "Receba um pacote de sementes da Abóbora Ômni. Plantá-la ACEITA o desafio:\nO número de zumbis nas próximas 20 hordas é dobrado\nSobreviva e todas as plantas no espaço da Abóbora Ômni serão promovidas ao Nível 3"
+            "desc": "Receba um pacote de sementes da Eletróbora. Plantá-la ACEITA o desafio:\nO número de zumbis nas próximas 20 ondas é dobrado\nSobreviva e todas as plantas no quadrado da Eletróbora serão promovidas ao Nível 3"
         },
         "10014": {
             "name": "Varredor de Gramado",
@@ -518,7 +534,7 @@
         },
         "10015": {
             "name": "Atraso do Destino",
-            "desc": "Você não terá Fim de Jogo se conseguir eliminar o zumbi que alcançar sua casa dentro de 1,5s"
+            "desc": "Você não terá Fim de Jogo se conseguir eliminar o zumbi que alcançar sua casa dentro de 1.5s"
         },
         "10016": {
             "name": "Exército de Clones",
@@ -534,7 +550,7 @@
         },
         "10019": {
             "name": "Fortuna Reforjada",
-            "desc": "Receba imediatamente 10 Vasos Dourados de Reciclagem. Além disso, receba 1 por horda e 5 por bandeira (grande horda)"
+            "desc": "Receba imediatamente 10 Vasos Surpresa Dourados. Além disso, receba 1 por onda e 5 por bandeira (grande onda)"
         },
         "11000": {
             "name": "Mobilização Rápida",
@@ -542,35 +558,35 @@
         },
         "11001": {
             "name": "Crescimento Instantâneo",
-            "desc": "Mecânica da fase: Cogumelo Deucalião começa com 1000 Estágios de Crescimento"
+            "desc": "Mecânica da fase: Deucalirinho começa com 1000 Estágios de Crescimento"
         },
         "12000": {
             "name": "Ascensão: Inferno",
-            "desc": "Os melões do Cogumelo Napalm criam um mar de fogo extra ao atingir o chão e podem se dividir até mais 2 vezes ao atingir zumbis"
+            "desc": "As melancias do Vulcânicogumelo criam um mar de fogo extra ao atingir o chão e podem se dividir até mais 2 vezes ao atingir zumbis"
         },
         "12001": {
             "name": "Ascensão: Rajada",
-            "desc": "Ao conjurar sua habilidade suprema, a Metralhadora Apeocalipse libera 4 ondas extras de Fogo Congelante causando 50 instâncias de dano cada. Cada instância causa dano igual a 10.000% do poder de ataque da torre a um zumbi aleatório no alcance"
+            "desc": "Ao conjurar seu Ataque Supremo, a Torretobsidiana libera 4 ondas extras de Chama Congelante causando 50 instâncias de dano cada. Cada instância causa dano igual a 10.000% do poder de ataque da torre a um zumbi aleatório no alcance"
         },
         "12002": {
             "name": "Ascensão: Mira Certeira",
-            "desc": "O acerto crítico da Disparervilha Franco-atiradora Furiosa agora é garantido"
+            "desc": "O acerto crítico da Franco-Fuzilervilha agora é garantido"
         },
         "12003": {
             "name": "Ascensão: Detonação",
-            "desc": "Os projéteis da Triplervilha Batata-mina agora ativam uma explosão de Batata-mina ao atingir um zumbi"
+            "desc": "Os projéteis da Triplermina agora ativam uma explosão de Batatamina ao atingir um zumbi"
         },
         "12004": {
             "name": "Ascensão: Destruição",
-            "desc": "Quando a Carnívora da Destruição ataca, ela ativa uma explosão da Destruição engolindo ou não um zumbi. Se engolir, ativará duas explosões da Destruição"
+            "desc": "Quando a Arruínadora ataca, ela ativa uma explosão de Ruínagumelo engolindo ou não um zumbi. Se engolir, ativará duas explosões de Ruínagumelo"
         },
         "12005": {
             "name": "Ascensão: Oblivion",
-            "desc": "Cogumelagedom libera uma explosão de Cogumelo da Destruição de 1 milhão de dano ao morrer"
+            "desc": "Colapsogumelo libera uma explosão de Ruínagumelo de 1 milhão de dano ao morrer"
         },
         "12006": {
             "name": "Ascensão: Escudo de Luz",
-            "desc": "Folha-Guarda-Chuva de Faros pode consumir energia para repelir zumbis em uma área 3×3 e ataques normais atingem ×3 alvos"
+            "desc": "Guarda-Chuva Celestial pode consumir energia para empurrar zumbis em uma área 3×3 e ataques normais atingem ×3 alvos"
         },
         "12007": {
             "name": "Ascensão: Gravidade",
@@ -578,11 +594,11 @@
         },
         "12008": {
             "name": "Ascensão: Penetração",
-            "desc": "Triplervilha Fênix agora dispara em todas as fileiras e seus projéteis perfuram infinitamente"
+            "desc": "Fênixervilha agora dispara em todas as linhas e seus projéteis perfuram infinitamente"
         },
         "12009": {
             "name": "Ascensão: As Fauces",
-            "desc": "O alcance de atração da Tiranoflora Lux após a digestão é amplamente aumentado"
+            "desc": "O alcance de atração da Lanternívora após a digestão é amplamente aumentado"
         },
         "12010": {
             "name": "Ascensão: Feixe do Caos",
@@ -590,31 +606,107 @@
         },
         "12011": {
             "name": "Ascensão: Ricochete",
-            "desc": "Esquadrão Cogumelo-Chumbo não acerta mais tiros na cabeça, mas os projéteis ricocheteiam nas bordas do gramado (como a Ervilha Dupla), até (número de perfurações + 2) vezes"
+            "desc": "Esquadrão Ferrogumelo não acerta mais tiros na cabeça, mas os projéteis ricocheteiam nas bordas do gramado (como a Bidisparervilha), até (número de perfurações + 2) vezes"
         },
         "12012": {
             "name": "Ascensão: Veterania",
-            "desc": "Imperatriz-cogumelo agora invoca zumbis com atributos amplamente aumentados"
+            "desc": "Imperatrizgumelo agora invoca zumbis com atributos amplamente aumentados"
         },
         "12013": {
             "name": "Ascensão: Densidade",
-            "desc": "Comando Chumbo-Grosso dispara projéteis ainda maiores e mais fortes durante Ataques Supremos"
+            "desc": "Coronel Chumbervilha dispara projéteis ainda maiores e mais fortes durante Ataques Supremos"
         },
         "12014": {
             "name": "Ascensão: Hemorragia",
-            "desc": "Zumbis alvejados por qualquer Espinho-rocha perdem continuamente vida igual a 400% do ataque por 2s"
+            "desc": "Zumbis alvejados por qualquer Pedra-Espinho perdem continuamente vida igual a 400% do ataque por 2s"
         },
         "12015": {
             "name": "Ascensão: Fortuna",
-            "desc": "Bambu Ceifador de Almas agora segue o movimento do mouse, com melhorias de velocidade de ataque aumentando sua velocidade de movimento, causando dano a quaisquer zumbis em seu caminho"
+            "desc": "Broto de Laminatus agora segue o movimento do mouse, com melhorias de velocidade de ataque aumentando sua velocidade de movimento, causando dano a quaisquer zumbis em seu caminho"
         },
         "12016": {
             "name": "Ascensão: Decodificação",
-            "desc": "Zumbis que surgirem serão amaldiçoados com 3 acúmulos de Magia de Decodificação. A cada horda, o zumbi com mais vida ganha 100 acúmulos de Decodificação. Cada acúmulo aumenta o dano sofrido pelo zumbi em 100%, e quando um zumbi amaldiçoado morre, seus acúmulos se espalham para zumbis próximos."
+            "desc": "Zumbis que surgirem serão amaldiçoados com 3 acúmulos de Magia de Decodificação. A cada onda, o zumbi com mais vida ganha 100 acúmulos de Decodificação. Cada acúmulo aumenta o dano sofrido pelo zumbi em 100%, e quando um zumbi amaldiçoado morre, seus acúmulos se espalham para zumbis próximos."
+        },
+        "12017": {
+            "name": "Ascensão: Fragmentação",
+            "desc": "O projétil da Noz-Melancia explode no ar e se divide em várias Mini Melancias arremessadas contra zumbis por todo o campo"
+        },
+        "12018": {
+            "name": "Ascensão: Barragem Dourada",
+            "desc": "O Ataque Supremo da Melancia Dourada arremessa melancias douradas adicionais em todos os zumbis, e a quantidade de divisões do Supremo é dobrada (×2)"
+        },
+        "12019": {
+            "name": "Ascensão: Serra Endurecida",
+            "desc": "Os projéteis da Pinheilâmina Ártica ganham 0.6% adicional de seu Escudo atual como Dano de Ataque, limitado a 300% de seu Ataque base"
+        },
+        "12020": {
+            "name": "Ascensão: Erupção Total",
+            "desc": "O alcance de mira do Repolhadeiro Vulcânico ganha +1 linha acima e abaixo, e dispara em todos os alvos simultaneamente (se o número de alvos for menor que a contagem máxima de dispersão, os tiros restantes são distribuídos igualmente entre os alvos) | Tempo de voo do projétil reduzido em 50%"
+        },
+        "12021": {
+            "name": "Ascensão: Esgrima",
+            "desc": "Para cada 2 espadas gigantes invocadas pelo Grão-Mestre Carambola, cada ataque dispara adicionalmente 1 espada curta giratória"
+        },
+        "12022": {
+            "name": "Ascensão: Círculo da Morte",
+            "desc": "Projéteis ao redor da Noz-Magnética agora podem perfurar infinitamente, mas sua duração é reduzida para 10 segundos"
         },
         "13000": {
             "name": "Proteção Antiexplosão",
-            "desc": "O dano de explosão do Zumbi Caixa-de-Surpresa é reduzido para 1000"
+            "desc": "O dano de explosão do Zumbi Palhaço é reduzido para 1000"
+        },
+        "13001": {
+            "name": "Escudo Encantado",
+            "desc": "Plantas com escudo regeneram 0.1% do valor do escudo em vida por segundo"
+        },
+        "13100": {
+            "name": "Sem Dor, Sem Ganho",
+            "desc": "Elimina todas as suas plantas e reduz pela metade o bônus de dano independente e o bônus de velocidade de todas as plantas no campo\nApós 20 ondas, repete esta operação, mas dobrando os bônus em vez disso"
+        },
+        "13101": {
+            "name": "Tudo ou Nada",
+            "desc": "Se sua Sorte estiver abaixo de 75, ajusta-a imediatamente para 75. Quando não protegido pelo sistema de piedade, modificadores de Prata e Ouro são rebaixados para a qualidade Bronze, enquanto os de Diamante são aprimorados para a qualidade Prismática"
+        },
+        "13102": {
+            "name": "Terreno Elevado",
+            "desc": "Plantas causam 30% a mais de dano quando acima dos zumbis e 30% a menos de dano quando abaixo dos zumbis, determinado por suas posições verticais de sprite na tela"
+        },
+        "13103": {
+            "name": "Instinto Predador",
+            "desc": "Plantas causam 30% a mais de dano a zumbis com mais de 50% de vida e 30% a menos de dano àqueles abaixo de 50% de vida"
+        },
+        "14000": {
+            "name": "Maldição do 1 4 3 7",
+            "desc": "A velocidade de ataque da Supernova é reduzida pela metade. Após 1.437 ataques, reverte a maldição, com cada salva contando como 5 ataques\nEfeito de reversão: Projéteis quasar da Supernova ganham 1.437 de dano base adicional"
+        },
+        "14001": {
+            "name": "Bênção do 1 4 3 7",
+            "desc": "Projéteis quasar da Supernova ganham 1.437 de dano base adicional"
+        },
+        "14002": {
+            "name": "Maldição da Agressão",
+            "desc": "O dano da Metralhabombas é reduzido em 50%. Após causar um dano cumulativo de 300M, reverte a maldição\nEfeito de reversão: Toda vez que a Metralhabombas ataca, ela dispara adicionalmente vários projéteis do lado esquerdo da tela, com ataque igual a 0.0001% do dano cumulativo causado por outras plantas"
+        },
+        "14003": {
+            "name": "Bênção da Agressão",
+            "desc": "Toda vez que a Metralhabombas ataca, ela dispara adicionalmente vários projéteis do lado esquerdo da tela, com ataque igual a 0.0001% do dano cumulativo causado por outras plantas"
+        },
+        "14004": {
+            "name": "Maldição da Equidade",
+            "desc": "Para cada alvo que o Repolhadeiro Vulcânico possui, o dano de seus projéteis é reduzido em 1%, até uma redução máxima de 70%. Após uma redução cumulativa de 50.000% através deste efeito, reverte a maldição\nEfeito de reversão: Para cada alvo que o Repolhadeiro Vulcânico possui, o dano de seus projéteis é aumentado em 1%"
+        },
+        "14005": {
+            "name": "Bênção da Equidade",
+            "desc": "Para cada alvo que o Repolhadeiro Vulcânico possui, o dano de seus projéteis é aumentado em 1%"
+        },
+        "14006": {
+            "name": "Maldição da Resistência",
+            "desc": "Noz-Magnética não dispara mais projéteis. Após atrair 5.000 projéteis, reverte a maldição\nEfeito de reversão: Toda vez que a Noz-Magnética ataca, ela dispara adicionalmente um projétil do tipo que mais atraiu"
+        },
+        "14007": {
+            "name": "Bênção da Resistência",
+            "desc": "Toda vez que a Noz-Magnética ataca, ela dispara adicionalmente um projétil do tipo que mais atraiu"
         }
     },
     "ultimateBuffs": {
@@ -624,361 +716,393 @@
         },
         "1": {
             "name": "Voracidade",
-            "desc": "Cerejazilla e Alhozilla: Recarga de Devorar reduzida para 15s"
+            "desc": "Cerejazilla e Alhozilla: Tempo de Recarga de Devorar reduzido para 15s"
         },
         "2": {
             "name": "Explosão Megaton",
-            "desc": "Metralhadora Bomba-cereja: Cerejas explosivas de plantas causam ×3 de dano"
+            "desc": "Metralhabombas: Cerejas explosivas de plantas causam dano ×3"
         },
         "3": {
             "name": "Recarga Rápida",
-            "desc": "Metralhadora Bomba-cereja e Drone Bomba-cereja: Velocidade de Ataque +100%"
+            "desc": "Metralhabombas e Bombardeiro Cerejeiro: Velocidade de Ataque +100%"
         },
         "4": {
             "name": "Zero Absoluto",
-            "desc": "Destruinador: Velocidade de ataque ×3; Dano de ataque do Espinhador ×3; Dano de ataque do Zumbi Garra-de-Gelo ×3"
+            "desc": "Cataclismogumelo: Velocidade de ataque ×3; Dano de ataque do Cactaclísmico ×3; Dano de ataque do Zumbi Garra-de-Gelo ×3"
         },
         "5": {
             "name": "Choque Térmico",
-            "desc": "Destruinador: Zumbis sofrem 30% de sua vida atual como dano ao serem descongelados"
+            "desc": "Cataclismogumelo: Zumbis sofrerão dano equivalente a 30% de sua vida atual ao serem descongelados"
         },
         "6": {
             "name": "Eficiência",
-            "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Projéteis necessários para gerar uma planta Picante são reduzidos pela metade"
+            "desc": "Tronco Infernal e Estrela Ardente: Projéteis necessários para gerar uma planta Picante são reduzidos pela metade"
         },
         "7": {
             "name": "Superaquecimento",
-            "desc": "Tronco Flamejante Infernal e Tronco de Fagulhas: Incendeia a fileira imediatamente quando não for possível gerar uma planta Picante"
+            "desc": "Tronco Infernal e Estrela Ardente: Incendeia a linha imediatamente quando não for possível gerar uma planta Picante"
         },
         "8": {
             "name": "Tempestade de Meteoros",
-            "desc": "Magnetar: Intervalo de Ataque 1s → 0,5s"
+            "desc": "Supernova: Intervalo de Ataque 1s → 0.5s"
         },
         "9": {
             "name": "Sizígia",
-            "desc": "Magnetar: Nv1: Dano base ×2 e limite de dano (300) aumentado para 3000; Nv2: Dano base ×3, limite de dano removido"
+            "desc": "Supernova: Nv1: Dano base ×2 e limite de dano (300) aumentado para 3000; Nv2: Dano base ×3, limite de dano removido"
         },
         "10": {
             "name": "Contagem Regressiva",
-            "desc": "Cogumelagedom: Dano de explosão ao morrer aumentado em 1M | Lanterna Nuclear: Bônus de Lumos ao morrer ×3"
+            "desc": "Colapsogumelo: Dano de explosão ao morrer aumentado em 1M | Trevanterna: Aumento de Lumos ao morrer ×3"
         },
         "11": {
             "name": "Barreira Volátil",
-            "desc": "Cogumelagedom: Torna-se imune a dano, mas morre instantaneamente após bloquear muitos golpes | Lanterna Nuclear: Dano de ataque ×3"
+            "desc": "Colapsogumelo: Torna-se imune a dano, mas morre instantaneamente após bloquear golpes demais | Trevanterna: Dano de ataque ×3"
         },
         "12": {
             "name": "Tom Perfeito",
-            "desc": "Catapulta Murcha e Catapulta Pútrida: Disparo espalhado agora é garantido"
+            "desc": "Definhapulta e Definhazinha: Disparo disperso agora é garantido"
         },
         "13": {
             "name": "Overdose Tóxica",
-            "desc": "Catapulta Murcha e Catapulta Pútrida: Nv1: Acumular pontos de Veneno envenenará o zumbi imediatamente e Limite de Veneno → 120; Nv2: Limite de Veneno removido"
+            "desc": "Definhapulta e Definhazinha: Nv1: Acumular pontos de Veneno envenenará imediatamente o zumbi e Limite de Valor de Veneno → 120; Nv2: Limite de Valor de Veneno removido"
         },
         "14": {
             "name": "Marco Zero",
-            "desc": "Milho-literador: Dano da Explosão Principal ×4 | Panmelônio: Dano ×4"
+            "desc": "Canhão Obliterador: Dano da Explosão Principal ×4 | Canhão Citrulador: Dano ×4"
         },
         "15": {
             "name": "Bateria de Artilharia",
-            "desc": "Milho-literador e Panmelônio: Tempo de Recarga 36s → 12s"
+            "desc": "Canhão Obliterador e Canhão Citrulador: Tempo de Recarga 36s → 12s"
         },
         "16": {
             "name": "Casca Eterna",
-            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Limite Máximo de Vida ×3"
+            "desc": "Noz-Obsidiana e Obsidimina: Limite de Vida Máxima ×3"
         },
         "17": {
             "name": "Escudo Guardião",
-            "desc": "Noz-gigante de Obsidiana e Mina de Obsidiana: Agora absorve o dano direcionado às plantas imediatamente à sua esquerda e direita"
+            "desc": "Noz-Obsidiana e Obsidimina: Agora pode absorver o dano direcionado às plantas diretamente à sua esquerda e direita"
         },
         "18": {
             "name": "Benevolência do Salvador",
-            "desc": "Charmatron: Limiar de vida para hipnose aumentado de 60% para 100% | Aboborativador: Dano a Zumbis hipnotizados capturados reduzido pela metade"
+            "desc": "Galãgumelo: Limiar de vida para hipnose aumentado de 60% para 100% | Abóbora Charmosa: Dano a Zumbis hipnotizados capturados reduzido pela metade"
         },
         "19": {
             "name": "Ritmo Incessante",
-            "desc": "Charmatron: Intervalo de Ataque → 1s, Nível de Carga não cai abaixo de 2 e pode receber metal para atingir Nível de Carga 3 por 5 min | Aboborativador: Nível de Carga 3 desbloqueado"
+            "desc": "Galãgumelo: Intervalo de Ataque → 1s, Nível de Carga não cai abaixo de 2 e pode receber metal para atingir Nível de Carga 3 por 5 mins | Abóbora Charmosa: Nível de Carga 3 desbloqueado"
         },
         "20": {
             "name": "Artilharia Pesada",
-            "desc": "Metralhadora e Canhão Eletromagnético Apeocalipse: Poder de Ataque ×3"
+            "desc": "Torretobsidiana e Torretalaser: Poder de Ataque ×3"
         },
         "21": {
             "name": "Impulso de Desespero",
-            "desc": "Metralhadora Apeocalipse: Nv1: Usar Ataque Supremo recupera 50k de energia; Nv2: Supremo também causa 20% de dano bônus que ignora Redução de Dano | Canhão Eletromagnético Apeocalipse: Nv1: Defesa aumenta conforme a vida diminui. Abaixo de 500 de Vida, torna-se imune a danos abaixo de 1k; Nv2: Abaixo de 500 de Vida, dano base ×2"
+            "desc": "Torretobsidiana: Nv1: Usar Ataque Supremo recupera 50k de energia; Nv2: Supremo também causa 20% de dano bônus que ignora Redução de Dano | Torretalaser: Nv1: A defesa aumenta conforme a vida diminui. Abaixo de 500 de Vida, torna-se imune a danos abaixo de 1k; Nv2: Abaixo de 500 de Vida, dano base ×2"
         },
         "22": {
             "name": "Surto do Periélio",
-            "desc": "Repolho Hélio: Quando o Sol ultrapassar 15k, cada ataque consome 0,5% do excesso para aumentar o dano do projétil em 20 a cada 1 Sol gasto | Repolho Selene: Dano aumentado em 3× por Nível de Lumos"
+            "desc": "Reipolho Divino: Quando o Sol exceder 15k, cada ataque do Reipolho Divino consome 0.5% do excesso para aumentar o dano do projétil em 20 a cada 1 de Sol gasto | Repolhinha Divina: Dano aumentado em 3× por Nível de Lumos"
         },
         "23": {
             "name": "Radiância do Zênite",
-            "desc": "Repolho Hélio: Mini Sol causa 3× de dano | Repolho Selene: Mini Lua cura 3×"
+            "desc": "Reipolho Divino: Mini-Sol causa dano 3× | Repolhinha Divina: Mini-Lua cura 3×"
         },
         "24": {
             "name": "Ataque Tríplice",
-            "desc": "Abóbora Laser e Explosiva: Quantidade de Asas de Suporte 1 → 3"
+            "desc": "Abóbora Laser e Abóbora Escarlate: Quantidade de Escoltas 1 → 3"
         },
         "25": {
             "name": "Supremacia Aérea",
-            "desc": "Abóbora Laser: Dano de Asas de Suporte e Drones ×3"
+            "desc": "Abóbora Laser: Dano de Escoltas e Drones ×3"
         },
         "26": {
             "name": "Sobrecarga",
-            "desc": "Cogumelo Napalm e Cogumelo de Magma: Velocidade de recarga e carga máxima ×3"
+            "desc": "Vulcânicogumelo e Magmagumelo: Velocidade de carregamento e carga máxima ×3"
         },
         "27": {
             "name": "Terra Arrasada",
-            "desc": "Cogumelo Napalm: Inferno agora dura 5s (o dobro) | Cogumelo de Magma: Dano da Manteiga de Magma ×3"
+            "desc": "Vulcânicogumelo: O inferno agora dura 5s (o dobro do tempo) | Magmagumelo: Dano da Manteiga de Magma ×3"
         },
         "28": {
             "name": "Tesouro Acumulado",
-            "desc": "Kelpitão Barbadourada: Plantas causam 5% a mais de dano de ataque a cada 1000 pontos acumulados (até +300%)"
+            "desc": "Emaranhidra Dourada e Emaranhidra Dourada Caixa Surpresa Suprema: Ganham 1% de Velocidade de Ataque para cada 1000 pontos possuídos"
         },
         "29": {
             "name": "Favor do Mercador",
-            "desc": "Kelpitão Barbadourada: A loja da Odisseia agora tem 30% de desconto em Modificadores"
+            "desc": "Emaranhidra Dourada e Emaranhidra Dourada Caixa Surpresa Suprema: O limite de recompensa em pontos ao derrotar zumbis Dourados é dobrado | Usar uma Planta Presente/Zumbi Presente em um quadrado vazio possui chance de gerar um pacote de sementes para Emaranhidra Dourada/Emaranhidra Dourada Caixa Surpresa Suprema, respectivamente"
         },
         "30": {
             "name": "Disco de Acreção",
-            "desc": "Cosmopulta: Conversão de dano de projéteis do Buraco Negro Supremo 60% → 80% | Noz-astronômica: Ganha 33% de Redução de Dano quando seu Buraco Negro está ativo"
+            "desc": "Cronomilho Celestial: Conversão de dano de projéteis do Buraco Negro Supremo 60% → 80% | Cronoz Celestial: Ganha 33% de Redução de Dano quando seu Buraco Negro está ativo"
         },
         "31": {
             "name": "Dilatação Temporal",
-            "desc": "Cosmopulta e Noz-astronômica: Duração e duração máxima do Buraco Negro Supremo ×2, e seu dano aumenta em 2% a cada segundo ativo"
+            "desc": "Cronomilho Celestial e Cronoz Celestial: Duração e duração máxima do Buraco Negro Supremo ×2, e seu dano aumenta em 2% a cada segundo que permanece ativo"
         },
         "32": {
             "name": "Gume Duradouro",
-            "desc": "Abeto Ceifa-vidas: Serras boreais agora duram 15s | Bambu Ceifador de Almas: Agora recebe apenas 1/3 do dano recebido"
+            "desc": "Pinheilâmina Ártica: Serras ceifadoras boreais agora duram 15s | Broto de Laminatus: Agora recebe apenas 1/3 do dano recebido"
         },
         "33": {
             "name": "Vitalidade Perene",
-            "desc": "Abeto Ceifa-vidas: A cura não é mais dividida entre as plantas | Bambu Ceifador de Almas: Recuperação de Vida e Escudo ×2"
+            "desc": "Pinheilâmina Ártica: A cura não é mais dividida entre as plantas | Broto de Laminatus: Recuperação de Vida e Escudo ×2"
         },
         "34": {
             "name": "Alcance Voraz",
-            "desc": "Tiranoflora Lux: Alcance de Ataque ×2"
+            "desc": "Lanternívora: Alcance do efeito de ataque ×2 (atualmente com bug e sem efeito)"
         },
         "35": {
             "name": "Banquete Luminoso",
-            "desc": "Tiranoflora Lux: Concede 2 Níveis de Lumos em uma área 5×5 durante a digestão"
+            "desc": "Lanternívora: Fornece 2 Níveis de Lumos em uma área de 5×5 quadrados durante a digestão"
         },
         "36": {
             "name": "Estrago Vulcânico",
-            "desc": "Vulcanhão: Dano das Bombas Vulcânicas ×3 | Eruptor Caldeira: Dano dos Repolhos Pirotécnicos ×3"
+            "desc": "Canhão Incinerador: Dano das Bombas Vulcânicas ×3 | Repolhadeiro Vulcânico: Dano dos Repolhos Pirotécnicos ×3"
         },
         "37": {
             "name": "Massa Crítica",
-            "desc": "Vulcanhão: Agora ativa Detonações Termonucleares quando disparos principais atingem Bombas-cereja ou Pimentas Malagueta | Eruptor Caldeira: 10% de chance de ativar efeitos de Bomba-cereja e Malagueta no canhão e ignora o limite de 10 alvos"
+            "desc": "Canhão Incinerador: Agora ativa Detonações Termonucleares quando disparos principais atingem Cerejas-Bomba ou Pimentas | Repolhadeiro Vulcânico: 10% de chance de ativar efeitos de Cerejas-Bomba e Pimenta na posição do cano e ignora o limite de 10 alvos"
         },
         "38": {
             "name": "Ciclo de Combustão",
-            "desc": "Princesa Solarnova: Quando um tiro solar atinge um zumbi, faz com que projéteis próximos também explodam"
+            "desc": "Imperatriz das Chamas: Quando um tiro solar atinge um zumbi, faz com que projéteis próximos também explodam"
         },
         "39": {
             "name": "Banco de Energia",
-            "desc": "Princesa Solarnova: Limite de energia ×3, produção de Sol após excesso de armazenamento ×3"
+            "desc": "Imperatriz das Chamas: Limite de energia ×3, quantidade de produção de Sol após excesso de armazenamento ×3"
         },
         "40": {
             "name": "Mira Travada",
-            "desc": "Maelstromelão: Fenda Nebulosa agora foca no zumbi com menos vida durante a primeira metade da rajada | Fungularidade: Agora cria apenas um conjunto de portais, mas eles geram ×10 feixes de partículas de gelo"
+            "desc": "Nebulancia: Fenda de Nebulosa agora foca no zumbi com menor vida durante a primeira metade da barragem | Temporínagumelo Glacial: Agora cria apenas um conjunto de portais, mas eles geram ×10 fluxos de partículas de gelo"
         },
         "41": {
             "name": "Concentração",
-            "desc": "Maelstromelão: Dano do Melão Criogênico ×6, mas com raio de dispersão reduzido | Maelstromelão e Fungularidade: Zumbis imunes à Mudança Temporal ainda sofrerão dano igual a (Tempo Decorrido)% de sua vida"
+            "desc": "Nebulancia: Dano da Melancia Criogênica ×6, mas com raio de dispersão reduzido | Nebulancia e Temporínagumelo Glacial: Zumbis imunes a Distorção Temporal ainda sofrerão dano igual a (Tempo Decorrido)% de sua vida"
         },
         "42": {
             "name": "Onda de Calor",
-            "desc": "Rabo-de-Leão Prometeu: Frequência de dano do Raio Térmico ×2 | Cogumelo Deucalião: Bônus de dano concedido por Estágios Totais de Crescimento ×3"
+            "desc": "Labareda de Leão: Frequência de dano do Feixe Térmico ×2 | Deucalirinho: Bônus de dano concedido por Estágios Totais de Crescimento ×3"
         },
         "43": {
             "name": "Fogo Sagrado",
-            "desc": "Rabo-de-Leão Prometeu e Cogumelo Deucalião: Dano de tiros normais ×3"
+            "desc": "Labareda de Leão e Deucalirinho: Dano de tiros comuns ×3"
         },
         "44": {
             "name": "Frenesi Alimentar",
-            "desc": "Leviatã Cila: Lacaios de alga podem afogar até 3 zumbis (ou causar ×3 de dano), e cada zumbi afogado concede 10 acúmulos de energia"
+            "desc": "Leviatãgumelo: Lacaios Emaranhadores podem afogar até 3 zumbis (ou causar dano ×3), e cada zumbi afogado concede 10 acúmulos de energia"
         },
         "45": {
             "name": "Ataque em Enxame",
-            "desc": "Leviatã Cila: Dispara 3 projéteis de ataque base de uma só vez"
+            "desc": "Leviatãgumelo: Dispara 3 projéteis de ataque base de uma só vez"
         },
         "46": {
             "name": "Caçador de Troféus",
-            "desc": "Ceifadora Criolina e Pranto Habanero: Limite de almas aumentado para 10, agora ganha 1 alma sempre que um Mini-chefe morre"
+            "desc": "Pimenta do Ressurgimento e Pimentinha Dura-De-Roer: Limite de cargas de alma aumentado para 10, agora ganha 1 carga de alma sempre que um Mini-chefe morre"
         },
         "47": {
             "name": "Cortina de Almas",
-            "desc": "Ceifadora Criolina e Pranto Habanero: Ao usar uma carga de alma, concede 1s de invencibilidade a todas as plantas"
+            "desc": "Pimenta do Ressurgimento e Pimentinha Dura-De-Roer: Ao usar uma carga de alma, também concede 1s de invencibilidade a todas as plantas"
         },
         "48": {
             "name": "Capacitor Lumos",
-            "desc": "Divisor de Fótons: Nv1: Limite de energia Lumos aumentado de 1000 para 2000; Nv2: Limite aumentado para 10k | Orbitador de Áxions: Raio de dano do projétil +50%"
+            "desc": "Bidisparalaser de Fótons: Nv1: Limite de energia Lumos aumentado de 1000 para 2000; Nv2: Limite de energia Lumos aumentado para 10k | Matériervilha-Negra: Raio de dano do projétil +50%"
         },
         "49": {
             "name": "Descarga de Energia",
-            "desc": "Divisor de Fótons: Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for < 1000 | Orbitador de Áxions: Agora dispara 2 projéteis extras a cada ataque"
+            "desc": "Bidisparalaser de Fótons: Aumenta a eficiência de transferência em 50%, e em 250% se a energia do alvo for < 1000 | Matériervilha-Negra: Agora dispara 2 projéteis extras a cada ataque"
         },
         "50": {
             "name": "Ritmo de Batalha",
-            "desc": "Comando Chumbo-Grosso: Chance de ativação do Supremo de todos os Comandos ×3, Batata Comando agora atira batatas explosivas | Disparervilha Sincronizada: Todas as Disparervilhas agora disparam um tiro extra após um Tiro na Cabeça"
+            "desc": "Coronel Chumbervilha: Chance de ativação do Supremo de todos os Comandos ×3, Tenente Metralhatata agora atira batatas explosivas | Franco-Cosmervilha: Todas as Franco-Disparevilhas agora disparam um tiro extra após um Tiro na Cabeça"
         },
         "51": {
             "name": "Fogo Focado",
-            "desc": "Comando Chumbo-Grosso: Dano Supremo de todos os Comandos ×2 e não se espalha mais | Disparervilha Sincronizada: Disparos necessários antes de ativar Tiro na Cabeça em todas as Disparervilhas -3"
+            "desc": "Coronel Chumbervilha: Dano Supremo de todos os Comandos ×2 e não se dispersa mais | Franco-Cosmervilha: Disparos necessários antes de ativar Tiro na Cabeça em todas as Franco-Disparevilhas -3"
         },
         "52": {
             "name": "Formação de Obsidiana",
-            "desc": "Noz-blindada de Obsidiana: Enquanto estiver no gramado, todas as plantas de Obsidiana sofrem dano final reduzido com base no número de plantas de Obsidiana diferentes presentes"
+            "desc": "Noz-Muralha de Obsidiana: Enquanto estiver no gramado, todas as plantas de Obsidiana sofrem dano final reduzido com base no número de plantas de Obsidiana diferentes presentes"
         },
         "53": {
             "name": "Têmpera Fogofrio",
-            "desc": "Noz-blindada de Obsidiana: Dano da Têmpera ×2"
+            "desc": "Noz-Muralha de Obsidiana: Dano da Têmpera ×2"
+        },
+        "54": {
+            "name": "Essência Rejuvenescedora",
+            "desc": "Aquecinheiro Supremo: A Essência aumenta a vida máxima das plantas em 0.2% de sua Resistência base na rodada atual"
+        },
+        "55": {
+            "name": "Vitalidade Transbordante",
+            "desc": "Aquecinheiro Supremo: Poder de Cura e Escudo da Essência ×2 | Quantidade de remoções de Congelamento e Geada ×3 | Velocidade de recuperação automática de Essência ×2"
         }
     },
     "debuffs": {
         "0": {
             "name": "Romper Linhas",
-            "desc": "Zumbi do Jornal Metralhadora-Cereja: Capacidade de atravessar plantas quando seu jornal é destruído"
+            "desc": "Zumbi Metralhacerejas do Jornal: Capacidade de atravessar plantas quando seu jornal é destruído"
         },
         "1": {
             "name": "Imunidade Absoluta",
-            "desc": "Zumbi do Jornal Metralhadora-Cereja: Agora imune a todos os efeitos de status"
+            "desc": "Zumbi Metralhacerejas do Jornal: Agora imune a todos os efeitos de status"
         },
         "2": {
             "name": "Exsanguinação",
-            "desc": "Zumbi Giga Noz-de-Futebol: Mordidas desativam a cura das plantas por 1s"
+            "desc": "Zumbi Noz-Rúgbi Blindado: Mordidas desativam a cura das plantas por 1s"
         },
         "3": {
             "name": "Debilitação",
-            "desc": "Zumbi Giga Noz-de-Futebol: Mordidas enfraquecem as plantas, fazendo-as receber 3× de dano por 1s"
+            "desc": "Zumbi Noz-Rúgbi Blindado: Mordidas enfraquecem as plantas, fazendo-as receber dano 3× por 1s"
         },
         "4": {
             "name": "Correnteza",
-            "desc": "Tubarão-marino: Velocidade de Movimento ×2"
+            "desc": "Zumbarão: Velocidade de Movimento ×2"
         },
         "5": {
             "name": "Casco Reforçado",
-            "desc": "Tubarão-marino: Ganha 50% de Redução de Dano"
+            "desc": "Zumbarão: Ganha 50% de Redução de Dano"
         },
         "6": {
             "name": "Propulsão a Jato",
-            "desc": "Zomppelin Kirov: Imunidade a Trevos | Velocidade de Movimento ×5"
+            "desc": "Zumpelim Classe-Kirov: Imunidade a Turbinadas | Velocidade de Movimento ×5"
         },
         "7": {
             "name": "Enxame de Ferro",
-            "desc": "Zomppelin Kirov: Drones invocados agora têm 50× mais Vida"
+            "desc": "Zumpelim Classe-Kirov: Drones invocados agora têm 50× mais vida"
         },
         "8": {
             "name": "Pavio Curto",
-            "desc": "Zumbi Palhaço-Pula-Pula: Sempre explode ao morrer, e tempo de salto reduzido em 90% | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
+            "desc": "Zumbi Príncipe Palhaço num Pogo: Sempre explode ao morrer, e o tempo de carga do grande salto é reduzido em 90% | Zumbi Principe Palhaço num Jetski: Dano de bomba +500"
         },
         "9": {
             "name": "Explosão Contagiosa",
-            "desc": "Zumbi Palhaço-Pula-Pula: Zumbis do tipo Caixa-de-Surpresa atingidos pela explosão viram Zumbis Palhaço-Pula-Pula | Zumbi Palhaço-de-Jetski: Dano de bomba +500"
+            "desc": "Zumbi Príncipe Palhaço num Pogo: Zumbis da família Caixa Surpresa atingidos pela explosão transformam-se em Zumbis Príncipe Palhaço num Pogo | Zumbi Principe Palhaço num Jetski: Dano de bomba +500"
         },
         "10": {
             "name": "Torrentes de Tridente",
-            "desc": "Zumbi Giga Noz-Tridente: Arremessa 2 tridentes extras a cada ataque | Pozeidon arremessa 3 tridentes gigantes"
+            "desc": "Zumbi Noz-Pélago do Tridente: Agora arremessa 2 tridentes extras a cada ataque | Zumbi Pozeidon arremessa 3 tridentes gigantes"
         },
         "11": {
             "name": "Dispersão",
-            "desc": "Zumbi Giga Noz-Tridente: Ignora plantas tipo Guarda-Chuva e alveja plantas aleatórias para atacar"
+            "desc": "Zumbi Noz-Pélago do Tridente: Agora ignora plantas da família Guarda-Chuva e alveja plantas aleatórias para atacar"
         },
         "12": {
             "name": "Elenco de Estrelas",
-            "desc": "Zumbi Superastro: Pode invocar Zumbis Super Dançarinos com Vara"
+            "desc": "Zumbi Superstar: Agora pode invocar Zumbis Saltadinos Veteranos"
         },
         "13": {
             "name": "Valsa Fantasma",
-            "desc": "Zumbi Superastro: Atravessa plantas ao deslizar para o campo"
+            "desc": "Zumbi Superstar: Agora atravessa plantas ao deslizar para o campo"
         },
         "14": {
             "name": "Abalo Secundário",
-            "desc": "Aparição Imortal: O dano de explosão ignora imunidades de Abóboras Palhaço e outras plantas relevantes"
+            "desc": "Espectro Imortal: O dano de explosão agora ignora imunidades de Palhaçóboras e outras plantas relevantes"
         },
         "15": {
             "name": "Perseguição Implacável",
-            "desc": "Aparição Imortal: Recarga de investida reduzida | Poder de Ataque Muito Aumentado"
+            "desc": "Espectro Imortal: Tempo de recarga de investida reduzido | Poder de Ataque Muito Aumentado"
         },
         "16": {
             "name": "Miríade de Tridentes",
-            "desc": "Hwacha Tridente: Imune à maioria dos efeitos de status e lança 5× mais tridentes"
+            "desc": "Zumbi Carroça de Tridentes: Agora imune à maioria dos efeitos de status e arremessa 5× mais tridentes"
         },
         "17": {
             "name": "Primeiro Golpe",
-            "desc": "Hwacha Tridente: Ataca antecipadamente"
+            "desc": "Zumbi Carroça de Tridentes: Agora ataca antecipadamente"
         },
         "18": {
             "name": "Desfile Mundial",
-            "desc": "Michael Zomboni: Surge a cada rodada | Gera um Zumbi Superastro extra ao morrer"
+            "desc": "Michael Zumboni: Agora surge a cada rodada | Gera um Zumbi Superstar extra ao morrer"
         },
         "19": {
             "name": "Acelerador Total",
-            "desc": "Michael Zomboni: Velocidade de Movimento de Michael Zombonis e Jackson Mundial ×5"
+            "desc": "Michael Zumboni: Velocidade de Movimento de Michael Zumbonis e Zumbis Turnê Mundial ×5"
         },
         "20": {
             "name": "Queda de Elite",
-            "desc": "Zumbis Bungee têm chance de soltar um Zumbi da Odisseia na 4ª coluna ou mais à direita e ganham 90% de Redução de Dano"
+            "desc": "Zumbis Bungee possuem chance de soltar um Zumbi da Odisseia na 4ª coluna ou mais à direita e ganham 90% de Redução de Dano"
         },
         "21": {
             "name": "Imortalidade",
-            "desc": "Esquadrão Assassino Alfa pode se recuperar de incapacitações infinitamente"
+            "desc": "Zumbi Esquadrão Alfa agora pode se recuperar de incapacitações infinitamente"
         },
         "22": {
             "name": "Visão Longínqua",
-            "desc": "Disco Retalhador da Legião do Gelo: Raios Dissolventes miram na planta mais distante no alcance"
+            "desc": "O.V.N.I Glacial: Raios Dissolventes agora miram na planta mais distante no alcance"
         },
         "23": {
             "name": "Sucção Ampla",
-            "desc": "Disco Retalhador da Legião do Gelo: Alcance do Dreno Sifão: 1 Espaço → Área 3×3"
+            "desc": "O.V.N.I Glacial: Alcance do Dreno Sifão: 1 Quadrado → Área 3×3"
         },
         "24": {
             "name": "Confluência Elemental",
-            "desc": "Gargantuar Elemental: A aparência não importa mais, agora possui as habilidades extras de todas as quatro afinidades simultaneamente"
+            "desc": "Devorador Imbuído de Elementos: A aparência não importa mais, agora possui as habilidades extras de todas as quatro afinidades simultaneamente"
         },
         "25": {
             "name": "Despertar da Afinidade",
-            "desc": "Gargantuar Elemental: Esmagar faz surgir Zumbizinhos Elementais correspondentes"
+            "desc": "Devorador Imbuído de Elementos: Esmagar agora faz surgir Zumbinhos Imbuídos de Elementos correspondentes"
         },
         "26": {
             "name": "Carga Rápida",
-            "desc": "Gargantuar Noz-Blindada de Tridente: Velocidade de recarga do tridente ×3"
+            "desc": "Devorador Muralha dos Tridentes: Velocidade de recarga do tridente ×3"
         },
         "27": {
             "name": "Bênção de Pozeidon",
-            "desc": "Gargantuar Noz-Blindada de Tridente: Recupera 10% da vida máxima ao lançar tridentes"
+            "desc": "Devorador Muralha dos Tridentes: Agora recupera 10% da vida máxima ao lançar tridentes"
         },
         "28": {
             "name": "Amortecedor de Choque",
-            "desc": "Zumbi Giga Meca-Noz: Nos primeiros 50 golpes, todos os zumbis recebem apenas 1 de dano"
+            "desc": "Zumbi Giga-Bolichetron: Nos primeiros 50 golpes, todos os zumbis recebem apenas 1 de dano"
         },
         "29": {
             "name": "Blindagem Reativa",
-            "desc": "Zumbi Giga Meca-Noz: Todos os zumbis ganham 0,2s de imunidade após cada golpe contra danos menores ou iguais ao anterior; ativa até 100 vezes"
+            "desc": "Zumbi Giga-Bolichetron: Todos os zumbis ganham 0.2s de imunidade a dano após cada golpe contra danos menores ou iguais ao anterior; ativa até 100 vezes"
         },
         "30": {
             "name": "Estouro da Manada",
-            "desc": "Zumbi Elefante de Guerra: Surge em grupos de 3"
+            "desc": "Elefante de Guerra Zumbi: Agora surge em grupos de 3"
         },
         "31": {
             "name": "Escolta Alfa",
-            "desc": "Zumbi Elefante de Guerra: Para cada um em campo, zumbis mini-chefes ganham +100 de Redução de Dano"
+            "desc": "Elefante de Guerra Zumbi: Para cada um em campo, zumbis mini-chefes ganham +100 no valor de redução de dano"
         },
         "32": {
             "name": "Revestimento Isolante",
-            "desc": "Brigada de Bobsleigh Chumbo-Grosso: Imune a manteiga e congelamento"
+            "desc": "Brigada de Zumbis Chumbervilha Blindado: Imune a manteiga e congelamento"
         },
         "33": {
             "name": "Entrada Relâmpago",
-            "desc": "Brigada de Bobsleigh Chumbo-Grosso: Entra no campo rapidamente, mas desacelera com o tempo"
+            "desc": "Brigada de Zumbis Chumbervilha Blindado: Entra no campo rapidamente, mas desacelera com o tempo"
         },
         "34": {
             "name": "Postura da Naja",
-            "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Rola uma vez imediatamente ao surgir"
+            "desc": "Zumbi All-Stars Acrobata Blindado e Zumbi Noz-Rúgbi Acrobata Blindado: Rola uma vez imediatamente ao surgir"
         },
         "35": {
             "name": "Perseguição Fervorosa",
-            "desc": "Zumbi Acrobata Giga Futebol e Zumbi Acrobata Giga Noz-de-Futebol: Causa ×2 de dano após rolar"
+            "desc": "Zumbi All-Stars Acrobata Blindado e Zumbi Noz-Rúgbi Acrobata Blindado: Causa dano 2× após rolar"
+        },
+        "36": {
+            "name": "Marcha dos Mortos",
+            "desc": "Zumbi Chumbervilha Blindado: Agora ignora plantas ao se mover"
+        },
+        "37": {
+            "name": "Maldição do Cavaleiro da Morte",
+            "desc": "Zumbi Chumbervilha Blindado: Agora dispara ervilhas de ferro amaldiçoadas em vez disso"
+        },
+        "38": {
+            "name": "Podre até os Ossos",
+            "desc": "Zumbi Arlequino Blindado: Acúmulos de maldição aplicados pela Caixa-Bomba ×2 e regenera uma Caixa-Bomba a cada 6s"
+        },
+        "39": {
+            "name": "Bomba Replicante",
+            "desc": "Zumbi Arlequino Blindado: Caixas-Bomba agora são imunes a desvios de Guarda-Chuvas e geram outro Zumbi Arlequino Blindado ao aterrissar"
+        },
+        "40": {
+            "name": "Investida Ampla",
+            "desc": "Zumbi Cavaleiro Negro Blindado: A investida agora aplica acúmulos de maldição a plantas em uma área de 3×3 quadrados"
+        },
+        "41": {
+            "name": "Inabalável",
+            "desc": "Zumbi Cavaleiro Negro Blindado: Todos os zumbis esmagadores agora recebem apenas metade da repulsão de plantas antiesmagamento"
         },
         "1000": {
             "name": "Apagão",
@@ -994,7 +1118,7 @@
         },
         "1003": {
             "name": "Praga Devastadora",
-            "desc": "Todas as suas plantas existentes têm 1/3 de chance de perecer (aplicado uma vez)"
+            "desc": "Todas as suas plantas existentes possuem 1/3 de chance de perecer (aplicado uma vez)"
         },
         "1004": {
             "name": "Crescimento Necrótico",
@@ -1002,7 +1126,7 @@
         },
         "1005": {
             "name": "Ressurreição",
-            "desc": "Todos os zumbis têm 1/3 de chance de reviver com a vida cheia ao morrer"
+            "desc": "Todos os zumbis possuem 1/3 de chance de reviver com vida cheia ao morrer"
         },
         "1006": {
             "name": "Mega Horda",
@@ -1010,15 +1134,15 @@
         },
         "1007": {
             "name": "Tropas Veteranas",
-            "desc": "O número máximo de zumbis em cada onda é reduzido pela metade, mas todos os zumbis têm ×2 de vida e ataque"
+            "desc": "O número máximo de zumbis em cada onda é reduzido pela metade, mas todos os zumbis possuem vida e Ataque ×2"
         },
         "1008": {
             "name": "Supressão de Cura",
-            "desc": "Toda a cura e escudos concedidos às plantas são reduzidos em 50%"
+            "desc": "Toda a cura e escudos concedidos a plantas são reduzidos em 50%"
         },
         "1009": {
             "name": "Dano Permanente",
-            "desc": "As plantas perdem vida máxima equivalente a 10% do dano recebido (até 40%, reiniciando entre as rodadas) ao sofrerem dano"
+            "desc": "Plantas perdem vida máxima equivalente a 10% do dano recebido (até 40%, reiniciando entre as rodadas) ao sofrerem dano"
         },
         "1010": {
             "name": "Inflação",
@@ -1026,163 +1150,163 @@
         },
         "1011": {
             "name": "Investida Incessante",
-            "desc": "O tempo antes da primeira onda de zumbis é reduzido para 5s, e o intervalo entre as ondas é reduzido para 15s"
+            "desc": "O tempo antes da primeira onda de zumbis é reduzido para 5s, e o intervalo entre as ondas de zumbis é reduzido para 15s"
         },
         "1012": {
-            "name": "Maldição do Orgulho",
-            "desc": "O ataque e a vida máxima das Plantas da Odisseia são reduzidos em 90%, mas todas as outras plantas passam a ter 40× de ataque e vida máxima, e 2× de velocidade de ataque"
+            "name": "Símbolo da Ruína",
+            "desc": "Todas as plantas recebem dano ×1.5"
         },
         "1013": {
             "name": "Poder do Belicista",
-            "desc": "Zumbis mini-chefes ganham um bônus de 30% de velocidade e vida máxima"
+            "desc": "Zumbis mini-chefes ganham um bônus de 30% de Velocidade e vida máxima"
         },
         "1014": {
             "name": "Ataque Total",
-            "desc": "Zumbis que não são mini-chefes ganham um bônus de 30% de velocidade e vida máxima"
+            "desc": "Zumbis que não são mini-chefes ganham um bônus de 30% de Velocidade e vida máxima"
         },
         "1015": {
             "name": "Fortaleza Voadora",
-            "desc": "Zumbis voadores agora têm 2× de vida máxima"
+            "desc": "Zumbis voadores agora possuem vida máxima ×2"
         },
         "1016": {
             "name": "Dano Colateral",
-            "desc": "Quando as plantas são destruídas, elas causam dano igual à sua vida máxima a outras plantas em uma área de 3×3"
+            "desc": "Quando plantas são destruídas, elas causam dano igual à sua vida máxima a outras plantas em uma área de 3×3 quadrados"
         },
         "1017": {
             "name": "Mutação em Massa",
-            "desc": "Todos os zumbis que não são da Odisseia passam a ter ×2 de vida e ataque, e ×1,5 de velocidade"
+            "desc": "Todos os zumbis que não são da Odisseia passam a ter vida e Ataque ×2, e Velocidade ×1.5"
         },
         "1018": {
             "name": "Diagnóstico Perdido",
-            "desc": "A exibição da vida das plantas agora será desativada"
+            "desc": "A exibição de vida das plantas será desativada"
         },
         "1019": {
             "name": "Névoa de Guerra",
-            "desc": "A exibição da vida dos zumbis agora será desativada"
+            "desc": "A exibição de vida dos zumbis será desativada"
         },
         "2000": {
             "name": "Crise",
-            "desc": "O Gigante Celestial aparecerá"
+            "desc": "O Devorador Celestial aparecerá"
         },
         "2001": {
             "name": "Crise",
-            "desc": "O Zumbi Jornaleiro com Metralhadora de Ruína aparecerá"
+            "desc": "O Zumbi Ruínatralhadora do Jornal aparecerá"
         },
         "2002": {
             "name": "Crise",
-            "desc": "O Disco D.A.M.P. aparecerá"
+            "desc": "O N.A.R.D aparecerá"
         },
         "2003": {
             "name": "Crise",
-            "desc": "O Atirador de Elite Alfa aparecerá"
+            "desc": "O Zumbi Franco-Atirador Alfa aparecerá"
         },
         "2004": {
             "name": "Crise",
-            "desc": "O Coronel Cavaleiro Azeitona-Negra com Metralhadora aparecerá"
+            "desc": "O Zumbi Cavaleiro Negro Abissal Blindado aparecerá"
         },
         "2005": {
             "name": "Crise",
-            "desc": "O Zumbi Acrobata Noz-Rúgbi Gigante aparecerá"
+            "desc": "O Zumbi Noz-Rúgbi Acrobata Blindado aparecerá"
         },
         "3000": {
             "name": "Nêmesis",
-            "desc": "O Gigante de Obsidiana Supremo aparecerá como um Mini-chefe"
+            "desc": "O Devorador Abissal aparecerá como um Mini-chefe"
         },
         "3001": {
             "name": "Protocolo Zumbão",
-            "desc": "Gigante de Obsidiana Supremo: Invoca o Dr. Zumbão ao morrer"
+            "desc": "Devorador Abissal: Invoca o Dr. Zumbi Rei ao morrer"
         },
         "3002": {
             "name": "Nêmesis",
-            "desc": "A Arca do Pato do Imperor aparecerá como um Mini-chefe"
+            "desc": "O Pato Dourado do Imperador aparecerá como um Mini-chefe"
         },
         "3003": {
             "name": "Resiliência Real",
-            "desc": "Arca do Pato do Imperor: Agora recupera 500 de vida toda vez que esquiva de um ataque"
+            "desc": "Pato Dourado do Imperador: Agora recupera 500 de vida toda vez que esquiva de um ataque"
         },
         "3004": {
             "name": "Nêmesis",
-            "desc": "O Palco Itinerante Dançarino Supremo aparecerá como um Mini-chefe"
+            "desc": "O Zumbi Turnê Mundial aparecerá como um Mini-chefe"
         },
         "3005": {
             "name": "Dança das Sombras",
-            "desc": "Palco Itinerante Dançarino Supremo: Agora ganha 50% de redução de dano recebido"
+            "desc": "Zumbi Turnê Mundial: Agora ganha 50% de redução de dano recebido"
         },
         "3006": {
             "name": "Nêmesis",
-            "desc": "O General Azeitona-Negra Supremo aparecerá como um Mini-chefe"
+            "desc": "O Zumbi Quarterback Blindado aparecerá como um Mini-chefe"
         },
         "3007": {
             "name": "Pico de Adrenalina",
-            "desc": "General Azeitona-Negra Supremo: Agora ganha bônus 2× mais rápido"
+            "desc": "Zumbi Quarterback Blindado: Agora ganha bônus 2× mais rápido"
         },
         "3008": {
             "name": "Nêmesis",
-            "desc": "O Tridente Abissal Supremo aparecerá como um Mini-chefe"
+            "desc": "O Zumbi Pozeidon aparecerá como um Mini-chefe"
         },
         "3010": {
             "name": "Nêmesis",
-            "desc": "A Bola de Boliche Mecânica Suprema aparecerá como um Mini-chefe"
+            "desc": "O Zumbi Giga-Bolichetron aparecerá como um Mini-chefe"
         },
         "3012": {
             "name": "Nêmesis",
-            "desc": "O Mecha Fende-Céus Tipo Peixe Supremo aparecerá como um Mini-chefe"
+            "desc": "A Artilharia Classe-Kirov aparecerá como um Mini-chefe"
         },
         "3014": {
             "name": "Nêmesis",
-            "desc": "O Professor Z Supremo aparecerá como um Mini-chefe"
+            "desc": "O Professor Zerejaz aparecerá como um Mini-chefe"
         },
         "3016": {
             "name": "Nêmesis",
-            "desc": "A Rainha Caixa-Surpresa Suprema aparecerá como um Mini-chefe"
+            "desc": "A Zumbi Rainha Palhaça aparecerá como um Mini-chefe"
         },
         "3018": {
             "name": "Nêmesis",
-            "desc": "O Esquadrão de Assassinos Ômega aparecerá como um Mini-chefe"
+            "desc": "O Zumbi Esquadrão Omega aparecerá como um Mini-chefe"
         },
         "3020": {
             "name": "Nêmesis",
-            "desc": "O Grande Marechal Azeitona Preta Supremo aparecerá como um Mini-chefe"
+            "desc": "O Arquiduque Chumbervilha Blindado aparecerá como um Mini-chefe"
         },
         "3021": {
             "name": "Ascensão Sombria",
-            "desc": "Grande Marechal Azeitona Preta Supremo: Transforma sua montaria em uma foice e aprimora significativamente suas habilidades após desmontar."
+            "desc": "Arquiduque Chumbervilha Blindado: Transforma seu cavalo de guerra em uma foice e aprimora significativamente suas habilidades após desmontar."
         },
         "3022": {
             "name": "Nêmesis",
-            "desc": "O Dragão Milenar e Guardião aparecerá como um Mini-chefe"
+            "desc": "O Dragão Milenar e o Defensor aparecerá como um Mini-chefe"
         },
         "3024": {
             "name": "Nêmesis",
-            "desc": "O Cavaleiro da Cerasocetus Supremo aparecerá como um Mini-chefe"
+            "desc": "O Megazubarão Biônico Domado aparecerá como um Mini-chefe"
         },
         "3026": {
             "name": "Nêmesis",
-            "desc": "O Rei Lírio Necrótico aparecerá como um Mini-chefe"
+            "desc": "O Rei Necrotera aparecerá como um Mini-chefe"
         },
         "4000": {
             "name": "Presença Majestosa",
-            "desc": "O Gigante de Obsidiana Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Devorador Abissal concede +400 no valor de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4001": {
             "name": "Presença Majestosa",
-            "desc": "A Arca do Pato do Imperor concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Pato Dourado do Imperador concede +400 no valor de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4002": {
             "name": "Presença Majestosa",
-            "desc": "O General Azeitona-Negra Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Zumbi Quarterback Blindado concede +400 no valor de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4003": {
             "name": "Presença Majestosa",
-            "desc": "O Palco Itinerante Dançarino Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Zumbi Turnê Mundial concede +400 no valor de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "4004": {
             "name": "Presença Majestosa",
-            "desc": "O Grande Marechal Azeitona Preta Supremo concede +400 de valor de redução de dano a todos os zumbis enquanto estiver em campo"
+            "desc": "O Arquiduque Chumbervilha Blindado concede +400 no valor de redução de dano a todos os zumbis enquanto estiver em campo"
         },
         "5000": {
             "name": "Anticorpo Adquirido",
-            "desc": "Zumbis ganham imunidade a efeitos de controle/atraso por 3s após ficarem continuamente sob qualquer efeito desse tipo por 5s"
+            "desc": "Zumbis ganham imunidade a efeitos de lentidão e controle por 3s após ficarem continuamente sob qualquer efeito desse tipo por 5s"
         },
         "5001": {
             "name": "Espiral de Fúria",
@@ -1190,85 +1314,265 @@
         },
         "5002": {
             "name": "Resposta à Dor",
-            "desc": "Zumbis ganham valor de redução de dano igual a 1% do dano recebido ao sofrerem mais de 100 de dano, até +1000 de valor de redução de dano"
+            "desc": "Zumbis ganham valor de redução de dano igual a 1% do dano recebido ao sofrerem mais de 100 de dano, até +1000 no valor de redução de dano"
         },
         "5003": {
             "name": "Contra-ataque",
-            "desc": "Zumbis devolvem 100% do dano às plantas quando esquivam de um ataque, com tempo de recarga de 0,2s"
+            "desc": "Zumbis causam 100% de dano de volta às plantas quando esquivam de um ataque, com tempo de recarga de 0.2s"
         },
         "5004": {
             "name": "Marca da Ruína",
-            "desc": "Quando um zumbi causa dano de esmagamento a uma planta, ela ganha acúmulos de maldição iguais a [1% × (vida da planta + resistência da planta) / 2]"
+            "desc": "Quando um zumbi causa dano de esmagamento a uma planta, ela ganha acúmulos de maldição iguais a [1% × (vida da planta + Resistência da planta) / 2]"
+        },
+        "10000": {
+            "name": "Azarado",
+            "desc": "Perca 75 pontos de Sorte"
+        },
+        "10001": {
+            "name": "Reencarnação: Tiryak",
+            "desc": "Zumbis no 1º ciclo de reencarnação têm 20% a mais de vida e Velocidade"
+        },
+        "10002": {
+            "name": "Reencarnação: Preta",
+            "desc": "Zumbis no 2º ciclo de reencarnação têm 40% a mais de vida e 25% a mais de Velocidade"
+        },
+        "10003": {
+            "name": "Reencarnação: Naraka",
+            "desc": "Zumbis no 3º ciclo de reencarnação têm 60% a mais de vida e 30% a mais de Velocidade"
+        },
+        "10004": {
+            "name": "Crise de Nêmesis",
+            "desc": "Mini-chefes aparecerão aleatoriamente durante grandes ondas a partir da onda 50"
+        },
+        "10005": {
+            "name": "Período de Desgraça",
+            "desc": "Plantas só podem causar 1 de dano a zumbis nos primeiros 2 segundos após uma nova onda aparecer"
+        },
+        "10006": {
+            "name": "Maldição da Inveja",
+            "desc": "O tipo de planta com a maior quantidade de dano cumulativo causa apenas 85% de dano, outras plantas causam 105% de dano"
+        },
+        "10007": {
+            "name": "Via Rápida de Especialistas",
+            "desc": "A partir da onda 8, nas primeiras 50 ondas da fase, um zumbi que normalmente só aparece nas ondas 38 a 88 será gerado aleatoriamente"
+        },
+        "10008": {
+            "name": "Conjunto Zumbi",
+            "desc": "Zumbis que não são mini-chefes têm chance de gerar uma cópia de si mesmos ao surgirem; essa chance aumenta conforme a onda progride"
+        },
+        "10009": {
+            "name": "Sacrifício Zumbi",
+            "desc": "Zumbis que não são mini-chefes têm chance de desaparecer imediatamente ao surgirem e conceder a outro zumbi 80% de sua vida; essa chance aumenta conforme a onda progride"
+        },
+        "10010": {
+            "name": "Hibernação",
+            "desc": "Plantas são congeladas por 2s após ressurgirem"
+        },
+        "10011": {
+            "name": "Nocaute Pesado",
+            "desc": "Plantas levam 1.5× mais tempo para ressurgir"
+        },
+        "10012": {
+            "name": "Explosão Cam-cerebral",
+            "desc": "O intervalo de evolução dos zumbis é reduzido para 4 ondas"
+        },
+        "10013": {
+            "name": "O Grande Roubo de Cortadores",
+            "desc": "Cortadores de grama são desativados"
+        },
+        "10014": {
+            "name": "Mal Insidioso",
+            "desc": "Quando uma planta desaparece, um zumbi aleatório é gerado em seu local com bônus de vida"
+        },
+        "10015": {
+            "name": "Hora do Show de Jackson",
+            "desc": "Conforme a onda progride, zumbis especiais Michael têm chances crescentes de aparecer"
+        },
+        "10016": {
+            "name": "Ataque Coordenado",
+            "desc": "Zumbis extras de outras rotas têm chance de aparecer a cada nova onda; essa chance aumenta conforme a onda progride"
+        },
+        "10017": {
+            "name": "A Ruína do Herói",
+            "desc": "A planta com mais Modificadores tem seu bônus de dano independente reduzido em 1% a cada nova onda, até o mínimo de 0"
+        },
+        "10018": {
+            "name": "Contra-golpe",
+            "desc": "Quando zumbis recebem dano, eles disparam um projétil de ervilha do lado dos zumbis com dano igual a 10% do poder de ataque do zumbi (pelo menos 20) contra as plantas; isso pode ativar no máximo 10 vezes a cada 0.02s"
+        },
+        "10019": {
+            "name": "O Retorno dos Capangas",
+            "desc": "A partir da onda 51, 5 zumbis que normalmente só aparecem nas ondas 1 a 50 serão gerados aleatoriamente, mas com bônus de 10× de vida e 2× de Velocidade"
+        },
+        "10020": {
+            "name": "Desejo Pedante",
+            "desc": "Conforme a onda progride, zumbis especiais do Jornal têm chances crescentes de aparecer"
+        },
+        "10021": {
+            "name": "Esporte Radical",
+            "desc": "Conforme a onda progride, zumbis especiais Bungee têm chances crescentes de aparecer"
+        },
+        "10022": {
+            "name": "Empréstimo da Sorte",
+            "desc": "Ganhe 75 pontos de Sorte, mas perca 1 ponto de Sorte a cada onda a partir da 50ª"
+        },
+        "10023": {
+            "name": "Necrópole",
+            "desc": "3 colunas de lápides aparecerão no gramado no início de cada rodada"
+        },
+        "10024": {
+            "name": "Arrancada Nitro",
+            "desc": "3 zumbis aleatórios recebem um bônus de 100% de velocidade a cada onda após os zumbis surgirem"
+        },
+        "10025": {
+            "name": "Odor Pútrido",
+            "desc": "Todas as plantas no campo recebem uma maldição igual a 5% da vida máxima a cada 3s"
+        },
+        "10026": {
+            "name": "Graal Profano",
+            "desc": "Zumbis que não são mini-chefes têm chance de renascer como outro zumbi na coluna mais à direita da mesma linha ao serem mortos; essa chance aumenta conforme a onda progride"
+        },
+        "10027": {
+            "name": "Dano Real",
+            "desc": "Quando as plantas recebem dano, elas recebem um dano verdadeiro adicional igual a 30% do dano original"
+        },
+        "10028": {
+            "name": "Suga-Cura",
+            "desc": "Quando as plantas se curam, elas também curam um zumbi aleatório em 25% da vida máxima; essa cura pode exceder o máximo"
+        },
+        "10029": {
+            "name": "Toque do Caos",
+            "desc": "Suas plantas são movidas para posições aleatórias a cada nova onda de zumbis"
+        },
+        "10030": {
+            "name": "Apocalipse Crescente",
+            "desc": "O intervalo entre ondas é reduzido, e cada onda tem chance de ativar a próxima imediatamente"
+        },
+        "10031": {
+            "name": "Detonação Desesperada",
+            "desc": "Zumbis que não são mini-chefes têm chance de se autoexplodirem quando estiverem com menos de 10% da vida máxima"
+        },
+        "10032": {
+            "name": "Berrante do Poder",
+            "desc": "Todos os zumbis no gramado recebem 20% de bônus de vida e Velocidade quando uma nova onda surge"
+        },
+        "10033": {
+            "name": "Presença Suprema",
+            "desc": "Chefes recebem um bônus de 30% de vida, e os zumbis invocados por eles recebem um bônus de 60% de vida"
+        },
+        "10034": {
+            "name": "Pequeno mas Ágil",
+            "desc": "Zumbis que não são chefes têm 30% a menos de vida máxima e tamanho, mas são 200% mais rápidos"
+        },
+        "10035": {
+            "name": "Zumbis Inchados",
+            "desc": "Zumbis que não são chefes têm 60% a mais de vida máxima e tamanho, mas sua velocidade é reduzida em 50%"
+        },
+        "10036": {
+            "name": "Estética Barata",
+            "desc": "Aumenta os efeitos de Modificadores de Bronze e Prata em 10%, enquanto Modificadores de Ouro e Diamante têm os seus reduzidos em 30%"
+        },
+        "10037": {
+            "name": "Estética Exigente",
+            "desc": "Aumenta os efeitos de Modificadores de Ouro e Diamante em 10%, enquanto Modificadores de Bronze e Prata têm os seus reduzidos em 30%"
+        },
+        "10038": {
+            "name": "Toque de Midas",
+            "desc": "Quando fora do sistema de piedade, todos os Modificadores que seriam de qualidade Diamante são substituídos pelos correspondentes de qualidade Ouro em vez disso"
+        },
+        "10039": {
+            "name": "Poder nos Números",
+            "desc": "Quando você tiver 0/1/2/3/4/5/6 ou mais plantas no campo, zumbis recebem 75%/80%/85%/90%/95%/100%/105% de dano respectivamente"
+        },
+        "10040": {
+            "name": "Fresta Prateada",
+            "desc": "Quando fora do sistema de piedade, Modificadores com diferentes níveis de qualidade aparecem apenas na qualidade Prata; se você também possuir Toque de Midas, Modificadores de qualidade Ouro e Diamante são rebaixados para a qualidade Bronze em vez disso"
+        },
+        "10041": {
+            "name": "Era Nyan",
+            "desc": "Zumbis têm chance de desaparecer imediatamente ao surgirem e gerarem um Zumbi Esmagatona com a sua vida; essa chance aumenta conforme a onda progride"
+        },
+        "10042": {
+            "name": "Morte Lenta",
+            "desc": "0.5s é adicionado ao tempo de recarga de plantio toda vez que uma planta sua morre"
+        },
+        "10043": {
+            "name": "Penalidade por Hesitação",
+            "desc": "Perca 25 pontos de Sorte toda vez que re-sortear Modificadores"
+        },
+        "10044": {
+            "name": "Caprichos do Destino",
+            "desc": "Receba aleatoriamente de -27 a -33 pontos de Sorte a cada sorteio de Modificador"
         }
     },
     "unlocks": {
         "0": {
             "name": "",
-            "desc": "Desbloqueie Cerejazilla: Carnívorazilla + Explosívora\ne sua subespécie Alhozilla"
+            "desc": "Desbloqueie Cerejazilla: Carnívorazilla + Explosívora\ne sua subespécie Alhozilla\nConversão: Cerejas-Bomba <-> Alho"
         },
         "1": {
             "name": "",
-            "desc": "Desbloqueie Metralhabombas: Metralhacerejas + Disparabombas\ne sua subespécie Bombardeiro Cerejeiro"
+            "desc": "Desbloqueie Metralhabombas: Metralhacerejas + Disparabombas\ne sua subespécie Bombardeiro Cerejeiro\nConversão: Pá <-> Turbinada"
         },
         "2": {
             "name": "",
-            "desc": "Desbloqueie Cataclismogumelo: Trevagumelo + Calafriogumelo\ne sua subespécie Cactaclísmico"
+            "desc": "Desbloqueie Cataclismogumelo: Trevagumelo + Calafriogumelo\ne sua subespécie Cactaclísmico\nConversão: Gasogumelo <-> Cacto"
         },
         "3": {
             "name": "",
-            "desc": "Desbloqueie Tronco Infernal: Esquentador + Tronco Incendiário\ne sua subespécie Estrela Ardente"
+            "desc": "Desbloqueie Tronco Infernal: Esquentador + Tronco Incendiário\ne sua subespécie Estrela Ardente\nConversão: Esmagador <-> Carambola"
         },
         "4": {
             "name": "",
-            "desc": "Desbloqueie Supernova: Estrela Polar + Eletrocacto\ne sua subespécie Singularizada"
+            "desc": "Desbloqueie Supernova: Estrela Polar + Eletrocacto\ne sua subespécie Singularizada\nConversão: Carambola <-> Turbinada"
         },
         "5": {
             "name": "",
-            "desc": "Desbloqueie Colapsogumelo: Trevagumelo + Geadagumelo\ne sua subespécie Trevanterna"
+            "desc": "Desbloqueie Colapsogumelo: Trevagumelo + Geadagumelo\ne sua subespécie Trevanterna\nConversão: Góticogumelo <-> Planterna"
         },
         "6": {
             "name": "",
-            "desc": "Desbloqueie Definhapulta: Saladapulta + Bulbopulta\ne sua subespécie Definhazinha"
+            "desc": "Desbloqueie Definhapulta: Saladapulta + Bulbopulta\ne sua subespécie Definhazinha\nConversão: Melancipulta + Soprogumelo (×3) <-> Soprogumelo"
         },
         "7": {
             "name": "",
-            "desc": "Desbloqueie Canhão Obliterador: Canhão de Gelo + Glacialgumelo\ne sua subespécie Canhão Citrulador"
+            "desc": "Desbloqueie Canhão Obliterador: Canhão de Gelo + Glacialgumelo\ne sua subespécie Canhão Citrulador\nConversão: Milhopulta <-> Melancipulta"
         },
         "8": {
             "name": "",
-            "desc": "Desbloqueie Noz-Obsidiana: Noz-Gelada + Noz-Flamejante\ne sua subespécie Obsidimina"
+            "desc": "Desbloqueie Noz-Obsidiana: Noz-Alta Gelada + Noz-Alta Flamejante\ne sua subespécie Obsidimina\nConversão: Noz-Gigante <-> Batatamina"
         },
         "9": {
             "name": "",
-            "desc": "Desbloqueie Galãgumelo: Charmegumelo + Atratogumelo\ne sua subespécie Abóbora Charmosa"
+            "desc": "Desbloqueie Galãgumelo: Charmegumelo + Atratogumelo\ne sua subespécie Abóbora Charmosa\nConversão: Pá <-> Usar a Luva com Galãgumelo sobre uma Abóbora"
         },
         "10": {
             "name": "",
-            "desc": "Desbloqueie Torretobsidiana: Torretervilha + Pimenta Obsidiana\ne sua subespécie Torretalaser"
+            "desc": "Desbloqueie Torretobsidiana: Torretervilha + Pimenta Obsidiana\ne sua subespécie Torretalaser\nConversão: Disparervilha <-> Franco-Disparevilha"
         },
         "11": {
             "name": "",
-            "desc": "Desbloqueie Reipolho Divino: Solarpulta + Repolho Dourado\ne sua subespécie Repolhinha Divina"
+            "desc": "Desbloqueie Reipolho Divino: Solarpulta + Repolho Dourado\ne sua subespécie Repolhinha Divina\nConversão: Girassol <-> Planterna"
         },
         "12": {
             "name": "",
-            "desc": "Desbloqueie Abóbora Laser: Aerocactóbora + Magnetizada\ne sua subespécie Abóbora Escarlate"
+            "desc": "Desbloqueie Abóbora Laser: Aerocactóbora + Magnetizada\ne sua subespécie Abóbora Escarlate\nConversão: Cacto <-> Cerejas-Bomba"
         },
         "13": {
             "name": "",
-            "desc": "Desbloqueie Vulcânicogumelo: Ardelancipulta + Rúgbigumelo\ne sua subespécie Magmagumelo"
+            "desc": "Desbloqueie Vulcânicogumelo: Ardelancipulta + Rúgbigumelo\ne sua subespécie Magmagumelo\nConversão: Milhopulta <-> Melancipulta"
         },
         "14": {
             "name": "",
-            "desc": "Desbloqueie Emaranhidra Dourada: Calêndulas Gêmeas > Emaranhidra"
+            "desc": "Desbloqueie Emaranhidra Dourada: Calêndulas Gêmeas > Emaranhidra\ne sua subespécie Emaranhidra Dourada Caixa Surpresa Suprema\nConversão: Planta Presente <-> Zumbi Presente"
         },
         "15": {
             "name": "",
-            "desc": "Desbloqueie Cronomilho Celestial: Milhinho ×3 + Cosmilhopulta\ne sua subespécie Cronoz Celestial"
+            "desc": "Desbloqueie Cronomilho Celestial: Milhinho ×3 + Cosmilhopulta\ne sua subespécie Cronoz Celestial\nConversão: Milhopulta <-> Noz-Obstáculo"
         },
         "16": {
             "name": "",
-            "desc": "Desbloqueie Abetalâmina Ártica: Pinheiro Invernal + Lotusarqueiro\ne sua subespécie Cone Broto-de-Inverno Supremo"
+            "desc": "Desbloqueie Pinheilâmina Ártica: Pinheiro Invernal + Lotusarqueiro\ne sua subespécie Broto de Laminatus\nConversão: Pinheirarqueiro <-> Broto de Bambu"
         },
         "17": {
             "name": "",
@@ -1276,7 +1580,7 @@
         },
         "18": {
             "name": "",
-            "desc": "Desbloqueie Canhão Incinerador: Canhão de Magma + Míssil Picante\ne sua subespécie Repolhadeiro Vulcânico"
+            "desc": "Desbloqueie Canhão Incinerador: Canhão de Magma + Míssil Picante\ne sua subespécie Repolhadeiro Vulcânico\nConversão: Milhopulta <-> Repolhopulta"
         },
         "19": {
             "name": "",
@@ -1284,11 +1588,11 @@
         },
         "20": {
             "name": "",
-            "desc": "Desbloqueie Nebulancia: Gelancipulta + Cosmolância\ne sua subespécie Ruínagumelo Deus do Gelo Supremo"
+            "desc": "Desbloqueie Nebulancia: Gelancipulta + Cosmolância\ne sua subespécie Temporínagumelo Glacial\nConversão: Melancipulta <-> Ruínagumelo"
         },
         "21": {
             "name": "",
-            "desc": "Desbloqueie Labareda de Leão: Brasa de Gato + Míssil Picante\ne sua subespécie Deucaliãogumelo"
+            "desc": "Desbloqueie Labareda de Leão: Brasa de Gato + Míssil Picante\ne sua subespécie Deucalirinho\nConversão: Rabo de Gato <-> Cogumarinho"
         },
         "22": {
             "name": "",
@@ -1296,19 +1600,23 @@
         },
         "23": {
             "name": "",
-            "desc": "Desbloqueie Pimenta do Ressurgimento: Pimenta Obsidiana + Pimenta Obsidiana\ne sua subespécie Cogu-pimentinha de Obsidiana Supremo"
+            "desc": "Desbloqueie Pimenta do Ressurgimento: Pimenta Obsidiana + Pimenta Obsidiana\ne sua subespécie Pimentinha Dura-De-Roer\nConversão: Unibérculo + Soprogumelo (×3) <-> Soprogumelo"
         },
         "24": {
             "name": "",
-            "desc": "Desbloqueie Disparervilha Cintilante Suprema: Bidisparalasers + Plasmervilha\ne sua subespécie Disparervilha Eclipse Suprema"
+            "desc": "Desbloqueie Bidisparalaser de Fótons: Bidisparalaser + Plasmervilha\ne sua subespécie Matériervilha-Negra\nConversão: Planterna <-> Alho"
         },
         "25": {
             "name": "",
-            "desc": "Desbloqueie Metralhervilha Azeitona Preta Suprema: Rúgbi-Tralhadora + Metalervilha\ne sua subespécie Disparervilha Atiradora de Elite Hiperespacial Suprema"
+            "desc": "Desbloqueie Coronel Chumbervilha: Rúgbi-Tralhadora + Metalgumelo\ne sua subespécie Franco-Cosmervilha\nConversão: Capacete de Futebol Americano <-> Núcleo Temporal"
         },
         "26": {
             "name": "",
-            "desc": "Desbloqueie Noz-Colosso de Obsidiana: Pimenta Obsidiana > Noz-Muralha"
+            "desc": "Desbloqueie Noz-Muralha de Obsidiana: Pimenta Obsidiana > Noz-Muralha"
+        },
+        "27": {
+            "name": "",
+            "desc": "Desbloqueie Aquecinheiro Supremo: Aquecialótus Vera + Aloe Líquen"
         }
     },
     "investmentBuffs": {
@@ -1322,7 +1630,7 @@
         },
         "2": {
             "name": "",
-            "desc": "Ao final de cada rodada, ganhe 1,5k pontos e +5% de vida máxima para todas as suas plantas se nenhuma delas chegou a 0 de vida nesta rodada"
+            "desc": "Ao final de cada rodada, ganhe 1.5k pontos e +5% de vida máxima para todas as suas plantas se nenhuma delas chegou a 0 de vida nesta rodada"
         },
         "3": {
             "name": "",
@@ -1370,115 +1678,115 @@
         },
         "1000": {
             "name": "",
-            "desc": "<color=#AF4900>Remove com a pá todas as suas plantas, mas seu Sol é dobrado, e no início de cada rodada todas as plantas ganham Escudo igual ao custo total em Sol das plantas removidas"
+            "desc": "<color=#AF4900>Remove com a pá todas as suas plantas, mas seu Sol é dobrado, e no início de cada rodada todas as plantas ganham Escudo igual ao custo total em Sol das plantas removidas</color>"
         },
         "1001": {
             "name": "",
-            "desc": "<color=#AF4900>Remove com a pá todas as suas plantas, mas seu Sol é dobrado, e os pacotes de sementes não terão tempo de recarga nesta rodada"
+            "desc": "<color=#AF4900>Remove com a pá todas as suas plantas, mas seu Sol é dobrado, e os pacotes de sementes não terão tempo de recarga nesta rodada</color>"
         },
         "1002": {
             "name": "",
-            "desc": "<color=#AF4900>Suas equipes ganham 18% de chance de acerto crítico"
+            "desc": "<color=#AF4900>Suas equipes ganham 18% de chance de acerto crítico</color>"
         },
         "1003": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada, suas plantas ganham 3% a mais de vida e 6% a mais de dano de ataque para cada tipo de planta no gramado"
+            "desc": "<color=#AF4900>No início de cada rodada, suas plantas ganham 3% a mais de vida e 6% a mais de dano de ataque para cada tipo de planta no gramado</color>"
         },
         "1004": {
             "name": "",
-            "desc": "<color=#AF4900>O tipo de planta que causar mais dano causará 40% de dano adicional e suas equipes também causarão 10% a mais de dano"
+            "desc": "<color=#AF4900>O tipo de planta que causar mais dano causará 40% de dano adicional e suas equipes também causarão 10% a mais de dano</color>"
         },
         "1005": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada, a planta comum mais à esquerda em cada fileira ganha um bônus de 150% de velocidade de ataque, mas no início de cada onda, ela recebe dano igual a 1000% de sua vida máxima"
+            "desc": "<color=#AF4900>No início de cada rodada, a planta comum mais à esquerda em cada linha ganha um bônus de 150% de velocidade de ataque, mas no início de cada onda, ela recebe dano igual a 1000% de sua vida máxima</color>"
         },
         "1006": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada, a planta comum mais à esquerda em cada fileira ganha um bônus de dano igual a 0,1% da vida máxima da planta comum mais à direita, e a planta comum mais à direita ganha vida máxima igual a 1000% do dano da planta comum mais à esquerda"
+            "desc": "<color=#AF4900>No início de cada rodada, a planta comum mais à esquerda em cada linha ganha um bônus de dano igual a 0.1% da vida máxima da planta comum mais à direita, e a planta comum mais à direita ganha vida máxima igual a 1000% do dano da planta comum mais à esquerda</color>"
         },
         "1007": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada, suas equipes ganham 25% de chance de acerto crítico e 30% a menos de vida máxima"
+            "desc": "<color=#AF4900>No início de cada rodada, suas equipes ganham 25% de chance de acerto crítico e 30% a menos de vida máxima</color>"
         },
         "1008": {
             "name": "",
-            "desc": "<color=#AF4900>Suas equipes ganham 10% de chance de acerto crítico. No início de cada rodada, essa chance aumenta em 1%"
+            "desc": "<color=#AF4900>Suas equipes ganham 10% de chance de acerto crítico. No início de cada rodada, essa chance aumenta em 1%</color>"
         },
         "1009": {
             "name": "",
-            "desc": "<color=#AF4900>Suas equipes ganham um bônus de 10% de dano de ataque. No início de cada rodada, se houver 200 ou mais plantas em suas equipes, todas as plantas ganham um bônus adicional de 50% de dano de ataque"
+            "desc": "<color=#AF4900>Suas equipes ganham um bônus de 10% de dano de ataque. No início de cada rodada, se houver 200 ou mais plantas em suas equipes, todas as plantas ganham um bônus adicional de 50% de dano de ataque</color>"
         },
         "1010": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada e agora, ganhe 1,5k pontos e uma rerrolagem extra"
+            "desc": "<color=#AF4900>No início de cada rodada e agora, ganhe 1.5k pontos e uma rerrolagem extra</color>"
         },
         "1011": {
             "name": "",
-            "desc": "<color=#AF4900>No início de cada rodada, promove uma planta aleatória que não seja da Odisseia para o Nível 2"
+            "desc": "<color=#AF4900>No início de cada rodada, promove uma planta aleatória que não seja da Odisseia para o Nível 2</color>"
         },
         "1012": {
             "name": "",
-            "desc": "<color=#AF4900>Você ganha uma Planta Presente toda vez que realiza uma fusão"
+            "desc": "<color=#AF4900>Você ganha uma Planta Presente toda vez que realiza uma fusão</color>"
         },
         "1013": {
             "name": "",
-            "desc": "<color=#AF4900>Suas plantas causam 40% a mais de dano na última metade (50%) da rodada"
+            "desc": "<color=#AF4900>Suas plantas causam 40% a mais de dano na última metade (50%) da rodada</color>"
         },
         "2000": {
             "name": "",
-            "desc": "<color=#007FFF>Suas equipes ganham 25% de chance de acerto crítico. Elas também ganham uma chance igual a 30% de sua taxa crítica de reduzir qualquer dano recebido para 1"
+            "desc": "<color=#007FFF>Suas equipes ganham 25% de chance de acerto crítico. Elas também ganham uma chance igual a 30% de sua taxa crítica de reduzir qualquer dano recebido para 1</color>"
         },
         "2001": {
             "name": "",
-            "desc": "<color=#007FFF>Suas equipes ganham 25% de redução de dano e chance de acerto crítico igual à sua taxa de redução de dano"
+            "desc": "<color=#007FFF>Suas equipes ganham 25% de redução de dano e chance de acerto crítico igual à sua taxa de redução de dano</color>"
         },
         "2002": {
             "name": "",
-            "desc": "<color=#007FFF>No início de cada rodada, cada planta tem 50% de chance de ganhar um bônus de 100% de dano de ataque"
+            "desc": "<color=#007FFF>No início de cada rodada, cada planta tem 50% de chance de ganhar um bônus de 100% de dano de ataque</color>"
         },
         "2003": {
             "name": "",
-            "desc": "<color=#007FFF>Suas equipes ganham um bônus permanente de 8% de dano de ataque toda vez que um Mini-chefe é derrotado"
+            "desc": "<color=#007FFF>Suas equipes ganham um bônus permanente de 8% de dano de ataque toda vez que um Mini-chefe é derrotado</color>"
         },
         "2004": {
             "name": "",
-            "desc": "<color=#007FFF>No início de cada rodada, promove uma planta aleatória que não seja da Odisseia para o Nível 3"
+            "desc": "<color=#007FFF>No início de cada rodada, promove uma planta aleatória que não seja da Odisseia para o Nível 3</color>"
         },
         "2005": {
             "name": "",
-            "desc": "<color=#007FFF>Aumenta a chance de acerto crítico de suas equipes em 30%. Se a chance de crítico estiver acima de 100%, o dano crítico é aumentado em 40%"
+            "desc": "<color=#007FFF>Aumenta a chance de acerto crítico de suas equipes em 30%. Se a chance de crítico estiver acima de 100%, o dano crítico é aumentado em 40%</color>"
         },
         "2006": {
             "name": "",
-            "desc": "<color=#007FFF>Um Lírio Flamejante super raro contendo uma tonelada de Pontos aparece (você ganha 20k Pontos)"
+            "desc": "<color=#007FFF>Um Lírio Flamejante super raro contendo uma tonelada de Pontos aparece (você ganha 20k Pontos)</color>"
         },
         "2007": {
             "name": "",
-            "desc": "<color=#007FFF>Ganhe imediatamente 5k pontos. A partir de agora, você ganha 3k pontos se entrar na próxima rodada sem comprar nada na Loja"
+            "desc": "<color=#007FFF>Ganhe imediatamente 5k pontos. A partir de agora, você ganha 3k pontos se entrar na próxima rodada sem comprar nada na Loja</color>"
         },
         "2008": {
             "name": "",
-            "desc": "<color=#007FFF>Você tem 45% de chance de ganhar uma rerrolagem extra ao rerrolar"
+            "desc": "<color=#007FFF>Você tem 45% de chance de ganhar uma rerrolagem extra ao rerrolar</color>"
         },
         "2009": {
             "name": "",
-            "desc": "<color=#007FFF>No início de cada rodada, ganhe 2k pontos"
+            "desc": "<color=#007FFF>No início de cada rodada, ganhe 2k pontos</color>"
         },
         "2010": {
             "name": "",
-            "desc": "<color=#007FFF>No início de cada rodada, ganhe uma Imitadora Estelar. Se usada em uma planta com forma Estelar, ela se transforma na variante Estelar dessa planta"
+            "desc": "<color=#007FFF>No início de cada rodada, ganhe uma Imitadora Estelar. Se usada em uma planta com forma Estelar, ela se transforma na variante Estelar dessa planta</color>"
         },
         "2011": {
             "name": "",
-            "desc": "<color=#007FFF>Ganhe 500 pontos toda vez que rerrolar na Loja ou ao selecionar Modificadores de Zumbi"
+            "desc": "<color=#007FFF>Ganhe 500 pontos toda vez que rerrolar na Loja ou ao selecionar Modificadores de Zumbi</color>"
         },
         "2012": {
             "name": "",
-            "desc": "<color=#007FFF>Zere todos os seus pontos atuais. Para cada 1k pontos zerados, suas plantas ganham 1% de chance de acerto crítico"
+            "desc": "<color=#007FFF>Zere todos os seus pontos atuais. Para cada 1k pontos zerados, suas plantas ganham 1% de chance de acerto crítico</color>"
         },
         "2013": {
             "name": "",
-            "desc": "<color=#007FFF>Apenas nesta rodada, você ganha 10k pontos e vence a rodada se um zumbi entrar na sua casa"
+            "desc": "<color=#007FFF>Apenas nesta rodada, você ganha 10k pontos e vence a rodada se um zumbi entrar na sua casa</color>"
         }
     }
 }

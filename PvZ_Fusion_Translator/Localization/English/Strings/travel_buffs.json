@@ -98,11 +98,11 @@
         },
         "24": {
             "name": "Deadeye",
-            "desc": "Buck-shroom Squad: Sniper always headshots with a 1/3 chance to trigger rapid-fire, but attack CD increased to 7.5s | Buck-strike Squadron: Attack damage ×3"
+            "desc": "Buck-shroom Squad:  Expected Sniper headshot frequency increased to once every 5s | Buck-strike Squadron: Attack damage ×3"
         },
         "25": {
             "name": "Shell Shock",
-            "desc": "Buck-strike Squadron Subspecies Unlocked | Buck-shroom Squad: Flak cannon knockback ×2, splash damage ×3 | Buck-strike Squadron: Attack damage ×3"
+            "desc": "Buck-strike Squadron Subspecies Unlocked | Buck-shroom Squad: Flak cannon knockback ×2, attack damage ×3 | Buck-strike Squadron: Attack damage ×3"
         },
         "26": {
             "name": "Flux Drive",
@@ -154,11 +154,11 @@
         },
         "38": {
             "name": "Cold Front",
-            "desc": "Lethal Glacier-shroom Subspecies Unlocked | Tundral Glacier-shroom: +100 Initial Energy | Lethal Glacier-shroom: Damage ×2"
+            "desc": "Oblivion-shroom Subspecies Unlocked | Avalanche-shroom: +100 Initial Energy | Oblivion-shroom: Damage ×2"
         },
         "39": {
             "name": "Frozen Horizon",
-            "desc": "Tundral Glacier-shroom: Attack Radius ×2 | Lethal Glacier-shroom: Attack Interval halved"
+            "desc": "Avalanche-shroom: Attack Radius ×2 | Oblivion-shroom: Attack Interval halved"
         },
         "40": {
             "name": "Arcane Prowess",
@@ -269,22 +269,18 @@
             "desc": "Adds 4 Lumos Levels for the entire field"
         },
         "1019": {
-            "name": "Blaze of Glory",
-            "desc": "When hypnotized zombies die, they explode, dealing damage equal to 150% of their max HP to nearby zombies"
+            "name": "Second Wind",
+            "desc": "After a plant is healed, they heal for 5% of their current health per second for the next 3s (unstackable)"
         },
         "1020": {
-            "name": "Second Wind",
-            "desc": "After a plant is healed, they heal for 5% of their current health per second for the next 3 seconds (unstackable)"
-        },
-        "1021": {
             "name": "Healing Boost",
             "desc": "Plants gain a 20% healing bonus"
         },
-        "1022": {
+        "1021": {
             "name": "Coldsnap Insight I",
             "desc": "Upgrade Cryomancer Pea to SP Cryomancer Pea (Level 1)"
         },
-        "1023": {
+        "1022": {
             "name": "Coldsnap Insight II",
             "desc": "Upgrade SP Cryomancer Pea to Level 2"
         },
@@ -324,6 +320,10 @@
             "name": "Purification",
             "desc": "You can remove 1 non-mini-boss Zombie Modifier from the View Modifier menu"
         },
+        "2009": {
+            "name": "Blaze of Glory",
+            "desc": "When hypnotized zombies die, they explode, dealing damage equal to 150% of their max HP to nearby zombies"
+        },
         "3000": {
             "name": "Eternal Bulwark",
             "desc": "When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine gains a 90% damage reduction"
@@ -362,7 +362,7 @@
         },
         "3009": {
             "name": "Elemental Fury",
-            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which doubles for each ice and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
+            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which increases by 100% for each ice, snow and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
         },
         "4000": {
             "name": "Abyssal Chibi",
@@ -409,8 +409,8 @@
             "desc": "Unlock Swordsage Starfruit"
         },
         "5003": {
-            "name": "Curse of Envy",
-            "desc": "Plants deal ×2 damage but receive ×4 damage"
+            "name": "Curse of Pride",
+            "desc": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack & max HP, and 2× Attack Speed"
         },
         "5004": {
             "name": "Curse of Greed",
@@ -449,12 +449,28 @@
             "desc": "Infernal Squashwood: Jalapeno effect changes from instant to DoT, dealing 1/3 the original damage 10 times within 1s"
         },
         "6008": {
-            "name": "Infernal Squashwood Mastery II:",
+            "name": "Infernal Squashwood Mastery II",
             "desc": "Infernal Squashwood: Grants projectiles +50% damage before igniting them"
         },
         "6009": {
             "name": "Backline Bastion",
             "desc": "Plants in the fifth column get 50% increased maximum Toughness and 50% damage reduction. Each column to the left reduces damage cap by 10% and increases damage reduction by 10%"
+        },
+        "7000": {
+            "name": "SP Evolution",
+            "desc": "Unlock SP Gatling Doom and SP Gatling Frenzy-shroom\nUse Doom-shroom to upgrade"
+        },
+        "7001": {
+            "name": "SP Evolution",
+            "desc": "Unlock SP Twin Solar-nut and SP Twin Inferno-nut\nUse Wall-nut to upgrade"
+        },
+        "7002": {
+            "name": "SP Evolution",
+            "desc": "Unlock SP Phoenix Threepeater and SP Phoenix Drone\nUse Jalapeno to upgrade"
+        },
+        "7003": {
+            "name": "SP Evolution",
+            "desc": "Unlock SP Gatling Icicle-shroom and SP Gatling Sunburst-shroom\nUse Peashooter to upgrade"
         },
         "10000": {
             "name": "Solar Grace",
@@ -462,7 +478,7 @@
         },
         "10001": {
             "name": "Giga Guardian",
-            "desc": "Immediately gain 2 Giga Mecha-nut seed packets which start with 1M HP"
+            "desc": "Immediately gain 3 Giga Mecha-nut seed packets which start with 640k HP"
         },
         "10002": {
             "name": "Instant Promotion",
@@ -533,7 +549,7 @@
             "desc": "Using the glove to move a plant onto another plant of the same type and tier upgrades it by 1 tier"
         },
         "10019": {
-            "name": "Fortune Reforged",
+            "name": "Fate Reforged",
             "desc": "Immediately gain 10 Golden Recycling Vases. Additionally, receive 1 per wave and 5 per flag (huge wave)"
         },
         "11000": {
@@ -612,9 +628,85 @@
             "name": "Ascend: Decryption",
             "desc": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies."
         },
+        "12017": {
+            "name": "Ascend: Clusterbomb",
+            "desc": "Melon-nut's projectile explodes mid-air and splits into several Mini Watermelons thrown at zombies across the field"
+        },
+        "12018": {
+            "name": "Ascend: Golden Barrage",
+            "desc": "Golden Melon's Ultimate additionally launches Golden melons at all zombies, and the Ultimate's split count ×2"
+        },
+        "12019": {
+            "name": "Ascend: Hardened Saw",
+            "desc": "Lifereaver Spruce's projectiles gain an additional 0.6% of its current Shield as Attack Damage, capped at 300% of its base Attack"
+        },
+        "12020": {
+            "name": "Ascend: Total Eruption",
+            "desc": "Kaledera Eruptor's targeting range is +1 lane above and below, and fires at all targets simultaneously (if the number of targets is less than the max scatter count, the leftover shots are evenly distributed among the targets) | Projectile flight time reduced by 50%"
+        },
+        "12021": {
+            "name": "Ascend: Swordsmanship",
+            "desc": "For every 2 giant swords summoned Swordsage Starfruit, each attack additionally fires 1 spinning shortsword"
+        },
+        "12022": {
+            "name": "Ascend: Circle of Death",
+            "desc": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10 seconds"
+        },
         "13000": {
             "name": "Blast Protection",
             "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
+        },
+        "13001": {
+            "name": "Enchanted Shield",
+            "desc": "Plants with Shield recover HP equal to 0.1% of their Shield every second"
+        },
+        "13100": {
+            "name": "No Pains No Gains",
+            "desc": "Kill all of your plants, and halve the independent damage and speed buffs for all your plants;\nThe same will happen after 20 waves, but this time the buffs are doubled"
+        },
+        "13101": {
+            "name": "All or Nothing",
+            "desc": "If your Luck is below 75, immediately set it to 75. When not protected by the pity system, Silver and Golden modifiers are downgraded to Bronze quality, while Diamond ones are upgraded to Prismatic quality"
+        },
+        "13102": {
+            "name": "High Grounds",
+            "desc": "Plants deal 30% more damage when above zombies and 30% less damage when below zombies, determined by their vertical sprite positions on the screen"
+        },
+        "13103": {
+            "name": "Predator Instinct",
+            "desc": "Plants deal 30% more damage to zombies that are above 50% health, and 30% less damage to those below 50% health"
+        },
+        "14000": {
+            "name": "Curse of 1 4 3 7",
+            "desc": "Magnetar's attack speed is halved. After 1,437 attacks, reverse the curse, with each volley counting as 5 attacks\nReversal effect: Quasar projectiles from Magnetar gain an additional 1,437 base damage"
+        },
+        "14001": {
+            "name": "Blessing of 1 4 3 7",
+            "desc": "Quasar projectiles from Magnetar gain an additional 1,437 base damage"
+        },
+        "14002": {
+            "name": "Curse of Aggression",
+            "desc": "Gatling Cherrybomber's damage is reduced by 50%. After dealing a cumulative 300M damage, reverse the curse\nReversal effect: Each time Gatling Cherrybomber attacks, it additionally fires several projectiles from the left side of the screen, with attack equal to 0.0001% of the cumulative damage dealt by other plants"
+        },
+        "14003": {
+            "name": "Blessing of Aggression",
+            "desc": "Each time Gatling Cherrybomber attacks, it additionally fires several projectiles from the left side of the screen, with attack equal to 0.0001% of the cumulative damage dealt by other plants"
+        },
+        "14004": {
+            "name": "Curse of Equity",
+            "desc": "For each target Kaledera Eruptor has, its projectile damage is reduced by 1%, up to a max reduction of 70%. After a cumulative reduction of 50,000% through this effect, reverse the curse\nReversal effect: For each target Kaledera Eruptor has, its projectile damage is increased by 1%"
+        },
+        "14005": {
+            "name": "Blessing of Equity",
+            "desc": "For each target Kaledera Eruptor has, its projectile damage is increased by 1%"
+        },
+        "14006": {
+            "name": "Curse of Endurance",
+            "desc": "Mag-nut no longer fires projectiles. After attracting 5,000 projectiles, reverse the curse\nReversal effect: Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most"
+        },
+        "14007": {
+            "name": "Blessing of Endurance",
+            "desc": "Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most"
         }
     },
     "ultimateBuffs": {
@@ -732,11 +824,11 @@
         },
         "28": {
             "name": "Treasure Hoard",
-            "desc": "Kelptain Goldbeard: Plants deal 5% more attack damage for every 1000 points owned (up to +300%)"
+            "desc": "Kelptain Goldbeard & Sea-greed Zombox: Gain 1% Attack Speed for every 1000 points owned"
         },
         "29": {
-            "name": "Merchant's Favor",
-            "desc": "Kelptain Goldbeard: The Odyssey shop now has a 30% discount on Modifiers"
+            "name": "Gamble of Bounty",
+            "desc": "Kelptain Goldbeard & Sea-greed Zombox: Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox/Zombie Giftbox on an empty tile has a chance to spawn a seed packet for Kelptain Goldbeard/Sea-greed Zombox, respectively"
         },
         "30": {
             "name": "Accretion Disk",
@@ -756,7 +848,7 @@
         },
         "34": {
             "name": "Ravenous Reach",
-            "desc": "Tyrannoflora Lux: Attack Range ×2"
+            "desc": "Tyrannoflora Lux: Attack effect range ×2 (currently bugged and does nothing)"
         },
         "35": {
             "name": "Luminous Feast",
@@ -833,6 +925,14 @@
         "53": {
             "name": "Frostfire Tempering",
             "desc": "Obsidian Jugger-nut: Tempering Damage ×2"
+        },
+        "54": {
+            "name": "Rejuvenating Essence",
+            "desc": "Firnessence Panacea: Essence increases plants' max HP by 0.2% of their base Toughness for the current round"
+        },
+        "55": {
+            "name": "Flowing Lifeblood",
+            "desc": "Firnessence Panacea: Essence Healing & Shield power ×2 | Number of Freeze & Glaciation removals ×3 | Automatic Essence recovery speed ×2"
         }
     },
     "debuffs": {
@@ -980,6 +1080,30 @@
             "name": "Hot Pursuit",
             "desc": "Giga Football Acrobat Zombie & Giga Football-nut Acrobat Zombie: Deal ×2 damage after rolling"
         },
+        "36": {
+            "name": "Undead March",
+            "desc": "Buckshot Commando Zombie: Now ignores plants when moving"
+        },
+        "37": {
+            "name": "Deathrider's Curse",
+            "desc": "Buckshot Commando Zombie: Now shoots Cursed iron peas instead"
+        },
+        "38": {
+            "name": "Bad to the Bone",
+            "desc": "Devil-in-the-Box Zombie: Curse stacks applied by the Bomb Box ×2 and regenerates a Bomb Box every 6s"
+        },
+        "39": {
+            "name": "Replicating Bomb",
+            "desc": "Devil-in-the-Box Zombie: Bomb Boxes are now immune to Umbrella deflection and spawns another Devil-in-the-Box Zombie upon landing"
+        },
+        "40": {
+            "name": "Sweeping Charge",
+            "desc": "Black Knight Zombie: Charging now applies curse stacks to plants in a 3×3 area"
+        },
+        "41": {
+            "name": "Steadfast",
+            "desc": "Black Knight Zombie: All crushing zombies now receive only half the knockback from anti-crush plants"
+        },
         "1000": {
             "name": "Blackout",
             "desc": "Your Sun will be reset to 0"
@@ -1029,8 +1153,8 @@
             "desc": "Time before the first wave of zombie is reduced to 5s, and the interval between zombie waves is reduced to 15s"
         },
         "1012": {
-            "name": "Curse of Pride",
-            "desc": "Odyssey Plants' Attack and max HP reduced by 90%, but all other plants now have 40× Attack & max HP, and 2× Attack Speed"
+            "name": "Sigil of Blight",
+            "desc": "All plants receive ×1.5 more Damage"
         },
         "1013": {
             "name": "Warlord's Might",
@@ -1193,82 +1317,262 @@
             "desc": "Zombies gain DR value equal to 1% of the incoming damage when they receive damage more than 100, up to +1000 DR value"
         },
         "5003": {
-            "name": "Counterstrike",
+            "name": "Zombie Parry",
             "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 0.2s"
         },
         "5004": {
             "name": "Brand of Ruin",
             "desc": "When a zombie deals crushing damage to a plant, that plant will gain curse stacks equal to [1%×(plant HP + plant Toughness)/2]"
+        },
+        "10000": {
+            "name": "Jinxed",
+            "desc": "Lose 75 points of Luck"
+        },
+        "10001": {
+            "name": "Reincarnation: Tiryak",
+            "desc": "Zombies in the 1st loop of reincarnation have 20% more HP and Speed"
+        },
+        "10002": {
+            "name": "Reincarnation: Preta",
+            "desc": "Zombies in the 2nd loop of reincarnation have 40% more HP and 25% more Speed"
+        },
+        "10003": {
+            "name": "Reincarnation: Naraka",
+            "desc": "Zombies in the 3rd loop of reincarnation have 60% more HP and 30% more Speed"
+        },
+        "10004": {
+            "name": "Crisis of Nemesis",
+            "desc": "Mini-bosses will randomly appear during flag waves starting from wave 50"
+        },
+        "10005": {
+            "name": "Disgrace Period",
+            "desc": "Plants can only deal 1 damage to zombies in the first 2 seconds after a new wave appears"
+        },
+        "10006": {
+            "name": "Curse of Envy",
+            "desc": "The plant type with the highest amount of cumulative damage deals only 85% damage, other plants deal 105% damage"
+        },
+        "10007": {
+            "name": "Expert Fast-track",
+            "desc": "Starting from wave 8, in the first 50 waves of the level, one zombie that normally only apear in waves 38 through 88 will be randomly spawned"
+        },
+        "10008": {
+            "name": "Zombie Ensemble",
+            "desc": "Non-mini-boss zombies have a chance to spawn another one of itself when they appear; this chance increases as wave progresses"
+        },
+        "10009": {
+            "name": "Zombie Sacrifice",
+            "desc": "Non-mini-boss zombies have a chance to disappear immediately upon spawning and grant another zombie 80% of their HP; this chance increases as wave progresses"
+        },
+        "10010": {
+            "name": "Hibernation",
+            "desc": "Plants are frozen for 2s after respawning"
+        },
+        "10011": {
+            "name": "Heavy Knockout",
+            "desc": "Plants take 1.5× more time to respawn"
+        },
+        "10012": {
+            "name": "Cam-brain Explosion",
+            "desc": "Zombie evolution interval decreased to 4 waves"
+        },
+        "10013": {
+            "name": "Grand Theft Mow-to",
+            "desc": "Lawn Mowers are disabled"
+        },
+        "10014": {
+            "name": "Insidious Evil",
+            "desc": "When a plant disappears, a random zombie is spawned at its location with an HP buff"
+        },
+        "10015": {
+            "name": "Jackson Variety Hour",
+            "desc": "As wave progresses, extra special Michael Zombies have increasing chances to appear"
+        },
+        "10016": {
+            "name": "Coordinated Attack",
+            "desc": "Extra zombies from other routes have a chance to appear each new wave; this chance increases as wave progresses"
+        },
+        "10017": {
+            "name": "Hero's Bane",
+            "desc": "Plant with the most Modifiers have their independent damage buff reduced by 1% every new wave, down to a minimum of 0"
+        },
+        "10018": {
+            "name": "Counterstrike",
+            "desc": "When zombies take damage, they spawn a zombie-side pea projectile with damage equal to 10% of the zombie's attack power (at least 20) against the plants; this can trigger at most 10 times every 0.02s"
+        },
+        "10019": {
+            "name": "Lackey Comeback",
+            "desc": "Starting from wave 51, 5 zombies that normally only apear in waves 1 through 50 will be randomly spawned, but they have a 10× HP and 2× Speed buff"
+        },
+        "10020": {
+            "name": "Pedantic Crave",
+            "desc": "As wave progresses, extra special Newspaper Zombies have increasing chances to appear"
+        },
+        "10021": {
+            "name": "Extreme Sport",
+            "desc": "As wave progresses, extra special Bungee Zombies have increasing chances to appear"
+        },
+        "10022": {
+            "name": "Lucky Loan",
+            "desc": "Gain 75 points of Luck, but lose 1 point of Luck every wave starting from the 50th"
+        },
+        "10023": {
+            "name": "Necropolis",
+            "desc": "3 columns of gravestones will appear on the lawn at the start of each round"
+        },
+        "10024": {
+            "name": "Nitro Rush",
+            "desc": "3 random zombies receive a 100% speed buff each wave after the zombies are spawned"
+        },
+        "10025": {
+            "name": "Putrid Odor",
+            "desc": "All plants on the field are inflicted with a curse equal to 5% max HP every 3s"
+        },
+        "10026": {
+            "name": "Unholy Grail",
+            "desc": "Non-mini-boss zombies have a chance to respawn as another zombie at the rightmost column of the same lane when they are killed; this chance increases as wave progresses"
+        },
+        "10027": {
+            "name": "True Damage",
+            "desc": "When plants receive damage, they receive an additional true damage equal to 30% of the original damage"
+        },
+        "10028": {
+            "name": "Heal Leeching",
+            "desc": "When plants heal, they also heal a random zombie by 25% max HP; this healing can exceed max"
+        },
+        "10029": {
+            "name": "Chaos Touch",
+            "desc": "Your plants are moved to random locations every new zombie wave"
+        },
+        "10030": {
+            "name": "Escalating Apocalypse",
+            "desc": "Wave interval is reduced, and each wave has a chance to immediately trigger the next"
+        },
+        "10031": {
+            "name": "Desperate Detonation",
+            "desc": "Non-mini-boss zombies have a chance to self-explode when under 10% max HP"
+        },
+        "10032": {
+            "name": "Horn of Power",
+            "desc": "All zombies on the lawn receive 20% HP and Speed buff when new wave spawns"
+        },
+        "10033": {
+            "name": "Supreme Presence",
+            "desc": "Bosses receive a 30% HP buff, their summoned zombies receive a 60% HP buff"
+        },
+        "10034": {
+            "name": "Little but Nimble",
+            "desc": "Non-boss zombies have 30% less max HP and size, but are 200% faster"
+        },
+        "10035": {
+            "name": "Bloated Zombies",
+            "desc": "Non-boss zombies have 60% more max HP and size, but their speed is reduced by 50%"
+        },
+        "10036": {
+            "name": "Cheap Aesthetics",
+            "desc": "Increase the effects of Bronze and Silver Modifiers by 10%, while Golden and Diamond Modifiers have theirs reduced by 30%"
+        },
+        "10037": {
+            "name": "Exquisite Aesthetics",
+            "desc": "Increase the effects of Golden and Diamond Modifiers by 10%, while Bronze and Silver Modifiers have theirs reduced by 30%"
+        },
+        "10038": {
+            "name": "Midas Touch",
+            "desc": "When not on pity system, all Modifiers that would be of Diamond quality are replaced by corresponding ones of Golden quality instead"
+        },
+        "10039": {
+            "name": "Power in Number",
+            "desc": "When you have 0/1/2/3/4/5/6 or more plants on the field, zombies receive 75%/80%/85%/90%/95%/100%/105% damage respectively"
+        },
+        "10040": {
+            "name": "Silver Lining",
+            "desc": "When not on pity system, Modifiers with different quality levels appear in Silver quality only; if you also have Midas Touch, Golden and Diamond quality Modifiers are downgraded to Bronze quality instead"
+        },
+        "10041": {
+            "name": "Eon of Nyan",
+            "desc": "Zombies have a chance to disappear immediately upon spawning and spawn a Nyan Squash Zombie with its HP; this chance increases as wave progresses"
+        },
+        "10042": {
+            "name": "Unhealthy Dying",
+            "desc": "0.5s is added to the respawn timer every time your plant dies"
+        },
+        "10043": {
+            "name": "Hesitation Penalty",
+            "desc": "Minus 25 points of Luck every time you reroll Modifiers"
+        },
+        "10044": {
+            "name": "Whims of Fate",
+            "desc": "Randomly receive -27-33 points of Luck with every Modifier draw"
         }
     },
     "unlocks": {
         "0": {
             "name": "",
-            "desc": "Unlock Cherrizilla: Chompzilla + Cherry Chomper\nand its Subspecies Garlizilla"
+            "desc": "Unlock Cherrizilla: Chompzilla + Cherry Chomper\nand its Subspecies Garlizilla\nConversion: Cherry Bomb <-> Garlic"
         },
         "1": {
             "name": "",
-            "desc": "Unlock Gatling Cherrybomber: Gatling Cherry + Explode-o-shooter\nand its Subspecies Cherrybomber Drone"
+            "desc": "Unlock Gatling Cherrybomber: Gatling Cherry + Explode-o-shooter\nand its Subspecies Cherrybomber Drone\nConversion: Shovel <-> Blover"
         },
         "2": {
             "name": "",
-            "desc": "Unlock Doominator: Doomspike-shroom + Cryonic-shroom\nand its Subspecies Thornminator"
+            "desc": "Unlock Doominator: Glacier-shroom + Cryonic-shroom\nand its Subspecies Thornminator\nConversion: Fume-shroom <-> Cactus"
         },
         "3": {
             "name": "",
-            "desc": "Unlock Infernal Squashwood: Spicy Squash + Infernowood\nand its Subspecies Infernal Sparkwood"
+            "desc": "Unlock Infernal Squashwood: Spicy Squash + Infernowood\nand its Subspecies Infernal Sparkwood\nConversion: Squash <-> Starfruit"
         },
         "4": {
             "name": "",
-            "desc": "Unlock Magnetar: Stardrop + Magnet Cactus\nand its Subspecies Pulsar"
+            "desc": "Unlock Magnetar: Stardrop + Magnet Cactus\nand its Subspecies Pulsar\nConversion: Starfruit <-> Blover"
         },
         "5": {
             "name": "",
-            "desc": "Unlock Shroomageddon: Doomspike-shroom + Frost Gloom-shroom\nand its Subspecies Atomheart Plantern"
+            "desc": "Unlock Shroomageddon: Glacier-shroom + Frost Gloom-shroom\nand its Subspecies Atomheart Plantern\nConversion: Gloom-shroom <-> Plantern"
         },
         "6": {
             "name": "",
-            "desc": "Unlock Wither-pult: Salad-pult + Garlic-pult\nand its Subspecies Litter-pult"
+            "desc": "Unlock Wither-pult: Salad-pult + Garlic-pult\nand its Subspecies Litter-pult\nConversion: ×3 + Melon-pult <-> Puff-shroom"
         },
         "7": {
             "name": "",
-            "desc": "Unlock Cob-literator: Cryo Cannon + Demise-shroom\nand its Subspecies Panmelonium"
+            "desc": "Unlock Cob-literator: Cryo Cannon + Demise-shroom\nand its Subspecies Panmelonium\nConversion: Kernel-pult <-> Melon-pult"
         },
         "8": {
             "name": "",
-            "desc": "Unlock Obsidian Tall-nut: Frost Tall-nut + Flame Tall-nut\nand its Subspecies Obsidian Mine"
+            "desc": "Unlock Obsidian Tall-nut: Frost Tall-nut + Flame Tall-nut\nand its Subspecies Obsidian Mine\nConversion: Tall-nut <-> Potato Mine"
         },
         "9": {
             "name": "",
-            "desc": "Unlock Charmatron: Charm-shroom + Hypno Magnet\nand its Subspecies Pumpkaptivator"
+            "desc": "Unlock Charmatron: Charm-shroom + Hypno Magnet\nand its Subspecies Pumpkaptivator\nConversion: Shovel <-> Glove the Charmatron onto a Pumpkin"
         },
         "10": {
             "name": "",
-            "desc": "Unlock Apeacalypse Minigun: Titan Pea Turret + Spicicle\nand its Subspecies Apeacalypse Railgun"
+            "desc": "Unlock Apeacalypse Minigun: Titan Pea Turret + Spicicle\nand its Subspecies Apeacalypse Railgun\nConversion: Peashooter <-> Snipea"
         },
         "11": {
             "name": "",
-            "desc": "Unlock Helios Cabbage: Solar-pult + Golden Cabbage\nand its Subspecies Selene Cabbage"
+            "desc": "Unlock Helios Cabbage: Solar-pult + Golden Cabbage\nand its Subspecies Selene Cabbage\nConversion: Sunflower <-> Plantern"
         },
         "12": {
             "name": "",
-            "desc": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin"
+            "desc": "Unlock Laser Pumpkin: Pumpkarrier + Magnet Blover\nand its Subspecies Blast Pumpkin\nConversion: Cactus <-> Cherry Bomb"
         },
         "13": {
             "name": "",
-            "desc": "Unlock Napalm-shroom: Summer Melon + Football-shroom\nand its Subspecies Magma-shroom"
+            "desc": "Unlock Napalm-shroom: Summer Melon + Football-shroom\nand its Subspecies Magma-shroom\nConversion: Kernel-pult <-> Melon-pult"
         },
         "14": {
             "name": "",
-            "desc": "Unlock Kelptain Goldbeard: Twin Marigold > Hydra Kelp"
+            "desc": "Unlock Kelptain Goldbeard: Twin Marigold > Hydra Kelp\nand its Subspecies Sea-greed Zombox\nConversion: Plant Giftbox <-> Zombie Giftbox"
         },
         "15": {
             "name": "",
-            "desc": "Unlock Cosmo-pult: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut"
+            "desc": "Unlock Cosmo-pult: Baby Corn ×3 + Portal-pult\nand its Subspecies Astro-nut\nConversion: Kernel-pult <-> Wall-nut"
         },
         "16": {
             "name": "",
-            "desc": "Unlock Lifereaver Spruce: Spruce Supershooter + Snowbloom Spruce\nand its Subspecies Soulrender Bamboo"
+            "desc": "Unlock Lifereaver Spruce: Spruce Supershooter + Snowbloom Spruce\nand its Subspecies Soulrender Bamboo\nConversion: Spruce Sharpshooter <-> Bamblock"
         },
         "17": {
             "name": "",
@@ -1276,7 +1580,7 @@
         },
         "18": {
             "name": "",
-            "desc": "Unlock Vulcannon: Pyro Cannon + Pepper Popper\nand its Subspecies Kaledera Eruptor"
+            "desc": "Unlock Vulcannon: Pyro Cannon + Pepper Popper\nand its Subspecies Kaledera Eruptor\nConversion: Kernel-pult <-> Cabbage-pult"
         },
         "19": {
             "name": "",
@@ -1284,11 +1588,11 @@
         },
         "20": {
             "name": "",
-            "desc": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies Fungularity"
+            "desc": "Unlock Maelonstrom: Winter Melon + Chrono Melon\nand its Subspecies Fungularity\nConversion: Melon-pult <-> Doom-shroom"
         },
         "21": {
             "name": "",
-            "desc": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper\nand its Subspecies Deucalion-shroom"
+            "desc": "Unlock Prometheus Liontail: Flame Cattail + Pepper Popper\nand its Subspecies Deucalion-shroom\nConversion: Cattail <-> Sea-shroom"
         },
         "22": {
             "name": "",
@@ -1296,19 +1600,23 @@
         },
         "23": {
             "name": "",
-            "desc": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper"
+            "desc": "Unlock Cryolina Reaper: Spicicle + Spicicle\nand its Subspecies Habanero Weeper\nConversion: ×3 + Jicamagic <-> Puff-shroom"
         },
         "24": {
             "name": "",
-            "desc": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Orbiter"
+            "desc": "Unlock Photon Splitter: Split Beam + Chrono Pea\nand its Subspecies Axion Orbiter\nConversion: Plantern <-> Garlic"
         },
         "25": {
             "name": "",
-            "desc": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea"
+            "desc": "Unlock Buckshot Commando: Football Gatling + Buckshooter\nand its Subspecies Synchronizer Snipea\nConversion: Football Helmet <-> Chrono Core"
         },
         "26": {
             "name": "",
             "desc": "Unlock Obsidian Jugger-nut: Spicicle > Jugger-nut"
+        },
+        "27": {
+            "name": "",
+            "desc": "Unlock Firnessence Panacea: Firnurse + Aloe Nivea"
         }
     },
     "investmentBuffs": {

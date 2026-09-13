@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4387**
-* Traductions ajustées : **138**
+* Nouvelles traductions : **4439**
+* Traductions ajustées : **203**
 * Reviews effectuées : **637**
 
 ---
@@ -40,6 +40,211 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 ---
 
+### 📅 Semaine — `17/08/26 → 23/08/26`
+> [PR#218](https://github.com/Teyliu/PVZF-Translation/pull/218)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **52**
+* Traductions ajustées : **65**
+* Reviews effectuées : **0**
+
+> Mise à jour 3.9 : nouvelles plantes/zombies de l'almanach, strings & regex,
+> et réalignement complet des tips Fusion Showcase sur les nouvelles clés 3.9
+> (55 tips re-keyés sans modification, non comptés ci-dessus).
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Zomboîte Algue-avide** (`seedType: 5003`)
+* **Four Panacée** (`seedType: 5004`)
+* **Citrouille de l’Ender** (`seedType: 1444`)
+* **Commando Rafale** (`seedType: 1445`)
+* **Champi-sou** (`seedType: 1446`)
+* **Champi-prêt** (`seedType: 1447`)
+* **Pois-sniper Froussard** (`seedType: 1448`)
+* **Champi-hypno Argenté** (`seedType: 1449`)
+* **Champi-hypno Doré** (`seedType: 1450`)
+* **Cerise Surprise** (`seedType: 1451`)
+* **Champi-glouton** (`seedType: 1452`)
+* **Champi-touffu** (`seedType: 1453`)
+* **Pot Maudit** (`seedType: 1454`)
+* **Mortbrelle** (`seedType: 1455`)
+* **Champi-grandgousier** (`seedType: 1456`)
+* **Carambole Glacée** (`seedType: 1457`)
+* **Champi-rot** (`seedType: 1458`)
+* **Champi-mordilleur** (`seedType: 1459`)
+* **Pot Marin** (`seedType: 1460`)
+* **Caramb'ail** (`seedType: 1461`)
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **Zombie Quarterback Perchiste** (`theZombieType: 91`)
+* **Zombie Chacrabouille** (`theZombieType: 133`)
+* **<u><i>Jackson Universe</i></u>** (`theZombieType: 261`)
+
+## 🧵 New String Entries Added
+* **僵尸机制-防具**
+* **植物机制-护盾**
+* **僵尸机制-护甲**
+* **僵尸机制-临界值**
+* **低矮、高大、巨型植物**
+* **可密植、坚实、金属植物**
+* **植物机制-寒冷与冻结状态**
+* **植物机制-余烬状态**
+* **植物机制-水草值**
+* **植物机制-红温状态**
+* **植物机制-光照等级**
+* **植物机制-磁力系统**
+* **植物机制-中毒状态**
+* **植物机制-传送状态**
+* **基本机制-植物占位**
+* **基本机制-僵尸身位**
+* **基本机制-关卡难度**
+* **僵尸机制-BOSS及领袖**
+* **-------Strings - Misc 3.9**
+* **伤害跳字**
+* **禁用屏幕抖动**
+* **诸神进化：炼狱**
+* **究极黑曜石高坚果皮肤挑战**
+* **究极黑曜石高坚果\n皮肤挑战**
+* **沙漠**
+* **哔哩哔哩直播互动设置**
+
+## 🧪 New Regex Patterns Added
+* **^速度x ([^\s:]+)**
+* **^当前幸运：(\d+)\n场上敌人数量：(\d+)\n难度积分：(\d+)**
+
+## 📌 New Tips Entries Added (Fusion Showcase)
+* **level1365-杨桃魅惑菇**
+
+## 🛠️ Updated Tips Entries (Fusion Showcase)
+> Contenu EN modifié en 3.9 : traduction FR existante mise à jour à partir du delta.
+* **level1048-地刺坚果**
+* **level1158-磁力大喷菇**
+* **level1163-辣椒土豆雷**
+* **level1170-土豆小喷菇**
+* **level1171-土豆胆小菇**
+* **level1172-大蒜喷菇**
+* **level1178-樱桃火炬树桩**
+* **level1181-蒜三叶草**
+* **level1182-极寒树桩**
+* **level1183-杨桃小蘑菇**
+* **level1184-阳光花盆**
+* **level1192-毁灭大嘴花**
+* **level1193-火焰大喷菇**
+* **level1195-流光花盆**
+* **level1196-西瓜弹弹菇**
+* **level1198-火爆杨桃**
+* **level1203-玉米小投手**
+* **level1204-浮空保护伞**
+* **level1205-魅惑南瓜**
+* **level1209-磁力玉米投手**
+* **level1230-魅惑大蒜**
+* **level1231-魅惑土豆雷**
+* **level1233-缠绕水雷**
+* **level1236-毁灭坚果**
+* **level1256-仙人掌坚果**
+* **level1262-卷心菜坚果**
+* **level1267-魅惑豌豆射手**
+* **level1273-三叶胆小菇**
+* **level1274-樱桃胆小菇**
+* **level1282-坚果火炬树桩**
+* **level1286-魅惑西瓜投手**
+* **level1291-海鲨大喷菇**
+* **level1293-海蘑菇坚果**
+* **level1294-海螺胆小菇**
+* **level1295-“高”坚果射手**
+* **level1296-寻宝土豆雷**
+* **level1301-保护伞小蘑菇**
+* **level1304-火炬向日葵**
+* **level1307-阳光杨桃**
+* **level1308-阳光辣椒**
+* **level1310-胆小坚果**
+* **level1313-水草坚果**
+* **level1319-火辣豌豆射手**
+* **level1325-阳光寒冰菇**
+* **level1333-樱桃魅惑菇**
+* **level1336-魅惑辣椒**
+* **level1337-黄油地刺**
+* **level1343-西瓜窝窝投手**
+* **level1346-黄油黏黏菇**
+* **level1348-阳光三叶草**
+* **level1349-小蘑菇南瓜**
+* **level1350-大喷南瓜**
+* **level1352-西瓜南瓜**
+* **level1363-玉米窝窝投手**
+* **level1364-毁灭土豆雷**
+* **level1366-豌豆窝瓜**
+* **level1367-银寒冰菇**
+* **level1370-小窝瓜**
+* **level1372-地刺花盆**
+* **level1373-流光豌豆射手**
+* **level1374-三叶窝瓜**
+* **level1378-卷心菜窝窝投手**
+* **level1389-火炬大喷菇**
+* **level1390-大嘴窝瓜**
+* **level1401-寒冰土豆雷**
+
+### ♻️ Re-keyed Tips Entries (sans modification — drift de clé 3.9)
+* **level1018-豌豆小喷菇** ← `level1018-豌豆小喷菇PeaPuff`
+* **level1077-阳光海蘑菇** ← `level1077-海光菇SeaSunShroom`
+* **level1111-阳光卷心菜投手** ← `level1111-阳光卷心菜`
+* **level1150-吸金磁** ← `level1150-吸金磁GoldMagnet`
+* **level1157-魅惑磁力菇** ← `level1157-魅惑磁力菇HypnoMagnet`
+* **level1164-樱桃南瓜** ← `level1164-樱桃南瓜CherryPumpkin`
+* **level1166-樱桃磁力菇** ← `level1166-樱桃磁力菇CherryMagnet`
+* **level1173-黑曜石辣椒菇** ← `level1173-黑曜石辣椒菇ObsidianJalapeno`
+* **level1176-魅惑三叶草** ← `level1176-魅惑三叶草HypnoBlover`
+* **level1179-樱桃辣椒** ← `level1179-樱桃辣椒CherryJalapeno `
+* **level1185-光叶保护伞** ← `level1185-光叶保护伞LanternUmbrella`
+* **level1186-仙人掌保护伞** ← `level1186-仙人掌伞CactusUmbrella`
+* **level1197-杨桃树桩** ← `level1197-星星火炬`
+* **level1200-壮胆南瓜** ← `level1200-胆南`
+* **level1202-窝瓜南瓜** ← `level1202-窝瓜南瓜SquashPumpkin`
+* **level1206-坚果保护伞** ← `level1206-坚果保护伞NutUmbrella`
+* **level1207-樱桃保护伞** ← `level1207-樱桃保护伞CherryUmbrella`
+* **level1212-寒冰樱桃** ← `level1212-寒冰樱桃IceCherry`
+* **level1228-寒冰窝瓜** ← `level1228-寒冰窝瓜IceSquash`
+* **level1229-魅惑窝瓜** ← `level1229-魅惑窝瓜HypnoSquash (2)`
+* **level1243-樱桃花盆** ← `level1243-樱桃花盆CherryPot`
+* **level1261-西瓜坚果** ← `level1261-西瓜坚果MelonNut`
+* **level1276-寒冰三叶草** ← `level1276-寒冰三叶草IceBloverIceBlover `
+* **level1277-毁灭杨桃** ← `level1277-毁灭杨桃DoomStar`
+* **level1278-大蒜坚果** ← `level1278-大蒜坚果GarlicNut`
+* **level1280-西瓜小投手** ← `level1280-小西瓜投手MelonPuff`
+* **level1281-卷心菜小投手** ← `level1281-小卷心菜`
+* **level1297-寒冰刺豚菇** ← `level1297-寒冰刺豚`
+* **level1298-豌豆大喷菇** ← `level1298-豌豆大喷菇PeaFume`
+* **level1302-海蘑菇群** ← `level1302-海蘑菇群PuffSeaShroom`
+* **level1309-流明坚果** ← `level1309-流明坚果LanternNut`
+* **level1311-坚果花盆** ← `level1311-坚果花盆NutPot`
+* **level1323-大蒜南瓜** ← `level1323-蒜南瓜GarlicPumpkin`
+* **level1326-阳光魅惑菇** ← `level1326-阳光魅惑菇SunHypno`
+* **level1340-海蘑菇水雷** ← `level1340&&1339-海雷&&雷海`
+* **level1341-毁灭路灯花** ← `level1341-毁灭路灯花DoomPlantern`
+* **level1347-特种三线射手** ← `level1347-特种三线AllPeater`
+* **level1351-阳光窝瓜** ← `level1351-阳光窝瓜SunSquash`
+* **level1355-毁灭大蒜** ← `level1355-毁灭大蒜DoomGarlic`
+* **level1356-杨桃大蘑菇** ← `level1356-杨桃大喷菇StarFume`
+* **level1358-流光大灯菇** ← `level1358-流光大喷菇LanternFume`
+* **level1359-卷心菜浮艇** ← `level1359-浮空卷心菜CabbageBlover`
+* **level1360-玉米浮艇** ← `level1360-玉米浮艇CornBlover`
+* **level1361-西瓜浮艇** ← `level1361-西瓜浮艇MelonBlover`
+* **level1362-土豆大喷菇** ← `level1362-土豆大喷菇PotatoFume`
+* **level1369-卷心菜乒乓菇** ← `level1369-卷心弹弹菇CabbageFume`
+* **level1371-毁灭南瓜** ← `level1371-毁灭南瓜 DoomPumpkin`
+* **level1377-水草苗** ← `level1377-水草苗KelpPuff `
+* **level1379-三线路灯花** ← `level1379-三线路灯花ThreePlantern`
+* **level1380-魅惑花盆** ← `level1380-魅惑花盆HypnoPot`
+* **level1391-蒜毒树桩** ← `level1391-蒜毒树桩GarlicTorch`
+* **level1395-水草大蘑菇** ← `level1395-水草大喷菇KelpFume`
+* **level1398-火爆卷心菜投手** ← `level1398-火爆卷心菜投手FireCabbage`
+* **level1399-毁灭卷心菜投手** ← `level1399-毁灭卷心菜投手DoomCabbage`
+* **level1400-火爆玉米投手** ← `level1400-火爆玉米投手JalaCorn`
+
+---
 ### 📅 Semaine — `25/07/26 → 31/07/26`
 > [PR#212](https://github.com/Teyliu/PVZF-Translation/pull/212)
 

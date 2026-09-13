@@ -5,85 +5,68 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.8.1 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.9 Changelog</size></align>
 
-1. The Gods: Evolved - Revolutionized Plus
-- Added even more evolution paths and upgrade modifiers
-- Added The Gods Expert plants
+1. The Gods: Evolved
+- Added a new Purgatory Mode
+- Added new Trial Modifiers. These start off as debuffs but after completing the trials they turn into buffs.
+- Access from Recommended Levels
 
-2. Zen Garden Update
-- Added Page Skip function for fast navigation
-- Added Background Change function, you can now adjust the ambience and lighting in the garden
-- Added Endoflame Coins, selling fully grown and max favorability plants gives Endoflame Coins which can be used to buy bulk tools from the new Tool Shop
-- Zen Garden and Grand Garden are now fully separate, you can no longer move plants between them
-
-3. New Plants
+2. New Plants
 - Basic Fusions:
-  - Ice Cactus (Ice-shroom + Cactus)
-  - Trigger-shroom (Cherry Bomb + Fume-shroom)
-  - Torch Driftwood (Torchwood > Sea-shroom)
-  - Roasted Sea-shroom
-  - Melon Tri-pult (Threepeater + Melon-pult)
-  - Kernel Tri-pult (Threepeater + Kernel-pult)
-  - Three-pumpkin (Threepeater > Pumpkin)
-  - Cryo Pumpkin (Ice-shroom > Pumpkin)
-  - Blover Pot (Blover > Flower Pot)
-  - Caltrop-shroom (Fume-shroom + Spikeweed)
-  - Cabbage Tri-pult (Threepeater + Cabbage-pult)
-  - Doom-spreader (Doom-shroom + Threepeater)
-  - Starry Squash (Squash + Starfruit)
-  - Tri-pot (Threepeater > Flower Pot)
-- Advanced Fusions:
-  - Cryomancer Pea (Coldsnap Bean + Snow Pea)
+  - Ender Pumpkin
+  - Penny-shroom (Marigold > Puff-shroom)
+  - Loan-shroom (Fume-shroom + Marigold)
+  - Silver Hypno-shroom (Hypno-shroom + Marigold)
+  - Golden Hypno-shroom
+  - Cherry Pop (Cherry Bomb > Puff-shroom)
+  - Hungry-shroom (Chomper + Scaredy-shroom)
+  - Bush-shroom (Fume-shroom + Umbrella Leaf)
+  - Doom Pot (Doom-shroom > Flower Pot)
+  - Doombrella (Doom-shroom + Umbrella Leaf)
+  - Gulper-shroom (Chomper > Sea-shroom)
+  - Winter Starfruit (Ice-shroom + Starfruit)
+  - Belch-shroom (Chomper + Fume-shroom)
+  - Nibble-shroom (Chomper > Puff-shroom)
+  - Sea Pot (Sea-shroom > Flower Pot)
+  - Starlic (Starfruit + Garlic)
 - Odyssey Fusions:
   - Common:
-    - Quetzalcoatl Blover (Blover + Cyclover)
-    - SP Cryomancer Pea (Upgraded Cryomancer Pea, see Almanac)
-    - Ender Pumpkin Chest (Pumpkin Chest + Chrono-nut)
-- SP:
-    - SP Phoenix Threepeater (Jalapeno > Phoenix Threepeater)
-    - SP Phoenix Drone (Jalapeno > Phoenix Drone)
+    - Firnessence Panacea (Firnurse + Aloe Nivea)
   - Epic:
-    - Deucalion-shroom (Prometheus Liontail + Sea-shroom)
-    - Obsidian Jugger-nut (Spicicle > Jugger-nut)
+    - Sea-greed Zombox (Kelptain Goldbeard + Zombie Giftbox)
   - Unique:
-    - Peatato Commando (Pea-storm Commando + Potato Mine)
-    - Starcaller Snipea (Snipea + Starfruit)
-- Legendary Fusions:
-  - A.L.E.C.
-- Stellar Fusions:
-  - Stellar Shroomageddon
+    - Flurry Commando (Pea-storm Commando + Fume-shroom)
+    - Fearmonger Snipea (Snipea + Scaredy-shroom)
 
-4. New Zombies
+3. New Zombies
 - Common:
-  - Bowling Zomb-nut
-  - Giga Bowling Zomb-nut
-  - Bedrock Tall-nut Yeti
-- Odyssey:
-  - Regular
-    - Giga Football Acrobat Zombie
-    - Giga Football-nut Acrobat Zombie
-    - Element-infused Imp
-  - Mini-bosses:
-    - King Necroflame
-  - Evolved:
-    - Shadow Elephant
-    - Terror Elephant
-    - Crimson Elephant
+  - Pole Vaulting Football Zombie
+  - Nyan Squash Zombie
   - Boss:
-    - Striker Boss (WIP)
+    - Last Striker (finished)
+    - Jackson Universe
 
-5. Balance Adjustments
-- Shroomageddon Modifier Rework: Blast Absorption > Volatile Barrier, now immune to all damage with a tradeoff
-- Cosmo-pult & Astro-nut Modifiers & Mechanics Rework
-- Infernal Squashwood & Infernal Sparkwood: Can now ignite more kinds of projectiles
-- Element-infused Gargantuar Modifier Rework: Affinity Awakening now summons Element-infused Imps
-- When a lane loses a lawn mower, zombies will not spawn in that lane for a short period of time.
+4. Modifiers
+- 6 new Zombie Modifiers
 
-6. QOL Optimizations
-- New function to show projectile damage overlay on pressing T (toggleable in the settings)
-- New UI position customization settings
-- New View All Modifiers screen which allows viewing current modifiers in the Modifier Almanac
+5. New Skin
+- Obsidian Barrier Reef skin
 
-7. Miscellaneous bug fixes and optimizations.
+6. Noteworthy Balance Changes
+- Snow mechanic rework: Vanilla base plants now cost 75 more Sun on Snow maps, see Mechanics almanac for details. Also check out updated entries for Firnace, Frost Legion Snowball Launcher & Trident Thrower
+- Fallout Blover: No longer deals double damage to Irradiated zombies
+- Doom Cactus: Projectiles now pierce twice and inflict Irradiated
+- Doom-shroom explosions now leave a Doom Pad on water tiles, see Lily Pad's entry for detailed explanations
+- Doomwarp-shroom & Fungularity: Nerfed Chronoshift duration, but massively increased Chronoshift effect (by means of increasing elapsed time) to zombies already in Chronoshift
+- SP Fusions: Now require dedicated Unlock Modifiers after obtaining the 2 corresponding Modifiers to unlock
+- Epic Odyssey Fusion Unlock Modifiers are now more expensive in Cursed Odyssey
+- Curse of Pride is now a Cursed Odyssey shop exclusive Modifier and no longer a Zombie Modifier
 
+7. QOL Optimizations
+- New function to show damage indicators (toggleable in the settings)
+- New option in settings to disable screen shake effects (from Jalapenos & Doom-shrooms)
+- New game speed settings that can be more fine-tuned
+- New Insta-grow Fertilizer in Zen Garden Tool Shop, instantly maxes out a Plant
+
+8. Miscellaneous bug fixes and optimizations.

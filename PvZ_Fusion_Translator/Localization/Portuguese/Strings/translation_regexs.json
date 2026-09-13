@@ -18,12 +18,12 @@
   "^星辉无尽：危机泳池-第(\\d+)轮": "Infinito Estelar: Piscina | Rodada {0}",
   "^冒险模式(：)?(?:第)?(\\d+)(?:关)?": "Modo Aventura: Clássico | Nível {1}",
   "-------UI - Challenge Mode": "UI - Challenge Mode-------",
-  "^([^\\s：]+)(：?挑战1?)$": "Desafio de Fusão: {0}",
+  "^([^\\s：]+)(：?挑战1?)$": "Desafio da Fusão:\n{0}",
   "^超级随机：(无尽|模仿)": "Gacha da Odisseia\n{0}",
   "^十旗挑战：([^\\s]+)": "Dez Bandeiras: {0}",
-  "^十旗挑战\\s([^\\s]+)": "Dez Bandeiras\n{0}",
+  "^十旗挑战\\s([^\\s]+)": "Dez Bandeiras:\n{0}",
   "^旅行体验(：)?(?:第)?(\\d+)(?:关)?": "Odisseia\nDemo {1}",
-  "^经典塔防(\\d+)?": "Defesa de Torre Clássica {0}",
+  "^经典塔防(\\d+)?": "Modo: Trilha Zumbi {0}",
   "^花园保卫战(\\d+)?": "Defesa do Jardim {0}",
   "-------UI - Puzzle Mode": "UI - Puzzle Mode-------",
   "^决战([^\\s]+)！": "<size=12>Batalha Final:\n{0}",
@@ -284,7 +284,7 @@
   "([^\\s]+)\n<color=([^\\s]+)>价格：(\\d+)</color>\n<color=([^\\s]+)>需要完成前置关卡：([^\\s]+)6</color>$": "{0}\n<color={1}>Custo: {2}</color>\n<color={3}>Requer a conclusão de Aventura Estelar: {4} | Fase 6</color>",
   "([^\\s]+)（已选）$": "{0} (Selecionado)",
   "需要完成前置关卡：([^\\s]+)6$": "Requer a conclusão de Aventura Estelar: {0} | Fase 6",
-  "价格：(\\d+)$": "Preço: {0}",
+  "价格：(\\d+)$": "Preço: {0} Estrela(s)",
   "^请选择一个任务完成\n([^\\s]+)": "Escolha uma tarefa para concluir:\n Tarefa A: {0}",
   "^奖励：([^\\s]+)$": "Recompensa da tarefa: {0}",
   "^开始，([^\\s]+)": ", {0}",
@@ -478,5 +478,5 @@
   "BUFF_NAME_FORMAT": "<align=center><color=#700000>[{0}]</color></align>\n<align=left>{1}",
   "翻页\\((\\d+)/(\\d+)\\)": "Página {0}/{1} (clique para virar)",
   "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nEsta Rodada: {2}/{3}\n{4}",
-  "^旅行冒险 ([^\\s:]+)": "Aventura da Odisseia: {0}"
+  "^旅行冒险 ([^\\s:]+)": "Modo Aventura: Odisseia | {0}"
 }

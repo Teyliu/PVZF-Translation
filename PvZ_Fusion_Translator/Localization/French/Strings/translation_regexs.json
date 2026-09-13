@@ -520,5 +520,7 @@
   "BUFF_NAME_FORMAT": "<color=#700000>[{0}]</color>\n{1}",
   "翻页\\((\\d+)/(\\d+)\\)": "Page {0}/{1} (cliquez pour tourner)",
   "(\\d+)/(\\d+)\n本轮：(\\d+)/(\\d+)\n(\\d+)": "{0}/{1}\nCette manche : {2}/{3}\n{4}",
-  "^旅行冒险 ([^\\s:]+)": "Odyssée : Aventure | {0}"
+  "^旅行冒险 ([^\\s:]+)": "Odyssée : Aventure | {0}",
+  "^速度x ([^\\s:]+)": "Vitesse de jeu : ×{0}",
+  "^当前幸运：(\\d+)\n场上敌人数量：(\\d+)\n难度积分：(\\d+)": "Chance actuelle : {0}\nZombie(s) : {1}\nPoints de difficulté : {2}"
 }

@@ -1349,6 +1349,24 @@
             "name": "<u><i>Boss Attaquant (En Développement)</i></u>",
             "introduce": "<align=justified><size=36><color=red><i>NOTE : ce zombie est encore en cours de développement et sera finalisé dans une future mise à jour.</i></color>",
             "info": "<color=red>NOTE : ce zombie est encore en cours de développement et sera finalisé dans une future mise à jour.</color>\n\n<color=black>Robustesse : </color>90000\n<color=black>Vitesse de déplacement : </color>Rapide\n<color=black>Caractéristiques :</color>\n<color=black>•</color> Boss. Immunisé au Froid, au Gel, au recul, aux étourdissements et aux effets de changement de rangée. Tue instantanément tout zombie hypnotisé qu’il touche et transforme en Zombie QB Giga-noix toute plante qu’il touche.\n<color=black>•</color> Entre par la droite du terrain en plantant 3 drapeaux devant lui. Chaque drapeau fait apparaître des zombies de type Quarterback toutes les 5 secondes, jusqu’à 5 fois.\n<color=black>•</color> Une fois la deuxième colonne atteinte, il retourne à droite du terrain puis revient planter de nouveaux drapeaux.</color>"
+        },
+        {
+            "theZombieType": 91,
+            "name": "Zombie Quarterback Perchiste",
+            "introduce": "<align=left><size=36><color=black>Personne ne sait pourquoi le Zombie Quarterback Perchiste débarque avec une perche à un match de football, mais à l'en croire, c'est parce qu'il veut s'en servir pour sauter par-dessus ce cheval qui porte un maillot.</color>",
+            "info": "<size=36>Un zombie Quarterback qui pratique aussi le saut à la perche.\n\n<color=black>Robustesse : </color>720+1400 (Type 1)\n<color=black>Vitesse de déplacement : </color>Assez rapide\n<color=black>Caractéristiques : </color><color=#4B0082>Saute par-dessus la première plante qu'il rencontre (bloqué par les plantes hautes), puis perd sa perche.</color>"
+        },
+        {
+            "theZombieType": 133,
+            "name": "Zombie Chacrabouille",
+            "introduce": "<align=left><size=36><color=black>Les zombotanies et leurs plantes correspondantes entretiennent souvent des relations plutôt tendues, mais la Zombie Chacrabouille et Chacrabouille s'entendent à merveille. Elles bavardent, chantent et font les boutiques ensemble en quête de nouvelles tenues. Parfois, elle va même jusqu'à aider Chacrabouille à chasser des Endoflammes à écrabouiller sur la pelouse.</color>",
+            "info": "<size=36>Invoque des Zombies Écraseurs selon le nombre de plantes écrasées.\n\n<color=black>Robustesse : </color><color=#4B0082>1500</color>\n<color=black>Caractéristiques : </color><color=#4B0082>Lorsqu'elle rencontre une plante, sa tête se détache de son corps et écrase toutes les plantes non volantes de la case. Elle invoque ensuite sur cette case autant de Zombies Écraseurs qu'il s'y trouvait de plantes (jusqu'à 3), puis meurt. S'il y a 3 plantes ou plus, elle invoque aussi un Zombie Écraseur Épicé. Si elle ne parvient à écraser aucune plante, elle ressuscite avec tous ses PV.</color>"
+        },
+        {
+            "theZombieType": 261,
+            "name": "<u><i>Jackson Universe</i></u>",
+            "introduce": "<align=left><size=36><color=red>Voici l'ultime frontière de sa tournée mondiale, le chant du cygne d'une légende de la scène. Des fans venus de toute la galaxie se sont rassemblés pour un dernier spectacle de folie. Les chansons et les danses s'enchaînent encore et encore ; personne ne veut que ça s'arrête. La fumée de scène s'élève, ne serait-ce que pour dissimuler le regard de ceux qui ne peuvent se résoudre à dire adieu.</color>",
+            "info": "<color=red>Une tournée sans fausse note qui ne tire jamais sa révérence.</color>\n\n<color=black>Robustesse : </color>90000\n<color=black>Vitesse de déplacement : </color>Rapide\n<color=black>Caractéristiques :</color>\n<color=black>•</color> Boss. Insensible au Froid, au Gel, aux étourdissements, au Poison, à l'effet Enflammé et à la crevaison des pneus. Lorsqu'il annule un effet Froid, Poison ou Enflammé, il subit des dégâts égaux à 0,01 %, 0,04 % ou 0,04 % de ses PV, respectivement.\n<color=black>•</color> Tue instantanément toute plante ou tout zombie hypnotisé qu'il touche et inflige des dégâts continus aux Orties et aux Pierres Épineuses.\n<color=black>•</color> Fait des allers-retours sur la moitié droite de la pelouse. Change de rangée toutes les 5 s. Environ toutes les 10 s, invoque 4 Michael Superstar et 4 Super Zombies Danseurs.</color>"
         }
     ]
 }
