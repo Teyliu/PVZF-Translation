@@ -3,7 +3,7 @@
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.8.1**.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.9**.
 
 > **Discord Server**:
 >
@@ -16,6 +16,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
+**Multi-Language 3.9 Alpha** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.9_alpha)
 **Multi-Language 3.8.1 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.8.1_beta)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
 **Chinese 3.9** | PC | [MEGA1](https://mega.nz/file/iEJmVCiB#LgM5oqmz9uF6IzGQYkHukjRMoJdDI43L6Pp4kqQu0_g) [MEGA2](https://mega.nz/file/syZlnAJB#6LEdBVYPfDYHINGpnO1acB0HRTUzc1Y_0SxlPQ-oCOE) [Google Drive](https://drive.google.com/file/d/1VMuLhJvi8r58UNzPE-esrWDvZguvAVKd/view?usp=sharing)
