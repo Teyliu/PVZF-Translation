@@ -3441,6 +3441,10 @@
   "究极黑曜石高坚果\n皮肤挑战": "Obsidian Tall-nut\nSkin Challenge",
   "沙漠": "Desert",
   "哔哩哔哩直播互动设置": "This Screen is for Bilibili Streamers Only!",
+  "-------Strings - TGE 3.9": "Strings - TGE 3.9-------",
+  "自选词条": "Custom Modifiers",
+  "共5轮，每轮从5个词条中自选一个僵尸词条": "Pick 5 random Zombie modifiers of your choice.",
+  "以50的幸运开局，并使幸运上限增加至300，然后随机选择5个僵尸词条\n随机的5个词条只有在成功通关任意难度诸神进化后才会刷新": "Start with 50 Luck and increase the Luck cap to 300, but take 5 random Zombie modifiers.\nThe chosen modifiers will change every time The Gods: Evolved is beaten."
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "Tiles saved!",
   "加载格子完毕！": "Tiles loaded!",
