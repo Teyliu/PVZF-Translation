@@ -3455,7 +3455,7 @@
             "seedType": 1293,
             "name": "Sea-nut",
             "introduce": "<align=left><size=36><color=black>Sea-nut loves spending time with the Water Beads, watching them soak up water and grow, its round body shimmering with rainbow light, reflected in innocent eyes. \"Time is like a blue butterfly fluttering past the stream~ Once it's gone, you'll never see it again~\"</color>",
-            "info": "<size=36>Sea-nut grows larger and larger after being fused, eventually rolling down the lane and destroying all zombies in its wake..\n\n<color=black>Toughness: </color><color=#8B0000>2000 (initial), 6000 (max)</color>\n<color=black>Special: </color><color=#8B0000>Grows at 10s and 20s after planting, increasing HP and durability by 2000 each time. At 30s after planting, turns into a bowling nut rolling forward, dealing 600 damage every 0.02s on contact.</color>",
+            "info": "<size=36>Sea-nut grows larger and larger after being fused, eventually rolling down the lane and destroying all zombies in its wake..\n\n<color=black>Toughness: </color><color=#8B0000>2000 (initial), 6000 (max)</color>\n<color=black>Special: </color><color=#8B0000>Grows at 10s and 20s after planting, increasing HP and Toughness by 2000 each time. At 30s after planting, turns into a bowling nut rolling forward, dealing 600 damage every 0.02s on contact.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Wall-nut > Sea-shroom</color>"
         },
         {
