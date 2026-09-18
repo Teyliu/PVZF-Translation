@@ -677,11 +677,11 @@
             "desc": "Plants deal 30% more damage to zombies that are above 50% health, and 30% less damage to those below 50% health"
         },
         "14000": {
-            "name": "Curse of 1 4 3 7",
+            "name": "Curse of MCDXXXVII",
             "desc": "Magnetar's attack speed is halved. After 1,437 attacks, reverse the curse, with each volley counting as 5 attacks\nReversal effect: Quasar projectiles from Magnetar gain an additional 1,437 base damage"
         },
         "14001": {
-            "name": "Blessing of 1 4 3 7",
+            "name": "Blessing of MCDXXXVII",
             "desc": "Quasar projectiles from Magnetar gain an additional 1,437 base damage"
         },
         "14002": {
