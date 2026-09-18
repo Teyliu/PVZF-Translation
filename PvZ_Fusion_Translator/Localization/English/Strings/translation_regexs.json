@@ -485,6 +485,7 @@
   "^旅行冒险 ([^\\s:]+)": "Odyssey Adventure: {0}",
   "^速度x([^\\s:]+)": "<size=75%>Game Speed: ×{0}",
   "^当前幸运：(\\d+)\n场上敌人数量：(\\d+)\n难度积分：(\\d+)": "Current Luck: {0}\nZombie(s): {1}\nDifficulty Points: {2}",
+  "^([\\s\\S]+)\n\n难度积分：(\\d+)": "{0}\n\nDifficulty Points: {1}",
   "^当前幸运：(\\d+)\n场上敌人数量：(\\d+)": "Current Luck: {0}\nZombie(s): {1}",
   "^复活时间降低(\\d+)%\n当前标准复活时长：([\\s\\S]+)秒": "Reduce plant respawn time by {0}%\nCurrent respawn time: {1}s",
   "持有护盾的植物每秒回复0.1%护盾量的生命值，并立即获得(\\d+)护盾": "Plants with Shield recover HP equal to 0.1% of their Shield every second, and gain {0} Shield immediately",
