@@ -419,6 +419,7 @@
   "-------Strings - 3.7 The Gods Evolved": "Strings - 3.7 The Gods Evolved-------",
   "^强化：([^\\s：]+)": "Upgrade: {0}",
   "^质变：([^\\s：]+)": "Ascend: {0}",
+  "^进化：([^\\s：]+)": "Evolve: {0}",
   "时间陷阱：剩余时间：([^\\s：]+)秒": "Time Attack | Remaining Time: {0}s",
   "诸神：进化，推荐难度0~3，第(\\d+)轮": "The Gods: Evolved, Recommended Difficulty 0~3, Round {0}",
   "最多(\\d+)株植物": "Up to {0} Plant(s)",

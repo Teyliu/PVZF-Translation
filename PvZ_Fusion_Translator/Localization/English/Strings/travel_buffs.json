@@ -650,7 +650,7 @@
         },
         "12022": {
             "name": "Ascend: Circle of Death",
-            "desc": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10 seconds"
+            "desc": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10s"
         },
         "13000": {
             "name": "Blast Protection",
