@@ -88,7 +88,7 @@
             "seedType": 12,
             "name": "Lily Pad",
             "introduce": "<align=left><size=36><color=black>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
-            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Non-aquatic plants can be planted on it. When specific plants are placed, Lily Pad transforms into a variant of it that can <i>automatically plant</i> the plant that transformed it every 90s.</color>\n<color=black>Variants: </color><color=#8B0000>Sunflower, Wall-nut, Threepeater, Squash, Torchwood, Jalapeno.</color>\n<color=black>Special Variants: </color><color=#8B0000>Doom-shroom:\n-Cannot be shoveled or moved, immune to damage and does not block zombies.\n-Cannot be turned into another variant. Kills any plant on itself except Doom-shrooms.\n-Spawns a Doom-shroom every 90s. All Doom Pads share this CD.\n-When a Doom-shroom explosion triggers on a water tile, a Doom Pad is spawned on that tile.\n-Can only be removed by turning it into a Cattail using a Fertilizer.</color></size>",
+            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Non-aquatic plants can be planted on it. When specific plants are placed, Lily Pad transforms into a variant of it that can <i>automatically plant</i> the plant that transformed it every 90s.</color>\n<color=black>Variants: </color><color=#8B0000>Sunflower, Wall-nut, Threepeater, Squash, Torchwood, Jalapeno.</color>\n<color=black>Special Variants: </color><color=#8B0000>Doom-shroom:\n-Cannot be shoveled or moved, immune to damage and does not block zombies.\n-Cannot be turned into another variant. Kills any plant on itself except Doom-shrooms and Evil plants.\n-Can start to produce Doom-shrooms 90s after appearance. Every second, all producting Doom Pads have a 0.5% chance to spawn a Doom-shroom.\n-When a Doom-shroom explosion (except Doom Kelp) triggers on a water tile, a Doom Pad is spawned on that tile.\n-Can only be removed by turning it into a Cattail using a Fertilizer.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -249,8 +249,8 @@
             "seedType": 35,
             "name": "Firnace",
             "introduce": "<align=left><size=36><color=black>Firnace won the sixth annual “Plant Helper” award of the Snowy Plains. Fellow plants agreed the honor was well deserved—after all, he’s so busy keeping others warm, he hasn’t even had time to clear the snow off his own head.</color>",
-            "info": "<size=36>Firnace is a floating firwood heater that helps nearby plants resist the cold and produces Sun.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying plant. Reduces Freeze time on protected plants by 75%.\n<color=black>•</color> Deals 500 damage every 3s to ice blocks within its protection range and drops 25 Sun.\n<color=black>•</color> Absorbs the base Snow plant below it to temporarily evolve into a Hi-temp Firnace, expanding its protection range to 3×3 for (0.6 × Plant Cost) seconds before reverting. Otherwise lasts 180s. Hi-temp Firnaces continuously produce Sun, returning a total of 3× the Sun Cost of the absorbed plant.</color>",
-            "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color>"
+            "info": "<size=36>Firnace is a floating firwood heater that helps nearby plants resist the cold and produces Sun.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying plant. Reduces Freeze time on protected plants by 75%.\n<color=black>•</color> Deals 500 damage every 3s to ice blocks within its protection range and drops 25 Sun.\n<color=black>•</color> Absorbs the base Snow plant below it to temporarily evolve into a Hi-temp Firnace, expanding its protection range to 3×3 for (1 × Plant Cost) seconds before reverting. Otherwise lasts 180s. Hi-temp Firnaces continuously produce Sun, returning a total of 5× the Sun Cost of the absorbed plant.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 36,
@@ -277,7 +277,7 @@
             "seedType": 39,
             "name": "Bamblock",
             "introduce": "<align=left><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock's motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
-            "info": "<size=36>Bamblock damages incoming zombies at the cost of its own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Bamblocks.\n<color=black>•</color> Immune to crush.\n<color=black>•</color> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
+            "info": "<size=36>Bamblock damages incoming zombies at the cost of its own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Bamblocks.\n<color=black>•</color> Immune to crush.\n<color=black>•</color> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.\n<color=black>•</color> Considered to be deglaciated by the plants when deglaciated.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
@@ -286,6 +286,41 @@
             "introduce": "<align=left><size=36><color=black>To survive the frozen tundra, Hoarfrost Lichen evolved a coat of soft white fluff. But it's more trouble than it's worth - she sheds constantly, and other plants just can't resist patting her, like she's some wild dandelion.</color>",
             "info": "<size=36>Hoarfrost Lichen bursts into a ring of snowballs, freezing both plants and zombies nearby.\n\n<color=black>Damage: </color><color=#8B0000>600×7</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze and glaciation.\n<color=black>•</color> Snowballs fired to the left deal 1 damage to plants and freeze plants in a 3×3 area.\n<color=black>•</color> All other snowballs deal 600 damage to zombies and apply Deep Freeze for 1 second.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 41,
+            "name": "Tundraweed",
+            "introduce": "<align=left><size=36><color=black>Tundraweed's proudest achievement is that he once rolled all the way up a snowy peak. He says it was the highest he'd ever rolled. He immediately rolled back down after reaching the top, but for that brief moment at the summit, he got to see the scenery beyond the snowy plains. Ever since, he's wanted to roll up there again every day. He falls just short every time, but time is on his side.</color>",
+            "info": "<size=36>Tundraweed rolls towards enemies and damages them.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>50/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Leaves its tile 1 second after appearing and rolls toward the leftmost zombie in its row, dealing 50 damage to every 0.25s. If there is no target, slowly rolls away to the right.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 42,
+            "name": "Saber-shroom",
+            "introduce": "<align=left><size=36><color=black>No mushroom has ever had such a hard cap that it can slash like a sword. In truth, Saber-shroom's cap isn't anything special. He just keeps a local specialty from a distant friend tucked inside it. What was it called again... Oh, a baguette.</color>",
+            "info": "<size=36>Saber-shroom delivers a powerful slash to nearby enemies when it appears, highly effective against Lost Automata of the same color.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals area damage to the 2 tiles in front, piercing Type 2 armor.\n<color=black>•</color> Releases a <u>Special Slash</u> when it appears. <u>Special Slash</u> deals damage equal to 15× damage to the 3 tiles in front and counters Green Signals. Upon successful counters, returns 100 Sun and restores 90% of the recharge of the caster's main seed packet.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 43,
+            "name": "Shield-shroom",
+            "introduce": "<align=left><size=36><color=black>As the owner of a repair shop, Shield-shroom usually only needs one trick to repair stuff: give it a good whack. If one hit doesn't fix it, that's no problem. Just hit it a few more times.</color>",
+            "info": "<size=36>Shield-shroom delivers a powerful bash to nearby enemies when it appears, highly effective against Lost Automata of the same color.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>1/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Bashes the nearest enemy within 1.5 tiles in front, knocking it back.\n<color=black>•</color> Reflects enemy projectiles, taking damage equal to 50% of the projectile's damage after successful reflection.\n<color=black>•</color> Releases a <u>Special Bash</u> when it appears. <u>Special Bash</u> makes the Shield-shroom anti-crush and gain a 95% Damage Resistance for 1.5s, knocks back all enemies in 1.5 tiles in front and counters Red Signals. Upon successful counters, returns 100 Sun and restores 90% of the recharge of the caster's main seed packet.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 44,
+            "name": "Lithops",
+            "introduce": "<align=left><size=36><color=black>\"So many hidden insects in the tundra soil. They're so cute, I just can't bear to stab them…\" But when an enemy actually comes right up to her, there's no time to worry about that.</color>",
+            "info": "<size=36>Lithops lies hidden and quietly sends out roots to attack nearby zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Ignored by zombies.\n<color=black>•</color> Attacks zombies in a 3×3 area.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 211,
+            "name": "Coffee Bean",
+            "introduce": "<align=left><size=36><color=black>\"Hey, guys, hey!\" says Coffee Bean. \"Hey! What's up? Who's that? Hey! Didja see that thing? What thing? Whoa! Lions!\" Yep, Coffee Bean sure does get excited.</color>",
+            "info": "Coffee Bean helps plants overcome \"traveller's diarrhea.\"\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying plant.\n<color=black>•</color> For this level, all base plants on the tile under a Coffee Bean are exempt from the seed packet price increases caused by the snow map and daytime settings.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 212,
@@ -347,7 +382,7 @@
             "seedType": 220,
             "name": "Golden Recycling Vase",
             "introduce": "<align=left><size=36><color=black>Golden Recycling is the largest barter platform among plants. As the founder, Golden Recycling Vase helps plants trade unused secondhand items, and also offers those looking for a random trip a chance, and a way, to get there.</color>",
-            "info": "Golden Recycling Vase can recycle unwanted plants and turn them into surprises!\n\n<color=#3D1400>Unlock Conditions: </color><color=#8B0000> Complete Vasebreaker: The Vase Less Travelled by, De-vase-tating! and Potluck</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge is below 3, you can use the Glove to move plants inside and for it to gain charge. Base plants/simple fusions/advanced fusions grant 1/2/3 charges respectively\n<color=black>•</color> Tap to break the pot. Drops a plant seed packet based on stored charge:\n-1 charge: Base plant\n-2 charge: Simple fusion\n-3 or more: Advanced fusion\n\n<color=black>•</color> If an Odyssey plant was ever stored, it will always drop an Odyssey plant.</color>",
+            "info": "Golden Recycling Vase can recycle unwanted plants and turn them into surprises!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When charge is below 3, you can use the Glove to move plants inside and for it to gain charge. Base plants/simple fusions/advanced fusions grant 1/2/3 charges respectively\n<color=black>•</color> Tap to break the pot. Drops a plant seed packet based on stored charge:\n-1 charge: Base plant\n-2 charge: Simple fusion\n-3 or more: Advanced fusion\n\n<color=black>•</color> If an Odyssey plant was ever stored, it will always drop an Odyssey plant.</color>",
             "cost": "Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -361,14 +396,14 @@
             "seedType": 222,
             "name": "Bamboom",
             "introduce": "<align=left><size=36><color=black>As the New Year approaches, Bamboom hit the streets for some holiday shopping. \"I used to be swamped every year, setting off fireworks at every house during the festival,\" he said. \"But now, with these new firecrackers made from cherry-chilli infused gunpowder, I can finally relax and enjoy my retirement.\" It must be said that the new firecrackers are remarkably effective—he plans to buy a bundle this year too.</color>",
-            "info": "Bamboom can scare off both zombies and demons, with a body as slender as a bundle of silk but breath as powerful as thunder.\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
+            "info": "Bamboom can scare off both zombies and demons, with a body as slender as a bundle of silk but breath as powerful as thunder.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
             "cost": "Cost: <color=#8B0000>275</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
             "seedType": 223,
             "name": "Hearty Apple",
             "introduce": "<align=left><size=36><color=black>\"Peace and joy!\" Hearty Apple cheerfully greets every plant that passes by. Zombies get a special greeting instead: \"In this season of gratitude, have a happy Halloween!\", tailored based on the zombies' error-ridden calendar.</color>",
-            "info": "<size=36>Hearty Apple wards off disaster and keeps you \"apples\" safe by taking damage on their behalf!\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
+            "info": "<size=36>Hearty Apple wards off disaster and keeps you \"apples\" safe by taking damage on their behalf!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts with 0 energy. Max energy is capped at 4k. Regenerates 1 energy every 0.02s. When damaged or when energy is consumed, energy regen is paused for 1s. When energy is depleted, energy regen is paused for 5s.\n<color=black>•</color> Consumes the amount of energy equal to the damage to block damage for plants in a 3×3 area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
@@ -396,7 +431,7 @@
             "seedType": 227,
             "name": "Diamond Imitater",
             "introduce": "<align=left><size=36><color=black>He is a merchant, the most stereotypical one. No stance, no loyalty, driven only by profit. He freely changes sides between plants and zombies, smuggling goods. What he brings you might be the key to a comeback… or complete trash… or even a powerful enemy. But what happens to you ultimately has nothing to do with him. After all, you knew exactly what you were buying.</color>",
-            "info": "<size=36>I'm shipping it out! - Wait, no, I've caused trouble again!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=#4A2900>Unlock Conditions: Complete Odyssey Gacha: Diamond Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only usable in Odyssey Gacha levels.\n<color=black>•</color> 1.5s after appearing, generates a random plant, zombie, or event.\n<color=black>•</color> Chances: Odyssey plants (10%); Plants obtainable from Giftboxes (50%); Odyssey zombies (10%); Bosses, Mini-bosses, or Odyssey zombies (10%); Common zombies (15%); Random events (5%). Generated zombies have random 0.8×/1×/1.2× health.\n<color=black>•</color> List of Events: \n<color=black>-</color> 1. Gain 200 Sun.\n<color=black>-</color> 2. Acquire an Odyssey Modifier.\n<color=black>-</color> 3. Instantly kill all zombies within 1.5-tiles' range.\n<color=black>-</color> 4. Deal 4000 damage to plants in a 3×3 area.\n<color=black>-</color> 5. Create a column of Fireballs rolling right, inflicting Enflamed and leaving a 40-damage fire trail.</color>",
+            "info": "<size=36>I'm shipping it out! - Wait, no, I've caused trouble again!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only usable in Odyssey Gacha levels.\n<color=black>•</color> 1.5s after appearing, generates a random plant, zombie, or event.\n<color=black>•</color> Chances: Odyssey plants (10%); Plants obtainable from Giftboxes (50%); Odyssey zombies (10%); Bosses, Mini-bosses, or Odyssey zombies (10%); Common zombies (15%); Random events (5%). Generated zombies have random 0.8×/1×/1.2× health.\n<color=black>•</color> List of Events: \n<color=black>-</color> 1. Gain 200 Sun.\n<color=black>-</color> 2. Acquire an Odyssey Modifier.\n<color=black>-</color> 3. Instantly kill all zombies within 1.5-tiles' range.\n<color=black>-</color> 4. Deal 4000 damage to plants in a 3×3 area.\n<color=black>-</color> 5. Create a column of Fireballs rolling right, inflicting Enflamed and leaving a 40-damage fire trail.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
@@ -410,7 +445,7 @@
             "seedType": 229,
             "name": "Lucky Blover",
             "introduce": "<align=left><size=36><color=black>Lucky Blover never believed the number four was unlucky. She's convinced that with her cute looks and good fortune, she can help plants see the number four in a better light. Still, what plants really wonder is: what kind of wind could possibly change the inside of a tightly sealed box?</color>",
-            "info": "<size=36>Changes the winds of fate for you~\n\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>Forces your next Plant Giftbox to generate a guaranteed Advanced/Titan fusion. In Odyssey Gacha Mode, it will instead guarantee an Odyssey plant.</color>",
+            "info": "<size=36>Changes the winds of fate for you~\n\n<color=black>Special: </color><color=#8B0000>Forces your next Plant Giftbox to generate a guaranteed Advanced/Titan fusion. In Odyssey Gacha Mode, it will instead guarantee an Odyssey plant.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>50s</color>"
         },        
         {
@@ -473,7 +508,7 @@
             "seedType": 238,
             "name": "Chrysanctum",
             "introduce": "<align=left><size=36><color=black>Chrysanctum loves the snowy plains—every second here is rewarding and joyful. After all, he'd never seen snow before.</color>",
-            "info": "<size=36>Chrysanctum grants nearby plants temporary invincibility!\n\n<color=blue>PvZ: Ultimate Collab Plant</color>\n<color=#4A2900>Unlock Conditions: </color><color=#8B0000> Complete Adventure Level 45</color>\n<color=black>Special: </color><color=#8B0000>\nDisappears 2s after planting. Grants all plants in a 3×3 area 6s of immunity to all damage and crushing.</color>",
+            "info": "<size=36>Chrysanctum grants nearby plants temporary invincibility!\n\n<color=blue>PvZ: Ultimate Collab Plant</color>\n<color=black>Special: </color><color=#8B0000>\nDisappears 2s after planting. Grants all plants in a 3×3 area 6s of immunity to all damage and crushing.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
@@ -494,49 +529,49 @@
             "seedType": 241,
             "name": "Coldsnap Bean",
             "introduce": "<align=left><size=36><color=black>The plants couldn't figure out how such a tiny bean could chill the air so effectively. But Coldsnap Bean just grinned mischievously. \"You know why Cattail sneezes when she washes clothes? Because she washes 'cat' clothes.\" Maybe the real magic was in his sense of humor.</color>",
-            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=#4A2900>Unlock Conditions: Complete Wall-nut Billiards 1</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying plant.\n<color=black>•</color> Strengthens snow pea shooters in a 3×3 surrounding area to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
+            "info": "<size=36>Hey↑ Yeh↓!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying plant.\n<color=black>•</color> Strengthens snow pea shooters in a 3×3 surrounding area to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 242,
             "name": "Queen Endoflame",
             "introduce": "<align=left><size=36><color=black>The once-fiery little flower has grown into a master of sunlight production after enduring hardships. Queen Endoflame no longer needs to get hurt to shine. The torch on her head has become her power, blazing like the sun. The shining flames keep passing on, creating one Endoflame after another.</color>",
-            "info": "<size=36>Queen Endoflame blasts zombies to dust with homing solar flares.\n\n<color=blue>PvZ: Barley Edition S6 Collab Plant</color>\n<color=#4A2900>Usage Conditions: Odyssey Mode</color>\n<color=#4A2900>Unlock Conditions: Clear Odyssey Classic</color>\n<color=black>Damage: </color><color=#8B0000>50×8/3s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases damage by 50% for each unique type of Odyssey Plant on the field.\n<color=black>•</color> Targets zombies across the screen.\n<color=black>•</color> Projectiles return 5 sun on hit and can be upgraded by passing through Infernowoods/Infernal Squashwood for x4 damage and the ability to return 15 sun each (with the increased sun value Odyssey Modifier, return 15 and 25 sun instead).<color=#8B0000></color>",
+            "info": "<size=36>Queen Endoflame blasts zombies to dust with homing solar flares.\n\n<color=blue>PvZ: Barley Edition S6 Collab Plant</color>\n<color=#4A2900>Usage Conditions: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>50×8/3s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases damage by 50% for each unique type of Odyssey Plant on the field.\n<color=black>•</color> Targets zombies across the screen.\n<color=black>•</color> Projectiles return 5 sun on hit and can be upgraded by passing through Infernowoods/Infernal Squashwood for x4 damage and the ability to return 15 sun each (with the increased sun value Odyssey Modifier, return 15 and 25 sun instead).<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 243,
             "name": "Burger Blaster",
             "introduce": "<align=left><size=36><color=black>Plants often wonder about Burger Blaster's origins, especially when they see him stacking other plants on him to enhance his power. In truth, he's just a byproduct of Dave's attempt to make a taco out of plants. \"Actual product may vary. Additional fillings are self-provided.\"</color>",
-            "info": "<size=36>Assemble the burger as instructed by the labels!\n\n<color=blue>PvZ: Hybrid Edition Collab Plant</color>\n<color=#4A2900>Unlock Conditions: Beat Vasebreaker - Chain Reaction</color>\n<color=black>Damage: </color><color=#8B0000>20×2/3s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000> Tall plant. Fires random projectiles. Upgrade by fusing with Cactus, Melon-pult, and Winter Melon (in order) to reach the highest level.<color=black>\n\n|</color> Cactus Upgrade <color=black>|</color> Level: 0 → 1\n<color=black>•</color> Toughness: 1000 → 2000\n<color=black>•</color> Attack Interval: 3 → 2.5\n<color=black>•</color> Num. of Shots: 2 → 4\n<color=black>•</color> New Projectiles: Spike, Butter, Squash\n\n<color=black>|</color> Melon-pult Upgrade <color=black>|</color> Level: 1 → 2\n<color=black>•</color> Toughness: 2000 → 3000\n<color=black>•</color> Attack Damage: 30 → 40\n<color=black>•</color> Num. of Shots: 4 → 6\n<color=black>•</color> New Projectiles: Hot Melon, Melon\n\n<color=black>|</color> Winter Melon Upgrade <color=black>|</color> Level: 2 → 3\n<color=black>•</color> Toughness: 3000 → 4000\n<color=black>•</color> Attack Interval: 2.5 → 2\n<color=black>•</color> Num. of Shots: 6 → 8\n<color=black>•</color> New Projectiles: Winter Melon, Snow Pea, Snow Spore, Doomspike<color=#8B0000></color>",
+            "info": "<size=36>Assemble the burger as instructed by the labels!\n\n<color=blue>PvZ: Hybrid Edition Collab Plant</color>\n<color=black>Damage: </color><color=#8B0000>20×2/3s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000> Tall plant. Fires random projectiles. Upgrade by fusing with Cactus, Melon-pult, and Winter Melon (in order) to reach the highest level.<color=black>\n\n|</color> Cactus Upgrade <color=black>|</color> Level: 0 → 1\n<color=black>•</color> Toughness: 1000 → 2000\n<color=black>•</color> Attack Interval: 3 → 2.5\n<color=black>•</color> Num. of Shots: 2 → 4\n<color=black>•</color> New Projectiles: Spike, Butter, Squash\n\n<color=black>|</color> Melon-pult Upgrade <color=black>|</color> Level: 1 → 2\n<color=black>•</color> Toughness: 2000 → 3000\n<color=black>•</color> Attack Damage: 30 → 40\n<color=black>•</color> Num. of Shots: 4 → 6\n<color=black>•</color> New Projectiles: Hot Melon, Melon\n\n<color=black>|</color> Winter Melon Upgrade <color=black>|</color> Level: 2 → 3\n<color=black>•</color> Toughness: 3000 → 4000\n<color=black>•</color> Attack Interval: 2.5 → 2\n<color=black>•</color> Num. of Shots: 6 → 8\n<color=black>•</color> New Projectiles: Winter Melon, Snow Pea, Snow Spore, Doomspike<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 244,
             "name": "Jicamagic",
             "introduce": "<align=left><size=36><color=black>\"I'm a grand magician to rival the great Imitater,\" proclaimed Jicamagic. However, only his good friend, Imitater, knows the truth: Jicamagic and Dr. Edgar used to study life sciences in the same class.</color>",
-            "info": "<size=36>Jicamagic is the catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat Jicamagic Challenge</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\". Titan plants are immune to glaciation and wisping.<color=#8B0000></color>",
+            "info": "<size=36>Jicamagic is the catalyst for Titan fusions.\n\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\". Titan plants are immune to glaciation and wisping.<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 245,
             "name": "Imitater",
             "introduce": "<align=left><size=36><color=black>\"I remember the Zombie Wars back in 76\", says Imitater in a raspy, old-man's voice. \"Back then, we didn't have all these fancy peashooters and jalapenos. All we had was guts. Guts and a spoon.\"</color>",
-            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=#4A2900>Unlock Conditions: Beat Odyssey Gacha - Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins, drones, or Legendary Harvest mode plants. \n<color=black>•</color> Failure returns an Imitater seed packet.</color>",
+            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins, drones, or Legendary Harvest mode plants. \n<color=black>•</color> Failure returns an Imitater seed packet.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>5 mins</color>"
         },
         {
             "seedType": 248,
             "name": "Nyan Squash",
             "introduce": "<align=left><size=36><color=black>\"The grace of a cat and the clumsiness of a squash make a unique kind of beauty,\" Nyan Squash murmurs. \"Once I master both, I'll stir things up on this lawn.\" She adjusts her hat and locks eyes on an unsuspecting zombie nearby.</color>",
-            "info": "<size=36>Super Neko, Nyan Squash!\n\n<color=#4A2900>Unlock Conditions: Beat Squash Showdown</color>\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Drops itself if it doesn't hit anything. For each zombie crushed, a Squash seed packet is dropped, up to a maximum of 3. Crushing 3 or more zombies will drop an additional Spicy Squash seed packet. This does not trigger in water lanes.</color>",
+            "info": "<size=36>Super Neko, Nyan Squash!\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Special: </color><color=#8B0000>Drops itself if it doesn't hit anything. For each zombie crushed, a Squash seed packet is dropped, up to a maximum of 3. Crushing 3 or more zombies will drop an additional Spicy Squash seed packet. This does not trigger in water lanes.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 249,
             "name": "Swordmaster Starfruit",
             "introduce": "<align=left><size=36><color=black>\"I have fought across 3,000 miles of battlefield, my blade halting millions in their tracks.\" The Swordmaster Starfruit, a lover of fine drinks and poetry, takes great pride in his impeccable cosplaying skills. With a sly smile, he adds, \"My sword never bleeds, for it is merely a decoration.\"</color></size>",
-            "info": "<size=36>A guest from afar, I think you will want to become friends.\n\n<color=#4A2900>Unlock Conditions: Beat The Gods 1</color>\n<color=black>Damage: </color><color=#8B0000>(200×5+30×20)/6s</color>\n<color=black>Special: </color><color=#8B0000>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 30 damage to all zombies within the surrounding area, repeating this 20 times.</color></size>",
+            "info": "<size=36>A guest from afar, I think you will want to become friends.\n\n<color=black>Damage: </color><color=#8B0000>(200×5+30×20)/6s</color>\n<color=black>Special: </color><color=#8B0000>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 30 damage to all zombies within the surrounding area, repeating this 20 times.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
@@ -557,14 +592,14 @@
             "seedType": 252,
             "name": "Cattail Girl",
             "introduce": "<align=left><size=36><color=black>\"Cats are usually afraid of water, but I'm a magical cat girl, so I'm not afraid,\" she said enthusiastically, and the other cats looked at her with admiration. Actually, she absolutely loves water, and she said this to make herself stand out.</color></size>",
-            "info": "<size=36>The Cattail Girl will automatically attack all zombies that appear on the map. Prioritizes flying zombies.\n\n<color=blue>Plant Girls vs Zombies Collab Plant</color>\n<color=#4A2900>Unlock Conditions: Beat Attack On Gargantuar!</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1.5s</color></size>",
+            "info": "<size=36>The Cattail Girl will automatically attack all zombies that appear on the map. Prioritizes flying zombies.\n\n<color=blue>Plant Girls vs Zombies Collab Plant</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1.5s</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
         {
             "seedType": 253,
             "name": "Barley",
             "introduce": "<align=left><size=36><color=black>Barley calls itself a generalist, but other plants think of it as just a bit player — \"After all, other plants always do the work, don't they?\"</color></size>",
-            "info": "<size=36>Barley regularly transforms into other plants.\n\n<color=#4A2900>Unlock Conditions: Beat I, Zombie (Sandbox Included) via Normal Mode</color>\n<color=black>Special: </color><color=#8B0000>Transforms into a random non-Odyssey fusion (or upgrade) plant every 30s. Transformation stops after further manual fusion.</color></size>",
+            "info": "<size=36>Barley regularly transforms into other plants.\n\n<color=black>Special: </color><color=#8B0000>Transforms into a random non-Odyssey fusion (or upgrade) plant every 30s. Transformation stops after further manual fusion.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
@@ -663,6 +698,13 @@
             "name": "Ultra Mecha-nut",
             "introduce": "<align=left><size=36><color=black>The Ultra Mecha-nut is a plant you can spot from across the lawn. Rumor has it that it was once modified by Dr. Edgar, though he himself doesn't seem to recall the event. Meanwhile, with the help of his fellow Wall-nuts, his renewable energy business has officially gone public under the stock ticker \"NUTS\".</color>",
             "info": "<size=36>Possesses a massive body that absorbs damage for all plants on the lawn, and heals itself when other plants are healed.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Toughness: </color><color=#8B0000>64000</color>\n<color=black>Damage Cap: </color><color=#8B0000>1000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Titan and tall plant, anti-crush.\n<color=black>•</color> Max HP can exceed toughness.\n<color=black>•</color> Absorbs damage for all plants across the field. Heals itself by the same amount whenever other plants on the field heal, and heals ×10 the amount from metal objects compared to Giga Mecha-nut.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 311,
+            "name": "Final Magnetar",
+            "introduce": "<align=left><size=36><color=black>He forges his armor with the density of a neutron star and commands his orbiting guards to the rhythm of a pulsar. Zombies are nothing more than tiny specks of dust, destined to fade away with time. He gives them little thought. In the near-eternal lifespan of this magnetar, he has seen far too many such specks.</color>",
+            "info": "<size=36>The stardust converges, forming constellastions of a crown and robe.\n\n<color=#4A2900>Usage Condition: Harvest Mode</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks continuously regardless of whether a target is acquired.\n<color=black>•</color> Projectiles track targets across the entire field, prioritising flying targets. Damage against flying targets is ×10.\n<color=black>•</color> Summons a satellite every 6s:\n· Orbits around it at a radius of 3 tiles just above the ground;\n· Upon contacting a zombie, deals knockback and damage equal to 30% of Attack every 0.02s, then splits into 5 projectiles dealing 1× Attack each;\n· Explodes directly in front after 4s, dealing damage equal to the satellite's total damage dealt through direct contact.</color>",
             "cost": ""
         },
         {
@@ -1399,6 +1441,13 @@
             "introduce": "<align=left><size=36><color=black>The entrance to the ice sculpture exhibition has always displayed a sign saying \"Zombies Not Allowed.\" But after Firnessence Panacea attended one time, the sign was changed to \"Zombies and Firnaces Not Allowed.\"</color>",
             "info": "<size=36>Firnessence Panacea rapidly thaws nearby plants while providing healing and the aura of the snowy plains.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Flying, has a 3×3 protection range. When planted or moved and its protection range overlaps with that of another Firnessence Panacea, drops itself as a seed packet.\n<color=black>•</color> For protected plants: reduces Freeze duration by 75%; when Glaciation is removed, it is always considered to have been removed by plants.\n<color=black>•</color> Essence Storage: Stores 1 Essence every 15s and 1 Essence when affected by Ice-shroom (up to 3).\n<color=black>•</color> Essence Usage: Automatically uses 1 Essence every 3s, If Essence storage is already full, or if a protected plant meets any of the following conditions, uses 1 stored Essence:\n-Frozen or Glaciated\n-HP below 1/3\n-Curse stacks exceed 2/3 of its HP\n<color=black>•</color> Essence Effects on discharge:\n-Immediately removes Freeze or Glaciation from 1 plant in range\n-Deals 500 damage to Ice blocks in range\n-Grants Snow plants in range 10 stacks of Ice Charge\n<color=black>•</color> Essence Effects on landing:\n-Restores 100 HP to all plants in range\n-Grants Snow plants in range 100 Shield\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Essence increases plants' max HP by 0.2% of their base Toughness for the current round\n2. Essence Healing & Shield power ×2 | Number of Freeze & Glaciation removals ×3 | Automatic Essence recovery speed ×2</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnurse + Aloe Nivea</color>"
+        },
+        {
+            "seedType": 5003,
+            "name": "Pyroboros Pot",
+            "introduce": "<align=left><size=36><color=black>\"When I was little, I really looked forward to the New Year.\" Pyroboros Pot said slowly. He used to be notoriously mischievous, and New Year was the only time he wouldn't get scolded for causing trouble. Now that he's old, all he wants is to rest comfortably, chewing over memories of the past while watching the children happily play, as if every day were New Year.</color>",
+            "info": "<size=36>Pyroboros Pot helps plants eliminate zombies in a festive environment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Dragonbreath Torcher</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Dragonbreath Torcher.\n<color=black>•</color> Cherry Bomb fusions and Jalapeno fusions on it gain 30% bonus attack damage.\n<color=black>•</color> When affected by Cherry Bomb/Jalapeno explosions, heals fusions above by 100 HP and grants straight-firing plants above a 1%/5% attack speed buff for 5s (stackable). When [Cherry On Top] is active, attack speed buff provided by Cherry Bomb explosions becomes 10%. This effect can trigger at most once every 0.2s.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed Buff duration  ×2\n2. Releases a Cherry Bomb and a Jalapeno effect every 4s</color>",
+            "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Shovel <-> Flower Pot</color>"
         },
         {
             "seedType": 1000,
