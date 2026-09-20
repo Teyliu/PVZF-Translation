@@ -494,5 +494,7 @@
   "获得了([\\s\\S]+)%力量增幅": "{0}% damage buff gained!",
   "出保底了，当前保底阈值：(\\d+)": "Pity system activated! Current pity system threshold: {0}",
   "炼狱难度需要选择：(\\d+)/5个负面词条": "{0}/5 Zombie modifiers selected",
-  "^试炼：([\\s\\S]+)": "Trial: {0}"
+  "^试炼：([\\s\\S]+)": "Trial: {0}",
+  "^刷新本行([\\s\\S]+)": "Reroll this row {0}",
+  "^诅咒等级：(\\d+)": "Evil Score: {0}"
 }
