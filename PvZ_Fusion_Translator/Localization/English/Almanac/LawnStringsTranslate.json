@@ -1635,7 +1635,7 @@
             "seedType": 1026,
             "name": "Charm-shroom",
             "introduce": "<align=left><size=36><color=black>Charm-shroom speaks with a soft smile, \"Each spore carries my love, and when they bloom, it's like a spring breeze caressing the air.\" She even twisted her head into a heart to express her feelings. Her eyes shine with sincerity, hoping that maybe, just maybe, the zombies will understand her love.</color></size>",
-            "info": "<size=36>Charm-shroom can fire explosive Charm spores.\n\n<color=black>Damage: </color><color=#8B0000>120/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals 40 no-falloff splash damage in a 1-tile radius.\n<color=black>•</color>  Has a chance to hypnotize zombies with < 60% Toughness (ignoring Type 2 armor).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Gutsy-shroom.</color></size>",
+            "info": "<size=36>Charm-shroom can fire explosive Charm spores.\n\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals 40 no-falloff splash damage in a 1-tile radius.\n<color=black>•</color>  Has a chance to hypnotize zombies with < 60% Toughness (ignoring Type 2 armor).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Gutsy-shroom.</color></size>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Scaredy-shroom + Hypno-shroom</color>"
         },
         {
@@ -2076,7 +2076,7 @@
             "seedType": 1089,
             "name": "Starry Pumpkin",
             "introduce": "<align=left><size=36><color=black>People often wonder how many languages Starry Pumpkin must know to communicate effortlessly with all the plants. Starry Pumpkin smiles and says, \"Actually, I only speak Starfruit's language, since he's the only one I work closely with.\"</color></size>",
-            "info": "<size=36>Starry Pumpkin empowers only a couple of Starfruit fusions.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases the storage limit of Starblover to 80, and Pulsar to 240.\n<color=black>•</color> Allows Solarfruit to use Sun to shoot automatically.</color></size>",
+            "info": "<size=36>Starry Pumpkin empowers only a couple of Starfruit fusions.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Quadruples the attraction limits of Starblover plants (Starblover to 80, and Pulsar to 240).\n<color=black>•</color> Allows Solarfruit to use Sun to shoot automatically.</color></size>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Starfruit > Pumpkin</color>"
         },
         {
@@ -3014,28 +3014,28 @@
             "seedType": 1223,
             "name": "Spruce Firnace",
             "introduce": "<align=left><size=36><color=black>Spruce Firnace always carries dry spruce leaves. He claims they're excellent \"green\" fuel—flammable and easy to collect. Right now, he's sun-drying a batch.</color>",
-            "info": "<size=36>Spruce Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 75s.</color>",
+            "info": "<size=36>Spruce Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 125s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Firnace + Spruce Sharpshooter</color>"
         },
         {
             "seedType": 1224,
             "name": "Saw Firnace",
             "introduce": "<align=left><size=36><color=black>\"Using potassium as fuel not only provides ample heat, but also gives off beautiful flame colors,\" Saw Firnace enthusiastically explains. \"And this fan, modified from a circular saw, helps blow hot air right to you.\" As a top employee of the snowfield sauna, he's always committed to providing the best service.</color>",
-            "info": "<size=36>Saw Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 60s.</color>",
+            "info": "<size=36>Saw Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 100s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Firnace + Saw-me-not</color>"
         },
         {
             "seedType": 1225,
             "name": "Lotus Firnace",
             "introduce": "<align=left><size=36><color=black>\"I was born extraordinary,\" claims Lotus Firnace. He thinks he glows from phosphorus fire — but actually, it’s just fireflies hiding from the cold inside him.</color>",
-            "info": "<size=36>Lotus Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 30s.</color>",
+            "info": "<size=36>Lotus Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 50s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Firnace + Snow Lotus</color>"
         },
         {
             "seedType": 1226,
             "name": "Aloe Firnace",
             "introduce": "<align=left><size=36><color=black>Aloe Firnace has upgraded its air system to better regulate temperature in small areas. The only problem: the water dripping from the condenser tends to freeze quickly in the snowfield.</color>",
-            "info": "<size=36>Aloe Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 45s.</color>",
+            "info": "<size=36>Aloe Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 75s.</color>",
             "cost": "<size=36>\nFusion Recipe: <color=#8B0000>Firnace + Aloe Aqua</color>"
         },
         {
@@ -3280,7 +3280,7 @@
             "seedType": 1261,
             "name": "Melon-nut",
             "introduce": "<align=left><size=36><color=black>Whenever zombies come to buy watermelons, the melon stand owner Aloe Alba always sells them the biggest one—the Melon-nut. After the zombies crack their teeth on it, Aloe Alba refers them to a nearby dental clinic to get them fixed, and, naturally, that clinic also belongs to Aloe Alba.</color>",
-            "info": "<size=36>Melon-nut grows a temporary shield and retaliates with a melon after taking a certain amount of damage.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When taking damage, stores 1.5× the damage taken as Retaliation Charge. If the damage exceeds 100/500/1000, stores 3/4.5/6× the damage instead.\n<color=black>•</color> Retaliation Meter is capped at max HP.\n<color=black>•</color> When the Retaliation Meter exceeds 1000, consumes all charges to launch a watermelon dealing the same amount of damage and gains a shield of equal value that fully decays over 5s.</color>",
+            "info": "<size=36>Melon-nut grows a temporary shield and retaliates with a melon after taking a certain amount of damage.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When taking damage, stores 1.5× the damage taken as Retaliation Charge. If the damage exceeds 100/500/1000, stores 3/4.5/6× the damage instead.\n<color=black>•</color> Retaliation Meter is capped at 4×max HP.\n<color=black>•</color> When the Retaliation Meter exceeds 1000, consumes all charges to launch a watermelon dealing the same amount of damage and gains a shield of equal value that fully decays over 5s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Wall-nut + Melon-pult</color>"
         },
         {
@@ -3301,14 +3301,14 @@
             "seedType": 1264,
             "name": "Bamblade",
             "introduce": "<align=left><size=36><color=black>\"We're supposed to be barriers, yet zombies always gnaw on us like we're snacks,\" Bamblade laments. Determined, she sets out to master tougher parrying and counterattack skills. Whether she's succeeded is unclear, but she sure looks tastier than ever.</color>",
-            "info": "<size=36>Bamblade steadily generates its own protective shield.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>Generates 60 points of Shield every 1.5s, up to (max HP×1 + 60) points.</color>",
+            "info": "<size=36>Bamblade steadily generates its own protective shield.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates 60 points of Shield every 1.5s, up to (max HP×1 + 60) points.\n<color=black>•</color> Considered to be deglaciated by the plants when deglaciated.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Bamblock + Saw-me-not</color>"
         },
         {
             "seedType": 1265,
             "name": "Bamboo Firnace",
             "introduce": "<align=left><size=36><color=black>As the tallest bodyguard from the Bamblock Security Company, Bamboo Firnace stays hidden yet alert. Across all his zombie encounters, he's never got injured—not even once. That's a pretty dazzling record.</color>",
-            "info": "<size=36>Bamboo Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 30s.</color>",
+            "info": "<size=36>Bamboo Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 50s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnace + Bamblock</color>"
         },
         {
@@ -3537,9 +3537,9 @@
         },
         {
             "seedType": 1298,
-            "name": "Rush-shroom",
-            "introduce": "<align=left><size=36><color=black>\"To pea or not to pea?\" for Rush-shroom, that is the question. From a young age he rejected shooting peas. He stated he would rather help other plants. when asked where his desire to help others came from, he said, \"Plantern has been a huge role model for me growing up.\"\n\n-Written by Berfy Boy</color>",
-            "info": "<size=36>Rush-shrooms fume can give projectiles extra momentum and damage.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
+            "name": "Boost-shroom",
+            "introduce": "<align=left><size=36><color=black>\"To pea or not to pea?\" for Boost-shroom, that is the question. From a young age he rejected shooting peas. He stated he would rather help other plants. when asked where his desire to help others came from, he said, \"Plantern has been a huge role model for me growing up.\"\n\n-Written by Berfy Boy</color>",
+            "info": "<size=36>Boost-shrooms fume can give projectiles extra momentum and damage.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Peashooter + Fume-shroom</color>"
         },
         {
@@ -4043,7 +4043,7 @@
             "seedType": 1370,
             "name": "Squish",
             "introduce": "<align=left><size=36><color=black>They're just three kids pestering you for candy. The only unusual thing is that if you refuse their request, you might feel a bit of \"pressure.\"</color>",
-            "info": "<size=36>Squish can target and deal damage to zombies nearby by squashing them multiple times.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Can be planted 3 times in one tile.\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.</color>",
+            "info": "<size=36>Squish can target and deal damage to zombies nearby by squashing them multiple times.\n\n<color=black>Damage: </color><color=#8B0000>300 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tile to the left and right</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Can be planted 3 times in one tile.\n<color=black>•</color> Smashes once every 1s and does not disappear after smashing; when not targeting, jumps back to its original tile.\n<color=black>•</color> Vulnerable to zombie attack for 0.6s after each smash.\n<color=black>•</color> Immune to crush. When crushed, takes 500 damage every 0.02s. When smashed, takes damage equal to the corresponding damage a hypnotized zombie would take when smashed.\n<color=black>•</color> Drowns when jumping into water tiles without Lily Pads.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Squash > Puff-shroom</color>"
         },
         {
@@ -4288,7 +4288,7 @@
             "seedType": 1405,
             "name": "Snipot",
             "introduce": "<align=left><size=36><color=black>From the perspective of the Snipot, using a sniper rifle is actually not difficult at all. You just need to know how to reload, how to chamber a round, and how to hand the reloaded rifle to a teammate who knows how to use it.</color>",
-            "info": "<size=36>Snipot causes Snipea type plants on top to perform an extra attack after every 6th shot!\n\n<color=black>Special: </color><color=#8B0000>Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
+            "info": "<size=36>Snipot causes Snipea type plants on top to perform an extra attack after every 6th shot!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>Lock-on Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea > Flower Pot</color>"
         },
         {
@@ -4302,7 +4302,7 @@
             "seedType": 1407,
             "name": "Pumpkommando",
             "introduce": "<align=left><size=36><color=black>\"I'm already at full capacity!\" Pumpkommando shouts. \"Packed with pea bullets!\" Even though he always says this, he still tries to squeeze in a bit more space at the end, letting plants hide inside him to block zombie attacks.</color>",
-            "info": "<size=36>Pumpkommando fires regular Peas in bursts of 6, and has a chance to trigger an Ultimate Attack each time!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
+            "info": "<size=36>Pumpkommando fires regular Peas in bursts of 6, and has a chance to trigger an Ultimate Attack each time!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of regular peas each attack, lasting 5s.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-storm Commando > Pumpkin</color>"
         },
         {
@@ -4351,7 +4351,7 @@
             "seedType": 1414,
             "name": "Doom Kelp",
             "introduce": "<align=left><size=36><color=black>Due to long nights spent researching fusion problems and chronic sleep deprivation, Doom Kelp's eyes are bloodshot. Many colleagues suggested he get more rest and treat his red eyes, but he refused completely. \"If I did that… my face would just show as a puddle of pitch black in photos… just the thought of that is terrifying.\"</color>",
-            "info": "<size=36>Doom Kelp explodes like a Doom-shroom on activation.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown) + 1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Triggers Doom-shroom effect upon death.</color>",
+            "info": "<size=36>Doom Kelp explodes like a Doom-shroom on activation.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown) + 1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Triggers a craterless Doom-shroom effect upon death.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Doom-shroom > Tangle Kelp</color>"
         },
         {
@@ -4477,7 +4477,7 @@
             "seedType": 1432,
             "name": "Peatato Commando",
             "introduce": "<align=left><size=36><color=black>Whether through precise rhythm control or explosive improvisation, Peatato Commando is an indispensable member of the band. Yet the passionate audience always seems to overlook him — perhaps because of his height, or perhaps because he's the bassist.</color>",
-            "info": "<size=36>Peatato Command fires potato peas, communicating with its kin through underground networks to unleash coordinated attacks.\n</color>\n<color=black>Damage: </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Each shot fired has a 2% chance to trigger its Ultimate ability. When triggered, all other Peatato Commando also activate their Ultimates.\n<color=black>•</color> Ultimate restores HP equal to 1× Toughness, grants invincibility and anti-crush for 5s, and fires 1 straight bullet while scattering 2 shots in a ±45° fan every 0.02s.\n<color=black>•</color> Upon death, releases a Potato Mine explosion dealing 1800 damage.</color>",
+            "info": "<size=36>Peatato Command fires potato peas, communicating with its kin through underground networks to unleash coordinated attacks.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Each shot fired has a 2% chance to trigger its Ultimate ability. When triggered, all other Peatato Commando also activate their Ultimates.\n<color=black>•</color> Ultimate restores HP equal to 1× Toughness, grants invincibility and anti-crush for 5s, and fires 1 straight bullet while scattering 2 shots in a ±45° fan every 0.02s.\n<color=black>•</color> Upon death, releases a Potato Mine explosion dealing 1800 damage.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Potato Mine + Pea-storm Commando</color>"
         },
         {
@@ -4666,7 +4666,7 @@
             "seedType": 1459,
             "name": "Nibble-shroom",
             "introduce": "<align=left><size=36><color=black>Nibble-shrooms come from the jungle. They're fierce, hot-tempered, and have no interest in enjoying plant life or savoring the satisfaction of digestion. All they know is bite and advance. But we're not Nibble-shrooms, so who knows? Maybe biting is their idea of a good time.</color>",
-            "info": "<size=36>Nibble-shroom charges forward, consuming and swallowing prey along the way.\n\n<color=black>Damage: </color><color=#8B0000>200</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant, can be stacked.\n<color=black>•</color> Immune to freeze and crush. When a zombie is one tile ahead, starts to hop forward, becoming immune to damage during the attack. Advances approximately 0.4 tiles each hop, swallowing Imps or zombies below 1/3 HP within a small area; otherwise deals damage.</color>",
+            "info": "<size=36>Nibble-shroom charges forward, consuming and swallowing prey along the way.\n\n<color=black>Damage: </color><color=#8B0000>200</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant, can be stacked.\n<color=black>•</color> Immune to freeze and crush. When a zombie is one tile ahead, starts to hop forward, becoming immune to damage during the attack. Advances approximately 0.4 tiles each hop, swallowing Imps or zombies below 1/3 HP within a small area; otherwise deals damage. Drowns when advancing into water tiles without Lily Pads.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper > Puff-shroom</color>"
         },
         {
@@ -4684,10 +4684,199 @@
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Starfruit + Garlic</color>"
         },
         {
+            "seedType": 1462,
+            "name": "Frostbiter",
+            "introduce": "<align=left><size=36><color=black>After becoming a breakout star in the <i>Arctic Monster</i> series, Frostbiter quickly became rather picky. He only wears custom vintage outfits, refuses to appear in any show that doesn't air during prime time, and eats nothing but various kinds of ice cream.</color>",
+            "info": "<size=36>Frostbiter eats only frozen zombies.\n\n<color=black>Damage: </color><color=#8B0000>40 / Insta-kill (Devour)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can only swallow frozen zombies. Successfully swallowing a zombie releases an Ice-shroom effect that only freezes for 1 second.\n<color=black>•</color> If unsuccessful, deals damage to zombies in a 3×3 area, inflicts Chilled, and applies 50 Cryo Points.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Chomper + Ice-shroom</color>"
+        },
+        {
+            "seedType": 1463,
+            "name": "Cactus Squash",
+            "introduce": "<align=left><size=36><color=black>Cactus Squash jumps higher than anyone else, and consequently hits harder than anyone else. His signature body slam has always been one of the zombies' worst nightmares. It has racked up countless victories, including flattening 168 zombies and smashing Spiky Pumpkin into the ground.</color>",
+            "info": "<size=36>Cactus Squash leaps into the sky and turns into a cloud, unleashing a downpour of spikes before finally flattening enemies beneath him.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Squash)</color>\n<color=black>Detection Range: </color><color=#8B0000>1 tiles to the left; 2 tiles to the right</color>\n<color=black>Special: </color><color=#8B0000>Can target flying enemies. While airborne, continuously scatters 224 spikes downward that can only hit flying targets, dealing 20 damage each. Upon landing, the horizontal crush range increases to ×5.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Squash + Cactus</color>"
+        },
+        {
+            "seedType": 1464,
+            "name": "Spiky Pumpkin",
+            "introduce": "<align=left><size=36><color=black>piky Pumpkin isn't very fond of talking to other plants. Partly because it's difficult to open his mouth when it's underground, and partly because he's always being asked why his body is buried in the soil and why he keeps that peculiar hairstyle. Both questions have the same answer: Cactus Squash falling from the sky.</color>",
+            "info": "<size=36>Spiky Pumpkin strengthens Spikeweeds and shields them from attacks.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Low plant. Anti-crush. Does not block zombies.\n<color=black>•</color> Can take crushing attacks in place of Spikeweeds and Spike-nuts on the same tile. Can also take 500 damage to prevent them from disappearing after popping a tire.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Spikeweed > Pumpkin</color>"
+        },
+        {
+            "seedType": 1465,
+            "name": "Saber Tundraweed",
+            "introduce": "<align=left><size=36><color=black>Many rumors claim that Saber Tundraweed is responsible for crop circles. He scoffs at the idea. \"Wheat gets harvested sooner or later. Why not use the frozen ground of the tundra as a canvas instead? A drawing like that could last for thousands of years.\"</color>",
+            "info": "<size=36>Saber Tundraweed deals much more damage.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>150/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Tundraweed traits. Attacks counter Green Signals.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Tundraweed + Saber-shroom</color>"
+        },
+        {
+            "seedType": 1466,
+            "name": "Shield Tundraweed",
+            "introduce": "<align=left><size=36><color=black>If you want to know why Shield Tundraweed is so calm, remember this: once he charges into everything in his path, he has no idea when to stop... unless you put a wall in front of him.</color>",
+            "info": "<size=36>Saber Tundraweed is much more durable.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Damage: </color><color=#8B0000>50/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Tundraweed traits. Cannot be insta-killed by crushing damage. Attacks counter Red Signals.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Tundraweed + Shield-shroom</color>"
+        },
+        {
+            "seedType": 1467,
+            "name": "Clash-shroom",
+            "introduce": "<align=left><size=36><color=black>After every command, Clash-shroom waves a hand to straighten his cape. He has neither a cape nor hands, but he still has his lieutenant give him a pat on the shoulder. They both think it looks very commanding.</color>",
+            "info": "<size=36>Clash-shroom balances offense and defense, and allows nearby Saber-shroom and Shield-shroom fusions to change stances.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Within a 3×3 area, certain Saber-shroom and Shield-shroom fusions can be converted into each other by fusing with the two plants.\n<color=black>•</color> Plants within a 3×3 area now return 200 Sun on countering a Signal.\n<color=black>•</color> Deals area damage and single-target knockback to the 2 tiles in front.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Saber-shroom + Shield-shroom</color>"
+        },
+        {
+            "seedType": 1468,
+            "name": "Aqua Tundraweed",
+            "introduce": "<align=left><size=36><color=black>Aqua Tundraweed has never been able to adapt to the frequent blizzards, despite his family having lived on the tundra for generations. The blizzards have caused him endless trouble. He even lost his job at the bathhouse.</color>",
+            "info": "<size=36>Aqua Tundraweed becomes more powerful when frozen.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>80/0.25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Tundraweed traits.\n<color=black>•</color> Becomes frozen when affected by blizzards or Ice-shroom effects: When frozen, Damage & max HP×2, attack also inflicts Deep Chill, 10 Cryo Points and deals ×4 damage to frozen zombies.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua + Tundraweed</color>"
+        },
+        {
+            "seedType": 1469,
+            "name": "Aqua Saber-shroom",
+            "introduce": "<align=left><size=36><color=black>Aqua Saber-shroom loves his wig and wears it everywhere, even on the battlefield. He has no choice but to hack away at enemies to protect his precious wig, since he always forgets to take it off while fighting zombies.</color>",
+            "info": "<size=36>Aqua Saber-shroom dishes out more powerful slashes when frozen.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals area damage to the 2 tiles in front. Releases a <u>Special Slash</u> when it appears.\n<color=black>•</color> Gains 1/15 charge when affected by a freezing attack or Ice-shroom effect. Can consume 1 charge to deal ×2 damage, inflict Deep Chill and 10 Cryo Points and make damage against frozen zombies ×4.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua + Saber-shroom</color>"
+        },
+        {
+            "seedType": 1470,
+            "name": "Aqua Shield-shroom",
+            "introduce": "<align=left><size=36><color=black>\"Shapeless like water.\" Aqua Shield-shroom says this all the time. He loves the clear, icy water flowing down from the snowy mountains. He collects it to reinforce his shield, make his afternoon tea, and wash the snow off himself.</color>",
+            "info": "<size=36>Aqua Shield-shroom dishes out more powerful bashes when frozen.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Releases a <u>Special Bash</u> when it appears.\n<color=black>•</color> Gains 1/15 charge when affected by a freezing attack or Ice-shroom effect. Can consume 1 charge to inflict Deep Chill and 10 Cryo Points.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua + Shield-shroom</color>"
+        },
+        {
+            "seedType": 1471,
+            "name": "Drone Commando",
+            "introduce": "<align=left><size=36><color=black>With the high mobility afforded by flight, Drone Commando has a natural advantage when it comes to shooting. That's why most shooting contests between plants end with Drone Commando taking the win, including his favourite shooting video game.</color>",
+            "info": "<size=36>Drone Commando can become a wingman for certain plants of the same type, fighting alongside them against incoming enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Each projectile has a 2% chance to trigger its ultimate when attacking normally: restores HP equal to 1× Toughness, becomes immune to damage for 5s, and fires 3 projectiles every 0.02s.\n<color=black>•</color> Flies to an Buckshot Commando or certain other Commando plants on the field that does not already have a wingman, becoming its wingman without occupying position.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-shroom Commando + Blover</color>"
+        },
+        {
+            "seedType": 1472,
+            "name": "Fume-spreader",
+            "introduce": "<align=left><size=36><color=black>Thanks to the success of <i>Bad Fungi</i>, the game based on him, Fume-spreader has gained both fame and fortune as an inventor and aviator. \"Being different is an opportunity given to me by King Fungi,\" he humbly told reporters. \"I simply seized that opportunity. I couldn't have made the game without these two extra spore heads. They make excellent propellers.\"</color>",
+            "info": "<size=36>Fume-spreader fires fumes down 3 lanes.\n\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>When planted in an edge lane, its damage in its own lane is doubled.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Threepeater</color>"
+        },
+        {
+            "seedType": 1473,
+            "name": "Snipad",
+            "introduce": "<align=left><size=36><color=black>\"My sniper rifle fell into the pool!\" Snipad shouted. \"Luckily, I marked the spot before it fell in. Just like that story about marking a boat to find a lost sword! Only this time, I'll actually be able to find it.\"</color>",
+            "info": "<size=36>A firing platform for the Sniper family that uses recoil to unleash additional firepower.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000> Short plant. Lock-on Snipea-type plants on this tile perform 1 immediate extra attack every 6 attacks.</color>",
+            "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Shovel <-> Shovel</color>"
+        },
+        {
+            "seedType": 1474,
+            "name": "[TO BE POLLED]",
+            "introduce": "<align=left><size=36><color=black>[TO BE POLLED] loves growing plants on his head. There's only one problem: everything he grows comes out spicy. Tomatoes taste like chili peppers, peas make your mouth burn, and even the most innocent-looking sunflowers come with a serious kick. He insists they're only mildly hot. Nobody has had the courage to tell him otherwise.</color>",
+            "info": "<size=36>[TO BE POLLED] uses flames to ignite the fighting spirit of fire plants above it.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Once every 0.2s, when affected by a Jalapeno effect, restores 20 HP to fire-type catapults, shooters, etc. above it and grants them a 50% bonus Attack Speed for 5s. This bonus can stack.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno > Flower Pot</color>"
+        },
+        {
+            "seedType": 1475,
+            "name": "Lithops Tundraweed",
+            "introduce": "<align=left><size=36><color=black>Lithops Tundraweed is the busiest plant on the tundra. \"I have to keep rolling…\" she says. Otherwise, the frost on her body would stick to the snow. She's so busy rolling that she never has time to explain this to passersby.</color>",
+            "info": "<size=36>Lithops Tundraweed deals small area damage.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>50/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Tundraweed traits. When attacking, deals equal damage to other zombies within a radius of 1.5 tiles.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Tundraweed + Lithops</color>"
+        },
+        {
+            "seedType": 1476,
+            "name": "Saber Lithops",
+            "introduce": "<align=left><size=36><color=black>Most plants struggle to grow in the tundra's frozen soil, but Saber Lithops doesn't mind. He only likes growing mushrooms near the surface anyway. Those green mushrooms can treat snow blindness, a common ailment on the tundra, and they can also leave zombies seeing stars.</color>",
+            "info": "<size=36>Saber Lithops draws its blade on the first attack and strikes the target hard.\n\n<color=black>Damage: </color><color=#8B0000>40/2s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Lithops' traits. Deals ×7.5 damage on its first attack and counters Green Signals.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Saber-shroom + Lithops</color>"
+        },
+        {
+            "seedType": 1477,
+            "name": "Shield Lithops",
+            "introduce": "<align=left><size=36><color=black>As the volleyball team's undisputed star player, Shield Lithops has an indispensable role to play. He can block a spike from the opposing team from anywhere on the court. \"It's nothing difficult for me,\" he says. \"The only problem is that my teammates keep stepping on me.\"</color>",
+            "info": "<size=36>Shield Lithops repels enemies with a bashing first attack, knocking targets away.\n\n<color=black>Damage: </color><color=#8B0000>40/2s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Lithops' traits. Deals ×2.5 damage on its first attack, launches the target and counters Red Signals.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Shield-shroom + Lithops</color>"
+        },
+        {
+            "seedType": 1478,
+            "name": "Snipurr",
+            "introduce": "<align=left><size=36><color=black>\"Awoo! Awoo!\" Snipurr is the most refined member of the sniper corps. Her hairstyle, goggles, and barrel were all meticulously designed, and the barrel even makes a special sound when fired. Unfortunately, the craftsman who made it failed to understand her specifications. Every shot goes \"meow,\" so she has to howl even louder to drown it out.</color>",
+            "info": "<size=36>Snipurr snipes with its cattail, then relentlessly pursues tough enemies after scoring a headshot.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Aquatic plant. Targeting range, attack range, and attack method are the same as Snipea.\n<color=black>•</color> If the target survives a headshot, spawns a tracking spike around it every 0.05s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Snipea > Cattail</color>"
+        },
+        {
+            "seedType": 1479,
+            "name": "Aqua Lithops",
+            "introduce": "<align=left><size=36><color=black>Lithops are easy to overlook on the tundra, and Aqua Lithops is practically invisible even among the Lithops family. He doesn't want wandering zombies to mistake him for a free public footbath, which is also why he settled permanently on the tundra. \"At least I'm safe when I'm frozen.\"</color>",
+            "info": "<size=36>Aqua Lithops becomes stronger when frozen.\n\n<color=black>Damage: </color><color=#8B0000>30/2s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Lithops' traits. Gains 1/15 charge when affected by a freezing attack or Ice-shroom effect. Can consume 1 charge to deal ×2 damage and inflict Deep Chill and 10 Cryo Points.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Aloe Aqua + Lithops</color>"
+        },
+        {
+            "seedType": 1480,
+            "name": "Lichen Firnace",
+            "introduce": "<align=left><size=36><color=black>When the weather gets bitterly cold, even a heat source has to worry about losing heat. That's why Lichen Firnace wraps herself tightly in fuzzy blankets, even though she's already burned through quite a few of them, including Dave's favourite knitted rug.</color>",
+            "info": "<size=36>Lichen Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 100s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnace + Hoarfrost Lichen</color>"
+        },
+        {
+            "seedType": 1481,
+            "name": "Tundraweed Firnace",
+            "introduce": "<align=left><size=36><color=black>Tundraweed Firnace is often teased for being called \"Tundraweed\" despite floating motionless in the sky. Whenever someone asks, he gives a response that's equal parts scientific and philosophical: \"I may look like I'm not moving, but from another frame of reference, I'm following Earth's rotation and orbit. So technically, I really am rolling.\"</color>",
+            "info": "<size=36>Tundraweed Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 25s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnace + Tundraweed</color>"
+        },
+        {
+            "seedType": 1482,
+            "name": "Saber Firnace",
+            "introduce": "<align=left><size=36><color=black>Saber Firnace slices hot air into streams of warm air and sends them evenly in every direction. He thinks this makes things more comfortable, but perhaps some of his sword energy got mixed into the breeze, because those warm currents are a little too good at cutting things.</color>",
+            "info": "<size=36>Saber Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 150s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnace + Saber-shroom</color>"
+        },
+        {
+            "seedType": 1483,
+            "name": "Shield Firnace",
+            "introduce": "<align=left><size=36><color=black>\"What am I protecting at this height you ask? If warming the plants isn't enough, I protect the tenacious fighting spirit of my allies. If that doesn't convince you either, I also protect them from having snow fall on their heads.\"</color>",
+            "info": "<size=36>Shield Firnace covers a larger area than Firnace, but only for a limited time.\n\n<color=black>Sun Output: </color><color=#8B0000>5/1s</color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 150s.</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnace + Shield-shroom</color>"
+        },
+        {
             "seedType": 3000,
             "name": "Placeholder Plant",
             "introduce": "<align=left><size=36><color=black></color>",
             "info": "<size=36>Information about this plant will be revealed in a future update.",
+            "cost": ""
+        },
+        {
+            "seedType": 3500,
+            "name": "<color=red>Evil Peashooter</color>",
+            "introduce": "<align=left><size=36><color=black>He has never stopped firing. He no longer remembers when he began, nor how long his original gardener has been gone. The lawn has changed, the seasons have passed, and still he waits for the next target. Perhaps he has forgotten what he was supposed to protect. Perhaps the only thing left of his original purpose is the need to keep firing. The long years of waiting and firing have draped him in red, a color he now knows as \"curse.\"</color>",
+            "info": "<size=36>Evil Peashooter fires projectiles that greatly empower zombies.\n\n<color=#4A2900>Usage Condition: Survival Mode (Endless)</color>\n<color=black>Damage: </color><color=#8B0000>0/9s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles bounce back and forth along the lane and pierce Empowered zombies until they hit a target or are absorbed. On hit, grants the zombie the Empowered buff. Upon revival, immediately fires one projectile.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 3501,
+            "name": "<color=red>Evil Sunflower</color>",
+            "introduce": "<align=left><size=36><color=black>No one remembers when Evil Sunflower first appeared on the lawn. She doesn't remember either. She was planted in the front line, where her bright smile were quickly replaced by horror. But over time, that fear began to fade. The sight of another Sunflower being torn apart became something she could watch without feeling anything at all. Somewhere along the way, that numbness became the first seed of her corruption.</color>",
+            "info": "<size=36>Evil Sunflower demands Sun without end. Fail to keep it satisfied, and disaster follows.\n\n<color=#4A2900>Usage Condition: Survival Mode (Endless)</color>\n<color=black>Special: </color><color=#8B0000>Absorbs and stores Sun produced within a 5×5 area. All Evil Sunflowers share the same storage pool, and each one consumes 5 Sun every second starting after being on the lawn for 25s. If the storage is insufficient for the cost, summons an Empowered Giga GargantuarThis summon has a 6s cooldown. Upon revival, immediately summons one.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 3502,
+            "name": "<color=red>Evil Pumpkin</color>",
+            "introduce": "<align=left><size=36><color=black>He stood in the front yard, using his own body to shield plants from the zombies. Zombie bites, zombie crushing attacks, zombie ladders. He has lost count of how many ladders have been propped against him. The stench of rot they carried wore away his skin and ate away at his mind, until nothing remained but an empty shell.</color>",
+            "info": "<size=36>Evil Pumpkin spreads a cursed plague across the entire field, unless another plant is planted in it to contain the plague.\n\n<color=#4A2900>Usage Condition: Survival Mode (Endless)</color>\n<color=black>Special: </color><color=#8B0000>Does not block damage for plants inside its shell. Every 7.5s, distributes a total of 1000 Curse stacks evenly among all plants on the field matching the primary plant type inside itself. If there is no plant inside, distributes them evenly among all primary plants on the field. Upon revival, immediately applies the Curse stacks once to all primary plants on the field.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 4000,
+            "name": "Alpha Legionnaire",
+            "introduce": "<align=left><size=36><color=black>They are trapped in a battle whose ending was already decided, in a memory that cannot be escaped. Blizzard after blizzard erases every trace that they were ever here, while layer upon layer of ice seals away their unfinished vows. This place is the anchor of the story, and their eternal prison, like the endless blizzard and the ice that never melts.</color>",
+            "info": "<size=36>An echo of the past that haunts the quiet camp.\n\n<color=black>Toughness: </color><color=#8B0000>500</color>\n<color=black>Damage: </color><color=#8B0000>50×2/1.67s</color>\n<color=black>Special: </color><color=#8B0000>Pursues the enemy closest to the camp (left edge of the map) in his lane. Leaves the battlefield to rest after reaching the rightmost edge or when near death, then returns to battle after 30s</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 4001,
+            "name": "Snowbeak (Friendly)",
+            "introduce": "<align=left><size=36><color=black>Snowbeaks were once thought to be extinct, until a population was discovered living in the tundra. The discovery baffled researchers, who had no idea how the dodo's descendants had survived in such an inhospitable environment. It was eventually found that this unusual branch of dodo bird had somehow evolved the ability to photosynthesise, using its tail to absorb and store sunlight. Professor Cherryz was particularly fascinated by the discovery, though he still hasn't quite gotten over being fooled by their supposed extinction.</color>",
+            "info": "<size=36>An ancient tundra creature known only from old records, friendly only because it was attacked by the Automata.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Drops 100 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by an enemy projectile, switches to the plant side and stops wandering.</color>",
             "cost": ""
         },
         {
