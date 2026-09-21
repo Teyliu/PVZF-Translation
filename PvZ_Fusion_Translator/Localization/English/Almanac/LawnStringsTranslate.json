@@ -4769,9 +4769,9 @@
         },
         {
             "seedType": 1474,
-            "name": "[TO BE POLLED]",
-            "introduce": "<align=left><size=36><color=black>[TO BE POLLED] loves growing plants on his head. There's only one problem: everything he grows comes out spicy. Tomatoes taste like chili peppers, peas make your mouth burn, and even the most innocent-looking sunflowers come with a serious kick. He insists they're only mildly hot. Nobody has had the courage to tell him otherwise.</color>",
-            "info": "<size=36>[TO BE POLLED] uses flames to ignite the fighting spirit of fire plants above it.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Once every 0.2s, when affected by a Jalapeno effect, restores 20 HP to fire-type catapults, shooters, etc. above it and grants them a 50% bonus Attack Speed for 5s. This bonus can stack.</color>",
+            "name": "Hot Pot",
+            "introduce": "<align=left><size=36><color=black>Hot Pot loves growing plants on his head. There's only one problem: everything he grows comes out spicy. Tomatoes taste like chili peppers, peas make your mouth burn, and even the most innocent-looking sunflowers come with a serious kick. He insists they're only mildly hot. Nobody has had the courage to tell him otherwise.</color>",
+            "info": "<size=36>Hot Pot uses flames to ignite the fighting spirit of fire plants above it.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Once every 0.2s, when affected by a Jalapeno effect, restores 20 HP to fire-type catapults, shooters, etc. above it and grants them a 50% bonus Attack Speed for 5s. This bonus can stack.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Jalapeno > Flower Pot</color>"
         },
         {
