@@ -851,7 +851,7 @@
             "seedType": 920,
             "name": "Pulsar",
             "introduce": "<align=left><size=36><color=black>The Pulsar has mastered electromagnetism with Magnetar. \"It's not rocket science—left-hand force, right-hand electricity\", it boasted. \"And don't forget the moving magnet—trust the smartest plant around!\"</color>",
-            "info": "<size=36>Pulsar pulls stars, accelerates them and launches at zombies at maximum force.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Magnetar</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Magnetar.\n<color=black>•</color> Storage Limit: 60 | Acceleration Time: 1.5s | Damage ×3 | Projectile Speed ×2</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. +10% Attraction Efficiency and Bonus Damage for each different type of projectiles pulled in; Quasar projectiles count as 4 types\n2. Storage Limit ×2, Attraction Range greatly increased</color>",
+            "info": "<size=36>Pulsar pulls stars, accelerates them and launches at zombies at maximum force.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Magnetar</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Magnetar.\n<color=black>•</color> Storage Limit: 60 | Acceleration Time: 1.5s | Damage ×3 | Projectile Speed ×2</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. +10% Attraction Efficiency and Damage Bonus for each different type of projectiles pulled in; Quasar projectiles count as 4 types\n2. Storage Limit ×2, Attraction Range greatly increased</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Starfruit <-> Blover</color>"
         },
         {

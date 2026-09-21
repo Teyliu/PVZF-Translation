@@ -2,7 +2,7 @@
     "advancedBuffs": {
         "0": {
             "name": "Call to Arms",
-            "desc": "Enchantress-shroom Subspecies Unlocked | Empress-shroom & Enchantress-shroom: Summon Interval → 10s"
+            "desc": "Enchantress-shroom Subspecies Unlocked | Empress-shroom & Enchantress-shroom: Summon Interval 30s → 10s"
         },
         "1": {
             "name": "Elite Corps",
@@ -246,7 +246,7 @@
         },
         "1013": {
             "name": "Cherry on Top",
-            "desc": "True Cherry Bomb: Explosive cherries will now deal at least 1800 damage and cause Cremator damage"
+            "desc": "True Cherry Bomb: Explosive cherries will now deal at least 1800 damage, have increased explosion range and cause Cremator damage"
         },
         "1014": {
             "name": "Recycling",
@@ -330,7 +330,7 @@
         },
         "3001": {
             "name": "Astral Convergence",
-            "desc": "If there are at least 10 Magnetars and 10 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors"
+            "desc": "If there are at least 6 Magnetars and 6 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors"
         },
         "3002": {
             "name": "Total Firepower",
@@ -338,7 +338,7 @@
         },
         "3003": {
             "name": "Celestial Beacon",
-            "desc": "When there are at least 10 Magnetars and 10 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear, while each Magnetar and Selene will charge a beam into the Mini Moon, which redirects it to target the zombie with the most amount of HP"
+            "desc": "When there are at least 6 Magnetars and 6 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear and each Selene provides massive Lumos levels, while Magnetars deal extra damage to the zombie with the most amount of HP"
         },
         "3004": {
             "name": "Event Horizon",
@@ -652,6 +652,22 @@
             "name": "Ascend: Circle of Death",
             "desc": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10s"
         },
+        "12023": {
+            "name": "Ascend: Conflagration",
+            "desc": "Dragonbreath Torcher's attacks additionally release Jalapeno effects in all lanes"
+        },
+        "12024": {
+            "name": "Ascend: Gigantism",
+            "desc": "Obsidian Tall-nut and its holographic projections have vastly larger hitboxes and are immune to crushing from bosses\nHealing CD: 15s → 10s"
+        },
+        "12025": {
+            "name": "Ascend: Evocation",
+            "desc": "Hypnotized Abyssal Gargantuar spawns hypnotized Abyssal Imp when smashing"
+        },
+        "12026": {
+            "name": "Ascend: Magical Index",
+            "desc": "Apeacalypse Railgun now fires a continuous light beam"
+        },
         "13000": {
             "name": "Blast Protection",
             "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
@@ -660,51 +676,227 @@
             "name": "Enchanted Shield",
             "desc": "Plants with Shield recover HP equal to 0.1% of their Shield every second"
         },
-        "13100": {
+        "13002": {
+            "name": "Voodoo Dummy",
+            "desc": "Summons a Dummy Zombie on the lawn which distributes 60% of the damage it takes among all zombies; can be moved with the Zombie Glove; cannot transfer damage dealt by Hypnotized Zombies"
+        },
+        "13003": {
+            "name": "Voodoo Dummy - A",
+            "desc": "The Dummy Zombie now distributes 100% of the damage it takes among all zombies"
+        },
+        "13004": {
+            "name": "Voodoo Dummy - B",
+            "desc": "Summons an additional Dummy Zombie"
+        },
+        "13005": {
+            "name": "Voodoo Dummy - X",
+            "desc": "When the Dummy Zombie takes damage, it also deals 100% of that damage to the zombie with the highest HP on the lawn"
+        },
+        "13006": {
+            "name": "Solar Blast",
+            "desc": "Summons a Solar Reactor that periodically damages all zombies on the lawn"
+        },
+        "13007": {
+            "name": "Solar Blast - A",
+            "desc": "Reduces the Solar Reactor's attack CD by 50%"
+        },
+        "13008": {
+            "name": "Solar Blast - B",
+            "desc": "Increases the Solar Reactor's damage by 100%"
+        },
+        "13009": {
+            "name": "Solar Blast - X",
+            "desc": "The Solar Reactor additionally calls down a Helios Meteor whenever it attacks"
+        },
+        "13010": {
+            "name": "Warhammer",
+            "desc": "Reduces the Mallet's damage, but reduces its CD to 3s"
+        },
+        "13011": {
+            "name": "Warhammer - A",
+            "desc": "Greatly increases the effective range of the Mallet's attack"
+        },
+        "13012": {
+            "name": "Warhammer - B",
+            "desc": "Further reduces the Mallet's CD"
+        },
+        "13013": {
+            "name": "Warhammer - X",
+            "desc": "When the Mallet hits a zombie, summons a large hammer at its location that continuously damages zombies before disappearing after a while"
+        },
+        "13014": {
+            "name": "G-fish Bomber",
+            "desc": "A Skyglider Mecha will fight for you"
+        },
+        "13015": {
+            "name": "G-fish Bomber - A",
+            "desc": "Number of attacks required for Skyglider Mecha to fire a Barrage -1"
+        },
+        "13016": {
+            "name": "G-fish Bomber - B",
+            "desc": "Reduces Skyglider Mecha's attack CD"
+        },
+        "13017": {
+            "name": "G-fish Bomber - X",
+            "desc": "Barrage shells from Skyglider Mecha can keep splitting while airborne"
+        },
+        "13018": {
+            "name": "Moonlight Veil",
+            "desc": "Summons a Lunar Reactor that periodically restores HP to all plants on the lawn"
+        },
+        "13019": {
+            "name": "Moonlight Veil - A",
+            "desc": "Greatly increases the amount of HP restored by the Lunar Reactor"
+        },
+        "13020": {
+            "name": "Moonlight Veil - B",
+            "desc": "Grants all plants on the lawn a 1000-HP shield whenever the Lunar Reactor activates"
+        },
+        "13021": {
+            "name": "Moonlight Veil - X",
+            "desc": "Whenever the Lunar Reactor activates, moonlight descends upon every plant on the lawn, which instantly kills regular Zombies within a 3x3 area and makes plants invincible for a short time"
+        },
+        "13022": {
+            "name": "Iron Curtain",
+            "desc": "Reduces damage taken by all plants by 20%"
+        },
+        "13023": {
+            "name": "Iron Curtain - A",
+            "desc": "Reduces damage taken by all plants by 40%"
+        },
+        "13024": {
+            "name": "Iron Curtain - B",
+            "desc": "Reduces damage taken by all plants by 60%"
+        },
+        "13025": {
+            "name": "Iron Curtain - X",
+            "desc": "Reduces damage taken by all plants by 90%; whenever a plant loses HP, it fires a pea projectile from its position with damage equal to its max H | If the zombie has the Counterstrike Modifier, effect is changed to reducing damage taken by 99%"
+        },
+        "13026": {
+            "name": "Luck • Loan",
+            "desc": "Gain one Modifier draw at 500 Luck, then lose 25 Luck"
+        },
+        "13027": {
+            "name": "Luck • Loan - A",
+            "desc": "Gain one Modifier draw at 1000 Luck, then lose 50 Luck"
+        },
+        "13028": {
+            "name": "Luck • Loan - B",
+            "desc": "Gain one Modifier draw at 1500 Luck, then lose 75 Luck"
+        },
+        "13029": {
+            "name": "Luck • Loan - X",
+            "desc": "Set your Luck to 250 immediately and Rerolls to 5, triple your Luck cap, and permanently prevent you from selecting Luck Modifiers and [Resourcefulness]\nEach Modifier draw grants 25 Luck, plus an additional amount equal to 20% of your current Luck (up to 100); choosing Bronze, Silver, Gold/Random, or Diamond/Prismatic/Curse costs 20/40/60/100 Luck respectively; each reroll costs 50 Luck"
+        },
+        "13030": {
+            "name": "Luck • Bounty",
+            "desc": "Immediately spawns a wave of zombies with 2× HP and speed; defeating all of them grants a Modifier draw at 500 Luck"
+        },
+        "13031": {
+            "name": "Luck • Bounty - A",
+            "desc": "Immediately spawns a wave of zombies with 3× HP and speed; defeating all of them grants a Modifier draw at 1000 Luck"
+        },
+        "13032": {
+            "name": "Luck • Bounty - B",
+            "desc": "Immediately spawns a wave of zombies with 4× HP and speed; defeating all of them grants a Modifier draw at 1500 Luck"
+        },
+        "13033": {
+            "name": "Luck • Bounty - X",
+            "desc": "Immediately doubles your current Luck and Luck cap (if your Luck is negative, its absolute value is taken before doubling, e.g.: -50 Luck → 100)"
+        },
+        "13034": {
+            "name": "Infernal Combustion",
+            "desc": "Clicking anywhere releases an Infernal Combustion at the clicked location, with a 10s CD, or 1 second if it kills a zombie"
+        },
+        "13035": {
+            "name": "Infernal Combustion - A",
+            "desc": "Increases Infernal Combustion damage by 100%"
+        },
+        "13036": {
+            "name": "Infernal Combustion - B",
+            "desc": "Decreases Infernal Combustion CD and CD on kill by 50%"
+        },
+        "13037": {
+            "name": "Infernal Combustion - X",
+            "desc": "Infernal Combustion can now damage plants; killing a plant triggers Jalapeno effects on all lanes and refreshes the CD; damage increases based on the total number of Modifiers the plant has"
+        },
+        "13038": {
+            "name": "Prism Fighter",
+            "desc": "Gains a Mecha Fighter that continuously locks onto and attacks the leftmost zombie"
+        },
+        "13039": {
+            "name": "Prism Fighter - A",
+            "desc": "Increases the number of refractions of Mecha Fighter's attack by 1"
+        },
+        "13040": {
+            "name": "Prism Fighter - B",
+            "desc": "Increases the number of refractions of Mecha Fighter's attack by 2"
+        },
+        "13041": {
+            "name": "Prism Fighter - X",
+            "desc": "Mecha Figher's Prism attacks gain infinite pierce, and refractions can hit the same target repeatedly"
+        },
+        "13042": {
+            "name": "Lightning Storm",
+            "desc": "Summons Lightning Bolts to fight for you, periodically damaging zombies on the lawn"
+        },
+        "13043": {
+            "name": "Lightning Storm - A",
+            "desc": "Increases Lightning Bolt duration by 100%"
+        },
+        "13044": {
+            "name": "Lightning Storm - B",
+            "desc": "Increases Lightning Bolt attack frequency by 100%"
+        },
+        "13045": {
+            "name": "Lightning Storm - X",
+            "desc": "The Lightning Bolts now attack continuously without interruption"
+        },
+        "14000": {
             "name": "No Pains No Gains",
             "desc": "Kill all of your plants, and halve the independent damage and speed buffs for all your plants;\nThe same will happen after 20 waves, but this time the buffs are doubled"
         },
-        "13101": {
+        "14001": {
             "name": "All or Nothing",
             "desc": "If your Luck is below 75, immediately set it to 75. When not protected by the pity system, Silver and Golden modifiers are downgraded to Bronze quality, while Diamond ones are upgraded to Prismatic quality"
         },
-        "13102": {
+        "14002": {
             "name": "High Grounds",
             "desc": "Plants deal 30% more damage when above zombies and 30% less damage when below zombies, determined by their vertical sprite positions on the screen"
         },
-        "13103": {
+        "14003": {
             "name": "Predator Instinct",
             "desc": "Plants deal 30% more damage to zombies that are above 50% health, and 30% less damage to those below 50% health"
         },
-        "14000": {
+        "15000": {
             "name": "Curse of MCDXXXVII",
             "desc": "Magnetar's attack speed is halved. After 1,437 attacks, reverse the curse, with each volley counting as 5 attacks\nReversal effect: Quasar projectiles from Magnetar gain an additional 1,437 base damage"
         },
-        "14001": {
+        "15001": {
             "name": "Blessing of MCDXXXVII",
             "desc": "Quasar projectiles from Magnetar gain an additional 1,437 base damage"
         },
-        "14002": {
+        "15002": {
             "name": "Curse of Aggression",
             "desc": "Gatling Cherrybomber's damage is reduced by 50%. After dealing a cumulative 300M damage, reverse the curse\nReversal effect: Each time Gatling Cherrybomber attacks, it additionally fires several projectiles from the left side of the screen, with attack equal to 0.0001% of the cumulative damage dealt by other plants"
         },
-        "14003": {
+        "15003": {
             "name": "Blessing of Aggression",
             "desc": "Each time Gatling Cherrybomber attacks, it additionally fires several projectiles from the left side of the screen, with attack equal to 0.0001% of the cumulative damage dealt by other plants"
         },
-        "14004": {
+        "15004": {
             "name": "Curse of Equity",
             "desc": "For each target Kaledera Eruptor has, its projectile damage is reduced by 1%, up to a max reduction of 70%. After a cumulative reduction of 50,000% through this effect, reverse the curse\nReversal effect: For each target Kaledera Eruptor has, its projectile damage is increased by 1%"
         },
-        "14005": {
+        "15005": {
             "name": "Blessing of Equity",
             "desc": "For each target Kaledera Eruptor has, its projectile damage is increased by 1%"
         },
-        "14006": {
+        "15006": {
             "name": "Curse of Endurance",
             "desc": "Mag-nut no longer fires projectiles. After attracting 5,000 projectiles, reverse the curse\nReversal effect: Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most"
         },
-        "14007": {
+        "15007": {
             "name": "Blessing of Endurance",
             "desc": "Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most"
         }
@@ -744,11 +936,11 @@
         },
         "8": {
             "name": "Meteor Storm",
-            "desc": "Magnetar: Attack Interval 1s → 0.5s"
+            "desc": "Magnetar: Attack Interval 1s → 0.5s | Pulsar: Storage Limit ×2, Attraction Range greatly increased"
         },
         "9": {
             "name": "Syzygy",
-            "desc": "Magnetar: Lv1: Base damage ×2 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed"
+            "desc": "Magnetar: Lv1: Base damage ×2 and damage cap (300) increased to 3000; Lv2: Base damage ×3, damage cap removed | Pulsar: +10% Attraction Efficiency and Damage Bonus for each different type of projectiles pulled in"
         },
         "10": {
             "name": "Final Countdown",
@@ -938,11 +1130,11 @@
     "debuffs": {
         "0": {
             "name": "Breakthrough",
-            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken"
+            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken | Professor Cherryz: -1 Backup Newspaper"
         },
         "1": {
             "name": "Absolute Immunity",
-            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects"
+            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects | Professor Cherryz: -1 Backup Newspaper"
         },
         "2": {
             "name": "Exsanguination",
@@ -978,7 +1170,7 @@
         },
         "10": {
             "name": "Trident Torrents",
-            "desc": "Giga Trident-nut Zombie: Now throws 2 extra tridents each attack | Pozeidon throws 3 giant tridents"
+            "desc": "Giga Trident-nut Zombie & Harpooneer Frost Tall-nut Zombie: Now throws 2 extra tridents each attack | Pozeidon throws 3 giant tridents"
         },
         "11": {
             "name": "Scatterthrow",
@@ -1208,6 +1400,10 @@
             "name": "Crisis",
             "desc": "Giga Football-nut Acrobat Zombie will appear"
         },
+        "2006": {
+            "name": "Crisis",
+            "desc": "Harpooneer Frost Tall-nut Zombie will appear"
+        },
         "3000": {
             "name": "Nemesis",
             "desc": "Abyssal Gargantuar will appear as a Mini-boss"
@@ -1318,7 +1514,7 @@
         },
         "5003": {
             "name": "Zombie Parry",
-            "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 0.2s"
+            "desc": "Zombies deal 100% damage back to plants when they dodge an attack, with a CD of 3s"
         },
         "5004": {
             "name": "Brand of Ruin",
@@ -1350,7 +1546,7 @@
         },
         "10006": {
             "name": "Curse of Envy",
-            "desc": "The plant type with the highest amount of cumulative damage deals only 85% damage, other plants deal 105% damage"
+            "desc": "The plant type with the highest amount of cumulative damage deals only 70% damage, other plants deal 110% damage"
         },
         "10007": {
             "name": "Expert Fast-track",
@@ -1366,7 +1562,7 @@
         },
         "10010": {
             "name": "Hibernation",
-            "desc": "Plants are frozen for 2s after respawning"
+            "desc": "Plants are frozen for 3s after respawning"
         },
         "10011": {
             "name": "Heavy Knockout",
@@ -1382,7 +1578,7 @@
         },
         "10014": {
             "name": "Insidious Evil",
-            "desc": "When a plant disappears, a random zombie is spawned at its location with an HP buff"
+            "desc": "When a plant disappears, a random zombie is spawned at its location with an HP and speed buff"
         },
         "10015": {
             "name": "Jackson Variety Hour",
@@ -1398,7 +1594,7 @@
         },
         "10018": {
             "name": "Counterstrike",
-            "desc": "When zombies take damage, they spawn a zombie-side pea projectile with damage equal to 10% of the zombie's attack power (at least 20) against the plants; this can trigger at most 10 times every 0.02s"
+            "desc": "When zombies take damage, they spawn a zombie-side curse projectile with damage equal to 10% of the zombie's attack power (at least 20) against the plants; this can trigger at most 10 times every 0.02s"
         },
         "10019": {
             "name": "Lackey Comeback",
@@ -1418,7 +1614,7 @@
         },
         "10023": {
             "name": "Necropolis",
-            "desc": "3 columns of gravestones will appear on the lawn at the start of each round"
+            "desc": "3 columns of gravestones will appear on the lawn at the start of each round; on flag waves, these summon zombies eligible for the wave"
         },
         "10024": {
             "name": "Nitro Rush",
@@ -1442,15 +1638,15 @@
         },
         "10029": {
             "name": "Chaos Touch",
-            "desc": "Your plants are moved to random locations every new zombie wave"
+            "desc": "Your plants are moved to random locations every 5th wave"
         },
         "10030": {
             "name": "Escalating Apocalypse",
-            "desc": "Wave interval is reduced, and each wave has a chance to immediately trigger the next"
+            "desc": "Wave interval is reduced, and each wave has a chance to immediately spawn the same zombies in this wave again; this chance increases as wave progresses"
         },
         "10031": {
             "name": "Desperate Detonation",
-            "desc": "Non-mini-boss zombies have a chance to self-explode when under 10% max HP"
+            "desc": "Non-mini-boss zombies have a chance to self-explode immediately on hit when under 10% max HP"
         },
         "10032": {
             "name": "Horn of Power",
@@ -1462,19 +1658,19 @@
         },
         "10034": {
             "name": "Little but Nimble",
-            "desc": "Non-boss zombies have 30% less max HP and size, but are 200% faster"
+            "desc": "Non-boss zombies have 30% less max HP and size, but are 100% faster"
         },
         "10035": {
             "name": "Bloated Zombies",
-            "desc": "Non-boss zombies have 60% more max HP and size, but their speed is reduced by 50%"
+            "desc": "Non-boss zombies have 60% more max HP and size, but their speed is reduced by 60%"
         },
         "10036": {
             "name": "Cheap Aesthetics",
-            "desc": "Increase the effects of Bronze and Silver Modifiers by 10%, while Golden and Diamond Modifiers have theirs reduced by 30%"
+            "desc": "Increase the effects of Silver and below Modifiers by 10%, while Golden and Diamond Modifiers have theirs reduced by 30%"
         },
         "10037": {
             "name": "Exquisite Aesthetics",
-            "desc": "Increase the effects of Golden and Diamond Modifiers by 10%, while Bronze and Silver Modifiers have theirs reduced by 30%"
+            "desc": "Increase the effects of Golden and above Modifiers by 10%, while Bronze and Silver Modifiers have theirs reduced by 30%"
         },
         "10038": {
             "name": "Midas Touch",
@@ -1482,7 +1678,7 @@
         },
         "10039": {
             "name": "Power in Number",
-            "desc": "When you have 0/1/2/3/4/5/6 or more plants on the field, zombies receive 75%/80%/85%/90%/95%/100%/105% damage respectively"
+            "desc": "When you have 0/1/2/3/4/5/6 or more plants on the field, zombies receive 50%/60%/70%/80%/90%/100%/105% damage respectively"
         },
         "10040": {
             "name": "Silver Lining",
