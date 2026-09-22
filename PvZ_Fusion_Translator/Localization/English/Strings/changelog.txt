@@ -5,68 +5,77 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 3.9 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 4.0 Changelog</size></align>
 
-1. The Gods: Evolved
-- Added a new Purgatory Mode
-- Added new Trial Modifiers. These start off as debuffs but after completing the trials they turn into buffs.
-- Access from Recommended Levels
+1. Memory - Snowy Night Update!
+- Pre-requisite: Defeat Ice-borg Executrix Mk. Alpha in Adventure Extra - Snow Level 9
+- Enter through Recommended Level
 
-2. New Plants
+2. The Gods Evolved
+- New The Gods Almanac where you can buy paths and upgrades
+- New level progression and currency
+
+3. New Plants
+- Snowy Night Base Plants:
+  - Tundraweed
+  - Saber-shroom
+  - Shield-shroom
+  - Lithops
 - Basic Fusions:
-  - Ender Pumpkin
-  - Penny-shroom (Marigold > Puff-shroom)
-  - Loan-shroom (Fume-shroom + Marigold)
-  - Silver Hypno-shroom (Hypno-shroom + Marigold)
-  - Golden Hypno-shroom
-  - Cherry Pop (Cherry Bomb > Puff-shroom)
-  - Hungry-shroom (Chomper + Scaredy-shroom)
-  - Bush-shroom (Fume-shroom + Umbrella Leaf)
-  - Doom Pot (Doom-shroom > Flower Pot)
-  - Doombrella (Doom-shroom + Umbrella Leaf)
-  - Gulper-shroom (Chomper > Sea-shroom)
-  - Winter Starfruit (Ice-shroom + Starfruit)
-  - Belch-shroom (Chomper + Fume-shroom)
-  - Nibble-shroom (Chomper > Puff-shroom)
-  - Sea Pot (Sea-shroom > Flower Pot)
-  - Starlic (Starfruit + Garlic)
+  - Frostbiter (Chomper + Ice-shroom)
+  - Cactus Squash (Squash + Cactus)
+  - Spiky Pumpkin (Spikeweed > Pumpkin)
+  - Fume-spreader (Fume-shroom + Threepeater)
+  - Hot Pot (Jalapeno > Flower Pot)
+  - Saber Tundraweed (Tundraweed + Saber-shroom)
+  - Shield Tundraweed (Tundraweed + Shield-shroom)
+  - Clash-shroom (Saber-shroom + Shield-shroom)
+  - Aqua Tundraweed (Aloe Aqua + Tundraweed)
+  - Aqua Saber-shroom (Aloe Aqua + Saber-shroom)
+  - Aqua Shield-shroom (Aloe Aqua + Shield-shroom)
+  - Lithops Tundraweed (Tundraweed + Lithops)
+  - Saber Lithops (Saber-shroom + Lithops)
+  - Shield Lithops (Shield-shroom + Lithops)
+  - Aqua Lithops (Aloe Aqua + Lithops)
+  - Lichen Firnace (Firnace + Hoarfrost Lichen)
+  - Tundraweed Firnace (Firnace + Tundraweed)
+  - Saber Firnace (Firnace + Saber-shroom)
+  - Shield Firnace (Firnace + Shield-shroom)
 - Odyssey Fusions:
-  - Common:
-    - Firnessence Panacea (Firnurse + Aloe Nivea)
-  - Epic:
-    - Sea-greed Zombox (Kelptain Goldbeard + Zombie Giftbox)
+  - Common Subspecies:
+    - Pyroboros Pot (Dragonbreath Torcher > Flower Pot)
+  - Legendary:
+    - Final Magnetar
   - Unique:
-    - Flurry Commando (Pea-storm Commando + Fume-shroom)
-    - Fearmonger Snipea (Snipea + Scaredy-shroom)
+    - Drone Commando (Pea-storm Commando + Blover)
+    - Snipurr (Snipea > Cattail)
+    - Snipad (Shovel a Snipot)
 
-3. New Zombies
+4. New Zombies
 - Common:
-  - Pole Vaulting Football Zombie
-  - Nyan Squash Zombie
-  - Boss:
-    - Last Striker (finished)
-    - Jackson Universe
+  - Lost Automaton
+  - Force Shield Automaton
+  - Vibroblade Automaton
+  - Penguin Automaton
+  - Snowfur Automaton
+  - Snow Crab
+  - Turrethead Automaton
+- Neutral:
+    - Snowbeak
+- Odyssey:
+    - Harpooneer Frost Tall-nut Zombie
 
-4. Modifiers
-- 6 new Zombie Modifiers
-
-5. New Skin
-- Obsidian Barrier Reef skin
+5. New Levels
+- Odyssey Gacha: Scratch Off!
+- New I, Zombie default level group levels to replace the crappy old RNG ones
 
 6. Noteworthy Balance Changes
-- Snow mechanic rework: Vanilla base plants now cost 75 more Sun on Snow maps, see Mechanics almanac for details. Also check out updated entries for Firnace, Frost Legion Snowball Launcher & Trident Thrower
-- Fallout Blover: No longer deals double damage to Irradiated zombies
-- Doom Cactus: Projectiles now pierce twice and inflict Irradiated
-- Doom-shroom explosions now leave a Doom Pad on water tiles, see Lily Pad's entry for detailed explanations
-- Doomwarp-shroom & Fungularity: Nerfed Chronoshift duration, but massively increased Chronoshift effect (by means of increasing elapsed time) to zombies already in Chronoshift
-- SP Fusions: Now require dedicated Unlock Modifiers after obtaining the 2 corresponding Modifiers to unlock
-- Epic Odyssey Fusion Unlock Modifiers are now more expensive in Cursed Odyssey
-- Curse of Pride is now a Cursed Odyssey shop exclusive Modifier and no longer a Zombie Modifier
+- Firnace: buffed Sun production and duration, increased seed packet CD, to reduce micro-management
+- Doom Kelp: No longer leaves a Doom Lily Pad on explosion
+- Charm-shroom & Charmatron: buffed attack speed, nerfed attack damage
+- Both Magnetar Synergy Modifiers [Astral Convergence], [Celestial Beacon] reworked
+- Pulsar: Now Magnetar Modifiers also have effects for Pulsar
+- Coach Zombie: Pole-vaulting distance buff no longer stacks
+- Professor Cherryz: Now more threatening the longer he remains on the field
 
-7. QOL Optimizations
-- New function to show damage indicators (toggleable in the settings)
-- New option in settings to disable screen shake effects (from Jalapenos & Doom-shrooms)
-- New game speed settings that can be more fine-tuned
-- New Insta-grow Fertilizer in Zen Garden Tool Shop, instantly maxes out a Plant
-
-8. Miscellaneous bug fixes and optimizations.
+7. Miscellaneous bug fixes and optimizations.
