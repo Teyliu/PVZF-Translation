@@ -338,7 +338,7 @@
         },
         "3003": {
             "name": "Celestial Beacon",
-            "desc": "When there are at least 6 Magnetars and 6 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear and each Selene provides massive Lumos levels, while Magnetars deal extra damage to the zombie with the most amount of HP"
+            "desc": "When there are at least 6 Magnetars and 6 Selene Cabbages on the field, Selene's summoned Mini Moon will not disappear and each Selene provides massive Lumos levels, while Magnetars deal extra damage to the zombie with the highest amount of HP"
         },
         "3004": {
             "name": "Event Horizon",
@@ -1130,11 +1130,11 @@
     "debuffs": {
         "0": {
             "name": "Breakthrough",
-            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken | Professor Cherryz: -1 Backup Newspaper"
+            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken | Professor Cherryz: -1 Spare Newspaper"
         },
         "1": {
             "name": "Absolute Immunity",
-            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects | Professor Cherryz: -1 Backup Newspaper"
+            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects | Professor Cherryz: -1 Spare Newspaper"
         },
         "2": {
             "name": "Exsanguination",
@@ -1170,7 +1170,7 @@
         },
         "10": {
             "name": "Trident Torrents",
-            "desc": "Giga Trident-nut Zombie & Harpooneer Frost Tall-nut Zombie: Now throws 2 extra tridents each attack | Pozeidon throws 3 giant tridents"
+            "desc": "Giga Trident-nut Zombie & Harpooneer Frost Tall-nut Zombie: Now throws 2 extra tridents/snow harpoons each attack | Pozeidon throws 3 giant tridents"
         },
         "11": {
             "name": "Scatterthrow",
