@@ -170,7 +170,7 @@
         },
         "42": {
             "name": "Weathering Gale",
-            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduces DR value by 10"
+            "desc": "Quetzalcoatl Blover: Dizzy effect damage bonus 20% → 40%, and attacks reduce DR value by 10"
         },
         "43": {
             "name": "Swift Winds",

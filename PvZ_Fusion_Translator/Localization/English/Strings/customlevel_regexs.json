@@ -88,5 +88,6 @@
   "密码值：zkt([^\\s]+)": "Encoded coordinates: zkt{0}",
   "密码值：ykbkt([^\\s]+)": "Encoded coordinates: ykbkt{0}",
   "^消耗阳光(\\d+)$": "Spend {0} Sun",
-  "^获得阳光(\\d+)$": "Receive {0} Sun"
+  "^获得阳光(\\d+)$": "Receive {0} Sun",
+  "当前放置炸弹有([^\\s]+)秒的冷却时间，请稍后再试！": "Placing bombs has a {0}s CD currently, please try again later!"
 }

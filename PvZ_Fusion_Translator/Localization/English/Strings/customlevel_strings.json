@@ -267,5 +267,16 @@
   "确定降低难度吗？": "Reduce Difficulty?",
   "<size=28>你确定不再思考一下吗？": "<size=28>You sure you don't want to reconsider?",
   "<color=#FF0000>确定查看答案吗？": "<color=#FF0000>View Solution?",
-  "<color=#FF0000><size=28>未通关过十分不建议查看答案！！\n<size=20><alpha=#88>（若实在要查看的话，请确保你未在本关卡中进行过任何操作）": "<color=#FF0000><size=28>It is heavily not recommended to view to solution before beating the level yourself!\n<size=20><alpha=#88>(And if you do decide to view it, make sure not to do anything before doing so!)"
+  "<color=#FF0000><size=28>未通关过十分不建议查看答案！！\n<size=20><alpha=#88>（若实在要查看的话，请确保你未在本关卡中进行过任何操作）": "<color=#FF0000><size=28>It is heavily not recommended to view to solution before beating the level yourself!\n<size=20><alpha=#88>(And if you do decide to view it, make sure not to do anything before doing so!)",
+  "欢迎来到蘑菇泡泡堂\n\n本关目标：操作萤火阳光菇、放置炸弹、播散小蘑菇以抵御僵尸的进攻": "Welcome to Bombershroom!\n\nLevel Objective: Control the Lumo-shroom, place bombs,\nspread Puff-shrooms to stop the zombies!",
+  "操作方式：方向键移动萤火阳光菇，按X键放置炸弹\n说明：炸弹可以炸毁4个方向的土豆坚果、并留下小蘑菇\n注意，初始炸弹无法对僵尸造成有效伤害，炸毁土豆坚果有概率掉落强化": "Controls: WASD to move, X to place bomb,\nbomb explosions destroy Mine-nuts in a cross shape.\nNote that your starting bomb deals little damage to zombies, but destroying Mine-nuts drops upgrades!",
+  "你的萤火阳光菇受伤了！\n小心哦，炸弹也会炸伤萤火阳光菇！": "Your Lumo-shroom took damage!\nBe careful, bombs hurt your Lumo-shroom too!",
+  "为防止小蘑菇播撒得太密集阻塞道路，黑猫在地图里放了一只看不见的怪物，每隔一段时间它会吞掉一个格子中的小蘑菇！": "To prevent from Puff-shrooms from blocking the path,\nsome tiles will be cleared periodically.",
+  "发现土豆坚果中的宝藏：一张植物卡牌（只能种在大蒜上）": "You found a plant in a Mine-nut! (Can only be planted on Garlics)",
+  "本关卡基础植物仅能种植在大蒜上！\n这次就原谅你，把阳光还给你吧！": "Base plants can only be planted on Garlics!\nI'll forgive you and give you the Sun back this time.",
+  "获得200阳光！合理使用它们吧": "You found 200 Sun! Use them well!",
+  "你的萤火阳光菇死亡了，好好想想为什么！": "You dun goofed and your Lumo-shroom died! Reflect on yourself!",
+  "都说了植物只能种在大蒜上！\n从现在开始，我只会返还你50阳光！": "I said plants could only be planted on Garlic!\nYou're only be returned 50 Sun from now on!",
+  "你的炸弹升级了，现在可能会生成更强力的小蘑菇！\n（卡槽中展示了可能出现的小蘑菇种类）": "Your bomb has upgraded, more powerful Puff-shrooms may appear from explosions!\nYour seed bank shows currently available Puff-shrooms.",
+  "有植物发生了升变！": "Some plant has evolved!"
 }

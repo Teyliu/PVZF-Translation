@@ -312,7 +312,87 @@
         "startTip": "<color=#00F8FF>W<color=#08F0FF>i<color=#10E8FF>t<color=#18E0FF>h<color=#20D8FF> t<color=#28D0FF>h<color=#30C8FF>e<color=#38C0FF> p<color=#40B8FF>o<color=#48B0FF>w<color=#50A8FF>e<color=#58A0FF>r<color=#6098FF> o<color=#6890FF>f<color=#7088FF> l<color=#7880FF>a<color=#8078FF>d<color=#8870FF>d<color=#9068FF>e<color=#8870FF>r<color=#9860FF>s<color=#A058FF>,<color=#A850FF>n<color=#B048FF>o<color=#B840FF>t<color=#C038FF>h<color=#C830FF>i<color=#D028FF>n<color=#D820FF>g<color=#E018FF> c<color=#E810FF>a<color=#F008FF>n<color=#F800FF> g<color=#FF00FF>e<color=#FF08FF>t<color=#FF10FF> i<color=#FF18FF>n<color=#FF20FF> y<color=#FF28FF>o<color=#FF30FF>u<color=#FF38FF>r<color=#FF40FF> w<color=#FF48FF>a<color=#FF50FF>y<color=#FF58FF> a<color=#FF60FF>n<color=#FF68FF>y<color=#FF70FF>m<color=#FF78FF>o<color=#FF80FF>r<color=#FF88FF>e!\n<color=#FFFF8888>ps. Click on a plant to stack a ladder on it. There'll be multiple popups if you click on more than one plant at once.\nDon't accidentally put multiple ladders in the same spot.\n<alpha=#FF><color=#FFFFBB>Best Solution: 50 Sun    Submitter: <color=#88DD88>用<color=#964B00>钓<color=#BBFFBB>钩<color=#964B00>钓钓<color=#BBFFBB>钩     <color=#FFFFBB>Recommended Difficulty: 4"
     },
     "level_1784114517094_j294150za": {
-        "name": "3.8.0 I, Zombie   Plant's Doom",
+        "name": "3.8.0 I, Zombie Plant's Doom",
         "startTip": "This level enables the Certain Doom modifier.\nSubmitter: 窝是fvv Best Solution: 125 Sun"
-    }
+    },
+    "level_1783824917951_tu97wtodd": {
+    "name": "3.8.0 Fusion RPG (Untranslated)",
+    "startTip": ""
+  },
+  "level_1784117560820_30ai7zx9f": {
+    "name": "3.8.0 Mini-game The Forge",
+    "startTip": ""
+  },
+  "level_1784306250909_wxsmsf7dh": {
+    "name": "3.8.0 The Gods Trial: Rebirth",
+    "startTip": ""
+  },
+  "level_1785158954018_h5jwbpryz": {
+    "name": "3.8.0 The God",
+    "startTip": ""
+  },
+  "level_1785503805906_a4vcr8du6": {
+    "name": "3.8.1 The Gods: Firmament",
+    "startTip": ""
+  },
+  "level_1785503901495_1ilvwhs88": {
+    "name": "3.8.1 Mini-game: Rough Road",
+    "startTip": ""
+  },
+  "level_1785503946693_4a937jw8e": {
+    "name": "3.8.1 Mini-game: Gatling Troupe",
+    "startTip": ""
+  },
+  "level_1786016959724_0ytrvzedx": {
+    "name": "3.8.1 I, Zombie Totally Normal I, Z",
+    "startTip": ""
+  },
+  "level_1786177752599_7tzy9mbg5": {
+    "name": "3.8.1 Explode-O-su! Iceborg's Theme",
+    "startTip": ""
+  },
+  "level_1786794296664_rsl27xd65": {
+    "name": "3.8.1 I, Zombie Mad Doctor",
+    "startTip": ""
+  },
+  "level_1786794553185_9imvf8is2": {
+    "name": "3.8.1 Mini-game Invisi-ghoul",
+    "startTip": "Faster Glove recharge in this level! Use it well!\n<i>They might be invisible, but they are still audible.</i>\n\n\n\n\n\n\n\n\n\n<size=25>Invisible zombies are coming for your brains. Can you defeat them?\nTry finding them with Planterns!</size>\n<size=17>Hint: Since zombie are invisible, plants no longer block them...</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1787320300306_zguu5curm": {
+    "name": "3.9.0 Bombershroom",
+    "startTip": ""
+  },
+  "level_1787370052418_ojyo8p5um": {
+    "name": "3.9.0 The Gods: Integrated Strat",
+    "startTip": ""
+  },
+  "level_1787400750459_p5y696gia": {
+    "name": "3.9 I, Zombie Hmmm?",
+    "startTip": ""
+  },
+  "level_1787820240018_9e0lxrqcg": {
+    "name": "3.9 Mini-game The Balance",
+    "startTip": ""
+  },
+  "level_1788007792965_t1ite9yny": {
+    "name": "3.9.0 I, Zombie Endless",
+    "startTip": ""
+  },
+  "level_1788007795405_xwdbrz0jw": {
+    "name": "3.9 Mini-game Black Hole",
+    "startTip": ""
+  },
+  "level_1788007797981_64pjx7gbv": {
+    "name": "3.9.0 <color=#ff2d2d>The Gods: Zombified",
+    "startTip": ""
+  },
+  "level_1788007799592_npuh7s88a": {
+    "name": "3.9 Mini-game Metal Exchange",
+    "startTip": ""
+  },
+  "level_1788007800778_u5mqsl3b2": {
+    "name": "3.9 Rex Ex Machina",
+    "startTip": ""
+  }
 }
