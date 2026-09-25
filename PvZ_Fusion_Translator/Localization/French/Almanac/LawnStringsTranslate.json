@@ -4780,6 +4780,244 @@
             "introduce": "<align=left><size=36><color=black>Caramb'ail fait trois choses chaque jour : passer la nuit blanche sur les jeux vidéo, se baigner dans du jus d’ail et remplacer ses trois repas par du thé au lait saveur ail avec triple dose de sucre. Ses voisins ont renoncé depuis longtemps à le convaincre d’adopter un rythme de vie sain, et plus grand monde ne veut adresser la parole au type qui empeste l’ail des pieds à la tête. Mais il est heureux, et c’est tout ce qui compte à ses yeux.</color>",
             "info": "<size=36>Caramb'ail tire des étoiles empoisonnées.\n\n<color=black>Dégâts : </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Les étoiles empoisonnées gagnent un bonus de dégâts égal à (5× les points de Poison actuels de la cible), puis appliquent 1 point de Poison à la cible après avoir infligé leurs dégâts.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Carambole + Ail</color>"
+        },
+        {
+            "seedType": 41,
+            "name": "Virevoltant des Neiges",
+            "introduce": "<align=left><size=36><color=black>La plus grande fierté du Virevoltant des Neiges, c’est d’avoir un jour roulé jusqu’au sommet d’un pic enneigé. Selon lui, jamais il n’avait roulé aussi haut. Arrivé en haut, il a aussitôt redévalé la pente, mais pendant ce bref instant au sommet, il a pu contempler le paysage au-delà des plaines enneigées. Depuis, il rêve chaque jour d’y remonter en roulant. Il échoue toujours de peu, mais le temps joue en sa faveur.</color>",
+            "info": "<size=36>Le Virevoltant des Neiges roule vers les ennemis et leur inflige des dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>50/0.25s</color>\n<color=black>Spécial : </color><color=#8B0000>Quitte sa case 1 seconde après son apparition et roule vers le zombie le plus à gauche de sa rangée, infligeant 50 dégâts toutes les 0,25 s. S’il n’y a aucune cible, s’éloigne lentement en roulant vers la droite.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 42,
+            "name": "Champi-sabre",
+            "introduce": "<align=left><size=36><color=black>Aucun champignon n’a jamais eu un chapeau assez dur pour trancher comme une épée. À vrai dire, le chapeau du Champi-sabre n’a rien de spécial. Il y garde simplement cachée une spécialité locale offerte par un ami lointain. Comment ça s’appelle, déjà... Ah oui, une baguette.</color>",
+            "info": "<size=36>Le Champi-sabre assène une puissante entaille aux ennemis proches à son apparition, d’une grande efficacité contre les Automates Perdus de la même couleur.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Inflige des dégâts de zone sur les 2 cases devant lui, perçant l’armure de Type 2.\n<color=black>•</color> Déclenche une <u>Entaille Spéciale</u> à son apparition. L’<u>Entaille Spéciale</u> contre les Signaux Verts et inflige des dégâts égaux à 15× ses dégâts sur les 3 cases devant lui. En cas de contre réussi, rend 100 Soleil et fait avancer de 90 % la recharge du paquet de graines principal de la plante qui l’a déclenchée.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 43,
+            "name": "Champi-bouclier",
+            "introduce": "<align=left><size=36><color=black>Propriétaire d’un atelier de réparation, le Champi-bouclier n’a généralement besoin que d’une seule technique pour réparer les choses : un bon coup sec. Si un coup ne suffit pas, aucun problème. Il suffit de frapper encore quelques fois.</color>",
+            "info": "<size=36>Le Champi-bouclier assène un puissant coup de bouclier aux ennemis proches à son apparition, d’une grande efficacité contre les Automates Perdus de la même couleur.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>1/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Donne un coup de bouclier à l’ennemi le plus proche à moins de 1,5 case devant lui et le repousse.\n<color=black>•</color> Renvoie les projectiles ennemis ; chaque renvoi réussi lui fait subir des dégâts égaux à 50 % de ceux du projectile.\n<color=black>•</color> Déclenche un <u>Coup de Bouclier Spécial</u> à son apparition. Le <u>Coup de Bouclier Spécial</u> contre les Signaux Rouges et repousse tous les ennemis à moins de 1,5 case devant lui ; il rend aussi le Champi-bouclier anti-écrasement et lui confère 95 % de résistance aux dégâts pendant 1,5 s. En cas de contre réussi, rend 100 Soleil et fait avancer de 90 % la recharge du paquet de graines principal de la plante qui l’a déclenché.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 44,
+            "name": "Lithops",
+            "introduce": "<align=left><size=36><color=black>\" Il y a tant d’insectes cachés dans le sol de la toundra. Ils sont si mignons, je n’ai vraiment pas le cœur de les transpercer… \" Mais quand un ennemi arrive vraiment sous son nez, plus le temps de s’en soucier.</color>",
+            "info": "<size=36>Le Lithops se tient caché et envoie discrètement ses racines attaquer les zombies proches.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse. Ignoré par les zombies.\n<color=black>•</color> Attaque les zombies dans une zone de 3×3.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 211,
+            "name": "Grain de Café",
+            "introduce": "<align=left><size=36><color=black>\" Hé, les gars, hé ! \" s’exclame le Grain de Café. \" Hé ! Quoi de neuf ? C’est qui, lui ? Hé ! T’as vu ce truc ? Quel truc ? Waouh ! Des lions ! \" Eh oui, le Grain de Café est du genre à s’exciter pour un rien.</color>",
+            "info": "Le Grain de Café aide les plantes à surmonter la \" tourista \".\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante volante.\n<color=black>•</color> Pour ce niveau, toutes les plantes de base situées sur la case sous un Grain de Café sont exemptées des hausses de prix des paquets de graines causées par les paramètres de carte enneigée et de jour.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>30s</color>"
+        },
+        {
+            "seedType": 311,
+            "name": "Étoile Polaire Suprême",
+            "introduce": "<align=left><size=36><color=black>Elle forge son armure avec la densité d’une étoile à neutrons et commande ses gardes en orbite au rythme d’un pulsar. Les zombies ne sont pour elle que d’infimes grains de poussière, voués à s’effacer avec le temps. Elle ne leur accorde guère d’attention. Au fil de son existence quasi éternelle de magnétar, elle a vu passer bien trop de ces poussières.</color>",
+            "info": "<size=36>La poussière d’étoiles converge et dessine les constellations d’une couronne et d’un manteau.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte</color>\n<color=black>Dégâts : </color><color=#8B0000>300×5/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Attaque en continu, qu’une cible soit acquise ou non.\n<color=black>•</color> Ses projectiles poursuivent les cibles sur tout le terrain, en priorité les cibles volantes. Inflige ×10 dégâts aux cibles volantes.\n<color=black>•</color> Invoque un satellite toutes les 6 s :\n· Il gravite autour d’elle dans un rayon de 3 cases, juste au-dessus du sol ;\n· Au contact d’un zombie, le repousse et lui inflige des dégâts égaux à 30 % des dégâts d’attaque toutes les 0,02 s, puis se divise en 5 projectiles infligeant chacun 1× les dégâts d’attaque ;\n· Explose droit devant après 4 s, infligeant des dégâts égaux au total des dégâts infligés par le satellite au contact direct.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1462,
+            "name": "Mordeur Glacé",
+            "introduce": "<align=left><size=36><color=black>Après avoir été la révélation de la série <i>Monstre Arctique</i>, le Mordeur Glacé est rapidement devenu plutôt capricieux. Il ne porte que des tenues vintage sur mesure, refuse d’apparaître dans toute émission qui n’est pas diffusée aux heures de grande écoute, et ne mange rien d’autre que des glaces de toutes sortes.</color>",
+            "info": "<size=36>Le Mordeur Glacé ne mange que les zombies gelés.\n\n<color=black>Dégâts : </color><color=#8B0000>40 / Élimination instantanée (Dévoration)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Ne peut avaler que les zombies gelés. Lorsqu’il parvient à avaler un zombie, libère un effet Champi-glace qui ne gèle que pendant 1 seconde.\n<color=black>•</color> En cas d’échec, inflige des dégâts aux zombies dans une zone de 3×3, applique Froid et ajoute 50 points Cryo.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Champi-glace</color>"
+        },
+        {
+            "seedType": 1463,
+            "name": "Écraseur Cactus",
+            "introduce": "<align=left><size=36><color=black>L’Écraseur Cactus saute plus haut que tout le monde, et frappe donc plus fort que tout le monde. Son plaquage fétiche a toujours été l’un des pires cauchemars des zombies. Il compte d’innombrables victoires à son actif, dont 168 zombies aplatis et la Citrouille Piquante enfoncée dans le sol.</color>",
+            "info": "<size=36>L’Écraseur Cactus bondit dans le ciel et se change en nuage, déchaînant une averse d’épines avant d’aplatir enfin les ennemis sous lui.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>1 case à gauche ; 2 cases à droite</color>\n<color=black>Spécial : </color><color=#8B0000>Peut cibler les ennemis volants. Dans les airs, projette en continu vers le bas 224 épines qui ne peuvent toucher que les cibles volantes et infligent 20 dégâts chacune. À l’atterrissage, sa portée d’écrasement horizontale passe à ×5.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Cactus</color>"
+        },
+        {
+            "seedType": 1464,
+            "name": "Citrouille Piquante",
+            "introduce": "<align=left><size=36><color=black>La Citrouille Piquante n’aime pas trop parler aux autres plantes. D’une part parce qu’il est difficile d’ouvrir la bouche quand on est sous terre, et d’autre part parce qu’on lui demande sans arrêt pourquoi son corps est enfoui dans le sol et pourquoi elle garde cette coiffure si particulière. Les deux questions ont la même réponse : l’Écraseur Cactus tombé du ciel.</color>",
+            "info": "<size=36>La Citrouille Piquante renforce les Orties et les protège des attaques.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse. Anti-écrasement. Ne bloque pas les zombies.\n<color=black>•</color> Peut encaisser les attaques d’écrasement à la place des Orties et des Noix Piquantes de sa case. Peut aussi encaisser 500 dégâts pour les empêcher de disparaître après avoir crevé un pneu.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Ortie > Citrouille</color>"
+        },
+        {
+            "seedType": 1465,
+            "name": "Virevoltant Sabre",
+            "introduce": "<align=left><size=36><color=black>De nombreuses rumeurs attribuent au Virevoltant Sabre les cercles dans les blés. L’idée le fait ricaner. \" Le blé finit toujours par être moissonné. Pourquoi ne pas plutôt prendre le sol gelé de la toundra comme toile ? Un tel dessin pourrait durer des milliers d’années. \"</color>",
+            "info": "<size=36>Le Virevoltant Sabre inflige bien plus de dégâts.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>150/0.25s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Virevoltant des Neiges. Ses attaques contrent les Signaux Verts.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Virevoltant des Neiges + Champi-sabre</color>"
+        },
+        {
+            "seedType": 1466,
+            "name": "Virevoltant Bouclier",
+            "introduce": "<align=left><size=36><color=black>Si vous voulez savoir pourquoi le Virevoltant Bouclier est si calme, retenez ceci : une fois lancé contre tout ce qui se trouve sur son chemin, il ne sait plus du tout quand s’arrêter… à moins que vous ne placiez un mur devant lui.</color>",
+            "info": "<size=36>Le Virevoltant Bouclier est bien plus résistant.\n\n<color=black>Robustesse : </color><color=#8B0000>1500</color>\n<color=black>Dégâts : </color><color=#8B0000>50/0.25s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Virevoltant des Neiges. Ne peut pas être éliminé instantanément par les dégâts d’écrasement. Ses attaques contrent les Signaux Rouges.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Virevoltant des Neiges + Champi-bouclier</color>"
+        },
+        {
+            "seedType": 1467,
+            "name": "Champi-choc",
+            "introduce": "<align=left><size=36><color=black>Après chaque ordre, Champi-choc remet sa cape en place d’un geste de la main. Il n’a pourtant ni cape ni mains, mais il demande tout de même à son lieutenant de lui donner une tape sur l’épaule. Tous deux trouvent que ça en impose énormément.</color>",
+            "info": "<size=36>Champi-choc équilibre attaque et défense, et permet aux fusions de Champi-sabre et de Champi-bouclier proches de changer de posture.\n\n<color=black>Dégâts : </color><color=#8B0000>20/0.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Dans une zone de 3×3, certaines fusions de Champi-sabre et de Champi-bouclier peuvent être converties les unes en les autres par fusion avec ces deux plantes.\n<color=black>•</color> Les plantes dans une zone de 3×3 rendent désormais 200 Soleil lorsqu’elles contrent un Signal.\n<color=black>•</color> Inflige des dégâts de zone et un recul monocible sur les 2 cases devant lui.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-sabre + Champi-bouclier</color>"
+        },
+        {
+            "seedType": 1468,
+            "name": "Virevoltant d'Eau",
+            "introduce": "<align=left><size=36><color=black>Le Virevoltant d'Eau n’a jamais réussi à s’adapter aux blizzards fréquents, bien que sa famille vive dans la toundra depuis des générations. Ces blizzards lui ont causé des ennuis sans fin : il a même perdu son emploi aux bains publics.</color>",
+            "info": "<size=36>Le Virevoltant d'Eau devient plus puissant lorsqu’il est gelé.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>80/0.25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hérite des caractéristiques du Virevoltant des Neiges.\n<color=black>•</color> Devient gelé lorsqu’il est affecté par un blizzard ou par l’effet de Champi-glace. Une fois gelé : dégâts et PV max ×2, ses attaques appliquent aussi Gel Profond et 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau + Virevoltant des Neiges</color>"
+        },
+        {
+            "seedType": 1469,
+            "name": "Champi-sabre d'Eau",
+            "introduce": "<align=left><size=36><color=black>Le Champi-sabre d'Eau adore sa perruque et la porte partout, même sur le champ de bataille. Comme il oublie toujours de l’enlever avant d’affronter les zombies, il n’a d’autre choix que de tailler les ennemis en pièces pour protéger sa précieuse perruque.</color>",
+            "info": "<size=36>Le Champi-sabre d'Eau assène des entailles plus puissantes lorsqu’il est gelé.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Inflige des dégâts de zone sur les 2 cases devant lui. Déclenche une <u>Entaille Spéciale</u> à son apparition.\n<color=black>•</color> Gagne respectivement 1/15 charges de glace lorsqu’il est affecté par une attaque de gel ou par l’effet de Champi-glace. Peut consommer 1 charge pour infliger ×2 dégâts, appliquer Gel Profond et 10 points Cryo, et infliger ×4 dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau + Champi-sabre</color>"
+        },
+        {
+            "seedType": 1470,
+            "name": "Champi-bouclier d'Eau",
+            "introduce": "<align=left><size=36><color=black>\" Informe, comme l’eau. \" Le Champi-bouclier d'Eau le répète sans cesse. Il adore l’eau claire et glacée qui dévale des montagnes enneigées. Il la recueille pour renforcer son bouclier, préparer son thé de l’après-midi et rincer la neige qui le recouvre.</color>",
+            "info": "<size=36>Le Champi-bouclier d'Eau assène des coups de bouclier plus puissants lorsqu’il est gelé.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Déclenche un <u>Coup de Bouclier Spécial</u> à son apparition.\n<color=black>•</color> Gagne respectivement 1/15 charges de glace lorsqu’il est affecté par une attaque de gel ou par l’effet de Champi-glace. Peut consommer 1 charge pour appliquer Gel Profond et 10 points Cryo.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau + Champi-bouclier</color>"
+        },
+        {
+            "seedType": 1471,
+            "name": "Commando Drone",
+            "introduce": "<align=left><size=36><color=black>Grâce à la grande mobilité que lui offre le vol, le Commando Drone jouit d’un avantage naturel au tir. C’est pourquoi la plupart des concours de tir entre plantes se terminent par la victoire du Commando Drone, y compris dans son jeu vidéo de tir préféré.</color>",
+            "info": "<size=36>Le Commando Drone peut devenir l’ailier de certaines plantes du même type et combattre à leurs côtés contre les ennemis qui approchent.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×6/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lors d’une attaque normale, chaque projectile a 2 % de chances de déclencher son Ultime : restaure des PV égaux à 1× sa Robustesse, devient insensible aux dégâts pendant 5 s et tire 3 projectiles toutes les 0,02 s.\n<color=black>•</color> S’envole vers un Commando Chevrotine ou un autre Commando compatible du terrain qui n’a pas encore d’ailier, et devient son ailier sans occuper de case.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois Commando + Troufle</color>"
+        },
+        {
+            "seedType": 1472,
+            "name": "Triple Champi-fumée",
+            "introduce": "<align=left><size=36><color=black>Grâce au succès de <i>Bad Fungi</i>, le jeu qui s’inspire de lui, le Triple Champi-fumée a gagné gloire et fortune en tant qu’inventeur et aviateur. \" Ma différence est une chance que m’a offerte le Roi Fungi \", a-t-il humblement confié aux journalistes. \" Je n’ai fait que la saisir. Je n’aurais jamais pu créer ce jeu sans ces deux têtes à spores supplémentaires. Elles font d’excellentes hélices. \"</color>",
+            "info": "<size=36>Le Triple Champi-fumée projette des fumées sur 3 rangées.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il est planté sur une rangée extérieure, ses dégâts sur sa propre rangée sont doublés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1473,
+            "name": "Nénuphar-sniper",
+            "introduce": "<align=left><size=36><color=black>\" Mon fusil de précision est tombé dans la piscine ! \" s’écrie le Nénuphar-sniper. \" Heureusement, j’avais marqué l’endroit avant qu’il ne tombe. Comme dans cette fable où l’on marque son bateau pour retrouver une épée perdue ! Sauf que cette fois, je vais vraiment pouvoir le retrouver. \"</color>",
+            "info": "<size=36>Plateforme de tir de la famille des snipers qui utilise le recul pour déchaîner une puissance de feu supplémentaire.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>30×5/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000> Plante basse. Les plantes de type Pois-sniper à verrouillage posées sur cette case effectuent 1 attaque supplémentaire immédiate toutes les 6 attaques.</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Pelle</color>"
+        },
+        {
+            "seedType": 1474,
+            "name": "Pot Enflammé",
+            "introduce": "<align=left><size=36><color=black>Le Pot Enflammé adore faire pousser des plantes sur sa tête. Seul problème : tout ce qu’il fait pousser en ressort pimenté. Les tomates ont un goût de piment, les pois vous mettent la bouche en feu, et même les tournesols les plus innocents en apparence ont un sacré piquant. Il assure qu’ils sont à peine relevés. Personne n’a encore eu le courage de lui dire le contraire.</color>",
+            "info": "<size=36>Le Pot Enflammé attise de ses flammes l’ardeur combative des plantes de feu placées au-dessus de lui.\n\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Une fois toutes les 0,2 s, lorsqu’il est affecté par un effet Jalapeño, rend 20 PV aux catapultes, tireurs, etc. de type feu placés au-dessus de lui et leur accorde un bonus de 50 % de vitesse d’attaque pendant 5 s. Ce bonus est cumulable.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1475,
+            "name": "Virevoltant Lithops",
+            "introduce": "<align=left><size=36><color=black>Le Virevoltant Lithops est la plante la plus occupée de la toundra. \" Je dois continuer à rouler… \", dit-il. Sinon, le givre qui recouvre son corps collerait à la neige. Il est tellement occupé à rouler qu’il n’a jamais le temps de l’expliquer aux passants.</color>",
+            "info": "<size=36>Le Virevoltant Lithops inflige des dégâts dans une petite zone.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>50/0.25s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Virevoltant des Neiges. En attaquant, inflige des dégâts équivalents aux autres zombies dans un rayon de 1,5 case.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Virevoltant des Neiges + Lithops</color>"
+        },
+        {
+            "seedType": 1476,
+            "name": "Lithops Sabre",
+            "introduce": "<align=left><size=36><color=black>La plupart des plantes peinent à pousser dans le sol gelé de la toundra, mais le Lithops Sabre s’en moque. De toute façon, il n’aime faire pousser des champignons qu’à fleur de sol. Ces champignons verts soignent la cécité des neiges, un mal courant dans la toundra, et ils peuvent aussi faire voir trente-six chandelles aux zombies.</color>",
+            "info": "<size=36>Le Lithops Sabre dégaine sa lame lors de sa première attaque et frappe durement sa cible.\n\n<color=black>Dégâts : </color><color=#8B0000>40/2s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Lithops. Contre les Signaux Verts et inflige ×7,5 dégâts lors de sa première attaque.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-sabre + Lithops</color>"
+        },
+        {
+            "seedType": 1477,
+            "name": "Lithops Bouclier",
+            "introduce": "<align=left><size=36><color=black>Star incontestée de l’équipe de volley, le Lithops Bouclier y joue un rôle indispensable. Il peut contrer un smash adverse depuis n’importe quel endroit du terrain. \" Pour moi, ce n’est pas bien difficile \", dit-il. \" Le seul problème, c’est que mes coéquipiers n’arrêtent pas de me marcher dessus. \"</color>",
+            "info": "<size=36>Le Lithops Bouclier repousse les ennemis d’un coup de bouclier lors de sa première attaque, projetant ses cibles au loin.\n\n<color=black>Dégâts : </color><color=#8B0000>40/2s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Lithops. Inflige ×2,5 dégâts lors de sa première attaque, projette la cible et contre les Signaux Rouges.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-bouclier + Lithops</color>"
+        },
+        {
+            "seedType": 1478,
+            "name": "Nénu-chat-sniper",
+            "introduce": "<align=left><size=36><color=black>\" Aouh ! Aouh ! \" Le Nénu-chat-sniper est le membre le plus raffiné du corps des snipers. Sa coiffure, ses lunettes et son canon ont tous été conçus avec un soin méticuleux, et le canon émet même un son bien particulier à chaque tir. Malheureusement, l’artisan qui l’a fabriqué n’a pas compris ses consignes. Chaque tir fait \" miaou \", alors il doit hurler encore plus fort pour le couvrir.</color>",
+            "info": "<size=36>Le Nénu-chat-sniper abat ses cibles à distance avec sa queue de chat, puis traque sans relâche les ennemis coriaces après avoir réussi un tir à la tête.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>500/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante aquatique. Sa portée de ciblage, sa portée d’attaque et son mode d’attaque sont identiques à ceux du Pois-sniper.\n<color=black>•</color> Si la cible survit à un tir à la tête, fait apparaître une épine à tête chercheuse autour d’elle toutes les 0,05 s.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois-sniper > Nénu-chat</color>"
+        },
+        {
+            "seedType": 1479,
+            "name": "Lithops d'Eau",
+            "introduce": "<align=left><size=36><color=black>Dans la toundra, les Lithops passent facilement inaperçus, et même au sein de la famille des Lithops, le Lithops d'Eau est pratiquement invisible. Il ne veut pas que des zombies errants le prennent pour un bain de pieds public et gratuit, et c’est aussi pour cela qu’il s’est installé pour de bon dans la toundra. \" Au moins, une fois gelé, je suis en sécurité. \"</color>",
+            "info": "<size=36>Le Lithops d'Eau devient plus puissant lorsqu’il est gelé.\n\n<color=black>Dégâts : </color><color=#8B0000>30/2s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des caractéristiques du Lithops. Gagne respectivement 1/15 charges de glace lorsqu’il est affecté par une attaque de gel ou par l’effet de Champi-glace. Peut consommer 1 charge pour infliger ×2 dégâts, appliquer Gel Profond et ajouter 10 points Cryo.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Aloès d'Eau + Lithops</color>"
+        },
+        {
+            "seedType": 1480,
+            "name": "Four Lichen",
+            "introduce": "<align=left><size=36><color=black>Quand le froid devient glacial, même une source de chaleur doit veiller à ne pas perdre la sienne. C’est pourquoi le Four Lichen s’emmitoufle soigneusement dans des couvertures duveteuses, même s’il en a déjà brûlé un bon nombre, dont le tapis tricoté préféré de Dave.</color>",
+            "info": "<size=36>Le Four Lichen couvre une zone plus étendue que le Four Polaire, mais seulement pour une durée limitée.\n\n<color=black>Production de soleil : </color><color=#8B0000>5/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 100 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Lichen Givré</color>"
+        },
+        {
+            "seedType": 1481,
+            "name": "Four Virevoltant",
+            "introduce": "<align=left><size=36><color=black>Le Four Virevoltant se fait souvent taquiner parce qu’il tient son nom du Virevoltant des Neiges alors qu’il flotte, immobile, dans le ciel. Chaque fois qu’on l’interroge à ce sujet, il livre une réponse aussi scientifique que philosophique : \" J’ai peut-être l’air immobile, mais dans un autre référentiel, je suis la rotation de la Terre et son orbite. Donc techniquement, je virevolte bel et bien. \"</color>",
+            "info": "<size=36>Le Four Virevoltant couvre une zone plus étendue que le Four Polaire, mais seulement pour une durée limitée.\n\n<color=black>Production de soleil : </color><color=#8B0000>5/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 25 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Virevoltant des Neiges</color>"
+        },
+        {
+            "seedType": 1482,
+            "name": "Four Sabre",
+            "introduce": "<align=left><size=36><color=black>Le Four Sabre découpe l’air chaud en courants tièdes qu’il répartit uniformément dans toutes les directions. Il pense que c’est plus confortable ainsi, mais peut-être qu’un peu de son énergie de sabre s’est mêlée à la brise, car ces courants tièdes sont un peu trop doués pour trancher.</color>",
+            "info": "<size=36>Le Four Sabre couvre une zone plus étendue que le Four Polaire, mais seulement pour une durée limitée.\n\n<color=black>Production de soleil : </color><color=#8B0000>5/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 150 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Champi-sabre</color>"
+        },
+        {
+            "seedType": 1483,
+            "name": "Four Bouclier",
+            "introduce": "<align=left><size=36><color=black>\" Ce que je protège, perché si haut, vous demandez ? Si réchauffer les plantes ne vous suffit pas, je protège l’esprit combatif et tenace de mes alliés. Et si cela ne vous convainc toujours pas, je les protège aussi de la neige qui leur tombe sur la tête. \"</color>",
+            "info": "<size=36>Le Four Bouclier couvre une zone plus étendue que le Four Polaire, mais seulement pour une durée limitée.\n\n<color=black>Production de soleil : </color><color=#8B0000>5/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Hérite des capacités du Four Polaire, mais avec une portée élargie à une zone de 3×3. Redevient un Four Polaire normal après 150 secondes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Four Polaire + Champi-bouclier</color>"
+        },
+        {
+            "seedType": 5005,
+            "name": "Pot Pyroboros",
+            "introduce": "<align=left><size=36><color=black>\" Quand j’étais petit, j’attendais vraiment le Nouvel An avec impatience \", dit lentement le Pot Pyroboros. Autrefois, c’était un garnement notoire, et le Nouvel An était la seule période où on ne le grondait pas pour ses bêtises. Maintenant qu’il a pris de l’âge, il ne souhaite plus que se reposer tranquillement, à ressasser les souvenirs d’antan en regardant les enfants jouer joyeusement, comme si chaque jour était le Nouvel An.</color>",
+            "info": "<size=36>Le Pot Pyroboros aide les plantes à éliminer les zombies dans une ambiance festive.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déblocable avec le Piment Souffle-du-Dragon</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce du Piment Souffle-du-Dragon.\n<color=black>•</color> Les fusions de Cerise Explosive et de Jalapeño placées dessus gagnent 30 % de dégâts d’attaque supplémentaires.\n<color=black>•</color> Lorsqu’il est affecté par une explosion de Cerise Explosive/Jalapeño, rend 100 PV aux fusions placées dessus et confère aux plantes à tir direct placées dessus un bonus de vitesse d’attaque de 1 %/5 % pendant 5 s (cumulable). Lorsque [Vraie Cerise Explosive] est actif, le bonus de vitesse d’attaque conféré par les explosions de Cerise Explosive passe à 10 %. Cet effet peut se déclencher au plus une fois toutes les 0,2 s.\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Durée du bonus de vitesse d’attaque ×2\n2. Déclenche un effet Cerise Explosive et un effet Jalapeño toutes les 4 s</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Pot de Fleur</color>"
+        },
+        {
+            "seedType": 3500,
+            "name": "<color=red>Pisto-pois Maléfique</color>",
+            "introduce": "<align=left><size=36><color=black>Il n’a jamais cessé de tirer. Il ne se souvient plus quand il a commencé, ni depuis combien de temps son jardinier d’origine est parti. La pelouse a changé, les saisons ont passé, et pourtant il attend toujours la prochaine cible. Peut-être a-t-il oublié ce qu’il était censé protéger. Peut-être que la seule chose qui reste de sa raison d’être initiale, c’est le besoin de continuer à tirer. Les longues années d’attente et de tirs l’ont drapé de rouge, une couleur qu’il connaît désormais sous le nom de \" malédiction \".</color>",
+            "info": "<size=36>Le Pisto-pois Maléfique tire des projectiles qui galvanisent considérablement les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Survie (Sans Fin)</color>\n<color=black>Dégâts : </color><color=#8B0000>0/9s</color>\n<color=black>Spécial : </color><color=#8B0000>Les projectiles font des allers-retours le long de la rangée et traversent les zombies Galvanisés jusqu’à toucher une cible ou être absorbés. À l’impact, confèrent au zombie touché le bonus Galvanisé. À sa réapparition, tire immédiatement un projectile.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 3501,
+            "name": "<color=red>Tournesol Maléfique</color>",
+            "introduce": "<align=left><size=36><color=black>Personne ne se souvient quand le Tournesol Maléfique est apparu pour la première fois sur la pelouse. Lui non plus ne s’en souvient pas. Il a été planté en première ligne, où son sourire éclatant a vite laissé place à l’horreur. Mais avec le temps, cette peur a commencé à s’estomper. Voir un autre Tournesol se faire déchiqueter est devenu un spectacle qu’il pouvait contempler sans plus rien ressentir. Quelque part en chemin, cette insensibilité est devenue la première graine de sa corruption.</color>",
+            "info": "<size=36>Le Tournesol Maléfique réclame du Soleil sans relâche. Faute de le rassasier, la catastrophe s’ensuit.\n\n<color=#4A2900>Condition d’utilisation : Mode Survie (Sans Fin)</color>\n<color=black>Spécial : </color><color=#8B0000>Absorbe et stocke le Soleil produit dans une zone de 5×5. Tous les Tournesols Maléfiques partagent la même réserve, et chacun consomme 5 Soleil par seconde une fois resté 25 s sur la pelouse. Si la réserve ne suffit pas à couvrir ce coût, invoque un Méga Gargantua Galvanisé. Cette invocation a un temps de recharge de 6 s. À sa réapparition, en invoque immédiatement un.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 3502,
+            "name": "<color=red>Citrouille Maléfique</color>",
+            "introduce": "<align=left><size=36><color=black>Elle se tenait dans le jardin de devant, faisant de son propre corps un rempart pour protéger les plantes des zombies. Morsures de zombies, écrasements de zombies, échelles de zombies. Elle a perdu le compte des échelles qu’on a appuyées contre elle. La puanteur de pourriture qu’ils charriaient a rongé sa peau et dévoré son esprit, jusqu’à ce qu’il ne reste plus d’elle qu’une coquille vide.</color>",
+            "info": "<size=36>La Citrouille Maléfique répand un fléau maudit sur tout le terrain, à moins qu’une autre plante ne soit plantée à l’intérieur pour le contenir.\n\n<color=#4A2900>Condition d’utilisation : Mode Survie (Sans Fin)</color>\n<color=black>Spécial : </color><color=#8B0000>Ne bloque pas les dégâts destinés aux plantes à l’intérieur de sa coque. Toutes les 7,5 s, répartit équitablement un total de 1000 cumuls de malédiction entre toutes les plantes du terrain du même type que la plante principale qu’elle abrite. Si elle n’abrite aucune plante, les répartit équitablement entre toutes les plantes principales du terrain. À sa réapparition, applique immédiatement une fois ces cumuls de malédiction à toutes les plantes principales du terrain.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 4000,
+            "name": "Légionnaire Alpha",
+            "introduce": "<align=left><size=36><color=black>Ils sont prisonniers d’une bataille dont l’issue était déjà scellée, d’un souvenir auquel nul ne peut échapper. Blizzard après blizzard, toute trace de leur présence s’efface ; couche après couche, la glace emprisonne leurs serments inachevés. Ce lieu est l’ancrage de l’histoire, et leur prison éternelle, à l’image du blizzard sans fin et de la glace qui ne fond jamais.</color>",
+            "info": "<size=36>Un écho du passé qui hante le camp silencieux.\n\n<color=black>Robustesse : </color><color=#8B0000>500</color>\n<color=black>Dégâts : </color><color=#8B0000>50×2/1.67s</color>\n<color=black>Spécial : </color><color=#8B0000>Poursuit l’ennemi le plus proche du camp (bord gauche de la carte) dans sa rangée. Quitte le champ de bataille pour se reposer après avoir atteint le bord droit ou lorsqu’il est au bord de la mort, puis revient au combat après 30 s</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 4001,
+            "name": "Givrebec (amical)",
+            "introduce": "<align=left><size=36><color=black>On croyait les Givrebecs éteints, jusqu’à ce qu’une population soit découverte dans la toundra. Cette trouvaille a laissé perplexes les chercheurs, qui ne comprenaient pas comment les descendants du dodo avaient pu survivre dans un environnement aussi inhospitalier. On a fini par établir que cette branche singulière de la famille du dodo avait, on ne sait comment, acquis la capacité de faire la photosynthèse, en se servant de sa queue pour absorber et stocker la lumière du soleil. Le Professeur Ceriz a été particulièrement fasciné par cette découverte, même s’il ne s’est toujours pas tout à fait remis de s’être laissé berner par leur prétendue extinction.</color>",
+            "info": "<size=36>Une créature ancestrale de la toundra, connue seulement par d’anciens écrits, amicale uniquement parce qu’elle a été attaquée par les Automates.\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>200 (hors morsure)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lâche 100 Soleil à sa mort ou lorsqu’il quitte le terrain.\n<color=black>•</color> Erre d’abord entre les colonnes 6 et 10. Après avoir été touché par un projectile ennemi, passe du côté des plantes et cesse d’errer.</color>",
+            "cost": ""
         }
     ]
 }
