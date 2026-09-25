@@ -324,6 +324,10 @@
             "name": "",
             "desc": "Vous pouvez retirer 1 Modificateur de Zombie non mini-boss depuis le menu Voir les Modificateurs"
         },
+        "2009": {
+            "name": "Baroud d'honneur",
+            "desc": "Quand les zombies hypnotisés meurent, ils explosent et infligent des dégâts égaux à 150% de leurs PV max aux zombies proches"
+        },
         "3000": {
             "name": "",
             "desc": "Quand Cerizilla et Noix d'Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla/Aillizilla n'a plus de plafond de Robustesse maximal, et Noix d'Obsidienne/Mine Obsidienne gagne 90% de réduction de dégâts"
@@ -455,6 +459,22 @@
         "6009": {
             "name": "",
             "desc": "Les plantes de la cinquième colonne gagnent +50% de Robustesse maximale et 50% de réduction de dégâts. Chaque colonne vers la gauche réduit le plafond de dégâts de 10% et augmente la réduction de dégâts de 10%"
+        },
+        "7000": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer la Sulfateuse Mortelle Épique et le Champi-sulfateuse Furieux Épique\nUtiliser un Champi-mort pour améliorer"
+        },
+        "7001": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer la Double Noix-solaire Épique et la Double Noix-infernal Épique\nUtiliser une Noix pour améliorer"
+        },
+        "7002": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer le Triple Pisto-pois Phénix Épique et le Drone Phénix Épique\nUtiliser un Jalapeño pour améliorer"
+        },
+        "7003": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer la Sulfateuse Champi-stalactite Épique et la Sulfateuse Champi-rayon-solaire Épique\nUtiliser un Pisto-pois pour améliorer"
         },
         "10000": {
             "name": "",
@@ -612,9 +632,277 @@
             "name": "Transcendance : Décryptage",
             "desc": "Les zombies qui entrent en jeu sont affligés de 3 charges de Magie de Décryptage. À chaque manche, le zombie ayant le plus de PV reçoit 100 charges de Décryptage. Chaque charge augmente de 100 % les dégâts subis par le zombie, et lorsqu’un zombie affligé de Décryptage meurt, ses charges restantes se propagent aux zombies proches."
         },
+        "12017": {
+            "name": "Transcendance : Bombe à sous-munitions",
+            "desc": "Le projectile de la Noix Pastèque explose en plein vol et se divise en plusieurs Mini Pastèques lancées sur les zombies de tout le terrain"
+        },
+        "12018": {
+            "name": "Transcendance : Barrage doré",
+            "desc": "L’Ultime de la Pastèque Dorée lance en plus des pastèques dorées sur tous les zombies ; nombre de divisions de l’Ultime ×2"
+        },
+        "12019": {
+            "name": "Transcendance : Scie durcie",
+            "desc": "Les projectiles du Sauveteur Boréal gagnent en plus 0,6% de son Bouclier actuel en dégâts d’attaque, dans la limite de 300% de son attaque de base"
+        },
+        "12020": {
+            "name": "Transcendance : Éruption totale",
+            "desc": "La portée de ciblage du Cratère en éruption gagne +1 rangée au-dessus et en dessous, et il tire sur toutes les cibles simultanément (si le nombre de cibles est inférieur au nombre maximal de tirs dispersés, les tirs restants sont répartis équitablement entre les cibles) | Temps de vol des projectiles réduit de 50%"
+        },
+        "12021": {
+            "name": "Transcendance : Maîtrise de l’épée",
+            "desc": "Pour chaque tranche de 2 épées géantes invoquées par la Carambole Sage Épéiste, chacune de ses attaques tire en plus 1 petite épée tournoyante"
+        },
+        "12022": {
+            "name": "Transcendance : Cercle de la mort",
+            "desc": "Les projectiles en orbite autour de la Noix Magnétique peuvent désormais perforer à l’infini, mais leur durée est réduite à 10 s"
+        },
+        "12023": {
+            "name": "Transcendance : Conflagration",
+            "desc": "Les attaques du Piment Souffle-du-Dragon libèrent en plus des effets de Jalapeño dans toutes les rangées"
+        },
+        "12024": {
+            "name": "Transcendance : Gigantisme",
+            "desc": "La Noix d’Obsidienne et ses projections holographiques ont des hitbox considérablement plus grandes et sont immunisées contre l’écrasement des boss\nTR de soin : 15 s → 10 s"
+        },
+        "12025": {
+            "name": "Transcendance : Évocation",
+            "desc": "Le Gargantua Abyssal hypnotisé génère un Diablotin Abyssal hypnotisé à chaque écrasement"
+        },
+        "12026": {
+            "name": "Transcendance : Index magique",
+            "desc": "Le Railgun de l’Apoicalypse tire désormais un rayon lumineux continu"
+        },
         "13000": {
             "name": "Protection antidéflagrante",
             "desc": "Les dégâts des explosions du Zombie Diable à ressort sont réduits à 1 000"
+        },
+        "13001": {
+            "name": "Bouclier enchanté",
+            "desc": "Les plantes dotées d’un Bouclier récupèrent chaque seconde des PV égaux à 0,1% de leur Bouclier"
+        },
+        "13002": {
+            "name": "Mannequin vaudou",
+            "desc": "Invoque sur la pelouse un Zombie Factice qui répartit 60% des dégâts qu’il subit entre tous les zombies ; peut être déplacé avec le Gant Zombie ; ne peut pas transférer les dégâts infligés par les zombies hypnotisés"
+        },
+        "13003": {
+            "name": "Mannequin vaudou - A",
+            "desc": "Le Zombie Factice répartit désormais 100% des dégâts qu’il subit entre tous les zombies"
+        },
+        "13004": {
+            "name": "Mannequin vaudou - B",
+            "desc": "Invoque un Zombie Factice supplémentaire"
+        },
+        "13005": {
+            "name": "Mannequin vaudou - X",
+            "desc": "Quand le Zombie Factice subit des dégâts, il inflige également 100% de ces dégâts au zombie ayant le plus de PV sur la pelouse"
+        },
+        "13006": {
+            "name": "Déflagration solaire",
+            "desc": "Invoque un Réacteur Solaire qui inflige périodiquement des dégâts à tous les zombies de la pelouse"
+        },
+        "13007": {
+            "name": "Déflagration solaire - A",
+            "desc": "Réduit de 50% le TR d’attaque du Réacteur Solaire"
+        },
+        "13008": {
+            "name": "Déflagration solaire - B",
+            "desc": "Augmente de 100% les dégâts du Réacteur Solaire"
+        },
+        "13009": {
+            "name": "Déflagration solaire - X",
+            "desc": "Le Réacteur Solaire fait en outre tomber un Météore Hélios à chaque attaque"
+        },
+        "13010": {
+            "name": "Marteau de guerre",
+            "desc": "Diminue les dégâts du Maillet, mais réduit son TR à 3 s"
+        },
+        "13011": {
+            "name": "Marteau de guerre - A",
+            "desc": "Augmente grandement la portée effective de l’attaque du Maillet"
+        },
+        "13012": {
+            "name": "Marteau de guerre - B",
+            "desc": "Réduit davantage le TR du Maillet"
+        },
+        "13013": {
+            "name": "Marteau de guerre - X",
+            "desc": "Quand le Maillet frappe un zombie, invoque à son emplacement un grand marteau qui inflige des dégâts continus aux zombies avant de disparaître au bout d’un moment"
+        },
+        "13014": {
+            "name": "Bombardier G-fish",
+            "desc": "Un Mecha Plané combat pour vous"
+        },
+        "13015": {
+            "name": "Bombardier G-fish - A",
+            "desc": "Nombre d’attaques nécessaires au Mecha Plané pour tirer un Barrage -1"
+        },
+        "13016": {
+            "name": "Bombardier G-fish - B",
+            "desc": "Réduit le TR d’attaque du Mecha Plané"
+        },
+        "13017": {
+            "name": "Bombardier G-fish - X",
+            "desc": "Les obus de Barrage du Mecha Plané peuvent continuer à se diviser en vol"
+        },
+        "13018": {
+            "name": "Voile de clair de lune",
+            "desc": "Invoque un Réacteur Lunaire qui restaure périodiquement les PV de toutes les plantes de la pelouse"
+        },
+        "13019": {
+            "name": "Voile de clair de lune - A",
+            "desc": "Augmente grandement la quantité de PV restaurés par le Réacteur Lunaire"
+        },
+        "13020": {
+            "name": "Voile de clair de lune - B",
+            "desc": "Accorde à toutes les plantes de la pelouse un bouclier de 1 000 PV chaque fois que le Réacteur Lunaire s’active"
+        },
+        "13021": {
+            "name": "Voile de clair de lune - X",
+            "desc": "Chaque fois que le Réacteur Lunaire s’active, le clair de lune descend sur chaque plante de la pelouse, ce qui tue instantanément les zombies ordinaires dans une zone de 3×3 et rend les plantes invincibles pendant un court instant"
+        },
+        "13022": {
+            "name": "Rideau de fer",
+            "desc": "Réduit de 20% les dégâts subis par toutes les plantes"
+        },
+        "13023": {
+            "name": "Rideau de fer - A",
+            "desc": "Réduit de 40% les dégâts subis par toutes les plantes"
+        },
+        "13024": {
+            "name": "Rideau de fer - B",
+            "desc": "Réduit de 60% les dégâts subis par toutes les plantes"
+        },
+        "13025": {
+            "name": "Rideau de fer - X",
+            "desc": "Réduit de 90% les dégâts subis par toutes les plantes ; chaque fois qu’une plante perd des PV, elle tire depuis sa position un projectile de pois infligeant des dégâts égaux à ses PV max | Si les zombies possèdent le Modificateur Riposte, l’effet devient une réduction de 99% des dégâts subis"
+        },
+        "13026": {
+            "name": "Chance • Prêt",
+            "desc": "Obtenez un tirage de Modificateur effectué avec 500 points de Chance, puis perdez 25 points de Chance"
+        },
+        "13027": {
+            "name": "Chance • Prêt - A",
+            "desc": "Obtenez un tirage de Modificateur effectué avec 1000 points de Chance, puis perdez 50 points de Chance"
+        },
+        "13028": {
+            "name": "Chance • Prêt - B",
+            "desc": "Obtenez un tirage de Modificateur effectué avec 1500 points de Chance, puis perdez 75 points de Chance"
+        },
+        "13029": {
+            "name": "Chance • Prêt - X",
+            "desc": "Fixe immédiatement votre Chance à 250 et vos relances à 5, triple votre plafond de Chance et vous empêche définitivement de sélectionner les Modificateurs de Chance et [Ingéniosité]\nChaque tirage de Modificateur rapporte 25 points de Chance, plus un bonus égal à 20% de votre Chance actuelle (jusqu’à 100) ; choisir un Modificateur Bois, Argent, Or/Aléatoire ou Diamant/Prismatique/Malédiction coûte respectivement 20/40/60/100 points de Chance ; chaque relance coûte 50 points de Chance"
+        },
+        "13030": {
+            "name": "Chance • Prime",
+            "desc": "Fait immédiatement apparaître une vague de zombies ayant 2× PV et vitesse ; les vaincre tous octroie un tirage de Modificateur effectué avec 500 points de Chance"
+        },
+        "13031": {
+            "name": "Chance • Prime - A",
+            "desc": "Fait immédiatement apparaître une vague de zombies ayant 3× PV et vitesse ; les vaincre tous octroie un tirage de Modificateur effectué avec 1000 points de Chance"
+        },
+        "13032": {
+            "name": "Chance • Prime - B",
+            "desc": "Fait immédiatement apparaître une vague de zombies ayant 4× PV et vitesse ; les vaincre tous octroie un tirage de Modificateur effectué avec 1500 points de Chance"
+        },
+        "13033": {
+            "name": "Chance • Prime - X",
+            "desc": "Double immédiatement votre Chance actuelle et votre plafond de Chance (si votre Chance est négative, sa valeur absolue est prise avant le doublement, par ex. : -50 points de Chance → 100)"
+        },
+        "13034": {
+            "name": "Combustion infernale",
+            "desc": "Cliquer n’importe où déclenche une Combustion infernale à l’endroit cliqué, avec un TR de 10 s, ou de 1 seconde si elle tue un zombie"
+        },
+        "13035": {
+            "name": "Combustion infernale - A",
+            "desc": "Augmente les dégâts de la Combustion infernale de 100%"
+        },
+        "13036": {
+            "name": "Combustion infernale - B",
+            "desc": "Réduit de 50% le TR de la Combustion infernale ainsi que son TR en cas d’élimination"
+        },
+        "13037": {
+            "name": "Combustion infernale - X",
+            "desc": "La Combustion infernale peut désormais infliger des dégâts aux plantes ; tuer une plante déclenche des effets de Jalapeño sur toutes les rangées et réinitialise le TR ; les dégâts augmentent en fonction du nombre total de Modificateurs que possède la plante"
+        },
+        "13038": {
+            "name": "Chasseur prismatique",
+            "desc": "Gagnez un Chasseur Mecha qui se verrouille en continu sur le zombie le plus à gauche et l’attaque"
+        },
+        "13039": {
+            "name": "Chasseur prismatique - A",
+            "desc": "Augmente de 1 le nombre de réfractions de l’attaque du Chasseur Mecha"
+        },
+        "13040": {
+            "name": "Chasseur prismatique - B",
+            "desc": "Augmente de 2 le nombre de réfractions de l’attaque du Chasseur Mecha"
+        },
+        "13041": {
+            "name": "Chasseur prismatique - X",
+            "desc": "Les attaques prismatiques du Chasseur Mecha gagnent une perforation infinie, et les réfractions peuvent toucher la même cible à plusieurs reprises"
+        },
+        "13042": {
+            "name": "Tempête d’éclairs",
+            "desc": "Invoque des Éclairs qui combattent pour vous, infligeant périodiquement des dégâts aux zombies présents sur la pelouse"
+        },
+        "13043": {
+            "name": "Tempête d’éclairs - A",
+            "desc": "Augmente la durée des Éclairs de 100%"
+        },
+        "13044": {
+            "name": "Tempête d’éclairs - B",
+            "desc": "Augmente la fréquence d’attaque des Éclairs de 100%"
+        },
+        "13045": {
+            "name": "Tempête d’éclairs - X",
+            "desc": "Les Éclairs attaquent désormais en continu, sans interruption"
+        },
+        "14000": {
+            "name": "On n’a rien sans rien",
+            "desc": "Tue toutes vos plantes et divise par deux les bonus de dégâts indépendants et les bonus de vitesse de toutes vos plantes ;\nLa même chose se reproduit après 20 vagues, mais cette fois les bonus sont doublés"
+        },
+        "14001": {
+            "name": "Tout ou rien",
+            "desc": "Si votre Chance est inférieure à 75, elle passe immédiatement à 75. Hors garantie, les Modificateurs Argent et Or sont rétrogradés en qualité Bois, tandis que les Modificateurs Diamant sont promus en qualité Prismatique"
+        },
+        "14002": {
+            "name": "Position dominante",
+            "desc": "Les plantes infligent 30% de dégâts en plus lorsqu’elles sont au-dessus des zombies et 30% de dégâts en moins lorsqu’elles sont en dessous, selon la position verticale de leurs sprites à l’écran"
+        },
+        "14003": {
+            "name": "Instinct de prédateur",
+            "desc": "Les plantes infligent 30% de dégâts en plus aux zombies ayant plus de 50% de leurs PV, et 30% de dégâts en moins à ceux ayant moins de 50% de leurs PV"
+        },
+        "15000": {
+            "name": "Malédiction de MCDXXXVII",
+            "desc": "La vitesse d’attaque de l’Étoile Polaire est réduite de moitié. Après 1 437 attaques, la malédiction est inversée, chaque salve comptant pour 5 attaques\nEffet inversé : les projectiles Quasar de l’Étoile Polaire gagnent 1 437 dégâts de base supplémentaires"
+        },
+        "15001": {
+            "name": "Bénédiction de MCDXXXVII",
+            "desc": "Les projectiles Quasar de l’Étoile Polaire gagnent 1 437 dégâts de base supplémentaires"
+        },
+        "15002": {
+            "name": "Malédiction de l’Agressivité",
+            "desc": "Les dégâts de la Sulfateuse à Grenades sont réduits de 50%. Une fois 300 M de dégâts cumulés infligés, la malédiction est inversée\nEffet inversé : à chaque attaque, la Sulfateuse à Grenades tire en plus plusieurs projectiles depuis le bord gauche de l’écran, dont la puissance d’attaque est égale à 0,0001% des dégâts cumulés infligés par les autres plantes"
+        },
+        "15003": {
+            "name": "Bénédiction de l’Agressivité",
+            "desc": "À chaque attaque, la Sulfateuse à Grenades tire en plus plusieurs projectiles depuis le bord gauche de l’écran, dont la puissance d’attaque est égale à 0,0001% des dégâts cumulés infligés par les autres plantes"
+        },
+        "15004": {
+            "name": "Malédiction de l’Équité",
+            "desc": "Pour chaque cible du Cratère en éruption, les dégâts de ses projectiles sont réduits de 1%, jusqu’à une réduction maximale de 70%. Après une réduction cumulée de 50 000% via cet effet, la malédiction est inversée\nEffet inversé : pour chaque cible du Cratère en éruption, les dégâts de ses projectiles augmentent de 1%"
+        },
+        "15005": {
+            "name": "Bénédiction de l’Équité",
+            "desc": "Pour chaque cible du Cratère en éruption, les dégâts de ses projectiles augmentent de 1%"
+        },
+        "15006": {
+            "name": "Malédiction de l’Endurance",
+            "desc": "La Noix Magnétique ne tire plus de projectiles. Une fois 5 000 projectiles attirés, la malédiction est inversée\nEffet inversé : à chaque attaque, la Noix Magnétique tire en plus un projectile du type qu’elle a le plus attiré"
+        },
+        "15007": {
+            "name": "Bénédiction de l’Endurance",
+            "desc": "À chaque attaque, la Noix Magnétique tire en plus un projectile du type qu’elle a le plus attiré"
         }
     },
     "ultimateBuffs": {
@@ -833,6 +1121,14 @@
         "53": {
             "name": "Trempe givre-feu",
             "desc": "Jugger-noix d'Obsidienne : dégâts de Trempe ×2"
+        },
+        "54": {
+            "name": "Essence régénératrice",
+            "desc": "Four Panacée : l’Essence augmente les PV max des plantes de 0,2% de leur Robustesse de base pour la manche en cours"
+        },
+        "55": {
+            "name": "Flux vital",
+            "desc": "Four Panacée : puissance des soins et du Bouclier d’Essence ×2 | nombre de retraits de gel et de glaciation ×3 | vitesse de récupération automatique d’Essence ×2"
         }
     },
     "unlocks": {
@@ -943,6 +1239,10 @@
         "26": {
             "name": "",
             "desc": "Débloque la Jugger-noix d'Obsidienne : Givre Épicé > Jugger-noix"
+        },
+        "27": {
+            "name": "",
+            "desc": "Débloquer Four Panacée : Four Infirmier + Aloès Nivéa"
         }
     },
     "debuffs": {
@@ -1090,6 +1390,30 @@
             "name": "Poursuite ardente",
             "desc": "Zombie Giga Quarterback Acrobate et Zombie QB Giga-noix Acrobate : dégâts ×2 après une roulade"
         },
+        "36": {
+            "name": "Marche des morts-vivants",
+            "desc": "Zombie Giga Commando Chevrotine : ignore désormais les plantes en se déplaçant"
+        },
+        "37": {
+            "name": "Malédiction de l’Archiduc",
+            "desc": "Zombie Giga Commando Chevrotine : tire désormais des pois de fer maudits à la place"
+        },
+        "38": {
+            "name": "Mauvais jusqu’à la moelle",
+            "desc": "Zombie Démon-dans-la-boîte : cumuls de malédiction appliqués par la Boîte-bombe ×2 et régénère une Boîte-bombe toutes les 6 s"
+        },
+        "39": {
+            "name": "Bombe autoréplicante",
+            "desc": "Zombie Démon-dans-la-boîte : les Boîtes-bombes sont désormais insensibles à la déviation des Ombrelles et font apparaître un autre Zombie Démon-dans-la-boîte à l’atterrissage"
+        },
+        "40": {
+            "name": "Charge balayante",
+            "desc": "Zombie Chevalier Noir : sa charge applique désormais des cumuls de malédiction aux plantes dans une zone de 3×3"
+        },
+        "41": {
+            "name": "Inébranlable",
+            "desc": "Zombie Chevalier Noir : tous les zombies écraseurs ne subissent désormais que la moitié du recul infligé par les plantes anti-écrasement"
+        },
         "1000": {
             "name": "",
             "desc": "Votre Soleil sera réinitialisé à 0"
@@ -1193,6 +1517,10 @@
         "2005": {
             "name": "Crise",
             "desc": "Le Zombie QB Giga-noix Acrobate apparaîtra"
+        },
+        "2006": {
+            "name": "Crise",
+            "desc": "Le Zombie Noix Glacée Harponneur apparaîtra"
         },
         "3000": {
             "name": "",
@@ -1313,6 +1641,186 @@
         "5004": {
             "name": "",
             "desc": "Quand un zombie inflige des dégâts d'écrasement à une plante, cette plante gagne des cumuls de malédiction égaux à 1% de ses PV."
+        },
+        "10000": {
+            "name": "Malchance",
+            "desc": "Perdez 75 points de Chance"
+        },
+        "10001": {
+            "name": "Réincarnation : Tiryak",
+            "desc": "Les zombies du 1er cycle de réincarnation ont 20% de PV et de vitesse en plus"
+        },
+        "10002": {
+            "name": "Réincarnation : Preta",
+            "desc": "Les zombies du 2e cycle de réincarnation ont 40% de PV et 25% de vitesse en plus"
+        },
+        "10003": {
+            "name": "Réincarnation : Naraka",
+            "desc": "Les zombies du 3e cycle de réincarnation ont 60% de PV et 30% de vitesse en plus"
+        },
+        "10004": {
+            "name": "Crise de Némésis",
+            "desc": "À partir de la vague 50, des Mini-boss aléatoires apparaissent lors des vagues de drapeau"
+        },
+        "10005": {
+            "name": "Délai de disgrâce",
+            "desc": "Les plantes n’infligent que 1 dégât aux zombies pendant les 2 premières secondes après l’apparition d’une nouvelle vague"
+        },
+        "10006": {
+            "name": "Malédiction de l’Envie",
+            "desc": "Le type de plante ayant infligé le plus de dégâts cumulés n’inflige que 70% de ses dégâts, les autres plantes infligent 110% de leurs dégâts"
+        },
+        "10007": {
+            "name": "Recrutement express",
+            "desc": "À partir de la vague 8 et pendant les 50 premières vagues du niveau, un zombie qui n’apparaît normalement qu’entre les vagues 38 et 88 est généré aléatoirement à chaque vague"
+        },
+        "10008": {
+            "name": "Bande de zombies",
+            "desc": "Les zombies (hors mini-boss) ont une chance d’apparaître en double ; cette chance augmente au fil des vagues"
+        },
+        "10009": {
+            "name": "Sacrifice zombie",
+            "desc": "Les zombies (hors mini-boss) ont une chance de disparaître dès leur apparition et de conférer 80% de leurs PV à un autre zombie ; cette chance augmente au fil des vagues"
+        },
+        "10010": {
+            "name": "Hibernation",
+            "desc": "Les plantes sont gelées pendant 3 s après leur réapparition"
+        },
+        "10011": {
+            "name": "K.-O. sévère",
+            "desc": "Les plantes mettent 1,5× plus de temps à réapparaître"
+        },
+        "10012": {
+            "name": "Explosion cerv-ambrienne",
+            "desc": "L’intervalle d’évolution des zombies est réduit à 4 vagues"
+        },
+        "10013": {
+            "name": "Grand Theft Tondeuse",
+            "desc": "Les tondeuses sont désactivées"
+        },
+        "10014": {
+            "name": "Mal insidieux",
+            "desc": "Quand une plante disparaît, un zombie aléatoire apparaît à son emplacement avec un bonus de PV et de vitesse"
+        },
+        "10015": {
+            "name": "Show de variétés Jackson",
+            "desc": "Au fil des vagues, des variantes spéciales de Michael Zombie ont de plus en plus de chances d’apparaître en supplément"
+        },
+        "10016": {
+            "name": "Attaque coordonnée",
+            "desc": "Des zombies supplémentaires issus d’autres routes ont une chance d’apparaître à chaque nouvelle vague ; cette chance augmente au fil des vagues"
+        },
+        "10017": {
+            "name": "Fléau du héros",
+            "desc": "La plante ayant le plus de Modificateurs voit son bonus de dégâts indépendant réduit de 1% à chaque nouvelle vague, jusqu’à un minimum de 0"
+        },
+        "10018": {
+            "name": "Riposte",
+            "desc": "Quand les zombies subissent des dégâts, ils génèrent un projectile de malédiction côté zombies qui inflige aux plantes des dégâts égaux à 10% de la puissance d’attaque du zombie (20 au minimum) ; cela peut se déclencher au plus 10 fois toutes les 0,02 s"
+        },
+        "10019": {
+            "name": "Retour des sbires",
+            "desc": "À partir de la vague 51, 5 zombies qui n’apparaissent normalement que dans les vagues 1 à 50 sont générés aléatoirement à chaque vague, mais ils bénéficient d’un bonus de PV ×10 et de vitesse ×2"
+        },
+        "10020": {
+            "name": "Fringale pédante",
+            "desc": "Au fil des vagues, des variantes spéciales de Zombie Journal ont de plus en plus de chances d’apparaître en supplément"
+        },
+        "10021": {
+            "name": "Sport extrême",
+            "desc": "Au fil des vagues, des variantes spéciales de Zombie Kidnappeur ont de plus en plus de chances d’apparaître en supplément"
+        },
+        "10022": {
+            "name": "Prêt de Chance",
+            "desc": "Gagnez 75 points de Chance, mais perdez 1 point de Chance à chaque vague à partir de la 50e"
+        },
+        "10023": {
+            "name": "Nécropole",
+            "desc": "3 colonnes de pierres tombales apparaîtront sur la pelouse au début de chaque manche ; lors des vagues de drapeau, elles invoquent des zombies pouvant apparaître dans cette vague"
+        },
+        "10024": {
+            "name": "Ruée nitro",
+            "desc": "À chaque vague, une fois les zombies apparus, 3 zombies aléatoires reçoivent un bonus de vitesse de 100%"
+        },
+        "10025": {
+            "name": "Odeur putride",
+            "desc": "Toutes les plantes du terrain subissent une malédiction égale à 5% de leurs PV max toutes les 3 s"
+        },
+        "10026": {
+            "name": "Graal impie",
+            "desc": "Les zombies (hors mini-boss) ont une chance de réapparaître sous la forme d’un autre zombie dans la colonne la plus à droite de leur ligne lorsqu’ils sont tués ; cette chance augmente au fil des vagues"
+        },
+        "10027": {
+            "name": "Dégâts purs",
+            "desc": "Lorsque les plantes subissent des dégâts, elles subissent en plus des dégâts purs égaux à 30% des dégâts d’origine"
+        },
+        "10028": {
+            "name": "Vol de soins",
+            "desc": "Lorsque les plantes récupèrent des PV, un zombie aléatoire récupère aussi 25% de ses PV max ; ce soin peut dépasser ses PV max"
+        },
+        "10029": {
+            "name": "Toucher du chaos",
+            "desc": "Vos plantes sont déplacées vers des emplacements aléatoires toutes les 5 vagues"
+        },
+        "10030": {
+            "name": "Apocalypse croissante",
+            "desc": "L’intervalle entre les vagues est réduit, et chaque vague a une chance de faire apparaître immédiatement une seconde fois les mêmes zombies ; cette chance augmente au fil des vagues"
+        },
+        "10031": {
+            "name": "Détonation désespérée",
+            "desc": "Lorsque leurs PV sont sous 10% de leurs PV max, les zombies (hors mini-boss) ont une chance d’exploser spontanément dès qu’ils sont touchés"
+        },
+        "10032": {
+            "name": "Cor de puissance",
+            "desc": "À chaque nouvelle vague, tous les zombies sur la pelouse gagnent un bonus de 20% de PV et de vitesse"
+        },
+        "10033": {
+            "name": "Présence suprême",
+            "desc": "Les boss gagnent un bonus de 30% de PV, et les zombies qu’ils invoquent un bonus de 60% de PV"
+        },
+        "10034": {
+            "name": "Petit mais agile",
+            "desc": "Les zombies non-boss ont 30% de PV max et de taille en moins, mais sont 100% plus rapides"
+        },
+        "10035": {
+            "name": "Zombies boursouflés",
+            "desc": "Les zombies non-boss ont 60% de PV max et de taille en plus, mais leur vitesse est réduite de 60%"
+        },
+        "10036": {
+            "name": "Esthétique bon marché",
+            "desc": "Augmente de 10% les effets des Modificateurs de qualité Argent ou inférieure, tandis que ceux des Modificateurs Or et Diamant sont réduits de 30%"
+        },
+        "10037": {
+            "name": "Esthétique raffinée",
+            "desc": "Augmente de 10% les effets des Modificateurs de qualité Or ou supérieure, tandis que ceux des Modificateurs Bois et Argent sont réduits de 30%"
+        },
+        "10038": {
+            "name": "Toucher de Midas",
+            "desc": "Hors garantie, tous les Modificateurs qui seraient de qualité Diamant sont remplacés par leurs équivalents de qualité Or"
+        },
+        "10039": {
+            "name": "La force du nombre",
+            "desc": "Lorsque vous avez 0/1/2/3/4/5/6 plantes ou plus sur le terrain, les zombies subissent respectivement 50%/60%/70%/80%/90%/100%/105% des dégâts"
+        },
+        "10040": {
+            "name": "Âge d’Argent",
+            "desc": "Hors garantie, les Modificateurs déclinés en plusieurs qualités n’apparaissent qu’en qualité Argent ; si vous possédez aussi le Modificateur Toucher de Midas, les Modificateurs de qualité Or et Diamant sont à la place rétrogradés en qualité Bois"
+        },
+        "10041": {
+            "name": "Ère Chacrabouille",
+            "desc": "Les zombies ont une chance de disparaître dès leur apparition, remplacés sur place par un Zombie Chacrabouille qui hérite de leurs PV ; cette chance augmente au fil des vagues"
+        },
+        "10042": {
+            "name": "Agonie prolongée",
+            "desc": "Chaque mort d’une de vos plantes ajoute 0,5 s au temps de réapparition"
+        },
+        "10043": {
+            "name": "Pénalité d’hésitation",
+            "desc": "-25 points de Chance à chaque relance de Modificateurs"
+        },
+        "10044": {
+            "name": "Caprices du destin",
+            "desc": "Gagnez aléatoirement entre -27 et +33 points de Chance à chaque tirage de Modificateur"
         }
     },
     "investmentBuffs": {
