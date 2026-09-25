@@ -2,7 +2,7 @@
     "advancedBuffs": {
         "0": {
             "name": "",
-            "desc": "Sous-espèce Champi-enchanteresse débloquée | Champi-impératrice et Champi-enchanteresse : intervalle d'invocation → 10 s"
+            "desc": "Sous-espèce Enchanteresse-champi débloquée | Impécratrice-champi et Enchanteresse-champi : intervalle d'invocation 30 s → 10 s"
         },
         "1": {
             "name": "",
@@ -246,7 +246,7 @@
         },
         "1013": {
             "name": "",
-            "desc": "Vraie Cerise Explosive : les cerises explosives infligent désormais au moins 1800 dégâts et causent des dégâts de Crémation"
+            "desc": "Vraie Cerise Explosive : les cerises explosives infligent désormais au moins 1800 dégâts, ont une portée d’explosion accrue et causent des dégâts de Crémation"
         },
         "1014": {
             "name": "",
@@ -330,7 +330,7 @@
         },
         "3001": {
             "name": "",
-            "desc": "S'il y a au moins 10 Étoiles Polaires et 10 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et infligera 5× les dégâts, et continuera d'invoquer des Météores Hélios"
+            "desc": "S'il y a au moins 6 Étoiles Polaires et 6 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et infligera 5× les dégâts, et continuera d'invoquer des Météores Hélios"
         },
         "3002": {
             "name": "",
@@ -338,7 +338,7 @@
         },
         "3003": {
             "name": "",
-            "desc": "Quand il y a au moins 10 Étoiles Polaires et 10 Choux Luna sur le terrain, la Mini Lune invoquée par Luna ne disparaît pas, tandis que chaque Étoile Polaire et chaque Luna chargent un rayon dans la Mini Lune, qui la redirige pour cibler le zombie ayant le plus de PV"
+            "desc": "Quand il y a au moins 6 Étoiles Polaires et 6 Choux Luna sur le terrain, la Mini Lune invoquée par Luna ne disparaît pas et chaque Luna confère un nombre massif de niveaux de Lumos, tandis que chaque Étoile Polaire inflige des dégâts supplémentaires au zombie ayant le plus de PV"
         },
         "3004": {
             "name": "",
@@ -652,11 +652,11 @@
         },
         "8": {
             "name": "",
-            "desc": "Étoile Polaire : intervalle d'attaque 1,5 s → 0,5 s"
+            "desc": "Étoile Polaire : intervalle d'attaque 1 s → 0,5 s | Gravitron : capacité de stockage ×2, portée d’attraction fortement augmentée"
         },
         "9": {
             "name": "",
-            "desc": "Étoile Polaire : Niv. 1 : dégâts de base ×2 et plafond de dégâts (300) porté à 3000 ; Niv. 2 : dégâts de base ×3, plafond de dégâts supprimé"
+            "desc": "Étoile Polaire : Niv. 1 : dégâts de base ×2 et plafond de dégâts (300) porté à 3000 ; Niv. 2 : dégâts de base ×3, plafond de dégâts supprimé | Gravitron : +10% d’efficacité d’attraction et de bonus de dégâts pour chaque type de projectile différent attiré"
         },
         "10": {
             "name": "",
@@ -948,11 +948,11 @@
     "debuffs": {
         "0": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit"
+            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit | Professeur Ceriz : -1 journal de rechange"
         },
         "1": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut"
+            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut | Professeur Ceriz : -1 journal de rechange"
         },
         "2": {
             "name": "",
@@ -988,7 +988,7 @@
         },
         "10": {
             "name": "",
-            "desc": "Giga-noix à Trident : lance désormais 2 tridents supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants"
+            "desc": "Giga-noix à Trident et Zombie Noix Glacée Harponneur : lancent désormais 2 tridents/harpons de neige supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants"
         },
         "11": {
             "name": "",
@@ -1308,7 +1308,7 @@
         },
         "5003": {
             "name": "",
-            "desc": "Les zombies renvoient 100% des dégâts aux plantes quand ils esquivent une attaque, avec un TR de 0,2 s"
+            "desc": "Les zombies renvoient 100% des dégâts aux plantes quand ils esquivent une attaque, avec un TR de 3 s"
         },
         "5004": {
             "name": "",
