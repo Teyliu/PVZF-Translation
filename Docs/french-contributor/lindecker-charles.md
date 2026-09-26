@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4439**
-* Traductions ajustées : **203**
+* Nouvelles traductions : **4862**
+* Traductions ajustées : **274**
 * Reviews effectuées : **637**
 
 ---
@@ -37,6 +37,547 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `21/09/26 → 27/09/26`
+> [PR#223](https://github.com/Teyliu/PVZF-Translation/pull/223)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **423**
+* Traductions ajustées : **71**
+* Reviews effectuées : **0**
+
+> Mise à jour 4.0 : nouvelles plantes/zombies de l'almanach (familles Virevoltant, Lithops, Champi-sabre/bouclier, Automates),
+> strings & regex des modificateurs Odyssée, 127 travel buffs, et mise à jour des entrées déjà traduites dont
+> le texte EN a changé en 4.0 (2 tips re-keyés sans modification, non comptés ci-dessus).
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Virevoltant des Neiges** (`seedType: 41`)
+* **Champi-sabre** (`seedType: 42`)
+* **Champi-bouclier** (`seedType: 43`)
+* **Lithops** (`seedType: 44`)
+* **Grain de Café** (`seedType: 211`)
+* **Étoile Polaire Suprême** (`seedType: 311`)
+* **Mordeur Glacé** (`seedType: 1462`)
+* **Écraseur Cactus** (`seedType: 1463`)
+* **Citrouille Piquante** (`seedType: 1464`)
+* **Virevoltant Sabre** (`seedType: 1465`)
+* **Virevoltant Bouclier** (`seedType: 1466`)
+* **Champi-choc** (`seedType: 1467`)
+* **Virevoltant d'Eau** (`seedType: 1468`)
+* **Champi-sabre d'Eau** (`seedType: 1469`)
+* **Champi-bouclier d'Eau** (`seedType: 1470`)
+* **Commando Drone** (`seedType: 1471`)
+* **Triple Champi-fumée** (`seedType: 1472`)
+* **Nénuphar-sniper** (`seedType: 1473`)
+* **Pot Enflammé** (`seedType: 1474`)
+* **Virevoltant Lithops** (`seedType: 1475`)
+* **Lithops Sabre** (`seedType: 1476`)
+* **Lithops Bouclier** (`seedType: 1477`)
+* **Nénu-chat-sniper** (`seedType: 1478`)
+* **Lithops d'Eau** (`seedType: 1479`)
+* **Four Lichen** (`seedType: 1480`)
+* **Four Virevoltant** (`seedType: 1481`)
+* **Four Sabre** (`seedType: 1482`)
+* **Four Bouclier** (`seedType: 1483`)
+* **Pot Pyroboros** (`seedType: 5005`)
+* **<color=red>Pisto-pois Maléfique</color>** (`seedType: 3500`)
+* **<color=red>Tournesol Maléfique</color>** (`seedType: 3501`)
+* **<color=red>Citrouille Maléfique</color>** (`seedType: 3502`)
+* **Légionnaire Alpha** (`seedType: 4000`)
+* **Givrebec (amical)** (`seedType: 4001`)
+
+## 🧩 Modified Plant Entries
+* **Nénuphar** (`seedType: 12`) — `info` : réalignement complet sur l’EN 4.0 (Plante basse ; variante spéciale Champi-mort / Nénuphar Maudit : production aléatoire 0,5 %/s après 90 s, exceptions Champi-morts et plantes Maléfiques, hors Algue Maudite, retrait par Engrais en Nénu-chat ; suppression de la mention Nénu-chat générale absente de l’EN)
+* **Four Polaire** (`seedType: 35`) — `info` : réalignement complet sur l’EN 4.0 (produit du Soleil, gel réduit de 75 %, 500 dégâts toutes les 3 s + 25 Soleils, durée 1 × coût, restitution 5× le coût en Soleil ; suppression du bloc « Mécanique du Terrain Neigeux » absent de l’EN) ; `cost` : recharge 7,5 s → 30 s
+* **Bam'bou** (`seedType: 39`) — `info` : ajout de la puce « glaciation retirée considérée comme retirée par les plantes »
+* **Vase de Recyclage Doré** (`seedType: 220`) — `info` : suppression de la ligne Conditions de déblocage
+* **Bamboom** (`seedType: 222`) — `info` : suppression de la ligne Conditions de déverrouillage
+* **Imitateur en Diamant** (`seedType: 227`) — `info` : suppression de la ligne de conditions de déblocage ; réalignement complet sur l’EN 4.0 (ajout de la puce « Utilisable uniquement dans les niveaux Gacha Odyssée », libellés, décimales et termes Odyssée normalisés)
+* **Haricot Gelé** (`seedType: 241`) — `info` : suppression de la ligne de conditions de déblocage et de la balise </size> finale, absente de l’EN
+* **Reine Endoflame** (`seedType: 242`) — `info` : suppression de la ligne de conditions de déblocage ; réalignement complet sur l’EN 4.0 (projectiles : 5 Soleil à l’impact au lieu de « 8 petits soleils », noms Torche Infernale/Écraseur Infernal, tête chercheuse, balises)
+* **Canon Burger** (`seedType: 243`) — `info` : suppression de la ligne de conditions de déblocage ; réalignement complet sur l’EN 4.0 (structure de balises, « fusionnant … dans cet ordre », phrase « page suivante » retirée, noms Pastèque Glacée/Pois Glacé)
+* **Tuberfuse** (`seedType: 244`) — `info` : nom Tuberfuse restitué en tête ; ajout de l’immunité des plantes Titan à la glaciation et à Feu-folleté ; balises alignées sur l’EN 4.0
+* **Imitateur** (`seedType: 245`) — `info` : passage en puces ; ajout de « de cette plante », des plantes Légendaires du Mode Récolte (non imitables) et de la restitution du paquet en cas d’échec — réalignement complet sur l’EN 4.0
+* **Chacrabouille** (`seedType: 248`) — `info` : suppression de la condition de déblocage ; nom canonique Écraseur Pimenté (au lieu d’« Écraseur Épicé »)
+* **Carambole Maître-épéiste** (`seedType: 249`) — `info` : suppression de la condition de déblocage ; « à portée infinie » corrigé en « à perforation infinie » (pierce infinitely)
+* **Nénu-chan** (`seedType: 252`) — `info` : suppression de la condition de déblocage ; ajout de la priorité aux zombies volants — réalignement complet sur l’EN 4.0
+* **Orge** (`seedType: 253`) — `info` : transformation en plante fusionnée (ou améliorée) non-Odyssée toutes les 30 s, arrêt après fusion manuelle — réalignement complet sur l’EN 4.0
+* **Étoile Polaire** (`seedType: 909`) — `info` : réalignement complet sur l’EN 4.0 — synergies Chou Sol et Chou Luna refondues (seuil 6 + 6, étoiles à tête chercheuse sur leur ligne consommant du Soleil, Météore Hélios toutes les 9 s → 180 projectiles et 3000 Soleil ; étoiles en orbite, +10 niveaux de Lumos par Chou Luna), dégâts 30×5/1s, déblocage en boutique pour 15k ; noms du glossaire (Chou Sol, Chou Luna) ; [Perihelion Surge] rendu par « le premier modificateur principal du Chou Sol » (nom de buff vide en FR)
+* **Champi-mageddon** (`seedType: 910`) — `info` : réalignement complet sur l’EN 4.0 — modificateur 1 : +1M de dégâts d’explosion à la mort ; modificateur 2 : immunité aux dégâts, 1 niveau d’Instabilité par attaque bloquée (−1/s après 5 s sans dégâts), autodestruction à 100
+* **Gravitron** (`seedType: 920`) — `info` : ajout des Modificateurs Odyssée (+10 % d’efficacité d’attraction et de bonus de dégâts par type de projectile attiré, Quasar = 4 types ; capacité de stockage ×2 et portée d’attraction fortement augmentée)
+* **Champi-charisme** (`seedType: 924`) — `info` : réalignement complet sur l’EN 4.0 — dégâts 80/2s → 80/1.5s, chance d’hypnose non chiffrée, 6 tirs au niveau de charge 3, modificateur 2 (niveau 3 pendant 5 min en donnant du métal)
+* **Chou Sol** (`seedType: 934`) — `info` : réalignement complet sur l’EN 4.0 — phrase d’accroche complète, météores ×2 dégâts et 250 Soleil sous Mini Soleil (sauf Météore Hélios), déblocage en boutique pour 15k, synergie Étoile Polaire refondue (6 + 6, Météore Hélios toutes les 9 s → 180 projectiles, 3000 Soleil) ; [Perihelion Surge] rendu par « le premier modificateur principal du Chou Sol »
+* **Capitaine Algue-d'or** (`seedType: 941`) — `info` : réalignement complet sur l’EN 4.0 — dégâts 40×3/5s, temps de recharge de noyade 10 s, projectile d’Algue Cupide (état Doré, valeur d’Entrave, plafonds 4,5 points/zombie et 500/vague), modificateur 1 : +1 % de vitesse d’attaque par tranche de 1000 points, modificateur 2 : plafond de points des zombies dorés doublé, paquet de Capitaine Algue-d'or via Cadeau Florale
+* **Chou Luna** (`seedType: 955`) — `info` : réalignement complet sur l’EN 4.0 — section « Modificateurs principaux d’Odyssée » (bonus Lumos ×3, soins de la Mini Lune ×3), prix 15k de la synergie, nouvelle synergie Étoile Polaire (6 + 6 : étoiles en orbite frappant le zombie ayant le plus de PV chaque seconde, +10 niveaux de Lumos par Chou Luna, Mini Lune permanente) remplaçant l’ancien faisceau canalisé
+* **Zomboîte Algue-avide** (`seedType: 5003`) — `info` : modificateur Odyssée 1 remplacé (+5 % de dégâts par tranche de 1000 points, max +300 % → +1 % de vitesse d’attaque par tranche de 1000 points)
+* **Champi-charmant** (`seedType: 1026`) — `info` : dégâts 120 → 80/1,5s ; nom corrigé selon le glossaire (Champi-courage → Champi-courageux)
+* **Citrouille Étoilée** (`seedType: 1089`) — `info` : réalignement complet sur l’EN 4.0 — phrase d’accroche, puces, limites d’attraction quadruplées des plantes de type Troufle d'Étoiles
+* **Four Épicéa** (`seedType: 1223`) — `info` : réalignement complet sur l’EN 4.0 — phrase d’accroche, ajout Production de soleil 5/1s, retour au Four Polaire après 125 s (ancien FR : 210 s)
+* **Four Scie** (`seedType: 1224`) — `info` : réalignement complet sur l’EN 4.0 — phrase d’accroche, ajout Production de soleil 5/1s, retour au Four Polaire après 100 s (ancien FR : 120 s)
+* **Four Lotus** (`seedType: 1225`) — `info` : réalignement complet sur l’EN 4.0 — phrase d’accroche, ajout Production de soleil 5/1s, retour au Four Polaire après 50 s (ancien FR : 60 s)
+* **Four Aloès** (`seedType: 1226`) — `info` : réalignement complet sur l’EN 4.0 — ajout de la Production de soleil (5/1s), retour au Four Polaire après 75 s (au lieu de 90 s), phrase d’accroche réalignée (zone plus étendue, durée limitée)
+* **Noix Pastèque** (`seedType: 1261`) — `info` : Jauge de Riposte plafonnée à 4× les PV max (au lieu des PV max)
+* **Lame Bambou** (`seedType: 1264`) — `info` : Spécial passé en liste à puces ; ajout : glaciation retirée considérée comme retirée par les plantes ; phrase d’accroche corrigée (nom : Lame Bambou)
+* **Four Bambou** (`seedType: 1265`) — `info` : réalignement complet sur l’EN 4.0 — ajout de la Production de soleil (5/1s), retour au Four Polaire après 50 s (au lieu de 60 s), phrase d’accroche réalignée (zone plus étendue, durée limitée)
+* **Noix de Mer** (`seedType: 1293`) — `info` : « durabilité » → « Robustesse » (la croissance augmente les PV et la Robustesse)
+* **Mini-écraseur** (`seedType: 1370`) — `info` : réalignement complet sur l’EN 4.0 (accroche retraduite, portée de détection 2 → 1 case, puce « Plante basse, 3 par case » ajoutée, « When smashed » corrigé en coup d’écrasement subi, nouvelle puce : se noie sur une case d’eau sans Nénuphar)
+* **Pot-sniper** (`seedType: 1405`) — `info` : réalignement complet sur l’EN 4.0 (accroche retraduite : attaque supplémentaire après chaque 6e tir) ; ajout « Condition d’utilisation : Mode Odyssée » ; plantes de type Pois-sniper « à verrouillage »
+* **Citrouillommando** (`seedType: 1407`) — `info` : réalignement complet sur l’EN 4.0 (accroche retraduite : rafales de 6 pois normaux, chance d’Attaque Ultime) ; ajout « Condition d’utilisation : Mode Odyssée »
+* **Algue Maudite** (`seedType: 1414`) — `info` : l’effet Champi-mort déclenché à sa mort ne laisse plus de cratère
+* **Commando Pois-patate** (`seedType: 1432`) — `info` : ajout « Condition d’utilisation : Mode Odyssée » (balise </color> orpheline retirée comme dans l’EN 4.0) ; « Plante courte » → « Plante basse »
+* **Champi-mordilleur** (`seedType: 1459`) — `info` : se noie en avançant sur une case d’eau sans Nénuphar
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **Automate Perdu** (`theZombieType: 92`)
+* **Automate à Bouclier de Force** (`theZombieType: 93`)
+* **Automate à Vibrolame** (`theZombieType: 94`)
+* **Automate Pingouin** (`theZombieType: 95`)
+* **Automate Givrepoil** (`theZombieType: 96`)
+* **Crabe des Neiges** (`theZombieType: 97`)
+* **Givrebec (hostile)** (`theZombieType: 98`)
+* **Automate à Tourelle** (`theZombieType: 99`)
+* **Zombie Noix Glacée Harponneur** (`theZombieType: 262`)
+
+## 🛠️ Modified Zombies
+* **Harponneur de la Légion** (`theZombieType: 51`) — `name` : Lanceur de Trident de la Légion → Harponneur de la Légion ; `introduce` : nouveau nom (précédé de l’article « le ») ; `info` : réalignement complet sur l’EN 4.0 (harpons de neige et glaciation au lieu de tridents de glace et Silence 5 s, Froid/Gel/Gel Profond, Zombie Trident, Ombrelles)
+* **Zombie Chevalier Capitaine du Football** (`theZombieType: 70`) — `info` : réalignement complet sur l’EN 4.0 (retrait des PV restaurés, transformation en Zombie Giga Commando Chevrotine, réduction 50% → 66%, cheval Type 2, lâche un Casque de Football s’il meurt à cheval, label Résistance → Robustesse, 0,1 s)
+* **Zombie Entraîneur** (`theZombieType: 81`) — `info` : réalignement complet sur l’EN 4.0 (ligne Vitesse de déplacement ajoutée, bonus de saut 1 case puis 1,5 case après destruction du manuel, bonus non cumulable avec la valeur la plus élevée retenue, nom du glossaire Zombie Perche au lieu de Zombie(s) Perchiste(s))
+* **Zomb-noix de Bowling** (`theZombieType: 89`) — `info` : dégâts 100 → 100 (hors morsure)
+* **Zomb-noix de Bowling Giga** (`theZombieType: 90`) — `info` : dégâts 200 → 200 (hors morsure)
+* **Zombie Pisto-grenade** (`theZombieType: 102`) — `info` : réalignement complet sur l’EN 4.0 (dégâts 1000/10 secondes → 1000/6s, Robustesse 500 → 720, espace avant les deux-points des labels)
+* **Zombie Écraseur** (`theZombieType: 115`) — `info` : écrase désormais les premières plantes non volantes ; nom « Zombie Écraseur Pimenté » remplacé par le nom du glossaire « Zombie Écraseur Épicé »
+* **Zombie Écraseur Épicé** (`theZombieType: 116`) — `info` : écrase désormais les premières plantes non volantes (au lieu de la première plante) ; contresens corrigé : « Ne prend pas feu … Altération Cryo » → « Ne met pas le feu s'il est affecté par le Froid » (Chill = Froid)
+* **Giga-noix à Trident** (`theZombieType: 202`) — `info` : réalignement complet sur l’EN 4.0 — 4 tridents sur une même cible, dégâts en % des PV actuels (au lieu de la Robustesse), modificateur Odyssée 1 remplacé (tridents supplémentaires sur les plantes les plus proches à 3 et 5 cases | Pozeidon lance 3 tridents géants), labels Caractéristiques / Modificateurs Odyssée
+* **Gargantua Abyssal** (`theZombieType: 212`) — `info` : réalignement complet sur l’EN 4.0 — Robustesse 32000 + 32000 (Type 1), mini-boss et zombie géant, +500 de Valeur de RD, 1 à 3 Diablotins Abyssaux, Noix-mecha Zombie à mi-PV, portée 2,5 cases et 7200 dégâts aux hypnotisés, modificateur Odyssée (Dr. Zomboss à sa mort) ; blocs Mini-boss et Mécanique d’armure absents comme dans l’EN 4.0
+* **<u>Giga Rugby Attaquant</u>** (`theZombieType: 220`) — `introduce` : nouvelle description (général Dieu de la Guerre, percée de l’encerclement, étendards aux âmes enchaînées)
+* **Professeur Ceriz** (`theZombieType: 223`) — `info` : réalignement complet sur l’EN 4.0 — nouvelle accroche, Dégâts 1000, Robustesse 6000 + 15000 (Type 1) + 3000 (Type 2), liste à puces, conversion de 30 zombies ayant quitté le terrain, explosion en croix de 300 dégâts physiques, compétences Illumination et Secours (journal de rechange, bonus Purgatoire/Maudite selon les modificateurs du Zombie-cerise-sulfateuse à Journal non sélectionnés) ; [Breakthrough] et [Absolute Immunity] rendus par leur effet (noms de buff vides en FR)
+* **<color=#4B0082><u>Cryoborg Exécutrice Mk. Alpha</u>** (`theZombieType: 228`) — `info` : réalignement complet sur l’EN 4.0 — label Spécial retiré comme dans l’EN 4.0, label Résistance → Robustesse, immunité Froid + Gel, Gel d’attaque de 5 s sur tous les dégâts, entaille sur sa colonne et devant elle, 5 lourdes boules de neige, entaille toutes les [20, 10, 2] attaques normales sous [1, 1/2, 1/6]× PV, lames de glace le long de sa ligne, nouvelle attaque spéciale (boules de neige blanches, blizzard sur carte Neige)
+* **<u>Giga Rugby Archiduc</u>** (`theZombieType: 229`) — `info` : réalignement complet sur l’EN 4.0 — accroche, vitesse de déplacement, immunité aux étourdissements, reprise de charge, application (0,2 % / 0,5× / 10×) et définition de la malédiction, Modificateur Odyssée (faux, Fauchage, Charge) ; retrait des puces obsolètes (transfert de dégâts, invocation à 2/3 PV)
+* **Archiduc Désarçonné** (`theZombieType: 230`) — `info` : réalignement complet sur l’EN 4.0 — dégâts 100/0,1 s ; 500 (morsure), Robustesse 18000 + 18000 (Type 1), vitesse Assez rapide, immunités Gel et étourdissements, tir de malédiction [0,5×(PV + Robustesse)/2] avec recul
+
+## 🧵 New String Entries Added
+* **距离其他究极小松炉太近**
+* **手推车挑战**
+* **西瓜投手升级到银西瓜投手**
+* **银西瓜投手升级到金西瓜投手**
+* **坚果升级到卷心菜坚果**
+* **卷心菜坚果升级到西瓜坚果**
+* **坚果升级到磁力坚果**
+* **从多个植物中任选一个**
+* **云杉弓手升级到超级云杉**
+* **超级云杉升级到究极云杉**
+* **每次攻击多掉落一枚钱币**
+* **棱彩**
+* **财富**
+* **延时**
+* **魅惑僵尸**
+* **解锁条件：\n累计通关达20次**
+* **打砖块无尽版**
+* **-------Strings - TGE 3.9 Zombie Modifiers Revo**
+* **自选词条**
+* **共5轮，每轮从5个词条中自选一个僵尸词条**
+* **以50的幸运开局，并使幸运上限增加至300，然后随机选择5个僵尸词条\n随机的5个词条只有在成功通关任意难度诸神进化后才会刷新**
+* **丢失幸运**
+* **幸运值降低75**
+* **第一轮回强化**
+* **第一轮回的僵尸血量提高20%，速度提高20%**
+* **第二轮回强化**
+* **第二轮回的僵尸血量提高40%，速度提高25%**
+* **第三轮回强化**
+* **第三轮回的僵尸血量提高60%，速度提高30%**
+* **领袖危机**
+* **从第50波开始，旗帜波时将刷新随机领袖**
+* **植物熄火**
+* **每一波开始后的前2秒内植物方造成的伤害降低至1点**
+* **榜样激励**
+* **伤害统计面板排名第一的植物造成85%的原伤害，其他植物造成105%原伤害**
+* **人才引进**
+* **从第8波开始，在关卡的前50波中，每一波开始时会随机刷新一只第38波至88波才会出现的僵尸**
+* **成群结队**
+* **僵尸出现时，有概率额外出现一次（领袖和boss除外），概率随关卡波次提高**
+* **特立独行**
+* **僵尸出现时，有概率立即消失，并使随机的一个其他僵尸获得自身80%生命值（对领袖和boss无效），概率随关卡波次提高**
+* **植物复活后被强制冻结2秒**
+* **神魂不稳**
+* **植物复活时间延长50%**
+* **僵尸进化的波数降低至每4波一次**
+* **抢你小车**
+* **生化危机**
+* **植物消失时，在原地生成一只随机僵尸，该僵尸获得额外的血量加成**
+* **舞影重重**
+* **关卡波次增加时，有概率出现一些特别的舞王僵尸，概率随波次提高**
+* **每一波僵尸刷新时，额外刷新随机路线的僵尸，数量随波次增加**
+* **英雄退场**
+* **每一波僵尸刷新时，词条数拿的最多的植物降低1%独立伤害增幅，最低为0**
+* **僵尸受到伤害时，原地生成一个僵尸方的豌豆子弹，伤害为自身攻击力的10%，最低20，0.02秒内最多触发10次**
+* **人才下沉**
+* **从第51波开始，每一波开始时会随机刷新5只第1波至50波才会出现的僵尸，但他获得10倍血量加成和1倍独立速度增幅**
+* **老当益壮**
+* **关卡波次增加时，有概率出现一些特别的读报僵尸，概率随波次提高**
+* **飞来横祸**
+* **关卡波次增加时，有概率出现一些特别的蹦极僵尸，概率随波次提高**
+* **幸运贷款**
+* **获得75幸运，但从第50波开始后每一波开始时，丢失1点幸运**
+* **永眠之地**
+* **开局场上获得三列墓碑**
+* **闪电突袭**
+* **每一波刷新僵尸后，随机3只僵尸获得100%独立速度增幅**
+* **腐朽之息**
+* **每3秒为全场植物施加5%最大生命值的诅咒**
+* **秽土转生**
+* **僵尸死亡后有概率从本行最右侧复活为其他僵尸（对领袖和boss无效），概率随波次增加**
+* **真实伤害**
+* **植物受到伤害后，额外受到30%的真实伤害**
+* **同步治疗**
+* **植物回复生命值时，使随机一个僵尸回复25%最大生命值，可过充**
+* **斗转星移**
+* **每一波僵尸刷新时，使你的植物移动到随机位置**
+* **战个痛快**
+* **刷新间隔缩短，每次刷新僵尸时，有概率立即刷新下一波**
+* **小丑派对**
+* **僵尸血量低于10%时有概率自爆（对领袖和boss无效）**
+* **随从号令**
+* **每一波僵尸刷新时，令全场僵尸提高20%生命值和20%速度**
+* **首领号令**
+* **boss僵尸获得30%血量加成，其召唤的僵尸获得60%血量加成**
+* **小鬼当家**
+* **非boss僵尸的生命值和体型降低30%，但速度提高200%**
+* **膨胀危机**
+* **非boss僵尸的生命值和体型提高60%，但速度降低50%**
+* **廉价审美**
+* **木头、白银词条加成变为原来的110%，黄金，钻石词条加成变为原来的70%**
+* **高贵审美**
+* **木头、白银词条加成变为原来的70%，黄金，钻石词条加成变为原来的110%**
+* **点钻成金**
+* **非保底时出现钻石品质时，以对应的黄金品质词条代替**
+* **恃强凌弱**
+* **场上植物数量为0/1/2/3/4/5/6及以上时，僵尸受到75%/80%/85%/90%/95%/100%/105%伤害**
+* **白银时代**
+* **非保底时，具有不同品质的词条只会出现白银品质，若拥有点钻成金，则将金、钻降级为木头**
+* **猫瓜纪元**
+* **僵尸出现时，有概率立即消失，并在原地生成一个继承血量的猫瓜僵尸，概率随波次增加**
+* **积重难返**
+* **植物每次复活，下一次复活时间增加0.5秒**
+* **无理投资**
+* **刷新词条时降低25幸运**
+* **命运无常**
+* **每次抽取词条时，随机获得-27~23幸运**
+* **-------Strings - TGE 3.9 Plant Modifiers Revo**
+* **人人有份**
+* **质变-人人有份：金瓜大招额外给全场僵尸发射西瓜，且大招分裂数x2**
+* **狙击射手升级到火焰狙击射手**
+* **密集火焰**
+* **火焰狙击射手的火墙密度+3\n需要重新手动建立火墙**
+* **烈焰迸发**
+* **火焰狙击射手的火墙顶点数加2**
+* **僵尸方的小丑爆炸伤害降低至1000，并立即获得3000护盾**
+* **从多个选项中自选一株专家植物**
+* **固甲摧锋**
+* **Evolve: 究极**
+* **磁力坚果的基础伤害x3**
+* **子弹旋转半径提高12%，旋转速度提高80%**
+* **杀戮光环**
+* **杀戮**
+* **质变-杀戮光环：磁力坚果发射的子弹可无限穿透，但存在时间降低为10秒**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n子弹飞行时间 + 1秒，每飞行1秒，造成的伤害增加10%**
+* **子弹飞行时间 + 1秒，每飞行1秒，造成的伤害增加10%**
+* **质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%**
+* **究极魔法寒冰射手攻击僵尸时有4%概率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数+1。多选每次提高4%概率**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n究极魔法寒冰射手攻击僵尸时有4%概率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数 + 1。多选每次提高4%概率**
+* **质变-拿来吧你：普通攻击叠加解读的概率翻倍。敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸**
+* **不破不立**
+* **两极分化**
+* **傲慢**
+* **嫉妒**
+* **杀死你的全部植物，并将全场植物的独立伤害增幅和速度增幅减半\n在20波后重复这一操作，但改为增幅翻倍**
+* **若你的幸运低于75，则立即将幸运设置为75非保底时，你的白银、黄金词条降级为木头品质，但钻石词条升级为棱彩品质**
+* **当你的植物在僵尸上方时，额外造成30%伤害，当你的植物在僵尸下方时，少造成30%伤害，方位以屏幕上下判定**
+* **当僵尸血量高于50%时，额外造成30%伤害，当僵尸血量低于50%时，少造成30%伤害**
+* **诅咒-壹肆叁柒**
+* **祝福-壹肆叁柒**
+* **诅咒-争强好胜**
+* **祝福-争强好胜**
+* **诅咒-见者有份**
+* **祝福-见者有份**
+* **诅咒-千锤百炼**
+* **祝福-千锤百炼**
+* **诅咒-壹肆叁柒：究极杨桃大帝的攻击间隔翻倍，在攻击1437次后反转诅咒，每轮攻击计入5次\n反转效果：发射的多功能子弹额外获得1437点基础伤害**
+* **祝福-壹肆叁柒：究极杨桃大帝发射的多功能子弹额外获得1437点基础伤害**
+* **诅咒-争强好胜：究极樱桃射手发射的子弹伤害降低50%，累计造成3亿伤害后反转诅咒\n反转效果：究极樱桃射手每次攻击，额外从屏幕左方发射若干樱桃子弹，攻击力等同于其他植物已造成伤害的0.0001%**
+* **祝福-争强好胜：究极樱桃射手每次攻击，额外从屏幕左方发射若干樱桃子弹，攻击力等同于其他植物已造成伤害的0.0001%**
+* **诅咒-见者有份：究极火菜炮每有一个目标，发射的子弹伤害降低1%，最低降低为原来的30%，累计通过此方式降低50000%后反转诅咒\n反转效果：究极火菜炮每有一个目标，发射的子弹伤害增加1%**
+* **祝福-见者有份：究极火菜炮每有一个目标，发射的子弹伤害增加1%**
+* **诅咒-千锤百炼：磁力坚果不再发射子弹，累计吸引5000发子弹后反转诅咒\n反转效果：每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹**
+* **祝福-千锤百炼：磁力坚果每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹**
+* **护盾保护**
+* **持有护盾的植物每秒回复0.1%护盾量的生命值**
+* **-------Strings - 4.0 Misc**
+* **僵尸机制-碾压**
+* **环境机制-雪原白天**
+* **环境机制-雪原黑夜**
+* **生存模式无尽：诅咒挑战**
+* **杂项-卡牌解锁I**
+* **杂项-卡牌解锁II**
+* **杂项-配方解锁**
+* **斗蛐蛐**
+* **你能铲了他么！**
+* **死亡飞艇！**
+* **我烂了！**
+* **僵尸摇摆！**
+* **三连击！**
+* **超级大战**
+* **雪夜在主菜单\n推荐关卡中进入**
+* **超级随机：刮刮乐**
+* **冒险支线：雪夜**
+* **普通刮刮乐**
+* **精良刮刮乐**
+* **稀有刮刮乐**
+* **史诗刮刮乐**
+* **植物刮刮乐·普通**
+* **植物刮刮乐·精良**
+* **植物刮刮乐·稀有**
+* **植物刮刮乐·史诗**
+* **刮刮乐规则：\n刮出两个相同植物，则立即获得1张该植物卡牌\n刮出三个：立即获得3张该植物卡牌\n3个以上：立即获得本张刮刮乐的全部卡牌**
+* **完成并结算**
+* **刷新本行**
+* **你还没有全部刮出**
+* **你开到了普通奖励**
+* **你开到了普通奖励\n但也开到了一些僵尸**
+* **一无所有\n但也开到了一些僵尸**
+* **恭喜你刮出大奖**
+* **恭喜你刮出大奖\n但也开到了一些僵尸**
+* **可以点击上一页查看其他卡牌**
+* **雪夜：第一关**
+* **在雪夜中，阿尔法军团将为你作战**
+* **最后一波怪清完后\n如果卡关点这**
+* **雪夜：第二关**
+* **场上出现了一些奇特的生物，我想你最好不要用子弹招惹它们**
+* **雪夜：第三关**
+* **刃刃菇的战吼（刚种植下来会立即释放一次攻击）\n可以击破僵尸的绿色信号\n成功击破后会返还阳光和冷却**
+* **雪夜：第四关**
+* **雪夜：第五关**
+* **试试在刃盾菇3x3范围内给水刃菇融合盾盾菇\n可以刃刃菇和盾盾菇自由切换具有刃、盾形态的植物**
+* **雪夜：第六关**
+* **雪夜：第七关**
+* **小心失落机关企鹅，它在滑行时碾压植物会触发暴风雪效果**
+* **雪夜：第八关**
+* **霜衣不会被敌方攻击**
+* **雪夜：第九关**
+* **需要先通关雪原第9关\n主菜单→挑战模式→冒险的时光**
+* **诸神图鉴**
+* **诅咒植物**
+
+## 🧪 New Regex Patterns Added
+* **^进化：([^\s：]+)**
+* **当前幸运值：([\s\S]+)\n幸运可以增加从箱子里获取植物的数量和从抽奖中获得的阳光数量**
+* **幸运提高(\d+)，幸运可以提高好词条出现概率\n当前幸运值：([\s\S]+)/(\d+)**
+* **([\s\S]+)获得随机独立伤害增幅\n当前增幅：([\s\S]+)%\n\n伤害占比：([\s\S]+)%\n总词条数：(\d+)**
+* **([\s\S]+)获得随机速度增幅\n当前增幅：([\s\S]+)%\n\n伤害占比：([\s\S]+)%\n总词条数：(\d+)**
+* **([\s\S]+)获得随机独立伤害增幅\n当前增幅：([\s\S]+)%\n已选了(\d+)次**
+* **([\s\S]+)获得随机速度增幅\n当前增幅：([\s\S]+)%\n已选了(\d+)次**
+* **^速度x([^\s:]+)**
+* **^当前幸运：([\s\S]+)\n场上敌人数量：(\d+)\n难度积分：(\d+)**
+* **^([\s\S]+)\n\n难度积分：(\d+)**
+* **^当前幸运：([\s\S]+)\n场上敌人数量：(\d+)**
+* **^复活时间降低(\d+)%\n当前标准复活时长：([\s\S]+)秒**
+* **持有护盾的植物每秒回复0.1%护盾量的生命值，并立即获得(\d+)护盾**
+* **全体植物获得抵御碾压的能力，复活后依然生效，并立即获得(\d+)护盾**
+* **获得了([\s\S]+)%力量增幅**
+* **出保底了，当前保底阈值：(\d+)**
+* **炼狱难度需要选择：(\d+)/5个负面词条**
+* **^试炼：([\s\S]+)**
+* **^刷新本行([\s\S]+)**
+* **^诅咒等级：(\d+)**
+
+## 🧭 New Travel Buff Entries Added
+* **Baroud d'honneur** (`advancedBuffs: 2009`)
+* **Évolution Épique** (`advancedBuffs: 7000`)
+* **Évolution Épique** (`advancedBuffs: 7001`)
+* **Évolution Épique** (`advancedBuffs: 7002`)
+* **Évolution Épique** (`advancedBuffs: 7003`)
+* **Transcendance : Bombe à sous-munitions** (`advancedBuffs: 12017`)
+* **Transcendance : Barrage doré** (`advancedBuffs: 12018`)
+* **Transcendance : Scie durcie** (`advancedBuffs: 12019`)
+* **Transcendance : Éruption totale** (`advancedBuffs: 12020`)
+* **Transcendance : Maîtrise de l’épée** (`advancedBuffs: 12021`)
+* **Transcendance : Cercle de la mort** (`advancedBuffs: 12022`)
+* **Transcendance : Conflagration** (`advancedBuffs: 12023`)
+* **Transcendance : Gigantisme** (`advancedBuffs: 12024`)
+* **Transcendance : Évocation** (`advancedBuffs: 12025`)
+* **Transcendance : Index magique** (`advancedBuffs: 12026`)
+* **Bouclier enchanté** (`advancedBuffs: 13001`)
+* **Mannequin vaudou** (`advancedBuffs: 13002`)
+* **Mannequin vaudou - A** (`advancedBuffs: 13003`)
+* **Mannequin vaudou - B** (`advancedBuffs: 13004`)
+* **Mannequin vaudou - X** (`advancedBuffs: 13005`)
+* **Déflagration solaire** (`advancedBuffs: 13006`)
+* **Déflagration solaire - A** (`advancedBuffs: 13007`)
+* **Déflagration solaire - B** (`advancedBuffs: 13008`)
+* **Déflagration solaire - X** (`advancedBuffs: 13009`)
+* **Marteau de guerre** (`advancedBuffs: 13010`)
+* **Marteau de guerre - A** (`advancedBuffs: 13011`)
+* **Marteau de guerre - B** (`advancedBuffs: 13012`)
+* **Marteau de guerre - X** (`advancedBuffs: 13013`)
+* **Bombardier G-fish** (`advancedBuffs: 13014`)
+* **Bombardier G-fish - A** (`advancedBuffs: 13015`)
+* **Bombardier G-fish - B** (`advancedBuffs: 13016`)
+* **Bombardier G-fish - X** (`advancedBuffs: 13017`)
+* **Voile de clair de lune** (`advancedBuffs: 13018`)
+* **Voile de clair de lune - A** (`advancedBuffs: 13019`)
+* **Voile de clair de lune - B** (`advancedBuffs: 13020`)
+* **Voile de clair de lune - X** (`advancedBuffs: 13021`)
+* **Rideau de fer** (`advancedBuffs: 13022`)
+* **Rideau de fer - A** (`advancedBuffs: 13023`)
+* **Rideau de fer - B** (`advancedBuffs: 13024`)
+* **Rideau de fer - X** (`advancedBuffs: 13025`)
+* **Chance • Prêt** (`advancedBuffs: 13026`)
+* **Chance • Prêt - A** (`advancedBuffs: 13027`)
+* **Chance • Prêt - B** (`advancedBuffs: 13028`)
+* **Chance • Prêt - X** (`advancedBuffs: 13029`)
+* **Chance • Prime** (`advancedBuffs: 13030`)
+* **Chance • Prime - A** (`advancedBuffs: 13031`)
+* **Chance • Prime - B** (`advancedBuffs: 13032`)
+* **Chance • Prime - X** (`advancedBuffs: 13033`)
+* **Combustion infernale** (`advancedBuffs: 13034`)
+* **Combustion infernale - A** (`advancedBuffs: 13035`)
+* **Combustion infernale - B** (`advancedBuffs: 13036`)
+* **Combustion infernale - X** (`advancedBuffs: 13037`)
+* **Chasseur prismatique** (`advancedBuffs: 13038`)
+* **Chasseur prismatique - A** (`advancedBuffs: 13039`)
+* **Chasseur prismatique - B** (`advancedBuffs: 13040`)
+* **Chasseur prismatique - X** (`advancedBuffs: 13041`)
+* **Tempête d’éclairs** (`advancedBuffs: 13042`)
+* **Tempête d’éclairs - A** (`advancedBuffs: 13043`)
+* **Tempête d’éclairs - B** (`advancedBuffs: 13044`)
+* **Tempête d’éclairs - X** (`advancedBuffs: 13045`)
+* **On n’a rien sans rien** (`advancedBuffs: 14000`)
+* **Tout ou rien** (`advancedBuffs: 14001`)
+* **Position dominante** (`advancedBuffs: 14002`)
+* **Instinct de prédateur** (`advancedBuffs: 14003`)
+* **Malédiction de MCDXXXVII** (`advancedBuffs: 15000`)
+* **Bénédiction de MCDXXXVII** (`advancedBuffs: 15001`)
+* **Malédiction de l’Agressivité** (`advancedBuffs: 15002`)
+* **Bénédiction de l’Agressivité** (`advancedBuffs: 15003`)
+* **Malédiction de l’Équité** (`advancedBuffs: 15004`)
+* **Bénédiction de l’Équité** (`advancedBuffs: 15005`)
+* **Malédiction de l’Endurance** (`advancedBuffs: 15006`)
+* **Bénédiction de l’Endurance** (`advancedBuffs: 15007`)
+* **Essence régénératrice** (`ultimateBuffs: 54`)
+* **Flux vital** (`ultimateBuffs: 55`)
+* **Marche des morts-vivants** (`debuffs: 36`)
+* **Malédiction de l’Archiduc** (`debuffs: 37`)
+* **Mauvais jusqu’à la moelle** (`debuffs: 38`)
+* **Bombe autoréplicante** (`debuffs: 39`)
+* **Charge balayante** (`debuffs: 40`)
+* **Inébranlable** (`debuffs: 41`)
+* **Crise** (`debuffs: 2006`)
+* **Malchance** (`debuffs: 10000`)
+* **Réincarnation : Tiryak** (`debuffs: 10001`)
+* **Réincarnation : Preta** (`debuffs: 10002`)
+* **Réincarnation : Naraka** (`debuffs: 10003`)
+* **Crise de Némésis** (`debuffs: 10004`)
+* **Délai de disgrâce** (`debuffs: 10005`)
+* **Malédiction de l’Envie** (`debuffs: 10006`)
+* **Recrutement express** (`debuffs: 10007`)
+* **Bande de zombies** (`debuffs: 10008`)
+* **Sacrifice zombie** (`debuffs: 10009`)
+* **Hibernation** (`debuffs: 10010`)
+* **K.-O. sévère** (`debuffs: 10011`)
+* **Explosion cerv-ambrienne** (`debuffs: 10012`)
+* **Grand Theft Tondeuse** (`debuffs: 10013`)
+* **Mal insidieux** (`debuffs: 10014`)
+* **Show de variétés Jackson** (`debuffs: 10015`)
+* **Attaque coordonnée** (`debuffs: 10016`)
+* **Fléau du héros** (`debuffs: 10017`)
+* **Riposte** (`debuffs: 10018`)
+* **Retour des sbires** (`debuffs: 10019`)
+* **Fringale pédante** (`debuffs: 10020`)
+* **Sport extrême** (`debuffs: 10021`)
+* **Prêt de Chance** (`debuffs: 10022`)
+* **Nécropole** (`debuffs: 10023`)
+* **Ruée nitro** (`debuffs: 10024`)
+* **Odeur putride** (`debuffs: 10025`)
+* **Graal impie** (`debuffs: 10026`)
+* **Dégâts purs** (`debuffs: 10027`)
+* **Vol de soins** (`debuffs: 10028`)
+* **Toucher du chaos** (`debuffs: 10029`)
+* **Apocalypse croissante** (`debuffs: 10030`)
+* **Détonation désespérée** (`debuffs: 10031`)
+* **Cor de puissance** (`debuffs: 10032`)
+* **Présence suprême** (`debuffs: 10033`)
+* **Petit mais agile** (`debuffs: 10034`)
+* **Zombies boursouflés** (`debuffs: 10035`)
+* **Esthétique bon marché** (`debuffs: 10036`)
+* **Esthétique raffinée** (`debuffs: 10037`)
+* **Toucher de Midas** (`debuffs: 10038`)
+* **La force du nombre** (`debuffs: 10039`)
+* **Âge d’Argent** (`debuffs: 10040`)
+* **Ère Chacrabouille** (`debuffs: 10041`)
+* **Agonie prolongée** (`debuffs: 10042`)
+* **Pénalité d’hésitation** (`debuffs: 10043`)
+* **Caprices du destin** (`debuffs: 10044`)
+* **unlocks.27**
+
+## 🔁 Modified Travel Buff Entries
+* **advancedBuffs.0** — `desc` : intervalle d’invocation 30 s → 10 s (valeur de départ ajoutée) ; noms alignés sur le glossaire (Impécratrice-champi, Enchanteresse-champi)
+* **advancedBuffs.1013** — `desc` : ajout de la portée d’explosion accrue
+* **advancedBuffs.3001** — `desc` : seuil 10 → 6 Étoiles Polaires et Choux Sol
+* **advancedBuffs.3003** — `desc` : réalignement complet sur l’EN 4.0 (seuil 6, niveaux de Lumos conférés par Luna, dégâts supplémentaires des Étoiles Polaires au zombie ayant le plus de PV ; rayon/redirection de la Mini Lune supprimés)
+* **ultimateBuffs.8** — `desc` : intervalle de départ corrigé 1,5 s → 1 s (FR en retard) ; ajout Gravitron : capacité de stockage ×2, portée d’attraction fortement augmentée
+* **ultimateBuffs.9** — `desc` : ajout Gravitron : +10% d’efficacité d’attraction et de bonus de dégâts par type de projectile différent attiré
+* **debuffs.0** — `desc` : ajout Professeur Ceriz : -1 journal de rechange
+* **debuffs.1** — `desc` : ajout Professeur Ceriz : -1 journal de rechange
+* **debuffs.10** — `desc` : ajout du Zombie Noix Glacée Harponneur (tridents/harpons de neige)
+* **debuffs.5003** — `desc` : TR de la parade 0,2 s → 3 s
+
+## 📌 New Tips Entries Added (Fusion Showcase)
+* **level1413-火爆南瓜JalaPumpkin**
+* **level1421-火炬土豆雷TorchMine**
+* **level1426-三叶土豆BloverMineBloverMine**
+* **level1427-寒冰仙人掌IceCactus**
+* **level1428-樱桃大喷菇CherryFume**
+* **level1433-三线西瓜炮手ThreeMelon**
+* **level1434-三线玉米炮手ThreeCorn**
+* **level1435-三线南瓜ThreePumpkin**
+* **level1436-寒冰南瓜IcePumpkin**
+* **level1438-地刺大喷菇CaltropFume**
+* **level1439-三线卷心菜炮手ThreeCabbage**
+* **level1441-杨桃窝瓜StarSquash**
+* **level1442-三线花盆ThreePot**
+* **level1447-金盏大蘑菇BigCoinShroom**
+* **level1449-银魅惑菇SilverHypnoShroomSilverHypnoShroom**
+* **level1451-樱桃小蘑菇CherryPuff**
+* **level1452-大嘴胆小菇ChomperScaredy**
+* **level1453-保护伞大喷菇UmbrellaFume**
+* **level1456-海大嘴花SeaChomper**
+* **level1457-寒冰杨桃IceStar**
+* **level1458-大嘴喷菇FumeChomper**
+* **level1459-小嘴菇PuffChomper**
+* **level1461-大蒜杨桃GarlicStar**
+
+## 🛠️ Updated Tips Entries (Fusion Showcase)
+> Contenu EN modifié : traduction FR existante mise à jour à partir du delta.
+* **level1034-寒冰射手SnowPeaShooter** ← `level1034-寒冰射手`
+* **level1191-毁灭仙人掌DoomCactus** ← `level1191-毁灭仙人掌`
+* **level1189-寒冰坚果**
+* **level1298-豌豆大喷菇**
+* **level1299-坚果南瓜**
+* **level1356-杨桃大蘑菇**
+
+### ♻️ Re-keyed Tips Entries (sans modification — drift de clé)
+* **level1031-阳光菇SunShroom** ← `level1031-阳光菇`
+* **level1296-寻宝土豆雷TreasureMine** ← `level1296-寻宝土豆雷`
+
+## 🛠️ Updated Tips Entries (I, Zombie)
+> Contenu EN modifié : traduction FR existante mise à jour à partir du delta.
+* **418CustomIZ4-10教程**
 
 ---
 
