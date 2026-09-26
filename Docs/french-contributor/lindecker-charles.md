@@ -41,7 +41,7 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ---
 
 ### 📅 Semaine — `21/09/26 → 27/09/26`
-> PR : *à venir*
+> [PR#223](https://github.com/Teyliu/PVZF-Translation/pull/223)
 
 **Résumé de la semaine**
 
