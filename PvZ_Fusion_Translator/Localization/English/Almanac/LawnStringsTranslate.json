@@ -256,7 +256,7 @@
             "seedType": 36,
             "name": "Spruce Sharpshooter",
             "introduce": "<align=left><size=36><color=black>Spruce Sharpshooter just moved to the snowy plains. His pursed lips make him look fierce and hard to approach. But Firnace isn't scared—he knows that expression is just from his new friend pulling up his collar because the snowfield is just that cold.</color>",
-            "info": "<size=36>Spruce Sharpshooter is a cold-resistant archer that fires piercing spruce needles.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles pierce once (including ice blocks) and ignore handheld armor (Type 2).</color>",
+            "info": "<size=36>Spruce Sharpshooter fires piercing spruce needles.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles pierce once (including ice blocks) and ignore handheld armor (Type 2).</color>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
