@@ -346,7 +346,7 @@
             "theZombieType": 57,
             "name": "雪兽王",
             "introduce": "<color=#3D1400>雪兽王相比其他雪兽，拥有更强的力量、更重的尾巴、更高的智慧；但是决定他成为族群领袖的，还是他出众的弹跳力，帮助族群寻找到了雪瀑布的源头。\n</color>",
-            "info": "雪原生物之王。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特性：</color><color=red>碾压</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。登场时无视植物跳跃移动2格</color>"
+            "info": "雪原生物之王。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特性：</color><color=red>碾压</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1</color>"
         },
         {
             "theZombieType": 58,
@@ -592,13 +592,13 @@
             "theZombieType": 98,
             "name": "愤怒的雪行鸟",
             "introduce": "<color=#3D1400>雪行鸟是一种非常狡猾的生物，它们出了名地喜欢捉弄它们见到的生物——比如偷走豌豆子弹、把僵尸困在某处，甚至劫持研究基地的机关设备。它们最恶作剧的一次是伪装成已经灭绝的样子；直到今天，究极Z教授还在为自己竟然被一群鸟给耍了而耿耿于怀。\n</color>",
-            "info": "只于笔记中记载的古老雪原生物，因受植物攻击而愤怒。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>200（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>死亡时掉落100阳光</color>\n<color=#3D1400>激怒：</color><color=red>初始在第6至10列徘徊。被植物方子弹命中后，转变为敌方并不再徘徊</color>"
+            "info": "只于笔记中记载的古老雪原生物，因受植物攻击而愤怒。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>200（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>死亡时掉落50阳光</color>\n<color=#3D1400>激怒：</color><color=red>初始在第6至10列徘徊。被植物方子弹命中后，转变为敌方并不再徘徊</color>"
         },
         {
             "theZombieType": 99,
             "name": "失落机关-射手型",
             "introduce": "<color=#3D1400>远古智械的监督者，曾经常用于清除发生故障的其他智械，这套标记与清除的流程在几百年前十分稳定，而现在用于清除其他目标时也相当高效。\n</color>",
-            "info": "红色信号标示了射击能力。\n\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。发射白雪球攻击，每第三发子弹变为2倍攻击力的红色信号弹。拥有红色信号，被破坏时眩晕4秒并失去射击能力</color>\n<color=red>*信号弹被反弹后可破坏同色的信号</color>"
+            "info": "红色信号标示了射击能力。\n\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。发射白雪球攻击，每第三发子弹变为2倍攻击力的红色信号弹，无法被西瓜保护伞反弹。拥有红色信号，被破坏时眩晕4秒并失去射击能力</color>\n<color=red>*信号弹被反弹后可破坏3×3范围的同色信号</color>"
         },
         {
             "theZombieType": 100,
