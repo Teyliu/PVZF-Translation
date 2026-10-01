@@ -5,11 +5,11 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 4.0 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 4.0.5 Changelog</size></align>
 
 1. Memory - Snowy Night Update!
 - Pre-requisite: Defeat Ice-borg Executrix Mk. Alpha in Adventure Extra - Snow Level 9
-- Enter through Recommended Level
+- Enter through Recommended Levels
 
 2. The Gods Evolved
 - New The Gods Almanac where you can buy paths and upgrades
@@ -18,7 +18,7 @@ Please visit our community for future updates and support.
 3. New Plants
 - Snowy Night Base Plants:
   - Tundraweed
-  - Saber-shroom
+  - Sword-shroom
   - Shield-shroom
   - Lithops
 - Basic Fusions:
@@ -27,20 +27,24 @@ Please visit our community for future updates and support.
   - Spiky Pumpkin (Spikeweed > Pumpkin)
   - Fume-spreader (Fume-shroom + Threepeater)
   - Hot Pot (Jalapeno > Flower Pot)
-  - Saber Tundraweed (Tundraweed + Saber-shroom)
+  - Sword Tundraweed (Tundraweed + Sword-shroom)
   - Shield Tundraweed (Tundraweed + Shield-shroom)
-  - Clash-shroom (Saber-shroom + Shield-shroom)
+  - Clash-shroom (Sword-shroom + Shield-shroom)
   - Aqua Tundraweed (Aloe Aqua + Tundraweed)
-  - Aqua Saber-shroom (Aloe Aqua + Saber-shroom)
+  - Aqua Sword-shroom (Aloe Aqua + Sword-shroom)
   - Aqua Shield-shroom (Aloe Aqua + Shield-shroom)
   - Lithops Tundraweed (Tundraweed + Lithops)
-  - Saber Lithops (Saber-shroom + Lithops)
+  - Sword Lithops (Sword-shroom + Lithops)
   - Shield Lithops (Shield-shroom + Lithops)
   - Aqua Lithops (Aloe Aqua + Lithops)
   - Lichen Firnace (Firnace + Hoarfrost Lichen)
   - Tundraweed Firnace (Firnace + Tundraweed)
-  - Saber Firnace (Firnace + Saber-shroom)
+  - Sword Firnace (Firnace + Sword-shroom)
   - Shield Firnace (Firnace + Shield-shroom)
+  - Snow Threepeater (Ice-shroom + Threepeater)
+  - Flytrapper (Chomper + Blover)
+- Titan Fusion:
+  - Mandiboulder (Spikeweed ∞ [Spikerock] ∞ Spikeweed)
 - Odyssey Fusions:
   - Common Subspecies:
     - Pyroboros Pot (Dragonbreath Torcher > Flower Pot)
@@ -50,6 +54,7 @@ Please visit our community for future updates and support.
     - Drone Commando (Pea-storm Commando + Blover)
     - Snipurr (Snipea > Cattail)
     - Snipad (Shovel a Snipot)
+    - Melancholy Commando (Pea-storm Commando + Gloom-shroom)
 
 4. New Zombies
 - Common:
@@ -68,8 +73,12 @@ Please visit our community for future updates and support.
 5. New Levels
 - Odyssey Gacha: Scratch Off!
 - New I, Zombie default level group levels to replace the crappy old RNG ones
+- ZombiesTD Classic 1 & 2 (enter through Recommended Levels)
 
 6. Noteworthy Balance Changes
+- Odyssey Cursed Mode now has incremental Modifier price increase
+- Reworked Gatling Cherrybomber + Infernal Squashwood synergy
+- New Infernal Sparkwood + SP Phoenix Threepeater/Drone synergy
 - Firnace: buffed Sun production and duration, increased seed packet CD, to reduce micro-management
 - Doom Kelp: No longer leaves a Doom Lily Pad on explosion
 - Charm-shroom & Charmatron: buffed attack speed, nerfed attack damage
@@ -78,4 +87,10 @@ Please visit our community for future updates and support.
 - Coach Zombie: Pole-vaulting distance buff no longer stacks
 - Professor Cherryz: Now more threatening the longer he remains on the field
 
-7. Miscellaneous bug fixes and optimizations.
+7. New Skins
+Tidebreaker Wither-pult
+Moon Festival Selene Cabbage
+
+8. Overhauled Super Level Editor's code editor (untranslated)
+
+9. Miscellaneous bug fixes and optimizations.

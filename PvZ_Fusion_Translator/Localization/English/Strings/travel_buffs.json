@@ -146,7 +146,7 @@
         },
         "36": {
             "name": "Explosive Breath",
-            "desc": "Dragonbreath Torcher: Explosion Frequency ×2"
+            "desc": "Pyroboros Pot Subspecies Unlocked | Dragonbreath Torcher: Explosion Frequency ×2"
         },
         "37": {
             "name": "Heat Momentum",
@@ -324,6 +324,10 @@
             "name": "Blaze of Glory",
             "desc": "When hypnotized zombies die, they explode, dealing damage equal to 150% of their max HP to nearby zombies"
         },
+        "2010": {
+            "name": "Momentum Sync",
+            "desc": "For each 1% attack speed bonus a plant gains, it also receives 1% attack damage bonus"
+        },
         "3000": {
             "name": "Eternal Bulwark",
             "desc": "When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine gains a 90% damage reduction"
@@ -334,7 +338,7 @@
         },
         "3002": {
             "name": "Total Firepower",
-            "desc": "Gatling Cherrybomber now spreads its shots evenly across three lanes with sine and cosine trajectories, and Infernal Squashwood and its subspecies triggers a full-field Jalapeno effect if it can't plant a Spicy plant"
+            "desc": "Gatling Cherrybomber now spreads its shots evenly across three lanes with sine and cosine trajectories, Jalapeno blasts Infernal Squashwoods acquire properties of Cherry Bomb explosions, and explosive cherries deal more damage proportionate to number of Gatling Cherrybombers after passing through Infernal Squashwoods"
         },
         "3003": {
             "name": "Celestial Beacon",
@@ -362,7 +366,11 @@
         },
         "3009": {
             "name": "Elemental Fury",
-            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which increases by 100% for each ice, snow and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked."
+            "desc": "Doominator now spawns Obsidian Tall-nut Iceclaw Zombies, Napalm-shroom's main projectile will split into an additional Obsidian Melon; dealing AoE damage equal to the melon's original attack power which increases by 100% for each ice, snow and fire plant present on the lawn, and a synergy between the Enflamed and Chill debuffs is unlocked"
+        },
+        "3010": {
+            "name": "Omnicidal Inferno",
+            "desc": "Infernal Sparkwood now ignites the lawn instead of a single lane on on spawning Spicy plant. SP Phoenix Threepeater and Drone prokectiles splits into all lanes on passing through Infernal Sparkwood"
         },
         "4000": {
             "name": "Abyssal Chibi",
@@ -668,6 +676,10 @@
             "name": "Ascend: Magical Index",
             "desc": "Apeacalypse Railgun now fires a continuous light beam"
         },
+        "12027": {
+            "name": "Ascend: Sorrow",
+            "desc": "Melancholy Commando now always unleashes its Ultimate, but with half the projectiles"
+        },
         "13000": {
             "name": "Blast Protection",
             "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
@@ -851,6 +863,22 @@
         "13045": {
             "name": "Lightning Storm - X",
             "desc": "The Lightning Bolts now attack continuously without interruption"
+        },
+        "13046": {
+            "name": "Omnipotence",
+            "desc": "Increase Luck by 25, overall attack damage by 10%, 1 reroll, and respawn timer reduction by 10%"
+        },
+        "13047": {
+            "name": "Omnipotence - A",
+            "desc": "Increase Luck by 50, overall attack damage by 20%, 2 rerolls, and respawn timer reduction by 20%"
+        },
+        "13048": {
+            "name": "Omnipotence - B",
+            "desc": "Increase Luck by 75, overall attack damage by 10%, 3 rerolls, and respawn timer reduction by 30%"
+        },
+        "13049": {
+            "name": "Omnipotence - X",
+            "desc": "All plants on the lawn receive 500% bonus HP, 300% independent bonus attack damage, 200% bonus attack speed, 60% crit chance and 150% crit damage"
         },
         "14000": {
             "name": "No Pains No Gains",
@@ -1108,7 +1136,7 @@
         },
         "51": {
             "name": "Focused Fire",
-            "desc": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
+            "desc": "Buckshot Commando: All Commandos Ultimate Damage ×2 and no longer spread, Melancholy Commando's projectiles now seek zombies | Synchronizer Snipea: All Snipeas required shots before triggering Headshot -3"
         },
         "52": {
             "name": "Obsidian Formation",

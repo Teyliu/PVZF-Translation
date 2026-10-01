@@ -346,7 +346,7 @@
             "theZombieType": 57,
             "name": "Elder Snowfur",
             "introduce": "<align=left><size=36><color=black>Stronger, wiser, and with a heavier tail than other snow beasts, what truly made him leader was his remarkable leap — guiding his kin to the source of the frozen waterfall.</color>",
-            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
+            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill. Moves very slowly and crushes plants.</color>"
         },
         {
             "theZombieType": 58,
@@ -592,13 +592,13 @@
             "theZombieType": 98,
             "name": "Snowbeak (Hostile)",
             "introduce": "<align=left><size=36><color=black>Snowbeaks were once thought to be extinct, until a population was discovered living in the tundra. The discovery baffled researchers, who had no idea how the dodo's descendants had survived in such an inhospitable environment. It was eventually found that this unusual branch of dodo bird had somehow evolved the ability to photosynthesise, using its tail to absorb and store sunlight. Professor Cherryz was particularly fascinated by the discovery, though he still hasn't quite gotten over being fooled by their supposed extinction.</color>",
-            "info": "<size=36>An ancient tundra creature known only from old records, enraged because it was attacked by the plants first.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Drops 100 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by a plant projectile, switches to the enemy side and stops wandering.</color>"
+            "info": "<size=36>An ancient tundra creature known only from old records, enraged because it was attacked by the plants first.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Drops 50 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by a plant projectile, switches to the enemy side and stops wandering.</color>"
         },
         {
             "theZombieType": 99,
             "name": "Turrethead Automaton",
             "introduce": "<align=left><size=36><color=black>Once a supervisor of ancient intelligent machines, it was commonly used to identify and eliminate other automata that had malfunctioned. This mark-and-clear procedure was highly reliable hundreds of years ago, and it remains remarkably effective when used against other targets today.</color>",
-            "info": "<size=36>A red signal marks its shooting ability.\n\n<color=black>Toughness: </color>500\n<color=black>Damage: </color><color=#4B0082>50 (Non-bite)</color>\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082> Inherits the traits of Lost Automaton. Fires Snowballs at plants that freeze plants. Every third projectile becomes a Red Signal Projectile with 2× Attack but does not freeze plants. It has a red signal. When the signal is countered, it is stunned for 4s and loses its shooting ability.</color>\n<color=red>*Reflected Signal Projectiles can counter signals of the same color.</color>"
+            "info": "<size=36>A red signal marks its shooting ability.\n\n<color=black>Toughness: </color>500\n<color=black>Damage: </color><color=#4B0082>50 (Non-bite)</color>\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082> Inherits the traits of Lost Automaton. Fires Snowballs at plants that freeze plants. Every third projectile becomes a Red Signal Projectile with 2× Attack that cannot be reflected by Umbrella Rind/Aegis Umbrella (can be reflected by Shield-shrooms), but does not freeze plants. It has a red signal. When the signal is countered, it is stunned for 4s and loses its shooting ability.</color>\n<color=red>*Reflected Signal Projectiles can counter signals of the same color in a 3×3 area.</color>"
         },
         {
             "theZombieType": 100,
