@@ -20,6 +20,8 @@ The download links for the Multi-language Mod and the translation files of the M
 **Multi-Language 3.8.1 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.8.1_beta)
 **English 3.9 by silvershadow** | Android | [Github Release](https://github.com/silvershadowkat/pvzf-android-translation/releases/tag/v3.9-release-9)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
+**Chinese 4.0.5** | PC | [MEGA](https://mega.nz/file/8yJzzDDD#0sjnXCWuduSDWUiNtlNCQYF-WxYwGE8TkRgGROkhdZE) [Google Drive](https://drive.google.com/file/d/1KHD-4PBMLer-NUx-BmvkAHOIHYbxJq2I/view?usp=sharing)
+**Chinese 4.0.5** | Android | [MEGA](https://mega.nz/file/tyQ3hT4T#CnaCFTkp4Ih4cpyD_7xm48fW1Jedf6ZYdoT9mCUM3bI) [Google Drive](https://drive.google.com/file/d/1RTCfzGVkibR-E8OPc_SCycNg86hy5dmo/view?usp=sharing)
 **Chinese 4.0** | PC | [MEGA1](https://mega.nz/file/icQn1CxC#nOT3QlgcQlcpp3zXZUSmMDQpDAd5xqJqwQFkDXtuCzw) [MEGA2](https://mega.nz/file/QygXhBiI#gKRqZXE9bTjtcONBMqXXR6cTvmKure42305w-axTthA) [Google Drive](https://drive.google.com/file/d/1nZgr6-ler90a93rc2mW6xpPQQoXd1a-Q/view?usp=sharing)
 **Chinese 4.0** | Android | [MEGA1](https://mega.nz/file/HIgV2ARa#53E0TEU3bMd-6Rs52VLncwBBOhvTeeAXshQ6g9OnIYI) [MEGA2](https://mega.nz/file/M6RjQKpQ#le3t2m468uJZtHG03zwCWyexeaPFTw0JCBfDHyAoGLw) [Google Drive](https://drive.google.com/file/d/1S-lY6bNUrEMZ73qVq0BvantRN_1F3Zis/view?usp=sharing)
 **Chinese 3.9** | PC | [MEGA1](https://mega.nz/file/iEJmVCiB#LgM5oqmz9uF6IzGQYkHukjRMoJdDI43L6Pp4kqQu0_g) [MEGA2](https://mega.nz/file/syZlnAJB#6LEdBVYPfDYHINGpnO1acB0HRTUzc1Y_0SxlPQ-oCOE) [Google Drive](https://drive.google.com/file/d/1VMuLhJvi8r58UNzPE-esrWDvZguvAVKd/view?usp=sharing)
