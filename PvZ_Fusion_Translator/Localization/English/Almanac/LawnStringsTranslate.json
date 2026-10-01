@@ -1443,7 +1443,7 @@
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Firnurse + Aloe Nivea</color>"
         },
         {
-            "seedType": 5003,
+            "seedType": 5005,
             "name": "Pyroboros Pot",
             "introduce": "<align=left><size=36><color=black>\"When I was little, I really looked forward to the New Year.\" Pyroboros Pot said slowly. He used to be notoriously mischievous, and New Year was the only time he wouldn't get scolded for causing trouble. Now that he's old, all he wants is to rest comfortably, chewing over memories of the past while watching the children happily play, as if every day were New Year.</color>",
             "info": "<size=36>Pyroboros Pot helps plants eliminate zombies in a festive environment.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Dragonbreath Torcher</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Dragonbreath Torcher.\n<color=black>•</color> Cherry Bomb fusions and Jalapeno fusions on it gain 30% bonus attack damage.\n<color=black>•</color> When affected by Cherry Bomb/Jalapeno explosions, heals fusions above by 100 HP and grants straight-firing plants above a 10%/5% attack speed buff for 5s (stackable). This effect can trigger at most once every 0.2s.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed Buff duration  ×2\n2. Releases a Cherry Bomb and a Jalapeno effect every 4s</color>",
