@@ -370,7 +370,7 @@
         },
         "3010": {
             "name": "Omnicidal Inferno",
-            "desc": "Infernal Sparkwood now ignites the lawn instead of a single lane on on spawning Spicy plant. SP Phoenix Threepeater and Drone prokectiles splits into all lanes on passing through Infernal Sparkwood"
+            "desc": "Infernal Sparkwood now ignites the lawn instead of a single lane on spawning Spicy plant. SP Phoenix Threepeater and Drone projectiles splits into all lanes on passing through Infernal Sparkwood"
         },
         "4000": {
             "name": "Abyssal Chibi",
@@ -782,7 +782,7 @@
         },
         "13025": {
             "name": "Iron Curtain - X",
-            "desc": "Reduces damage taken by all plants by 90%; whenever a plant loses HP, it fires a pea projectile from its position with damage equal to its max H | If the zombie has the Counterstrike Modifier, effect is changed to reducing damage taken by 99%"
+            "desc": "Reduces damage taken by all plants by 90%; whenever a plant loses HP, it fires a pea projectile from its position with damage equal to its max HP | If the zombie has the Counterstrike Modifier, effect is changed to reducing damage taken by 99%"
         },
         "13026": {
             "name": "Luck • Loan",
