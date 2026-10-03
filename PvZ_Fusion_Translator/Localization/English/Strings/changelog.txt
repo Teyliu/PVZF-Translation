@@ -43,6 +43,7 @@ Please visit our community for future updates and support.
   - Shield Firnace (Firnace + Shield-shroom)
   - Snow Threepeater (Ice-shroom + Threepeater)
   - Flytrapper (Chomper + Blover)
+  - Ball Cactus (Cactus > Puff-shroom, bugged)
 - Titan Fusion:
   - Mandiboulder (Spikeweed ∞ [Spikerock] ∞ Spikeweed)
 - Odyssey Fusions:

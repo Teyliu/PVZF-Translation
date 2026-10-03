@@ -4866,6 +4866,13 @@
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Spikeweed ∞ [Spikerock] ∞ Spikeweed < Jicamagic (Place On Middle)</color>"
         },
         {
+            "seedType": 1488,
+            "name": "Ball Cactus",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Ball Cactus projectiles shrink flying zombies!\n\n<color=black>Damage: </color><color=#8B0000>30/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can attack both land and flying zombies in a full lane. Currently shrinks all zombies. This is not intended.</color>",
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Puff-shroom</color>"
+        },
+        {
             "seedType": 3000,
             "name": "Placeholder Plant",
             "introduce": "<align=left><size=36><color=black></color>",
