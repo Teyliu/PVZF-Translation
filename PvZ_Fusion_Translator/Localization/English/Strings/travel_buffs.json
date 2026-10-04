@@ -334,7 +334,7 @@
         },
         "3001": {
             "name": "Astral Convergence",
-            "desc": "If there are at least 6 Magnetars and 6 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear and deal 5× damage, and will keep summoning Helios Meteors"
+            "desc": "If there are at least 6 Magnetars and 6 Helios Cabbages on the field, the Mini Sun summoned by the Helios Cabbage will never disappear, and will keep summoning Helios Meteors, while Magnetars can consume sun for more damage but can only attacks its lane"
         },
         "3002": {
             "name": "Total Firepower",
