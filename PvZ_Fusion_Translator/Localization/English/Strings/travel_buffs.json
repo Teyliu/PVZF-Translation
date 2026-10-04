@@ -1534,7 +1534,7 @@
         },
         "5001": {
             "name": "Rampage Spiral",
-            "desc": "The Attack damage of all zombies on the field is doubled every 3s, up to 1M"
+            "desc": "The Attack damage of all zombies on the field is +100% (linear) every 3s, up to 1M"
         },
         "5002": {
             "name": "Pain Response",
