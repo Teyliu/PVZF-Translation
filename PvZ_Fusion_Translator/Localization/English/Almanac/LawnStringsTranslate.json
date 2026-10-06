@@ -4751,7 +4751,7 @@
             "name": "Drone Commando",
             "introduce": "<align=left><size=36><color=black>With the high mobility afforded by flight, Drone Commando has a natural advantage when it comes to shooting. That's why most shooting contests between plants end with Drone Commando taking the win, including his favourite shooting video game.</color>",
             "info": "<size=36>Drone Commando can become a wingman for certain plants of the same type, fighting alongside them against incoming enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>20×6/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Each projectile has a 2% chance to trigger its ultimate when attacking normally: restores HP equal to 1× Toughness, becomes immune to damage for 5s, and fires 3 projectiles every 0.02s.\n<color=black>•</color> Flies to an Buckshot Commando or certain other Commando plants on the field that does not already have a wingman, becoming its wingman without occupying position.</color>",
-            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-shroom Commando + Blover</color>"
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Pea-storm Commando + Blover</color>"
         },
         {
             "seedType": 1472,
