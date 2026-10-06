@@ -4863,7 +4863,7 @@
             "name": "Mandiboulder",
             "introduce": "<align=left><size=36><color=black>\"We're plants too. We deserve tall homes and enough coupons for spike maintenance, too.\" Mandiboulder has always fought for short plants to have the same rights as ordinary plants. He never joins ordinary plants' campaign demanding homes as spacious as those of titan plants, though.</color>",
             "info": "<size=36>Mandiboulder launches ranged spikes through its roots.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>120/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Titan plant, short plant. Has 3 attached spikes. When attacking, the attached spikes additionally attack the nearest zombie on the entire field. Attacks pop tires. When the main body triggers tire popping, it takes 50 damage, while an attached spike is spent instead and takes 30s to regenerate on popping a tire.</color>",
-            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Spikeweed ∞ [Spikerock] ∞ Spikeweed < Jicamagic (Place On Middle)</color>"
+            "cost": "<size=36>Fusion Recipe: <color=#8B0000>Spikerock ∞ [Spikeweed] ∞ Spikerock < Jicamagic (Place On Middle)</color>"
         },
         {
             "seedType": 1488,
