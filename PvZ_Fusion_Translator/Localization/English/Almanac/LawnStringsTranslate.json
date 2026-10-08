@@ -3901,9 +3901,9 @@
         },
         {
             "seedType": 1350,
-            "name": "Fumy Pumpkin",
-            "introduce": "<align=left><size=36><color=black>\"I can attack in both forward and backward directions,\" says Fumy Pumpkin confidently. \"I'm a bidirectional Fume-shroom.\" However, he doesn't appear to have noticed that he's facing a different direction from everyone else.</color>",
-            "info": "<size=36>Fumy Pumpkin can attack like a Fume-shroom… though the direction seems a little off.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000> Targets from his own tile, up to 3 tiles both above and below</color>",
+            "name": "Fuming Pumpkin",
+            "introduce": "<align=left><size=36><color=black>\"I can attack in both forward and backward directions,\" says Fuming Pumpkin confidently. \"I'm a bidirectional Fume-shroom.\" However, he doesn't appear to have noticed that he's facing a different direction from everyone else.</color>",
+            "info": "<size=36>Fuming Pumpkin can attack like a Fume-shroom… though the direction seems a little off.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000> Targets from his own tile, up to 3 tiles both above and below</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom > Pumpkin</color>"
         },
         {
