@@ -4715,7 +4715,7 @@
             "seedType": 1466,
             "name": "Shield Tundraweed",
             "introduce": "<align=left><size=36><color=black>If you want to know why Shield Tundraweed is so calm, remember this: once he charges into everything in his path, he has no idea when to stop... unless you put a wall in front of him.</color>",
-            "info": "<size=36>Sword Tundraweed is much more durable.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Damage: </color><color=#8B0000>50/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Tundraweed traits. Cannot be insta-killed by crushing damage. Attack counters Red Signals (single-use).</color>",
+            "info": "<size=36>Shield Tundraweed is much more durable.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Damage: </color><color=#8B0000>50/0.25s</color>\n<color=black>Special: </color><color=#8B0000>Inherits Tundraweed traits. Cannot be insta-killed by crushing damage. Attack counters Red Signals (single-use).</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Tundraweed + Shield-shroom</color>"
         },
         {
