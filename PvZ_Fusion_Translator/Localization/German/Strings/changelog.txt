@@ -1,0 +1,97 @@
+<align=center><size=20>Hinweis</size></align>
+Die offizielle Quelle für PvZ Fusion ist ausschließlich der Bilibili-Auftritt des Entwicklers 蓝飘飘fly.</color>
+Die offizielle Quelle dieser Übersetzung ist unsere Community: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> und die zugehörigen GitHub-Seiten.
+Meide andere Quellen wie <color=#8B0000>pvzfusion.net</color> oder <color=#8B0000>pvzfusion.pro</color>, die unsere Arbeit ohne Erlaubnis weiterverbreiten.
+Die Sprache kannst du über das Menü „Languages“ unten rechts in diesem Menü ändern.
+Weitere Updates und Unterstützung findest du in unserer Community.
+
+<align=center><size=130%>Plants VS. Zombies: Fusion – Änderungen in Update 4.0.5</size></align>
+
+1. Erinnerung – Update für verschneite Nächte!
+- Voraussetzung: Besiege die Eisborg-Henkerin Mk. Alpha in Abenteuer-Extra – Schnee, Level 9.
+- Zugang über die empfohlenen Level.
+
+2. Die Götter: Evolution
+- Neuer Götter-Almanach, in dem du Pfade und Verbesserungen kaufen kannst.
+- Neuer Levelfortschritt und neue Währung.
+
+3. Neue Pflanzen
+- Basispflanzen für verschneite Nächte:
+  - Tundrakraut
+  - Schwertpilz
+  - Schildpilz
+  - Lithops
+- Grundfusionen:
+  - Frostbeißer (Schnapper + Eispilz)
+  - Kaktuskürbis (Matschkürbis + Kaktus)
+  - Stacheliger Kürbis (Stachelkraut > Kürbis)
+  - Qualmstreuer (Qualmpilz + Triplikator)
+  - Heißer Topf (Jalapeno > Blumentopf)
+  - Schwert-Tundrakraut (Tundrakraut + Schwertpilz)
+  - Schild-Tundrakraut (Tundrakraut + Schildpilz)
+  - Kampfpilz (Schwertpilz + Schildpilz)
+  - Wasser-Tundrakraut (Aloe Aqua + Tundrakraut)
+  - Wasserschwertpilz (Aloe Aqua + Schwertpilz)
+  - Wasserschildpilz (Aloe Aqua + Schildpilz)
+  - Lithops-Tundrakraut (Tundrakraut + Lithops)
+  - Schwertlithops (Schwertpilz + Lithops)
+  - Schild-Lithops (Schildpilz + Lithops)
+  - Wasser-Lithops (Aloe Aqua + Lithops)
+  - Flechtenofen (Ofirn + Raureifpilz)
+  - Tundrakrautofen (Ofirn + Tundrakraut)
+  - Schwertofen (Ofirn + Schwertpilz)
+  - Schildofen (Ofirn + Schildpilz)
+  - Frost-Triplikator (Eispilz + Triplikator)
+  - Fliegenfalle (Schnapper + Pusterich)
+  - Kugelkaktus (Kaktus > Puffpilz, fehlerhaft)
+- Titanfusion:
+  - Felskiefer (Stachelkraut ∞ [Stachelstein] ∞ Stachelkraut)
+- Odyssee-Fusionen:
+  - Gewöhnliche Unterarten:
+    - Pyroboros-Topf (Drachenatem-Fackler > Blumentopf)
+  - Legendär:
+    - Letzter Magnetar
+  - Einzigartig:
+    - Drohnenkommando (Kommander Erbse + Pusterich)
+    - Scharfschützenkätzchen (Scharfscherbse > Katzenschwanz)
+    - Scharfschützenblatt (Scharfschützentopf ausgraben)
+    - Melancholisches Kommando (Kommander Erbse + Stinkmorchel)
+
+4. Neue Zombies
+- Gewöhnlich:
+  - Verlorener Automat
+  - Kraftschildautomat
+  - Vibroklingen-Automat
+  - Pinguin-Automat
+  - Schneefell-Automat
+  - Schneekrabbe
+  - Geschützturm-Automat
+- Neutral:
+    - Schneeschnabel
+- Odyssee:
+    - Harpunier-Frost-Riesennuss-Zombie
+
+5. Neue Level
+- Odyssee-Gacha: Rubbellos!
+- Neue Standardlevel für Ich, Zombie ersetzen die alten, stark zufallsabhängigen Level.
+- Zombie-Turmverteidigung Klassisch 1 & 2 (Zugang über die empfohlenen Level).
+
+6. Wichtige Balanceänderungen
+- Im verfluchten Odyssee-Modus steigen die Preise der Modifikatoren jetzt schrittweise.
+- Zusammenspiel von MG-Kirschkanone und Gequetschtem Infernoholz überarbeitet.
+- Neues Zusammenspiel von Funkelholz des Teufels und SP-Phönix-Triplikator bzw. SP-Phönixdrohne.
+- Ofirn: Sonnenproduktion und Wirkungsdauer erhöht, Abklingzeit der Samenkarte verlängert, um den Steuerungsaufwand zu verringern.
+- Düstertang: Hinterlässt bei einer Explosion kein Düster-Seerosenblatt mehr.
+- Charmepilz und Charmetronpilz: Angriffsgeschwindigkeit erhöht, Angriffsschaden verringert.
+- Beide Magnetar-Synergiemodifikatoren [Astrale Konvergenz] und [Himmlisches Leuchtfeuer] überarbeitet.
+- Gravitron: Magnetar-Modifikatoren wirken jetzt auch auf Gravitron.
+- Trainer-Zombie: Der Bonus auf die Stabhochsprungweite ist nicht mehr stapelbar.
+- Professor Cherryz: Wird umso gefährlicher, je länger er auf dem Spielfeld bleibt.
+
+7. Neue Skins
+Gezeitenbrecher-Verwelk-Katapult
+Mondfest-Selene-Kohl
+
+8. Code-Editor des Super-Level-Editors überarbeitet (nicht übersetzt).
+
+9. Verschiedene Fehlerbehebungen und Optimierungen.

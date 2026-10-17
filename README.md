@@ -54,6 +54,10 @@ The Multi-Language version supports the following languages: **English**, **Chin
 	Last Updated 2.1.6 - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
+German text coverage for the current 4.0.5.2 Alpha reference is documented in
+[German localization update](./Docs/german-translation.md), including validation
+and local installation instructions. In-game review is still needed.
+
 ## Installation Instructions (Multi-Language Version)
 > [**Video Guide**](https://youtu.be/90QiFtavLpY)
 1. Download from the link that says `Multi-Language` and `PC`.
