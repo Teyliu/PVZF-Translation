@@ -1346,7 +1346,7 @@
         },
         "1005": {
             "name": "Resurrection",
-            "desc": "All zombies have a 1/3 chance to revive to full HP on death"
+            "desc": "All zombies, including bosses, have a 1/3 chance to revive once to full HP on death"
         },
         "1006": {
             "name": "Mega Horde",
