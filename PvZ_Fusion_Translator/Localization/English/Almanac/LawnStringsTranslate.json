@@ -1089,7 +1089,7 @@
             "seedType": 954,
             "name": "Princess Solarnova",
             "introduce": "<align=left><size=36><color=black>Solarnova is princess of the Solaria Kingdom and a world-famous pop idol. Her hit single Dance of the Blazing Sun is so popular that even Dr. Edgar is rumored to own a copy. Despite her fame, she's approachable and loves meeting her subjects and fans, but just don't get too close, or her warmth might burn you.</color>",
-            "info": "<size=36>Princess Solarnova generates sun at extreme speed while melting down nearby projectiles. Can either unleash or store her energy on command.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it causes nearby projectiles to explode as well, dealing 10% attack damage\n2. Energy cap ×3, Sun storage amount ×3</color>",
+            "info": "<size=36>Princess Solarnova generates sun at extreme speed while melting down nearby projectiles. Can either unleash or store her energy on command.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Cocoa Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it causes nearby projectiles to explode as well, dealing 10% attack damage\n2. Energy cap ×3, Sun storage amount ×3</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Torchflower + Golden Sunflower</color>"
         },
         {
@@ -2404,7 +2404,7 @@
         {
             "seedType": 1136,
             "name": "Silver Pot",
-            "introduce": "<align=left><size=36><color=black>\"People are always saying 'gold this, silver that,' as if we have a hierarchy,\" Silver Pot said. \"Marigold is silver, yet it's still called a Mari<i>gold</i>.\" His words might have been more convincing if his gaze weren't fixed on the coffee bean by the roof's edge.</color>",
+            "introduce": "<align=left><size=36><color=black>\"People are always saying 'gold this, silver that,' as if we have a hierarchy,\" Silver Pot said. \"Marigold is silver, yet it's still called a Mari<i>gold</i>.\" His words might have been more convincing if his gaze weren't fixed on the Cocoa Bean by the roof's edge.</color>",
             "info": "<size=36>Silver Pot generates extra silver for you while barely taking up any space!\n\n<color=black>Coin Output: </color><color=#8B0000>25/25s</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Marigold > Flower Pot</color>"
         },
@@ -4581,8 +4581,8 @@
         {
             "seedType": 1447,
             "name": "Loan-shroom",
-            "introduce": "<align=left><size=36><color=black>Despite being a banker, Loan-shroom has no grand ambitions. What he thinks about most each day is simply stopping by for a hot coffee made from golden coffee beans after work. That's all.</color>",
-            "info": "<size=36>Loan-shroom is a forward-thinking money producer that grows your savings in Golden Coffee Beans and withdraws them in batches when producing money.\n\n<color=black>Coin Production: </color><color=#8B0000>900/50s</color>\n<color=black>Special: </color><color=#8B0000>When producing money, withdraws stored money in batches of 1000 (Diamond) whenever possible, until the stored balance falls below 50% of the amount withdrawn.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; deposits 1250 Coins as stored balance.</color>",
+            "introduce": "<align=left><size=36><color=black>Despite being a banker, Loan-shroom has no grand ambitions. What he thinks about most each day is simply stopping by for a hot coffee made from golden Cocoa Beans after work. That's all.</color>",
+            "info": "<size=36>Loan-shroom is a forward-thinking money producer that grows your savings in Golden Cocoa Beans and withdraws them in batches when producing money.\n\n<color=black>Coin Production: </color><color=#8B0000>900/50s</color>\n<color=black>Special: </color><color=#8B0000>When producing money, withdraws stored money in batches of 1000 (Diamond) whenever possible, until the stored balance falls below 50% of the amount withdrawn.\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins; deposits 1250 Coins as stored balance.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Fume-shroom + Marigold</color>"
         },
         {
