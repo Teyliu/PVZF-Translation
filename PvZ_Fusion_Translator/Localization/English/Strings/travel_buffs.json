@@ -249,7 +249,7 @@
             "desc": "True Cherry Bomb: Explosive cherries will now deal at least 1800 damage, have increased explosion range and cause Cremator damage"
         },
         "1014": {
-            "name": "Recycling",
+            "name": "Recycling Fission",
             "desc": "Clicking on the same plant when you have it on your Glove will disassemble it at the cost of 500 Sun | 20s cooldown"
         },
         "1015": {
