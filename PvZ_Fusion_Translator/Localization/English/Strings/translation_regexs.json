@@ -365,7 +365,7 @@
   "升级成功：([^\\s]+) -> ([^\\s]+)": "{0} successfully upgraded to {1}!",
   "场上已经有一个([^\\s]+)了": "{0} already exists on the lawn!",
   "当前全部基础植物：(.*)": "All current base plant(s): {0}",
-  "第(\\d+)波": "Wave {0}",
+  "^第(\\d+)波$": "Wave {0}",
   "在线关卡\nid：([^\\s]+)": "Online Level\nID: {0}",
   "存档 ([^\\s]+) 创建成功": "Profile for {0} successfully created!",
   "存档已重命名为 ([^\\s]+)": "Profile successfully renamed to {0}!",
