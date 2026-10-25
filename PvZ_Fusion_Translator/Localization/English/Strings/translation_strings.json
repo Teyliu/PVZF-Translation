@@ -3509,6 +3509,7 @@
   "确认": "Confirm",
   "你还没有选择选项": "You haven't selected an option yet.",
   "可能是因为你场上什么植物都没有或者词条都选完了": "Maybe you have no plant on the lawn or you have already selected all modifiers",
+  "卧薪尝胆：令全场植物的独立伤害增幅和速度增幅翻倍": "\"No Pains No Gains\" modifier has been reversed",
   "-------Strings - TGE 3.9 Zombie Modifiers Revo": "Strings - TGE 3.9 Zombie Modifiers Revo-------",
   "自选词条": "Custom Modifiers",
   "共5轮，每轮从5个词条中自选一个僵尸词条": "Pick 5 random Zombie modifiers of your choice.",
