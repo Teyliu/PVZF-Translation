@@ -3336,6 +3336,7 @@
   "多功能": "Multi-purpose",
   "究极杨桃大帝每轮攻击额外发射一轮多功能杨桃子弹": "Magnetar: Fires additional quasar projectiles each attack",
   "幸运星": "Lucky Star",
+  "大帝每60秒将会进行一次抽奖，死亡后重新计时，奖励品质会被幸运影响": "Magnetar: Holds a prize draw every 60s that grants random rewards, influenced by your current luck (Timer resets upon death)",
   "升级成星辉杨桃大帝": "Magnetar: Upgrade to Stellar Magnetar",
   "大帝抽到了钻石奖：幸运一击率+20%，幸运一击伤害+50%": "Magnetar has drawn the diamond prize: Magnetar +20% crit chance, +50% crit damage",
   "大帝抽到了木头奖：全场光照等级+1": "Magnetar has drawn the bronze prize: +1 Lumos Level for the entire lawn",
