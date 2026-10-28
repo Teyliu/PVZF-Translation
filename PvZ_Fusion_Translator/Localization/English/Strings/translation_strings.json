@@ -3214,7 +3214,7 @@
   "子弹旋转半径提高12%，旋转速度提高80%": "Projectile ring radius +12%, orbiting speed +80%",
   "杀戮光环": "Circle of Death",
   "质变-杀戮光环：磁力坚果发射的子弹可无限穿透，但存在时间降低为10秒": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10s",
-  "诅咒-千锤百炼": "Curse of Endurance",
+  "诅咒：千锤百炼": "Curse of Endurance",
   "祝福-千锤百炼": "Blessing of Endurance",
   "诅咒-千锤百炼：磁力坚果不再发射子弹，累计吸引5000发子弹后反转诅咒\n反转效果：每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹": "Mag-nut no longer fires projectiles. After attracting 5,000 projectiles, reverse the curse\nReversal effect: Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most",
   "祝福-千锤百炼：磁力坚果每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹": "Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most",
