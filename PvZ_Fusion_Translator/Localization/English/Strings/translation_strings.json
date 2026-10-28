@@ -3573,7 +3573,7 @@
   "斗转星移": "Chaos Touch",
   "每5波，使你的植物移动到随机位置": "Your plants are moved to random locations every 5th zombie wave",
   "战个痛快": "Escalating Apocalypse",
-  "刷新间隔缩短，每次刷新僵尸时，有概率重新刷新本波僵尸，概率随波次增加": "Wave interval is reduced, and each wave has a chance to immediately trigger the next",
+  "刷新间隔缩短，每次刷新僵尸时，有概率重新刷新本波僵尸，概率随波次增加": "Wave interval is reduced, and waves have increasing chances to immediately trigger the next",
   "小丑派对": "Desperate Detonation",
   "冷冻冬眠": "Hibernation",
   "植物复活后被强制冻结3秒": "Plants are frozen for 3s after respawning",
