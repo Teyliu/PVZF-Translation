@@ -497,5 +497,7 @@
   "^试炼：([\\s\\S]+)": "Trial: {0}",
   "^刷新本行([\\s\\S]+)": "Reroll this row {0}",
   "^诅咒等级：(\\d+)": "Evil Score: {0}",
-  "^命运无常：获得了([^\\s:]+)幸运": "Whims of Fate: Gained {0} points of Luck!"
+  "^命运无常：获得了([^\\s:]+)幸运": "Whims of Fate: Gained {0} points of Luck!",
+  "^诅咒任务：(\\d+)": "Curse modifier progress: {0}",
+  "^本局获得：(\\d+) 诸神币": "You've gained {0} The Gods Coins from this run."
 }
