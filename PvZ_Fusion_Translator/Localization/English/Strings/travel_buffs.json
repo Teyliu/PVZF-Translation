@@ -1674,7 +1674,7 @@
         },
         "10031": {
             "name": "Desperate Detonation",
-            "desc": "Non-mini-boss zombies have a chance to self-explode immediately on hit when under 10% max HP"
+            "desc": "Non-mini-boss zombies under 5% max HP will immediately self-explode when hit"
         },
         "10032": {
             "name": "Horn of Power",
