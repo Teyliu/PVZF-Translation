@@ -496,5 +496,6 @@
   "炼狱难度需要选择：(\\d+)/5个负面词条": "{0}/5 Zombie modifiers selected",
   "^试炼：([\\s\\S]+)": "Trial: {0}",
   "^刷新本行([\\s\\S]+)": "Reroll this row {0}",
-  "^诅咒等级：(\\d+)": "Evil Score: {0}"
+  "^诅咒等级：(\\d+)": "Evil Score: {0}",
+  "^命运无常：获得了([^\\s:]+)幸运": "Whims of Fate: Gained {0} points of Luck!"
 }
