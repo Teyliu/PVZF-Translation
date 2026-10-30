@@ -3435,7 +3435,7 @@
   "究极忧郁菇升级成星辉形态": "Shroomageddon: Upgrade to Stellar Shroomageddon",
   "获得新植物：究极速射樱桃射手": "Obtain a new plant: Overclocked Cherrybomber",
   "愈战愈勇": "Overdrive",
-  "持续射击时，每过1秒，伤害增加10%，停止攻击后重置": "Overclocked Cherrybomber: While firing continuously, damage increases by 10% every second (resets after attack stops)",
+  "持续射击时，每过1秒，伤害增加10%，停止攻击后重置": "Overclocked Cherrybomber: While firing continuously, damage increases by 10% every second but resets when attack stops. Upgrades linearly stack.",
   "获得新植物：究极五叶草": "Obtain a new plant: Pulsar",
   "存储子弹数量上限增加30": "Projectile storage capacity +30",
   "获得新植物：究极火爆星炬": "Obtain a new plant: Infernal Sparkwood",
