@@ -3679,6 +3679,7 @@
   "交易-孤注一掷": "Luck • Loan - X",
   "立即将你的幸运设置为250，刷新机会设置为5，并使幸运上限x3，且从此不再能抽取幸运与合理投资\n每次抽取词条时，获得25幸运，并额外获得当前幸运20%的幸运（最高100），选择木头、白银、黄金/随机、钻石/棱彩/诅咒将分别扣除20/40/60/100幸运，每次刷新消耗50幸运": "Set your Luck to 250 and Rerolls to 5, triple your Luck cap, and permanently prevent you from selecting Luck Modifiers and [Resourcefulness]\nEach Modifier draw grants 25 Luck, plus an additional amount equal to 20% of your current Luck (up to 100); choosing Bronze, Silver, Gold/Random, or Diamond/Prismatic/Curse costs 20/40/60/100 Luck respectively; each reroll costs 50 Luck",
   "支援-飞艇": "G-Fish Bomber",
+  "支援-裂空": "G-Fish Bomber",
   "获得一个迷你鱼型裂空机甲": "Summons a massively-buffed Skyglider Mecha pet to fight for you",
   "迷你鱼型裂空机甲齐射所需攻击数-1": "Number of attacks needed for Skyglider Mecha to fire a Barrage -1",
   "迷你鱼型裂空机甲攻击间隔降低": "Reduces Skyglider Mecha's attack CD",
