@@ -146,7 +146,7 @@
         },
         "36": {
             "name": "",
-            "desc": "Torche Souffle-de-dragon : fréquence d'explosion ×2"
+            "desc": "Sous-espèce Pot Pyroboros débloquée | Piment Souffle-du-Dragon : fréquence d'explosion ×2"
         },
         "37": {
             "name": "",
@@ -338,7 +338,7 @@
         },
         "3002": {
             "name": "",
-            "desc": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, et le Bois-écraseur Infernal et sa sous-espèce déclenchent un effet de Jalapeño sur tout le terrain s'ils ne peuvent pas planter de plante Épicée"
+            "desc": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, les explosions de Jalapeño des Écraseurs Infernaux acquièrent les propriétés des explosions de Cerise Explosive, et les cerises explosives infligent davantage de dégâts, proportionnellement au nombre de Sulfateuses à Grenades, après avoir traversé les Écraseurs Infernaux"
         },
         "3003": {
             "name": "",
@@ -366,7 +366,7 @@
         },
         "3009": {
             "name": "",
-            "desc": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui double pour chaque plante de glace et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée."
+            "desc": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui augmente de 100% pour chaque plante de glace, de neige et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée"
         },
         "4000": {
             "name": "",
@@ -1112,7 +1112,7 @@
         },
         "51": {
             "name": "",
-            "desc": "Commando Chevrotine : dégâts de l'Ultime de tous les Commandos ×2 et ne se dispersent plus | Pois-sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
+            "desc": "Commando Chevrotine : dégâts de la Capacité Ultime de tous les Commandos ×2 et ne se dispersent plus, les projectiles du Commando Mélancolique traquent désormais les zombies | Pois Sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
         },
         "52": {
             "name": "Formation d'obsidienne",
