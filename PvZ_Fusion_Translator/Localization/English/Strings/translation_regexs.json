@@ -504,5 +504,6 @@
   "^最终面临大帅的挑战\n通关获得50诸神币\n\n该难度已经通关了(\\d+)次": "Vengeful Archduke will appear at the end of round 1. Clear for 50 TGE coins.\n\nHas been cleared {0} time(s).",
   "^1次轮回，最终面临僵王的挑战\n通关获得75诸神币\n\n该难度已经通关了(\\d+)次": "Dr. Zomboss will also appear at the end of round 2. Clear for 75 TGE coins.\n\nHas been cleared {0} time(s).",
   "^2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n该难度已经通关了(\\d+)次": "Dr. Zomboss Auric Prime will appear at the end of round 3. Clear for 100 TGE coins.\n\nHas been cleared {0} time(s).",
-  "^无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币\n\n最大轮数：(\\d+)": "Endlessly face Dr. Zomboss Auric Prime and gain 25 TGE coins every round. Type \"shoothard\" for a much harder challenge.\n\nHighest round: {0}."
+  "^无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币\n\n最大轮数：(\\d+)": "Endlessly face Dr. Zomboss Auric Prime and gain 25 TGE coins every round. Type \"shoothard\" for a much harder challenge.\n\nHighest round: {0}.",
+  "^诸神进化：无尽，第(\\d+)轮": "The Gods Evolved Endless, Round: {0}"
 }
