@@ -5046,6 +5046,13 @@
             "introduce": "<align=left><size=36><color=black>\" Nous aussi, nous sommes des plantes. Nous aussi, nous méritons des logements hauts de plafond et assez de bons de réduction pour l’entretien de nos épines. \" Le Mandiroc s’est toujours battu pour que les plantes basses aient les mêmes droits que les plantes ordinaires. En revanche, il ne se joint jamais à la campagne des plantes ordinaires qui réclament des logements aussi spacieux que ceux des plantes Titan.</color>",
             "info": "<size=36>Le Mandiroc lance des épines à distance par ses racines.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>120/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante Titan, plante basse. Possède 3 épines rattachées. Lorsqu’il attaque, ses épines rattachées attaquent en plus le zombie le plus proche sur tout le terrain. Ses attaques crèvent les pneus. Lorsque le corps principal crève un pneu, il subit 50 dégâts ; lorsqu’une épine rattachée crève un pneu, elle est consommée à la place et met 30 s à se régénérer.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pierre Épineuse ∞ [Ortie] ∞ Pierre Épineuse < Tuberfuse (placer au centre)</color>"
+        },
+        {
+            "seedType": 1488,
+            "name": "Cactus Boule",
+            "introduce": "<align=left><size=36><color=black></color>",
+            "info": "<size=36>Les projectiles du Cactus Boule rétrécissent les zombies volants !\n\n<color=black>Dégâts : </color><color=#8B0000>30/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut attaquer à la fois les zombies terrestres et volants sur toute la ligne. Rétrécit actuellement tous les zombies. Ce n’est pas voulu.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus > Champi-gnon</color>"
         }
     ]
 }
