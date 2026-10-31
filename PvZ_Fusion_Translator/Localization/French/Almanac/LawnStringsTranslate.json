@@ -5018,6 +5018,34 @@
             "introduce": "<align=left><size=36><color=black>On croyait les Givrebecs éteints, jusqu’à ce qu’une population soit découverte dans la toundra. Cette trouvaille a laissé perplexes les chercheurs, qui ne comprenaient pas comment les descendants du dodo avaient pu survivre dans un environnement aussi inhospitalier. On a fini par établir que cette branche singulière de la famille du dodo avait, on ne sait comment, acquis la capacité de faire la photosynthèse, en se servant de sa queue pour absorber et stocker la lumière du soleil. Le Professeur Ceriz a été particulièrement fasciné par cette découverte, même s’il ne s’est toujours pas tout à fait remis de s’être laissé berner par leur prétendue extinction.</color>",
             "info": "<size=36>Une créature ancestrale de la toundra, connue seulement par d’anciens écrits, amicale uniquement parce qu’elle a été attaquée par les Automates.\n\n<color=black>Robustesse : </color><color=#8B0000>3000</color>\n<color=black>Dégâts : </color><color=#8B0000>200 (hors morsure)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lâche 50 Soleil à sa mort ou lorsqu’il quitte le terrain.\n<color=black>•</color> Erre d’abord entre les colonnes 6 et 10. Après avoir été touché par un projectile ennemi, passe du côté des plantes et cesse d’errer.</color>",
             "cost": ""
+        },
+        {
+            "seedType": 1484,
+            "name": "Commando Mélancolique",
+            "introduce": "<align=left><size=36><color=black>Le Commando Mélancolique charge sans peur au combat et, une fois la bataille terminée, s’empresse d’aider les autres Commandos à entretenir leurs canons surchauffés. Il a l’habitude, c’est un vrai spécialiste. Il peut même en profiter pour vous mitonner un délicieux bol de Soupe aux Spores… voire huit bols.</color>",
+            "info": "<size=36>Le Commando Mélancolique projette dans toutes les directions une multitude de projectiles de spores perforants.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>20×2×8×4/1.9s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Cible les ennemis sur toute la pelouse et ses attaques perforent 9 fois.\n<color=black>•</color> Chaque attaque a 2 % de chances de déclencher sa Capacité Ultime : restaure ses PV au maximum, accorde 1 s d’Invincibilité et projette 14 salves de projectiles de spores dans 8 directions.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pois Commando + Champi-sombre</color>"
+        },
+        {
+            "seedType": 1485,
+            "name": "Triple Pisto-pois Glacé",
+            "introduce": "<align=left><size=36><color=black>Contrairement aux autres plantes de leur espèce, les trois têtes du Triple Pisto-pois Glacé peuvent chacune s’étirer plus loin de leur côté, grâce aux grands écarts entre leurs heures de naissance. On distingue leur âge au nombre de glaçons qu’elles portent sur la tête : l’aînée en a deux, car elle est née à 2 h du matin ; la cadette en a un, car elle est née à 1 h de l’après-midi ; et la benjamine en a trois, tout simplement parce qu’elle est la troisième.</color>",
+            "info": "<size=36>Le Triple Pisto-pois Glacé tire des pois de glace sur trois lignes quelconques du terrain.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire un pois de glace sur au plus 3 lignes, celles où se trouvent les zombies les plus à gauche ; ses attaques appliquent Froid, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelés.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1486,
+            "name": "Mordeur Volant",
+            "introduce": "<align=left><size=36><color=black>Après s’être débarrassé de ses encombrantes racines, le Mordeur Volant a fait son premier pas vers la conquête du ciel en tant que prédateur. L’avantage d’attaquer depuis les airs a considérablement élargi son menu, mais lui a aussi causé un problème inattendu : il a mangé tellement de zombies que son visage a fini par verdir.</color>",
+            "info": "<size=36>Le Mordeur Volant flotte dans les airs et dévore les cibles terrestres ou aériennes à proximité.\n\n<color=black>Dégâts : </color><color=#8B0000> Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40 s</color>\n<color=black>Spécial : </color><color=#8B0000>Peut manger aussi bien les zombies terrestres que les zombies volants.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mordeur + Troufle</color>"
+        },
+        {
+            "seedType": 1487,
+            "name": "Mandiroc",
+            "introduce": "<align=left><size=36><color=black>\" Nous aussi, nous sommes des plantes. Nous aussi, nous méritons des logements hauts de plafond et assez de bons de réduction pour l’entretien de nos épines. \" Le Mandiroc s’est toujours battu pour que les plantes basses aient les mêmes droits que les plantes ordinaires. En revanche, il ne se joint jamais à la campagne des plantes ordinaires qui réclament des logements aussi spacieux que ceux des plantes Titan.</color>",
+            "info": "<size=36>Le Mandiroc lance des épines à distance par ses racines.\n\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>120/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante Titan, plante basse. Possède 3 épines rattachées. Lorsqu’il attaque, ses épines rattachées attaquent en plus le zombie le plus proche sur tout le terrain. Ses attaques crèvent les pneus. Lorsque le corps principal crève un pneu, il subit 50 dégâts ; lorsqu’une épine rattachée crève un pneu, elle est consommée à la place et met 30 s à se régénérer.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ortie ∞ [Pierre Épineuse] ∞ Ortie < Tuberfuse (placer au centre)</color>"
         }
     ]
 }
