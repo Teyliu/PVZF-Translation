@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4894**
-* Traductions ajustées : **305**
+* Nouvelles traductions : **5076**
+* Traductions ajustées : **348**
 * Reviews effectuées : **637**
 
 ---
@@ -41,21 +41,24 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ---
 
 ### 📅 Semaine — `26/10/26 → 01/11/26`
-> [PR#232](https://github.com/Teyliu/PVZF-Translation/pull/232) · [PR#233](https://github.com/Teyliu/PVZF-Translation/pull/233)
+> [PR#232](https://github.com/Teyliu/PVZF-Translation/pull/232) · [PR#233](https://github.com/Teyliu/PVZF-Translation/pull/233) · 4.1 : *à venir*
 
 **Résumé de la semaine**
 
-* Nouvelles traductions : **32**
-* Traductions ajustées : **31**
+* Nouvelles traductions : **214**
+* Traductions ajustées : **74**
 * Reviews effectuées : **0**
 
 > Mise à jour 4.0.5 : 4 nouvelles plantes (Commando Mélancolique, Triple Pisto-pois Glacé, Mordeur Volant, Mandiroc),
 > strings du niveau Pinceau Magique et des défis d’apparence, 7 travel buffs, et mise à jour des entrées déjà traduites dont
 > le texte EN a changé en 4.0.5 (dont 8 entrées FR en retard sur l’EN réalignées).
+>
+> Mise à jour 4.1 : 1 nouvelle plante (Cactus Boule), strings et regex du mode Les Dieux : Évolué (171 strings, 10 regex),
+> et mise à jour des entrées déjà traduites dont le texte EN a changé en 4.1 (dont 5 entrées FR en retard sur l’EN réalignées).
 
 ---
 
-#### Détail
+#### Détail — 4.0.5
 
 ## 🌱 Newly Added Translations
 * **Commando Mélancolique** (`seedType: 1484`)
@@ -133,6 +136,249 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 * **advancedBuffs.3002** — `desc` : l’effet Jalapeño plein terrain est remplacé par les propriétés de Cerise Explosive des explosions de Jalapeño et le bonus de dégâts des cerises explosives proportionnel au nombre de Sulfateuses à Grenades ; nom réaligné sur le glossaire (Bois-écraseur Infernal → Écraseur Infernal)
 * **advancedBuffs.3009** — `desc` : réalignement sur l’EN 4.0.5 (+100 % par plante de glace, de neige et de feu ; point final retiré)
 * **ultimateBuffs.51** — `desc` : ajout « les projectiles du Commando Mélancolique traquent désormais les zombies » ; termes réalignés (Pois-sniper Synchroniseur → Pois Sniper Synchroniseur, Ultime → Capacité Ultime comme l’almanach 985)
+
+#### Détail — 4.1
+
+## 🌱 Newly Added Translations
+* **Cactus Boule** (`seedType: 1488`)
+
+## 🧩 Modified Plant Entries
+* **Nénuphar** (`seedType: 12`) — `info` : retrait du Nénuphar Maudit possible aussi avec un paquet de graines de Nénu-chat
+* **Sulfateuse à Grenades** (`seedType: 901`) — `info` : point final ajouté
+* **Écraseur Infernal** (`seedType: 902`) — `info` : point final ajouté
+* **Étincelle Infernale** (`seedType: 948`) — `info` : exception de l’Étoile Polaire élargie (« sauf la capacité anti-aérienne des étoiles » → « sauf pour les étoiles ») ; point final ajouté
+* **Pastèque Cyclone** (`seedType: 957`) — `info` : réalignement complet sur l’EN 4.1 (phrase d’intro alignée, Gel → Froid, nouvelle puce « aucune synergie avec la Coquille de Pastèque ni le Lance-débris », modificateur Odyssée 2 complété, section synergie McCornics le Quantique ajoutée)
+* **Champi-magma** (`seedType: 991`) — `info` : attaque lorsqu’il est touché (et non plus « endommagé ») ; « ; » → « , »
+* **Champi-glacier de la Toundra** (`seedType: 992`) — `info` : puce ajoutée, effet de Champi-omnicide à sa mort
+* **Pot de Pastèque** (`seedType: 1125`) — `info` : réalignement complet sur l’EN 4.1 (puces, propagation du Chronoshift +3 cibles Pastèque Temporelle / +1 cible Pastèque Cyclone, rayon du Lance-mort sur Cratère Irradié)
+* **Mandiroc** (`seedType: 1487`) — `cost` : Ortie et Pierre Épineuse permutées dans la formule
+
+## 🛠️ Modified Zombies
+* **Reine Jill-dans-la-boite** (`theZombieType: 224`) — `info` : immunités Hypnose/Famine → Gel/étourdissements
+* **Giga Rugby Archiduc** (`theZombieType: 229`) — `info` : formules de malédiction (0,2 % → 0,1 %, 0,5 → 0,25 %, 10 → 5 %, sans division par 2)
+* **Boss Attaquant (En Développement)** (`theZombieType: 260`) — `info` : réalignement complet sur l’EN 4.1 (retrait de l’immunité au Froid, description des formations)
+
+## 🧵 New String Entries Added
+* **究极浴火射手连射+1**
+* **打砖块**
+* **打砖块2**
+* **持有量已达上限**
+* **你必须通关一次才能选择更高难度**
+* **卡牌的冷却加快了**
+* **全体植物获得100%伤害增幅**
+* **连续移动模式已关闭**
+* **连续移动模式已开启**
+* **--------THE GODS EVOLVED STRINGS-------**
+* **狙击射手升级到究极激光炮台**
+* **裂解**
+* **被究极激光炮台的激光的非boss类僵尸若血量低于10%则立即化为灰烬，多选提高斩杀线**
+* **激光炮**
+* **质变-激光炮：究极激光炮台发射不间断的激光射线**
+* **诅咒：争强好胜**
+* **黑高的自回血效率大幅提高，速度增幅可提高这一速度**
+* **新的分身生成了**
+* **每10秒（受速度增幅影响）\n在附近生成1个分身，上限1个\n多选提高上限**
+* **虚无黑曜**
+* **质变-虚无黑曜：究极黑曜石高坚果及其分身的碰撞体积大幅增加，且免疫boss碾压\n回血间隔15→10秒**
+* **生命值上限+50%，其他植物受伤时，获得相当于5%伤害量的蓄能**
+* **蓄力**
+* **蓄能获取效率增加+100%**
+* **谁劈了我的瓜？**
+* **质变-谁劈了我的瓜：西瓜坚果发射的西瓜飞到最高点时会瞬间炸开，并分裂成若干个小西瓜扔向全场僵尸**
+* **诅咒：千锤百炼**
+* **忧郁菇升级到超级机枪忧郁菇**
+* **穿透**
+* **超级机枪忧郁菇的子弹命中次数+5**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n超级机枪忧郁菇的子弹命中次数 + 5**
+* **勃然大怒**
+* **质变-勃然大怒：超级机枪忧郁菇每次攻击一定释放大招，但大招子弹数减半**
+* **专武登场**
+* **获得一个窝瓜南瓜，小窝瓜的爆炸范围增加，专属词条可增加小窝瓜的伤害**
+* **火爆辣椒升级到烈焰爆竹**
+* **烈焰爆竹升级到烈焰竹龙**
+* **飞天爆竹**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n烈焰竹龙释放的飞天爆竹数 + 1**
+* **烈火燎原**
+* **质变-烈火燎原：烈焰竹龙的吐息时额外在全场释放火爆辣椒效果**
+* **诅咒：壹肆叁柒**
+* **究极杨桃大帝的诅咒效果已反转**
+* **质变：万剑归宗**
+* **质变-万剑归宗：究极剑仙杨桃每有2发大剑，每次攻击额外发射1发旋转小剑**
+* **诅咒：见者有份**
+* **火菜炮的诅咒效果反转了**
+* **饱和弹射**
+* **质变-饱和弹射：火菜炮索敌范围上下额外拓展1行，同时向所有目标发射子弹。若索敌目标数小于最大散射数，将剩余弹药平均分配给索敌目标。子弹飞行时间降低50%**
+* **魅惑菇升级到毁灭魅惑菇**
+* **毁灭魅惑菇升级到无妄菇**
+* **手持无妄菇时，其召唤物会跟随鼠标移动**
+* **冲击**
+* **无妄菇召唤的僵尸攻击时，额外释放一次冲击波，对范围内敌方随机单体造成多次伤害，多选提高范围和伤害**
+* **质变-小鬼当家：魅惑黑曜石巨人砸击时会生成魅惑黑曜石小鬼僵尸**
+* **获得新植物：究极浴火射手**
+* **连射**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n究极浴火射手连射 + 1**
+* **额外2次刷新机会，僵尸血量x4**
+* **无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币**
+* **卧薪尝胆：令全场植物的独立伤害增幅和速度增幅翻倍**
+* **僵尸受到伤害时，原地生成一个僵尸方的诅咒子弹，伤害为自身攻击力的50%，最低100，0.02秒内最多触发1次**
+* **伤害统计面板排名第一的植物造成70%的原伤害，其他植物造成110%原伤害**
+* **<size=15>小推车 - Off</size>**
+* **植物消失时，在原地生成一只随机僵尸，该僵尸获得额外的血量和速度加成**
+* **开局场上获得三列墓碑，旗帜波时，墓碑将会召唤本波僵尸**
+* **每5波，使你的植物移动到随机位置**
+* **刷新间隔缩短，每次刷新僵尸时，有概率重新刷新本波僵尸，概率随波次增加**
+* **僵尸血量低于5%时受击则立即自爆（对领袖和boss无效）**
+* **植物复活后被强制冻结3秒**
+* **非boss僵尸的生命值和体型降低30%，但速度提高100%**
+* **非boss僵尸的生命值和体型提高60%，但速度降低60%**
+* **白银及以下的词条加成变为原来的110%，黄金，钻石词条加成变为原来的70%**
+* **白银及以下的词条加成变为原来的70%，黄金，钻石词条加成变为原来的110%**
+* **场上植物数量为0/1/2/3/4/5/6及以上时，僵尸受到50%/60%/70%/80%/90%/100%/105%伤害**
+* **获得新植物**
+* **从已购买的植物中任选一个\n更多植物可前往「图鉴 → 诸神图鉴」购买解锁**
+* **通用战术**
+* **从多个选项中自选一种战术词条**
+* **群攻-木桩**
+* **在场上生成一个木桩僵尸，木桩僵尸会把受到伤害的60%均摊给全场僵尸，可以使用僵尸手套移动木桩僵尸\n无法转移魅惑僵尸造成的伤害**
+* **木桩僵尸的均摊比例提升至100%**
+* **在场上多生成一个木桩僵尸**
+* **木桩-弱点洞悉**
+* **木桩僵尸受到伤害时会额外对全场血量最高的僵尸造成100%伤害**
+* **沉淀-全能**
+* **幸运提高25，全体伤害增幅提高10%，获得1次刷新机会，复活时间降低10%**
+* **幸运提高50，全体伤害增幅提高20%，获得2次刷新机会，复活时间降低20%**
+* **幸运提高75，全体伤害增幅提高30%，获得3次刷新机会，复活时间降低30%**
+* **全能-无懈可击**
+* **在场的全体植物获得500%生命值加成，300%独立伤害增幅，200%速度增幅，60%幸运一击率，150%幸运一击伤害**
+* **幸运-宝藏**
+* **立即生成一波2倍血量和速度的僵尸，全部消灭后获得一次500幸运的词条抽取机会**
+* **立即生成一波3倍血量和速度的僵尸，全部消灭后获得一次1000幸运的词条抽取机会**
+* **立即生成一波4倍血量和速度的僵尸，全部消灭后获得一次1500幸运的词条抽取机会**
+* **宝藏-双倍幸运**
+* **立即使你当前幸运与幸运值上限翻倍\n若为负数则取绝对值后再翻倍，如-50幸运时：-50→100**
+* **护航-天罚**
+* **闪电将为你作战，间歇性对场上僵尸造成伤害**
+* **闪电的持续时间提高100%**
+* **闪电的攻击频率提高100%**
+* **天罚-闪电风暴**
+* **闪电风暴将不间断的发动攻击**
+* **支援-光棱**
+* **获得一艘机械飞船，持续锁定并攻击最靠左的僵尸**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n机械飞船的折射次数 + 1**
+* **<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n机械飞船的折射次数 + 2**
+* **光棱-一枪穿雲**
+* **光凌改为无限穿透，且折射可重复命中同一目标**
+* **铁幕-硬化**
+* **全体植物受到的伤害降低20%**
+* **全体植物受到的伤害降低40%**
+* **全体植物受到的伤害降低60%**
+* **硬化-坚不可摧**
+* **全体植物受到的伤害降低90%，生命值降低时在原地发射一枚攻击力等同于自身最大生命值的豌豆子弹\n若拥有僵尸词条正当防卫则改为受到的伤害降低99%**
+* **铁幕-明月**
+* **在场上生成一个月光反应器，周期性为全场植物回复生命值**
+* **月光反应器的恢复量大幅提高**
+* **月光反应器生效时为全场植物赋予1000护盾**
+* **明月-照彻 *10k**
+* **月光反应器生效时，为全场每株植物降下月华\n月华会秒杀3x3范围内的普通僵尸，并使植物无敌一段时间**
+* **不朽-战锤**
+* **锤子的伤害降低，但冷却时间降低至3秒**
+* **锤子的攻击范围大幅增加**
+* **进一步降低锤子的冷却时间**
+* **战锤-千锤百炼**
+* **锤子命中僵尸后，在原地生成一个大锤子，持续对僵尸造成伤害，一段时间后消失**
+* **幸运-交易**
+* **获得一次500幸运的词条抽取机会，随后扣除你25幸运**
+* **获得一次1000幸运的词条抽取机会，随后扣除你50幸运**
+* **获得一次1500幸运的词条抽取机会，随后扣除你75幸运**
+* **交易-孤注一掷**
+* **立即将你的幸运设置为250，刷新机会设置为5，并使幸运上限x3，且从此不再能抽取幸运与合理投资\n每次抽取词条时，获得25幸运，并额外获得当前幸运20%的幸运（最高100），选择木头、白银、黄金/随机、钻石/棱彩/诅咒将分别扣除20/40/60/100幸运，每次刷新消耗50幸运**
+* **支援-飞艇**
+* **支援-裂空**
+* **获得一个迷你鱼型裂空机甲**
+* **迷你鱼型裂空机甲齐射所需攻击数-1**
+* **迷你鱼型裂空机甲攻击间隔降低**
+* **裂空-苍穹之跃**
+* **迷你鱼型裂空机甲齐射时的子弹在空中可持续分裂**
+* **群攻-烈阳**
+* **在场上生成一个阳光反应器，周期性对全场僵尸造成伤害**
+* **阳光反应器的攻击间隔降低50%**
+* **阳光反应器的伤害提高100%**
+* **烈阳-撕裂长空**
+* **阳光反应器攻击时额外释放太阳神流星落下**
+* **业火冷却完毕**
+* **不朽-业火**
+* **点击任意地方时，在点击位置释放业火爆炸，这个技能有10秒的冷却，如果击杀了僵尸则将冷却降为1秒**
+* **业火获得100%伤害加成**
+* **业火的冷却和击杀冷却降低50%**
+* **业火-燃尽此生**
+* **业火可对植物造成伤害，击杀植物后后在全场释放火爆辣椒效果并刷新冷却，伤害基于该植物拿的总词条数而提高**
+* **诅咒任务**
+* **阳光反应器**
+* **迷你领袖**
+* **月光反应器**
+* **业火**
+* **机械飞船**
+* **天罚**
+* **【诸神币】**
+* **通关奖励已存入诸神存档。**
+* **无法在诸神模式中移动僵尸**
+* **磁力坚果的诅咒效果反转了**
+* **经典的诸神进化\n通关获得25诸神币\n\n该难度下还没有通关过**
+* **最终面临大帅的挑战\n通关获得50诸神币\n\n该难度下还没有通关过**
+* **1次轮回，最终面临僵王的挑战\n通关获得75诸神币\n\n该难度下还没有通关过**
+* **2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n该难度下还没有通关过**
+* **-------Strings - These don't even show up?**
+* **翻页**
+* **植物名称**
+
+## ♻️ Modified String Entries
+* **距离其他小松炉太近** — `value` : « Four Polaire » → « Four Infirmier » (Firnace → Firnurse)
+* **种植低矮植物时返还5点阳光** — `value` : suppression de « (sauf plantes gratuites) »
+* **禁用太阳特效** — `value` : « du Soleil » → « du Mini Soleil »
+* **在雪夜中，阿尔法军团将为你作战** — `value` : ajout de l'indice « utilisez les fusions du Four Polaire pour produire du Soleil ! »
+* **质变-湮灭之核：相邻的两束天网之间会定期释放迷你黑洞爆炸** — `value` : ajout du point final
+* **死神猎手每一发子弹都会造成爆头伤害** — `value` : ajout du point final
+* **火焰狙击射手的火墙顶点数加2** — `value` : ajout du point final
+* **获得词条力大砖飞：植物造成的樱桃爆炸伤害x3** — `value` : ajout du point final
+* **究极黑橄榄机枪射手保底时大招所需射击子弹数-10** — `value` : saut de ligne après « : » ; nom aligné sur le glossaire (« Commando Tempête de Chevrotine » → « Commando Chevrotine »)
+* **僵尸的基础速度降低10%** — `value` : réalignement complet sur l’EN 4.1 ; ajout de « (cumul multiplicatif) »
+* **获得词条：真-万籁俱寂** — `value` : ajout de « (peut être augmenté par les modificateurs de dégâts) » ; « supplémentaires » rétabli (« extra » absent du FR)
+* **获得2级词条：蒜毒骤发** — `value` : « Fumigateur d'Éclipse » → « Obtenir l’amélioration de niveau 2 du Lance-fléau » ; réalignement complet
+* **红温伤害增幅提高60%** — `value` : « les zombies enflammés subissent 60% de dégâts en plus » → « bonus global de dégâts Enflammé +60% »
+* **炮台在释放大招过程中额外释放4次火爆辣椒效果，每次造成50段伤害，每次伤害对敌方随机单体造成等同于炮台10000%攻击力的伤害** — `value` : 10000% → 100×
+* **保龄球发射数量+1** — `value` : « gagne +1 noix de bowling » → « tire 1 noix de bowling de plus »
+* **强化：发射** — `value` : « Lanceur » → « Frappe » (Launcher → Strike)
+* **究极杨桃大帝升级成星辉形态** — `value` : suppression du préfixe « Étoile Polaire : » ; ajout de « ! »
+* **诅咒-见者有份：究极火菜炮每有一个目标，发射的子弹伤害降低1%，最低降低为原来的30%，累计通过此方式降低50000%后反转诅咒\n反转效果：究极火菜炮每有一个目标，发射的子弹伤害增加1%** — `value` : ajout du point final après « inversée »
+* **生命值上限+50%** — `value` : suppression du préfixe « Bambou Brise-âmes : »
+* **持续射击时，每过1秒，伤害增加10%，停止攻击后重置** — `value` : reformulation (+10% linéaire par seconde, réinitialisé à l'arrêt de l'attaque) ; ajout du point final
+* **获得词条：腐化** — `value` : ajout de « extrêmement rare »
+* **以50的幸运开局，并使幸运上限增加至300，然后随机选择5个僵尸词条\n随机的5个词条只有在成功通关任意难度诸神进化后才会刷新** — `value` : « changent à chaque victoire » → « ne changent qu’après une victoire »
+* **从第50波开始，旗帜波时将刷新随机领袖** — `value` : ajout de « éligibles »
+* **每次抽取词条时，随机获得-27~23幸运** — `value` : +33 → +23
+
+## 🧪 New Regex Patterns Added
+* **^第(\d+)波$**
+* **^命运无常：获得了([^\s:]+)幸运**
+* **^诅咒任务：(\d+)**
+* **^本局获得：(\d+) 诸神币**
+* **^经典的诸神进化\n通关获得25诸神币\n\n该难度已经通关了(\d+)次**
+* **^最终面临大帅的挑战\n通关获得50诸神币\n\n该难度已经通关了(\d+)次**
+* **^1次轮回，最终面临僵王的挑战\n通关获得75诸神币\n\n该难度已经通关了(\d+)次**
+* **^2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n该难度已经通关了(\d+)次**
+* **^无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币\n\n最大轮数：(\d+)**
+* **^诸神进化：无尽，第(\d+)轮**
+
+## 🔁 Modified Travel Buff Entries
+* **advancedBuffs.36** — `desc` : ajout Pot Pyroboros : durée du bonus de vitesse d’attaque ×2
+* **advancedBuffs.37** — `desc` : nom FR « Torche Souffle-de-dragon » aligné sur le glossaire (« Piment Souffle-du-Dragon ») ; ajout Pot Pyroboros : effet de Cerise Explosive et de Jalapeño toutes les 4 s
+* **Recyclage par fission** (`advancedBuffs: 1014`) — `name` : « Recycling » → « Recycling Fission » (nom FR renseigné : « Recyclage par fission »)
+* **advancedBuffs.3001** — `desc` : suppression des dégâts ×5 du Mini Soleil ; ajout : les Étoiles Polaires consomment du soleil pour plus de dégâts mais n’attaquent que dans leur rangée
+* **debuffs.1005** — `desc` : boss inclus ; résurrection une seule fois
+* **debuffs.5001** — `desc` : dégâts « doublés » → +100% (linéaire) toutes les 3 s
+* **Détonation désespérée** (`debuffs: 10031`) — `desc` : explosion certaine (plus de « chance ») et seuil 10% → 5% des PV max
+
+---
 
 ---
 
