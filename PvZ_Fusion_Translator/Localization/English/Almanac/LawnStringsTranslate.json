@@ -907,7 +907,7 @@
             "seedType": 928,
             "name": "Calamity-shroom",
             "introduce": "<align=left><size=36><color=black>Everyone wonders how Calamity-shroom subdues massive creatures to serve her. Endless destruction should bring silence... When questioned, she sits alone atop a tower, sipping her dreamy brew: \"Oblivion? No, I simply grant them rebirth within illusions.\"</color>",
-            "info": "<size=36>Calamity-shroom curses and hypnotizes all zombies in a large area!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>Hypnotizes all zombies in range (same as Doom-shroom) and makes them explode upon death like Doom-shrooms.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. All Doom-shroom explosions are now craterless | Avarice-shroom Subspecies Unlocked\n2. Now spawns 3 extra Hypnotized Gargantuars and Zombonis when it explodes</color><size=36>",
+            "info": "<size=36>Calamity-shroom curses and hypnotizes zombies in a large area!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the range of Doom-shroom.\n<color=black>•</color> Hypnotizes Zombies if they are:\n\t· Below 50% HP;\n\t· is cursed and below 75% HP.\n<color=black>•</color> Regardless if they were hypnotized or not, zombies in range are cursed (makes them explode upon death like Doom-shrooms)\n<color=black>•</color> Summons a hypnotized Armored Gargantuar.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. All Doom-shroom explosions are now craterless | Avarice-shroom Subspecies Unlocked\n2. The hypnotized Armored Gargantuar summons Imps with the same Toughness. The Imp will self-destruct based on its current HP when it attacks, Releasing a Doom-shroom effect. When the hypnotized Armored Gargantuar attacks and every second its Imps acts, loses 10% of its Toughness.</color><size=36>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Curse-shroom + Doom-shroom"
         },
         {
@@ -977,7 +977,7 @@
             "seedType": 938,
             "name": "Avarice-shroom",
             "introduce": "<align=left><size=36><color=black>\"They told her not to open it. Naturally, she opened it.\" Avarice-shroom ran a finger along the ornate lid, gilded and humming faintly with temptation. Whispers spilled from within—hunger, envy, ambition—all begging to be set free. With a smile too knowing to be innocent, she lifted the seal. What emerged wasn't hope. It was profit. \"Welcome, little monster,\" she whispered, as the abyss stirred and a new fortune clawed its way out.</color>",
-            "info": "<size=36>Avarice-shroom summons Mini-bosses, which give you extra points if defeated!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Calamity-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Calamity-shroom.\n<color=black>•</color> Summons a Mini-boss Zombie depending on the scene:\nDay: Professor Cherryz | Night: Giga Football Striker | Pool: Jackson Worldwide | Fog: Skystrider Mecha | Roof Day: Pozeidon | Roof Dusk: Clown Jill-in-the-Box | Roof Night: Ultra Mecha-nut\n<color=black>•</color> At the same time, summons its ordinary Odyssey variant on all rows.\n<color=black>•</color> Defeating the Mini-boss Zombie gives you a ton of Sun, Coins, and points.\n<color=black>•</color> Defeating an ordinary Odyssey variant gives you 1 Plant Giftbox.\n<color=black>•</color> It can only be summoned once per round. This plant will not spawn from a Plant Giftbox.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Avarice-shroom Subspecies Unlocked</color>",
+            "info": "<size=36>Avarice-shroom turns zombies into shiny riches! But also buffs Mini-bosses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Calamity-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Calamity-shroom.\n<color=black>•</color> Has the range of Doom-shroom. Zombies below 50% HP in its range are turned into Silver Zombie Statues. While Gilded Zombies below 75% HP are turned into Golden Zombie Statues. And zombies in range are inflicted with Gilded.\n<color=black>•</color> Buffs the next Mini-boss Zombie to appear with the Empowered buff. Defeating said Mini-boss Zombie grants 1000 points.\n<color=black>•</color> It can only be summoned once per round. This plant will not spawn from a Plant Giftbox.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Avarice-shroom Subspecies Unlocked\n2. Defeating the Empowered Mini-boss Zombie now grants 2000 points.</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Doom-shroom <-> Marigold</color>"
         },
         {
@@ -4873,6 +4873,132 @@
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cactus > Puff-shroom</color>"
         },
         {
+            "seedType": 1489,
+            "name": "磁性卷心菜投手",
+            "introduce": "<color=#3D1400>“讨厌的磁力，它让铁屑不停地往我头顶飞。”磁性卷心菜投手抱怨道，而他的发型比起他的兄弟，可是要难打理多了。因此每次出席活动，他总是最晚出场的那一个。</color>",
+            "info": "能融合铁器的卷心菜投手。\r\n\r\n<color=#3D1400>伤害：</color><color=red>80/3秒</color>\r\n<color=#3D1400>可融合的铁器：</color><color=red>铁桶、时空碎片</color>\r\n<color=#3D1400>融合配方：</color><color=red>卷心菜投手+磁力菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1490,
+            "name": "铁桶卷心菜投手",
+            "introduce": "<color=#3D1400>铁桶卷心菜投手沉迷钢片琴，即使在战场也要欣赏这门艺术。为此他特地把琴键包成卷心菜，用金属撞击的声音演奏华美的乐章。有幸欣赏的僵尸们表示，这旋律简直直冲天灵盖。</color>",
+            "info": "投出的卷心菜会在僵尸头盔的叮铛作响中接连弹射。\n\n<color=#3D1400>韧性：</color><color=red>2000</color>\n<color=#3D1400>伤害：</color><color=red>160/3秒</color>\n<color=#3D1400>特点：</color><color=red>子弹每次命中金属一类防具后，可以弹射1次</color>\n<color=#3D1400>融合配方：</color><color=red>磁性卷心菜投手（底座）+铁桶</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1491,
+            "name": "超时空卷心菜投手",
+            "introduce": "<color=#3D1400>“要想理解时空重重叠叠的本质，就得先了解卷心菜的结构，它们之间有许多相似性。”超时空卷心菜投手介绍道，“《星际穿越》？你还是去和超时空玉米投手讨论那个吧，我不太喜欢虫洞。”</color>",
+            "info": "快速投出卷心菜传递传送状态，但连击过多时会短暂过载。\r\n\r\n<color=#3D1400>伤害：</color><color=red>0/1秒</color>\r\n<color=#3D1400>特点：①</color><color=red>子弹前2次命中传送状态的僵尸后，可弹射1次。命中时效果同超时空豌豆</color>\r\n<color=#3D1400>②</color><color=red>持续攻击16次后，需要休息10次攻击间隔的时间</color>\r\n<color=#3D1400>融合配方：</color><color=red>磁性卷心菜投手（底座）+时空碎片</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1492,
+            "name": "浮空大喷菇",
+            "introduce": "<color=#3D1400>凭借着与三线大蘑菇的真挚友情，浮空大喷菇很顺利地成为了《捣蛋菇》的第一位玩家，“游戏的体验我很满意！”在游玩过后，浮空大蘑菇说出了自己的感受，“但我还是不太明白为什么要让我挂在座舱外面。”</color>",
+            "info": "喷射烟雾打击低空敌人，还会落下孢子雨攻击地表。\n\n<color=#3D1400>伤害：</color><color=red>40/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>烟雾仅对空，且会在范围内降下12发伤害10的孢子攻击地表的僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>大喷菇+三叶草</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1493,
+            "name": "大喷菇花盆",
+            "introduce": "<color=#3D1400>大喷菇花盆其实并不是花盆。“原本我也只是一个普通的大喷菇……”大喷菇花盆语重心长的说，“千万不要在他们玩锤僵尸的时候贸然的探出头去，不要问我为什么……”</color>",
+            "info": "使上方气液蘑菇攻击时能释放有益因子，增幅同类植物。\n\n<color=#3D1400>特性：</color><color=red>低矮，载体，可种裸地</color>\n<color=#3D1400>特点：</color><color=red>上方特定植物每攻击一轮，全场与其同种类的植物获得一定攻击力加成，幅度可叠加，每次持续10秒\n·超级大喷菇：4%\n·巨蘑菇：8%\n·其他大喷菇类植物：1%\n·忧郁菇类植物：4%</color>\n<color=#3D1400>融合配方：</color><color=red>花盆（底座）+大喷菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1494,
+            "name": "磁力窝瓜",
+            "introduce": "<color=#3D1400>磁力窝瓜是武术学院的教练，他从事这份工作已经有二十年了，无数学员在他的教导下学会了泰山压顶这门绝技，包括兵器架上的铁器。</color>",
+            "info": "落地时释放特殊磁场，使铁制防具像窝瓜一样压向佩戴者。\n\n<color=#3D1400>伤害：</color><color=red>1800（压扁）</color>\n<color=#3D1400>索敌范围：</color><color=red>左侧0.5格~右侧1格</color>\n<color=#3D1400>特点：</color><color=red>攻击时，震落半径1.5格内可吸取的僵尸防具，并使这些防具像窝瓜一样压扁僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>窝瓜+磁力菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1495,
+            "name": "保护伞窝瓜",
+            "introduce": "<color=#3D1400>“我长头发了！”保护伞窝瓜兴奋地喊到，他是这里唯一一个长着浓密头发的窝瓜，但，很快就不是了，“你还我头发！！！！”保护伞窝瓜愤怒地向僵尸跳去，想要为他的头发报仇。</color>",
+            "info": "伪装成保护伞的窝瓜，伞叶被利用到枯萎后会主动出击。\n\n<color=#3D1400>伤害：</color><color=red>1800（压扁）</color>\n<color=#3D1400>特点：①</color><color=red>反弹后的投掷物会随机向场上僵尸压去，造成600伤害</color>\n<color=#3D1400>②</color><color=red>反弹投掷物或伞类击退累计3次后，变成窝瓜向场上最近的僵尸砸去（优先本行）</color>\n<color=#3D1400>③</color><color=red>伞类击退：无伤害</color>\n<color=#3D1400>融合配方：</color><color=red>窝瓜+叶子保护伞</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1496,
+            "name": "西瓜投射手",
+            "introduce": "<color=#3D1400>“大家都说种瓜得瓜、种豆得豆，但是我却并不这么认为。”西瓜投射手说，“我将要证明：种瓜得豆。”他非常骄傲，认为自己推翻了生物学的大厦，然而他的骄傲只持续了很短的时间，他很快发现：嫁接得到的性状无法遗传。</color>",
+            "info": "上抛发射器速射西瓜，弹药耗尽后换回投筐。\r\n\r\n<color=#3D1400>伤害：</color><color=red>60×4/1.5秒</color>\r\n<color=#3D1400>特点：①</color><color=red>前15轮会上抛发射器，每轮发射4发投掷子弹</color>\r\n<color=#3D1400>②</color><color=red>第16轮将发射器投出，造成5倍伤害。随后变回西瓜投手</color>\r\n<color=#3D1400>③</color><color=red>子弹和发射器均造成西瓜的溅射</color>\r\n<color=#3D1400>融合配方：</color><color=red>西瓜投手+豌豆射手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1497,
+            "name": "三线胆小菇",
+            "introduce": "<color=#3D1400>三线胆小菇在第六届的胆量比赛中获得了胆小菇组的冠军。虽然他们无法通过哪怕任何一个测试关卡，但是至少，他们不会害怕自己身边的另外两个头。</color>",
+            "info": "向三行射击并疯狂提升攻速，附近僵尸过多时会放手一搏。\r\n\r\n<color=#3D1400>伤害：</color><color=red>20×3/1.5秒</color>\r\n<color=#3D1400>特点：①</color><color=red>每轮攻击获得5%攻速加成，最多因此获得150%</color>\r\n<color=#3D1400>②</color><color=red>3×3范围内每有一只僵尸，依次缩起下、上、中间的脑袋，全部缩起时向三行分别发射20发豌豆，随后重置上述攻速加成</color>\r\n<color=#3D1400>融合配方：</color><color=red>胆小菇+三线射手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1498,
+            "name": "窝瓜大喷菇",
+            "introduce": "<color=#3D1400>虽然经常被举报用物理方式解决争端，但窝瓜大喷菇坚称自己从未动过手。他解释说，自己最多只会喷出些无伤大雅的孢子，至于最常被目击到的从他背后跳出去砸人的窝瓜，他表示纯粹是吸入孢子产生的幻觉。</color>",
+            "info": "喷射烟雾攻击成群僵尸，还会召唤窝瓜兄弟重压近处目标。\r\n\r\n<color=#3D1400>伤害：</color><color=red>40/1.5秒</color>\r\n<color=#3D1400>特点：</color><color=red>攻击时，探出两个伤害为20倍攻击力的窝瓜，2秒后向场上最左侧的僵尸（优先本行）压去，随后需要等待10秒再次释放</color>\r\n<color=#3D1400>融合配方：</color><color=red>大喷菇+窝瓜</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1499,
+            "name": "卷心菜投射手",
+            "introduce": "<color=#3D1400>卷心菜投射手曾经担任豌豆射手的经纪人，负责安排豌豆射手的出行与采访计划、打理豌豆田的产业。不得不说他干的很不错，但是最终他还是被开除了，因为他被发现私自用卷心菜叶制作豌豆炮的周边售卖。</color>",
+            "info": "上抛发射器速射卷心菜，空弹后还能丢给前方投手复用。\r\n\r\n<color=#3D1400>伤害：</color><color=red>40×4/1.5秒</color>\r\n<color=#3D1400>特点：①</color><color=red>前15轮会上抛发射器，每轮发射4发可弹射一次的投掷子弹</color>\r\n<color=#3D1400>②</color><color=red>第16轮将发射器投出，若前方有卷心菜投手则投向其进行融合，否则投向僵尸造成5倍伤害。随后自身变回卷心菜投手</color>\r\n<color=#3D1400>融合配方：</color><color=red>卷心菜投手+豌豆射手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1500,
+            "name": "西瓜胆小菇",
+            "introduce": "<color=#3D1400>“欢，欢迎来到我的家……”西瓜胆小菇缩在沙发后面欢迎客人，“那面墙是我们胆小菇家族的合照，大家都太害羞了，只能分开拍照、再拼接到一起……请不要碰那个金牌……”那是他在第十届胆小菇举重比赛上获得的金牌，他以半个西瓜的成绩取得了冠军。</color>",
+            "info": "疯狂提升投出西瓜的攻速，害怕时会暗中蓄力，静待反击。\n\n<color=#3D1400>伤害：</color><color=red>80/3秒</color>\n<color=#3D1400>特点：①</color><color=red>每次攻击获得10%攻速加成，最多因此获得200%。害怕时重置该加成</color>\n<color=#3D1400>②</color><color=red>害怕时蓄力，起身时对场上最近的一个目标投掷子弹，最高1800伤害</color>\n<color=#3D1400>融合配方：</color><color=red>胆小菇+西瓜投手</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1501,
+            "name": "大蒜窝瓜",
+            "introduce": "<color=#3D1400>大蒜窝瓜总是眼泪汪汪，有人说那是因为她受不了自己的气味，也有人说是因为她砸僵尸又扑了空，只有她自己明白，那是吃了几个月减脂大蒜餐而还没有瘦下来的迹象的委屈。</color>",
+            "info": "蒜味的窝瓜，仅凭起身就能震慑僵尸…但也容易因此砸空。\n\n<color=#3D1400>伤害：</color><color=red>1800（压扁）</color>\n<color=#3D1400>特点：</color><color=red>跳起时使僵尸换行。若目标不为巨型僵尸且血量低于自身攻击力，赋予1蒜值，施加剧毒效果，使其转身快速逃离</color>\n<color=#3D1400>融合配方：</color><color=red>窝瓜+大蒜</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1502,
+            "name": "银窝瓜",
+            "introduce": "<color=#3D1400>“有人可能会把我误认为是铁桶窝瓜。我要郑重声明，他是铁，我是银。”银窝瓜表情严肃地说道，“银的延展性更好，所以我在砸击时能做出更生动的表情！”</color>",
+            "info": "沉如银山的窝瓜。\n\n<color=#3D1400>伤害：</color><color=red>2400（压扁）</color>\n<color=#3D1400>索敌范围：</color><color=red>左侧0.5格~右侧1格</color>\n<color=#3D1400>特点：</color><color=red>可消耗3000金钱，升级为<b>金窝瓜</b></color>\n<color=#3D1400>融合配方：</color><color=red>窝瓜+金盏花</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1503,
+            "name": "金窝瓜",
+            "introduce": "<color=#3D1400>作为华尔街的后起之秀，金窝瓜最近正陷入舆论风波，他被指控抄袭了杨桃窝瓜和窝瓜大喷菇的专利。“一定是有僵尸在污蔑我！”金窝瓜怒气冲冲，他决定高价悬赏其他窝瓜，去砸扁任何有嫌疑的家伙。</color>",
+            "info": "沉如金山的窝瓜。大招会召唤窝瓜向场上压去。\n\n<color=#3D1400>伤害：</color><color=red>3600（压扁）</color>\n<color=#3D1400>索敌范围：</color><color=red>左侧0.5格~右侧1格</color>\n<color=#3D1400>特点：</color><color=red>由银窝瓜升级而来时，免费释放一次大招</color>\n<color=#3D1400>大招：</color><color=red>消耗3000金钱，冷却15秒。召唤3个金窝瓜，随机向场上僵尸压去，每个造成0.5倍伤害</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 5006,
+            "name": "SP Calamity-shroom",
+            "introduce": "<color=#3D1400>传说当理智濒临崩溃之时，耳边便会响起一道温暖的声音。若能坚守自我，便能绽放出属于自己的光芒；若是沉溺于欲望，便会扭曲成失控的怪物。她既是通往救赎的邀请，也是走向幻灭的诱饵，选择从来只在听者自己手中，但幸存之人寥寥无几。</color>",
+            "info": "<size=36>爆炸会魅惑受创的僵尸，并召唤巨人暂时护佑全场，继而使战局转危为安。\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlock Modifier Available after Obtaining Calamity-shroom's 2 Modifiers</color>\n<color=black>Damage: </color><color=#8B0000>7200 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Calamity-shroom, inherits its other traits.\n<color=black>•</color> Has the range of Doom-shroom. Hypnotizes Zombies if they are:\n\t· Below 75% HP;\n\t· is cursed.\n<color=black>•</color> Regardless if they were hypnotized or not, zombies in range are cursed (makes them explode upon death like Doom-shrooms)\n<color=black>•</color> Summons a hypnotized Abyssal Gargantuar. All plants are given a 90% damage reduction in the first 6 seconds. After which turns into a hypnotized Armored Gargantuar.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. All Doom-shroom explosions are now craterless | Avarice-shroom Subspecies Unlocked\n2. The hypnotized Armored Gargantuar summons Imps with the same Toughness. The Imp will self-destruct based on its current HP when it attacks, Releasing a Doom-shroom effect. Abyssal Imps deals true damage. When the hypnotized Armored Gargantuar attacks and every second its Imps acts, loses 10% of its Toughness.</color><size=36>",
+            "cost": "\nPromotion Recipe: <color=#8B0000>Doom-shroom > Calamity-shroom</color>"
+        },
+        {
+            "seedType": 5007,
+            "name": "SP Avarice-shroom",
+            "introduce": "<color=#3D1400>对于那些曾将物质财富置于一切之上的人而言，究极贪欲菇便是这种冷漠欲望的具象化身。你若渴求金钱，究极贪欲菇便会十倍奉还；然而，每一笔借贷都伴随着代价，究极贪欲菇总会如数收回她应得的报偿……</color>",
+            "info": "<size=36>爆炸会将受创的僵尸点尸成金，并为危机显现加码，从中谋取巨大利益。\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlock Modifier Available after Obtaining Calamity-shroom's 2 Modifiers</color>\n<color=black>Damage: </color><color=#8B0000>7200 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Promotion of Avarice-shroom, inherits its other traits; Subspecies of SP Calamity-shroom.\n<color=black>•</color> Has the range of Doom-shroom. Zombies below 75% HP in its range are turned into Silver Zombie Statues. While Gilded Zombies are turned into Golden Zombie Statues. And zombies in range are inflicted with Gilded.\n<color=black>•</color> Buffs the next Mini-boss Zombie to appear with the Empowered buff. Defeating said Mini-boss Zombie grants 1000 points. Also summons an Empowered Abyssal Gargantuar that grants 2000 points upon defeat.\n<color=black>•</color> It can only be summoned once per round. This plant will not spawn from a Plant Giftbox.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Avarice-shroom Subspecies Unlocked\n2. Defeating the Empowered Mini-boss Zombie now grants 2000 points.</color><size=36>",
+            "cost": "<size=36>Conversion Recipe: <color=#8B0000>Hypno-shroom <-> Marigold</color>\nPromotion Recipe: <color=#8B0000>Doom-shroom > Avarice-shroom</color>"
+        },
+        {
+            "seedType": 5008,
+            "name": "磁能窝瓜坚果",
+            "introduce": "<color=#3D1400>磁能窝瓜坚果有极其严重的强迫症，他最见不得混乱，即使在战斗中也会不由分说地把子弹拉到自己的磁感线上排列整齐。当然，经常有僵尸吐槽“没有比他的长相更混乱的东西”，然后，他们就能看到更混乱的东西：暴怒的磁能窝瓜坚果。</color>",
+            "info": "吸引周遭子弹并赋予自身的重能，随后一齐向僵尸压去。\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n\r\n<color=#3D1400>融合配方：</color><color=red>窝瓜坚果+磁力坚果</color>\r\n<color=#3D1400>韧性：</color><color=red>4000</color>\r\n<color=#3D1400>伤害：</color><color=red>1800（压扁）</color>\r\n<color=#3D1400>索敌范围：</color><color=red>5×5</color>\r\n<color=#3D1400>特点：①</color><color=red>吸引半径1.5格的横向平射子弹，使其伤害增加[自身伤害]，然后与自身化为一体（不保留子弹特性，且不攻击僵尸）</color>\r\n<color=#3D1400>②</color><color=red>吸附10颗子弹后，将其均匀向范围内每个僵尸压去，每颗均造成小范围压扁伤害。此时自身不会阻挡僵尸</color>\r\n<color=#3D1400>词条1：</color><color=red>窝爱砸：索敌范围变为一整行</color>\r\n<color=#3D1400>词条2：</color><color=red>窝爱吸：吸附30发子弹后才会攻击</color>",
+            "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Squash-nut + Mag-nut</color>"
+        },
+        {
             "seedType": 3000,
             "name": "Placeholder Plant",
             "introduce": "<align=left><size=36><color=black></color>",
@@ -4912,6 +5038,27 @@
             "name": "Snowbeak (Friendly)",
             "introduce": "<align=left><size=36><color=black>Snowbeaks were once thought to be extinct, until a population was discovered living in the tundra. The discovery baffled researchers, who had no idea how the dodo's descendants had survived in such an inhospitable environment. It was eventually found that this unusual branch of dodo bird had somehow evolved the ability to photosynthesise, using its tail to absorb and store sunlight. Professor Cherryz was particularly fascinated by the discovery, though he still hasn't quite gotten over being fooled by their supposed extinction.</color>",
             "info": "<size=36>An ancient tundra creature known only from old records, friendly only because it was attacked by the Automata.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Drops 50 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by an enemy projectile, switches to the plant side and stops wandering.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 210,
+            "name": "Artsy Sunflower",
+            "introduce": "<color=#3D1400>画家向日葵毕业于阳光大学艺术系，因她著名的她留白画法闻名于整个抽象派艺术领域。“空白代表着无限的可能，”画家向日葵在访谈中说道，“即使画在画家眼中的本质不变，但一千株植物的眼中也有一千条花木蕾藤。”</color>",
+            "info": "能生产阳光和绘画植物，还会随机招揽前来约稿的植物。\n\n<color=#3D1400>阳光产量：</color><color=red>25×2/20秒</color>\n<color=#3D1400>特点：①</color><color=red>点击可以拿起/放下画笔，拿起时点击其他植物即可为其绘制画像</color>\n<color=#3D1400>②</color><color=red>出场5秒后，在前方一格招揽形象不明<sup>[1]</sup>的随机植物<sup>[2]</sup>，若30秒后未为该植物绘制画像，则其会被收回。揽客有90秒冷却</color>\n<color=#3D1400>[1]：</color><color=red>在[斗蛐蛐]和[自定义关卡]中会显示正常立绘</color>\n<color=#3D1400>[2]：</color><color=red>惊喜礼盒能开出的植物</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 312,
+            "name": "飓风之龙",
+            "introduce": "<color=#3D1400>昔有老匠，入深山斫竹，备元日爆竹之需。自忖疾久，此殆毕生绝响，遂择千年老竹，填以丹砂，匠心独运。及岁除，燃其引，烬尽而竹寂。匠怅然，方阖目，竹忽冲霄而起，周身烈焰，长啸而去，其声若凤鸣，亦如龙啸。乡人莫不惊异，匠亦欣然色喜，疾遂愈。</color>",
+            "info": "散射子弹凝聚龙魂，觉醒状态下吐出穿透性的龙炎弹。\n\n<color=#3D1400>使用条件：</color><color=red>神秘模式</color>\n<color=#3D1400>伤害：</color><color=red>300×10/0.33秒\n1500×5/0.66秒（龙炎弹）</color>\n<color=#3D1400>特点：</color><color=red>点击可切换攻击模式。子弹均在±15°内散射</color>\n<color=#A86A44>散射模式：</color><color=red>每轮获取1能量</color>\n<color=#A86A44>龙炎模式：</color><color=red>每轮消耗3能量。子弹无限穿透，最多飞行5格</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 313,
+            "name": "平行时空树桩",
+            "introduce": "<color=#3D1400>平行时空树桩为自己的树洞感到骄傲。他的树洞已经承载了一个微型的平行宇宙，还能够继续装下许多东西，书籍、美食、玩偶，等等。因为这个微型宇宙只是在其他维度上和他所处的宇宙空间重合了，为了留下这个平行宇宙，他一直在认真选择自己的位置。</color>",
+            "info": "操纵平行时空，将穿过的子弹映射在每一行。\r\n\r\n<color=#3D1400>使用条件：</color><color=red>神秘模式</color>\r\n<color=#3D1400>特点：①</color><color=red>将接触的植物方子弹分裂为每行各一发</color>\r\n<color=#3D1400>②</color><color=red>每行只能种植一株，且所有平行时空树桩只能种植在同一列</color>",
             "cost": ""
         },
         {
