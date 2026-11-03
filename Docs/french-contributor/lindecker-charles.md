@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **4862**
-* Traductions ajustées : **274**
+* Nouvelles traductions : **4894**
+* Traductions ajustées : **305**
 * Reviews effectuées : **637**
 
 ---
@@ -37,6 +37,102 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `26/10/26 → 01/11/26`
+> [PR#232](https://github.com/Teyliu/PVZF-Translation/pull/232) · [PR#233](https://github.com/Teyliu/PVZF-Translation/pull/233)
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **32**
+* Traductions ajustées : **31**
+* Reviews effectuées : **0**
+
+> Mise à jour 4.0.5 : 4 nouvelles plantes (Commando Mélancolique, Triple Pisto-pois Glacé, Mordeur Volant, Mandiroc),
+> strings du niveau Pinceau Magique et des défis d’apparence, 7 travel buffs, et mise à jour des entrées déjà traduites dont
+> le texte EN a changé en 4.0.5 (dont 8 entrées FR en retard sur l’EN réalignées).
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Commando Mélancolique** (`seedType: 1484`)
+* **Triple Pisto-pois Glacé** (`seedType: 1485`)
+* **Mordeur Volant** (`seedType: 1486`)
+* **Mandiroc** (`seedType: 1487`)
+
+## 🧩 Modified Plant Entries
+* **Épicéa Tireur d'élite** (`seedType: 36`) — `info` : réalignement complet sur l’EN 4.0.5 (retrait de « résistant au froid » et de la puce d’immunité au gel absente de l’EN)
+* **Virevoltant des Neiges** (`seedType: 41`) — `info` : ajout de « monocibles » aux dégâts ; « sa rangée » → « sa ligne » (convention almanach)
+* **Champi-sabre** (`seedType: 42`) — `info` : ajout de « et 200 de Valeur de RD »
+* **Champi-bouclier** (`seedType: 43`) — `info` : 1/1.5s → 20/1.5s
+* **Sulfateuse à Grenades** (`seedType: 901`) — `info` : synergie Écraseur Infernal — l’effet Jalapeño plein terrain est remplacé par : explosions de Jalapeño → effet Cerise Explosive sur certaines fusions, cerises explosives ×2 dans le décompte, bonus de dégâts [(nombre de Sulfateuses à Grenades) * 0.2] ; phrase d’accroche (accord avec « Sulfateuse ») et « cerises explosives des plantes » restitués ; réalignement complet sur l’EN 4.0.5 (current en retard : « Écraseur Calcifer »/« Écraseur Épicée » hors glossaire, prix 15k absent, structure de balises)
+* **Écraseur Infernal** (`seedType: 902`) — `info` : Pois Phénix dégâts ×4 → ×2 ; synergie Sulfateuse à Grenades — effet Jalapeño plein terrain remplacé par l’effet Cerise Explosive des explosions de Jalapeño, cerises explosives ×2 dans le décompte et bonus [(nombre de Sulfateuses à Grenades) * 0.2], prix 15k restitué ; réalignement complet sur l’EN 4.0.5 (current très en retard : brûlure 3×3, tableau des effets par projectile, seuil 61, modificateurs, noms Écraseur Pimenté/Sulfateuse à Grenades)
+* **Noix Astrale** (`seedType: 945`) — `info` : réalignement complet sur l’EN 4.0.5 (puces rembobinage, Trou Noir Ultime, Modificateurs Odyssée) ; ajout de « (max 1× Robustesse) »
+* **Étincelle Infernale** (`seedType: 948`) — `info` : nouvelle section Modificateur de synergie – Triple Pisto-pois Phénix Épique/Drone Phénix Épique (15k ; pelouse entière enflammée, projectiles Épiques divisés sur toutes les lignes) ; réalignement complet sur l’EN 4.0.5 (current en retard : seuil 51 → 121, exceptions Pioche/Diable à ressort, modificateurs principaux absents, noms Écraseur Infernal/Écraseur Pimenté/Carambole Épicé/Étoile Polaire)
+* **Arbitre Sinistre** (`seedType: 956`) — `info` : réalignement complet sur l’EN 4.0.5 (Âme de Zombie, Modificateurs Odyssée, retrait de la tabulation avant •)
+* **Piment Souffle-du-Dragon** (`seedType: 979`) — `info` : modificateur 1 — ajout « Sous-espèce Pot Pyroboros débloquée »
+* **Commando Chevrotine** (`seedType: 985`) — `info` : modificateur 2 — ajout « les projectiles du Commando Mélancolique traquent désormais les zombies » ; réalignement complet sur l’EN 4.0.5 (current en retard : immunité aux dégâts/écrasement pendant l’Ultime et patates explosives du Commando Pois-patate absentes, structure de balises)
+* **Triple Pisto-pois Phénix Épique** (`seedType: 999`) — `info` : ajout de la section Modificateur de synergie – Étincelle Infernale (15k ; pelouse entière enflammée, projectiles Épiques divisés sur toutes les lignes) ; « rangée » → « ligne » dans les puces existantes (harmonisation almanach)
+* **Drone Phénix Épique** (`seedType: 5000`) — `info` : ajout de la section Modificateur de synergie – Étincelle Infernale (15k ; pelouse entière enflammée, projectiles Épiques divisés sur toutes les lignes) ; « rangée » → « ligne » dans les puces existantes (harmonisation almanach)
+* **Four Infirmier** (`seedType: 1234`) — `info` : « autres Four Polaire » → « autres Fours Infirmiers » ; ajout des puces glaciation (absente du FR) et de ré-amélioration du Four Polaire Surchauffé
+* **Champi-colonies** (`seedType: 1300`) — `info` : dégâts 20×4/1.9s → (20+20×8)×4/1.9s (FR en retard sur l’EN)
+* **Virevoltant Sabre** (`seedType: 1465`) — `info` : « Ses attaques contrent » → « Son attaque peut contrer » + « (usage unique) »
+* **Virevoltant Bouclier** (`seedType: 1466`) — `info` : « Ses attaques contrent » → « Son attaque peut contrer » + « (usage unique) »
+* **Champi-bouclier d'Eau** (`seedType: 1470`) — `info` : ajout de la ligne Dégâts 30/1.5s et de « 50 % de réduction des dégâts » avec charge > 0
+* **Lithops Sabre** (`seedType: 1476`) — `info` : 40/2s → 40/1s
+* **Lithops Bouclier** (`seedType: 1477`) — `info` : 40/2s → 40/1s
+* **Lithops d'Eau** (`seedType: 1479`) — `info` : 30/2s → 30/1s
+* **Givrebec (amical)** (`seedType: 4001`) — `info` : 100 Soleil → 50 Soleil
+* **Pot Pyroboros** (`seedType: 5005`) — `info` : bonus de vitesse d’attaque 1 %/5 % → 10 %/5 % ; suppression de la phrase [Vraie Cerise Explosive]
+
+## 🛠️ Modified Zombies
+* **Givrepoil Ancien** (`theZombieType: 57`) — `info` : retrait de la ruée de 2 cases à l’apparition et d’une phrase absente de l’EN et du chinois (apparition de Givrepoil sur bloc de glace détruit)
+* **Givrebec (hostile)** (`theZombieType: 98`) — `info` : 100 Soleil → 50 Soleil
+* **Automate à Tourelle** (`theZombieType: 99`) — `info` : ajout : non renvoyable par Ombrelle Pastèque/Égide (renvoyable par Champi-boucliers) ; contre dans une zone de 3×3
+
+## 🧵 New String Entries Added
+* **-------Strings - 4.0.5 Misc**
+* **神笔马良**
+* **木头\n神笔**
+* **白银\n神笔**
+* **黄金\n神笔**
+* **钻石\n神笔**
+* **点击神笔作画，画出什么就给什么植物\n如果你画的植物看起来越强，他就会真的越强\n高级画笔画出植物数值上限更高**
+* **标准模式**
+* **抽象模式**
+* **以你画出的植物代替植物的贴图**
+* **定制模式**
+* **植物的贴图丢失了，因此数值降低99%\n鼠标放在植物上点按键盘D为其绘制贴图，画的越像植物强度越高**
+* **塔防模式2**
+* **究极投手\n皮肤挑战**
+* **月神-中秋\n皮肤挑战**
+* **究极投手皮肤挑战**
+* **究极月神卷心菜皮肤挑战**
+* **冬夜**
+* **僵尸进家失败**
+* **二创植物**
+* **二创僵尸**
+
+## ♻️ Modified String Entries
+* **塔防模式** — `value` : Mode tower defense → ZombiesTD Classique 1
+
+## 🧭 New Travel Buff Entries Added
+* **Élan synchronisé** (`advancedBuffs: 2010`)
+* **Brasier omnicide** (`advancedBuffs: 3010`)
+* **Transcendance : Chagrin** (`advancedBuffs: 12027`)
+* **Omnipotence** (`advancedBuffs: 13046`)
+* **Omnipotence - A** (`advancedBuffs: 13047`)
+* **Omnipotence - B** (`advancedBuffs: 13048`)
+* **Omnipotence - X** (`advancedBuffs: 13049`)
+
+## 🔁 Modified Travel Buff Entries
+* **advancedBuffs.36** — `desc` : ajout « Sous-espèce Pot Pyroboros débloquée | » ; nom de plante réaligné sur le glossaire (Torche Souffle-de-dragon → Piment Souffle-du-Dragon)
+* **advancedBuffs.3002** — `desc` : l’effet Jalapeño plein terrain est remplacé par les propriétés de Cerise Explosive des explosions de Jalapeño et le bonus de dégâts des cerises explosives proportionnel au nombre de Sulfateuses à Grenades ; nom réaligné sur le glossaire (Bois-écraseur Infernal → Écraseur Infernal)
+* **advancedBuffs.3009** — `desc` : réalignement sur l’EN 4.0.5 (+100 % par plante de glace, de neige et de feu ; point final retiré)
+* **ultimateBuffs.51** — `desc` : ajout « les projectiles du Commando Mélancolique traquent désormais les zombies » ; termes réalignés (Pois-sniper Synchroniseur → Pois Sniper Synchroniseur, Ultime → Capacité Ultime comme l’almanach 985)
 
 ---
 

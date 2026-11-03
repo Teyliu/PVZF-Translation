@@ -146,7 +146,7 @@
         },
         "36": {
             "name": "",
-            "desc": "Torche Souffle-de-dragon : fréquence d'explosion ×2"
+            "desc": "Sous-espèce Pot Pyroboros débloquée | Piment Souffle-du-Dragon : fréquence d'explosion ×2"
         },
         "37": {
             "name": "",
@@ -328,6 +328,10 @@
             "name": "Baroud d'honneur",
             "desc": "Quand les zombies hypnotisés meurent, ils explosent et infligent des dégâts égaux à 150% de leurs PV max aux zombies proches"
         },
+        "2010": {
+            "name": "Élan synchronisé",
+            "desc": "Pour chaque bonus de 1% de vitesse d’attaque qu’une plante obtient, elle reçoit également un bonus de 1% de dégâts d’attaque"
+        },
         "3000": {
             "name": "",
             "desc": "Quand Cerizilla et Noix d'Obsidienne (ou leurs sous-espèces) sont présentes ensemble, Cerizilla/Aillizilla n'a plus de plafond de Robustesse maximal, et Noix d'Obsidienne/Mine Obsidienne gagne 90% de réduction de dégâts"
@@ -338,7 +342,7 @@
         },
         "3002": {
             "name": "",
-            "desc": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, et le Bois-écraseur Infernal et sa sous-espèce déclenchent un effet de Jalapeño sur tout le terrain s'ils ne peuvent pas planter de plante Épicée"
+            "desc": "La Sulfateuse à Grenades répartit désormais ses tirs uniformément sur trois rangées avec des trajectoires sinusoïdales et cosinusoïdales, les explosions de Jalapeño des Écraseurs Infernaux acquièrent les propriétés des explosions de Cerise Explosive, et les cerises explosives infligent davantage de dégâts, proportionnellement au nombre de Sulfateuses à Grenades, après avoir traversé les Écraseurs Infernaux"
         },
         "3003": {
             "name": "",
@@ -366,7 +370,11 @@
         },
         "3009": {
             "name": "",
-            "desc": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui double pour chaque plante de glace et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée."
+            "desc": "Le Champi-nator génère désormais des Zombies Noix d'Obsidienne Griffe-de-glace, le projectile principal du Champi-napalm se divise en une Pastèque d'Obsidienne supplémentaire infligeant des dégâts de zone égaux à la puissance d'attaque d'origine de la pastèque, qui augmente de 100% pour chaque plante de glace, de neige et de feu présente sur la pelouse, et une synergie entre les malus Enflammé et Froid est débloquée"
+        },
+        "3010": {
+            "name": "Brasier omnicide",
+            "desc": "L’Étincelle Infernale enflamme désormais toute la pelouse au lieu d’une seule rangée lorsqu’elle génère une plante Épicée. Les projectiles du Triple Pisto-pois Phénix Épique et du Drone Phénix Épique se divisent sur toutes les rangées lorsqu’ils traversent l’Étincelle Infernale"
         },
         "4000": {
             "name": "",
@@ -672,6 +680,10 @@
             "name": "Transcendance : Index magique",
             "desc": "Le Railgun de l’Apoicalypse tire désormais un rayon lumineux continu"
         },
+        "12027": {
+            "name": "Transcendance : Chagrin",
+            "desc": "Le Commando Mélancolique déclenche désormais toujours sa Capacité Ultime, mais avec deux fois moins de projectiles"
+        },
         "13000": {
             "name": "Protection antidéflagrante",
             "desc": "Les dégâts des explosions du Zombie Diable à ressort sont réduits à 1 000"
@@ -855,6 +867,22 @@
         "13045": {
             "name": "Tempête d’éclairs - X",
             "desc": "Les Éclairs attaquent désormais en continu, sans interruption"
+        },
+        "13046": {
+            "name": "Omnipotence",
+            "desc": "Augmente la Chance de 25 points, les dégâts d’attaque globaux de 10%, accorde 1 relance et réduit le temps de réapparition de 10%"
+        },
+        "13047": {
+            "name": "Omnipotence - A",
+            "desc": "Augmente la Chance de 50 points, les dégâts d’attaque globaux de 20%, accorde 2 relances et réduit le temps de réapparition de 20%"
+        },
+        "13048": {
+            "name": "Omnipotence - B",
+            "desc": "Augmente la Chance de 75 points, les dégâts d’attaque globaux de 10%, accorde 3 relances et réduit le temps de réapparition de 30%"
+        },
+        "13049": {
+            "name": "Omnipotence - X",
+            "desc": "Toutes les plantes de la pelouse reçoivent un bonus de 500% de PV, un bonus de dégâts indépendant de 300%, un bonus de 200% de vitesse d’attaque, 60% de chance de coup critique et 150% de dégâts critiques"
         },
         "14000": {
             "name": "On n’a rien sans rien",
@@ -1112,7 +1140,7 @@
         },
         "51": {
             "name": "",
-            "desc": "Commando Chevrotine : dégâts de l'Ultime de tous les Commandos ×2 et ne se dispersent plus | Pois-sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
+            "desc": "Commando Chevrotine : dégâts de la Capacité Ultime de tous les Commandos ×2 et ne se dispersent plus, les projectiles du Commando Mélancolique traquent désormais les zombies | Pois Sniper Synchroniseur : tirs requis avant de déclencher un Tir à la tête pour tous les Pois-sniper -3"
         },
         "52": {
             "name": "Formation d'obsidienne",
