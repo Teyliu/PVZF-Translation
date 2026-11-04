@@ -22,7 +22,7 @@ The download links for the Multi-language Mod and the translation files of the M
 **English 3.9 by silvershadow** | Android | [Github Release](https://github.com/silvershadowkat/pvzf-android-translation/releases/tag/v3.9-release-9)
 **English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
 **Chinese 4.1** | PC | [MEGA](https://mega.nz/file/4nYiybqC#fvpqcDcgNm6S_vUpW0KysRxHDlceNQ3kQZsCTfw50yk) [Google Drive](https://drive.google.com/file/d/183yvh88iNhOnypwPToOqZkUS0DA-s4Fv/view?usp=sharing)
-Chinese 4.1** | Android | [MEGA](https://mega.nz/file/J3I2jbwS#5zXAkb4_5uv-0yVsmNSB3Q3PIu7JTQljIG3fa3rrlwU) [Google Drive](https://drive.google.com/file/d/1cq6LfCI17unLtZXy8iWSt_Ka_iITd0KH/view?usp=sharing)
+**Chinese 4.1** | Android | [MEGA](https://mega.nz/file/J3I2jbwS#5zXAkb4_5uv-0yVsmNSB3Q3PIu7JTQljIG3fa3rrlwU) [Google Drive](https://drive.google.com/file/d/1cq6LfCI17unLtZXy8iWSt_Ka_iITd0KH/view?usp=sharing)
 **Chinese 4.0.5.2** | PC | [MEGA](https://mega.nz/file/43pSVKKQ#vK5Scy7hcxHubT3gf6n0WyUh-u76og3aMwqmKF7suk8) [Google Drive](https://drive.google.com/file/d/1QTC-GXVZSzGPMS1h-5ZPuuglRhJEE0le/view?usp=sharing)
 **Chinese 4.0.5.2** | Android | [MEGA](https://mega.nz/file/FiZyQCLC#XJwpzkSji6hob58PfaPNVYly_kSnPf-LIJqNiIX65Bg) [Google Drive](https://drive.google.com/file/d/1r_i1hDhrXtbyU9qX0btsHVnUV6XCzoLl/view?usp=sharing)
 **Chinese 4.0** | PC | [MEGA1](https://mega.nz/file/icQn1CxC#nOT3QlgcQlcpp3zXZUSmMDQpDAd5xqJqwQFkDXtuCzw) [MEGA2](https://mega.nz/file/QygXhBiI#gKRqZXE9bTjtcONBMqXXR6cTvmKure42305w-axTthA) [Google Drive](https://drive.google.com/file/d/1nZgr6-ler90a93rc2mW6xpPQQoXd1a-Q/view?usp=sharing)
