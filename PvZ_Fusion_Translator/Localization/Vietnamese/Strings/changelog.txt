@@ -4,20 +4,93 @@ Nguồn chính thống có thể truy cập từ link server: <color=#64DD17>dis
 Xin hãy tránh khỏi các trang tải game như <color=#8B0000>pvzfusion.net</color> hay <color=#8B0000>pvzfusion.pro</color> vì bọn họ đã phân phối lại bản mod mà không có sự cho phép chính thức. 
 Bản Việt Hóa được làm bởi team CBD và team Bloom.
 
-<align=center><size=130%>PvZ Fusion 3.6 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Cập Nhật 4.0.5 Changelog</size></align>
 
-1. Làm lại chế độ Luyện Ngục
-- Cho phép lựa chọn các hướng miniboss, kết hợp, chỉnh sửa độ khó mới.
-- Chỉnh sửa chọn miniboss và Cửa Hàng Buff
+1. Ký Ức - Cập Nhật Đêm Tuyết!
+- Điều kiện tiên quyết: Đánh bại Bà Chúa Tuyết ở Phiêu Lưu Bổ Sung - Màn Tuyết 9
+- Vào chơi qua nhóm Màn Gợi Ý
 
-2. Màn chơi mới
-- Minigame mới: Dò Mìn, Osu, Tôi là Zomboss
-- Phiêu Lưu Tinh Hệ: Tuyết
-- Tôi là Zombie Phiêu Lưu chương 5
-- Đêm Tuyết Phiêu Lưu
-- Chế độ Thu Hoạch
+2. Các Vị Thần Tiến Hóa
+- Bách Khoa Toàn Thư Vị Thần mới: có thể mua các lối đi và nâng cấp
+- Tiến trình màn chơi và tiền tệ mới
 
-3. Làm lại Almanac hoàn toàn
-- Almanac giờ sẽ chỉ mở khóa công thức cây một khi bạn ghép cây thành công hoặc được trồng xuống. Bạn cũng có thể mở khóa toàn bộ ở Cài Đặt.
+3. Cây Mới
+- Cây gốc Đêm Tuyết:
+  - Hoa Loa Kèn Tím
+  - Nấm Gươm
+  - Nấm Khiên
+  - Đá Mù
+- Dung Hợp Cơ Bản:
+  - Hoa Ăn Thịt Cắn Băng (Hoa Ăn Thịt + Nấm Băng)
+  - Bí Đè Xương Rồng (Bí Đè + Xương Rồng)
+  - Bí Ngô Gai (Gai > Bí Ngô)
+  - Nấm Khói Lan Tỏa (Nấm Mũm Mĩm + Đậu Ba Đầu)
+  - Nồi Lẩu (Ớt > Chậu Cây)
+  - Hoa Loa Kèn Gươm (Hoa Loa Kèn Tím + Nấm Gươm)
+  - Hoa Loa Kèn Khiên (Hoa Loa Kèn Tím + Nấm Khiên)
+  - Nấm Va Chạm (Nấm Gươm + Nấm Khiên)
+  - Hoa Loa Kèn Nước (Lô Hội + Hoa Loa Kèn Tím)
+  - Nấm Gươm Nước (Lô Hội + Nấm Gươm)
+  - Nấm Khiên Nước (Lô Hội + Nấm Khiên)
+  - Hoa Loa Kèn Đá (Hoa Loa Kèn Tím + Đá Mù)
+  - Đá Mù Gươm (Nấm Gươm + Đá Mù)
+  - Đá Mù Khiên (Nấm Khiên + Đá Mù)
+  - Đá Mù Nước (Lô Hội + Đá Mù)
+  - Đèn Thông Tuyết Gai (Đèn Thông + Cỏ Tuyết Gai)
+  - Đèn Thông Loa Kèn (Đèn Thông + Hoa Loa Kèn Tím)
+  - Đèn Thông Gươm (Đèn Thông + Nấm Gươm)
+  - Đèn Thông Khiên (Đèn Thông + Nấm Khiên)
+  - Đậu Ba Đầu Tuyết (Nấm Băng + Đậu Ba Đầu)
+  - Bẫy Côn Trùng (Hoa Ăn Thịt + Cỏ Ba Lá)
+  - Xương Rồng Nấm Lùn (Xương Rồng > Nấm Lùn, lỗi)
+- Dung Hợp Khổng Lồ:
+  - Đá Tảng Gai (Gai ∞ [Gai Thép] ∞ Gai)
+- Dung Hợp Du Hí:
+  - Giống Con Chung:
+    - Chậu Rồng Lửa (Trúc Hoả Long > Chậu Cây)
+  - Truyền Thuyết:
+    - Định Tinh Toàn Diện Tối Hậu
+  - Độc Quyền:
+    - Commando Máy Bay (Commando Đậu Bão Tố + Cỏ Ba Lá)
+    - Mèo Cao Xạ (Đậu Cao Xạ > Mèo)
+    - Đậu Cao Xạ Bệ (Đào Chậu Cao Xạ)
+    - Commando Buồn Tênh (Commando Đậu Bão Tố + Nấm Bạch Tuộc)
 
-4. Chỉnh sửa bug và tối ưu game
+4. Zombie Mới
+- Thông Thường:
+  - Người Máy Lạc Mất
+  - Người Máy Khiên Lực
+  - Người Máy Lưỡi Dao Rung
+  - Người Máy Cánh Cụt
+  - Người Máy Tuyết Lông
+  - Zombie Cua Tuyết
+  - Người Máy Đầu Súng
+- Trung Lập:
+  - Mỏm Tuyết
+- Du Hí:
+  - Zombie Giáo Băng Đầu Óc Chó Cao
+
+5. Màn Chơi Mới
+- Gacha Du Hí: Cào Quà!
+- Nhóm màn mặc định mới cho Tôi Là Zombie, thay thế nhóm cũ bị RNG lỗi
+- ZombiesTD Cổ Điển 1 & 2 (vào qua Màn Gợi Ý)
+
+6. Chỉnh Đổi Cân Bằng Đáng Chú Ý
+- Chế Độ Nguyền Rủa Du Hí giờ tăng giá Thuộc Tính theo từng đợt
+- Làm lại phối hợp Liên Pháo Anh Đào + Hoả Bộc Bí Đao
+- Phối hợp mới: Hoả Bộc Tinh Cự + SP Hoả Bộc Phượng Lan/Drone
+- Đèn Thông: tăng sản lượng Mặt Trời và thời gian hiệu ứng, tăng thời gian hồi hạt giống để giảm thao tác vi
+- Rong Biển Hủy Diệt: không còn để lại Lá Bèo Hủy Diệt khi nổ
+- Nấm Tình Yêu & Nấm Cupid: tăng tốc độ tấn công, giảm sát thương mỗi phát
+- Làm lại cả hai Thuộc Tính phối hợp Định Tinh [Astral Convergence] và [Celestial Beacon]
+- Phá Lôi Phiến: giờ Thuộc Tính của Định Tinh cũng có hiệu ứng với Phá Lôi Phiến
+- Zombie Huấn Luyện Viên: buff khoảng cách nhảy sào không còn cộng dồn
+- Giáo Sư Z: càng ở trên sân lâu thì càng nguy hiểm
+
+7. Trang Phục Mới
+Độc Lan Đế Bẻ Sóng
+Nguyệt Thần Bạch Cải Rằm Trăng
+
+8. Làm lại mã trình soạn thảo code của Super Level Editor (chưa dịch)
+
+9. Các sửa lỗi bug và tối ưu hóa khác.

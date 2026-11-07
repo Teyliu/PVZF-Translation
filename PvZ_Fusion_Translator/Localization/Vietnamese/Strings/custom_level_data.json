@@ -1,146 +1,398 @@
-﻿{
-    "level_1772710664724_lig7sqzv5": {
-        "name": "Phiêu Lưu Du Lịch: Màn 17",
-        "startTip": ""
-    },
-    "level_1772718364411_erw9i6bmq": {
-        "name": "Thần: Sự Trả Thù của Mộng Lạc",
-        "startTip": "Ôi trời, dòng họ nhà Bí Đè này tài năng phết nhỉ?\nTừ Bí Đè thoải mái, Bí Đè ham chơi, Bí Đè quyến rũ\nBí Đè nghiêm túc, Bí Đè bùng nổ, Bí Đè bùng cháy - đây đúng là như 1 bộ phim mà!\nVà thêm 1 Bí Đè vừa dọn <U><color=#B8860B><SIZE=20>toàn sân</SIZE></color>!</U>\nCùng với đó chính là <U><SIZE=20><color=#F08080>\"Công Chúa\" Mộng Lạc</SIZE></color>!</U>"
-    },
-    "level_1772722911574_8n760typj": {
-        "name": "Sát Thủ Alpha",
-        "startTip": "Binh đoàn Alpha đã cử các sát thủ tinh nhuệ nhất của họ nhằm lấy não, hãy đảm bảo đừng để bọn chúng tiêu diệt các cây đằng sau phòng tuyến."
-    },
-    "level_1772794811952_9hc854i7q": {
-        "name": "Đập Bình: Phòng Không Điên Cuồng",
-        "startTip": "1 điều mà chắc chắn <i>không một ai</i> biết,  Cao Xa Hủy Diệt có thể \"bắn trúng\" Zombie bay luôn.\nKhi nhắm mục tiêu, phát bắn cũng sẽ xuyên qua mọi thứ khác.\nTới lục tiêu diệt đám bay nào!\nLưu Ý: Một khi cây chết, bạn sẽ thua!"
-    },
-    "level_1772872400910_vnoc3otz4": {
-        "name": "Siêu Dò Mìn",
-        "startTip": "<SIZE=26><color=white>\n<align=left><U>Óc Chó Gai - 0</U>\n<U>Óc Chó Sao - 1</U>\n<U>Óc Chó Cải - 2</U>\n<U>Óc Chó Anh Đào - 3</U>\n<U>Óc Chó Lửa - 4</U>\n<U>Óc Chó Băng - 5</U>\n<U>Óc Chó Bạc - 6</U>\n\t<U>Óc Chó Mê Hoặc - 7</U>\n\t<U>Óc Chó Hủy Diệt - 8</U>\n<align=center></color><U>Mỗi loại óc chó sẽ cho biết số mìn xung quanh nó\nDùng Cực Hàn Âm Đậu để đánh dấu mìn - có tới 58 cái đấy, chúc vui vẻ!\n\n\n\n\n\n\n\n\n\n\n</U>"
-    },
-    "level_1772957930451_1hk8aodya": {
-        "name": "Cuộc Đối Đầu Của Lá Bèo",
-        "startTip": "<size=15>Nhỏ Nhắn</size>\n<size=50>Sức Mạnh Lớn!</size>"
-    },
-    "level_1773140970286_7bsqxg8pe": {
-        "name": "Tái Cấu Trúc",
-        "startTip": "<size=24><align=left><color=white>Luật Cơ Bản:\n<size=18>Cây Du Lịch: Tắt\nGăng Tay CD: 0\nThời Gian Mỗi Đợt: 40 giây\nMặt Trời Tự Nhiên: Tắt\nZombie rơi ra mặt trời: Bật\nPhân tách cây: Bật\n\n<size=144>\n<align=center><size=15></color>Độ khó 0-5 đều được. Danh sách kia là những gì đã chỉnh sửa trong màn này.\n8 cây đầu trong ô thẻ chỉ có mua 1 lần duy nhất, còn lại là vĩnh viễn (với thời gian hồi nhanh hơn).\nDùng khả năng phân tách vá ghép cây để được cây tốt hơn: nếu bạn làm đúng, bạn còn có thể tạo ra cây cơ bản.\nLưu Ý: Chỉ số cây không đổi\n<size=300>\n"
-    },
-    "level_1773141401946_ajdjyjtmr": {
-        "name": "Đập Bình: Mê Hoặc",
-        "startTip": "<size=24><align=left>Luật Cơ Bản:\n<size=18>Sát thương Zombie: 2×\nCây du lịch: Tắt\n<size=242>\n<align=center><size=18>Thuần giải đố, Độ Khó Khuyến Nghị: 0-3 (còn không thì sẽ rất khó để giải)\nDanh sách bên trái là những gì đã chỉnh sửa cho màn chơi, hãy đọc trước khi chơi.\nThử Thách: Hoàn thành màn này mà không dùng Nấm Thôi Miên trong kho cây của bạn.\n<size=300>\n"
-    },
-    "level_1774004769526_za6f7yoy5": {
-        "name": "Gacha Luyện Ngục: Đập Bình",
-        "startTip": ""
-    },
-    "level_1774021232832_2o5a8h8md": {
-        "name": "Gacha Luyện Ngục: Kim Cương",
-        "startTip": "Ngươi nên chấp nhận số phận này\nMột khi bước trên con đường này\n-------------\nĐộ Khó Khuyến Nghị: 0-4\nNên tắt Miniboss sẽ xuất hiện trong gacha.\nThử Thách: Hoàn thành màn chơi với cả 3 tùy chọn gacha đều đã bật"
-    },
-    "level_1774109191871_tfirdlefk": {
-        "name": "Thần: Thời Không Hỗn Loạn",
-        "startTip": ""
-    },
-    "level_1774119630318_rld1qhxlg": {
-        "name": "Cái Chết Vĩnh Hằng",
-        "startTip": "\nBạn sẽ thấy toàn bộ điều chỉnh màn chơi bằng cách vào chỉnh sửa hoặc nhấn H để kiểm tra cây.\nBúa bị cấm.\nZombie trong đây đã giảm máu nhưng tăng sát thương và số lượng.\n\n            Nhấn vào                 Chúc May Mắn                    Để Bắt Đầu"
-    },
-    "level_1774164065908_1y752bodf": {
-        "name": "Tôi là Zombie: Chào Mứng Tới Bóng Tối",
-        "startTip": "1 màn I'm Zombie điển hình.\nNhư bạn thấy, bạn cần hành động nhanh và xử lý Đèn Lồng ở đầu màn.\nĐộ Khó Khuyến Nghị: 4-5 (nếu không thì sẽ không thể giải)\nTác Giả: 窩是fvv, Giải Pháp Tối Ưu: Còn 375 mặt trời"
-    },
-    "level_1774174308190_dakkzec42": {
-        "name": "Màn Trống (Chỉnh sửa màn này để về mặc định)",
-        "startTip": ""
-    },
-    "level_1774316229611_6nctetuy8": {
-        "name": "Kẻ Lạc Mộ",
-        "startTip": "Dụ Zombie Đu Xà với Kẻ Ăn Mộ. Cố gắn tiết kiệm đi.\nBuff Bất Tử đã được kích hoạt trong màn này.\u000BThử Thách: Hoàn thành màn chơi mà không cần buff Bất Tử"
-    },
-    "level_1774355110855_hcqameykh": {
-        "name": "Thần: Song Kiếm Hợp Bích",
-        "startTip": "Tác Giả: 怪猫_SC(Bilibili)\n\n<b><size=25><color=orange>Hỏa Lực Áp Đảo</color>\n<color=red><color=#2A2A72>Ta Là Truyền Kì</color>\n<color=yellow>Hàn Không Tinh Vũ</color>\nToàn bộ đều được kích hoạt.</size></b>\n\n\n"
-    },
-    "level_1774355113900_swfar1lf9": {
-        "name": "Kẻ Xâm Lấn",
-        "startTip": "Găng Tay trong màn này đã giảm thời gian hồi, tận dụng cho tốt vào!\n[Cảnh Báo: Màn cực khó, hãy thận trọng]\n<i>Bảo vệ mỗi ô đất mà bạn có!</i>\n\n\n\n\n\n\n\n\n<size=25>Đảm bảo Chậu Hoa sống sót!</size>\n<size=16>Gợi Ý: Zombie giáp sắt quá khó chịu? Dùng các cây nam châm đi.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
-    },
-    "level_1774406542551_2cbqzyxbk": {
-        "name": "Đập Bình: Sụp Đổ",
-        "startTip": "<size=24><align=left>Luật Cơ Bản:\n<size=18>Sát Thương Zombie: 2×\nTốc Độ Zombie: 0.8×\nCây du lịch: Tắt\n<size=18>Trọng Lực: Bật\n<size=24>Buff:\n<size=18>Khống Chế Biến Số\nCho mỗi 100 lần bị tấn công đầu tiên, Zombie khi bị sát thương sẽ được 0.1 giây bất tử\n\n<size=120>\n<align=center><size=18>Thuần Giải Đố, Độ Khó Khuyến Nghị: 0-3 (còn lại có thể không thể giải được)\n\nBản bên trái là thông tin bạn cần biết trước khi chơi.\nThử Thách: Hoàn thành màn chơi mà không dùng Bom Anh Đào Hủy Diệt.\n<size=300>\n"
-    },
-    "level_1774599144997_0qpxg22jh": {
-        "name": "Thần: Trở Về Ban Đầu",
-        "startTip": "<color=red>Màn này là sao? Chúng ta bị thoái hóa à?</color>\n*<color=yellow>Thú vị. Dù sao thì, cẩn thận Zombie bay và búa trong đây hồi nhanh hơn ấy.</color>\n<color=green>Cây hỗ trợ: Dù Lục Bảo/Thủy Quái Cơ Khí/Óc Chó Cao/Thời Không Tận Thế</color>"
-    },
-    "level_1774599184523_5jzbx956k": {
-        "name": "Cái Chết Từ Trên Không",
-        "startTip": "Bạn sẽ đối đầu với Zombie đu dây và Zombie bay.\n<color=#FF0000>Khi tới cuối màn, chiến thắng sẽ quyết định ngay trên không!</color>"
-    },
-    "level_1774600503668_1dle8ve5z": {
-        "name": "Đập Bình: Đi Theo Chỉ Dẫn",
-        "startTip": "Zombie Đội Mũ Giao Thông sẽ không làm bạn với Imps sau màn này..."
-    },
-    "level_1774600505253_39nuh24z7": {
-        "name": "Đập Bình: Bậc Thày Chiến Thuật",
-        "startTip": "Màn Cực Khó!\n\nHãy dùng Zombie để trị Zombie.\nCố gắng thu hoạch sắt vụn và ghép với cây.\nKhả năng của chúng sẽ hiệu quả trong việc kiềm chế chúng.\nĐộ Khó Khuyến Nghị: 3"
-    },
-    "level_1774600506836_lz1dqhcyv": {
-        "name": "Đập Bình: Từng Anh Đào Một",
-        "startTip": "Có thể chơi ở bất kì độ khó nào.\n              \nCố gắng tạo thật nhiều anh đào để tiêu diệt Zombie!"
-    },
-    "level_1774600996701_vpgpfkk2l": {
-        "name": "Mặt Đất Sụp Đổ",
-        "startTip": "Buff Áp Đảo đã được kích hoạt."
-    },
-    "level_1774611032370_90xngigri": {
-        "name": "Ngưng Động",
-        "startTip": "Màn chơi này theo độ khó 5 và rất khó: chọn độ khó một cách thận trọng! (Đã sửa spawn; chỉ chỉnh sửa giảm sát thương).\nTrồng Bí Ngô thì tốn khoảng 2 giây.\nThời gian hồi Găng Tay là 25 giây, và bạn chỉ có thể trồng 1 chậu hoa duy nhất!\nCho \"trải nghiệm\" tốt nhất, đừng nhấn phím H để kiểm tra khả năng tạo Cỏ 3 Lá của Bí Ngô Ba Lá.\nNếu bạn muốn khó hơn, hãy chỉ dùng Nấm Nguyên Tử trong kho thẻ của bạn."
-    },
-      "level_1774627145655_lu7rlfvtm": {
-        "name": "Mê Hoặc Gấp Ba",
-        "startTip": "Găng Tay trong màn này không có thời gian hồi, cây hồi nhanh hơn và bạn có thể tách cây.\nTận dụng khả năng phân tách với Nấm Lùn đi nhé.\nChúc May Mắn."
-      },
-    "level_1774628038557_3pvkpu1ls": {
-        "name": "Đập Bình: Bão Tuyết",
-        "startTip": "Gai Nảy Bật có thể làm chậm Tiểu Thú Tuyết hiệu quả.\nCực Hàn Âm Đậu có thể giúp Đậu Băng bắn đạn gây hiệu ứng băng cấp 2.\nCó 2 bình chứa Vua Tuyết Quái bên trong, nhớ cẩn thận!"
-    },
-    "level_1774710505815_jh5iw4yiw": {
-        "name": "Tôi là Zombie: Rải Thảm",
-        "startTip": "<size=18>Nấm Nguyên Tử có thể tiêu diệt cây cùng ô, và có thể ghép với cây khác để kích hoạt vụ nổ.\nĐộ Khó Khuyến Nghị: 0, Tác Giả: 小董玩的好, Giải Pháp Tối Ưu: Còn 500 mặt trời"
-    },
-    "level_1774710599909_xva2v02e6": {
-        "name": "Tôi là Zombie: Rải Thảm",
-        "startTip": "<size=18>Nấm Nguyên Tử có thể tiêu diệt cây cùng ô, và có thể ghép với cây khác để kích hoạt vụ nổ.\nĐộ Khó Khuyến Nghị: 0, Tác Giả: 小董玩的好, Giải Pháp Tối Ưu: Còn 500 mặt trời"
-    },
-    "level_1774710754764_sdyk3rfkv": {
-        "name": "Tôi là Zombie: Rải Thảm",
-        "startTip": "<size=18>Nấm Nguyên Tử có thể tiêu diệt cây cùng ô, và có thể ghép với cây khác để kích hoạt vụ nổ.\nĐộ Khó Khuyến Nghị: 0, Tác Giả: 小董玩的好, Giải Pháp Tối Ưu: Còn 500 mặt trời"
-    },
-    "level_1774710985333_cmls4g3rt": {
-        "name": "Tôi là Zombie: Rải Thảm",
-        "startTip": "<size=18><size=18>Nấm Nguyên Tử có thể tiêu diệt cây cùng ô, và có thể ghép với cây khác để kích hoạt vụ nổ.\nĐộ Khó Khuyến Nghị: 0, Tác Giả: 小董玩的好, Giải Pháp Tối Ưu: Còn 500 mặt trời\n(Search the submitter's name on Bilibili for a walkthrough)"
-    },
-    "level_1774710991748_nlx90py2s": {
-        "name": "Độc Cô Cầu Bại",
-        "startTip": "Nhấn vào ô cây để bắt đầu\nKhông được phép sai lầm ngay từ đầu, sẳn sàng thí bất kì khi nào đi."
-    },
-    "level_1774801162568_qibeat3la": {
-        "name": "Nhào Lộn Thể Hình",
-        "startTip": "Thiết kế cho độ khó 5, nhưng bạn có thể tùy chỉnh độ khó nếu muốn.\nTung hứng là kỹ năng cơ bản trong bộ môn nhào lộn.\nNhững bậc thầy có thể đánh giá trình độ của một người chỉ bằng cách xem khả năng nhào lộn.\nMàn chơi này sẽ test khả năng đó.\nKhông sao nếu bạn làm mất, bạn vẫn sẽ còn 1 cái dự phòng.\nNhưng 1 bậc thầy sẽ không cần những thứ đó! (Như là búa, Hoa Lan Lửa, à mà nếu là Phân Bón tự nhiên thì không sao)\n(Màn này yêu cầu điều khiển chính xác, hãy sẳn sàng chơi màn này với tốc độ chậm liên tục! À mà đừng lo, màn này không lâu đâu)\n\n\n\n"
-    },
-    "level_1774801181976_029hel9es": {
-        "name": "Nhào Lộn Thể Hình",
-        "startTip": "Thiết kế cho độ khó 5, nhưng bạn có thể tùy chỉnh độ khó nếu muốn.\nTung hứng là kỹ năng cơ bản trong bộ môn nhào lộn.\nNhững bậc thầy có thể đánh giá trình độ của một người chỉ bằng cách xem khả năng nhào lộn.\nMàn chơi này sẽ test khả năng đó.\nKhông sao nếu bạn làm mất, bạn vẫn sẽ còn 1 cái dự phòng.\nNhưng 1 bậc thầy sẽ không cần những thứ đó! (Như là búa, Hoa Lan Lửa, à mà nếu là Phân Bón tự nhiên thì không sao)\n(Màn này yêu cầu điều khiển chính xác, hãy sẳn sàng chơi màn này với tốc độ chậm liên tục! À mà đừng lo, màn này không lâu đâu)\n\n\n\n"
-    },
-    "level_1774957409257_kfe1y67i8": {
-        "name": "Nhào Lộn Thể Hình",
-        "startTip": "Thiết kế cho độ khó 5, nhưng bạn có thể tùy chỉnh độ khó nếu muốn.\nTung hứng là kỹ năng cơ bản trong bộ môn nhào lộn.\nNhững bậc thầy có thể đánh giá trình độ của một người chỉ bằng cách xem khả năng nhào lộn.\nMàn chơi này sẽ test khả năng đó.\nKhông sao nếu bạn làm mất, bạn vẫn sẽ còn 1 cái dự phòng.\nNhưng 1 bậc thầy sẽ không cần những thứ đó! (Như là búa, Hoa Lan Lửa, à mà nếu là Phân Bón tự nhiên thì không sao)\n(Màn này yêu cầu điều khiển chính xác, hãy sẳn sàng chơi màn này với tốc độ chậm liên tục! À mà đừng lo, màn này không lâu đâu)\n\n\n\n"
-    },
-    "level_1775048626512_f9xv3240i": {
-        "name": "Lỗi: File Dữ Liệu Hỏng",
-        "startTip": "Phát hiện file dữ liệu hỏng, đang chạy tiến trình hồi phục.\n<color=#FF0000>Hồi phục thất bại!</color>\nLỗi: File màn chơi <color=#6C6C6C>kết hợp</color> với các file khác!\n"
-    }
+{
+  "level_1772710664724_lig7sqzv5": {
+    "name": "Du Hành Phiêu Lưu: Màn 17",
+    "startTip": ""
+  },
+  "level_1772718364411_erw9i6bmq": {
+    "name": "Thần: Sự Báo Thù Của Mộng Lạc",
+    "startTip": "Ôi trời, đội hình Bí này toàn tài năng xịn xò thật đấy?\nBí lạnh lùng, Bí trả tiền là thắng, Bí quyến rũ\nBí cứng cỏi, Bí khó lường, Bí nóng bỏng - nội dung sạch bóng mà!\nThậm chí còn có một quả Bí xuất hiện và <U><color=#B8860B><SIZE=20>quét sạch cả sàn nhà</SIZE></color>!</U>\nVà của riêng họ là <U><SIZE=20><color=#F08080>\"Công Chúa\" Mộng Lạc</SIZE></color>!</U>"
+  },
+  "level_1772722911574_8n760typj": {
+    "name": "Xạ Thủ Alpha",
+    "startTip": "Xạ Thủ Alpha!\n(Ừ thì người viết mô tả gốc cũng không cố gắng lắm đâu)"
+  },
+  "level_1772794811952_9hc854i7q": {
+    "name": "Puzzle Phá Chai: Cao Xạ Chống Bay",
+    "startTip": "Như <i>không một ai</i> biết cả, Cao Xạ Huỷ Diệt có thể \"đánh\" cả đơn vị trên không.\nKhi nhắm vào zombie khác, phát đạn cũng vô tình lướt qua bất kỳ thứ gì đang bay ngang.\nThử dùng xem và đánh rơi những kẻ bay lượn khỏi bầu trời!\nLưu Ý: nếu bất kỳ cây nào chết, bạn sẽ thua trận!"
+  },
+  "level_1772872400910_vnoc3otz4": {
+    "name": "Siêu Óc Chó Quét Mìn",
+    "startTip": "<SIZE=26><color=white>\n<align=left><U>Óc Chó Gai - 0</U>\n<U>Óc Chó Sao - 1</U>\n<U>Óc Chó Cải - 2</U>\n<U>Óc Chó Anh Đào - 3</U>\n<U>Óc Chó Lửa - 4</U>\n<U>Óc Chó Băng - 5</U>\n<U>Óc Chó Bạc - 6</U>\n\t<U>Óc Chó Thôi Miên - 7</U>\n\t<U>Óc Chó Hủy Diệt - 8</U>\n<align=center></color><U>Mỗi loại Óc Chó cho biết số mìn xung quanh\nDùng Cực Hàn Âm Đậu để đánh dấu vị trí mìn - tổng cộng 58 quả, chúc may mắn!\n\n\n\n\n\n\n\n\n\n\n</U>"
+  },
+  "level_1772957930451_1hk8aodya": {
+    "name": "Cuộc Chiến Của Lũ Tí Hon",
+    "startTip": "<size=15>Thân hình nhỏ</size>\n<size=50>Sức mạnh lớn</size>"
+  },
+  "level_1773140970286_7bsqxg8pe": {
+    "name": "Tái Cấu Trúc",
+    "startTip": "<size=24><align=left><color=white>Luật cơ bản:\n<size=18>Cây ghép Odyssey: Tắt\nCD của Găng Tay: 0s\nKhoảng cách đợt sóng: 40s\nMặt Trời rơi tự nhiên: Tắt\nZombie rơi Mặt Trời: Bật\nTháo rời Fusion: Bật\n\n<size=144>\n<align=center><size=15></color>Độ Khó 0-5 đều ổn. Bảng bên trái liệt kê mọi chỉnh sửa lối chơi của màn này.\n8 cây đầu tiên trong ô của bạn mỗi cây chỉ mua được một lần, trong khi 5 cây còn lại có thể mua vô hạn (có thời gian hồi ngắn).\nHãy dùng tháo rời và ghép lại các cây thành những hình thức có giá trị hơn: nếu chơi đúng cách, bạn thậm chí có thể tạo ra được cả một số cây cơ bản.\nLưu Ý: Chỉ số của cây hoàn toàn không thay đổi\n<size=300>\n"
+  },
+  "level_1773141401946_ajdjyjtmr": {
+    "name": "Puzzle Phá Chai: Thôi Miên",
+    "startTip": "<size=24><align=left>Luật cơ bản:\n<size=18>Sát thương zombie: 2×\nCây ghép Odyssey: Tắt\n<size=242>\n<align=center><size=18>Dành cho người giải đố thuần, Độ Khó Khuyến Nghị: 0-3 (nếu không thì có thể không giải được)\nBảng bên trái liệt kê mọi chỉnh sửa lối chơi của màn này, hãy đọc chúng trước khi chơi.\nThử Thách: Qua màn mà không dùng Nấm Thôi Miên trong ô hạt giống của bạn.\n<size=300>\n"
+  },
+  "level_1774004769526_za6f7yoy5": {
+    "name": "Gacha Du Hành: Phá Chai",
+    "startTip": ""
+  },
+  "level_1781676304315_0vcqeel6q": {
+    "name": "3.6.1 Gacha Du Hành: Luyện Ngục Kim Cương",
+    "startTip": "Hãy chấp nhận những trò đùa của định mệnh\nKhi đã đặt chân lên con đường này\n-------------\nĐộ Khó Khuyến Nghị: 0-4\nKhuyến nghị tắt các Mini-boss\nThử Thách: Qua màn với cả 3 cài đặt liên quan đến chế độ Gacha đều được bật"
+  },
+  "level_1774109191871_tfirdlefk": {
+    "name": "Thần: Xuyên Qua Thời Không",
+    "startTip": ""
+  },
+  "level_1774119630318_rld1qhxlg": {
+    "name": "Bất Tử Vĩnh Hằng",
+    "startTip": "\nBạn có thể xem mọi thay đổi cân bằng trong màn này qua Trình Sửa hoặc bằng cách dùng phím H trên cây.\nBúa bị cấm trong màn này.\nZombie trong màn này có máu thấp hơn nhưng sát thương cao hơn và số lượng đông hơn.\n\n            Nhấp vào                 Chúc may mắn                    để bắt đầu"
+  },
+  "level_1774164065908_1y752bodf": {
+    "name": "Tôi, Zombie: Chào Đến Hắc Ám",
+    "startTip": "Một màn Tôi, Zombie rất bình thường.\nNhư bạn thấy, bạn cần hành động nhanh và hạ con Lồng Đèn ngay đầu màn.\nĐộ Khó Khuyến Nghị: 4-5 (nếu không sẽ không thể giải được)\nNgười Gởi: 窝是fvv, Giải Pháp Tối Ưu: còn 375 Mặt Trời"
+  },
+  "level_1774174308190_dakkzec42": {
+    "name": "Màn Trống (Sửa tên này để đặt lại cài đặt Trình Soạn Màn)",
+    "startTip": ""
+  },
+  "level_1774316229611_6nctetuy8": {
+    "name": "Vấp Mộ",
+    "startTip": "Làm cho Zombie Nhảy Sào vấp ngã bằng Kẻ Đào Mộ. Hãy tiết kiệm các Kẻ Đào Mộ của bạn.\nModifier Totem Bất Tử được kích hoạt trong màn này.\u000bThử Thách: Qua màn mà không dùng Totem Bất Tử."
+  },
+  "level_1774355110855_hcqameykh": {
+    "name": "Các Vị Thần: Thử Thách Kết Hợp",
+    "startTip": "Người Gởi: 怪猫_SC(Bilibili)\n\n<b><size=25><color=orange>Pháo Anh Đào & Hoả Bộc Bí Đao</color>\n<color=red>Anh Long Đại Đế</color> <color=#2A2A72>Hắc Tảng</color>\n<color=yellow>Thời Không Thần Ngọc Mễ</color> <color=blue>Thời Không Cực Hàn</color></size></b>\n\n\n"
+  },
+  "level_1774355113900_swfar1lf9": {
+    "name": "Nhà Thiết Kế Cảnh",
+    "startTip": "Găng Tay trong màn này có CD ngắn hơn, hãy dùng tốt nó!\n[Cảnh báo độ khó cao: hãy thử với thận trọng]\n<i>Hãy trân trọng từng mảnh đất bạn có!</i>\n\n\n\n\n\n\n\n\n<size=25>Bảo vệ Chậu Cây của bạn!</size>\n<size=16>Mẹo: zombie kim loại quá trâu để mó mẫm? Có lẽ bạn cần chút sức mạnh từ tính.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1774406542551_2cbqzyxbk": {
+    "name": "Puzzle Phá Chai: Chảy Nóng",
+    "startTip": "<size=24><align=left>Luật cơ bản:\n<size=18>Sát thương zombie: 2×\nTốc độ zombie: 0.8×\nCây ghép Odyssey: Tắt\n<size=18>Trọng Lực Cao: Bật\n<size=24>Tuỳ Chỉnh:\n<size=18>Vụ nổ Hủy Diệt không để lại Crater\nZombie có 0.1s miễn thương mỗi khi trúng đòn\n\n<size=120>\n<align=center><size=18>Đố Vui Thuần Tuý, Độ Khó Khuyến Nghị: 0-3 (nếu không thì có thể không giải được)\n\nBảng bên trái liệt kê mọi chỉnh sửa lối chơi của màn này, hãy đọc chúng trước khi chơi.\nThử Thách: Qua màn mà không dùng Bom Anh Đào Hủy Diệt trong ô hạt giống của bạn.\n<size=300>\n"
+  },
+  "level_1774599144997_0qpxg22jh": {
+    "name": "Các Vị Thần: Trở Về Cơ Bản",
+    "startTip": "<color=red>Màn này là gì vậy? Chúng ta thoái hóa rồi sao?</color>\n*<color=yellow>Thú vị thật. Dù sao thì, cẩn thận với zombie bay và Búa hồi nhanh siêu tốc trong màn này.</color>\n<color=green>Cây hỗ trợ: Midas/G.M.Nut/Óc Chó Cao/Thời Không Tận Thế</color>"
+  },
+  "level_1774599184523_5jzbx956k": {
+    "name": "Tử Thần Từ Trên Cao",
+    "startTip": "Bạn sẽ phải đối mặt với các đợt tấn công phối hợp của zombie bay và zombie đu dây.\n<color=#FF0000>Khi đến lúc nước rút, người chiến thắng sẽ giáng xuống từ trên cao!</color>"
+  },
+  "level_1774600503668_1dle8ve5z": {
+    "name": "Puzzle Phá Chai: Hãy Theo Cọc",
+    "startTip": "Zombie Đội Cọc Giao Thông chẳng kết thân được mấy với lũ Zombie Tí Hon sau chuyện này..."
+  },
+  "level_1774600505253_39nuh24z7": {
+    "name": "Puzzle Phá Chai: Chiến Lược Sư Tối Cao",
+    "startTip": "Cảnh báo độ khó cao!\n\nMột số zombie có thể được dùng để chống lại zombie khác.\nThử thu thập vật thể kim loại và ghép chúng với một số cây nhất định.\nKhả năng kiểm soát của chúng sẽ giúp bạn xử lý những zombie phiền toái hiệu quả hơn.\nĐộ Khó Khuyến Nghị: D3"
+  },
+  "level_1774600506836_lz1dqhcyv": {
+    "name": "Puzzle Phá Chai: Chọn Anh Đào",
+    "startTip": "Màn này chơi ở độ khó nào cũng được.\n              \nHãy tạo ra càng nhiều anh đào phát nổ càng tốt để quét sạch mọi zombie!"
+  },
+  "level_1774600996701_vpgpfkk2l": {
+    "name": "Đất Nứt Nát",
+    "startTip": "Đã bật trồng theo cột."
+  },
+  "level_1774611032370_90xngigri": {
+    "name": "Đồng Hồ Còi",
+    "startTip": "Màn này dựa trên D5 và khá khó: hãy chọn độ khó khôn ngoan! (spawn cố định; chỉ có thể điều chỉnh giảm sát thương).\nMột lần đung đưa lên xuống trọn vẹn của Bí Ngô xấp xỉ bằng 2 giây.\nCD của Găng Tay tăng lên 25s, và bạn chỉ được trồng Chậu Cây đúng một lần!\nĐể có \"trải nghiệm thực sự,\" thử đừng dùng phím H để xem CD sản xuất của Bí Ngô Ba Lá\nNếu muốn thử thách thêm, hãy qua màn chỉ bằng các Nấm Nguyên Tử trong ô hạt giống của bạn."
+  },
+  "level_1774627145655_lu7rlfvtm": {
+    "name": "Lần Ba Rồi Mãi",
+    "startTip": "Găng Tay trong màn này không có CD, cây hồi nhanh hơn và bạn có thể tháo rời các cây ghép.\nTận dụng tốt đặc tính nhân bản và tháo rời của Nấm Lùn.\nTừ Số Ba, Vạn Vật Sinh Thành."
+  },
+  "level_1774628038557_3pvkpu1ls": {
+    "name": "Phá Chai: Chôn Vùi Trong Tuyết",
+    "startTip": "Gai Nảy Bật có thể làm chậm Zombie Quái Tuyết một cách hiệu quả.\nĐậu Laser Cực Hàn giúp Đậu Băng gây Đóng Băng Sâu lên zombie kháng lạnh.\nCó 2 Zombie Vua Tuyết Quái trong số các bình, cẩn thận với chúng!"
+  },
+  "level_1774710505815_jh5iw4yiw": {
+    "name": "Tôi, Zombie: Bom Càn Quét",
+    "startTip": "<size=18>Nấm Nguyên Tử xóa sổ mọi cây khác cùng ô, và có thể ghép thành các cây ghép cũng làm điều tương tự.\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 500 Mặt Trời"
+  },
+  "level_1774710599909_xva2v02e6": {
+    "name": "Tôi, Zombie: Bom Càn Quét",
+    "startTip": "<size=18>Nấm Nguyên Tử xóa sổ mọi cây khác cùng ô, và có thể ghép thành các cây ghép cũng làm điều tương tự.\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 500 Mặt Trời"
+  },
+  "level_1774710754764_sdyk3rfkv": {
+    "name": "Tôi, Zombie: Bom Càn Quét",
+    "startTip": "<size=18><size=18>Nấm Nguyên Tử xóa sổ mọi cây khác cùng ô, và có thể ghép thành các cây ghép cũng làm điều tương tự.\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 500 Mặt Trời\n(Tên người gởi có trên Bilibili, tìm để xem video hướng dẫn)"
+  },
+  "level_1774710985333_cmls4g3rt": {
+    "name": "Tôi, Zombie: Bom Càn Quét",
+    "startTip": "<size=18><size=18>Nấm Nguyên Tử xóa sổ mọi cây khác cùng ô, và có thể ghép thành các cây ghép cũng làm điều tương tự.\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 500 Mặt Trời\n(Tên người gởi có trên Bilibili, tìm để xem video hướng dẫn)"
+  },
+  "level_1774710991748_nlx90py2s": {
+    "name": "Một Mình Một Kiếm",
+    "startTip": "Nhấp vào ô hạt giống để nâng cấp\nĐầu trận rất ít chỗ cho sai sót, hãy sẵn sàng hy sinh đơn vị nếu cần."
+  },
+  "level_1774801162568_qibeat3la": {
+    "name": "Nghệ Thuật Nhào Lộn",
+    "startTip": "Thiết kế cho Độ Khó 5, nhưng cứ tự do chơi theo kinh nghiệm của bạn.\nJuggling bóng là kỹ năng cơ bản trong nghệ thuật nhào lộn.\nNgười trong nghề đánh giá một diễn viên nhào lộn có được rèn luyện tốt hay không chỉ bằng kỹ năng juggling của họ.\nMàn này kiểm tra bạn ở đúng điểm đó.\nKhông sao nếu bạn làm rơi bóng, mỗi quả đều có một quả dự phòng.\nNhưng một diễn viên nhào lộn chuyên nghiệp không cần sự hỗ trợ ngoài sân khấu! (Như Búa, Hoa Lan Lửa, nhưng Phân Bón xuất hiện tự nhiên thì được)\n(Màn này cần micro-management nặng, hãy chuẩn bị tinh thần chơi liên tục ở chế độ chậm! Nhưng đừng lo, màn biểu diễn sẽ không dài đâu)\n\n\n\n"
+  },
+  "level_1774801181976_029hel9es": {
+    "name": "Nghệ Thuật Nhào Lộn",
+    "startTip": "Thiết kế cho Độ Khó 5, nhưng cứ tự do chơi theo kinh nghiệm của bạn.\nJuggling bóng là kỹ năng cơ bản trong nghệ thuật nhào lộn.\nNgười trong nghề đánh giá một diễn viên nhào lộn có được rèn luyện tốt hay không chỉ bằng kỹ năng juggling của họ.\nMàn này kiểm tra bạn ở đúng điểm đó.\nKhông sao nếu bạn làm rơi bóng, mỗi quả đều có một quả dự phòng.\nNhưng một diễn viên nhào lộn chuyên nghiệp không cần sự hỗ trợ ngoài sân khấu! (Như Búa, Hoa Lan Lửa, nhưng Phân Bón xuất hiện tự nhiên thì được)\n(Màn này cần micro-management nặng, hãy chuẩn bị tinh thần chơi liên tục ở chế độ chậm! Nhưng đừng lo, màn biểu diễn sẽ không dài đâu)\n\n\n\n"
+  },
+  "level_1774957409257_kfe1y67i8": {
+    "name": "Nghệ Thuật Nhào Lộn",
+    "startTip": "Thiết kế cho Độ Khó 5, nhưng cứ tự do chơi theo kinh nghiệm của bạn.\nJuggling bóng là kỹ năng cơ bản trong nghệ thuật nhào lộn.\nNgười trong nghề đánh giá một diễn viên nhào lộn có được rèn luyện tốt hay không chỉ bằng kỹ năng juggling của họ.\nMàn này kiểm tra bạn ở đúng điểm đó.\nKhông sao nếu bạn làm rơi bóng, mỗi quả đều có một quả dự phòng.\nNhưng một diễn viên nhào lộn chuyên nghiệp không cần sự hỗ trợ ngoài sân khấu! (Như Búa, Hoa Lan Lửa, nhưng Phân Bón xuất hiện tự nhiên thì được)\n(Màn này cần micro-management nặng, hãy chuẩn bị tinh thần chơi liên tục ở chế độ chậm! Nhưng đừng lo, màn biểu diễn sẽ không dài đâu)\n\n\n\n"
+  },
+  "level_1775048626512_f9xv3240i": {
+    "name": "Lỗi: Tệp Bị Hỏng",
+    "startTip": "Phát hiện tệp bị hỏng. Đang cố gắng khôi phục.\n<color=#FF0000>Khôi phục thất bại!</color>\nMã thoát: Tệp màn đã  <color=#6C6C6C>ghép</color> với các màn khác!\n"
+  },
+  "level_1777168544138_4oxygnhv8": {
+    "name": "3.6 Tôi, Zombie\nMìn Bí Đè",
+    "startTip": "Sao có nhiều Bí Đè vậy chứ!\nLưu Ý: Ở tốc độ game cao hơn, Zombie Khổng Lồ sẽ bị lỗi và không đập được não.\nNgười Gởi: 鬼爹来咯, Giải Pháp Tối Ưu: còn 525 Mặt Trời\nĐộ Khó Khuyến Nghị: 5"
+  },
+  "level_1777168545338_1ypw3f96h": {
+    "name": "3.6 Tôi, Zombie\nBí Nắng Nụ Cười",
+    "startTip": "<size=18>Độ Khó Khuyến Nghị: 0\n<size=12>Người Gởi: decepticons, Giải Pháp Tối Ưu: còn 750 Mặt Trời\n<size=340>\n<size=18>Đợt sóng lớn Bí Hướng Dương đang tới! Nhưng đừng lo, mọi cây trong màn này đều rơi 50 Mặt Trời khi chết.\nĐừng để Mặt Trời của bạn tụt dưới 100 nếu bạn chưa ăn hết não!\n<size=370>\n"
+  },
+  "level_1777168546497_6rbepzlyl": {
+    "name": "3.6 Tôi, Zombie\nCuồng Nộ Nguyên Tố",
+    "startTip": "<size=18><color=#FFFFFF>Những cây fusion khác nhau sẽ giúp bạn vượt qua màn này!\nHãy tham khảo Cẩm Nang nếu bạn không quen thuộc với cơ chế của chúng.\nLưu Ý: Vì Ớt Nguyên Tử sẽ quá op, <u><color=#FFFF00>nó bị cấm</color></u>. Không được lách luật đâu nhé.\nĐộ Khó Khuyến Nghị: 0, Giải Pháp Tối Ưu: còn 825 Mặt Trời, Người Gởi: 爱嗑猫薄荷</color>"
+  },
+  "level_1777344096752_otvk05eg5": {
+    "name": "Gacha Du Hành: Luyện Ngục Kim Cương",
+    "startTip": "Hãy chấp nhận những trò đùa của định mệnh\nKhi đã đặt chân lên con đường này\n-------------\nĐộ Khó Khuyến Nghị: 0-4\nKhuyến nghị tắt các Mini-boss\nThử Thách: Qua màn với cả 3 cài đặt liên quan đến chế độ Gacha đều được bật"
+  },
+  "level_1777357799808_1so2l94x3": {
+    "name": "3.6 Mini-game\nCuộc Phiêu Lưu Của Đại Thiết Tiềm Hải Độn",
+    "startTip": "Hãy dùng Thủy Quái Cơ Khí thật giỏi và nghiền nát chúng bằng cách triệu hồi Đại Thiết Tiềm Hải Độn!\nÀ quên, bạn có thể chỉnh kích thước camera trong phần cài đặt luôn."
+  },
+  "level_1777367484082_sgllfzxbc": {
+    "name": "3.6 Puzzle\nÉp Bí Nguy Hiểm",
+    "startTip": "Độ Khó Khuyến Nghị: 3\n\nMượn Zombie Đậu Thời Không để Mộng Lạc rơi nhiều thứ hơn!\nĐánh bại zombie bằng các fusion Bí Đè!\nChọn fusion Bí Đè phù hợp tùy vào zombie đang xâm nhập!"
+  },
+  "level_1777384365398_9p625ceet": {
+    "name": "3.6 Mini-game\nVương Quốc Động Vật",
+    "startTip": "Khuyến nghị đã mở khóa Hàn Thiết Cung Thủ\ntrước khi thử màn này."
+  },
+  "level_1777385759836_sndjbb4i0": {
+    "name": "3.6 Mini-game\nChiến Lược Gia Thực Vật",
+    "startTip": "<size=20>Dùng Găng Tay hoặc nhấp trực tiếp vào cây để di chuyển chúng!\nGiết zombie để lấy Mặt Trời mà mua cây hỗ trợ!\nMàn này rất nặng micro. Hãy chọn độ khó cẩn thận."
+  },
+  "level_1777476099947_28kglstpr": {
+    "name": "3.6.1 Tôi, Zombie\nGiấc Mơ Của Nhút Nhát",
+    "startTip": "Việc đặt Đậu Hà Lan cẩn thận rất quan trọng trong màn này, trong khi dùng Nấm Đậu Mũm Mĩm để loại bỏ các vật thể bay không mong muốn.\nĐiều hướng các viên đậu xuyên qua Gốc Cây Lửa Bí để nổ tung Hắc Tảng bằng Bí Đè Hủy Diệt và giành chiến thắng! Có lẽ Nấm Băng và Nấm Lùn cũng có thể giúp bạn dọc đường.\nKhuyến nghị fusion Nấm Nhút Nhát với Cỏ Ba Lá để dọn sạch đạn ở cuối màn.\nĐừng quên bảo vệ cả Hoa Lan Lửa, nếu một trong số chúng chết, bạn sẽ thua!\nNgười Gởi: 灯磁, Giải Pháp Tối Ưu: còn 500 Mặt Trời"
+  },
+  "level_1777476101905_76gkjo79n": {
+    "name": "3.6.1 Tôi, Zombie\nChào Đến Hắc Ám",
+    "startTip": "Một màn Tôi, Zombie rất bình thường.\nNhư bạn thấy, bạn cần hành động nhanh và hạ con Lồng Đèn ngay đầu màn.\nĐộ Khó Khuyến Nghị: 4-5 (nếu không sẽ không thể giải được)\nNgười Gởi: 窝是fvv, Giải Pháp Tối Ưu: còn 375 Mặt Trời"
+  },
+  "level_1777477084191_cd6sah12a": {
+    "name": "3.6.1 Tôi, Zombie\nBăng Mỏng",
+    "startTip": "<size=18>Cơn bão tuyết đầu màn sẽ đóng băng một số cây không được bảo vệ bởi Đèn Thông. Hãy dùng những cây bị đóng băng này để thắng!\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 425 Mặt Trời"
+  },
+  "level_1777477085553_gsp8oxjjy": {
+    "name": "3.6.1 Tôi, Zombie\nSiêu Xấu Xa",
+    "startTip": "<size=18>Bạn sẽ phải bảo vệ các cây trên Dương Thần Chậu khỏi cái chết! Nếu một trong số chúng chết, bạn cũng lập tức thua!\nVậy, bạn có đủ dũng cảm để nhấp vào các Ớt Nguyên Tử không?\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 450 Mặt Trời"
+  },
+  "level_1777477086587_5tnwc8lem": {
+    "name": "3.6.1 Tôi, Zombie\nKhông Thể Lừa Được",
+    "startTip": "<size=15><align=left>[Các cây đã bị thay đổi chỉ số nhưng không có trên bãi cỏ ban đầu]\nĐậu Thời Không: Sát Thương: 1800\nĐậu Sắt: Sát Thương: 0\nNấm Xịt Bầu Dục: Máu: 0\nNấm Nguyên Tử Thời Không: Máu: 0\nNấm Đồng Nát: Máu: 0\nBí Đè Sắt: Sát Thương: 0\nAnh Long Đại Đế: Máu: 0\nBom Khoai Tây: Máu: 0\nDù Vàng: Máu: 0\nNấm Bạch Tuộc: Khoảng cách tấn công: ∞\nDưa Vàng: Sát Thương: 0\nHắc Diệu Địa Lôi: Máu: 1\n\n\n\n\n\n\n\n<size=18><align=center>Nhiều cây trong màn này có chỉ số bị thay đổi, hãy nhớ kỹ khi cố gắng giải màn!\nNhấn H khi đưa chuột lên trên một cây sẽ hiển thị chỉ số của cây, dùng tính năng này có thể giúp màn này dễ hơn nhiều!\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 550 Mặt Trời\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1777477087653_z9zgyyc2y": {
+    "name": "3.6.1 Tôi, Zombie\nCây Sao Chép",
+    "startTip": "<size=18>Cảnh Báo: Màn này khá khó giải!\nMột Cây Sao Chép tốn 325 Mặt Trời để chặn việc farm Mặt Trời. Hãy dùng chúng khôn ngoan để thắng màn!\nHãy suy nghĩ cẩn thận xem làm thế nào để đối phó với hàng 1 Siêu Đậu Anh Đào, hàng 2 Anh Long Đại Đế,\nhàng 3 Nấm Xịt Bầu Dục, hàng 4 Đậu Cao Xạ, và hàng 5 Nấm Mặt Trời Mũm Mĩm!\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 550 Mặt Trời"
+  },
+  "level_1777477365080_24xm784gq": {
+    "name": "3.6.1 Tôi, Zombie\nBom Càn Quét",
+    "startTip": "<size=18><size=18>Nấm Nguyên Tử xóa sổ mọi cây khác cùng ô, và có thể ghép thành các cây ghép cũng làm điều tương tự.\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: còn 500 Mặt Trời\n(Tên người gởi có trên Bilibili, tìm để xem video hướng dẫn)"
+  },
+  "level_1777604380330_wl7hs77yz": {
+    "name": "3.6.1 Mini-game\nBowling Óc Chó: Tiến Hóa",
+    "startTip": "<b>【Lưu Ý: Drone Anh Đào chỉ dùng để thể hiện đường đỏ, không gây sát thương】\n【Khuyến nghị chơi màn này ở độ khó 3】</b>\n<i>Óc Chó Ăn Thịt! Tôi chọn cậu!</i>\n\n\n\n\n\n\n\n\n<size=25>Trong màn này, bạn có thể trồng <b><color=#0000ff>vô hạn</b></color> các óc chó bowling đã mở khóa <b><color=#ff0000>miễn phí</b></color>!\nThử dùng nhiều loại óc chó khác nhau để bowling cho zombie té nhào!</size>\n<size=16>Mẹo: Óc Chó Khổng Lồ rất mạnh, nên chúng vẫn tốn một lượng Mặt Trời nhỏ xíu vô nghĩa khi đặt......</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1777604822219_lqvfwc4en": {
+    "name": "3.6.1 Mini-game\nChậu Tham Lam",
+    "startTip": "<color=#a0a0a0><b>【Màn này có CD găng tay ngắn hơn một chút】</b>\n<i>Tham lam sẽ dẫn đến tự thân diệt diệt thân.</i></color>\n\n\n\n\n\n\n\n\n\n<size=25>Hãy chăm sóc Chậu Mặt Trời thật tốt! Đây là cách chính để bạn lấy Mặt Trời!</size>\n<size=16>Mẹo: Đôi khi, học được cách buông bỏ mới là bài học quan trọng nhất......</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1777604901602_31yl7qzdo": {
+    "name": "3.6.1 Mini-game <b><color=#FF0000>Khả</color><color=#FFE300>Năng</color><color=#62FF00>Thích</color><color=#1B00FF>Ứng</color></b> ",
+    "startTip": "<color=#FF0000><b>【Màn này có xuất hiện theo kịch bản và khá khó! Khuyến nghị chơi ở độ khó 4 trở xuống!】</color>\n<color=#FFE300>【Màn này có nhiều thay đổi, nhớ xem các tuỳ chỉnh và kiểm tra chỉ số của cây nhé!】</color></b>\n<color=#62FF00><i>Một người làm vườn giỏi luôn sẵn sàng cho mọi tình huống.</i></color>\n\n\n\n\n\n\n\n\n\n<size=25>Trong màn này, bạn điều khiển một cây có thể hồi sinh vô hạn và biến hình.\nHãy thử chuyển sang hình thái phù hợp để đối phó với những zombie gây khó khăn!</size>\n<size=16>Mẹo: Nếu bắt đầu bị áp đảo, hãy thử dùng cây tức thì! Mua lần đầu được giảm giá một nửa~</size>\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1777766039181_4jney3lxg": {
+    "name": "3.6.1 Mini-game Vườn Ương Hoàng Gia",
+    "startTip": "<size=18>Bắt đầu từ đợt sóng 10, cây trồng trên Chậu Gai phải đáp ứng yêu cầu <color=yellow> AREA</color> cụ thể (điều kiện chính xác hiển thị ở đợt 6)\n<color=yellow>[AREA]</color> được định nghĩa là: các cây cùng loại kết nối với nhau tạo thành một vùng,\nvà số ô trong vùng đó chính là <color=yellow>AREA</color> của nó.\n<color=#00FFFF>Mẹo: Bạn có thể nhấp chuột phải vào bất kỳ cây nào để xem AREA của vùng mà nó thuộc."
+  },
+  "level_1777864409435_65houbxs9": {
+    "name": "3.6.1 Mini-game Khủng Hoảng Năng Lượng",
+    "startTip": "Nhìn kìa! Đó là một nút năng lượng — hãy bảo vệ nó!\nNhấp vào nút để tạo năng lượng (Hắc Diệu Địa Lôi; tốc độ tạo tăng lên theo mỗi đợt.\nCác ô hạt giống của bạn là căn cứ zombie: chúng không tốn Mặt Trời, nhưng không thể tấn công và có máu rất thấp.\nNhấp vào một căn cứ để tiêu Mặt Trời hiển thị và triệu hồi zombie tương ứng. Đậu Ba Đầu có thể triển khai ở 3 hàng.\n</color></color></color></color></color></color></color><color=#FE0304><color=#FEf></color></color></color><color=#FE0304>Ghép cây bị vô hiệu. Không khuyến nghị dùng chế độ chậm và Phân Bón. Độ Khó Khuyến Nghị: 3 trở xuống.</color>"
+  },
+  "level_1777952273208_leu0r7bfb": {
+    "name": "3.6.1 Tôi, Zombie\nMàn Ác Mộng Của Nhút Nhát",
+    "startTip": "Còn là giấc mơ của Nhút Nhát nữa không vậy?\nChiến Thuật: Mượn Gốc Cây Lửa Bí > Ghép Bí Đè Hủy Diệt > Nổ tung Hắc Tảng\nĐây là dây chuyền Bí Đè cần đậu làm nhiên liệu, nhưng các Gốc Cây Lửa khác không hài lòng về chuyện này.\nBạn có thể lách luật màn bằng Nấm Nhút Nhát, nhưng với cái giá nào?\nKhông có độ khó cố định, Người Gởi: 灯磁, Chưa rõ Giải Pháp Tối Ưu\nP.S.: Hai hàng đó sẽ mất một thời gian dài đến khó chịu. Không sao, đành chấp nhận vậy."
+  },
+  "level_1778122055092_yj4vhqitr": {
+    "name": "3.6.1  <color=#ff5151>Các Vị Thần: Zombie Vs Zombie",
+    "startTip": "<size=32><align=center><color=#ff2d2d>Các Vị Thần: Zombie Vs Zombie</color>\n<size=26><color=#9f5000>Găng Tay Zombie</color> không có CD trong màn này.\n<size=14>Màn này yêu cầu điều khiển vi mô nhiều, hãy chọn độ khó thận trọng.\n<size=14><color=#84c1ff>Khuyến nghị chỉ dùng găng tay zombie với zombie bị thôi miên và zombie tăng viện để có trải nghiệm tốt nhất.</color>\n<size=14>Màn này dùng cài đặt spawn nâng cao, với 60 giây giữa mỗi đợt sóng.\n\n<size=200>\n<align=center><size=16>Trồng một <color=#ae0000>Nấm Phóng Xạ</color> khi đợt zombie đầu tiên đến để thôi miên tất cả chúng!\n<size=18><color=#ffa6ff>Ba zombie tăng viện sẽ đến ở hàng 6 vào các đợt 15/25/35,\ndùng găng tay để tách chúng ra rồi thôi miên bằng Chậu Mê Hoặc.</color>\n<size=16>Đánh bại đội quân zombie đang tiến đến bằng những zombie thôi miên này!\n<size=14><color=#ffff37>Thử Thách Sức Mạnh: Qua màn mà không mất bất kỳ zombie ban đầu hay zombie tăng viện nào!</color>\n<size=310>\n"
+  },
+  "level_1778122091555_oipuz64r3": {
+    "name": "3.6.1 Thần: Thử Nghiệm Dưa Hấu",
+    "startTip": "Zombie đang gây rối? Cho chúng nếm dưa của bạn đi!\nĐừng để Óc Chó Dưa chết!"
+  },
+  "level_1780635498836_of2p1762p": {
+    "name": "3.6.1 Mini-game    <color=#FF0000>Luyện Ngục: Tro Thành Tro",
+    "startTip": "Màn này bắt đầu với hệ số sinh zombie cao nhất có thể, bạn sẽ có 150 giây để bố trí trận hình.\nTrong những đợt sóng lớn sẽ xuất hiện các zombie tinh anh tương tự mini-boss, mỗi con đại diện cho <color=#000000>Tiểu Đoàn Đặc Nhiệm Alpha</color>, <color=#00E3E3>Hải Vương</color>, <color=#BEBEBE>Bạch Vũ Đài Xa</color>, <color=#600000>An Bá Tử Khang</color>, <color=#FF0000>Nữ Hoàng </color><color=#2828FF>Hề</color>, <color=#820041>Nguyên Soái Hắc Thiết</color>, <color=#5E005E>Hắc Diện Vũ Trang Khổng Nhân</color> và <color=#D200D2>Quái Ngư</color>. Hãy chuẩn bị sẵn sàng.\nNhớ xem các Modifier để có trải nghiệm tốt nhất."
+  },
+  "level_1780760938229_6hoexucn9": {
+    "name": "3.7.0 Mini-game   Xâm Lăng: Dự Phòng!",
+    "startTip": "Một số cây đã bị thay đổi cho màn này.\nGăng Tay không có CD trong màn này.\nChú ý, bạn sẽ tự động thua màn này sau 17 phút.\nMột ô hạt giống Cỏ Ba Lá sẽ được cấp sau 10 phút, trồng nó để cố gắng sơ tán. (tốn 1250 Mặt Trời, sơ tán thành công là thắng màn.)\nHạ được Hắc Diện Vũ Trang Khổng Nhân ở đợt sóng cuối cũng tự động thắng màn cho bạn.\u000bBằng phép màu của code, bạn có thể dùng chế độ chậm để giữ chữ trên màn lâu hơn~\nNếu bạn nghĩ màn này quá dễ, hãy thử hạn chế dùng các cây trong ô hạt giống như Hoa Hướng Dương/Ớt Hắc Ám/Pháo Hoa Anh Đào/Táo Từ Trường đến mức tối thiểu hoặc không dùng."
+  },
+  "level_1780837101856_vorc2o4ku": {
+    "name": "3.7.0 Thần: Thử Nghiệm Dưa Hấu",
+    "startTip": "Zombie đang gây rối? Cho chúng nếm dưa của bạn đi!\nĐừng để Óc Chó Dưa chết!"
+  },
+  "level_1780837244022_af05ow96c": {
+    "name": "3.7.0 Mini-game\nVương Quốc Động Vật",
+    "startTip": "Khuyến nghị đã mở khóa Hàn Thiết Cung Thủ\ntrước khi thử màn này."
+  },
+  "level_1780837209820_yjtoz5vd1": {
+    "name": "3.7.0 Mini-game      Cấm Lối Vào",
+    "startTip": "Các cây loại Gai được tăng sát thương khổng lồ! Đừng để bất kỳ Gai Bốc Lửa nào chết!\nNhấp vào Hắc Thạch Gai để chuyển nó sang phân loài và đổi ngược lại!\nGăng Tay không có CD trong màn này. Không khuyến nghị chơi trên điện thoại."
+  },
+  "level_1780837556708_p88p406xs": {
+    "name": "3.7.0 Mini-game   Mẹo Mới Của Cỏ Ba Lá",
+    "startTip": "Cỏ Ba Lá đã thuần thục một mẹo hoàn toàn mới: thổi các cây thành bản thu nhỏ! (Nhưng vì Mìn Khoai Tây và Nấm Mặt Trời vốn đã lùn, nên Cỏ Ba Lá không thể ảnh hưởng chúng.)\nDùng Cỏ Ba Lá để kiểm soát kích thước cây và tránh đạn của Zombotany!\nP.S. Vì tinh thần của màn, hãy thử không nhân bản nấm hay ghép quá nhiều. Các cây ghép được phép: Đậu Tiểu Liên, Đậu Hai Đầu, Đậu Súng Máy, Đậu Sắt và Ớt Hắc Ám.\nDòng Đậu Tí Hon bị nerf chỉ số trong màn này, trong khi Khế thường được buff.\nCỏ Ba Lá có thể thổi lớn lại một cây đã bị thu nhỏ. Trồng một Bí Ngô sẽ cho tất cả cây 10000 khiên."
+  },
+  "level_1780804917778_brmhn2t2t": {
+    "name": "3.7.0 Mini-game   Luyện Kim",
+    "startTip": "<size=18>Chào mừng đến nhà máy luyện kim! Ở đây bạn có thể dùng <color=yellow>luyện kim</color> để xử lý các vật thể kim loại dư thừa!\nCông nghệ này có thể trích xuất vật thể kim loại ra khỏi các cây kim loại, và dùng chúng để mở khóa <color=yellow>nâng cấp luyện kim</color> mạnh mẽ!\n<color=#00FFFF>Nhấp vào nâng cấp luyện kim trong ô hạt giống để xem thêm thông tin. (Chính là chữ Trung Quốc màu vàng ở trên đó.)"
+  },
+  "level_1780983849209_7ktu2g6cd": {
+    "name": "3.7.0 Mini-game Xâm Lăng: Kế Hoạch Diệt Vườn",
+    "startTip": "Cây sẽ được cấp sau khi hoàn thành nhiệm vụ, trong khi zombie sẽ gửi những cuộc xâm lăng ngày càng lớn hơn.\nNhấp vào cây để xem tiến độ nhiệm vụ của bạn. Găng Tay không có CD trong màn này.\n(Màn này là phần tiếp theo của màn: 'Xâm Lăng: Dự Phòng!')"
+  },
+  "level_1780761321421_fvzn0p76x": {
+    "name": "3.7.0 Mini-game  Bảo Vệ Và Sơ Tán",
+    "startTip": "Một số cây đã bị bỏ lại ở chiến trường, và zombie đang nhắm tới chúng!\nNhiệm vụ của bạn là dùng Mặt Trời để giúp những cây này sơ tán an toàn. Để cảm ơn, chúng sẽ tặng bạn tài nguyên như Mặt Trời hoặc ô hạt giống.\nTất cả cây cần sơ tán đều được đánh dấu bằng hố.\nĐừng di chuyển hay ghép những cây này với bất cứ cây nào, nếu không bạn sẽ thua màn.\nMàn sẽ tự động thắng sau khi sơ tán hết cây.\r\n(Tn: Không rõ vì sao tôi không lấy được chuỗi của màn này nên phần còn lại chưa được dịch, xin lỗi Q_Q)"
+  },
+  "level_1781918387541_b2ireh0n8": {
+    "name": "3.7.0 Tôi, Zombie Vô Tận",
+    "startTip": ""
+  },
+  "level_1782008318845_zaq9ufdit": {
+    "name": "3.7 Mini-game Kẻ Cắt Cỏ",
+    "startTip": "<b>Găng Tay trong màn này có CD tăng lên, hãy dùng nó khôn ngoan!\n[Màn này có thêm số lượng zombie, cẩn thận!]</b>\n<i>Thời gian quý hơn vàng.</i>\n\n\n\n\n\n\n\n\n<size=25>Hãy lên kế hoạch cẩn thận cách cân bằng việc chi Mặt Trời cho Chậu và các cây khác...</size>\n<size=16>Thử Thách Bonus: Thử qua màn với lượng Mặt Trời tiêu dùng ít nhất có thể!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1782008394513_hjoll3k8q": {
+    "name": "3.7.0 Mini-game !?Thoát?!",
+    "startTip": "<b>Găng Tay trong màn này có CD ngắn hơn, hãy dùng tốt nó!\n[Cảnh báo độ khó cao: hãy thử với thận trọng]</b>\n<i><size=16>Zombie To Gây Lớn</size></i>\n\n\n\n\n\n\n\n\n<size=25>Zombie đã lớn lên hay cây đã bị thu nhỏ?!</size>\n<size=16>Mẹo: Dùng chuột phải và con lăn để di chuyển và thu phóng camera!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1782008464526_pz17yaqz9": {
+    "name": "3.7 Mini-game !?Đất?!",
+    "startTip": "<b>[Cảnh báo độ khó cao: hãy thử với thận trọng]\n[Một số Modifier được bật trong màn này. Bạn có thể dùng thanh tẩy để giảm độ khó.]</b>\n<i>!?Đào Mìn?!</i>\n\n\n\n\n\n\n\n\n<size=25>Zombie đang đến để giẫm lên khoai tây của bạn! Bảo vệ chúng!\nVì sao phải bảo vệ Mìn Khoai Tây? Vì tao đưaaa điên!!!</size>\n<size=16>Mẹo: Wabi Wabo, tao thích cái vị của tỏi lắm, ợ.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1782642546983_r2y1uocjn": {
+    "name": "3.7.0 Mini-game Phá Hoại Giác Quan",
+    "startTip": "<b>[Cảnh báo độ khó cao: hãy thử với thận trọng]\n[Khuyến nghị bật âm thanh hiệu ứng cho màn này để có trải nghiệm trọn vẹn]</b>\n<i>Tao không phân biệt được! Tao không phân biệt được!</i>\n\n\n\n\n\n\n\n\n<size=25>Zombie đã hack vào hệ thống của bạn!\nCố phân biệt thật giả khi hệ thống âm thanh đang rối tinh rối mù!</size>\n<size=16>Mẹo: Thử nhớ lại thứ tự các cây trong ô hạt giống của bạn!</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1782642575043_0vkbc2fvn": {
+    "name": "3.7.0 Mini-game Khủng Hoảng Năng Lượng-Khu Phá Hoại",
+    "startTip": "Sau khi bảo vệ nút năng lượng lần trước, chúng ta dường như đã rơi vào một không gian bất ổn.\nỐi trời, chiến trường của chúng ta đang phân rã! Hầu hết các cây ghép cũng mất tích luôn. Tệ hơn là chúng ta không có cây nào sản xuất Mặt Trời!\nBíp-Phát hiện hiện tượng C-72, đang xác định màn được nạp.\nXác định thành công, màn được nạp là màn 609-\"Khu Phá Hoại\"."
+  },
+  "level_1783824951429_94tcqoq2u": {
+    "name": "3.8.0 Sáng Tạo Tùy Chỉnh   Giả Lập Gacha",
+    "startTip": "<#FF3>Độ Khó Khuyến Nghị cho màn này: 5. Nhấn esc để xem lại tip này. Bắt đầu với 500 Mặt Trời. Dùng hộp quà ở ô 2 hoặc 5 (ô 5 có tỉ lệ khác, sẽ không liệt kê ở đây) để quay gacha. Mỗi lượt quay tốn 100 Mặt Trời, với các tỉ lệ sau:\n<#272727>15% Rác, <#7B7B7B>20% Thường, <#0072E3>45% Hiếm, <#FF5809>15% Thần Thoại, <#FF0000>5% Huyền Thoại.</color>\n<#FFE><#FFEC>Hộp Quà ô 3: Không rủi ro, 25 Mặt Trời. CD 5 giây. Hộp Quà ô 4: Rủi ro cao, tiêu 200~500 Mặt Trời để nhận 100~500 Mặt Trời. Nhấn hủy để quay lại, tối đa 2 lần. CD 30 giây. Hộp Quà ô 6: buff tùy chỉnh, tự bạn thử cụ thể xem sao.\n<#ff2D2D>Dùng các cây và buff đã thu thập để hạ một Hắc Diện Vũ Trang Khổng Nhân và đạt 5000 Mặt Trời để thắng. (Có thể hoàn thành riêng.) Nhấp vào một cây đã thu thập nếu muốn xóa nó."
+  },
+  "level_1783824952876_6hk7plrdo": {
+    "name": "3.8.0 Mini-game Vượt Rào",
+    "startTip": "<b>[Cảnh báo độ khó cao: hãy thử với thận trọng]\n[Màn này có tốc độ spawn thấp hơn]\n[Đừng quên bảo vệ các Chậu Óc Chó trên bãi cỏ!]</b>\n<i>Leo núi nào!</i></color>\n\n\n\n\n\n\n\n<size=25>Zombie đang tổ chức cuộc thi vượt rào trên bãi cỏ của bạn, và phần thưởng là não của bạn!\nThang đã được đặt lên tất cả các cây của bạn... Mặc dù, có khi đây không hẳn là điều xấu?</size>\n<size=16>Mẹo: Cây dưới thang không thể di chuyển, nên bạn có thể vứt cái găng tay đó đi.</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1784114512548_3nlbxyvwm": {
+    "name": "3.8.0 Tôi, Zombie      Diệt Vong Từ Trên Cao",
+    "startTip": "<size=18>Dưa của Dưa Nguyên Tử có thể tiêu diệt tức thì các cây khác!\nDùng quỹ đạo đạn kỳ quặc của nó để thắng màn này!\nĐúng rồi, đừng quên cơ chế của Lá Bắp Cải và Tổng Tài Bá Đạo!\nĐộ Khó Khuyến Nghị: 0, Người Gởi: 小董玩的好, Giải Pháp Tối Ưu: 575 Mặt Trời."
+  },
+  "level_1784114515280_ta0m57ini": {
+    "name": "3.8.0 Tôi, Zombie   Vượt Qua Rào Cản",
+    "startTip": "<color=#00F8FF>V<color=#08F0FF>ớ<color=#10E8FF>i<color=#18E0FF> <color=#20D8FF>s<color=#28D0FF>ứ<color=#30C8FF>c<color=#38C0FF> <color=#40B8FF>m<color=#48B0FF>ạ<color=#50A8FF>n<color=#58A0FF>h<color=#6098FF> <color=#6890FF>c<color=#7088FF>ủ<color=#7880FF>a<color=#8078FF> <color=#8870FF>n<color=#9068FF>h<color=#8870FF>ữ<color=#9860FF>n<color=#A058FF>g<color=#A850FF> <color=#B048FF>c<color=#B840FF>h<color=#C038FF>i<color=#C830FF>ế<color=#D028FF>c<color=#D820FF> <color=#E018FF>t<color=#E810FF>h<color=#F008FF>a<color=#F800FF>n<color=#FF00FF>g<color=#FF08FF>,<color=#FF10FF> <color=#FF18FF>k<color=#FF20FF>h<color=#FF28FF>ô<color=#FF30FF>n<color=#FF38FF>g<color=#FF40FF> <color=#FF48FF>g<color=#FF50FF>ì<color=#FF58FF> <color=#FF60FF>c<color=#FF68FF>ò<color=#FF70FF>n<color=#FF78FF> <color=#FF80FF>c<color=#FF88FF>ó thể cản đường bạn nữa!\n<color=#FFFF8888>p.s. Nhấp vào một cây để đặt chồng thang lên nó. Sẽ có nhiều hộp thoại bật lên nếu bạn nhấp vào nhiều hơn một cây cùng lúc.\nĐừng để lỡ đặt nhiều thang cùng một chỗ.\n<alpha=#FF><color=#FFFFBB>Giải Pháp Tối Ưu: 50 Mặt Trời    Người Gởi: <color=#88DD88>用<color=#964B00>钓<color=#BBFFBB>钩<color=#964B00>钓钓<color=#BBFFBB>钩     <color=#FFFFBB>Độ Khó Khuyến Nghị: 4"
+  },
+  "level_1784114517094_j294150za": {
+    "name": "3.8.0 Tôi, Zombie Hủy Diệt Của Cây",
+    "startTip": "Màn này bật Tuỳ Chỉnh Cải Tử Hoàn Sinh.\nNgười Gởi: 窝是fvv Giải Pháp Tối Ưu: 125 Mặt Trời"
+  },
+  "level_1783824917951_tu97wtodd": {
+    "name": "3.8.0 Fusion RPG (Chưa Dịch)",
+    "startTip": ""
+  },
+  "level_1784117560820_30ai7zx9f": {
+    "name": "3.8.0 Mini-game Lò Đúc",
+    "startTip": ""
+  },
+  "level_1784306250909_wxsmsf7dh": {
+    "name": "3.8.0 Thử Thách Các Vị Thần: Tái Sinh",
+    "startTip": ""
+  },
+  "level_1785158954018_h5jwbpryz": {
+    "name": "3.8.0 Thần",
+    "startTip": ""
+  },
+  "level_1785503805906_a4vcr8du6": {
+    "name": "3.8.1 Các Vị Thần: Vòm Trời",
+    "startTip": ""
+  },
+  "level_1785503901495_1ilvwhs88": {
+    "name": "3.8.1 Mini-game: Đường Ghồ Gập",
+    "startTip": ""
+  },
+  "level_1785503946693_4a937jw8e": {
+    "name": "3.8.1 Mini-game: Đoàn Diễn Súng Máy",
+    "startTip": ""
+  },
+  "level_1786016959724_0ytrvzedx": {
+    "name": "3.8.1 Tôi, Zombie Hoàn Toàn Bình Thường",
+    "startTip": ""
+  },
+  "level_1786177752599_7tzy9mbg5": {
+    "name": "3.8.1 Explode-O-su! Bản Nhạc Của Iceborg",
+    "startTip": ""
+  },
+  "level_1786794296664_rsl27xd65": {
+    "name": "3.8.1 Tôi, Zombie Bác Sĩ Điên",
+    "startTip": ""
+  },
+  "level_1786794553185_9imvf8is2": {
+    "name": "3.8.1 Mini-game Ma Vô Hình",
+    "startTip": "Găng Tay hồi nhanh hơn trong màn này! Hãy dùng tốt nó!\n<i>Chúng có thể vô hình, nhưng vẫn nghe được tiếng chúng.</i>\n\n\n\n\n\n\n\n\n\n<size=25>Zombie vô hình đang đến ăn não của bạn. Bạn có hạ được chúng không?\nThử dùng Lồng Đèn để tìm chúng!</size>\n<size=17>Gợi Ý: Vì zombie vô hình, cây không còn chặn được chúng nữa...</size>\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "level_1787320300306_zguu5curm": {
+    "name": "3.9.0 Nấm Bom",
+    "startTip": ""
+  },
+  "level_1787370052418_ojyo8p5um": {
+    "name": "3.9.0 Thần: Chiến Thuật Hợp Nhất",
+    "startTip": ""
+  },
+  "level_1787400750459_p5y696gia": {
+    "name": "3.9 Tôi, Zombie Hmmm?",
+    "startTip": ""
+  },
+  "level_1787820240018_9e0lxrqcg": {
+    "name": "3.9 Mini-game Sự Cân Bằng",
+    "startTip": ""
+  },
+  "level_1788007792965_t1ite9yny": {
+    "name": "3.9.0 Tôi, Zombie Vô Tận",
+    "startTip": ""
+  },
+  "level_1788007795405_xwdbrz0jw": {
+    "name": "3.9 Mini-game Hố Đen",
+    "startTip": ""
+  },
+  "level_1788007797981_64pjx7gbv": {
+    "name": "3.9.0 <color=#ff2d2d>Các Vị Thần: Zombie Hóa",
+    "startTip": ""
+  },
+  "level_1788007799592_npuh7s88a": {
+    "name": "3.9 Mini-game Giao Dịch Kim Loại",
+    "startTip": ""
+  },
+  "level_1788007800778_u5mqsl3b2": {
+    "name": "3.9 Rex Ex Machina",
+    "startTip": ""
+  }
 }

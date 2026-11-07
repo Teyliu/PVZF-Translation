@@ -1,1368 +1,2016 @@
 {
-    "advancedBuffs": {
-        "0": {
-            "name": "",
-            "desc": "Tát Đậu Thành Binh: Thời gian triệu hồi của Nấm Công Chúa và Nữ Hoàng Anh Đào giảm từ 30 giây xuống 10 giây | Mở Khoá Công Thức: Nữ Hoàng Anh Đào"
-        },
-        "1": {
-            "name": "",
-            "desc": "Tinh Binh Cường Tướng: Nấm Công Chúa và Nữ Hoàng Anh Đào có thể triệu hồi zombie tối thượng"
-        },
-        "2": {
-            "name": "",
-            "desc": "Liên Chi Hồ Điệp: Lan Tử Đinh không còn quá nhiệt | Mở Khoá Công Thức: Tử Cơ Thương Linh"
-        },
-        "3": {
-            "name": "",
-            "desc": "Hạch Nhân Uy Nhiếp: Lan Tử Đinh và Tử Cơ Thương Linh có thể bắn ra viên đạn lớn mỗi 3 viên"
-        },
-        "4": {
-            "name": "",
-            "desc": "Diệu Thủ Hồi Xuân: Chi phí triệu hồi Óc Chó Mặt Trời của Quang Hạch Vương giảm xuống từ 500 còn 200 mặt trời | Hỏa Hạch Vương x2 lượng máu sau khi ghép, x2 hiệu suất hồi máu"
-        },
-        "5": {
-            "name": "",
-            "desc": "Vô Quan Thống Dương: Giới hạn sát thương phải nhận của Quang Hạch Vương giảm xuống 10 | Chi phí triệu hồi Óc Chó Lửa giảm còn 200 máu | Mở Khoá Công Thức: Hỏa Hạch Vương"
-        },
-        "6": {
-            "name": "",
-            "desc": "Thi Sầu Chi Lộ: Sát thương của Hắc Thạch Gai và Hắc Thiết Hạch x5 | Mở Khoá Công Thức: Hắc Thiết Hạch"
-        },
-        "7": {
-            "name": "",
-            "desc": "Bá Luyện Thành Cương: Hắc Thạch Gai và Hắc Thiết Hạch giảm 95% sát thương nhận vào"
-        },
-        "8": {
-            "name": "",
-            "desc": "Bách Bộ Xuyên Dương: Đạn của Hoả Bộc Phượng Lan xuyên thấu vô hạn, và đạn gây hiệu ứng nổ nhiệt | Mở khoá công thức: Drone Phượng Hoàng"
-        },
-        "9": {
-            "name": "",
-            "desc": "Nộ Hỏa Công Tâm: Sát thương thêm của hiệu ứng Chịu Nhiệt tăng từ 50% lên 150%, đồng thời đạn lửa sẽ luôn gây hiệu ứng Chịu Nhiệt cho zombie."
-        },
-        "10": {
-            "name": "",
-            "desc": "Thế Như Chẻ Tre: Đạn tia băng/tia mặt trời xuyên thấu vô tận, mỗi khi bắn trúng Zombie thì tia băng/tia mặt trời sẽ tách ra làm 2, tối đa 5 lần liên tiếp."
-        },
-        "11": {
-            "name": "",
-            "desc": "Đồng Triệt Tâm Phi: Đạn tia băng gây thêm x3 sát thương lên Zombie bị đóng băng và Zombie miễn nhiễm với đóng băng | Mở Khoá Công Thức: Tiểu Nhật Liên Linh"
-        },
-        "12": {
-            "name": "",
-            "desc": "Kiểm Soát Lạm Phát: Chi phí nâng cấp chậu vàng tối đa là 8000 xu."
-        },
-        "13": {
-            "name": "",
-            "desc": "Quy Đổi Mệnh Giá: Tiền xu vượt quá giới hạn sẽ chuyển đổi thành ánh sáng mặt trời theo tỷ lệ 2:1"
-        },
-        "14": {
-            "name": "",
-            "desc": "Tự Lực Cánh Sinh: Tổng Tài Bá Đạo/Lão Gia Bạc Tỷ có thể tự động kích hoạt kĩ năng khi Zombie tới gần | Mở Khoá Công Thức: Lão Gia Bạc Tỷ"
-        },
-        "15": {
-            "name": "",
-            "desc": "Đàn Xạ Khởi Bộ: Hệ số sát thương tăng do Tổng Tài Bá Đạo tăng từ 100% lên 300%"
-        },
-        "16": {
-            "name": "",
-            "desc": "Đạn Đặc Chế: Sát thương của Drone Mộng Mơ x3 | Drone Mộng Mơ của Thỏ Nguyệt Mộng sẽ bắn 60 đạn"
-        },
-        "17": {
-            "name": "",
-            "desc": "Nhất Châm Kiến Huyết: Sát thương cơ bản của Mộng Miêu x5 | Thỏ Nguyệt Mộng x3 sát thương | Mở khóa công thức: Thỏ Nguyệt Mộng"
-        },
-        "18": {
-            "name": "",
-            "desc": "Khống Chế Biến Số: Các vụ nổ Nguyên Tử không còn để lại hố | Mở khóa Công Thức: Nấm Tham Lam"
-        },
-        "19": {
-            "name": "",
-            "desc": "Nhân Đa Thế Chúng: Khi Nấm Phóng Xạ phát nổ, triệu hồi 3 Khổng Nhân Vũ Trang và Xe Trượt Tuyết cho mỗi Zombie mà nó thôi miên"
-        },
-        "20": {
-            "name": "",
-            "desc": "Có Tiền Có Quyền: Đạn/tia laser của Đuốc Tài Lộc/Đèn Tài Lộc tăng 1% sát thương với mỗi 1000 xu bạn đang có"
-        },
-        "21": {
-            "name": "",
-            "desc": "Vận May Liên Tiếp: Đạn từ Đuốc Tài Lộc có hiệu ứng lan như Đậu Lửa | Mở khóa công thức: Đèn Tài Lộc"
-        },
-        "22": {
-            "name": "",
-            "desc": "Khiên Lượng Tử: Giới hạn năng lượng của Lưu Quang Tiên Tán x10, tốc độ hồi phục x20 và tốc độ hồi máu còn 1 giây | Khi tấn công, sát thương gây ra bởi Hàn Thủy Tiên Tán sẽ dần tăng lên, tối đa 400%. Còn khi Khóa Mục Tiêu, sát thương gốc luôn là 400% | Mở Khoá Công Thức: Hàn Thủy Tiên Tán"
-        },
-        "23": {
-            "name": "",
-            "desc": "Tia Năng Lượng Cao: Hệ số sát thương của đòn tấn công thường tăng lên 300%, vụ nổ tăng lên 1000%, và thời gian giữa mỗi vụ nổ giảm xuống còn 2 giây | Khi Khóa Mục Tiêu, Hàn Thủy Tiên Tán sẽ luôn đóng băng Zombie mà nó đang bắn trúng mỗi 1 giây"
-        },
-        "24": {
-            "name": "",
-            "desc": "Đòn Chí Mạng: Tất cả đòn đánh của Thiết Đậu Tiểu Đội đều luôn hành quyết mục tiêu, có tỉ lệ tiếp tục tấn công, nhưng tốc độ bắn tỉa còn 7.5 giây | Thiết Đậu Không Binh x3 sát thương"
-        },
-        "25": {
-            "name": "",
-            "desc": "Khai Pháo: Tăng x3 sát thương và x2 đẩy lùi của pháo phòng không của Thiết Đậu Tiểu Đội | Thiết Đậu Không Binh x3 sát thương | Mở Khoá Công Thức: Thiết Đậu Không Binh"
-        },
-        "26": {
-            "name": "",
-            "desc": "Tua Bin Điện Tử: Bán kính hấp dẫn của Từ Quang Đào tăng gấp đôi | x2 hiệu suất tạo sắt vụn của Từ Quang Nhật | Mở khóa Công Thức: Từ Quang Nhật"
-        },
-        "27": {
-            "name": "",
-            "desc": "Vạn Từ Vương: Từ Quang Đào có thể hấp thụ 3 vật sắt cùng lúc và gây x3 sát thương cho Zombie Khổng Hạch Phi Thương và Zombie Hắc Khổng Hạch Bầu Dục | Từ Quang Nhật x3 hiệu suất hồi máu, tăng số lượng sắt vụn tạo ra từ khả năng Sản Xuất Hàng Loạt"
-        },
-        "28": {
-            "name": "",
-            "desc": "Cải Tử Hoàn Sinh: Cây bị cạp/nổ bởi Thực Thần Thập Tử/Mìn Tử Thần sẽ luôn rớt ra thẻ"
-        },
-        "29": {
-            "name": "",
-            "desc": "Giải Phóng Cái Chết: Zombie cùng loại với Zombie phân thân sẽ phải nhận 200% sát thương nhận vào | Mở Khóa Công Thức: Mìn Tử Thần"
-        },
-        "30": {
-            "name": "",
-            "desc": "Tia Nhiệt Hạch: Tăng thời gian tồn tại của vùng phóng xạ lên 10 giây"
-        },
-        "31": {
-            "name": "",
-            "desc": "Phản Ứng Hạt Nhân: Khi đạn nguyên tử/siêu anh đào, đạn bí anh đào, đạn sao anh đào bắn trúng Zombie, có tỉ lệ nhỏ kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch | Mở khóa công thức: Bí Nhiệt Hạch"
-        },
-        "32": {
-            "name": "",
-            "desc": "Con Đường Bơ: Thời gian bơ của Zombie lên Gai Bơ Ngô x3 | Mở Khoá Công Thức: Chậu Bơ Ngô"
-        },
-        "33": {
-            "name": "",
-            "desc": "Bơ Bôi Trơn: Gai Bơ Ngô sẽ liên tục khiến Zombie trượt về bên phải sân | Tỉ lệ ném ra bơ cho các cây ngô trên Chậu Bơ Ngô luôn là 100%"
-        },
-        "34": {
-            "name": "",
-            "desc": "Năng Lượng Từ Trường: Cho mỗi cây trong hệ thống từ tính, khi liên kết với Bí Đa Năng thì toàn bộ cây sẽ nhận giáp năng lượng bằng 100 x số cây trong hệ thống từ tính | Khi liên kết với Sao Đa Nhiệm thì toàn bộ cây sẽ tăng 0,5% × số lượng cây tấn công trong hệ thống từ tính (Không cộng dồn)"
-        },
-        "35": {
-            "name": "",
-            "desc": "Nam Châm Đặc Biệt: Bí Đa Năng/Sao Đa Nhiệm được tính là 2 cây trong hệ thống từ tính"
-        },
-        "36": {
-            "name": "",
-            "desc": "Bộc Liệt Liên Châu: Tăng gấp đôi tần suất nổ anh đào của vùng lửa bởi Trúc Hỏa Long"
-        },
-        "37": {
-            "name": "",
-            "desc": "Liệt Hoả Phong Mang: Khi tấn công, với mỗi Zombie dính phải, tăng 1% sức mạnh cho lần tấn công tiếp theo, tối đa 400%"
-        },
-        "38": {
-            "name": "",
-            "desc": "Thiên Băng Tịch Diệt: Nấm Hàn Ngục tăng 100 Stack Cực Hàn và x2 sát thương | Nấm Hàn Nguyệt gây x2 sát thương | Mở khóa Công Thức: Nấm Hàn Nguyệt"
-        },
-        "39": {
-            "name": "",
-            "desc": "Băng Phong Ngàn Dặm: Phạm vi tấn công của Nấm Hàn Ngục x2 | Tốc độ tấn công của Nấm Hàn Nguyệt x2"
-        },
-        "40": {
-            "name": "",
-            "desc": "Bữa Tiệc Mộng Mơ: Thời gian hồi kĩ năng của Thiếu Nữ Mộng Mơ còn 15 giây, tăng phạm vi thôi miên thêm 0.5 ô"
-        },
-        "41": {
-            "name": "",
-            "desc": "Tình Yêu Và Kí Ức: Zombie thôi miên của Thiếu Nữ Mộng Mơ có thể gây thêm 30% sát thương chuẩn"
-        },
-        "1000": {
-            "name": "",
-            "desc": "Chí Cực Thủ Tốc: Thời gian hồi cả 2 găng tay giảm 10 giây và găng tay Zombie có thể di chuyển Boss"
-        },
-        "1001": {
-            "name": "",
-            "desc": "Lôi Lệ Phong Hành: Hồi chiêu của cây trồng giảm một nửa"
-        },
-        "1002": {
-            "name": "",
-            "desc": "Bộ Bộ Sinh Ly: Giá trị của mặt trời được tăng lên như sau: 5 → 15 → 25 → 50 → 75"
-        },
-        "1003": {
-            "name": "",
-            "desc": "Cực Tốc Chiến Bị: Thời gian hồi của cả 2 găng tay còn 1 nữa, và găng tay Zombie có thể di chuyển Boss"
-        },
-        "1004": {
-            "name": "",
-            "desc": "Nhân Bản Vô Tính: Thời gian hồi của Cây Sao Chép giảm đáng kể, từ 5 phút còn 50 giây"
-        },
-        "1005": {
-            "name": "",
-            "desc": "Vận Cân Như Phong: Thời gian hồi chiêu của búa giảm xuống còn 6 giây"
-        },
-        "1006": {
-            "name": "",
-            "desc": "Toàn Lực Vũ Trang: Kích hoạt chức năng đổi cây trồng trong quá trình chơi"
-        },
-        "1007": {
-            "name": "",
-            "desc": "Trí Mệnh Nhất Kích: Khi zombie nhận hơn 1800 sát thương sẽ mất thêm 1800 máu (sau khi đã tính giảm sát thương)"
-        },
-        "1008": {
-            "name": "",
-            "desc": "Cường Lực Đả Kích: Sức tấn công của cây trồng tăng 20%"
-        },
-        "1009": {
-            "name": "",
-            "desc": "Tinh Chuẩn Đả Kích: Sát thương mà zombie nhận tăng thêm 20%"
-        },
-        "1010": {
-            "name": "",
-            "desc": "Đầu Tư Hợp Lí: Số lần làm mới Buff du lịch +2"
-        },
-        "1011": {
-            "name": "",
-            "desc": "Cực Trí Chi Băng: Zombie bị đóng băng lâu hơn 25%, và bị làm chậm lâu hơn 10%"
-        },
-        "1012": {
-            "name": "",
-            "desc": "Hào Quang Rực Rỡ: Nhận ngay 3000 ánh sáng mặt trời, sau đó nhân đôi lượng ánh sáng của bạn và tăng giới hạn ánh sáng lên 100000"
-        },
-        "1013": {
-            "name": "",
-            "desc": "Thực Anh Bom: Đạn siêu anh đào sẽ gây thêm vụ nổ Bom Anh Đào"
-        },
-        "1014": {
-            "name": "",
-            "desc": "Ngũ Mã Phanh Thây: Cho phép tách các cây đã dung hợp thành thẻ cây cấu tạo nên nó mỗi 20 giây"
-        },
-        "1015": {
-            "name": "",
-            "desc": "Đôi Bạn Cùng Tiến: Hai cây giống nhau nhận 50% sát thương gây ra và giảm 50% sát thương nhận vào khi đặt trên cùng cột"
-        },
-        "1016": {
-            "name": "",
-            "desc": "Cải Tà Quy Chính: Zombie bị thôi miên gây ra 500% sát thương và giảm sát thương nhận phải đi 80% (Lưu Ý: Buff này khiến Liên Báo Anh Đào khi được triệu hồi vẫn sẽ cầm tờ báo)"
-        },
-        "1017": {
-            "name": "",
-            "desc": "Đẩu Chuyển Tinh Di: Giảm một nửa thời gian hồi chiêu của thiên thạch | Mỗi Định Tinh Tân Tiến Toàn Diện trên sân tăng thêm 300 sát thương cơ bản cho thiên thạch trên sân."
-        },
-        "1018": {
-            "name": "",
-            "desc": "Dạ Dĩ Kết Nhật: Mức Độ Ánh Sáng ở mức 4 mọi lúc"
-        },
-        "1019": {
-            "name": "",
-            "desc": "Bom Hẹn Giờ: Khi Zombie thôi miên bị tiêu diệt, nó sẽ tự phát nổ gây sát thương bằng 150% máu tối đa lên các Zombie xung quanh nó."
-        },
-        "1020": {
-            "name": "",
-            "desc": "Hồi Phục Cấp Tốc: Sau khi cây hồi máu, cây sẽ hồi thêm 5% máu hiện tại mỗi 3 giây (Không thể Stack)"
-        },
-        "1021": {
-            "name": "",
-            "desc": "Hiệu Suất Y Tế: Cây tăng 20% hiệu suất hồi máu"
-        },
-        "2000": {
-            "name": "",
-            "desc": "Thực Diệt Linh: Đạn Nguyên Tử sẽ gây thêm vụ nổ Nấm Nguyên Tử"
-        },
-        "2001": {
-            "name": "",
-            "desc": "Áp Đảo: Trồng Cây 1 Cột"
-        },
-        "2002": {
-            "name": "",
-            "desc": "Cải Tiến: Có thể nâng cấp 1 Buff Tối Thượng trong phần tổng quan Buff"
-        },
-        "2003": {
-            "name": "",
-            "desc": "Vũ Khí Tối Thượng: Nếu 1 loại cây gây sát thương gốc cao nhất trên sân, nó sẽ gây thêm 30% sát thương chuẩn tương ứng với sát thương gây ra"
-        },
-        "2004": {
-            "name": "",
-            "desc": "Sẳn Sàng Khai Hỏa: Sau khi tấn công 50 lần (25 lần đối với cây cẩu), cây sẽ có tốc bắn không giới hạn trong 1 giây."
-        },
-        "2005": {
-            "name": "",
-            "desc": "Sơ Cứu Chiến Thuật: Cây với lượng % máu thấp nhất sẽ có khả năng hồi 1% máu tương ứng với sát thương gây ra."
-        },
-        "2006": {
-            "name": "",
-            "desc": "Quá Tải: Nếu Zombie không bị tấn công trong một thời gian, đòn đánh tiếp theo sẽ gây sát thương lớn hơn đáng kể"
-        },
-        "2007": {
-            "name": "",
-            "desc": "Hủ Hóa: Mỗi khi zombie nhận sát thương, sát thương tiếp theo nhận được sẽ tăng thêm 5% (Có thể stack)"
-        },
-        "2008": {
-            "name": "",
-            "desc": "Phá Hoại: Cho phép loại bỏ 1 debuff"
-        },
-        "3000": {
-            "name": "",
-            "desc": "Ta Là Truyền Kì: Khi có Anh Long Đại Đế/Độc Long Tử và Hắc Tảng (hoặc biến thể của 2 cây) trên sân, Anh Long Đại Đế/Độc Long Tử không còn giới hạn máu, và Hắc Tảng giảm 90% sát thương nhận vào"
-        },
-        "3001": {
-            "name": "",
-            "desc": "Tinh Thần Hợp Nhất: Khi có 10 Định Tinh Tân Tiến Toàn Diện và 10 Thái Dương Bạch Cải trên sân, Mặt Trời Nhỏ sẽ không biến mất và gây x5 sát thương, Định Tinh Tân Tiến Toàn Diện sẽ liên tục triệu hồi Siêu Thiên Thạch"
-        },
-        "3002": {
-            "name": "",
-            "desc": "Hoả Lực Áp Đảo: Liên Pháo Anh Đào bắn x3 đạn, tấn công 2 hàng bên cạnh theo vòng cung cosin. Hoả Bộc Bí Đao sẽ đốt cả sân nếu không có ô trống."
-        },
-        "3003": {
-            "name": "",
-            "desc": "Ánh Trăng Soi Sáng: Khi có 10 Sao Tối Thượng và 10 Nguyện Thần Bạch Cải trên sân. Mặt Trăng Tí Hon tồn tại vĩnh viễn đồng thời có thể bắn laser vào Zombie có lượng máu cao nhất, sát thương tăng dân theo thời gian"
-        },
-        "3004": {
-            "name": "",
-            "desc": "Hàn Không Tinh Vũ: Dưa cực hàn từ Mưa Sao Băng của Thời Không Cực Hàn x6 sát thương và luôn tạo ra hố đen tí hon, Thời Không Thần Ngọc Mễ sẽ luôn ném hố đen; khi hố đen phát nổ, toàn bộ hó đen tí hon đồng loạt phát nổ theo, tăng sát thương gây ra"
-        },
-        "3005": {
-            "name": "",
-            "desc": "Hỏa Ngục Tận Thế: Chỉ kích hoạt khi có tối thiểu 8 Hỏa Bộc Luân trên sân; khi đó có thể dùng Găng Tay di chuyển Hỏa Hạch Thiên Đế vào Hỏa Bộc Luân đã nạp đạn, sau đó toàn bộ Hỏa Bộc Luân trên sân sẽ khai hỏa và kích nổ toàn sân gây x80 sát thương và thiêu đốt toàn sân 11 lần liên tiếp"
-        },
-        "3006": {
-            "name": "",
-            "desc": "Hoả Lực Vô Hạn: Khi Drone Anh Đào được đặt trên Tử Thần Diệt Linh. Mỗi khi tấn công sẽ tăng năng lượng còn khi dừng tấn công sẽ giảm năng lượng; với mỗi năng lượng, bắn thêm đạn; nếu có nhiều năng lượng, mỗi năng lượng dư sẽ tăng 100% sát thương cho phát bắn tiếp theo"
-        },
-        "3007": {
-            "name": "",
-            "desc": "Vụ Nổ Siêu Tân Tinh: Lưu Quang Thời Không có khả năng nạp năng lượng cho Bạch Quang Hàn Nguyệt ở mọi hàng và giới hạn năng lượng của Bạch Quang Hàn Nguyệt tăng lên 100000, đồng thời tăng mạnh tốc đánh và sát thương gây ra khi năng lượng càng nhiều một khi đạt năng lượng tối đa, nó sẽ tự sụp đổ trở thành điểm kỳ dị hút toàn bộ Zombie không phải miniboss/boss rồi sau đó phát nổ"
-        },
-        "3008": {
-            "name": "",
-            "desc": "Chiến Tranh Phi Đối Xứng: Chỉ kích hoạt khi Băng Linh Xung Kích và Độc Tử Lan ở chung 1 ô, khi đó đạn băng của Băng Linh Xung Kích sẽ có khả năng tích stack độc lên Zombie và đạn băng lớn sẽ tăng giới hạn stack độc tỏi tương tự như bơ tỏi, còn đạn tỏi của Độc Tử Lan sẽ có khả năng làm chậm/tích stack đóng băng tương tự với tia băng và có khả năng nảy 1 lần sang Zombie khác"
-        },
-        "3009": {
-            "name": "",
-            "desc": "Sốc Nhiệt: Hàn Diệt Linh khi thôi miên Zombie sẽ tạo ra Hắc Thiết Tảng; Hỏa Thần Chúc Dung khi tấn công sẽ bắn đạn dưa diên thạch, đạn dưa diên thạch sẽ gây hiệu ứng Sốc Nhiệt lên mục tiêu và gây sát thương bằng 100% * số cây lửa và băng trên sân"
-        },
-        "4000": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ: Triệu hồi Tiểu Hắc Diện. Tiểu Hắc Diện tấn công lên cả cây và Zombie, cây sẽ giảm sát thương nhận vào còn Zombie nhận thêm sát thương dựa theo lượng máu của cây xung quanh. Gây sát thương dựa theo cấp độ"
-        },
-        "4001": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ II: Triệu hồi Tiểu Hắc Thiết. Tiểu Hắc Thiết sẽ hồi máu cho cây mỗi 3 giây và khiến Zombie nhận thêm sát thương gần nó. Hồi máu dựa theo cấp độ"
-        },
-        "4002": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ III: Triệu hồi Tiểu Băng Nữ. Tiểu Băng Nũ sẽ tấn công bằng cầu tuyết và vô số đạn tia băng, đồng thời cường hóa đạn tia băng trên sân. Số đạn bắn ra dựa theo cấp độ"
-        },
-        "4003": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ IV: Triệu hồi Tiểu Nữ Hề. Tiểu Nữ Hề sẽ tấn công toàn sân bằng bom và triệu hồi Vua Hề Điên Loạn ở mỗi hàng. Sát thương và số Zombie tạo ra tương ứng theo cấp độ"
-        },
-        "4004": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ V: Triệu hồi Tiểu Hải Vương. Mỗi 5 giây, nó sẽ ném 1 đinh ba có khả năng xuyên mục tiêu và phát nổ. Nếu Hải Vương ở trên sân, nó sẽ ném 4 đinh ba mỗi 10 giây. Sát thương tăng dựa theo cấp độ"
-        },
-        "4005": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ VI: Triệu hồi Tiểu Kỵ Sĩ. Bắn đạn sắt liên tục và mỗi 20 giây sẽ tạo 1 kỵ binh trên mỗi hàng, và khi trúng Zombie sẽ tạo bóng ma ngay trên hàng đó. Nếu Nguyên Soái Hắc Thiết trên sân, thời gian triệu hồi còn 1 nữa"
-        },
-        "4006": {
-            "name": "",
-            "desc": "Tia Thủ Nhỏ VII: Triệu hồi Tiểu Vương Giả. Mỗi 10 giây, nó có thể biến đổi Zombie đối phương thành Zombie Cười Gà hay Zombie Tàu Ngầm, số lượng Zombie phụ thuộc vào cấp độ. Nếu Lãnh Chúa Imp trên sân, số Zombie có thể biến đổi tăng lên gấp đôi."
-        },
-        "4007": {
-            "name": "",
-            "desc": "Tia Thu Nhỏ VIII: Triệu hồi Tiểu Quái Ngư. Nó sẽ tăng sát thương vụ nổ hề cho phe cây và bắn bom vào Zombie mỗi 1.5 giây (mỗi 3 lần tấn công sẽ tấn công mỗi hàng). Nếu Quái Ngư trên sân, x2 sát thương gây ra."
-        },
-        "5000": {
-            "name": "",
-            "desc": "Sát Khổng Nhân: Boss nhận thêm 100% sát thương"
-        },
-        "5001": {
-            "name": "",
-            "desc": "Lời Nguyền Sức Mạnh: Với mỗi Debuff, các cây của bạn nhận thêm 5% sát thương"
-        },
-        "5002": {
-            "name": "",
-            "desc": "Tận Thế Ragnarok: Sao Kiếm Vương biến thành Sao Kiếm Đại Vương, và không bị giới hạn số cây"
-        },
-        "5003": {
-            "name": "",
-            "desc": "Lời Nguyền Phản Vệ: Cây gây x2 sát thương, bù lại nhận thêm x4 sát thương"
-        },
-        "5004": {
-            "name": "",
-            "desc": "Lời Nguyền Tham Lam: Thẻ cây hồi lập tức, nhưng mỗi lần dùng sẽ tốn 15 lần giá cây + 50% số mặt trời hiện tại"
-        },
-        "6000": {
-            "name": "",
-            "desc": "Quân Cờ Cuối Cùng: Sát thương của xe cắt cỏ x3, sát thương khi cán qua Zombie x3"
-        },
-        "6001": {
-            "name": "",
-            "desc": "Anh Long Đại Đế I: Khả năng hồi phục x2"
-        },
-        "6002": {
-            "name": "",
-            "desc": "Anh Long Đại Đế II: Sát thương tăng 50%"
-        },
-        "6003": {
-            "name": "",
-            "desc": "Liên Pháo Anh Đào I: Đạn siêu anh đào phạm vi nổ tăng 50%, sát thương x2"
-        },
-        "6004": {
-            "name": "",
-            "desc": "Liên Pháo Anh Đào II: Đạn siêu anh đào phạm vi nổ giảm 50%, nhưng sát thương x4"
-        },
-        "6005": {
-            "name": "",
-            "desc": "Hàn Diệt Linh I: Zombie bị đóng băng sẽ nhận thêm 50% sát thương"
-        },
-        "6006": {
-            "name": "",
-            "desc": "Hàn Diệt Linh II: Sát thương Zombie bị thôi miên gây ra tăng x3"
-        },
-        "6007": {
-            "name": "",
-            "desc": "Hoả Bộc Bí Đao I: Sát thương gây ra bởi hiệu ứng Ớt từ ngay lập tức thành gây sát thương theo thời gian, gây 1/3 sát thương mỗi giây trong 10 giây"
-        },
-        "6008": {
-            "name": "",
-            "desc": "Hoả Bộc Bí Đao II: Trước khi đốt đạn, sát thương tăng lên 50%"
-        },
-        "6009": {
-            "name": "",
-            "desc": "Phòng Tuyến Vững Chãi: Toàn bộ cây từ cột thứ 5 tính từ bên trái trở đi chỉ nhận tối đa sát thương bằng 50% máu tối đa và giảm 50% sát thương nhận vào. Mỗi 1 ô từ phải qua trái tính từ ô 5: giới hạn sát thương giảm 10%, giảm 10% sát thương, sát thương nhận vào tăng 10%"
-        },
-        "10000": {
-            "name": "",
-            "desc": "Mặt Trời Vô Tận: Có ngay 100000 mặt trời, giới hạn mặt trời tăng thêm 100000"
-        },
-        "10001": {
-            "name": "",
-            "desc": "Bảo Hộ Thiết Giáp: Nhận ngay 2 thẻ Thủy Quái Cơ Khí, mỗi cây có 1 triệu máu"
-        },
-        "10002": {
-            "name": "",
-            "desc": "Đào Tạo Tinh Nhuệ: Nâng cấp số cây lên cấp 1, số cây có thể nâng là (1 + số buff du lịch đang có)"
-        },
-        "10003": {
-            "name": "",
-            "desc": "Tốc Bắn Áp Đảo: Cây ngẫu nhiên sẽ tăng tốc bắn, số cây có thể buff là (1 + số buff du lịch đang có)"
-        },
-        "10004": {
-            "name": "",
-            "desc": "Không Phải Lúc Này: Khi Zombie vào nhà, không thể thua trong 3 giây và đẩy lùi toàn bộ Zombie về phía bên phải sân"
-        },
-        "10005": {
-            "name": "",
-            "desc": "Kho Tàng Tối Thượng: Nhận toàn bộ thẻ cây tối thương từ Hộp Bí Ngô (không có phân loài)"
-        },
-        "10006": {
-            "name": "",
-            "desc": "Sức Mạnh Tối Thượng: Đẩy lùi toàn bộ Zombie về bên phải sân, rồi tiêu diệt toàn bộ Zombie."
-        },
-        "10007": {
-            "name": "",
-            "desc": "Chỉ Huy Tối Cao: Nhận Bão Tố Băng Giá với +1500% sát thương và HP, +1000% tốc bắn, và luôn bắn đạn cực hàn"
-        },
-        "10008": {
-            "name": "",
-            "desc": "Vũ Khí Tối Thượng: Nhận 1 cây du lịch ngẫu nhiên; mỗi đợt Zombie, cây sẽ tăng 25% sát thương, 10% tốc bắn và 25% HP"
-        },
-        "10009": {
-            "name": "",
-            "desc": "Thử Thách Cực Hạn: Nhận 1 thẻ Nấm Hư Vô, trồng để kích hoạt thử thách: Triệu hồi 3-6 Zombie tối thượng mỗi hàng; một khi hoàn thành sẽ nhận buff Hủ Hóa"
-        },
-        "10010": {
-            "name": "",
-            "desc": "Sĩ Khí Dâng Cao: x2 tốc bắn cho toàn bộ cây trên sân"
-        },
-        "10011": {
-            "name": "",
-            "desc": "Giáp Từ Trường: Toàn bộ cây đều nhận (50 + 2% máu tối đa) giáp mỗi giây"
-        },
-        "10012": {
-            "name": "",
-            "desc": "Ván Cờ Thành Bại: Khi bạn có trên 20 cây trên sân, Zombie vào nhà sẽ không khiến bạn thua, nhưng bạn sẽ mất 1/3 số cây trên sân"
-        },
-        "10013": {
-            "name": "",
-            "desc": "Phòng Vệ Tối Thượng: Nhận 1 thẻ Bí Đa Năng, trồng để kích hoạt thử thách: x2 số Zombie trong 20 đợt tiếp theo; một khi hoàn thành thì toàn bộ cây trên cột của Bí Đa Năng đều lên cấp 3"
-        },
-        "10014": {
-            "name": "",
-            "desc": "Dọn Dẹp Toàn Sân: Kích hoạt toàn bộ Xe Cắt Cỏ và thay thế với Xe Cắt Cỏ mới"
-        },
-        "10015": {
-            "name": "",
-            "desc": "Khoảng Khắc Sinh Tử: Nếu trong 1.5 giây sau khi Zombie vào nhà mà bị tiêu diệt, bạn sẽ không bị thua"
-        },
-        "10016": {
-            "name": "",
-            "desc": "Quân Đoàn Nhân Bản: Nhận 5 thẻ Cây Sao Chép"
-        },
-        "10017": {
-            "name": "",
-            "desc": "Mua 2 Tặng 1: Cho mỗi 2 cây cùng loại bạn trồng xuống lần đầu tiên, nhận 1 thẻ cây cùng loại"
-        },
-        "10018": {
-            "name": "",
-            "desc": "Sức Mạnh Hợp Nhất: Có thể dùng găng tay di chuyển 2 cây cùng loại và cùng cấp chồng lên nhau, khi đó sẽ nâng cấp cây đó thêm 1 cấp"
-        },
-        "10019": {
-            "name": "",
-            "desc": "Ngày Tài Chế: Nhận 10 Bình Vàng. Đồng thời nhận thêm 1 Bình Vàng mỗi đợt và 5 Bình Vàng mỗi cờ."
-        },
-        "11000": {
-            "name": "",
-            "desc": "Sân Vườn: Xe Đẩy sẽ hồi trong 3 giây."
-        },
-        "12000": {
-            "name": "",
-            "desc": "Biển Lửa: Đạn của Hỏa Thần Chúc Dung sẽ luôn tạo ra biển lửa kể cả nếu trật mục tiêu và tách ra thêm 2 đạn lên Zombie gần đó khi trúng mục tiêu"
-        },
-        "12001": {
-            "name": "",
-            "desc": "Sức Mạnh Áp Đảo: Khi Pháo Đài Bất Diệt kích hoạt Tuyệt Kĩ, nó sẽ tạo thêm 4 đợt lửa băng và mỗi đợt gây 50 lần sát thương. Sát thương gây ra x100 sát thương của Pháo Đài Bất Diệt lên Zombie ngẫu nhiên trong vùng ảnh hưởng"
-        },
-        "12002": {
-            "name": "",
-            "desc": "Tất Sát: Cao Xạ Hủy Diệt sẽ luôn gây sát thương chí mạng"
-        },
-        "12003": {
-            "name": "",
-            "desc": "Dội Bom: Đạn của Mìn Ba Đầu sẽ gây hiệu ứng nổ khoai tây khi trúng mục tiêu"
-        },
-        "12004": {
-            "name": "",
-            "desc": "Tử Thần: Khi Hoa Ăn Thịt Hủy Diệt tấn công, luôn kích nổ Nấm Nguyên Tử; nếu nuốt chửng Zombie, tạo ra 2 vụ nổ Nguyên Tử"
-        },
-        "12005": {
-            "name": "",
-            "desc": "Tận Diệt: Nấm Hư Vô khi bị tiêu diệt sẽ phát nổ gây 1000000 sát thương"
-        }
+  "advancedBuffs": {
+    "0": {
+      "name": "Tát Đậu Thành Binh",
+      "desc": "Mở khóa Phân Loài: Hoàng Hậu Anh Đào | Nấm Công Chúa & Hoàng Hậu Anh Đào: Thời gian triệu hồi 30s → 10s"
     },
-    "ultimateBuffs": {
-        "0": {
-            "name": "",
-            "desc": "Thị Huyết Như Mệnh: Anh Long Đại Đế/Độc Long Tử hồi máu x3"
-        },
-        "1": {
-            "name": "",
-            "desc": "Chiến Binh Tận Thế: Thời gian hồi Hành Quyết của Anh Long Đại Đế/Độc Long Tử giảm xuống 15 giây"
-        },
-        "2": {
-            "name": "",
-            "desc": "Đại Lực Chân Vũ: Sát thương của vụ nổ từ Đạn Siêu Anh Đào x3"
-        },
-        "3": {
-            "name": "",
-            "desc": "Khoái Kiến Tân Trang: Tốc đánh của Liên Pháo Anh Đào và UAV Anh Đào tăng 100%"
-        },
-        "4": {
-            "name": "",
-            "desc": "Thê Phong Thứ Cốt: Tốc đánh Hàn Diệt Linh x3, sát thương Cửu U Tiên Chương x3, sát thương của Zombie Óc Chó Tuyết Trảo x3"
-        },
-        "5": {
-            "name": "",
-            "desc": "Bắc Minh Băng Phách: Zombie khi hết bị đóng băng sẽ mất 30% máu hiện tại"
-        },
-        "6": {
-            "name": "",
-            "desc": "Làm Ít Công To: Số lượng đạn cần thiết để Hoả Bộc Bí Đao/Hỏa Bộc Tinh Cự triệu hồi Bí/Khế Cay giảm một nữa"
-        },
-        "7": {
-            "name": "",
-            "desc": "Lửa Rực: Khi không còn chỗ để sinh sản Bí/Khế Cay, Hoả Bộc Bí Đao/Hỏa Bộc Tinh Cự sẽ đốt cháy toàn bộ một hàng"
-        },
-        "8": {
-            "name": "",
-            "desc": "Lưu Tinh Vũ: Tốc đánh của Định Tinh Tân Tiến Toàn Diện còn 0,5 giây"
-        },
-        "9": {
-            "name": "",
-            "desc": "Toái Tinh Chi Lực: Sát thương cơ bản của Định Tinh Tân Tiến Toàn Diện x2 và giới hạn sát thương tăng lên 3000 | Cấp 2: Sát thương cơ bản của Định Tinh Tân Tiến Toàn Diện x3 và loại bỏ giới hạn sát thương"
-        },
-        "10": {
-            "name": "",
-            "desc": "Vạn Năng Câu Tịch: Sát thương khi chết của Nấm Hư Vô tăng lên 1 triệu | Bạch Quang Hàn Nguyệt khi chết sẽ cho 30 Mức Độ Ánh Sáng"
-        },
-        "11": {
-            "name": "",
-            "desc": "Siêu Bom Địa Ngục: Nấm Hư Vô/Bạch Quang Hàn Nguyệt miễn nhiễm với mọi vụ nổ | Khi Nấm Hư Vô hấp thụ 10000 sát thương nổ, nó sẽ tạo ra vụ nổ như Nấm Hủy Diệt"
-        },
-        "12": {
-            "name": "",
-            "desc": "Kiến Giả Hữu Phận: Xác suất Phân Tán của Độc Lan Đế/Độc Tử Lan luôn là 100%"
-        },
-        "13": {
-            "name": "",
-            "desc": "Toán Độc Sậu Phát: Zombie khi dính độc tỏi sẽ chịu sát thương độc ngay lập tức, đồng thời tăng giới hạn của Stack Độc lên 120 | Cấp 2: Stack Độc không còn giới hạn"
-        },
-        "14": {
-            "name": "",
-            "desc": "Chúng Sinh Bình Đẳng: Sát thương trung tâm của Băng Phá Luân tăng gấp 4 lần | Sát thương của Cục Tịch Hàn Luân x4"
-        },
-        "15": {
-            "name": "",
-            "desc": "Binh Quý Thần Tốc: Tốc độ nạp đạn của Băng Phá Luân/Cục Tịch Hàn Luân còn 12 giây"
-        },
-        "16": {
-            "name": "",
-            "desc": "Hộ Vệ Thế Kỉ: Máu của Hắc Tảng/Hắc Diệu Địa Lôi x3"
-        },
-        "17": {
-            "name": "",
-            "desc": "Con Dao Hai Lưỡi: Hắc Tảng/Hắc Diệu Địa Lôi chịu sát thương thay cho cây trồng bên trái và phải"
-        },
-        "18": {
-            "name": "",
-            "desc": "Phổ Độ Chúng Sinh: Lượng máu có thể thôi miên zombie của Nấm Cupid tăng từ 60% lên 100% | Sát thương gây lên Zombie Thôi Miên mà Bí Cupid giảm một nữa"
-        },
-        "19": {
-            "name": "",
-            "desc": "Động Cơ Vĩnh Cửu: Tốc đánh của Nấm Cupid còn 1 giây, và luôn ở mức 2 của trạng thái Hưng Phấn và có thể tăng lên 3 | Bí Cupid có thể sạc năng lượng ở mức 3"
-        },
-        "20": {
-            "name": "",
-            "desc": "Trở Xung Chi: Pháo Đài Bất Diệt/Cao Xạ Bất Diệt sát thương x3"
-        },
-        "21": {
-            "name": "",
-            "desc": "Cuồng Chiến Sĩ: Khi Pháo Đài Bất Diệt kích hoạt Tuyệt Kĩ sẽ hoàn 50000 năng lượng | Máu của Cao Xạ Bất Diệt càng thấp thì khả năng phòng thủ càng cao. Khi máu thấp hơn 500, miễn nhiễm với sát thương dưới 1000 | Cấp 2: Tuyệt Kĩ của Pháo Đài Bất Diệt gây thêm 20% sát thương, toàn bộ đều gây sát thương chuẩn | Khi máu thấp hơn 500, Cao Xạ Bất Diệt x2 sát thương gây ra"
-        },
-        "22": {
-            "name": "",
-            "desc": "Kim Quang Lấp Lánh: Nếu số mặt trời lớn hơn 15000, Thái Dương Bạch Cải sẽ tiêu thụ 0,5% số mặt trời để tăng sát thương cho viên đạn theo tỉ lệ 1:20 | Sát thương của Nguyệt Thần Bạch Cải sẽ tăng x3 sát thương cho mỗi Mức Độ Ánh Sáng"
-        },
-        "23": {
-            "name": "",
-            "desc": "Mặt Trời Nhân Tạo: Sát thương của Mặt Trời Nhỏ | Hiệu suất hồi máu của Mặt Trăng Nhỏ x3"
-        },
-        "24": {
-            "name": "",
-            "desc": "Tam Vị Nhất Thể: Số lượng Drone của Cơ Giáp Tân Tiến/Thiết Sáp Anh Đào x3"
-        },
-        "25": {
-            "name": "",
-            "desc": "Lôi Xạ Khích Quang: Sát thương Drone của Cơ Giáp Tân Tiến/Thiết Sáp Anh Đào x3"
-        },
-        "26": {
-            "name": "",
-            "desc": "Khí Định Thần Nhàn: Hiệu suất và giới hạn thời gian sạc của Hoả Thần Chúc Dung/Hỏa Kích Chúc Dung x3"
-        },
-        "27": {
-            "name": "",
-            "desc": "Tam Muội Chân Hoả: Thời gian tồn tại của vùng đất cháy của Hoả Thần Chúc Dung tăng lên 5 giây | Hỏa Kích Chúc Dung x3 sát thương"
-        },
-        "28": {
-            "name": "",
-            "desc": "Tích Luỹ: Với mỗi 1000 điểm, sát thương của toàn bộ cây tăng 5%. Tối đa 400%"
-        },
-        "29": {
-            "name": "",
-            "desc": "Phiếu Giảm Giá: Giá của Buff trong cửa hàng giảm 30%"
-        },
-        "30": {
-            "name": "",
-            "desc": "Lòng Tham Vô Đáy: Hố Đen của Thời Không Thần Ngọc Mễ có thể hấp thụ tất cả loại đạn"
-        },
-        "31": {
-            "name": "",
-            "desc": "Vạn Kiếp Bất Phục: Phạm vi hút đạn của Hố Đen của Thời Không Thần Ngọc Mễ được tăng lên đáng kể"
-        },
-        "32": {
-            "name": "",
-            "desc": "Quang Âm Phi Nhận: Thời gian tồn tại của Lưỡi Cưa của Hàn Liên Cung Thủ x3 | Tốc độ mất máu của Hàn Trúc Vĩnh Hằng còn 1/3"
-        },
-        "33": {
-            "name": "",
-            "desc": "Trẻ Mãi Không Già: Hiệu ứng hồi máu cho cây của Hàn Liên Cung Thủ sẽ không còn bị chia bớt | x2 hiệu suất hồi máu và giáp của Hàn Trúc Vĩnh Hằng"
-        },
-        "34": {
-            "name": "",
-            "desc": "Vực Thẳm Vô Đáy: Tăng phạm vi ăn của Đại Khẩu Quang Thực lên gấp đôi"
-        },
-        "35": {
-            "name": "",
-            "desc": "Thực Phẩm Phát Quang: Khi nhai, tăng 2 Mức Độ Ánh Sáng xung quanh nó 5x5 ô"
-        },
-        "36": {
-            "name": "",
-            "desc": "Bộc Mễ Hoa: Sát thương của Vụ nổ Bỏng Ngô do Hoả Bộc Luân gây ra x3 | Sát thương của Diệt Hỏa Luân x3"
-        },
-        "37": {
-            "name": "",
-            "desc": "Quá Nhiệt: Khi đạn của Hoả Bộc Luân bắn trúng Bom Anh Đào hoặc Ớt, tạo ra một Vụ nổ Nguyên Tử kèm hiệu ứng phụ | Diệt Hỏa Luân không còn giới hạn số đạn bắn ra, mỗi lần bắn có tỉ lệ 10% nổ bom anh đào và đốt 1 hàng"
-        },
-        "38": {
-            "name": "",
-            "desc": "Phản Ứng Dây Chuyền: Khi một viên đạn của Nữ Vương Hướng Dương bắn trúng Zombie, nó sẽ kích nổ những viên đạn gần đó. Vụ nổ gây 10% sát thương của đạn"
-        },
-        "39": {
-            "name": "",
-            "desc": "Dung Tích Khổng Lồ: Nữ Vương Hướng Dương có giới hạn năng lượng x3, sản lượng Mặt trời x3"
-        },
-        "40": {
-            "name": "",
-            "desc": "Oanh Kích Hàng Loạt: Mưa sao băng sẽ tập trung oanh tạc nơi có Zombie hay vì phân tán toàn sân trong 5 giây đầu | Thời Không Tận Thế sẽ chỉ tạo 1 Cổng Không Gian trên sân, toàn bộ khói lạnh đều sẽ được tập trung lại 1 cổng và x10 số khói lạnh tạo ra"
-        },
-        "41": {
-            "name": "",
-            "desc": "Hoả Lực Tập Trung: Sát thương của Thời Không Cực Hàn x6, nhưng phạm vi sát thương lan giảm một nửa | Zombie miễn nhiễm với hiệu ứng Phân Rã vẫn sẽ nhận thêm sát thương tương đương với (thời gian phân rã)% máu tối đa"
-        },
-        "42": {
-            "name": "",
-            "desc": "Hỏa Liên Bức Xạ: Tăng tấn suất tấn công của tia laser nhiệt lên gấp đôi"
-        },
-        "43": {
-            "name": "",
-            "desc": "Tam Muội Chân Hỏa: Sát thương của Hỏa Miêu Anh Đào x3"
-        },
-        "44": {
-            "name": "",
-            "desc": "Nỗi Sợ Biển Sâu: Nấm Sứa có thể kéo 3 Zombie cùng 1 lúc/sát thương x3. Mỗi lần kéo Zombie xuống nước sẽ tích thêm 10 năng lượng"
-        },
-        "45": {
-            "name": "",
-            "desc": "Tấn Công Bầy Đàn: Đại Thủy Quái Kraken sẽ bắn 3 nấm biển cùng 1 lúc"
-        },
-        "46": {
-            "name": "",
-            "desc": "Sát Thủ Lĩnh: Tăng giới hạn năng lượng lên 10 và tăng 1 năng lượng với mỗi Miniboss bị giết"
-        },
-        "47": {
-            "name": "",
-            "desc": "Hộ Vệ Vĩnh Hằng: Khiến cây toàn sân được 1 giây bất tử mỗi khi Ớt Vĩnh Hằng/Hỏa Linh Vĩnh Hằng hồi máu"
-        },
-        "48": {
-            "name": "",
-            "desc": "Pin Năng Lượng: Tăng giới hạn tích trữ năng lượng lên 2000 | Cấp 2: Tăng giới hạn tích trữ năng lượng lên 10000 | Tăng 50% phạm vi sát thương đạn của Độc Quang Thời Không"
-        },
-        "49": {
-            "name": "",
-            "desc": "Quá Tải Hiệu Suất: Tăng hiệu suất nạp năng lượng lên 50%, nếu cây đang nạp có năng lượng dưới 2500, tăng hiệu suất lên 250% | Độc Quang Thời Không bắn thêm 2 đạn mỗi lần bắn"
-        },
-        "50": {
-            "name": "",
-            "desc": "Áp Đảo Mục Tiêu: Toàn bộ Đậu Bão Tố x3 tỉ lệ kích hoạt Tuyệt Kĩ | Toàn bộ Đậu Cao Xạ mỗi khi hành quyết sẽ bắn thêm 1 lần ngay lập tức"
-        },
-        "51": {
-            "name": "",
-            "desc": "Phát Bắn Chuẩn Xác: Toàn bộ Đậu Bão Tố x2 sát thương khi kích hoạt Tuyệt Kĩ, đồng thời đạn bắn không còn phân tán | Toàn bộ Đậu Cao Xạ giảm một nửa số đạn cần để hành quyết"
-        }
+    "1": {
+      "name": "Tinh Binh Cường Tướng",
+      "desc": "Nấm Công Chúa & Hoàng Hậu Anh Đào: giờ có thể triệu hồi Zombie Tối Thượng"
     },
-    "unlocks": {
-        "0": {
-            "name": "",
-            "desc": "Mở Khoá Anh Long Đại Đế: Phi Long Thăng Thiên + Hoa Ăn Thịt Anh Đào\nvà phân loài Độc Long Tử: Tỏi ←→ Bom Anh Đào"
-        },
-        "1": {
-            "name": "",
-            "desc": "Mở Khoá Liên Pháo Anh Đào: Súng Máy Anh Đào + Siêu Đậu Anh Đào\nvà phân loài UAV Anh Đào: Cỏ 3 Lá ←→ Xẻng"
-        },
-        "2": {
-            "name": "",
-            "desc": "Mở Khoá Hàn Diệt Linh: Nấm Xịt Băng Huỷ Diệt + Nấm Thôi Miên Băng\nvà phân loài Cửu U Tiên Chương: Xương Rồng ←→ Nấm Mũm Mĩm"
-        },
-        "3": {
-            "name": "",
-            "desc": "Mở Khoá Hoả Bộc Bí Đao: Bí Cay + Gốc Cây Lửa Địa Ngục"
-        },
-        "4": {
-            "name": "",
-            "desc": "Mở Khoá Định Tinh Tân Tiến Toàn Diện: Sao Thiên Thạch + Xương Rồng Từ Tính\nvà phân loài Phá Lôi Phiến: Cỏ 3 Lá ←→ Sao"
-        },
-        "5": {
-            "name": "",
-            "desc": "Mở Khoá Nấm Hư Vô: Nấm Xịt Băng Huỷ Diệt + Nấm Bạch Tuộc Băng Giá\nvà phân loài Bạch Quang Hàn Nguyệt: Lồng Đèn ←→ Nấm Bạch Tuộc"
-        },
-        "6": {
-            "name": "",
-            "desc": "Mở Khoá Độc Lan Đế: Cẩu Salad + Dưa Hấu Độc\nvà phân loài Độc Tử Lan: Nấm Lùn*3 ←→ Dưa Hấu"
-        },
-        "7": {
-            "name": "",
-            "desc": "Mở Khoá Băng Phá Luân: Băng Đại Pháo + Nấm Nguyên Tử Băng\nvà phân loài Cục Tịch Hàn Luân: Dưa Hấu ←→ Bắp Ngô"
-        },
-        "8": {
-            "name": "",
-            "desc": "Mở Khoá Hắc Tảng: Óc Chó Cao Băng Giá + Óc Chó Cao Bùng Cháy\nvà phân loài Hắc Diệu Địa Lôi: Mìn Khoai Tây ←→ Óc Chó Cao"
-        },
-        "9": {
-            "name": "",
-            "desc": "Mở Khoá Nấm Cupid: Nấm Tình Yêu + Nấm Nam Châm Thôi Miên\nvà phân loài Bí Cupid: Bí Ngô ←→ Xẻng"
-        },
-        "10": {
-            "name": "",
-            "desc": "Mở Khoá Pháo Đài Bất Diệt: Đậu Đại Đạn Đạo + Ớt Hắc Ám\nvà phân loài Cao Xạ Bất Diệt: Đậu Cao Xạ ←→ Đậu Hà Lan"
-        },
-        "11": {
-            "name": "",
-            "desc": "Mở khóa Thái Dương Bạch Cải: Bắp Cải Ánh Dương + Cải Vàng\nvà phân loài Nguyệt Thần Bạch Cải: Lồng Đèn ←→ Hoa Hướng Dương"
-        },
-        "12": {
-            "name": "",
-            "desc": "Mở khóa Cơ Giáp Tân Tiến: Siêu Bí Ngô + Cỏ Nam Châm\nvà phân loài Thiết Sáp Anh Đào: Bom Anh Đào ←→ Xương Rồng"
-        },
-        "13": {
-            "name": "",
-            "desc": "Mở Khoá Hoả Thần Chúc Dung: Nấm Xịt Bầu Dục + Dưa Nham Thạch"
-        },
-        "14": {
-            "name": "",
-            "desc": "Mở Khoá Tham Tài Thuỷ Thảo: Thuỷ Quái Ba Đầu + Hoa Cúc Hai Đầu"
-        },
-        "15": {
-            "name": "",
-            "desc": "Mở Khoá Thời Không Thần Ngọc Mễ: Bắp Non*3 + Ngô Không Gian\nvà phân loài Thời Không Thần Hồ Đào: Óc Chó ←→ Bắp Ngô"
-        },
-        "16": {
-            "name": "",
-            "desc": "Mở Khoá Hàn Liên Cung Thủ: Hàn Thiết Cung Thủ + Xạ Thủ Mùa Đông\nvà phân loài Hàn Trúc Vĩnh Hằng: Măng Băng ←→ Gốc Cung Thủ"
-        },
-        "17": {
-            "name": "",
-            "desc": "Mở Khoá Đại Khẩu Quang Thực: Đại Khẩu Thực Thảo + Hoa Ăn Thịt Phát Sáng"
-        },
-        "18": {
-            "name": "",
-            "desc": "Mở khoá Hoả Bộc Luân: Hoả Đại Pháo + Pháo Tất Niên"
-        },
-        "19": {
-            "name": "",
-            "desc": "Mở khoá Nữ Vương Hướng Dương: Gốc Lửa Hướng Dương + Hướng Dương Vàng"
-        },
-        "20": {
-            "name": "",
-            "desc": "Mở khóa Thời Không Cực Hàn: Dưa Băng + Dưa Thời Không\nvà phân loài Thời Không Tận Thế: Nấm Nguyên Tử + Dưa Hấu"
-        },
-        "21": {
-            "name": "",
-            "desc": "Mở khóa Hoa Miêu Anh Đào: Mèo Lửa + Pháo Tất Niên"
-        },
-        "22": {
-            "name": "",
-            "desc": "Mở khóa Đại Thủy Quái Kraken: Đàn Nấm Biển + Nấm Hải Yêu"
-        },
-        "23": {
-            "name": "",
-            "desc": "Mở khóa Ớt Vĩnh Hằng: Ớt Hắc Ám + Ớt Hắc Ám\nvà phân loài Hỏa Linh Vĩnh Hằng: Nấm Lùn*3 ←→ Khoai Ảo Thuật"
-        },
-        "24": {
-            "name": "",
-            "desc": "Mở Khóa Lưu Quang Thời Không: Đậu 2 Đầu Laser + Đậu Thời Không\nvà phân loài Độc Quang Thời Không: Tỏi ←→ Lồng Đèn"
-        },
-        "25": {
-            "name": "",
-            "desc": "Mở khóa Bão Tố Hắc Bầu Dục: Đậu Súng Máy Bầu Dục + Đậu Sắt\nvà phân loài Cao Xạ Thời Không: Mảnh Ghép Thời Không ←→ Mũ Bầu Dục"
-        }
+    "2": {
+      "name": "Liên Chi Hồ Điệp",
+      "desc": "Mở khóa Phân Loài: Tử Cơ Thương Linh | Lan Tử Đinh: Không còn nghỉ sau khi bắn một Quả Hủy Diệt Tối Thượng | Hiệu ứng cũng áp dụng cho các biến thể SP"
     },
-    "debuffs": {
-        "0": {
-            "name": "",
-            "desc": "Liên Báo Anh Đào phớt lờ cây khi nó tức giận"
-        },
-        "1": {
-            "name": "",
-            "desc": "Liên Báo Anh Đào miễn nhiễm với mọi hiệu ứng bất lợi, trừ độc"
-        },
-        "2": {
-            "name": "",
-            "desc": "Cây bị tấn công bởi Hắc Khổng Hạch Bầu Dục không thể hồi máu trong 1 giây"
-        },
-        "3": {
-            "name": "",
-            "desc": "Cây bị Hắc Khổng Hạch Bầu Dục tấn công nhận thêm x3 sát thương trong 1 giây"
-        },
-        "4": {
-            "name": "",
-            "desc": "Tốc độ di chuyển của Đại Thiết Tiềm Hải Độn được tăng gấp đôi"
-        },
-        "5": {
-            "name": "",
-            "desc": "Đại Thiết Tiềm Hải Độn được giảm 50% sát thương nhận phải"
-        },
-        "6": {
-            "name": "",
-            "desc": "Chiến Hạm Kirov miễn nhiễm với Cỏ 3 Lá và bay nhanh hơn"
-        },
-        "7": {
-            "name": "",
-            "desc": "HP của Tiểu Bom Thiết Khí Cầu tăng lên đáng kể"
-        },
-        "8": {
-            "name": "",
-            "desc": "Vua Hề Bật Nhảy chắc chắn nổ khi tiếp đất/tiêu diệt và thời gian lấy đà giảm 90% rất nhiều"
-        },
-        "9": {
-            "name": "",
-            "desc": "Zombie Hộp Hề chịu ảnh hưởng bởi vụ nổ hộp hề sẽ biến thành Vua Hề Bật Nhảy"
-        },
-        "10": {
-            "name": "",
-            "desc": "Đinh ba gây x5 sát thương"
-        },
-        "11": {
-            "name": "",
-            "desc": "Zombie mang theo đinh ba sẽ tấn công ngẫu nhiên"
-        },
-        "12": {
-            "name": "",
-            "desc": "MJ Trắng có thể triệu hồi Zombie Nhảy Sào Trắng"
-        },
-        "13": {
-            "name": "",
-            "desc": "Các Zombie MJ có thể đi xuyên cây"
-        },
-        "14": {
-            "name": "",
-            "desc": "Cương Thi khi chết sẽ bỏ qua miễn nhiễm của Bí Hề và các cây liên quan"
-        },
-        "15": {
-            "name": "",
-            "desc": "Khoảng thời gian lướt của Cương Thi giảm xuống và tăng mạnh sát thương"
-        },
-        "16": {
-            "name": "",
-            "desc": "Xe Cẩu Đinh Ba miễn nhiễm với hiệu ứng làm chậm và bơ. Số đinh ba x5"
-        },
-        "17": {
-            "name": "",
-            "desc": "Xe Cẩu Đinh Ba sẽ tấn công ngay lập tức khi xuất hiện"
-        },
-        "18": {
-            "name": "",
-            "desc": "Hắc Chiến Xa sẽ xuất hiện ở đầu mỗi cờ và tạo ra MJ Trắng khi bị phá hủy"
-        },
-        "19": {
-            "name": "",
-            "desc": "Tốc độ di chuyển của Hắc Chiến Xa x5"
-        },
-        "20": {
-            "name": "",
-            "desc": "Zombie đu dây có xác suất thả Zombie Tối Thượng từ cột 4 trở đi và giảm 90% sát thương nhận vào"
-        },
-        "21": {
-            "name": "",
-            "desc": "Đội Đặc Nhiệm Alpha có thể hồi sinh vĩnh viễn miễn là toàn bộ thành viên chưa bị tiêu diệt"
-        },
-        "22": {
-            "name": "",
-            "desc": "Tàu UFO Xung Kích ưu tiên tấn công cây xa nhất trong phạm vi bắn"
-        },
-        "23": {
-            "name": "",
-            "desc": "Phạm vi sát thương của tia từ trường của UFO tăng lên thành 3x3 ô"
-        },
-        "24": {
-            "name": "",
-            "desc": "Vũ Trang Khổng Nhân Cường Hóa có khả năng miễn nhiễm của cả 4 dạng"
-        },
-        "25": {
-            "name": "",
-            "desc": "Vũ Trang Khổng Nhân Cường Hóa có khả năng đặc biệt của cả 4 dạng"
-        },
-        "26": {
-            "name": "",
-            "desc": "Tốc độ hồi đinh ba của Hạch Khổng Nhân x3"
-        },
-        "27": {
-            "name": "",
-            "desc": "Mỗi lần ném đinh ba, hồi 10% máu tối đa của Hạch Khổng Nhân"
-        },
-        "28": {
-            "name": "",
-            "desc": "50 lần gây sát thương đầu tiên lên Zombie sẽ chỉ tính là 1 sát thương"
-        },
-        "29": {
-            "name": "",
-            "desc": "Cho mỗi 100 lần bị tấn công đầu tiên, Zombie khi bị sát thương sẽ được 0.2 giây bất tử"
-        },
-        "30": {
-            "name": "",
-            "desc": "Voi Ma Mút sẽ ra sân theo nhóm 3 con"
-        },
-        "31": {
-            "name": "",
-            "desc": "Cho mỗi Voi Ma Mút trên sân, miniboss/boss nhận 100 giáp"
-        },
-        "32": {
-            "name": "",
-            "desc": "Xe của Tiểu Đoàn Hắc Thiết Xung Kích sẽ miễn nhiễm với bơ và đóng băng"
-        },
-        "33": {
-            "name": "",
-            "desc": "Xe của Tiểu Đoàn Hắc Thiết Xung Kích sẽ ra sân nhanh hơn nhưng di chuyển chậm hơn"
-        },
-        "1000": {
-            "name": "",
-            "desc": "Số mặt trời được đặt về 0"
-        },
-        "1001": {
-            "name": "",
-            "desc": "Điểm của bạn được đặt về 0"
-        },
-        "1002": {
-            "name": "",
-            "desc": "Chỉ có thể có tối đa 120 cây trên sân"
-        },
-        "1003": {
-            "name": "",
-            "desc": "Cây trên sân có tỉ lệ 1/3 biến mất ngay lập tức (1 lần duy nhất)"
-        },
-        "1004": {
-            "name": "",
-            "desc": "Lượng máu của Zombie tăng lên sau mỗi cờ: 20% -> 30%"
-        },
-        "1005": {
-            "name": "",
-            "desc": "Zombie có tỉ lệ 1/3 hồi sinh với đầy đủ máu"
-        },
-        "1006": {
-            "name": "",
-            "desc": "Số lượng zombie tối đa xuất hiện trong mỗi đợt tăng lên 100"
-        },
-        "1007": {
-            "name": "",
-            "desc": "Số Zombie mỗi đợt còn 1 nữa, nhưng toàn bộ Zombie x2 sát thương và máu"
-        },
-        "1008": {
-            "name": "",
-            "desc": "Hiệu suất hồi máu và giáp của cây giảm 50%"
-        },
-        "1009": {
-            "name": "",
-            "desc": "Cây sẽ mất 10% máu tối đa mỗi khi bị sát thương, tối đa 40% máu tối đa mỗi màn"
-        },
-        "1010": {
-            "name": "",
-            "desc": "Toàn bộ cây x3 giá mặt trời"
-        },
-        "1011": {
-            "name": "",
-            "desc": "Thời gian mở màn cho đợt đầu tiên còn 5 giây, và thời gian giữa các đợt còn 15 giây"
-        },
-        "1012": {
-            "name": "",
-            "desc": "Cây du lịch giảm 90% sát thương và máu, nhưng toàn bộ cây còn lại đều được tăng x40 sát thương, x40 máu và x2 tốc bắn"
-        },
-        "1013": {
-            "name": "",
-            "desc": "Miniboss tăng 60% tốc độ di chuyển và 30% máu tối đa"
-        },
-        "1014": {
-            "name": "",
-            "desc": "Zombie không phải miniboss/boss tăng 30% tốc độ di chuyển và 60% máu tối đa"
-        },
-        "1015": {
-            "name": "",
-            "desc": "Zombie dạng bay x2 máu"
-        },
-        "1016": {
-            "name": "",
-            "desc": "Khi cây bị tiêu diệt, nó sẽ gây sát thương bằng với máu tối đa của nó cho các cây khác trong phạm vi 3×3"
-        },
-        "1017": {
-            "name": "",
-            "desc": "Toàn bộ Zombie không phải boss/miniboss x2 máu, sát thương và tốc độ di chuyển"
-        },
-        "1018": {
-            "name": "",
-            "desc": "Hiện HP cây sẽ bị vô hiệu hóa"
-        },
-        "1019": {
-            "name": "",
-            "desc": "Hiện HP Zombie sẽ bị vô hiệu hóa"
-        },
-        "2000": {
-            "name": "",
-            "desc": "Hoàng Kim Vũ Trang Khổng Nhân sẽ tham chiến"
-        },
-        "2001": {
-            "name": "",
-            "desc": "Liên Báo Hủy Diệt sẽ tham chiến"
-        },
-        "2002": {
-            "name": "",
-            "desc": "Đĩa Bay Hủy Diệt tham chiến"
-        },
-        "2003": {
-            "name": "",
-            "desc": "Xạ Thủ Alpha tham chiến"
-        },
-        "2004": {
-            "name": "",
-            "desc": "Tiểu Đoàn Hắc Thiết Xung Kích sẽ tham chiến"
-        },
-        "3000": {
-            "name": "",
-            "desc": "Hắc Khổng Nhân Vũ Trang sẽ tham chiến như 1 miniboss"
-        },
-        "3001": {
-            "name": "",
-            "desc": "Khi Hắc Khổng Nhân Vũ Trang chết, nó sẽ triệu hồi Tiến sĩ Zomboss"
-        },
-        "3002": {
-            "name": "",
-            "desc": "Lãnh Chúa Imp sẽ tham chiến như 1 miniboss"
-        },
-        "3003": {
-            "name": "",
-            "desc": "Mỗi khi Lãnh Chúa Imp vô hiệu hóa sát thương nhận vào, hồi 500 máu"
-        },
-        "3004": {
-            "name": "",
-            "desc": "Bạch Vũ Đài Xa sẽ tham chiến như 1 miniboss"
-        },
-        "3005": {
-            "name": "",
-            "desc": "Bạch Vũ Đài Xa giảm 50% sát thương nhận vào"
-        },
-        "3006": {
-            "name": "",
-            "desc": "An Bá Tử Khang sẽ tham chiến như 1 miniboss"
-        },
-        "3007": {
-            "name": "",
-            "desc": "Thời gian thêm buff cho An Bá Tử Khang còn 1 nữa"
-        },
-        "3008": {
-            "name": "",
-            "desc": "Hải Vương sẽ tham chiến như 1 miniboss"
-        },
-        "3010": {
-            "name": "",
-            "desc": "Cỗ Máy Huỷ Diệt sẽ tham chiến như 1 miniboss"
-        },
-        "3012": {
-            "name": "",
-            "desc": "Quái Ngư sẽ tham chiến như 1 miniboss"
-        },
-        "3014": {
-            "name": "",
-            "desc": "Giáo Sư Z sẽ tham chiến như 1 miniboss"
-        },
-        "3016": {
-            "name": "",
-            "desc": "Nữ Hoàng Hề sẽ tham chiến như Miniboss"
-        },
-        "3018": {
-            "name": "",
-            "desc": "Tiểu Đoàn Đặc Nhiệm Alpha sẽ tham chiến như Miniboss"
-        },
-        "3020": {
-            "name": "",
-            "desc": "Nguyên Soái Hắc Kỵ Sĩ sẽ tham chiến như Miniboss"
-        },
-        "3021": {
-            "name": "",
-            "desc": "Ngựa của Nguyên Soái Hắc Kỵ Sĩ sẽ trở thành cây lưỡi hái và giúp Nguyên Soái Hắc Thiết thi triển các kỹ năng."
-        },
-        "3022": {
-            "name": "",
-            "desc": "Thánh Long Vạn Niên sẽ tham chiến như Miniboss"
-        },
-        "4000": {
-            "name": "",
-            "desc": "Khi Hắc Khổng Nhân Vũ Trang trên sân, toàn bộ Zombie nhận 400 giáp"
-        },
-        "4001": {
-            "name": "",
-            "desc": "Khi Lãnh Chúa Imp trên sân, toàn bộ Zombie nhận 400 giáp"
-        },
-        "4002": {
-            "name": "",
-            "desc": "Khi An Bá Tử Khang trên sân, toàn bộ Zombie nhận 400 giáp"
-        },
-        "4003": {
-            "name": "",
-            "desc": "Khi Bạch Vũ Đài Xa trên sân, toàn bộ Zombie nhận 400 giáp"
-        },
-        "4004": {
-            "name": "",
-            "desc": "Khi Nguyên Soái Hắc Kỵ Sĩ trên sân, toàn bộ Zombie nhận 400 giáp"
-        },
-        "5000": {
-            "name": "",
-            "desc": "Zombie sẽ miễn nhiễm hiệu ứng choáng sau khi nhận hiệu ứng choáng tương ứng trong 5 giây"
-        },
-        "5001": {
-            "name": "",
-            "desc": "Zombie trên sân sẽ x2 sát thương sau mỗi 3 giây, tối đa 1 triệu sát thương"
-        },
-        "5002": {
-            "name": "",
-            "desc": "Zombie mỗi khi nhận sát thương sẽ nhận 1% giáp tương ứng, tối đa 1000 giáp"
-        },
-        "5003": {
-            "name": "",
-            "desc": "Zombie sẽ phản 100% sát thương nhận vào mỗi khi vô hiệu hóa sát thương, có thể kích hoạt mỗi 0.2 giây"
-        },
-        "5004": {
-            "name": "",
-            "desc": "Khi Zombie gây sát thương nghiền nát lên cây, cây đó sẽ nhận Stack Nguyền Rủa bằng 1% máu tối đa"
-        }
+    "3": {
+      "name": "Hạch Nhân Uy Nhiếp",
+      "desc": "Lan Tử Đinh: Giờ bắn một Quả Hủy Diệt Tối Thượng mỗi vòng thay vì cứ 4 vòng | Tử Cơ Thương Linh: Giờ bắn một Quả Hủy Diệt Tối Thượng cứ 4 lần tấn công | Hiệu ứng cũng áp dụng cho các biến thể SP"
     },
-    "investmentBuffs": {
-        "0": {
-            "name": "",
-            "desc": "Cây gây thêm 40% sát thương cho mỗi 50% màn chơi đầu mỗi màn"
-        },
-        "1": {
-            "name": "",
-            "desc": "Sau khi kết thúc màn, nhận thêm 300 điểm cho mỗi loại cây không gây sát thương trên sân"
-        },
-        "2": {
-            "name": "",
-            "desc": "Sau khi kết thúc màn, nhận thêm 1500 điểm và tăng 5% tối đa cho toàn bộ cây trên sân khi không một cây nào chết trong màn này"
-        },
-        "3": {
-            "name": "",
-            "desc": "Toàn bộ cây trên sân sẽ thành cây ngẫu nhiên, nhận được 1000 điểm ngay lập tức và Găng Tay sẽ không còn thời gian hồi"
-        },
-        "4": {
-            "name": "",
-            "desc": "Nhận 10 thẻ cây du lịch ngay lập tức"
-        },
-        "5": {
-            "name": "",
-            "desc": "Cho mỗi miniboss bị tiêu diệt, toàn bộ cây trên sân hồi 10% máu tối đa"
-        },
-        "6": {
-            "name": "",
-            "desc": "Toàn bộ Zombie không phải boss giảm 10% máu"
-        },
-        "7": {
-            "name": "",
-            "desc": "Toàn bộ miniboss giảm 10% máu"
-        },
-        "8": {
-            "name": "",
-            "desc": "Mỗi cờ sẽ gây 1500% sát thương gốc lên Zombie có lượng máu cao nhất trên sân"
-        },
-        "9": {
-            "name": "",
-            "desc": "Loại cây gây sát thương cao nhất sẽ gây thêm 25% sát thương"
-        },
-        "10": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, cây sẽ giảm 3% sát thương nhận vào cho mỗi cây không phải cây du lịch trên sân, tối đa 30%"
-        },
-        "11": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, 6 cây gây sát thương cao nhất gây thêm 20% sát thương"
-        },
-        "12": {
-            "name": "",
-            "desc": "Bạn nhận thêm 6 lượt làm mới nếu không mua bất kì buff gì trong cửa hàng trước đó"
-        },
-        "13": {
-            "name": "",
-            "desc": "Nhận thêm 11 lượt làm mới"
-        },
-        "1000": {
-            "name": "",
-            "desc": "Toàn bộ cây trên sân biến mất, nhưng x2 số mặt trời bạn đang có, và khi bắt đầu mỗi màn toàn bộ cây sẽ nhận được lượng giáp tương ứng với số mặt trời của toàn bộ cây đã biến mất"
-        },
-        "1001": {
-            "name": "",
-            "desc": "Toàn bộ cây trên sân biến mất, nhưng x2 số mặt trời bạn đang có, và thẻ cây sẽ không có thời gian hồi cho màn này"
-        },
-        "1002": {
-            "name": "",
-            "desc": "Đội cây được chọn có tỉ lệ 18% chí mạng"
-        },
-        "1003": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, cây của bạn sẽ tăng 3% máu và 6% sát thương cho mỗi loại cây trên sân"
-        },
-        "1004": {
-            "name": "",
-            "desc": "Cây gây sát thương cao nhất trên sân sẽ gây thêm 40% sát thương và toàn bộ cây cùng loại cũng sẽ gây thêm 10% sát thương"
-        },
-        "1005": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, cây đầu tiên mỗi hàng sẽ tăng 150% tốc bắn, nhưng khi bắt đầu mỗi cờ, cây đó sẽ phải nhận sát thương tương ứng 1000% máu tối đa của cây đó"
-        },
-        "1006": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, cây đầu tiên mỗi hàng sẽ tăng sát thương bằng 0.1% máu tối đa của cây cuối cùng hàng, và cây cuối cùng sẽ tăng máu tối đa bằng 1000% sát thương của cây đầu tiên cùng hàng"
-        },
-        "1007": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, đội cây đã chọn sẽ tăng 25% tỉ lệ chí mạng, nhưng sẽ giảm 30% máu tối đa"
-        },
-        "1008": {
-            "name": "",
-            "desc": "Đội cây đã chọn tăng 10% khả năng chí mạng. Khi bắt đầu mỗi màn, tăng 1% tỉ lệ chí mạng"
-        },
-        "1009": {
-            "name": "",
-            "desc": "Đội cây đã chọn tăng 20% sát thương. Khi bắt đầu mỗi màn, nếu có hơn 200 cây trong đội hình của bạn, toàn bộ cây tăng 50% sát thương"
-        },
-        "1010": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, nhận thêm 1500 điểm và 1 lượt làm mới"
-        },
-        "1011": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, thăng hạng 1 cây không phải cây du lịch lên cấp 2"
-        },
-        "1012": {
-            "name": "",
-            "desc": "Bạn nhận được Hộp Quà cho mỗi lần bạn ghép cây"
-        },
-        "1013": {
-            "name": "",
-            "desc": "Cây gây thêm 40% sát thương cho mỗi 50% màn chơi cuối mỗi màn"
-        },
-        "2000": {
-            "name": "",
-            "desc": "Đội cây của bạn tăng 25% tỉ lệ chí mạng. Đồng thời cây sẽ có thêm tỉ lệ 30% tương ứng với tỉ lệ chí mạng của cây để giảm sát thương nhận vào còn 1"
-        },
-        "2001": {
-            "name": "",
-            "desc": "Đội cây của bạn giảm 25% sát thương nhận vào, và tăng tỉ lệ chí mạng bằng với phần trăm giảm sát thương nhận vào"
-        },
-        "2002": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, toàn bộ cây trên sân có tỉ lệ 50% x2 sát thương"
-        },
-        "2003": {
-            "name": "",
-            "desc": "Đội cây của bạn sẽ tăng vĩnh viễn 8% sát thương cho mỗi miniboss bị tiêu diệt"
-        },
-        "2004": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, thăng hạng 1 cây không phải cây du lịch ngẫu nhiên lên cấp 3"
-        },
-        "2005": {
-            "name": "",
-            "desc": "Tăng tỉ lệ chí mạng của đội cây thêm 30%. Nếu tỉ lệ chí mạng vượt quá 100%, sát thương chí mạng tăng thêm 40%"
-        },
-        "2006": {
-            "name": "",
-            "desc": "Một Hoa Lan Lửa siêu hiếm xuất hiện trên sân, nó có tận 20000 điểm"
-        },
-        "2007": {
-            "name": "",
-            "desc": "Ngay lập tức nhận 5000 điểm. Từ bây giờ, bạn nhận thêm 3000 điểm mỗi khi bắt đầu màn tiếp theo mà không mua gì từ cửa hàng"
-        },
-        "2008": {
-            "name": "",
-            "desc": "Bạn có tỉ lệ 45% khả năng nhận thêm lượt làm mới mỗi khi làm mới cửa hàng"
-        },
-        "2009": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, nhận thêm 2000 điểm"
-        },
-        "2010": {
-            "name": "",
-            "desc": "Khi bắt đầu mỗi màn, nhận 1 Cây Sao Chép Tinh hệ. Nếu dùng lên cây có dạng tinh hệ, cây được sao chép sẽ thành cây tinh hệ"
-        },
-        "2011": {
-            "name": "",
-            "desc": "Nhận thêm 500 điểm cho mỗi lần làm mới"
-        },
-        "2012": {
-            "name": "",
-            "desc": "Điểm bạn sẽ về 0, cho mỗi 1000 điểm bạn mất, tăng 1% tỉ lệ chí mạng cho toàn bộ cây"
-        },
-        "2013": {
-            "name": "",
-            "desc": "Trong màn này, bạn nhận 10000 điểm và thắng màn chơi mội khi Zombie vào nhà bạn"
-        }
+    "4": {
+      "name": "Diệu Thủ Hồi Xuân",
+      "desc": "Quang Hạch Vương: Chi phí nhấp chuột 500 → 200 Mặt Trời | Hỏa Hạch Vương: Lượng hồi máu ×2 | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "5": {
+      "name": "Vô Quan Thống Dương",
+      "desc": "Mở khóa Phân Loài: Hỏa Hạch Vương | Quang Hạch Vương: Độ bền giảm 10 mỗi khi bị đánh thay vì 50 | Hỏa Hạch Vương: Chi phí nhấp chuột 500 → 200 HP | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "6": {
+      "name": "Thi Sầu Chi Lộ",
+      "desc": "Mở khóa Phân Loài: Hắc Thiết Hạch | Hắc Thạch Gai & Óc Chó Gai: Sát thương nhân 5"
+    },
+    "7": {
+      "name": "Bá Luyện Thành Cương",
+      "desc": "Hắc Thạch Gai & Óc Chó Gai: Nhận 95% Giảm Sát Thương"
+    },
+    "8": {
+      "name": "Bách Bộ Xuyên Dương",
+      "desc": "Mở khóa Phân Loài: Drone Phượng Hoàng | Hoả Bộc Phượng Lan & Drone Phượng Hoàng: Đạn giờ có thể xuyên thấu vô hạn và gây vụ nổ Chịu Nhiệt khi chạm đích | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "9": {
+      "name": "Nộ Hỏa Công Tâm",
+      "desc": "Hoả Bộc Phượng Lan & Drone Phượng Hoàng: Phần thưởng sát thương toàn cầu của hiệu ứng Chịu Nhiệt 50% → 150%, và đạn thường bị đốt cháy giờ có thể gây debuff | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "10": {
+      "name": "Thế Như Chẻ Tre",
+      "desc": "Băng Hà Lan Linh & Nhật Liên: Tảng Băng giờ xuyên thấu vô hạn và tách thành hai tảng băng chéo khi chạm đích trong 5 lần đầu | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "11": {
+      "name": "Đồng Triệt Tâm Phi",
+      "desc": "Mở khóa Phân Loài: Tiểu Nhật Liên Linh | Băng Hà Lan Linh: Sát thương lên Zombie miễn nhiễm Đóng Băng/Lạnh 4× → 12× | Hiệu ứng cũng áp dụng cho các biến thể SP"
+    },
+    "12": {
+      "name": "Kiểm Soát Lạm Phát",
+      "desc": "Dương Thần Chậu: Chi phí nâng cấp từ Chậu Bạc lên Chậu Vàng sẽ không vượt quá 8k"
+    },
+    "13": {
+      "name": "Quy Đổi Mệnh Giá",
+      "desc": "Dương Thần Chậu: Đồng xu vượt quá số lượng tối đa sẽ được quy đổi thành Mặt Trời theo tỉ lệ 2:1"
+    },
+    "14": {
+      "name": "Tự Lực Cánh Sinh",
+      "desc": "Mở khóa Phân Loài: Lão Gia Bạc Tỷ | Tổng Tài Bá Đạo & Lão Gia Bạc Tỷ: Tự động kích hoạt Tuyệt Kĩ nếu có zombie ở gần"
+    },
+    "15": {
+      "name": "Đàn Xạ Khởi Bộ",
+      "desc": "Tổng Tài Bá Đạo: Phần thưởng sát thương 100% → 300%"
+    },
+    "16": {
+      "name": "Đạn Đặc Chế",
+      "desc": "Mộng Miêu: Sát thương tấn công của Drone ×3 | Thỏ Nguyệt Mộng: Drone được triệu hồi không còn bị giảm sức mạnh và bắn 60 phát như bình thường"
+    },
+    "17": {
+      "name": "Nhất Châm Kiến Huyết",
+      "desc": "Mở khóa Phân Loài: Thỏ Nguyệt Mộng | Mộng Miêu: Sát thương tấn công thường ×5 | Thỏ Nguyệt Mộng: Sát thương tấn công ×3"
+    },
+    "18": {
+      "name": "Khống Chế Biến Số",
+      "desc": "Mở khóa Phân Loài: Nấm Tham Lam | Nấm Phóng Xạ: Mọi vụ nổ Nấm Nguyên Tử giờ không để lại hố nổ"
+    },
+    "19": {
+      "name": "Nhân Đa Thế Chúng",
+      "desc": "Nấm Phóng Xạ: Giờ sinh ra thêm 3 Vũ Trang Khổng Nhân và Zombie Xe Cày Tuyết bị thôi miên khi nổ"
+    },
+    "20": {
+      "name": "Có Tiền Có Quyền",
+      "desc": "Đuốc Tài Lộc & Đèn Tài Lộc: Tăng 1% sát thương cho đạn/laser đồng xu cho mỗi 1000 Đồng xu bạn có"
+    },
+    "21": {
+      "name": "Vận May Liên Tiếp",
+      "desc": "Mở khóa Phân Loài: Đèn Tài Lộc | Đuốc Tài Lộc: Đạn đồng xu giờ gây sát thương diện rộng"
+    },
+    "22": {
+      "name": "Khiên Lượng Tử",
+      "desc": "Mở khóa Phân Loài: Hàn Thủy Tiên Tán | Lưu Quang Tiên Tán: Giới Hạn Năng Lượng ×10, Tốc Độ Hồi Phục ×20, Tốc Độ Hồi Máu ×2 | Hàn Thủy Tiên Tán: Sát thương ở Chế Độ Tán tăng tuyến tính tới ×4, Sát thương ở Chế Độ Khóa Mục Tiêu ×4"
+    },
+    "23": {
+      "name": "Tia Năng Lượng Cao",
+      "desc": "Lưu Quang Tiên Tán: Sát thương tấn công thường ×3, Sát thương nổ ×10, Chu kỳ tấn công → 2s | Hàn Thủy Tiên Tán: Tia lạnh ở Chế Độ Khóa Mục Tiêu giờ gây Đóng Băng trong 1s"
+    },
+    "24": {
+      "name": "Đòn Chí Mạng",
+      "desc": "Thiết Đậu Tiểu Đội: Tần suất bắn tỉa trúng đầu kỳ vọng tăng lên còn 1 lần mỗi 5s | Thiết Đậu Không Binh: Sát thương tấn công ×3"
+    },
+    "25": {
+      "name": "Khai Pháo",
+      "desc": "Mở khóa Phân Loài: Thiết Đậu Không Binh | Thiết Đậu Tiểu Đội: Đẩy lùi của pháo phòng không ×2, sát thương tấn công ×3 | Thiết Đậu Không Binh: Sát thương tấn công ×3"
+    },
+    "26": {
+      "name": "Tua Bin Điện Tử",
+      "desc": "Mở khóa Phân Loài: Từ Quang Nhật | Từ Quang Đào: Phạm vi tấn công ×2 | Từ Quang Nhật: CD sản xuất vật sắt giảm một nửa"
+    },
+    "27": {
+      "name": "Vạn Từ Vương",
+      "desc": "Từ Quang Đào: Hấp thụ 3 vật sắt cùng lúc, sát thương lên Zombie Khổng Hạch Phi Thương hoặc Zombie Hắc Khổng Hạch Bầu Dục ×3 | Từ Quang Nhật: Lượng hồi máu ×3, giới hạn sản xuất vật sắt bổ sung (3 + (n/m)/4) → (3 + (n/m)/3)"
+    },
+    "28": {
+      "name": "Cải Tử Hoàn Sinh",
+      "desc": "Mở khóa Phân Loài: Mìn Tử Thần | Thực Thần Thập Tử & Mìn Tử Thần: Luôn rớt ra thẻ cây"
+    },
+    "29": {
+      "name": "Giải Phóng Cái Chết",
+      "desc": "Thực Thần Thập Tử & Mìn Tử Thần: Chuyển giao sát thương Linh Hồn Zombie ×2"
+    },
+    "30": {
+      "name": "Tia Nhiệt Hạch",
+      "desc": "Bom Anh Đào Nhiệt Hạch & Bí Nhiệt Hạch: Thời gian ban đầu của vùng phóng xạ tăng từ 7s lên 10s"
+    },
+    "31": {
+      "name": "Phản Ứng Hạt Nhân",
+      "desc": "Mở khóa Phân Loài: Bí Nhiệt Hạch | Bom Anh Đào Nhiệt Hạch & Bí Nhiệt Hạch: Đạn nổ và đạn hủy diệt có tỉ lệ nhỏ biến thành Mảnh Vụn Vũ Trụ với sát thương 12× khi trúng zombie"
+    },
+    "32": {
+      "name": "Con Đường Bơ",
+      "desc": "Mở khóa Phân Loài: Chậu Bơ Ngô | Gai Bơ Ngô & Chậu Bơ Ngô: Thời gian choáng bằng Bơ của Gai Bơ Ngô và Chậu Bơ Ngô ×3"
+    },
+    "33": {
+      "name": "Bơ Bôi Trơn",
+      "desc": "Gai Bơ Ngô: Giờ khiến zombie trên nó trượt liên tục sang phải | Chậu Bơ Ngô: Tỉ lệ ra Bơ cho cây phía trên 50% → 100%"
+    },
+    "34": {
+      "name": "Năng Lượng Từ Trường",
+      "desc": "Bí Đa Năng: Khi trồng, cấp cho mọi Cây Từ Tính được nối một lớp Giáp bằng 30 × số Cây Từ Tính | Sao Đa Nhiệm: Khi trồng, đặt lại và thay vào đó cấp cho chúng một buff tấn công 0.5% × số Cây Từ Tính"
+    },
+    "35": {
+      "name": "Nam Châm Đặc Biệt",
+      "desc": "Bí Đa Năng & Sao Đa Nhiệm: Giờ được tính gấp đôi vào số Cây Từ Tính"
+    },
+    "36": {
+      "name": "Bộc Liệt Liên Châu",
+      "desc": "Mở khóa Phân Loài: Chậu Rồng Lửa | Trúc Hoả Long: Tần suất phát nổ ×2 | Chậu Rồng Lửa: Thời gian hiệu lực buff Tốc Độ Tấn Công ×2"
+    },
+    "37": {
+      "name": "Liệt Hoả Phong Mang",
+      "desc": "Trúc Hoả Long: Mỗi zombie bị hô hấp lửa của Trúc Hoả Long đánh trúng sẽ tăng sát thương của cú đánh tiếp theo của chính đợt tấn công đó lên 1%, xếp chồng tối đa 400% | Chậu Rồng Lửa: Phóng ra một Bom Anh Đào và một hiệu ứng Ớt mỗi 4s"
+    },
+    "38": {
+      "name": "Thiên Băng Tịch Diệt",
+      "desc": "Mở khóa Phân Loài: Nấm Hàn Nguyệt | Nấm Hàn Ngục: +100 Năng Lượng Ban Đầu | Nấm Hàn Nguyệt: Sát thương ×2"
+    },
+    "39": {
+      "name": "Băng Phong Ngàn Dặm",
+      "desc": "Nấm Hàn Ngục: Bán kính tấn công ×2 | Nấm Hàn Nguyệt: Chu kỳ tấn công giảm một nửa"
+    },
+    "40": {
+      "name": "Bữa Tiệc Mộng Mơ",
+      "desc": "Thiếu Nữ Mộng Mơ: CD kỹ năng giảm một nửa, bán kính kỹ năng +0.5 ô"
+    },
+    "41": {
+      "name": "Tình Yêu Và Kí Ức",
+      "desc": "Thiếu Nữ Mộng Mơ: Zombie bị thôi miên được sinh ra bởi kỹ năng của cô ta gây thêm 30% sát thương chuẩn bỏ qua giảm sát thương khi cắn"
+    },
+    "42": {
+      "name": "Gió Bào Lâu Dài",
+      "desc": "Cỏ Ba Lá Quetzalcoatl: Phần thưởng sát thương hiệu ứng Choáng 20% → 40%, và các đòn tấn công giảm giá trị DR đi 10"
+    },
+    "43": {
+      "name": "Gió Bốc Nhanh",
+      "desc": "Cỏ Ba Lá Quetzalcoatl: CD sinh ra Cỏ Ba Lá 10s → 3s"
+    },
+    "44": {
+      "name": "Hat-trick",
+      "desc": "Đậu Pháp Sư Băng SP: Mỗi khi đạn của Đậu Pháp Sư Băng nảy, sát thương của nó tăng 10%. Ở Cấp 2, số lần nảy ×3"
+    },
+    "45": {
+      "name": "Ràng Buộc Phép Thuật",
+      "desc": "Đậu Pháp Sư Băng SP: Đạn của Đậu Pháp Sư Băng giờ ưu tiên nhắm vào boss có máu cao nhất khi nảy. Ở Cấp 2, zombie bị đạn nảy đánh trúng nhận thêm 10% sát thương"
+    },
+    "46": {
+      "name": "Thợ Lượm Phế Liệu",
+      "desc": "Hộp Bí Ngô Ender: Có thể lưu trữ vật sắt rơi ra và dùng chúng để hồi máu cho Thủy Quái Cơ Khí; ưu tiên con có tỉ lệ máu thấp nhất"
+    },
+    "47": {
+      "name": "Hộp Ender Lớn",
+      "desc": "Hộp Bí Ngô Ender: Giới hạn chồng chất của mỗi ô riêng lẻ giờ được nhân đôi cho tất cả Hộp Bí Ngô."
+    },
+    "1000": {
+      "name": "Bàn Tay Nhanh",
+      "desc": "CD của Găng Tay giảm 10s (Không CD cho cây Găng Tay), và giờ có thể di chuyển cả Mini-boss"
+    },
+    "1001": {
+      "name": "Hậu Cần Dự Trữ",
+      "desc": "Thời gian hồi của mọi cây giảm một nửa"
+    },
+    "1002": {
+      "name": "Mặt Trời Trù Phú",
+      "desc": "Mỗi Mặt Trời giờ cho giá trị cao hơn | 5 → 15 → 25 → 50 → 75"
+    },
+    "1003": {
+      "name": "Linh Hoạt",
+      "desc": "CD của Găng Tay giảm một nửa, và giờ có thể di chuyển cả Mini-boss"
+    },
+    "1004": {
+      "name": "Sao Chép Nhanh",
+      "desc": "Thời gian hồi của Cây Sao Chép: 5 phút → 50s"
+    },
+    "1005": {
+      "name": "Giờ Của Búa",
+      "desc": "CD của Búa giảm xuống còn 6s"
+    },
+    "1006": {
+      "name": "Đội Hình Linh Hoạt",
+      "desc": "Bạn giờ có thể chọn lại Đội Hình Cây của mình trong trận"
+    },
+    "1007": {
+      "name": "Nhát Chém Kết Thúc",
+      "desc": "Zombie nhận thêm 1800 sát thương khi chúng chịu quá 1800 sát thương (sau khi đã giảm sát thương)"
+    },
+    "1008": {
+      "name": "Sức Mạnh",
+      "desc": "Sát thương của cây tăng 20%"
+    },
+    "1009": {
+      "name": "Chém Phán Phân Lìa",
+      "desc": "Zombie nhận thêm 20% sát thương"
+    },
+    "1010": {
+      "name": "Đầu Tư Hợp Lí",
+      "desc": "Số lần Làm Mới Modifier +2"
+    },
+    "1011": {
+      "name": "Trạng Thái Băng Giá",
+      "desc": "Thời gian đóng băng của mọi zombie tăng 25%, và tỉ lệ làm chậm từ hiệu ứng lạnh tăng 10%"
+    },
+    "1012": {
+      "name": "Dự Trữ Mặt Trời",
+      "desc": "Nhận 3000 Mặt Trời, sau đó nhân đôi tổng lượng Mặt Trời của bạn | Trần Mặt Trời 50k → 100k"
+    },
+    "1013": {
+      "name": "Thực Anh Bom",
+      "desc": "Bom Anh Đào Chuẩn: Anh đào nổ giờ gây ít nhất 1800 sát thương, có bán kính nổ lớn hơn và gây sát thương Bù Lô Thiêu Đốt"
+    },
+    "1014": {
+      "name": "Phân Hạch Tái Chế",
+      "desc": "Nhấp vào cây đã có trên Găng Tay để tháo rời nó, chi phí 500 Mặt Trời | CD 20s"
+    },
+    "1015": {
+      "name": "Trận Hình Phalanx",
+      "desc": "Khi hai cây giống nhau được đặt chồng lên nhau (ngang hàng cùng cột), chúng nhận 50% phần thưởng sát thương và 50% giảm sát thương"
+    },
+    "1016": {
+      "name": "Mệnh Lệnh Hồi Sinh",
+      "desc": "Zombie bị thôi miên nhận 500% buff sát thương và 80% giảm sát thương (CẢNH BÁO: Cũng khiến Zombie Báo Anh Đào của Nấm Công Chúa/Hoàng Hậu Anh Đào không mất tờ báo khi được triệu hồi!!)"
+    },
+    "1017": {
+      "name": "Thác Tràn Vũ Trụ",
+      "desc": "CD tấn công của mọi Sao Chổi giảm một nửa | Sát thương cơ bản của Sao Chổi tăng 300 cho mỗi Định Tinh Tân Tiến Toàn Diện trên sân"
+    },
+    "1018": {
+      "name": "Sáng Ngộ",
+      "desc": "Thêm 4 Mức Độ Ánh Sáng Lumos cho toàn sân"
+    },
+    "1019": {
+      "name": "Sức Mạnh Lần Hai",
+      "desc": "Sau khi một cây được hồi máu, nó hồi 5% lượng máu hiện tại mỗi giây trong 3s tiếp theo (không xếp chồng)"
+    },
+    "1020": {
+      "name": "Tăng Cường Hồi Máu",
+      "desc": "Cây nhận 20% phần thưởng hồi máu"
+    },
+    "1021": {
+      "name": "Thấu Hiểu Coldsnap I",
+      "desc": "Nâng cấp Đậu Pháp Sư Băng lên Đậu Pháp Sư Băng SP (Cấp 1)"
+    },
+    "1022": {
+      "name": "Thấu Hiểu Coldsnap II",
+      "desc": "Nâng cấp Đậu Pháp Sư Băng SP lên Cấp 2"
+    },
+    "2000": {
+      "name": "Thực Diệt Linh",
+      "desc": "Nấm Nguyên Tử Chuẩn: Đạn Hủy Diệt giờ sẽ giải phóng một vụ nổ Nấm Nguyên Tử không để lại hố khi chạm đích"
+    },
+    "2001": {
+      "name": "Áp Đảo",
+      "desc": "Bật Trồng Cây 1 Cột"
+    },
+    "2002": {
+      "name": "Cải Tiến",
+      "desc": "Bạn có thể nâng cấp 1 Buff Epic có thể nâng cấp"
+    },
+    "2003": {
+      "name": "Vũ Khí Tối Thượng",
+      "desc": "Nếu một loại cây đã gây tổng sát thương cao nhất trên sân, các đòn tấn công của nó gây thêm 30% sát thương gốc dưới dạng sát thương chuẩn"
+    },
+    "2004": {
+      "name": "Sẵn Sàng Khai Hỏa",
+      "desc": "Sau khi bắn 50 phát (25 với máy phóng), cây nhận tốc độ tấn công vô hạn trong 1s"
+    },
+    "2005": {
+      "name": "Sơ Cứu Chiến Thuật",
+      "desc": "Cây nhận 1% hút máu, áp dụng cho cây có tỉ lệ máu thấp nhất trên sân"
+    },
+    "2006": {
+      "name": "Quá Tải",
+      "desc": "Càng lâu kể từ khi một zombie bị đánh, nó càng nhận nhiều sát thương hơn từ đòn đánh tiếp theo. <1s: Sát thương * (1 + 9t); ≥1s: Sát thương * (10 + 9ln(t))"
+    },
+    "2007": {
+      "name": "Hủ Hóa",
+      "desc": "Mọi zombie giờ bị hiệu ứng Hủ Hóa: mỗi khi một zombie bị đánh, đòn sát thương tiếp theo lên zombie đó tăng 5% (xếp chồng vô hạn)"
+    },
+    "2008": {
+      "name": "Phá Hoại",
+      "desc": "Bạn có thể loại bỏ 1 Zombie Modifier không phải Mini-boss từ menu Xem Modifier"
+    },
+    "2009": {
+      "name": "Lửa Vinh Quang",
+      "desc": "Khi zombie bị thôi miên chết, chúng phát nổ, gây sát thương bằng 150% máu tối đa của chúng cho zombie xung quanh"
+    },
+    "2010": {
+      "name": "Đồng Bộ Xung Lượng",
+      "desc": "Mỗi 1% phần thưởng tốc độ tấn công mà một cây nhận, nó cũng nhận 1% phần thưởng sát thương tấn công"
+    },
+    "3000": {
+      "name": "Bulwark Vĩnh Cửu",
+      "desc": "Khi Anh Long Đại Đế và Hắc Tảng (hoặc phân loài của chúng) cùng hiện diện, Anh Long Đại Đế/Độc Long Tử không còn giới hạn Độ bền tối đa, và Hắc Tảng/Hắc Diệu Địa Lôi nhận 90% giảm sát thương"
+    },
+    "3001": {
+      "name": "Tinh Thần Hợp Nhất",
+      "desc": "Nếu có ít nhất 6 Định Tinh Tân Tiến Toàn Diện và 6 Thái Dương Bạch Cải trên sân, Mặt Trời Mini do Thái Dương Bạch Cải triệu hồi sẽ không bao giờ biến mất và liên tục triệu hồi Lưu Tinh Thần Mặt Trời, trong khi Định Tinh Tân Tiến Toàn Diện có thể tiêu thụ Mặt Trời để gây thêm sát thương nhưng chỉ tấn công trong hàng của nó"
+    },
+    "3002": {
+      "name": "Hoả Lực Áp Đảo",
+      "desc": "Liên Pháo Anh Đào giờ rải đạn đều trên 3 hàng với quỹ đạo sin và cos, vụ nổ Ớt của Hoả Bộc Bí Đao nhận thuộc tính của vụ nổ Bom Anh Đào, và anh đào nổ gây thêm sát thương tỉ lệ với số Liên Pháo Anh Đào sau khi đi qua Hoả Bộc Bí Đao"
+    },
+    "3003": {
+      "name": "Ánh Trăng Soi Sáng",
+      "desc": "Khi có ít nhất 6 Định Tinh Tân Tiến Toàn Diện và 6 Nguyệt Thần Bạch Cải trên sân, Mặt Trăng Mini do Nguyệt Thần Bạch Cải triệu hồi sẽ không biến mất và mỗi Nguyệt Thần Bạch Cải cung cấp lượng lớn Mức Độ Ánh Sáng Lumos, trong khi Định Tinh Tân Tiến Toàn Diện gây thêm sát thương cho zombie có nhiều máu nhất"
+    },
+    "3004": {
+      "name": "Hàn Không Tinh Vũ",
+      "desc": "Đạn dưa từ Mưa Sao Băng của Thời Không Cực Hàn giờ gây 6× sát thương và tạo ra các điểm kỳ dị, và Thời Không Thần Ngọc Mễ luôn ném Hố Đen Tối Thượng. Khi một Hố Đen Tối Thượng sụp đổ, nó cũng kích nổ mọi điểm kỳ dị để tăng thêm sát thương của chính nó"
+    },
+    "3005": {
+      "name": "Hỏa Ngục Tận Thế",
+      "desc": "Nhấp vào một Hoả Bộc Luân đã nạp đạn khi đang cầm Hỏa Hạch Thiên Đế trên Găng Tay để toàn bộ Hoả Bộc Luân đã nạp trên sân thực hiện một cuộc tấn công phối hợp lên trời. Mỗi 8 phát Đạn Hỏa Hạch sẽ gọi xuống một Thiên Thạch Lửa gây 80× sát thương, san bằng mọi zombie trên màn hình"
+    },
+    "3006": {
+      "name": "Hoả Lực Vô Hạn",
+      "desc": "Khi đặt Drone Anh Đào phía trên Tử Thần Diệt Linh, chúng tấn công càng nhiều thì đợt bắn tiếp theo sẽ bắn càng nhiều đạn. Phần thưởng này phai dần sau khi chúng ngừng tấn công. (CẢNH BÁO: Sẽ tạo ra lượng đạn khủng khiếp!!)"
+    },
+    "3007": {
+      "name": "Vụ Nổ Siêu Tân Tinh",
+      "desc": "Lưu Quang Thời Không có thể khóa vào bất kỳ Bạch Quang Hàn Nguyệt nào phía trước (nhấp để chọn) để nạp năng lượng cho nó. Khi năng lượng vượt 10k, độ sáng của nó tăng lên, gây sát thương lớn và làm chậm zombie trong phạm vi của nó. Ở 100k, nó sụp đổ thành một hố đen và phát nổ, tàn phá mọi zombie trên màn hình. (CẢNH BÁO: Có ánh sáng nhấp nháy)"
+    },
+    "3008": {
+      "name": "Chiến Tranh Phi Đối Xứng",
+      "desc": "Khi Độc Tử Lan và Băng Linh Xung Kích được trồng trên cùng một ô, đạn của cây sau sẽ tách thêm một lần. Đạn thường và đạn đặc biệt của cả hai cây kế thừa một số thuộc tính từ đạn của nhau. (CẢNH BÁO: Sẽ gây lag)"
+    },
+    "3009": {
+      "name": "Sốc Nhiệt",
+      "desc": "Hàn Diệt Linh giờ sinh ra Zombie Hắc Thiết Tảng, đạn chính của Hỏa Thần Chúc Dung tách ra thêm một quả Dưa Diên Thạch; gây sát thương diện rộng bằng sức tấn công gốc của dưa, tăng 100% cho mỗi cây băng, tuyết và lửa trên sân, và một sự cộng hưởng giữa debuff Chịu Nhiệt và Lạnh được mở khóa"
+    },
+    "3010": {
+      "name": "Lửa Thiêng Tận Thế",
+      "desc": "Hoả Bộc Tinh Cự giờ đốt cháy toàn sân thay vì một hàng duy nhất khi trồng cây Cay. Đạn của SP Hoả Bộc Phượng Lan và Máy Bay Phượng Hoàng SP tách ra mọi hàng khi đi qua Hoả Bộc Tinh Cự"
+    },
+    "4000": {
+      "name": "Tiểu Hắc Diện",
+      "desc": "Triệu hồi một Tiểu Hắc Diện để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Cú đập búa của nó gây sát thương cho cả cây và zombie xung quanh, cấp giảm sát thương cho cây bị ảnh hưởng, và gây thêm sát thương cho zombie dựa trên lượng máu của cây xung quanh. Hiệu ứng của búa tăng theo cấp độ XP."
+    },
+    "4001": {
+      "name": "Tiểu Hắc Thiết",
+      "desc": "Triệu hồi một Tiểu Hắc Thiết để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Mỗi 3s, nó di chuyển đến cây có tỉ lệ máu thấp nhất và cổ vũ khu vực, hồi máu cho cây xung quanh và tăng sát thương nhận phải của zombie. Hiệu ứng cổ vũ tăng theo cấp xp"
+    },
+    "4002": {
+      "name": "Tiểu Băng Nữ",
+      "desc": "Triệu hồi một Tiểu Băng Nữ để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Cô ấy nhắm vào hàng có nhiều máu nhất và bắn đạn băng. Sát thương tăng dựa trên số zombie bị làm lạnh/đóng băng, và nhận xuyên thấu vô hạn cùng xp bổ sung nếu Bà Chúa Tuyết đang trên sân. Sát thương đạn tăng theo cấp xp"
+    },
+    "4003": {
+      "name": "Tiểu Nữ Hề",
+      "desc": "Triệu hồi một Tiểu Nữ Hề để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Mỗi 15s, cô ấy thực hiện một đòn tấn công ngẫu nhiên: triệu hồi zombie Chúa Hề bị thôi miên cấp cao theo từng hàng hoặc ném ra vật nổ (toàn hàng hoặc toàn sân). Sát thương nổ tăng theo cấp xp"
+    },
+    "4004": {
+      "name": "Tiểu Hải Vương",
+      "desc": "Triệu hồi một Tiểu Hải Vương để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Mỗi 5s, nó ném phi thương về phía trước, xuyên thấu và gây sát thương cho zombie bằng các vụ nổ. Nếu Mini-boss Hải Vương hiện diện, nó ném 4 phi thương cho mỗi hàng mỗi 10s thay vì thế"
+    },
+    "4005": {
+      "name": "Tiểu Kỵ Sĩ",
+      "desc": "Triệu hồi một Tiểu Kỵ Sĩ để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Bắn nhanh các viên đậu sắt về phía trước, và mỗi 20 giây cô ấy triệu hồi một cột chiến mã mini xông vào zombie và tạo Linh Hồn Zombie từ những con bị đánh trúng. Nếu Mini-boss Nguyên Soái Hắc Thiết hiện diện, thời gian triệu hồi của cô ấy giảm một nửa. (CẢNH BÁO: Sẽ gây lag KHỦNG!!)"
+    },
+    "4006": {
+      "name": "Tiểu Vương Giả",
+      "desc": "Triệu hồi một Tiểu Vương Giả để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Mỗi 10 giây, nó biến đổi một số lượng zombie nhất định (dựa theo cấp XP) thành Zombie Cưỡi Gà hoặc Zombie Cưỡi Gà Máy. Nếu Mini-boss Lãnh Chúa Imp hiện diện, số lượng biến đổi tối đa được nhân đôi."
+    },
+    "4007": {
+      "name": "Tiểu Quái Ngư",
+      "desc": "Triệu hồi một Tiểu Quái Ngư để chiến đấu cho bạn (thay thế Thú Cưng hiện tại). Tăng sát thương từ các vụ nổ Hề Hộp Nhảy của phe cây, và bắn một quả nổ vào zombie mỗi 1.5s (mỗi 3 đòn tấn công được bắn dọc theo mỗi hàng). Nếu Mini-boss Quái Ngư hiện diện, chu kỳ tấn công của thú cưng giảm một nửa."
+    },
+    "5000": {
+      "name": "Sát Khổng Nhân",
+      "desc": "Cây gây thêm +100% sát thương lên Mini-boss và Boss"
+    },
+    "5001": {
+      "name": "Lời Nguyền Sức Mạnh",
+      "desc": "Cây nhận 5% phần thưởng sát thương cho mỗi Zombie Modifier bạn có"
+    },
+    "5002": {
+      "name": "Tận Thế Ragnarok",
+      "desc": "Mở khóa Sao Kiếm Đại Vương"
+    },
+    "5003": {
+      "name": "Lời Nguyền Kiêu Ngạo",
+      "desc": "Tấn công và máu tối đa của cây Tối Thượng giảm 90%, nhưng mọi cây khác giờ có 40× Tấn công & máu tối đa, và 2× Tốc Độ Tấn Công"
+    },
+    "5004": {
+      "name": "Lời Nguyền Tham Lam",
+      "desc": "Thẻ cây không còn cần hồi nữa nhưng mỗi lần dùng tốn 15× Mặt Trời gốc của nó + 50% lượng Mặt Trời hiện tại của bạn"
+    },
+    "6000": {
+      "name": "Quân Cờ Cuối Cùng",
+      "desc": "Xe Cắt Cỏ: Sát thương cuối cùng +200%, Tốc độ tấn công +300%"
+    },
+    "6001": {
+      "name": "Anh Long Đại Đế I",
+      "desc": "Anh Long Đại Đế: Sức Hồi Máu +100%"
+    },
+    "6002": {
+      "name": "Anh Long Đại Đế II",
+      "desc": "Anh Long Đại Đế: Sát thương tấn công +50%"
+    },
+    "6003": {
+      "name": "Liên Pháo Anh Đào I",
+      "desc": "Liên Pháo Anh Đào: Bán kính nổ của đạn anh đào và các biến thể khác +50% và sát thương +100%"
+    },
+    "6004": {
+      "name": "Liên Pháo Anh Đào II",
+      "desc": "Liên Pháo Anh Đào: Bán kính nổ của đạn anh đào và các biến thể khác -50% nhưng sát thương +300%"
+    },
+    "6005": {
+      "name": "Hàn Diệt Linh I",
+      "desc": "Hàn Diệt Linh: Zombie bị đóng băng nhận thêm +50% sát thương"
+    },
+    "6006": {
+      "name": "Hàn Diệt Linh II",
+      "desc": "Hàn Diệt Linh: Zombie bị thôi miên gây 3× sát thương"
+    },
+    "6007": {
+      "name": "Hoả Bộc Bí Đao I",
+      "desc": "Hoả Bộc Bí Đao: Hiệu ứng Ớt đổi từ tức thời sang sát thương theo thời gian, gây 1/3 sát thương gốc 10 lần trong 1s"
+    },
+    "6008": {
+      "name": "Hoả Bộc Bí Đao II",
+      "desc": "Hoả Bộc Bí Đao: Cấp cho đạn +50% sát thương trước khi đốt chúng"
+    },
+    "6009": {
+      "name": "Phòng Tuyến Vững Chãi",
+      "desc": "Cây ở cột thứ năm nhận 50% tăng Độ bền tối đa và 50% giảm sát thương. Mỗi cột về phía trái giảm giới hạn sát thương nhận 10% và tăng giảm sát thương 10%"
+    },
+    "7000": {
+      "name": "Tiến Hóa SP",
+      "desc": "Mở khóa SP Lan Tử Đinh và SP Tử Cơ Thương Linh\nDùng Nấm Nguyên Tử để nâng cấp"
+    },
+    "7001": {
+      "name": "Tiến Hóa SP",
+      "desc": "Mở khóa Quang Hạch Đại Đế và Hỏa Hạch Thiên Đế\nDùng Hạt Óc Chó để nâng cấp"
+    },
+    "7002": {
+      "name": "Tiến Hóa SP",
+      "desc": "Mở khóa SP Hoả Bộc Phượng Lan và Máy Bay Phượng Hoàng SP\nDùng Ớt để nâng cấp"
+    },
+    "7003": {
+      "name": "Tiến Hóa SP",
+      "desc": "Mở khóa Băng Linh Xung Kích và Nhật Linh Xung Kích\nDùng Đậu Hà Lan để nâng cấp"
+    },
+    "10000": {
+      "name": "Mặt Trời Vô Tận",
+      "desc": "Lập tức nhận 100k Mặt Trời | Trần Mặt Trời +100k"
+    },
+    "10001": {
+      "name": "Bảo Hộ Thiết Giáp",
+      "desc": "Lập tức nhận 3 thẻ cây Thủy Quái Cơ Khí, bắt đầu với 640k HP"
+    },
+    "10002": {
+      "name": "Đào Tạo Tinh Nhuệ",
+      "desc": "Nâng cấp (1+n) cây ngẫu nhiên lên Cấp 1, trong đó n là số Buff cây bạn hiện có"
+    },
+    "10003": {
+      "name": "Tốc Bắn Áp Đảo",
+      "desc": "Tăng tốc (1+n) cây ngẫu nhiên, trong đó n là số Buff cây bạn hiện có"
+    },
+    "10004": {
+      "name": "Không Phải Lúc Này",
+      "desc": "Lần tới khi zombie chạm vào nhà, nó bị bỏ qua trong 3s và đẩy lùi mọi zombie về vị trí bắt đầu"
+    },
+    "10005": {
+      "name": "Khu Drop Cung Cấp",
+      "desc": "Nhận một Hộp Bí Ngô chứa nhiều thẻ cây của Cây Dung Hợp Tối Thượng (không có Phân Loài)"
+    },
+    "10006": {
+      "name": "Thần Cứu Thế",
+      "desc": "Đẩy lùi mọi zombie về vị trí bắt đầu, sau đó lập tức tiêu diệt toàn bộ zombie"
+    },
+    "10007": {
+      "name": "Người Được Chọn Mùa Đông",
+      "desc": "Nhận một Siêu Đậu Bão Tố Băng Giá với +1500% sát thương và máu, +1000% tốc độ, và nhận thêm một Cực Hàn Âm Đậu"
+    },
+    "10008": {
+      "name": "Sóng Nóng",
+      "desc": "Nhận một cây Tối Thượng ngẫu nhiên. Mỗi đợt zombie mới, nó nhận +25% sát thương, +25% máu, và +10% tốc độ"
+    },
+    "10009": {
+      "name": "Hiệp Ước Phá Hoại",
+      "desc": "Nhận một thẻ cây Nấm Hư Vô. Trồng nó sẽ CHẤP NHẬN thử thách:\nTriệu hồi 3-6 Zombie Tối Thượng ngẫu nhiên ở mỗi hàng (vâng, MỌI loại có thể)\nTiêu diệt toàn bộ để mở khóa Modifier \"Hủ Hóa\""
+    },
+    "10010": {
+      "name": "Vượt Giới Hạn",
+      "desc": "Sát thương tấn công của mọi cây ×2"
+    },
+    "10011": {
+      "name": "Khiên Lực Trường",
+      "desc": "Mọi cây nhận 50 + (2% máu tối đa) giáp mỗi giây"
+    },
+    "10012": {
+      "name": "Ván Cờ Thành Bại",
+      "desc": "Khi bạn có 20 hoặc nhiều hơn cây trên sân, zombie chạm vào nhà sẽ không còn khiến bạn thua, mà thay vào đó mọi cây có 1/3 cơ hội chết"
+    },
+    "10013": {
+      "name": "Hiệp Ước Thăng Cấp",
+      "desc": "Nhận một thẻ cây Bí Đa Năng. Trồng nó sẽ CHẤP NHẬN thử thách:\nSố lượng zombie trong 20 đợt tiếp theo được nhân đôi\nVượt qua và mọi cây trên ô của Bí Đa Năng sẽ được thăng lên Cấp 3"
+    },
+    "10014": {
+      "name": "Dọn Dẹp Toàn Sân",
+      "desc": "Kích hoạt mọi Xe Cắt Cỏ hiện có và bổ sung một cột đầy đủ Xe Cắt Cỏ mới"
+    },
+    "10015": {
+      "name": "Khoảng Khắc Sinh Tử",
+      "desc": "Bạn sẽ không thua nếu tiêu diệt được zombie vừa chạm vào nhà trong vòng 1.5s"
+    },
+    "10016": {
+      "name": "Quân Đoàn Nhân Bản",
+      "desc": "Lập tức nhận 5 thẻ cây Cây Sao Chép"
+    },
+    "10017": {
+      "name": "Cùng Chung Một Rễ",
+      "desc": "Lần đầu tiên có bản sao thứ hai của một cây bất kỳ, bạn nhận thêm một thẻ cây của cây đó"
+    },
+    "10018": {
+      "name": "Xúc Tác Tiến Hóa",
+      "desc": "Dùng Găng Tay để di chuyển một cây lên một cây cùng loại và cùng cấp sẽ nâng cấp nó lên 1 cấp"
+    },
+    "10019": {
+      "name": "Định Mệnh Luyện Lại",
+      "desc": "Lập tức nhận 10 Bình Tái Chế Vàng. Ngoài ra, nhận 1 mỗi đợt và 5 mỗi cờ (đợt lớn)"
+    },
+    "11000": {
+      "name": "Triển Khai Nhanh",
+      "desc": "Cơ chế đặc biệt của cấp: CD của Xe Đẩy giảm còn 3 giây"
+    },
+    "11001": {
+      "name": "Tăng Trưởng Tức Thời",
+      "desc": "Cơ chế đặc biệt của cấp: Nấm Cứu Thế bắt đầu với 1000 Giai Đoạn Tăng Trưởng"
+    },
+    "12000": {
+      "name": "Thăng: Lửa Địa Ngục",
+      "desc": "Dưa của Hỏa Thần Chúc Dung tạo ra một biển lửa bổ sung khi chạm đất và có thể tách thêm 2 lần khi trúng zombie"
+    },
+    "12001": {
+      "name": "Thăng: Bùng Nổ",
+      "desc": "Khi Pháo Đài Bất Diệt đang thi triển tuyệt kỹ, chúng sẽ phóng thêm 4 sóng Lửa Băng, mỗi sóng gây 50 đợt sát thương. Mỗi đợt gây sát thương bằng 10,000% sức tấn công của pháo đài lên một zombie ngẫu nhiên trong phạm vi"
+    },
+    "12002": {
+      "name": "Thăng: Chính Xác",
+      "desc": "Cú đánh chí mạng của Cao Xạ Hủy Diệt giờ được đảm bảo"
+    },
+    "12003": {
+      "name": "Thăng: Dội Bom",
+      "desc": "Đạn của Mìn Ba Đầu giờ sẽ kích hoạt vụ nổ Mìn Khoai Tây khi trúng zombie"
+    },
+    "12004": {
+      "name": "Thăng: Hủy Diệt",
+      "desc": "Khi Hoa Ăn Thịt Hủy Diệt tấn công, nó sẽ kích hoạt một vụ nổ Hủy Diệt bất kể có nuốt zombie hay không. Nếu nó nuốt zombie, nó sẽ kích hoạt hai vụ nổ Hủy Diệt"
+    },
+    "12005": {
+      "name": "Thăng: Quên Lãng",
+      "desc": "Nấm Hư Vô phát ra một vụ nổ Nấm Nguyên Tử gây 1 triệu sát thương khi chết"
+    },
+    "12006": {
+      "name": "Thăng: Khiên Quang Minh",
+      "desc": "Lưu Quang Tiên Tán có thể tiêu thụ năng lượng để đẩy lùi zombie trong vùng 3×3 và đòn tấn công thường có thể nhắm vào ×3 mục tiêu"
+    },
+    "12007": {
+      "name": "Thăng: Trọng Lực",
+      "desc": "Hố đen sẽ hút zombie có dưới 50% máu tối đa"
+    },
+    "12008": {
+      "name": "Thăng: Xuyên Thấu",
+      "desc": "Hoả Bộc Phượng Lan giờ bắn mọi hàng và đạn của nó xuyên thấu vô hạn"
+    },
+    "12009": {
+      "name": "Thăng: Miệng Sâu",
+      "desc": "Phạm vi hấp dẫn của Đại Khẩu Quang Thực sau khi tiêu hóa tăng lên rất lớn"
+    },
+    "12010": {
+      "name": "Thăng: Tia Hỗn Mang",
+      "desc": "2 Tia Thiên Quang liền kề sẽ định kỳ phóng ra các vụ nổ hố đen tí hon"
+    },
+    "12011": {
+      "name": "Thăng: Nảy Nhảy",
+      "desc": "Thiết Đậu Tiểu Đội không còn bắn trúng đầu nhưng đạn nảy trên rìa sân (như Đậu Tách), tối đa (số lần xuyên + 2) lần"
+    },
+    "12012": {
+      "name": "Thăng: Dày Dạn",
+      "desc": "Nấm Công Chúa giờ triệu hồi zombie với chỉ số được tăng lên rất lớn"
+    },
+    "12013": {
+      "name": "Thăng: Mật Độ",
+      "desc": "Bão Tố Hắc Bầu Dục bắn đạn lớn hơn, mạnh hơn nữa trong Tuyệt Kỹ"
+    },
+    "12014": {
+      "name": "Thăng: Tê Bành",
+      "desc": "Zombie bị nhắm tới bởi bất kỳ Gai Thép nào liên tục mất máu bằng 400% sức tấn công trong 2s"
+    },
+    "12015": {
+      "name": "Thăng: Phúc Khí",
+      "desc": "Hàn Trúc Vĩnh Hằng giờ có thể theo chuyển động chuột với các nâng cấp tốc độ tấn công làm tăng tốc độ di chuyển, gây sát thương cho mọi zombie bị mắc kẹt trên đường"
+    },
+    "12016": {
+      "name": "Thăng: Giải Mật",
+      "desc": "Zombie sinh ra sẽ bị nguyền rủa với 3 lớp Phép Giải Mật. Mỗi đợt, zombie có máu cao nhất nhận 100 lớp Giải Mật. Mỗi lớp tăng 100% sát thương zombie nhận, và khi một zombie bị nguyền Giải Mật chết, các lớp của nó sẽ được lan sang zombie xung quanh."
+    },
+    "12017": {
+      "name": "Thăng: Đạn Lọc",
+      "desc": "Đạn của Óc Chó Dưa phát nổ giữa không trung và tách thành nhiều Dưa Hấu Mini ném vào zombie khắp sân"
+    },
+    "12018": {
+      "name": "Thăng: Mưa Dưa Vàng",
+      "desc": "Tuyệt Kỹ của Dưa Vàng ngoài ra còn phóng dưa vàng vào mọi zombie, và số lần tách của Tuyệt Kỹ ×2"
+    },
+    "12019": {
+      "name": "Thăng: Cưa Gia Cường",
+      "desc": "Đạn của Hàn Liên Cung Thủ nhận thêm 0.6% Giáp hiện tại của nó dưới dạng Sát Thương Tấn Công, giới hạn ở 300% Tấn Công cơ bản"
+    },
+    "12020": {
+      "name": "Thăng: Bùng Nổ Toàn Diện",
+      "desc": "Phạm vi nhắm của Diệt Hoả Luân +1 hàng trên và dưới, và bắn đồng thời vào mọi mục tiêu (nếu số mục tiêu ít hơn số bắn tán tối đa, số đạn còn lại được chia đều cho các mục tiêu) | Thời gian bay của đạn giảm 50%"
+    },
+    "12021": {
+      "name": "Thăng: Kiếm Thuật",
+      "desc": "Mỗi 2 thanh đại kiếm được triệu hồi bởi Sao Kiếm Đại Vương, mỗi đòn tấn công sẽ bắn thêm 1 thanh tiểu kiếm xoay"
+    },
+    "12022": {
+      "name": "Thăng: Vòng Tròn Tử Thần",
+      "desc": "Đạn bao quanh Óc Chó Nam Châm giờ có thể xuyên thấu vô hạn, nhưng thời gian hiệu lực giảm còn 10s"
+    },
+    "12023": {
+      "name": "Thăng: Hỏa Hoạn",
+      "desc": "Các đòn tấn công của Trúc Hoả Long ngoài ra còn giải phóng hiệu ứng Ớt ở mọi hàng"
+    },
+    "12024": {
+      "name": "Thăng: Khổng Lồ",
+      "desc": "Hắc Tảng và các hình chiếu của nó có khung va chạm lớn hơn rất nhiều và miễn nhiễm bị nghiền bởi boss\nCD Hồi Máu: 15s → 10s"
+    },
+    "12025": {
+      "name": "Thăng: Triệu Hoán",
+      "desc": "Hắc Diện Vũ Trang Khổng Nhân bị thôi miên sinh ra Tiểu Tử Yêu Tinh bị thôi miên khi đập"
+    },
+    "12026": {
+      "name": "Thăng: Chỉ Số Ma Pháp",
+      "desc": "Cao Xạ Bất Diệt giờ bắn một tia sáng liên tục"
+    },
+    "12027": {
+      "name": "Thăng: Buồn Tênh",
+      "desc": "Commando Buồn Tênh giờ luôn thi triển Tuyệt Kỹ, nhưng chỉ với một nửa số đạn"
+    },
+    "13000": {
+      "name": "Bảo Vệ Chống Vụ Nổ",
+      "desc": "Sát thương từ các vụ nổ của Zombie Hề giảm còn 1000"
+    },
+    "13001": {
+      "name": "Kì Giáp Phép Thuật",
+      "desc": "Cây có Giáp sẽ hồi lượng máu bằng 0.1% Giáp của chúng mỗi giây"
+    },
+    "13002": {
+      "name": "Hình Nhân Voodoo",
+      "desc": "Triệu hồi một Zombie Hình Nhân lên sân, phân phối 60% sát thương nhận phải cho tất cả zombie; có thể di chuyển bằng Găng Tay Zombie; không thể chuyển giao sát thương do Zombie bị Thôi Miên gây ra"
+    },
+    "13003": {
+      "name": "Hình Nhân Voodoo - A",
+      "desc": "Zombie Hình Nhân giờ phân phối 100% sát thương nhận phải cho tất cả zombie"
+    },
+    "13004": {
+      "name": "Hình Nhân Voodoo - B",
+      "desc": "Triệu hồi thêm một Zombie Hình Nhân"
+    },
+    "13005": {
+      "name": "Hình Nhân Voodoo - X",
+      "desc": "Khi Zombie Hình Nhân nhận sát thương, nó cũng gây 100% sát thương đó cho zombie có nhiều máu nhất trên sân"
+    },
+    "13006": {
+      "name": "Bạo Nổ Mặt Trời",
+      "desc": "Triệu hồi một Máy Phản Ứng Mặt Trời, định kỳ gây sát thương cho tất cả zombie trên sân"
+    },
+    "13007": {
+      "name": "Bạo Nổ Mặt Trời - A",
+      "desc": "Giảm CD tấn công của Máy Phản Ứng Mặt Trời đi 50%"
+    },
+    "13008": {
+      "name": "Bạo Nổ Mặt Trời - B",
+      "desc": "Tăng 100% sát thương của Máy Phản Ứng Mặt Trời"
+    },
+    "13009": {
+      "name": "Bạo Nổ Mặt Trời - X",
+      "desc": "Máy Phản Ứng Mặt Trời ngoài ra còn gọi xuống một Lưu Tinh Thần Mặt Trời mỗi khi tấn công"
+    },
+    "13010": {
+      "name": "Búa Chiến",
+      "desc": "Giảm sát thương của Búa, nhưng giảm CD xuống còn 3s"
+    },
+    "13011": {
+      "name": "Búa Chiến - A",
+      "desc": "Tăng mạnh phạm vi tấn công hiệu quả của Búa"
+    },
+    "13012": {
+      "name": "Búa Chiến - B",
+      "desc": "Giảm thêm CD của Búa"
+    },
+    "13013": {
+      "name": "Búa Chiến - X",
+      "desc": "Khi Búa đánh trúng zombie, triệu hồi một chiếc búa lớn tại vị trí đó, liên tục gây sát thương cho zombie trước khi biến mất sau một lúc"
+    },
+    "13014": {
+      "name": "Bom Quái Ngư",
+      "desc": "Một Tiểu Quái Ngư sẽ chiến đấu cho bạn"
+    },
+    "13015": {
+      "name": "Bom Quái Ngư - A",
+      "desc": "Số lần tấn công cần để Tiểu Quái Ngư khai hoả salvô -1"
+    },
+    "13016": {
+      "name": "Bom Quái Ngư - B",
+      "desc": "Giảm CD tấn công của Tiểu Quái Ngư"
+    },
+    "13017": {
+      "name": "Bom Quái Ngư - X",
+      "desc": "Đạn salvô của Tiểu Quái Ngư có thể tiếp tục tách ra khi đang bay"
+    },
+    "13018": {
+      "name": "Màn Nguyệt Quang",
+      "desc": "Triệu hồi một Máy Phản Ứng Mặt Trăng, định kỳ hồi máu cho tất cả cây trên sân"
+    },
+    "13019": {
+      "name": "Màn Nguyệt Quang - A",
+      "desc": "Tăng mạnh lượng máu được hồi bởi Máy Phản Ứng Mặt Trăng"
+    },
+    "13020": {
+      "name": "Màn Nguyệt Quang - B",
+      "desc": "Cấp cho mọi cây trên sân một lớp giáp 1000 HP mỗi khi Máy Phản Ứng Mặt Trăng kích hoạt"
+    },
+    "13021": {
+      "name": "Màn Nguyệt Quang - X",
+      "desc": "Mỗi khi Máy Phản Ứng Mặt Trăng kích hoạt, ánh trăng giáng xuống mọi cây trên sân, lập tức tiêu diệt Zombie thường trong vùng 3x3 và khiến cây bất tử trong một thời gian ngắn"
+    },
+    "13022": {
+      "name": "Màn Sắt",
+      "desc": "Giảm 20% sát thương nhận phải của mọi cây"
+    },
+    "13023": {
+      "name": "Màn Sắt - A",
+      "desc": "Giảm 40% sát thương nhận phải của mọi cây"
+    },
+    "13024": {
+      "name": "Màn Sắt - B",
+      "desc": "Giảm 60% sát thương nhận phải của mọi cây"
+    },
+    "13025": {
+      "name": "Màn Sắt - X",
+      "desc": "Giảm 90% sát thương nhận phải của mọi cây; mỗi khi một cây mất máu, nó bắn một viên đậu từ vị trí của nó với sát thương bằng máu tối đa | Nếu zombie có Modifier Phản Công, hiệu ứng đổi thành giảm 99% sát thương nhận phải"
+    },
+    "13026": {
+      "name": "May Mắn • Khoản Vay",
+      "desc": "Nhận một lượt rút Buff ở mốc 500 May Mắn, sau đó mất 25 May Mắn"
+    },
+    "13027": {
+      "name": "May Mắn • Khoản Vay - A",
+      "desc": "Nhận một lượt rút Buff ở mốc 1000 May Mắn, sau đó mất 50 May Mắn"
+    },
+    "13028": {
+      "name": "May Mắn • Khoản Vay - B",
+      "desc": "Nhận một lượt rút Buff ở mốc 1500 May Mắn, sau đó mất 75 May Mắn"
+    },
+    "13029": {
+      "name": "May Mắn • Khoản Vay - X",
+      "desc": "Lập tức đặt May Mắn của bạn thành 250, số lần Làm Mới thành 5, nhân 3 trần May Mắn, và vĩnh viễn không thể chọn Buff May Mắn và [Đầu Tư Hợp Lí]\nMỗi lượt rút Buff cho 25 May Mắn, cộng thêm một phần bằng 20% May Mắn hiện tại (tối đa 100); chọn Đồng, Bạc, Vàng/Ngẫu Nhiên hoặc Kim Cương/Prism/Lời Nguyền sẽ lần lượt tốn 20/40/60/100 May Mắn; mỗi lần làm mới tốn 50 May Mắn"
+    },
+    "13030": {
+      "name": "May Mắn • Phần Thưởng",
+      "desc": "Lập tức sinh ra một đợt zombie với 2× máu và tốc độ; tiêu diệt hết chúng sẽ nhận một lượt rút Buff ở mốc 500 May Mắn"
+    },
+    "13031": {
+      "name": "May Mắn • Phần Thưởng - A",
+      "desc": "Lập tức sinh ra một đợt zombie với 3× máu và tốc độ; tiêu diệt hết chúng sẽ nhận một lượt rút Buff ở mốc 1000 May Mắn"
+    },
+    "13032": {
+      "name": "May Mắn • Phần Thưởng - B",
+      "desc": "Lập tức sinh ra một đợt zombie với 4× máu và tốc độ; tiêu diệt hết chúng sẽ nhận một lượt rút Buff ở mốc 1500 May Mắn"
+    },
+    "13033": {
+      "name": "May Mắn • Phần Thưởng - X",
+      "desc": "Lập tức nhân đôi May Mắn và trần May Mắn hiện tại (nếu May Mắn của bạn là số âm, giá trị tuyệt đối được lấy trước khi nhân đôi, VD: -50 May Mắn → 100)"
+    },
+    "13034": {
+      "name": "Cháy Địa Ngục",
+      "desc": "Nhấp vào bất kỳ đâu sẽ giải phóng một Cháy Địa Ngục tại vị trí nhấp, CD 10s, hoặc 1 giây nếu nó tiêu diệt zombie"
+    },
+    "13035": {
+      "name": "Cháy Địa Ngục - A",
+      "desc": "Tăng 100% sát thương của Cháy Địa Ngục"
+    },
+    "13036": {
+      "name": "Cháy Địa Ngục - B",
+      "desc": "Giảm 50% CD của Cháy Địa Ngục và CD khi hạ gục"
+    },
+    "13037": {
+      "name": "Cháy Địa Ngục - X",
+      "desc": "Cháy Địa Ngục giờ có thể gây sát thương cho cây; tiêu diệt một cây sẽ kích hoạt hiệu ứng Ớt ở mọi hàng và làm mới CD; sát thương tăng dựa trên tổng số Modifier mà cây đó có"
+    },
+    "13038": {
+      "name": "Chiến Cơ Quang Lăng",
+      "desc": "Nhận một Chiến Cơ Mecha liên tục khóa vào và tấn công zombie nằm xa bên trái nhất"
+    },
+    "13039": {
+      "name": "Chiến Cơ Quang Lăng - A",
+      "desc": "Tăng 1 số lần khúc xạ của đòn tấn công Chiến Cơ Mecha"
+    },
+    "13040": {
+      "name": "Chiến Cơ Quang Lăng - B",
+      "desc": "Tăng 2 số lần khúc xạ của đòn tấn công Chiến Cơ Mecha"
+    },
+    "13041": {
+      "name": "Chiến Cơ Quang Lăng - X",
+      "desc": "Tấn công Lang Kính của Chiến Cơ Mecha nhận xuyên thấu vô hạn, và các khúc xạ có thể đánh trúng cùng một mục tiêu nhiều lần"
+    },
+    "13042": {
+      "name": "Bão Sấm Sét",
+      "desc": "Triệu gọi Bão Sét để chiến đấu cho bạn, định kỳ gây sát thương cho zombie trên sân"
+    },
+    "13043": {
+      "name": "Bão Sấm Sét - A",
+      "desc": "Tăng 100% thời gian tồn tại của Bão Sét"
+    },
+    "13044": {
+      "name": "Bão Sấm Sét - B",
+      "desc": "Tăng 100% tần suất tấn công của Bão Sét"
+    },
+    "13045": {
+      "name": "Bão Sấm Sét - X",
+      "desc": "Bão Sét giờ tấn công liên tục không ngừng nghỉ"
+    },
+    "13046": {
+      "name": "Toàn Năng",
+      "desc": "Tăng 25 điểm May Mắn, tăng 10% sát thương tấn công tổng thể, 1 lần Làm Mới và giảm 10% thời gian hồi sinh"
+    },
+    "13047": {
+      "name": "Toàn Năng - A",
+      "desc": "Tăng 50 điểm May Mắn, tăng 20% sát thương tấn công tổng thể, 2 lần Làm Mới và giảm 20% thời gian hồi sinh"
+    },
+    "13048": {
+      "name": "Toàn Năng - B",
+      "desc": "Tăng 75 điểm May Mắn, tăng 10% sát thương tấn công tổng thể, 3 lần Làm Mới và giảm 30% thời gian hồi sinh"
+    },
+    "13049": {
+      "name": "Toàn Năng - X",
+      "desc": "Mọi cây trên sân nhận 500% phần thưởng máu, 300% phần thưởng sát thương tấn công độc lập, 200% phần thưởng tốc độ tấn công, 60% tỉ lệ chí mạng và 150% sát thương chí mạng"
+    },
+    "14000": {
+      "name": "Không Đau Khổ Không Thành Công",
+      "desc": "Tiêu diệt toàn bộ cây của bạn, và chia đôi các buff sát thương và tốc độ độc lập của mọi cây;\nĐiều tương tự sẽ xảy ra sau 20 đợt, nhưng lần này các buff được nhân đôi"
+    },
+    "14001": {
+      "name": "Tất Cả Hoặc Không Gì",
+      "desc": "Nếu May Mắn của bạn dưới 75, lập tức đặt lên 75. Khi không được cơ chế pity bảo vệ, Buff Bạc và Vàng bị hạ xuống chất Đồng, trong khi Buff Kim Cương được nâng lên chất Prism"
+    },
+    "14002": {
+      "name": "Thế Cao",
+      "desc": "Cây gây thêm 30% sát thương khi ở phía trên zombie và giảm 30% sát thương khi ở phía dưới zombie, dựa trên vị trí hình ảnh theo chiều dọc trên màn hình"
+    },
+    "14003": {
+      "name": "Bản Năng Săn Mồi",
+      "desc": "Cây gây thêm 30% sát thương lên zombie có trên 50% máu, và giảm 30% sát thương lên zombie dưới 50% máu"
+    },
+    "15000": {
+      "name": "Lời Nguyền MCDXXXVII",
+      "desc": "Tốc độ tấn công của Định Tinh Tân Tiến Toàn Diện giảm một nửa. Sau 1,437 lần tấn công, đảo ngược lời nguyền, mỗi đợt bắn được tính là 5 lần tấn công\nHiệu ứng đảo ngược: Đạn Sao Đa Nhiệm từ Định Tinh Tân Tiến Toàn Diện nhận thêm 1,437 sát thương cơ bản"
+    },
+    "15001": {
+      "name": "Phước Lành Của MCDXXXVII",
+      "desc": "Đạn Sao Đa Nhiệm từ Định Tinh Tân Tiến Toàn Diện nhận thêm 1,437 sát thương cơ bản"
+    },
+    "15002": {
+      "name": "Lời Nguyền Hung Hăng",
+      "desc": "Sát thương của Liên Pháo Anh Đào giảm 50%. Sau khi gây tổng cộng 300M sát thương, đảo ngược lời nguyền\nHiệu ứng đảo ngược: Mỗi khi Liên Pháo Anh Đào tấn công, nó bắn thêm một vài viên đạn từ phía bên trái màn hình, sát thương bằng 0.0001% tổng sát thương các cây khác đã gây ra"
+    },
+    "15003": {
+      "name": "Phúc Trú Xông Pha",
+      "desc": "Mỗi khi Liên Pháo Anh Đào tấn công, nó bắn thêm một vài viên đạn từ phía bên trái màn hình, sát thương bằng 0.0001% tổng sát thương các cây khác đã gây ra"
+    },
+    "15004": {
+      "name": "Lời Nguyền Công Bằng",
+      "desc": "Mỗi mục tiêu mà Diệt Hoả Luân có, sát thương đạn của nó giảm 1%, tối đa giảm 70%. Sau khi tổng giảm 50,000% từ hiệu ứng này, đảo ngược lời nguyền\nHiệu ứng đảo ngược: Mỗi mục tiêu mà Diệt Hoả Luân có, sát thương đạn của nó tăng 1%"
+    },
+    "15005": {
+      "name": "Phúc Lộc - Ai Thấy Cũng Có Phần",
+      "desc": "Mỗi mục tiêu mà Diệt Hoả Luân có, sát thương đạn của nó tăng 1%"
+    },
+    "15006": {
+      "name": "Lời Nguyền Kiên Cường",
+      "desc": "Óc Chó Nam Châm không còn bắn đạn. Sau khi hút 5,000 đạn, đảo ngược lời nguyền\nHiệu ứng đảo ngược: Mỗi khi Óc Chó Nam Châm tấn công, nó bắn thêm một viên đạn của loại nó đã hút nhiều nhất"
+    },
+    "15007": {
+      "name": "Phước Kiên Cường",
+      "desc": "Mỗi khi Óc Chó Nam Châm tấn công, nó bắn thêm một viên đạn của loại nó đã hút nhiều nhất"
     }
+  },
+  "ultimateBuffs": {
+    "0": {
+      "name": "Thị Huyết Như Mệnh",
+      "desc": "Anh Long Đại Đế & Độc Long Tử: hồi máu x3"
+    },
+    "1": {
+      "name": "Chiến Binh Tận Thế",
+      "desc": "Anh Long Đại Đế & Độc Long Tử: thời gian hồi Hấp Thực giảm xuống còn 15s"
+    },
+    "2": {
+      "name": "Đại Lực Chân Vũ",
+      "desc": "Liên Pháo Anh Đào: sát thương của vụ nổ anh đào do cây tạo ra x3"
+    },
+    "3": {
+      "name": "Khoái Kiến Tân Trang",
+      "desc": "Liên Pháo Anh Đào & UAV Anh Đào: Tốc Độ Đánh +100%"
+    },
+    "4": {
+      "name": "Thê Phong Thứ Cốt",
+      "desc": "Hàn Diệt Linh: Tốc Độ Đánh x3; sát thương của Cửu U Tiên Chương x3; sát thương của Zombie Óc Chó Tuyết Trảo x3"
+    },
+    "5": {
+      "name": "Bắc Minh Băng Phách",
+      "desc": "Hàn Diệt Linh: zombie khi hết bị đóng băng sẽ nhận sát thương bằng 30% máu hiện tại của chúng"
+    },
+    "6": {
+      "name": "Làm Ít Công To",
+      "desc": "Hoả Bộc Bí Đao & Khế Bốc Cháy: số lượng đạn cần để tạo ra cây Cay giảm một nửa"
+    },
+    "7": {
+      "name": "Lửa Rực",
+      "desc": "Hoả Bộc Bí Đao & Khế Bốc Cháy: ngay khi không thể tạo ra cây Cay, sẽ đốt cháy toàn bộ một hàng"
+    },
+    "8": {
+      "name": "Lưu Tinh Vũ",
+      "desc": "Định Tinh Tân Tiến Toàn Diện: Chu Kỳ Tấn Công 1s → 0,5s | Phá Lôi Phiến: giới hạn tích trữ x2, phạm vi hút tăng mạnh"
+    },
+    "9": {
+      "name": "Toái Tinh Chi Lực",
+      "desc": "Định Tinh Tân Tiến Toàn Diện: Cấp 1: sát thương cơ bản x2 và giới hạn sát thương (300) tăng lên 3000; Cấp 2: sát thương cơ bản x3, loại bỏ giới hạn sát thương | Phá Lôi Phiến: mỗi loại đạn khác nhau hút được tăng 10% hiệu quả hút và sát thương bổ sung"
+    },
+    "10": {
+      "name": "Vạn Năng Câu Tịch",
+      "desc": "Nấm Hư Vô: sát thương vụ nổ khi chết tăng thêm 1 triệu | Bạch Quang Hàn Nguyệt: hiệu ứng tăng Lumos khi chết x3"
+    },
+    "11": {
+      "name": "Siêu Bom Địa Ngục",
+      "desc": "Nấm Hư Vô: miễn nhiễm với sát thương, nhưng sẽ chết ngay lập tức sau khi chặn quá nhiều đòn đánh | Bạch Quang Hàn Nguyệt: sát thương tấn công x3"
+    },
+    "12": {
+      "name": "Kiến Giả Hữu Phận",
+      "desc": "Độc Lan Đế & Độc Tử Lan: khả năng bắn phân tán giờ được đảm bảo 100%"
+    },
+    "13": {
+      "name": "Toán Độc Sậu Phát",
+      "desc": "Độc Lan Đế & Độc Tử Lan: Cấp 1: điểm Stack Độc sẽ ngay lập tức gây độc cho zombie và Giới Hạn Giá Trị Độc tăng lên 120; Cấp 2: không còn Giới Hạn Giá Trị Độc"
+    },
+    "14": {
+      "name": "Chúng Sinh Bình Đẳng",
+      "desc": "Băng Phá Luân: sát thương vụ nổ chính x4 | Cực Tịch Hàn Luân: sát thương x4"
+    },
+    "15": {
+      "name": "Binh Quý Thần Tốc",
+      "desc": "Băng Phá Luân & Cực Tịch Hàn Luân: Thời Gian Nạp Đạn 36s → 12s"
+    },
+    "16": {
+      "name": "Hộ Vệ Thế Kỉ",
+      "desc": "Hắc Tảng & Hắc Diệu Địa Lôi: Giới Hạn Máu Tối Đa x3"
+    },
+    "17": {
+      "name": "Con Dao Hai Lưỡi",
+      "desc": "Hắc Tảng & Hắc Diệu Địa Lôi: giờ có thể chịu thay sát thương nhắm vào cây trồng ngay bên trái và bên phải của nó"
+    },
+    "18": {
+      "name": "Phổ Độ Chúng Sinh",
+      "desc": "Nấm Cupid: ngưỡng máu để thôi miên tăng từ 60% lên 100% | Bí Cupid: sát thương gây lên zombie thôi miên đang bị bắt giữ giảm một nửa"
+    },
+    "19": {
+      "name": "Động Cơ Vĩnh Cửu",
+      "desc": "Nấm Cupid: Chu Kỳ Tấn Công → 1s, Mức Tích Trữ không giảm dưới 2 và có thể đút kim loại để đạt Mức Tích Trữ 3 trong 5 phút | Bí Cupid: mở khóa Mức Tích Trữ 3"
+    },
+    "20": {
+      "name": "Trở Xung Chi",
+      "desc": "Pháo Đài Bất Diệt & Cao Xạ Bất Diệt: Sức Mạnh Tấn Công x3"
+    },
+    "21": {
+      "name": "Cuồng Chiến Sĩ",
+      "desc": "Pháo Đài Bất Diệt: Cấp 1: kích hoạt Tuyệt Kĩ sẽ hoàn 50000 năng lượng; Cấp 2: Tuyệt Kĩ gây thêm 20% sát thương bỏ qua Giảm Sát Thương | Cao Xạ Bất Diệt: Cấp 1: phòng thủ tăng khi máu giảm, dưới 500 máu thì miễn nhiễm với sát thương dưới 1000; Cấp 2: dưới 500 máu, sát thương cơ bản x2"
+    },
+    "22": {
+      "name": "Kim Quang Lấp Lánh",
+      "desc": "Thái Dương Bạch Cải: khi Mặt Trời vượt quá 15000, mỗi đợt tấn công tiêu hao 0,5% phần vượt quá để tăng 20 sát thương đạn cho mỗi 1 Mặt Trời tiêu hao | Nguyệt Thần Bạch Cải: sát thương tăng x3 cho mỗi Mức Độ Ánh Sáng"
+    },
+    "23": {
+      "name": "Mặt Trời Nhân Tạo",
+      "desc": "Thái Dương Bạch Cải: Mặt Trời Nhỏ gây sát thương x3 | Nguyệt Thần Bạch Cải: Mặt Trăng Nhỏ hồi máu x3"
+    },
+    "24": {
+      "name": "Tam Vị Nhất Thể",
+      "desc": "Cơ Giáp Tân Tiến & Thiết Sáp Anh Đào: Số Lượng Drone 1 → 3"
+    },
+    "25": {
+      "name": "Lôi Xạ Khích Quang",
+      "desc": "Cơ Giáp Tân Tiến: sát thương Drone x3"
+    },
+    "26": {
+      "name": "Khí Định Thần Nhàn",
+      "desc": "Hoả Thần Chúc Dung & Hỏa Kích Chúc Dung: tốc độ sạc và mức sạc tối đa x3"
+    },
+    "27": {
+      "name": "Tam Muội Chân Hoả",
+      "desc": "Hoả Thần Chúc Dung: Inferno giờ tồn tại 5s (gấp đôi) | Hỏa Kích Chúc Dung: sát thương Bơ Nham Thạch x3"
+    },
+    "28": {
+      "name": "Tích Luỹ",
+      "desc": "Tham Tài Thuỷ Thảo & Hộp Zombie Tham Lam Biển: tăng 1% Tốc Độ Đánh cho mỗi 1000 điểm đang sở hữu"
+    },
+    "29": {
+      "name": "Đánh Cược Phần Thưởng",
+      "desc": "Tham Tài Thuỷ Thảo & Hộp Zombie Tham Lam Biển: giới hạn phần thưởng điểm khi hạ zombie Mạ Vàng được nhân đôi | Dùng Hộp Quà cây/Hộp quà Zombie lên ô trống có cơ hội cho ra thẻ cây của Tham Tài Thuỷ Thảo/Hộp Zombie Tham Lam Biển tương ứng"
+    },
+    "30": {
+      "name": "Lòng Tham Vô Đáy",
+      "desc": "Thời Không Thần Ngọc Mễ: tỉ lệ chuyển đổi sát thương từ đạn của Hố Đen Tuyệt Kĩ 60% → 80% | Thời Không Thần Hồ Đào: nhận 33% Giảm Sát Thương khi Hố Đen của nó đang hoạt động"
+    },
+    "31": {
+      "name": "Vạn Kiếp Bất Phục",
+      "desc": "Thời Không Thần Ngọc Mễ & Thời Không Thần Hồ Đào: thời gian tồn tại và thời gian tối đa của Hố Đen Tuyệt Kĩ x2, và sát thương của nó tăng thêm 2% mỗi giây duy trì"
+    },
+    "32": {
+      "name": "Quang Âm Phi Nhận",
+      "desc": "Hàn Liên Cung Thủ: lưỡi cưa giờ tồn tại 15s | Hàn Trúc Vĩnh Hằng: giờ chỉ nhận 1/3 sát thương vào"
+    },
+    "33": {
+      "name": "Trẻ Mãi Không Già",
+      "desc": "Hàn Liên Cung Thủ: hồi máu không còn bị chia cho nhiều cây | Hàn Trúc Vĩnh Hằng: tốc độ hồi HP và Giáp x2"
+    },
+    "34": {
+      "name": "Vực Thẳm Vô Đáy",
+      "desc": "Đại Khẩu Quang Thực: phạm vi hiệu ứng tấn công x2 (hiện đang lỗi và không có tác dụng)"
+    },
+    "35": {
+      "name": "Thực Phẩm Phát Quang",
+      "desc": "Đại Khẩu Quang Thực: trong lúc tiêu hóa, cung cấp 2 Mức Độ Ánh Sáng cho khu vực 5x5"
+    },
+    "36": {
+      "name": "Bộc Mễ Hoa",
+      "desc": "Hoả Bộc Luân: sát thương Bom Núi Lửa x3 | Diệt Hoả Luân: sát thương Bắp Cải Lửa x3"
+    },
+    "37": {
+      "name": "Quá Nhiệt",
+      "desc": "Hoả Bộc Luân: giờ kích hoạt Vụ Nổ Nhiệt Hạt Nhân khi đòn đánh chính trúng Bom Anh Đào hoặc Ớt | Diệt Hoả Luân: 10% cơ hội kích hoạt hiệu ứng Bom Anh Đào và Ớt tại vị trí nòng, bỏ qua giới hạn 10 mục tiêu"
+    },
+    "38": {
+      "name": "Phản Ứng Dây Chuyền",
+      "desc": "Nữ Vương Hướng Dương: khi một phát bắn mặt trời trúng zombie, nó sẽ kích nổ cả những viên đạn gần đó"
+    },
+    "39": {
+      "name": "Dung Tích Khổng Lồ",
+      "desc": "Nữ Vương Hướng Dương: giới hạn năng lượng x3, lượng Mặt Trời tạo ra sau khi kho đầy x3"
+    },
+    "40": {
+      "name": "Oanh Kích Hàng Loạt",
+      "desc": "Thời Không Cực Hàn: Nebula Rift giờ tập trung vào zombie có ít máu nhất trong nửa đầu đợt oanh tạc | Thời Không Tận Thế: giờ chỉ tạo một bộ cổng, nhưng chúng tạo ra luồng hạt băng x10"
+    },
+    "41": {
+      "name": "Hoả Lực Tập Trung",
+      "desc": "Thời Không Cực Hàn: sát thương Cryo-Melon x6, nhưng phạm vi lan tỏa giảm đi | Thời Không Cực Hàn & Thời Không Tận Thế: zombie miễn nhiễm với Phân Rã Thời Gian vẫn nhận sát thương bằng (Thời Gian Đã Qua)% máu của chúng"
+    },
+    "42": {
+      "name": "Hỏa Liên Bức Xạ",
+      "desc": "Hỏa Miêu Anh Đào: tần suất sát thương Tia Nhiệt x2 | Nấm Cứu Thế: sát thương bổ sung do Tổng Giai Đoạn Tăng Trưởng mang lại x3"
+    },
+    "43": {
+      "name": "Tam Muội Chân Hỏa",
+      "desc": "Hỏa Miêu Anh Đào & Nấm Cứu Thế: sát thương phát bắn thường x3"
+    },
+    "44": {
+      "name": "Nỗi Sợ Biển Sâu",
+      "desc": "Đại Thủy Quái Kraken: Nấm Sứa có thể nhấn chìm tới 3 zombie (hoặc gây sát thương x3), và mỗi zombie bị nhấn chìm cho thêm 10 stack năng lượng"
+    },
+    "45": {
+      "name": "Tấn Công Bầy Đàn",
+      "desc": "Đại Thủy Quái Kraken: bắn 3 đạn tấn công cơ bản cùng một lúc"
+    },
+    "46": {
+      "name": "Sát Thủ Lĩnh",
+      "desc": "Ớt Vĩnh Hằng & Hỏa Linh Vĩnh Hằng: giới hạn tích trữ linh hồn tăng lên 10, giờ nhận 1 tích trữ linh hồn mỗi khi một Mini-boss bị hạ"
+    },
+    "47": {
+      "name": "Hộ Vệ Vĩnh Hằng",
+      "desc": "Ớt Vĩnh Hằng & Hỏa Linh Vĩnh Hằng: khi sử dụng tích trữ linh hồn, toàn bộ cây nhận thêm 1s bất tử"
+    },
+    "48": {
+      "name": "Pin Năng Lượng",
+      "desc": "Lưu Quang Thời Không: Cấp 1: giới hạn năng lượng Lumos tăng từ 1000 lên 2000; Cấp 2: giới hạn tiếp tục tăng lên 10000 | Độc Quang Thời Không: bán kính sát thương đạn +50%"
+    },
+    "49": {
+      "name": "Quá Tải Hiệu Suất",
+      "desc": "Lưu Quang Thời Không: tăng hiệu suất Chuyển Giao 50%, và 250% nếu năng lượng của cây đích dưới 1000 | Độc Quang Thời Không: giờ bắn thêm 2 đạn mỗi lần tấn công"
+    },
+    "50": {
+      "name": "Áp Đảo Mục Tiêu",
+      "desc": "Đậu Bão Tố: cơ hội kích hoạt Tuyệt Kĩ của toàn bộ Commando x3, Commando Khoai Than giờ bắn khoai tây phát nổ | Cao Xạ Thời Không: toàn bộ Snipea giờ bắn thêm 1 phát sau mỗi pha Hành Quyết"
+    },
+    "51": {
+      "name": "Phát Bắn Chuẩn Xác",
+      "desc": "Đậu Bão Tố: sát thương Tuyệt Kĩ của toàn bộ Commando x2 và không còn bắn phân tán, đạn của Commando Buồn Tênh giờ tự bám theo zombie | Cao Xạ Thời Không: số phát bắn cần để kích hoạt Hành Quyết của toàn bộ Snipea -3"
+    },
+    "52": {
+      "name": "Hắc Thạch Trận Hình",
+      "desc": "Óc Chó Hắc Thạch: khi ở trên sân, toàn bộ cây Hắc Thạch nhận sát thương cuối giảm đi dựa trên số loại cây Hắc Thạch khác nhau đang có mặt"
+    },
+    "53": {
+      "name": "Băng Hỏa Luyện Tem",
+      "desc": "Óc Chó Hắc Thạch: Sát Thương Tôi Luyện x2"
+    },
+    "54": {
+      "name": "Tinh Chất Hồi Xuân",
+      "desc": "Thần Dược Tinh Dầu Thông: Tinh Chất tăng máu tối đa của cây thêm 0,2% Độ Bền cơ bản của chúng trong màn hiện tại"
+    },
+    "55": {
+      "name": "Sinh Huyết Lưu Chuyển",
+      "desc": "Thần Dược Tinh Dầu Thông: hồi máu và sức mạnh Giáp của Tinh Chất x2 | Số lần loại bỏ Đóng Băng & Đóng Băng Vĩnh Cửu x3 | Tốc độ hồi Tinh Chất tự động x2"
+    }
+  },
+  "debuffs": {
+    "0": {
+      "name": "Xuyên Phá",
+      "desc": "Liên Báo Anh Đào: Có thể đi xuyên qua cây khi tờ báo của nó bị rách | Giáo Sư Z: -1 Tờ Báo Dự Phòng"
+    },
+    "1": {
+      "name": "Miễn Dịch Tuyệt Đối",
+      "desc": "Liên Báo Anh Đào: Giờ miễn nhiễm mọi hiệu ứng trạng thái | Giáo Sư Z: -1 Tờ Báo Dự Phòng"
+    },
+    "2": {
+      "name": "Hút Khô Máu",
+      "desc": "Zombie Hắc Khổng Hạch Bầu Dục: Cắn giờ vô hiệu hóa hồi máu của cây trong 1s"
+    },
+    "3": {
+      "name": "Triệt Lực",
+      "desc": "Zombie Hắc Khổng Hạch Bầu Dục: Cắn làm yếu cây, khiến chúng nhận 3× sát thương trong 1s"
+    },
+    "4": {
+      "name": "Dòng Xoáy",
+      "desc": "Đại Thiết Tiềm Hải Độn: Tốc Độ Di Chuyển ×2"
+    },
+    "5": {
+      "name": "Sườn Vỏ Tăng Cường",
+      "desc": "Đại Thiết Tiềm Hải Độn: Nhận 50% giảm sát thương"
+    },
+    "6": {
+      "name": "Động Cơ Phản Lực",
+      "desc": "Chiến Hạm Kirov: Miễn nhiễm với Cỏ Ba Lá | Tốc Độ Di Chuyển ×5"
+    },
+    "7": {
+      "name": "Đàn Sắt",
+      "desc": "Chiến Hạm Kirov: Tiểu Bom Thiết Khí Cầu được triệu hồi giờ có 50× máu"
+    },
+    "8": {
+      "name": "Nổ Nhanh",
+      "desc": "Vua Hề Bật Nhảy: Giờ luôn phát nổ khi chết, và thời gian tích cho cú nhảy lớn giảm 90% | Zombie Ca-nô Hề: Sát thương bom +500"
+    },
+    "9": {
+      "name": "Nổ Truyền Nhiễm",
+      "desc": "Vua Hề Bật Nhảy: Zombie loại Hề bị trúng vụ nổ sẽ biến thành Vua Hề Bật Nhảy | Zombie Ca-nô Hề: Sát thương bom +500"
+    },
+    "10": {
+      "name": "Lũy Đinh Ba",
+      "desc": "Zombie Khổng Hạch Phi Thương & Zombie Giáo Băng Đầu Óc Chó Cao: Giờ ném thêm 2 đinh ba/giáo tuyết mỗi đòn tấn công | Hải Vương ném 3 đinh ba khổng lồ"
+    },
+    "11": {
+      "name": "Ném Tán",
+      "desc": "Zombie Khổng Hạch Phi Thương: Giờ bỏ qua cây loại Dù và nhắm vào cây ngẫu nhiên để tấn công"
+    },
+    "12": {
+      "name": "Triệu Hồi Đẳng Cấp",
+      "desc": "Zombie MJ Trắng: Giờ có thể triệu hồi Zombie Nhảy Sào Trắng"
+    },
+    "13": {
+      "name": "Vũ Điệu Hư Ảo",
+      "desc": "Zombie MJ Trắng: Giờ sẽ lướt xuyên qua cây khi trượt vào"
+    },
+    "14": {
+      "name": "Dư Chấn",
+      "desc": "Cương Thi: Sát thương nổ giờ bỏ qua miễn nhiễm của Bí Ngô Hề và các cây liên quan khác"
+    },
+    "15": {
+      "name": "Truy Săn Không Khoan Nhượng",
+      "desc": "Cương Thi: CD lướt giảm | Sức Tấn Công tăng vọt"
+    },
+    "16": {
+      "name": "Vạn Đinh Ba",
+      "desc": "Xe Cẩu Đinh Ba: Giờ miễn nhiễm hầu hết hiệu ứng trạng thái và ném 5× số đinh ba"
+    },
+    "17": {
+      "name": "Đòn Đầu",
+      "desc": "Xe Cẩu Đinh Ba: Giờ tấn công sớm hơn"
+    },
+    "18": {
+      "name": "Diễu Hành Toàn Cầu",
+      "desc": "Hắc Chiến Xa: Giờ xuất hiện mỗi vòng | Triệu hồi thêm một Zombie MJ Trắng khi nó chết"
+    },
+    "19": {
+      "name": "Hết Ga",
+      "desc": "Hắc Chiến Xa: Tốc Độ Di Chuyển của Hắc Chiến Xa & Bạch Vũ Đài Xa ×5"
+    },
+    "20": {
+      "name": "Thả Mã Át",
+      "desc": "Zombie Đu Dây có xác suất thả một Zombie Hành Trình ở cột 4 hoặc xa hơn về phía bên phải, và nhận 90% giảm sát thương"
+    },
+    "21": {
+      "name": "Bất Tử",
+      "desc": "Đội Đặc Nhiệm Alpha giờ có thể hồi phục vô hạn khi bị vô hiệu hóa"
+    },
+    "22": {
+      "name": "Tầm Nhìn Xa",
+      "desc": "Tàu UFO Xung Kích: Tia Hòa Tan giờ nhắm vào cây xa nhất trong tầm"
+    },
+    "23": {
+      "name": "Hút Rộng",
+      "desc": "Tàu UFO Xung Kích: Tầm của Tia Súc Hút: 1 ô → Vùng 3×3"
+    },
+    "24": {
+      "name": "Hội Ngộ Nguyên Tố",
+      "desc": "Vũ Trang Khổng Nhân Cường Hóa: Ngoại hình không còn quan trọng, giờ có các khả năng bổ sung của cả bốn thuộc tính cùng lúc"
+    },
+    "25": {
+      "name": "Thức Tỉnh Thuộc Tính",
+      "desc": "Vũ Trang Khổng Nhân Cường Hóa: Nghiền giờ khiến Zombie Tí Hon Nguyên Tố tương ứng xuất hiện"
+    },
+    "26": {
+      "name": "Nạp Đạn Nhanh",
+      "desc": "Zombie Hạch Khổng Nhân Đinh Ba: Tốc độ nạp đinh ba ×3"
+    },
+    "27": {
+      "name": "Phước Lành Hải Vương",
+      "desc": "Zombie Hạch Khổng Nhân Đinh Ba: Giờ hồi 10% máu tối đa khi ném đinh ba"
+    },
+    "28": {
+      "name": "Giảm Xóc",
+      "desc": "Thủy Quái Cơ Khí: Trong 50 đòn đầu, mọi zombie chỉ nhận 1 sát thương"
+    },
+    "29": {
+      "name": "Giáp Phản Ứng",
+      "desc": "Thủy Quái Cơ Khí: Mọi zombie nhận 0.2s miễn nhiễm sát thương sau mỗi đòn không mạnh hơn đòn trước; hiệu ứng này kích hoạt tối đa 100 lần"
+    },
+    "30": {
+      "name": "Bầy Xông",
+      "desc": "Voi Ma Mút: Giờ xuất hiện theo nhóm 3"
+    },
+    "31": {
+      "name": "Hộ Tuyến Alpha",
+      "desc": "Voi Ma Mút: Với mỗi con trên sân, zombie Mini-boss nhận +100 giá trị giảm thương"
+    },
+    "32": {
+      "name": "Lớp Phủ Cách Ly",
+      "desc": "Tiểu Đoàn Hắc Thiết Xung Kích: Miễn nhiễm với bơ và đóng băng"
+    },
+    "33": {
+      "name": "Xông Chớp Chánh",
+      "desc": "Tiểu Đoàn Hắc Thiết Xung Kích: Vào sân cực nhanh, nhưng sẽ chậm dần theo thời gian"
+    },
+    "34": {
+      "name": "Thế Mãng Xà",
+      "desc": "Zombie Hắc Bầu Dục Nhào Lộn & Zombie Hắc Khổng Hạch Bầu Dục Nhào Lộn: Lăn một lần ngay khi xuất hiện"
+    },
+    "35": {
+      "name": "Truy Sốt",
+      "desc": "Zombie Hắc Bầu Dục Nhào Lộn & Zombie Hắc Khổng Hạch Bầu Dục Nhào Lộn: Gây ×2 sát thương sau khi lăn"
+    },
+    "36": {
+      "name": "Hành Quân Tử Xạ",
+      "desc": "Zombie Thiết Bầu Dục Bão Tố: Giờ bỏ qua cây khi di chuyển"
+    },
+    "37": {
+      "name": "Lời Nguyền Tử Kỵ",
+      "desc": "Zombie Thiết Bầu Dục Bão Tố: Giờ thay vào đó bắn đậu sắt Nguyền Rủa"
+    },
+    "38": {
+      "name": "Độc Đến Tủy",
+      "desc": "Vua Hề Nguyền Rủa: Lớp Nguyền Rủa do Hộp Bom áp đặt ×2 và tái tạo một Hộp Bom mỗi 6s"
+    },
+    "39": {
+      "name": "Bom Nhân Bản",
+      "desc": "Vua Hề Nguyền Rủa: Hộp Bom giờ miễn nhiễm với chuyển hướng của Dù và sinh ra một Vua Hề Nguyền Rủa khác khi đáp xuống"
+    },
+    "40": {
+      "name": "Đòn Xông Quét",
+      "desc": "Zombie Hắc Kỵ Sĩ: Húc giờ áp lớp Nguyền Rủa lên các cây trong vùng 3×3"
+    },
+    "41": {
+      "name": "Vững Chãi",
+      "desc": "Zombie Hắc Kỵ Sĩ: Mọi zombie nghiền giờ chỉ nhận một nửa lực đẩy lùi từ các cây chống nghiền"
+    },
+    "1000": {
+      "name": "Mờ Tối",
+      "desc": "Mặt Trời của bạn sẽ bị đặt lại về 0"
+    },
+    "1001": {
+      "name": "Phá Sản",
+      "desc": "Điểm của bạn sẽ bị đặt lại về 0"
+    },
+    "1002": {
+      "name": "Không Gian Hạn Chế",
+      "desc": "Chỉ có thể có tối đa 120 cây trên sân"
+    },
+    "1003": {
+      "name": "Dịch Héo",
+      "desc": "Tất cả cây hiện có của bạn có 1/3 xác suất héo chết (áp dụng một lần)"
+    },
+    "1004": {
+      "name": "Tăng Trưởng Hoại Tử",
+      "desc": "Tốc độ tăng máu tối đa của zombie sau mỗi vòng: 20% → 30%"
+    },
+    "1005": {
+      "name": "Phục Sinh",
+      "desc": "Mọi zombie, bao gồm boss, có 1/3 xác suất hồi sinh một lần với đầy đủ máu khi chết"
+    },
+    "1006": {
+      "name": "Quân Đoàn Siêu Lớn",
+      "desc": "Tăng giới hạn tối đa zombie mỗi đợt sóng lên 100"
+    },
+    "1007": {
+      "name": "Quân Đoàn Lão Luyện",
+      "desc": "Số lượng zombie tối đa mỗi đợt sóng giảm một nửa, nhưng mọi zombie có ×2 Máu và Tấn Công"
+    },
+    "1008": {
+      "name": "Kiềm Chế Hồi Máu",
+      "desc": "Mọi hồi máu và khiên của cây bị giảm 50%"
+    },
+    "1009": {
+      "name": "Tổn Thương Vĩnh Cửu",
+      "desc": "Cây mất máu tối đa bằng 10% sát thương nhận vào (tối đa 40% và được đặt lại giữa các vòng) khi chịu sát thương"
+    },
+    "1010": {
+      "name": "Lạm Phát",
+      "desc": "Mọi cây giờ tốn 3× Mặt Trời"
+    },
+    "1011": {
+      "name": "Cuộc Tấn Công Bất An",
+      "desc": "Thời gian trước đợt sóng zombie đầu tiên giảm còn 5s, và khoảng cách giữa các đợt sóng zombie giảm còn 15s"
+    },
+    "1012": {
+      "name": "Dấu Ấn Hủy Diệt",
+      "desc": "Mọi cây nhận thêm ×1.5 sát thương"
+    },
+    "1013": {
+      "name": "Sức Mạnh Chiến Vương",
+      "desc": "Zombie Mini-boss nhận buff 30% Tốc Độ & máu tối đa"
+    },
+    "1014": {
+      "name": "Tổng Công Kích",
+      "desc": "Zombie không phải Mini-boss nhận buff 30% Tốc Độ & máu tối đa"
+    },
+    "1015": {
+      "name": "Pháo Đài Bay",
+      "desc": "Zombie bay giờ có 2× máu tối đa"
+    },
+    "1016": {
+      "name": "Sát Thương Phụ",
+      "desc": "Khi cây bị tiêu diệt, chúng gây sát thương bằng máu tối đa của chúng lên các cây khác trong vùng 3×3"
+    },
+    "1017": {
+      "name": "Biến Đổi Khủng",
+      "desc": "Mọi zombie không thuộc Hành Trình giờ có ×2 Máu, Tấn Công và ×1.5 Tốc Độ"
+    },
+    "1018": {
+      "name": "Mất Chẩn Đoan",
+      "desc": "Hiển thị máu của cây sẽ bị vô hiệu hóa"
+    },
+    "1019": {
+      "name": "Sương Chiến",
+      "desc": "Hiển thị máu của zombie sẽ bị vô hiệu hóa"
+    },
+    "2000": {
+      "name": "Khủng Hoảng",
+      "desc": "Hoàng Kim Vũ Trang Khổng Nhân sẽ xuất hiện"
+    },
+    "2001": {
+      "name": "Khủng Hoảng",
+      "desc": "Liên Báo Hủy Diệt sẽ xuất hiện"
+    },
+    "2002": {
+      "name": "Khủng Hoảng",
+      "desc": "Đĩa Bay Hủy Diệt sẽ xuất hiện"
+    },
+    "2003": {
+      "name": "Khủng Hoảng",
+      "desc": "Xạ Thủ Alpha sẽ xuất hiện"
+    },
+    "2004": {
+      "name": "Khủng Hoảng",
+      "desc": "Zombie Hắc Kỵ Sĩ Xung Kích sẽ xuất hiện"
+    },
+    "2005": {
+      "name": "Khủng Hoảng",
+      "desc": "Zombie Hắc Khổng Hạch Bầu Dục Nhào Lộn sẽ xuất hiện"
+    },
+    "2006": {
+      "name": "Khủng Hoảng",
+      "desc": "Zombie Giáo Băng Đầu Óc Chó Cao sẽ xuất hiện"
+    },
+    "3000": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Hắc Diện Vũ Trang Khổng Nhân sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3001": {
+      "name": "Giao Thức Zomboss",
+      "desc": "Hắc Diện Vũ Trang Khổng Nhân: Triệu hồi TS. Zomboss khi chết"
+    },
+    "3002": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Lãnh Chúa Imp sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3003": {
+      "name": "Kiên Cường Hoàng Gia",
+      "desc": "Lãnh Chúa Imp: Giờ hồi 500 máu mỗi lần né được một đòn tấn công"
+    },
+    "3004": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Bạch Vũ Đài Xa sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3005": {
+      "name": "Vũ Bóng",
+      "desc": "Bạch Vũ Đài Xa: Giờ nhận 50% giảm sát thương"
+    },
+    "3006": {
+      "name": "Kẻ Báo Thù",
+      "desc": "An Bá Tử Khang sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3007": {
+      "name": "Cuồng Phong Adrenaline",
+      "desc": "An Bá Tử Khang: Giờ nhận buff nhanh hơn 2×"
+    },
+    "3008": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Hải Vương sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3010": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Cỗ Máy Huỷ Diệt sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3012": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Quái Ngư sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3014": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Giáo Sư Z sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3016": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Nữ Hoàng Hề sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3018": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Tiểu Đoàn Đặc Nhiệm Alpha sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3020": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Nguyên Soái Hắc Thiết sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3021": {
+      "name": "Thăng Hoa U Hắc",
+      "desc": "Nguyên Soái Hắc Thiết: Nguyên Soái sẽ biến chiến mã của mình thành liềm và tăng mạnh khả năng sau khi xuống ngựa."
+    },
+    "3022": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Thánh Long Vạn Niên sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3024": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Kỵ Sĩ Anh Đào sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "3026": {
+      "name": "Kẻ Báo Thù",
+      "desc": "Hắc Thiết Tướng Quân sẽ xuất hiện với tư cách Mini-boss"
+    },
+    "4000": {
+      "name": "Hiện Diện Uy Nghi",
+      "desc": "Hắc Diện Vũ Trang Khổng Nhân ban +400 giá trị giảm thương cho mọi zombie khi hiện diện"
+    },
+    "4001": {
+      "name": "Hiện Diện Uy Nghi",
+      "desc": "Lãnh Chúa Imp ban +400 giá trị giảm thương cho mọi zombie khi hiện diện"
+    },
+    "4002": {
+      "name": "Hiện Diện Uy Nghi",
+      "desc": "An Bá Tử Khang ban +400 giá trị giảm thương cho mọi zombie khi hiện diện"
+    },
+    "4003": {
+      "name": "Hiện Diện Uy Nghi",
+      "desc": "Bạch Vũ Đài Xa ban +400 giá trị giảm thương cho mọi zombie khi hiện diện"
+    },
+    "4004": {
+      "name": "Hiện Diện Uy Nghi",
+      "desc": "Nguyên Soái Hắc Thiết ban +400 giá trị giảm thương cho mọi zombie khi hiện diện"
+    },
+    "5000": {
+      "name": "Kháng Thể Tích Lũy",
+      "desc": "Zombie nhận miễn nhiễm hiệu ứng trạng thái kìm hãm trong 3s sau khi liên tục dính bất kỳ hiệu ứng đó trong 5s"
+    },
+    "5001": {
+      "name": "Vòng Xoáy Cuồng Nộ",
+      "desc": "Sát thương Tấn Công của mọi zombie trên sân tăng +100% (tuyến tính) mỗi 3s, tối đa 1M"
+    },
+    "5002": {
+      "name": "Phản Ứng Đau Nhói",
+      "desc": "Zombie nhận giá trị giảm thương bằng 1% sát thương nhận vào khi nhận sát thương trên 100, tối đa +1000 giá trị giảm thương"
+    },
+    "5003": {
+      "name": "Chặn Đòn Zombie",
+      "desc": "Zombie phản lại 100% sát thương cho cây khi né được một đòn tấn công, CD 3s"
+    },
+    "5004": {
+      "name": "Dấu Ấn Tàn Phá",
+      "desc": "Khi một zombie gây sát thương nghiền lên cây, cây đó nhận lớp Nguyền Rủa bằng [1%×(Máu cây + Độ Bền cây)/2]"
+    },
+    "10000": {
+      "name": "Rủi Rạo",
+      "desc": "Mất 75 điểm May Mắn"
+    },
+    "10001": {
+      "name": "Tái Sinh: Tiryak",
+      "desc": "Zombie ở vòng tái sinh thứ 1 có 20% máu và tốc độ nhiều hơn"
+    },
+    "10002": {
+      "name": "Hồi Sinh: Ngạ Quỷ",
+      "desc": "Zombie ở vòng tái sinh thứ 2 có 40% máu và 25% tốc độ nhiều hơn"
+    },
+    "10003": {
+      "name": "Luân Hồi: Địa Ngục",
+      "desc": "Zombie ở vòng tái sinh thứ 3 có 60% máu và 30% tốc độ nhiều hơn"
+    },
+    "10004": {
+      "name": "Khủng Hoảng Nemesis",
+      "desc": "Từ đợt 50, Mini-boss đủ điều kiện sẽ xuất hiện ngẫu nhiên trong các đợt cờ"
+    },
+    "10005": {
+      "name": "Thời Kỳ Tồi Tệ",
+      "desc": "Trong 2 giây đầu sau khi đợt sóng mới xuất hiện, cây trồng chỉ gây được 1 sát thương cho zombie"
+    },
+    "10006": {
+      "name": "Lời Răn Rối Đố Kị",
+      "desc": "Loại cây gây nhiều sát thương tích lũy nhất chỉ gây 70% sát thương, các cây khác gây 110% sát thương"
+    },
+    "10007": {
+      "name": "Đường Nhanh Chuyên Gia",
+      "desc": "Từ đợt 8, trong 50 đợt đầu của màn, mỗi đợt bắt đầu sẽ xuất hiện ngẫu nhiên 1 zombie vốn chỉ xuất hiện từ đợt 38 đến 88"
+    },
+    "10008": {
+      "name": "Đàn Zombie",
+      "desc": "Zombie không phải Mini-boss có xác suất sinh thêm một bản sao của chính mình khi xuất hiện; xác suất này tăng dần theo các đợt sóng"
+    },
+    "10009": {
+      "name": "Hi Sinh Zombie",
+      "desc": "Zombie không phải Mini-boss có cơ hội biến mất ngay khi xuất hiện và ban cho một zombie khác 80% máu của chúng; cơ hội này tăng dần theo các đợt sóng"
+    },
+    "10010": {
+      "name": "Ngủ Đông",
+      "desc": "Cây trồng bị đóng băng 3s sau khi hồi sinh"
+    },
+    "10011": {
+      "name": "Choáng Nặng",
+      "desc": "Cây mất nhiều hơn 1.5× thời gian để hồi sinh"
+    },
+    "10012": {
+      "name": "Nổ Não Máy Quay",
+      "desc": "Chu kỳ tiến hóa của zombie giảm xuống còn mỗi 4 đợt sóng một lần"
+    },
+    "10013": {
+      "name": "Đại Trộm Xe Cắt Cỏ",
+      "desc": "Xe Cắt Cỏ bị vô hiệu hóa"
+    },
+    "10014": {
+      "name": "Tà Ác Bóng Đêm",
+      "desc": "Khi cây biến mất, 1 zombie ngẫu nhiên xuất hiện tại chỗ của nó, kèm phần máu và tốc độ tăng thêm"
+    },
+    "10015": {
+      "name": "Giờ Cao Điểm Jackson",
+      "desc": "Khi các đợt sóng tiến triển, các Zombie Michael Jackson đặc biệt có xác suất xuất hiện cao dần"
+    },
+    "10016": {
+      "name": "Tấn Công Phối Hợp",
+      "desc": "Mỗi đợt zombie mới, có xác suất xuất hiện thêm zombie từ các đường khác; xác suất này tăng dần theo số đợt"
+    },
+    "10017": {
+      "name": "Tử Địa Anh Hùng",
+      "desc": "Mỗi khi một đợt Zombie mới xuất hiện, cây có nhiều Tuỳ Chỉnh nhất sẽ bị giảm 1% sát thương tăng độc lập, tối thiểu về 0"
+    },
+    "10018": {
+      "name": "Phản Công",
+      "desc": "Khi zombie chịu sát thương, chúng sinh ra một viên đạn Nguyền Rủa bên phía zombie gây sát thương bằng 10% sức tấn công của zombie (tối thiểu 20) vào các cây; hiệu ứng này kích hoạt tối đa 10 lần mỗi 0.02s"
+    },
+    "10019": {
+      "name": "Trỗi Dậy Của Đám Thụ Lĩnh",
+      "desc": "Từ đợt sóng 51, 5 con zombie vốn chỉ xuất hiện ở các đợt sóng từ 1 đến 50 sẽ được sinh ra ngẫu nhiên, nhưng chúng nhận buff 10× máu và 2× tốc độ"
+    },
+    "10020": {
+      "name": "Nhu Cầu Táo Bạo",
+      "desc": "Càng về sau theo đợt sóng, các Zombie Đọc Báo đặc biệt có cơ hội xuất hiện càng cao"
+    },
+    "10021": {
+      "name": "Thể Thao Cực Đoan",
+      "desc": "Càng về sau, xác suất xuất hiện thêm Zombie Đu Dây đặc biệt càng cao"
+    },
+    "10022": {
+      "name": "Khoản Vay May Mắn",
+      "desc": "Tăng 75 điểm May Mắn, nhưng mất 1 điểm May Mắn mỗi đợt sóng kể từ đợt 50"
+    },
+    "10023": {
+      "name": "Thành Mồ Hài",
+      "desc": "3 hàng bia mộ sẽ xuất hiện trên sân vào đầu mỗi vòng; khi đến đợt cờ, chúng sẽ triệu hồi zombie đủ điều kiện của đợt đó"
+    },
+    "10024": {
+      "name": "Xung Tốc Nitro",
+      "desc": "Sau mỗi đợt zombie xuất hiện, 3 zombie ngẫu nhiên nhận buff tốc độ 100%"
+    },
+    "10025": {
+      "name": "Hơi Thở Thối Thúi",
+      "desc": "Mỗi 3s, tất cả cây trên sân bị nguyền trừ lượng máu tương đương 5% máu tối đa"
+    },
+    "10026": {
+      "name": "Thánh Cốc Bất Thánh",
+      "desc": "Zombie không phải Mini-boss có cơ hội hồi sinh thành zombie khác ở cột phải nhất cùng hàng khi bị tiêu diệt; cơ hội này tăng dần theo các đợt sóng"
+    },
+    "10027": {
+      "name": "Sát Thương Thực",
+      "desc": "Khi cây nhận sát thương, chúng nhận thêm sát thương chuẩn bằng 30% sát thương gốc"
+    },
+    "10028": {
+      "name": "Hút Chữa Trị",
+      "desc": "Khi cây hồi máu, chúng cũng hồi 25% máu tối đa cho một zombie ngẫu nhiên; lượng hồi này có thể vượt quá máu tối đa"
+    },
+    "10029": {
+      "name": "Ánh Chạm Hỗn Loạn",
+      "desc": "Mỗi đợt thứ 5, cây của bạn sẽ bị di chuyển đến vị trí ngẫu nhiên"
+    },
+    "10030": {
+      "name": "Tận Thế Lũy Tiến",
+      "desc": "Khoảng cách giữa các đợt được rút ngắn, mỗi đợt có xác suất lập tức gọi lại chính các zombie của đợt này; xác suất tăng dần theo tiến độ đợt"
+    },
+    "10031": {
+      "name": "Nổ Tận Cùng",
+      "desc": "Zombie không phải Mini-boss dưới 5% máu tối đa sẽ tự nổ ngay khi trúng đòn"
+    },
+    "10032": {
+      "name": "Kèn Quyền Năng",
+      "desc": "Tất cả zombie trên sân nhận buff 20% máu và tốc độ khi đợt sóng mới xuất hiện"
+    },
+    "10033": {
+      "name": "Sự Hiện Diện Tối Cao",
+      "desc": "Boss nhận buff máu 30%, zombie do Boss gọi ra nhận buff máu 60%"
+    },
+    "10034": {
+      "name": "Nhỏ Gọn Linh Hoạt",
+      "desc": "Zombie không phải boss có máu tối đa và kích thước giảm 30%, nhưng nhanh hơn 100%"
+    },
+    "10035": {
+      "name": "Zombie Phình To",
+      "desc": "Zombie không phải boss có máu tối đa và kích thước tăng 60%, nhưng tốc độ giảm 60%"
+    },
+    "10036": {
+      "name": "Thẩm Mỹ Rẻ Tiền",
+      "desc": "Tăng 10% hiệu ứng của Tuỳ Chỉnh cấp Bạc trở xuống, trong khi Tuỳ Chỉnh cấp Vàng và Kim Cương bị giảm 30%"
+    },
+    "10037": {
+      "name": "Thẩm Mỹ Cao Quý",
+      "desc": "Tăng 10% hiệu ứng của Tuỳ Chỉnh cấp Vàng trở lên, trong khi Tuỳ Chỉnh cấp Đồng và Bạc bị giảm 30%"
+    },
+    "10038": {
+      "name": "Ánh Chạm Midas",
+      "desc": "Khi không kích hoạt cơ chế bảo đáy, mọi Tuỳ Chỉnh chất lượng Kim Cương sẽ được thay bằng Tuỳ Chỉnh chất lượng Vàng tương ứng"
+    },
+    "10039": {
+      "name": "Quyền Lực Số Lượng",
+      "desc": "Khi bạn có 0/1/2/3/4/5/6 hoặc nhiều hơn cây trên sân, zombie nhận 50%/60%/70%/80%/90%/100%/105% sát thương tương ứng"
+    },
+    "10040": {
+      "name": "Thời Đại Bạc",
+      "desc": "Khi không ở cơ chế bảo đáy, Tuỳ Chỉnh các cấp chất lượng khác nhau chỉ xuất hiện ở chất lượng Bạc; nếu bạn có cả Ánh Chạm Midas, Tuỳ Chỉnh chất lượng Vàng và Kim Cương sẽ bị hạ xuống chất lượng Đồng"
+    },
+    "10041": {
+      "name": "Kỷ Nguyên Nyan",
+      "desc": "Zombie có xác suất biến mất ngay khi xuất hiện và sinh ra một Zombie Bí Đè Nyan kế thừa máu tại chỗ; xác suất này tăng theo số đợt"
+    },
+    "10042": {
+      "name": "Tử Vong Bất Ổn",
+      "desc": "Mỗi khi cây của bạn chết, thời gian hồi sinh tiếp theo cộng thêm 0.5s"
+    },
+    "10043": {
+      "name": "Hình Phạt Do Dự",
+      "desc": "Giảm 25 điểm May Mắn mỗi lần làm mới Tuỳ Chỉnh"
+    },
+    "10044": {
+      "name": "Số Mệnh Vô Thường",
+      "desc": "Mỗi lần rút Tuỳ Chỉnh, nhận ngẫu nhiên từ -27 đến +33 điểm May Mắn"
+    }
+  },
+  "unlocks": {
+    "0": {
+      "name": "",
+      "desc": "Mở khoá Anh Long Đại Đế: Phi Long Thăng Thiên + Hoa Ăn Thịt Anh Đào\nvà phân loài Độc Long Tử\nChuyển đổi: Bom Anh Đào ←→ Củ Tỏi"
+    },
+    "1": {
+      "name": "",
+      "desc": "Mở khoá Liên Pháo Anh Đào: Súng Máy Anh Đào + Siêu Đậu Anh Đào\nvà phân loài UAV Anh Đào\nChuyển đổi: Xẻng ←→ Cỏ Ba Lá"
+    },
+    "2": {
+      "name": "",
+      "desc": "Mở khoá Hàn Diệt Linh: Nấm Xịt Băng Hủy Diệt + Nấm Thôi Miên Băng\nvà phân loài Cửu U Tiên Chương\nChuyển đổi: Nấm Mũm Mĩm ←→ Xương Rồng"
+    },
+    "3": {
+      "name": "",
+      "desc": "Mở khoá Hoả Bộc Bí Đao: Bí Cay + Gốc Cây Lửa Địa Ngục\nvà phân loài Khế Bốc Cháy Địa Ngục\nChuyển đổi: Bí Đè ←→ Khế"
+    },
+    "4": {
+      "name": "",
+      "desc": "Mở khoá Định Tinh Tân Tiến Toàn Diện: Sao Thiên Thạch + Xương Rồng Nam Châm\nvà phân loài Phá Lôi Phiến\nChuyển đổi: Khế ←→ Cỏ Ba Lá"
+    },
+    "5": {
+      "name": "",
+      "desc": "Mở khoá Nấm Hư Vô: Nấm Xịt Băng Hủy Diệt + Nấm Bạch Tuộc Băng\nvà phân loài Bạch Quang Hàn Nguyệt\nChuyển đổi: Nấm Bạch Tuộc ←→ Lồng Đèn"
+    },
+    "6": {
+      "name": "",
+      "desc": "Mở khoá Độc Lan Đế: Cẩu Salad + Dưa Hấu Độc\nvà phân loài Độc Tử Lan\nChuyển đổi: ×3 + Dưa Hấu ←→ Nấm Lùn"
+    },
+    "7": {
+      "name": "",
+      "desc": "Mở khoá Băng Phá Luân: Băng Đại Pháo + Nấm Nguyên Tử Băng\nvà phân loài Cực Tịch Hàn Luân\nChuyển đổi: Bắp Ngô ←→ Dưa Hấu"
+    },
+    "8": {
+      "name": "",
+      "desc": "Mở khoá Hắc Tảng: Óc Chó Cao Băng Giá + Óc Chó Cao Bùng Cháy\nvà phân loài Hắc Diệu Địa Lôi\nChuyển đổi: Óc Chó Cao ←→ Mìn Khoai Tây"
+    },
+    "9": {
+      "name": "",
+      "desc": "Mở khoá Nấm Cupid: Nấm Tình Yêu + Nấm Nam Châm Thôi Miên\nvà phân loài Bí Cupid\nChuyển đổi: Xẻng ←→ Dùng Găng Tay đặt Nấm Cupid lên Bí Ngô"
+    },
+    "10": {
+      "name": "",
+      "desc": "Mở khoá Pháo Đài Bất Diệt: Đậu Đại Đạn Đạo + Ớt Hắc Ám\nvà phân loài Cao Xạ Bất Diệt\nChuyển đổi: Đậu Hà Lan ←→ Đậu Cao Xạ"
+    },
+    "11": {
+      "name": "",
+      "desc": "Mở khoá Thái Dương Bạch Cải: Bắp Cải Ánh Dương + Bắp Cải Vàng\nvà phân loài Nguyệt Thần Bạch Cải\nChuyển đổi: Hoa Hướng Dương ←→ Lồng Đèn"
+    },
+    "12": {
+      "name": "",
+      "desc": "Mở khoá Cơ Giáp Tân Tiến: Siêu Bí Ngô + Cỏ Nam Châm\nvà phân loài Thiết Sáp Anh Đào\nChuyển đổi: Xương Rồng ←→ Bom Anh Đào"
+    },
+    "13": {
+      "name": "",
+      "desc": "Mở khoá Hoả Thần Chúc Dung: Dưa Nham Thạch + Nấm Xịt Bầu Dục\nvà phân loài Hỏa Kích Chúc Dung\nChuyển đổi: Bắp Ngô ←→ Dưa Hấu"
+    },
+    "14": {
+      "name": "",
+      "desc": "Mở khoá Tham Tài Thuỷ Thảo: Hoa Cúc Hai Đầu → Thuỷ Quái Ba Đầu\nvà phân loài Hộp Zombie Tham Lam Biển\nChuyển đổi: Hộp Quà ←→ Hộp quà Zombie"
+    },
+    "15": {
+      "name": "",
+      "desc": "Mở khoá Thời Không Thần Ngọc Mễ: Bắp Non ×3 + Ngô Thời Không\nvà phân loài Thời Không Thần Hồ Đào\nChuyển đổi: Bắp Ngô ←→ Hạt Óc Chó"
+    },
+    "16": {
+      "name": "",
+      "desc": "Mở khoá Hàn Liên Cung Thủ: Hàn Thiết Cung Thủ + Xạ Thủ Mùa Đông\nvà phân loài Hàn Trúc Vĩnh Hằng\nChuyển đổi: Gốc Cung Thủ ←→ Măng Băng"
+    },
+    "17": {
+      "name": "",
+      "desc": "Mở khoá Đại Khẩu Quang Thực: Hoa Ăn Thịt Phát Sáng → Đại Khẩu Thực Thảo"
+    },
+    "18": {
+      "name": "",
+      "desc": "Mở khoá Hoả Bộc Luân: Hoả Đại Pháo + Pháo Hoa Anh Đào\nvà phân loài Diệt Hoả Luân\nChuyển đổi: Bắp Ngô ←→ Bắp Cải"
+    },
+    "19": {
+      "name": "",
+      "desc": "Mở khoá Nữ Vương Hướng Dương: Gốc Lửa Hướng Dương + Hướng Dương Vàng"
+    },
+    "20": {
+      "name": "",
+      "desc": "Mở khoá Thời Không Cực Hàn: Dưa Hấu Băng + Dưa Hấu Thời Không\nvà phân loài Thời Không Tận Thế\nChuyển đổi: Dưa Hấu ←→ Nấm Nguyên Tử"
+    },
+    "21": {
+      "name": "",
+      "desc": "Mở khoá Hỏa Miêu Anh Đào: Mèo Lửa + Pháo Hoa Anh Đào\nvà phân loài Nấm Cứu Thế\nChuyển đổi: Mèo ←→ Nấm Biển"
+    },
+    "22": {
+      "name": "",
+      "desc": "Mở khoá Đại Thủy Quái Kraken: Đàn Nấm Biển + Nấm Hải Yêu"
+    },
+    "23": {
+      "name": "",
+      "desc": "Mở khoá Ớt Vĩnh Hằng: Ớt Hắc Ám + Ớt Hắc Ám\nvà phân loài Hỏa Linh Vĩnh Hằng\nChuyển đổi: Nấm Lùn ×3 + Khoai Ảo Thuật ←→ Nấm Lùn"
+    },
+    "24": {
+      "name": "",
+      "desc": "Mở khoá Lưu Quang Thời Không: Đậu 2 Đầu Laser + Đậu Thời Không\nvà phân loài Độc Quang Thời Không\nChuyển đổi: Lồng Đèn ←→ Củ Tỏi"
+    },
+    "25": {
+      "name": "",
+      "desc": "Mở khoá Bão Tố Hắc Bầu Dục: Đậu Súng Máy Bầu Dục + Đậu Sắt\nvà phân loài Cao Xạ Thời Không\nChuyển đổi: Mũ Bầu Dục ←→ Lõi Thời Không"
+    },
+    "26": {
+      "name": "",
+      "desc": "Mở khoá Óc Chó Hắc Thạch: Ớt Hắc Ám → Pháo Đài Óc Chó"
+    },
+    "27": {
+      "name": "",
+      "desc": "Mở khoá Thần Dược Tinh Dầu Thông: Đèn Siêu Cấp + Lô Hội Gai"
+    }
+  },
+  "investmentBuffs": {
+    "0": {
+      "name": "",
+      "desc": "Cây gây thêm 40% sát thương trong 50% đầu tiên của mỗi màn"
+    },
+    "1": {
+      "name": "",
+      "desc": "Cuối mỗi màn, nhận thêm 300 điểm cho mỗi loại cây không gây sát thương nào trong màn này (tối đa 10 loại cây)"
+    },
+    "2": {
+      "name": "",
+      "desc": "Cuối mỗi màn, nếu không cây nào rơi về 0 HP thì nhận thêm 1500 điểm và tăng 5% máu tối đa cho toàn bộ cây"
+    },
+    "3": {
+      "name": "",
+      "desc": "Toàn bộ cây trên sân thành cây ngẫu nhiên, nhận ngay 1000 điểm và Găng Tay không còn thời gian hồi trong màn này"
+    },
+    "4": {
+      "name": "",
+      "desc": "Nhận ngay 10 thẻ cây Du Hí ngẫu nhiên"
+    },
+    "5": {
+      "name": "",
+      "desc": "Mỗi khi một Mini-boss bị hạ, toàn bộ cây hồi 10% máu tối đa"
+    },
+    "6": {
+      "name": "",
+      "desc": "Toàn bộ Zombie không phải Mini-boss giảm 10% máu"
+    },
+    "7": {
+      "name": "",
+      "desc": "Toàn bộ Mini-boss giảm 10% máu"
+    },
+    "8": {
+      "name": "",
+      "desc": "Mỗi đợt zombie, gây 1500% sát thương cơ bản lên zombie có nhiều máu nhất"
+    },
+    "9": {
+      "name": "",
+      "desc": "Loại cây gây nhiều sát thương nhất sẽ gây thêm 25% sát thương"
+    },
+    "10": {
+      "name": "",
+      "desc": "Đầu mỗi màn, cây nhận 3% Giảm Sát Thương cho mỗi loại cây không phải cây Du Hí trên sân, tối đa 30%"
+    },
+    "11": {
+      "name": "",
+      "desc": "Đầu mỗi màn, 6 cây gây nhiều sát thương nhất nhận 20% tăng sát thương"
+    },
+    "12": {
+      "name": "",
+      "desc": "Bạn nhận thêm 6 lượt làm mới cửa hàng nếu không mua gì từ lần ghé trước"
+    },
+    "13": {
+      "name": "",
+      "desc": "Nhận thêm 11 lượt làm mới cửa hàng"
+    },
+    "1000": {
+      "name": "",
+      "desc": "<color=#AF4900>Cào bỏ toàn bộ cây của bạn, nhưng Mặt Trời x2, và đầu mỗi màn toàn bộ cây nhận lượng Giáp bằng tổng chi phí Mặt Trời của các cây đã cào"
+    },
+    "1001": {
+      "name": "",
+      "desc": "<color=#AF4900>Cào bỏ toàn bộ cây của bạn, nhưng Mặt Trời x2, và thẻ cây không có thời gian hồi trong màn này"
+    },
+    "1002": {
+      "name": "",
+      "desc": "<color=#AF4900>Đội cây của bạn có 18% cơ hội chí mạng"
+    },
+    "1003": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn, cây của bạn tăng thêm 3% máu và 6% sát thương cho mỗi loại cây trên sân"
+    },
+    "1004": {
+      "name": "",
+      "desc": "<color=#AF4900>Loại cây gây nhiều sát thương nhất gây thêm 40% sát thương và đội cây của bạn cũng gây thêm 10% sát thương"
+    },
+    "1005": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn, cây thường ở phía trái nhất mỗi hàng nhận 150% tăng Tốc Độ Đánh, nhưng đầu mỗi đợt zombie, chúng nhận sát thương bằng 1000% máu tối đa"
+    },
+    "1006": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn, cây thường ở phía trái nhất mỗi hàng nhận tăng sát thương bằng 0,1% máu tối đa của cây thường ở phía phải nhất cùng hàng, và cây thường ở phía phải nhất nhận máu tối đa bằng 1000% sát thương của cây thường ở phía trái nhất cùng hàng"
+    },
+    "1007": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn, đội cây của bạn có 25% cơ hội chí mạng, nhưng giảm 30% máu tối đa"
+    },
+    "1008": {
+      "name": "",
+      "desc": "<color=#AF4900>Đội cây của bạn có 10% cơ hội chí mạng. Đầu mỗi màn, cơ hội này tăng thêm 1%"
+    },
+    "1009": {
+      "name": "",
+      "desc": "<color=#AF4900>Đội cây của bạn nhận 10% tăng sát thương. Đầu mỗi màn, nếu đội cây có từ 200 cây trở lên, toàn bộ cây nhận thêm 50% tăng sát thương"
+    },
+    "1010": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn và ngay bây giờ, nhận thêm 1500 điểm và 1 lượt làm mới"
+    },
+    "1011": {
+      "name": "",
+      "desc": "<color=#AF4900>Đầu mỗi màn, thăng cấp 1 cây không phải cây Du Hí ngẫu nhiên lên Cấp 2"
+    },
+    "1012": {
+      "name": "",
+      "desc": "<color=#AF4900>Bạn nhận 1 Hộp Quà mỗi khi thực hiện một lần dung hợp"
+    },
+    "1013": {
+      "name": "",
+      "desc": "<color=#AF4900>Cây của bạn gây thêm 40% sát thương trong 50% cuối của mỗi màn"
+    },
+    "2000": {
+      "name": "",
+      "desc": "<color=#007FFF>Đội cây của bạn có 25% cơ hội chí mạng. Chúng còn có cơ hội bằng 30% tỉ lệ chí mạng của mình để giảm mọi sát thương nhận vào còn 1"
+    },
+    "2001": {
+      "name": "",
+      "desc": "<color=#007FFF>Đội cây của bạn nhận 25% Giảm Sát Thương, và cơ hội chí mạng bằng với tỉ lệ giảm sát thương của mình"
+    },
+    "2002": {
+      "name": "",
+      "desc": "<color=#007FFF>Đầu mỗi màn, mỗi cây có 50% cơ hội nhận 100% tăng sát thương"
+    },
+    "2003": {
+      "name": "",
+      "desc": "<color=#007FFF>Đội cây của bạn tăng vĩnh viễn 8% sát thương mỗi khi một Mini-boss bị hạ"
+    },
+    "2004": {
+      "name": "",
+      "desc": "<color=#007FFF>Đầu mỗi màn, thăng cấp 1 cây không phải cây Du Hí ngẫu nhiên lên Cấp 3"
+    },
+    "2005": {
+      "name": "",
+      "desc": "<color=#007FFF>Tăng 30% cơ hội chí mạng cho đội cây của bạn. Nếu cơ hội chí mạng vượt quá 100%, sát thương chí mạng tăng thêm 40%"
+    },
+    "2006": {
+      "name": "",
+      "desc": "<color=#007FFF>Một Hoa Lan Lửa siêu hiếm chứa rất nhiều Điểm xuất hiện (bạn nhận 20000 Điểm)"
+    },
+    "2007": {
+      "name": "",
+      "desc": "<color=#007FFF>Ngay lập tức nhận 5000 điểm. Từ giờ, bạn nhận thêm 3000 điểm nếu bước vào màn tiếp theo mà không mua gì từ cửa hàng"
+    },
+    "2008": {
+      "name": "",
+      "desc": "<color=#007FFF>Bạn có 45% cơ hội nhận thêm 1 lượt làm mới mỗi khi làm mới cửa hàng"
+    },
+    "2009": {
+      "name": "",
+      "desc": "<color=#007FFF>Đầu mỗi màn, nhận thêm 2000 điểm"
+    },
+    "2010": {
+      "name": "",
+      "desc": "<color=#007FFF>Đầu mỗi màn, nhận 1 Cây Sao Chép Tinh Hệ. Nếu dùng lên cây có dạng Tinh Hệ, nó sẽ thành biến thể Tinh Hệ của cây đó"
+    },
+    "2011": {
+      "name": "",
+      "desc": "<color=#007FFF>Nhận thêm 500 điểm mỗi khi làm mới trong cửa hàng hoặc khi chọn Zombie Modifier"
+    },
+    "2012": {
+      "name": "",
+      "desc": "<color=#007FFF>Tiêu hao toàn bộ điểm hiện tại của bạn. Mỗi 1000 điểm tiêu hao, cây của bạn nhận thêm 1% cơ hội chí mạng"
+    },
+    "2013": {
+      "name": "",
+      "desc": "<color=#007FFF>Chỉ trong màn này, bạn nhận 10000 điểm và sẽ thắng màn nếu một zombie xâm nhập vào nhà bạn"
+    }
+  }
 }
