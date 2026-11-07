@@ -910,11 +910,11 @@
         },
         "13052": {
             "name": "Vanguard - B",
-            "desc": "TBD"
+            "desc": "Immediately gain Anti-crush and Blast Protection. All plants gain 25000 shield."
         },
         "13053": {
             "name": "Vanguard - X",
-            "desc": "TBD"
+            "desc": "When plants deal damage within 3 tiles, they restore HP and shield (up to a cap)."
         },
         "14000": {
             "name": "No Pains No Gains",
