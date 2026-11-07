@@ -146,11 +146,11 @@
         },
         "36": {
             "name": "",
-            "desc": "Sous-espèce Pot Pyroboros débloquée | Piment Souffle-du-Dragon : fréquence d'explosion ×2"
+            "desc": "Sous-espèce Pot Pyroboros débloquée | Piment Souffle-du-Dragon : fréquence d'explosion ×2 | Pot Pyroboros : durée du bonus de vitesse d’attaque ×2"
         },
         "37": {
             "name": "",
-            "desc": "Torche Souffle-de-dragon : chaque zombie touché par le souffle de feu augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu'à 400%"
+            "desc": "Piment Souffle-du-Dragon : chaque zombie touché par le souffle de feu augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu'à 400% | Pot Pyroboros : libère un effet de Cerise Explosive et un effet de Jalapeño toutes les 4 s"
         },
         "38": {
             "name": "",
@@ -249,7 +249,7 @@
             "desc": "Vraie Cerise Explosive : les cerises explosives infligent désormais au moins 1800 dégâts, ont une portée d’explosion accrue et causent des dégâts de Crémation"
         },
         "1014": {
-            "name": "",
+            "name": "Recyclage par fission",
             "desc": "Cliquer sur la même plante quand vous la tenez avec le Gant la démonte au prix de 500 Soleil | TR de 20 s"
         },
         "1015": {
@@ -338,7 +338,7 @@
         },
         "3001": {
             "name": "",
-            "desc": "S'il y a au moins 6 Étoiles Polaires et 6 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et infligera 5× les dégâts, et continuera d'invoquer des Météores Hélios"
+            "desc": "S'il y a au moins 6 Étoiles Polaires et 6 Choux Sol sur le terrain, le Mini Soleil invoqué par le Chou Sol ne disparaîtra jamais et continuera d'invoquer des Météores Hélios, tandis que les Étoiles Polaires peuvent consommer du Soleil pour infliger plus de dégâts mais ne peuvent attaquer que dans leur rangée"
         },
         "3002": {
             "name": "",
@@ -1464,7 +1464,7 @@
         },
         "1005": {
             "name": "",
-            "desc": "Tous les zombies ont 1/3 de chance de ressusciter à pleins PV à leur mort"
+            "desc": "Tous les zombies, boss compris, ont 1/3 de chance de ressusciter une seule fois à pleins PV à leur mort"
         },
         "1006": {
             "name": "",
@@ -1656,7 +1656,7 @@
         },
         "5001": {
             "name": "",
-            "desc": "Les dégâts d'attaque de tous les zombies sur le terrain sont doublés toutes les 3 s, jusqu'à 1 M"
+            "desc": "Les dégâts d'attaque de tous les zombies sur le terrain augmentent de 100% (linéaire) toutes les 3 s, jusqu'à 1 M"
         },
         "5002": {
             "name": "",
@@ -1796,7 +1796,7 @@
         },
         "10031": {
             "name": "Détonation désespérée",
-            "desc": "Lorsque leurs PV sont sous 10% de leurs PV max, les zombies (hors mini-boss) ont une chance d’exploser spontanément dès qu’ils sont touchés"
+            "desc": "Les zombies (hors mini-boss) dont les PV sont sous 5% de leurs PV max explosent spontanément dès qu’ils sont touchés"
         },
         "10032": {
             "name": "Cor de puissance",

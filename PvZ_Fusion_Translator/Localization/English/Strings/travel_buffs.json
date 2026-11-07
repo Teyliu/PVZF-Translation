@@ -78,7 +78,7 @@
         },
         "19": {
             "name": "War Machine",
-            "desc": "Calamity-shroom: Now spawns 3 extra Hypnotized Armored Gargantuars and Zombonis when it explodes"
+            "desc": "Calamity-shroom: When the hypnotized Armored Gargantuars attacks, loses HP and summons cursed Imps | Calamity-shroom: Defeating the Empowered Mini-boss Zombie now grants 2000 points. | Effects also apply to SP variants | SP Calamity-shroom: Abyssal Imps deals true damage."
         },
         "20": {
             "name": "Numismatic Engine",
@@ -479,6 +479,10 @@
         "7003": {
             "name": "SP Evolution",
             "desc": "Unlock SP Gatling Icicle-shroom and SP Gatling Sunburst-shroom\nUse Peashooter to upgrade"
+        },
+        "7004": {
+            "name": "SP Evolution",
+            "desc": "Unlock SP Calamity-shroom and SP Avarice-shroom\nUse Doom-shroom to upgrade"
         },
         "10000": {
             "name": "Solar Grace",
