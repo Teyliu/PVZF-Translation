@@ -43,8 +43,9 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
+	Up-to-date 4.0.5 - Vietnamese
 	Up-to-date 3.8.1 - English, Korean
-	Last Updated 3.7 - Indonesian, Vietnamese
+	Last Updated 3.7 - Indonesian
 	Last Updated 3.6.1 - Spanish
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
