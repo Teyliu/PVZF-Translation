@@ -4881,7 +4881,7 @@
         },
         {
             "seedType": 1490,
-            "name": "scrap-pult",
+            "name": "Scrap-pult",
             "introduce": "<color=#3D1400>铁桶卷心菜投手沉迷钢片琴，即使在战场也要欣赏这门艺术。为此他特地把琴键包成卷心菜，用金属撞击的声音演奏华美的乐章。有幸欣赏的僵尸们表示，这旋律简直直冲天灵盖。</color>",
             "info": "投出的卷心菜会在僵尸头盔的叮铛作响中接连弹射。\n\n<color=#3D1400>韧性：</color><color=red>2000</color>\n<color=#3D1400>伤害：</color><color=red>160/3秒</color>\n<color=#3D1400>特点：</color><color=red>子弹每次命中金属一类防具后，可以弹射1次</color>\n<color=#3D1400>融合配方：</color><color=red>磁性卷心菜投手（底座）+铁桶</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Bucket > Cabbage Morph</color>"
@@ -5051,14 +5051,14 @@
             "seedType": 312,
             "name": "Longfeng Torcher",
             "introduce": "<color=#3D1400>昔有老匠，入深山斫竹，备元日爆竹之需。自忖疾久，此殆毕生绝响，遂择千年老竹，填以丹砂，匠心独运。及岁除，燃其引，烬尽而竹寂。匠怅然，方阖目，竹忽冲霄而起，周身烈焰，长啸而去，其声若凤鸣，亦如龙啸。乡人莫不惊异，匠亦欣然色喜，疾遂愈。</color>",
-            "info": "<size=36>散射子弹凝聚龙魂，觉醒状态下吐出穿透性的龙炎弹。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Damage: </color><color=#8B0000>Basic Mode: 300×10/0.33s\nDragon Mode: 1500×5/0.66s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fires projectiles in a ±15° cone\n<color=black>•</color> Click to switch attack modes:\n\t· Basic Mode: Each attack gains 1 energy.\n\t· Dragon Mode: Each attack drains 3 energy. Projeciles now has infinite pierce but only travels 5 tiles ahead.</color>",
+            "info": "<size=36>散射子弹凝聚龙魂，觉醒状态下吐出穿透性的龙炎弹。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Damage: </color><color=#8B0000>Basic Mode: 300×10/0.33s\nDragon Mode: 1500×5/0.66s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Fires projectiles in a ±15° cone.\n<color=black>•</color> Click to switch attack modes:\n\t· Basic Mode: Each attack gains 1 energy.\n\t· Dragon Mode: Each attack drains 3 energy. Projeciles now deal massive damage with infinite pierce but only travel 5 tiles ahead.</color>",
             "cost": ""
         },
         {
             "seedType": 313,
             "name": "Temporal Torch",
             "introduce": "<color=#3D1400>平行时空树桩为自己的树洞感到骄傲。他的树洞已经承载了一个微型的平行宇宙，还能够继续装下许多东西，书籍、美食、玩偶，等等。因为这个微型宇宙只是在其他维度上和他所处的宇宙空间重合了，为了留下这个平行宇宙，他一直在认真选择自己的位置。</color>",
-            "info": "<size=36>操纵平行时空，将穿过的子弹映射在每一行。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant projectiles passing through would be copied onto every lane\n<color=black>•</color> Every row can only have one Temporal Torch. And all Temporal Torches must be on the same column.</color>",
+            "info": "<size=36>操纵平行时空，将穿过的子弹映射在每一行。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Copies plant projectiles into every lane; the original projectiles will not be lost.\n<color=black>•</color> Every row can only have one Temporal Torch. And all Temporal Torches must be on the same column.</color>",
             "cost": ""
         },
         {

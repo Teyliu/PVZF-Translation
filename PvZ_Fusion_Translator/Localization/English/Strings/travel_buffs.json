@@ -404,6 +404,10 @@
             "name": "Skyglider Mecha",
             "desc": "Summons a Skyglider Mecha to fight for you (replaces current Pet). Increases damage from plant-side Jack-in-the-Box explosions, and fires an explosive at zombies every 1.5s (every 3rd attack is fired across each row). If the mini-boss Skystrider Mecha is present, the pet's attack interval is halved."
         },
+        "4008": {
+            "name": "Prodigy Cherryz",
+            "desc": "Increases the damage of plant-side cherry explosions. When hit by a cherry explosion, becomes enraged for 6 seconds and starts rapidly shooting cherries. Forces all Gatling Cherrybombers to fire a massive barrage and converts up to 10 hypnotized zombies (including when they die) into Gatling Cherry Newspaper zombies."
+        },
         "5000": {
             "name": "Goliath Slayer",
             "desc": "Plants deal +100% to Mini-bosses and Bosses"
@@ -684,6 +688,18 @@
             "name": "Ascend: Sorrow",
             "desc": "Melancholy Commando now always unleashes its Ultimate, but with half the projectiles"
         },
+        "12030": {
+            "name": "World of Ice",
+            "desc": "When a zombie receives 10 direct hits from Maelonstorm, it triggers an ice explosion that deals massive area damage."
+        },
+        "12031": {
+            "name": "Partnership",
+            "desc": "If the unit with the highest total damage is a plant, it becomes the \"Partner\". Every time Gatling Icicle-shroom attacks, the Partner releases the same attack from its position if it's currently on the lawn."
+        },
+        "12032": {
+            "name": "Devourer",
+            "desc": "After each devour, Cherrizilla summons a column of hypnotized Cherrizilla zombies."
+        },
         "13000": {
             "name": "Blast Protection",
             "desc": "Damage from Zombie Jack-in-the-Box explosions is reduced to 1000"
@@ -883,6 +899,22 @@
         "13049": {
             "name": "Omnipotence - X",
             "desc": "All plants on the lawn receive 500% bonus HP, 300% independent bonus attack damage, 200% bonus attack speed, 60% crit chance and 150% crit damage"
+        },
+        "13050": {
+            "name": "Vanguard",
+            "desc": "Plants deal an additional 30% damage while they are in the rightmost 4 columns."
+        },
+        "13051": {
+            "name": "Vanguard - A",
+            "desc": "Plants deal an additional 100% damage while they are in the rightmost 4 columns."
+        },
+        "13052": {
+            "name": "Vanguard - B",
+            "desc": "TBD"
+        },
+        "13053": {
+            "name": "Vanguard - X",
+            "desc": "TBD"
         },
         "14000": {
             "name": "No Pains No Gains",
@@ -1732,6 +1764,8 @@
             "name": "Whims of Fate",
             "desc": "Randomly gain -27 to +33 points of Luck with every Modifier draw"
         }
+
+
     },
     "unlocks": {
         "0": {
