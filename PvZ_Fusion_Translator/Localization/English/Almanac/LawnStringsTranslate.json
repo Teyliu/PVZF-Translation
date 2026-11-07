@@ -5058,7 +5058,7 @@
             "seedType": 313,
             "name": "Temporal Torch",
             "introduce": "<color=#3D1400>平行时空树桩为自己的树洞感到骄傲。他的树洞已经承载了一个微型的平行宇宙，还能够继续装下许多东西，书籍、美食、玩偶，等等。因为这个微型宇宙只是在其他维度上和他所处的宇宙空间重合了，为了留下这个平行宇宙，他一直在认真选择自己的位置。</color>",
-            "info": "<size=36>操纵平行时空，将穿过的子弹映射在每一行。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Copies plant projectiles into every lane; the original projectiles will not be lost.\n<color=black>•</color> Every row can only have one Temporal Torch. And all Temporal Torches must be on the same column.</color>",
+            "info": "<size=36>操纵平行时空，将穿过的子弹映射在每一行。\n\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Copies plant projectiles into every lane.\n<color=black>•</color> Every row can only have one Temporal Torch. And all Temporal Torches must be on the same column.</color>",
             "cost": ""
         },
         {
