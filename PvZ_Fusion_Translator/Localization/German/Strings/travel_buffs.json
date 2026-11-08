@@ -1,0 +1,2016 @@
+{
+  "advancedBuffs": {
+    "0": {
+      "name": "Zu den Waffen",
+      "desc": "Unterart Verzauberinpilz freigeschaltet | Kaiserinpilz und Verzauberinpilz: Beschwörungsabstand 30s → 10s"
+    },
+    "1": {
+      "name": "Elitekorps",
+      "desc": "Kaiserinpilz und Verzauberinpilz: Können jetzt Odyssee-Zombies beschwören"
+    },
+    "2": {
+      "name": "Übertaktung",
+      "desc": "Unterart MG-Rasereipilz freigeschaltet | MG-Unheil: Keine Pause mehr nach einer ultimativen Düstergranate | Gilt auch für SP-Varianten"
+    },
+    "3": {
+      "name": "Überwältigung",
+      "desc": "MG-Unheil: Ultimative Düstergranate jetzt jede Runde statt jede 4. Runde | MG-Rasereipilz: Ultimative Düstergranate alle 4 Angriffe | Gilt auch für SP-Varianten"
+    },
+    "4": {
+      "name": "Fotosynthese",
+      "desc": "Doppelsolar-Nuss: Klickkosten 500 → 200 Sonne | Doppel-Infernuss: Heilmenge ×2 | Gilt auch für SP-Varianten"
+    },
+    "5": {
+      "name": "Blutbildung",
+      "desc": "Unterart Doppel-Infernuss freigeschaltet | Doppelsolar-Nuss: Verliert pro Treffer 10 statt 50 Robustheit | Doppel-Infernuss: Klickkosten 500 → 200 LP | Gilt auch für SP-Varianten"
+    },
+    "6": {
+      "name": "Pfad des Schmerzes",
+      "desc": "Unterart Obsidian-Wallnuss freigeschaltet | Stachelsidian und Stachelnuss: Schaden mal 5"
+    },
+    "7": {
+      "name": "Stahlhaut",
+      "desc": "Stachelsidian und Stachelnuss: Erhalten 95% Schadensverringerung"
+    },
+    "8": {
+      "name": "Durchdringende Flamme",
+      "desc": "Unterart Phönix-Drohne freigeschaltet | Phönix-Triplikator und Phönix-Drohne: Geschosse durchschlagen unbegrenzt und lösen beim Treffer Entflammt-Explosionen aus | Gilt auch für SP-Varianten"
+    },
+    "9": {
+      "name": "Schmelzpunkt",
+      "desc": "Phönix-Triplikator und Phönix-Drohne: Globaler Entflammt-Schadensbonus 50% → 150%. Normale entzündete Geschosse verursachen jetzt ebenfalls Entflammt | Gilt auch für SP-Varianten"
+    },
+    "10": {
+      "name": "Splitterschuss",
+      "desc": "MG-Eiszapfenpilz und Sonnenausbruchpilz: Eiszapfen durchschlagen unbegrenzt und spalten sich bei den ersten fünf Treffern in jeweils zwei diagonale Eiszapfen | Gilt auch für SP-Varianten"
+    },
+    "11": {
+      "name": "Eisbrecher",
+      "desc": "Unterart MG-Sonnenpustepilz freigeschaltet | MG-Eiszapfenpilz: Schaden an gegen Gefroren oder Kälte immunen Zombies 4× → 12× | Gilt auch für SP-Varianten"
+    },
+    "12": {
+      "name": "Pfennigfuchser",
+      "desc": "Strahlentopf: Die Verbesserung von Silbertöpfen zu Goldtöpfen kostet höchstens 8k"
+    },
+    "13": {
+      "name": "Sonnenwirtschaft",
+      "desc": "Strahlentopf: Münzen über der Obergrenze werden im Verhältnis 2:1 in Sonne umgewandelt"
+    },
+    "14": {
+      "name": "Kluger Schild",
+      "desc": "Unterart Rubinschirm freigeschaltet | Smaragdschirm und Rubinschirm: Aktivieren ihre ultimative Fähigkeit bei nahen Zombies automatisch"
+    },
+    "15": {
+      "name": "Volltreffer",
+      "desc": "Smaragdschirm: Schadensbonus 100% → 300%"
+    },
+    "16": {
+      "name": "Drohnenmeister",
+      "desc": "Katznessel: Drohnen-Angriffsschaden ×3 | Sturmhäschen: Beschworene Drohne ist nicht mehr abgeschwächt und feuert regulär 60 Schüsse"
+    },
+    "17": {
+      "name": "Nadelarbeit",
+      "desc": "Unterart Sturmhäschen freigeschaltet | Katznessel: Normaler Angriffsschaden ×5 | Sturmhäschen: Angriffsschaden ×3"
+    },
+    "18": {
+      "name": "Kontrollierte Fusion",
+      "desc": "Unterart Gierpilz freigeschaltet | Schicksalspilz: Sämtliche Düsterpilzexplosionen hinterlassen keine Krater mehr"
+    },
+    "19": {
+      "name": "Kriegsmaschine",
+      "desc": "Schicksalspilz: Erzeugt beim Explodieren zusätzlich 3 hypnotisierte Gepanzerte Gargantuas und Zombonis"
+    },
+    "20": {
+      "name": "Münztriebwerk",
+      "desc": "Wirtschaftsholz und Magnatenpflanterne: Münzgeschosse und Laser erhalten pro 1000 Münzen in deinem Besitz 1% zusätzlichen Schaden"
+    },
+    "21": {
+      "name": "Goldregen",
+      "desc": "Unterart Magnatenpflanterne freigeschaltet | Wirtschaftsholz: Münzgeschosse verursachen jetzt Flächenschaden"
+    },
+    "22": {
+      "name": "Kristalldynamo",
+      "desc": "Unterart Schirm des Boreas freigeschaltet | Pharos' Schirm: Energieobergrenze ×10, Regenerationstempo ×20, Heiltempo ×2 | Schirm des Boreas: Schaden im Streumodus steigt linear bis ×4; Schaden im Fokusmodus ×4"
+    },
+    "23": {
+      "name": "Energiefokus",
+      "desc": "Pharos' Schirm: Normaler Angriffsschaden ×3, Explosionsschaden ×10, Angriffsintervall → 2s | Schirm des Boreas: Kryostrahl im Fokusmodus friert jetzt für 1s ein"
+    },
+    "24": {
+      "name": "Adlerauge",
+      "desc": "Eisenerbsenpilz-Trio: Erwarteter Abstand zwischen Scharfschützen-Kopftreffern sinkt auf 5s | Metallblitzrad: Angriffsschaden ×3"
+    },
+    "25": {
+      "name": "Granatenschock",
+      "desc": "Unterart Metallblitzrad freigeschaltet | Eisenerbsenpilz-Trio: Flakrückstoß ×2, Angriffsschaden ×3 | Metallblitzrad: Angriffsschaden ×3"
+    },
+    "26": {
+      "name": "Flussantrieb",
+      "desc": "Unterart Dyson-Magnet freigeschaltet | Tesla-Magnet: Angriffsreichweite ×2 | Dyson-Magnet: Abklingzeit der Metallproduktion halbiert"
+    },
+    "27": {
+      "name": "Magnetmanie",
+      "desc": "Tesla-Magnet: Absorbiert 3 Metallgegenstände gleichzeitig; Schaden an Giga-Dreizacknuss- und Giga-Rugby-Nuss-Zombies ×3 | Dyson-Magnet: Heilmenge ×3, Obergrenze zusätzlicher Metallproduktion (3 + (n/m)/4) → (3 + (n/m)/3)"
+    },
+    "28": {
+      "name": "Sicheres Verderben",
+      "desc": "Unterart Verfluchte Unheilsmine freigeschaltet | Richter des Bösen und Verfluchte Unheilsmine: Hinterlassen jetzt garantiert eine Samenkarte"
+    },
+    "29": {
+      "name": "Unheimliche Verbindung",
+      "desc": "Richter des Bösen und Verfluchte Unheilsmine: Schadensübertragung durch Zombieseelen ×2"
+    },
+    "30": {
+      "name": "Anhaltender Fallout",
+      "desc": "Bumm-Bumm-Kirsche und Crunchkürbis: Anfangsdauer der Teilchensuppe steigt von 7s auf 10s"
+    },
+    "31": {
+      "name": "Kettenreaktion",
+      "desc": "Unterart Crunchkürbis freigeschaltet | Bumm-Bumm-Kirsche und Crunchkürbis: Explosive und Düster-Geschosse werden beim Zombietreffer mit kleiner Wahrscheinlichkeit zu kosmischen Trümmern mit 12× Schaden"
+    },
+    "32": {
+      "name": "Klebrigere Butter",
+      "desc": "Unterart Kornpost-Topf freigeschaltet | Maisband und Kornpost-Topf: Butter-Betäubungsdauer ×3"
+    },
+    "33": {
+      "name": "Rutschpartie",
+      "desc": "Maisband: Zombies darauf rutschen fortwährend nach rechts | Kornpost-Topf: Butterchance der Pflanze darauf 50% → 100%"
+    },
+    "34": {
+      "name": "Magnetresonanz",
+      "desc": "Allzweckkürbis: Gibt beim Erscheinen allen verbundenen Magnetpflanzen einen Schild in Höhe von 30 × Anzahl der Magnetpflanzen | Quasar: Setzt beim Erscheinen stattdessen ihren Angriffsbonus zurück und gewährt 0.5% × Anzahl der Magnetpflanzen"
+    },
+    "35": {
+      "name": "Doppelte Polarität",
+      "desc": "Allzweckkürbis und Quasar: Zählen jetzt doppelt zur Anzahl der Magnetpflanzen"
+    },
+    "36": {
+      "name": "Explosiver Atem",
+      "desc": "Unterart Pyroboros-Topf freigeschaltet | Drachenatem-Fackler: Explosionshäufigkeit ×2 | Pyroboros-Topf: Dauer des Angriffstempobonus ×2"
+    },
+    "37": {
+      "name": "Wärmeimpuls",
+      "desc": "Drachenatem-Fackler: Jeder vom Feueratem getroffene Zombie erhöht den Schaden des nächsten Treffers desselben Angriffs um 1%, bis zu 400% | Pyroboros-Topf: Löst alle 4s eine Kirschbombe und einen Jalapeño-Effekt aus"
+    },
+    "38": {
+      "name": "Kaltfront",
+      "desc": "Unterart Vergessenheitspilz freigeschaltet | Lawinenpilz: +100 Anfangsenergie | Vergessenheitspilz: Schaden ×2"
+    },
+    "39": {
+      "name": "Gefrorener Horizont",
+      "desc": "Lawinenpilz: Angriffsradius ×2 | Vergessenheitspilz: Angriffsintervall halbiert"
+    },
+    "40": {
+      "name": "Arkane Macht",
+      "desc": "Hypno-Katzenschwanz: Fähigkeitsabklingzeit halbiert; Fähigkeitsradius +0.5 Felder"
+    },
+    "41": {
+      "name": "Liebesbiss",
+      "desc": "Hypno-Katzenschwanz: Von ihrer Fähigkeit erzeugte hypnotisierte Zombies verursachen beim Beißen zusätzlich 30% wahren Schaden, der Schadensverringerung ignoriert"
+    },
+    "42": {
+      "name": "Verwitternder Sturm",
+      "desc": "Quetzalcoatl-Pusterich: Schadensbonus durch Schwindel 20% → 40%. Angriffe senken außerdem den DR-Wert um 10"
+    },
+    "43": {
+      "name": "Flinke Winde",
+      "desc": "Quetzalcoatl-Pusterich: Abklingzeit für Pusterich-Erzeugung 10s → 3s"
+    },
+    "44": {
+      "name": "Hattrick",
+      "desc": "SP-Kryomanten-Erbse: Jedes Abprallen eines Geschosses erhöht dessen Schaden um 10%. Auf Stufe 2 wird die Anzahl der Abpraller mit ×3 multipliziert"
+    },
+    "45": {
+      "name": "Verzaubert",
+      "desc": "SP-Kryomanten-Erbse: Abprallende Geschosse bevorzugen jetzt Bosse mit den höchsten LP. Auf Stufe 2 erleiden getroffene Zombies +10% zusätzlichen Schaden"
+    },
+    "46": {
+      "name": "Bergungssammler",
+      "desc": "Ender-Kürbistruhe: Lagert hinterlassene Metallgegenstände und heilt damit zuerst die Giga-Mecha-Nuss mit den niedrigsten LP"
+    },
+    "47": {
+      "name": "Große Endertruhe",
+      "desc": "Ender-Kürbistruhe: Das Stapellimit jedes einzelnen Lagerplatzes aller Kürbistruhen wird verdoppelt."
+    },
+    "1000": {
+      "name": "Schnelle Hände",
+      "desc": "Handschuh-Abklingzeit um 10s verkürzt. Der Pflanzenhandschuh hat keine Abklingzeit. Minibosse lassen sich jetzt versetzen"
+    },
+    "1001": {
+      "name": "Ersatznachschub",
+      "desc": "Aufladezeit aller Pflanzen halbiert"
+    },
+    "1002": {
+      "name": "Reichlich Sonne",
+      "desc": "Jede Sonne ist mehr wert | 5 → 15 → 25 → 50 → 75"
+    },
+    "1003": {
+      "name": "Geschicklichkeit",
+      "desc": "Handschuh-Abklingzeit halbiert. Minibosse lassen sich jetzt versetzen"
+    },
+    "1004": {
+      "name": "Schnelle Kopie",
+      "desc": "Imitaters Aufladezeit: 5 Minuten → 50s"
+    },
+    "1005": {
+      "name": "Hammerzeit",
+      "desc": "Hammer-Abklingzeit auf 6s verkürzt"
+    },
+    "1006": {
+      "name": "Flexible Auswahl",
+      "desc": "Du kannst deine Pflanzenauswahl jetzt während des Spiels neu treffen"
+    },
+    "1007": {
+      "name": "Gnadenstoß",
+      "desc": "Zombies erleiden zusätzlich 1800 Schaden, wenn ein Treffer nach Schadensverringerung mehr als 1800 Schaden verursacht"
+    },
+    "1008": {
+      "name": "Stärke",
+      "desc": "Pflanzenschaden um 20% erhöht"
+    },
+    "1009": {
+      "name": "Spaltender Schlag",
+      "desc": "Zombies erleiden 20% mehr Schaden"
+    },
+    "1010": {
+      "name": "Einfallsreichtum",
+      "desc": "Modifikator-Neuwürfe +2"
+    },
+    "1011": {
+      "name": "Kryostase",
+      "desc": "Gefrierdauer aller Zombies um 25% verlängert. Verlangsamung durch Kälte um 10% verstärkt"
+    },
+    "1012": {
+      "name": "Sonnenreserve",
+      "desc": "Du erhältst 3000 Sonne, danach wird deine gesamte Sonne verdoppelt | Sonnenobergrenze 50k → 100k"
+    },
+    "1013": {
+      "name": "Die Kirsche obendrauf",
+      "desc": "Wahre Kirschbombe: Explosive Kirschen verursachen mindestens 1800 Schaden, explodieren großflächiger und verursachen Verbrennungsschaden"
+    },
+    "1014": {
+      "name": "Recycling",
+      "desc": "Klicke mit dem Handschuh erneut auf die gehaltene Pflanze, um sie für 500 Sonne zu zerlegen | 20s Abklingzeit"
+    },
+    "1015": {
+      "name": "Phalanx",
+      "desc": "Zwei gleiche Pflanzen auf direkt übereinanderliegenden Feldern derselben Spalte erhalten 50% Schadensbonus und 50% Schadensverringerung"
+    },
+    "1016": {
+      "name": "Belebender Zauber",
+      "desc": "Hypnotisierte Zombies erhalten 500% Schadensbonus und 80% Schadensverringerung. ACHTUNG: Auch beschworene Kirsch-Zeitungszombies von Kaiserinpilz oder Verzauberinpilz verlieren dann ihre Zeitung nicht!!"
+    },
+    "1017": {
+      "name": "Kosmische Kaskade",
+      "desc": "Angriffsabklingzeit aller Meteore halbiert | Meteorgrundschaden pro Magnetar auf dem Feld um 300 erhöht"
+    },
+    "1018": {
+      "name": "Erleuchtung",
+      "desc": "Gibt dem gesamten Feld 4 Lumos-Stufen"
+    },
+    "1019": {
+      "name": "Neue Kraft",
+      "desc": "Nach einer Heilung regenerieren Pflanzen für 3s jede Sekunde 5% ihrer aktuellen LP. Nicht stapelbar"
+    },
+    "1020": {
+      "name": "Heilverstärkung",
+      "desc": "Pflanzen erhalten 20% Heilbonus"
+    },
+    "1021": {
+      "name": "Kälteschock-Erkenntnis I",
+      "desc": "Verbessert Kryomanten-Erbse zu SP-Kryomanten-Erbse auf Stufe 1"
+    },
+    "1022": {
+      "name": "Kälteschock-Erkenntnis II",
+      "desc": "Verbessert SP-Kryomanten-Erbse auf Stufe 2"
+    },
+    "2000": {
+      "name": "Weltuntergang",
+      "desc": "Wahrer Düsterpilz: Düstergranaten lösen beim Auftreffen eine Düsterpilzexplosion ohne Krater aus"
+    },
+    "2001": {
+      "name": "Spaltenformation",
+      "desc": "Aktiviert Spaltenbepflanzung"
+    },
+    "2002": {
+      "name": "Transzendenz",
+      "desc": "Du kannst 1 verbesserbaren epischen Modifikator aufwerten"
+    },
+    "2003": {
+      "name": "Spitzenverteidiger",
+      "desc": "Die Pflanzenart mit dem höchsten Gesamtschaden auf dem Feld verursacht pro Angriff zusätzlich 30% des ursprünglichen Schadens als wahren Schaden"
+    },
+    "2004": {
+      "name": "Schießwut",
+      "desc": "Nach 50 Schüssen, bei Katapulten 25, erhalten Pflanzen für 1s unbegrenztes Angriffstempo"
+    },
+    "2005": {
+      "name": "Lebensraub",
+      "desc": "Pflanzen erhalten 1% Lebensraub. Geheilt wird die Pflanze mit dem niedrigsten prozentualen LP-Anteil auf dem Feld"
+    },
+    "2006": {
+      "name": "Hinterhaltstaktik",
+      "desc": "Je länger der letzte Schaden an einem Zombie zurückliegt, desto stärker der nächste Treffer. <1s: Schaden * (1 + 9t); ≥1s: Schaden * (10 + 9ln(t))"
+    },
+    "2007": {
+      "name": "Verderbende Berührung",
+      "desc": "Alle Zombies stehen unter Verderbnis: Nach jedem erlittenen Schaden erhöht sich der nächste Schaden an diesem Zombie um 5%. Unbegrenzt stapelbar"
+    },
+    "2008": {
+      "name": "Reinigung",
+      "desc": "Im Menü Modifikatoren ansehen kannst du 1 Zombiemodifikator entfernen, der keinen Miniboss betrifft"
+    },
+    "2009": {
+      "name": "Ruhmvolles Ende",
+      "desc": "Sterben hypnotisierte Zombies, explodieren sie und fügen nahen Zombies Schaden in Höhe von 150% ihrer maximalen LP zu"
+    },
+    "2010": {
+      "name": "Synchroner Schwung",
+      "desc": "Für jedes 1% zusätzliches Angriffstempo erhält eine Pflanze auch 1% zusätzlichen Angriffsschaden"
+    },
+    "3000": {
+      "name": "Ewiges Bollwerk",
+      "desc": "Sind Kirschzilla und Obsidian-Nuss (oder ihre Unterarten) zugleich vorhanden, entfällt die Obergrenze für die Zähigkeit von Kirschzilla/Knoblauchzilla, und Obsidian-Nuss/Obsidianmine erhalten 90% Schadensreduktion"
+    },
+    "3001": {
+      "name": "Astrale Konvergenz",
+      "desc": "Stehen mindestens 6 Magnetar und 6 Helios-Kohl auf dem Feld, verschwindet die von Helios-Kohl beschworene Minisonne nie und beschwört fortlaufend Helios-Meteore. Magnetar können Sonne für mehr Schaden verbrauchen, greifen aber nur noch ihre eigene Reihe an"
+    },
+    "3002": {
+      "name": "Volle Feuerkraft",
+      "desc": "MG-Kirschkanone verteilt seine Schüsse nun gleichmäßig auf drei Reihen mit Sinus- und Kosinusbahnen. Die Jalapeño-Explosionen von Gequetschtes Infernoholz erhalten die Eigenschaften von Kirschbombenexplosionen. Explosive Kirschen verursachen nach dem Passieren von Gequetschtes Infernoholz zusätzlichen Schaden proportional zur Anzahl der MG-Kirschkanone"
+    },
+    "3003": {
+      "name": "Himmlisches Leuchtfeuer",
+      "desc": "Stehen mindestens 6 Magnetar und 6 Selene-Kohl auf dem Feld, verschwindet Selenes beschworener Minimond nicht, und jede Selene liefert sehr viele Lumos-Stufen. Magnetar fügen dem Zombie mit den meisten LP zusätzlichen Schaden zu"
+    },
+    "3004": {
+      "name": "Ereignishorizont",
+      "desc": "Hagelmelonen aus den Nebelrissen von Wintermelonokopter verursachen nun 6× Schaden und erzeugen Singularitäten. Mais Planck schleudert stets ultimative schwarze Löcher. Kollabiert ein ultimatives schwarzes Loch, detonieren auch alle Singularitäten und erhöhen seinen Schaden weiter"
+    },
+    "3005": {
+      "name": "Zorn des Himmels",
+      "desc": "Klicke auf einen nachgeladenen Vulkanone, während du mit dem Handschuh eine epische Doppel-Infernuss hältst: Alle nachgeladenen Vulkanone auf dem Feld führen einen gemeinsamen Angriff gen Himmel aus. Jede 8. Infernogranate ruft einen Infernometeor mit 80× Schaden herab, der alle Zombies auf dem Bildschirm dezimiert"
+    },
+    "3006": {
+      "name": "Kugelhölle",
+      "desc": "Steht Kirschkanonendrohne über einer epischen MG-Rasereipilz, steigt mit jedem Angriff die Zahl ihrer Geschosse in der nächsten Salve. Dieser Bonus verfällt, sobald sie aufhören anzugreifen. (WARNUNG: Führt zu einer wahnsinnigen Menge an Geschossen!!)"
+    },
+    "3007": {
+      "name": "Ultranova",
+      "desc": "Photonknaller kann jeden Atompflanterne vor sich zum Aufladen anvisieren (zum Auswählen anklicken). Übersteigt die Energie 10k, leuchtet er heller, verursacht hohen Schaden und verlangsamt Zombies in seinem Radius. Bei 100k kollabiert er zu einem schwarzen Loch und explodiert, was alle Zombies auf dem Bildschirm verwüstet. (WARNUNG: Enthält blinkende Lichter)"
+    },
+    "3008": {
+      "name": "Kleines Wunder",
+      "desc": "Stehen Schleuderpult und SP MG-Eiszapfenpilz auf demselben Feld, teilen sich die Geschosse des Letzteren ein weiteres Mal. Normale und besondere Geschosse beider Pflanzen übernehmen einige Eigenschaften der jeweils anderen Pflanze. (WARNUNG: Verursacht Ruckler)"
+    },
+    "3009": {
+      "name": "Elementarzorn",
+      "desc": "Herrscherpilz beschwört nun Obsidian-Nuss-Eisklauenzombies. Das Hauptgeschoss von Napalmpilz teilt sich zusätzlich in eine Obsidianmelone. Diese verursacht Flächenschaden in Höhe ihrer ursprünglichen Angriffskraft, der für jede Eis-, Schnee- und Feuerpflanze auf dem Rasen um 100% steigt. Außerdem wird eine Synergie zwischen Entflammt und Unterkühlt freigeschaltet"
+    },
+    "3010": {
+      "name": "Alles vernichtendes Inferno",
+      "desc": "Funkelholz des Teufels entzündet beim Erzeugen einer scharfen Pflanze nun den ganzen Rasen statt einer einzelnen Reihe. Geschosse von SP-Phönix-Triplikator und der Drohne verteilen sich beim Passieren von Funkelholz des Teufels auf alle Reihen"
+    },
+    "4000": {
+      "name": "Abgrund-Chibi",
+      "desc": "Beschwört einen Abgrund-Chibi als Mitstreiter (ersetzt das aktuelle Haustier). Sein Hammerschlag trifft nahe Pflanzen und Zombies, gewährt getroffenen Pflanzen Schadensreduktion und fügt Zombies je nach LP der nahen Pflanzen zusätzlichen Schaden zu. Die Hammereffekte skalieren mit der EP-Stufe."
+    },
+    "4001": {
+      "name": "Stürmer-Junior",
+      "desc": "Beschwört einen Stürmer-Junior als Mitstreiter (ersetzt das aktuelle Haustier). Alle 3s bewegt er sich zur Pflanze mit dem niedrigsten LP-Anteil und stärkt ihre Umgebung: Nahe Pflanzen werden geheilt, Zombies erleiden mehr Schaden. Die Stärkung skaliert mit der EP-Stufe"
+    },
+    "4002": {
+      "name": "Iceborg-Prototyp",
+      "desc": "Beschwört einen Iceborg-Prototyp als Mitstreiterin (ersetzt das aktuelle Haustier). Sie visiert die Reihe mit den meisten LP an und feuert Eisgeschosse. Ihr Schaden steigt mit der Zahl unterkühlter/eingefrorener Zombies. Steht die Iceborg-Exekutorin auf dem Feld, erhält sie unbegrenzte Durchschlagskraft und zusätzliche EP. Der Geschossschaden skaliert mit der EP-Stufe"
+    },
+    "4003": {
+      "name": "Baby Jill",
+      "desc": "Beschwört Baby Jill als Mitstreiterin (ersetzt das aktuelle Haustier). Alle 15s führt sie einen zufälligen Angriff aus: Sie beschwört hochrangige hypnotisierte Clown-in-der-Kiste-Zombies pro Reihe oder wirft Sprengladungen (reihenweit oder global). Der Explosionsschaden skaliert mit der EP-Stufe"
+    },
+    "4004": {
+      "name": "Mini-Pozeidon",
+      "desc": "Beschwört einen Mini-Pozeidon als Mitstreiter (ersetzt das aktuelle Haustier). Alle 5s wirft er seinen Dreizack nach vorn, der Zombies durchdringt und mit Explosionen schädigt. Ist der Miniboss Pozeidon anwesend, wirft er stattdessen alle 10s 4 Dreizacke in jede Reihe"
+    },
+    "4005": {
+      "name": "Junge Herzogin",
+      "desc": "Beschwört eine junge Herzogin als Mitstreiterin (ersetzt das aktuelle Haustier). Sie feuert rasch Eisenerbsen nach vorn und beschwört alle 20 Sekunden eine Spalte kleiner Kriegsrösser. Diese stürmen auf Zombies zu und erzeugen Zombieseelen der getroffenen Gegner. Ist der Miniboss Erzherzog Todesreiter anwesend, halbiert sich ihr Beschwörungsabstand. (WARNUNG: Verursacht MASSIVE Ruckler!!)"
+    },
+    "4006": {
+      "name": "Imperatoren-Küken",
+      "desc": "Beschwört ein Imperatoren-Küken als Mitstreiter (ersetzt das aktuelle Haustier). Alle 10 Sekunden verwandelt es je nach EP-Stufe eine bestimmte Zahl von Zombies in Hühnerreiter oder Hydrogeflügel-Zombies. Ist der Miniboss Imperators Enten-Arche anwesend, verdoppelt sich die maximale Zahl der Verwandlungen."
+    },
+    "4007": {
+      "name": "Himmelsgleiter-Mecha",
+      "desc": "Beschwört einen Himmelsgleiter-Mecha als Mitstreiter (ersetzt das aktuelle Haustier). Er erhöht den Explosionsschaden pflanzenfreundlicher Springteufel und feuert alle 1.5s eine Sprengladung auf Zombies (jeder 3. Angriff trifft jede Reihe). Ist der Miniboss Himmelsläufer-Mecha anwesend, halbiert sich der Angriffsabstand des Haustiers."
+    },
+    "5000": {
+      "name": "Goliath-Bezwinger",
+      "desc": "Pflanzen verursachen +100% Schaden an Minibossen und Bossen"
+    },
+    "5001": {
+      "name": "Anpassung an Widrigkeiten",
+      "desc": "Pflanzen erhalten für jeden deiner Zombie-Modifikatoren 5% zusätzlichen Schaden"
+    },
+    "5002": {
+      "name": "Göttliche Klinge",
+      "desc": "Schaltet Schwertkämpferstern frei"
+    },
+    "5003": {
+      "name": "Fluch des Hochmuts",
+      "desc": "Angriff und maximale LP von Odyssee-Pflanzen sinken um 90%, doch alle anderen Pflanzen erhalten nun 40× Angriff und maximale LP sowie 2× Angriffstempo"
+    },
+    "5004": {
+      "name": "Fluch der Habgier",
+      "desc": "Saatpäckchen brauchen keine Aufladezeit mehr, kosten aber bei jeder Nutzung 15× ihre Grundkosten in Sonne + 50% deiner aktuellen Sonne"
+    },
+    "6000": {
+      "name": "Letzte Grenze",
+      "desc": "Rasenmäher: Endschaden +200%, Angriffstempo +300%"
+    },
+    "6001": {
+      "name": "Kirschzilla-Meisterschaft I",
+      "desc": "Kirschzilla: Heilkraft +100%"
+    },
+    "6002": {
+      "name": "Kirschzilla-Meisterschaft II",
+      "desc": "Kirschzilla: Angriffsschaden +50%"
+    },
+    "6003": {
+      "name": "MG-Kirschkanone-Meisterschaft I",
+      "desc": "MG-Kirschkanone: Explosionsradius von Kirschen und anderen Geschossvarianten +50%, Schaden +100%"
+    },
+    "6004": {
+      "name": "MG-Kirschkanone-Meisterschaft II",
+      "desc": "MG-Kirschkanone: Explosionsradius von Kirschen und anderen Geschossvarianten -50%, aber Schaden +300%"
+    },
+    "6005": {
+      "name": "Herrscherpilz-Meisterschaft I",
+      "desc": "Herrscherpilz: Eingefrorene Zombies erleiden +50% zusätzlichen Schaden"
+    },
+    "6006": {
+      "name": "Herrscherpilz-Meisterschaft II",
+      "desc": "Herrscherpilz: Hypnotisierte Zombies verursachen 3× Schaden"
+    },
+    "6007": {
+      "name": "Gequetschtes Infernoholz-Meisterschaft I",
+      "desc": "Gequetschtes Infernoholz: Jalapeño-Effekt verursacht nun fortlaufenden statt sofortigen Schaden: innerhalb von 1s 10 Treffer mit je 1/3 des ursprünglichen Schadens"
+    },
+    "6008": {
+      "name": "Gequetschtes Infernoholz-Meisterschaft II",
+      "desc": "Gequetschtes Infernoholz: Gewährt Geschossen +50% Schaden, bevor sie entzündet werden"
+    },
+    "6009": {
+      "name": "Bollwerk im Hinterland",
+      "desc": "Pflanzen in der fünften Spalte erhalten 50% mehr maximale Zähigkeit und 50% Schadensreduktion. Jede Spalte nach links senkt die Schadensobergrenze um 10% und erhöht die Schadensreduktion um 10%"
+    },
+    "7000": {
+      "name": "SP-Evolution",
+      "desc": "Schaltet SP-MG-Unheil und SP MG-Rasereipilz frei\nMit Düsterpilz verbessern"
+    },
+    "7001": {
+      "name": "SP-Evolution",
+      "desc": "Schaltet SP-Doppelsolar-Nuss und SP-Doppel-Infernuss frei\nMit Wallnuss verbessern"
+    },
+    "7002": {
+      "name": "SP-Evolution",
+      "desc": "Schaltet SP-Phönix-Triplikator und SP-Phönix-Drohne frei\nMit Jalapeño verbessern"
+    },
+    "7003": {
+      "name": "SP-Evolution",
+      "desc": "Schaltet SP MG-Eiszapfenpilz und SP-MG-Sonnenpustepilz frei\nMit Erbsenkanone verbessern"
+    },
+    "10000": {
+      "name": "Sonnengnade",
+      "desc": "Erhalte sofort 100k Sonne | Sonnenlimit +100k"
+    },
+    "10001": {
+      "name": "Giga-Wächter",
+      "desc": "Erhalte sofort 3 Saatpäckchen für Giga Mecha-Nuss, die mit 640k LP starten"
+    },
+    "10002": {
+      "name": "Sofortige Beförderung",
+      "desc": "Befördere (1+n) zufällige Pflanzen auf Rang 1, wobei n die Zahl deiner aktuellen Pflanzen-Modifikatoren ist"
+    },
+    "10003": {
+      "name": "Beschleuniger",
+      "desc": "Erhöhe das Tempo von (1+n) zufälligen Pflanzen, wobei n die Zahl deiner aktuellen Pflanzen-Modifikatoren ist"
+    },
+    "10004": {
+      "name": "Totem der Unsterblichkeit",
+      "desc": "Erreichen Zombies das nächste Mal das Haus, wird dies 3s lang ignoriert und alle Zombies werden an den Anfang zurückgestoßen"
+    },
+    "10005": {
+      "name": "Nachschublieferung",
+      "desc": "Erhalte eine Kürbistruhe mit vielen Saatpäckchen für Odyssee-Fusionen (keine Unterarten)"
+    },
+    "10006": {
+      "name": "Deus ex Machina",
+      "desc": "Stoße alle Zombies an den Anfang zurück und besiege sie dann sofort"
+    },
+    "10007": {
+      "name": "Auserwählter des Winters",
+      "desc": "Erhalte einen Super-MG Schnee mit +1500% Schaden und LP sowie +1000% Tempo und zusätzlich eine Kälteschockbohne"
+    },
+    "10008": {
+      "name": "Hitzeschub",
+      "desc": "Erhalte eine zufällige Odyssee-Pflanze. Mit jeder neuen Zombiewelle erhält sie +25% Schaden, +25% LP und +10% Tempo"
+    },
+    "10009": {
+      "name": "Pakt der Verderbnis",
+      "desc": "Erhalte ein Saatpäckchen für Vergessenheitenpilz. Mit dem Pflanzen NIMMST du die Herausforderung AN:\nBeschwöre in jeder Reihe 3-6 zufällige Odyssee-Zombies (ja, ALLE sind möglich)\nBesiege sie alle, um den Modifikator „Verderbende Berührung“ freizuschalten"
+    },
+    "10010": {
+      "name": "Grenzen sprengen",
+      "desc": "Angriffsschaden aller Pflanzen ×2"
+    },
+    "10011": {
+      "name": "Kraftschild",
+      "desc": "Alle Pflanzen erhalten pro Sekunde einen Schild von 50 + (2% der maximalen LP)"
+    },
+    "10012": {
+      "name": "Letzter Ausweg",
+      "desc": "Hast du mindestens 20 Pflanzen auf dem Feld, endet das Spiel nicht mehr, wenn Zombies das Haus erreichen. Stattdessen stirbt jede Pflanze mit einer Wahrscheinlichkeit von 1/3"
+    },
+    "10013": {
+      "name": "Pakt der Beförderung",
+      "desc": "Erhalte ein Saatpäckchen für Allzweckkürbis. Mit dem Pflanzen NIMMST du die Herausforderung AN:\nDie Zahl der Zombies in den nächsten 20 Wellen wird verdoppelt\nBestehe sie, und alle Pflanzen auf dem Feld des Allzweckkürbis werden auf Rang 3 befördert"
+    },
+    "10014": {
+      "name": "Rasenkehrer",
+      "desc": "Starte alle vorhandenen Rasenmäher und stelle eine volle Spalte davon wieder her"
+    },
+    "10015": {
+      "name": "Aufgeschobenes Schicksal",
+      "desc": "Du verlierst nicht, wenn du den Zombie, der dein Haus erreicht, innerhalb von 1.5s tötest"
+    },
+    "10016": {
+      "name": "Klonarmee",
+      "desc": "Erhalte sofort 5 Saatpäckchen für Imitater"
+    },
+    "10017": {
+      "name": "Gemeinsame Wurzeln",
+      "desc": "Erhältst du zum ersten Mal ein zweites Exemplar einer Pflanze, bekommst du ein zusätzliches Saatpäckchen dieser Pflanze"
+    },
+    "10018": {
+      "name": "Evolutionskatalysator",
+      "desc": "Verschiebst du eine Pflanze mit dem Handschuh auf eine Pflanze desselben Typs und Rangs, steigt ihr Rang um 1"
+    },
+    "10019": {
+      "name": "Neu geschmiedetes Schicksal",
+      "desc": "Erhalte sofort 10 goldene Recyclingvasen. Zusätzlich erhältst du 1 pro Welle und 5 pro Flagge (Riesenwelle)"
+    },
+    "11000": {
+      "name": "Schneller Einsatz",
+      "desc": "Level-Besonderheit: Die Abklingzeit der Schubkarre sinkt auf 3 Sekunden"
+    },
+    "11001": {
+      "name": "Sofortiges Wachstum",
+      "desc": "Level-Besonderheit: Deukalionpilz beginnt mit 1000 Wachstumsstufen"
+    },
+    "12000": {
+      "name": "Aufstieg: Inferno",
+      "desc": "Melonen von Napalmpilz erzeugen beim Auftreffen auf den Boden ein zusätzliches Feuermeer und können sich beim Treffen von Zombies bis zu 2 weitere Male teilen"
+    },
+    "12001": {
+      "name": "Aufstieg: Salvenfeuer",
+      "desc": "Während Titan-Apokalerbsen-Geschützturm seine ultimative Fähigkeit einsetzt, entfesselt es 4 zusätzliche Frostflammenwellen mit je 50 Schadenstreffern. Jeder Treffer fügt einem zufälligen Zombie in Reichweite Schaden in Höhe von 10,000% der Angriffskraft des Geschützes zu"
+    },
+    "12002": {
+      "name": "Aufstieg: Zielsicherheit",
+      "desc": "Kritische Treffer von Berserker Sniperbse sind nun garantiert"
+    },
+    "12003": {
+      "name": "Aufstieg: Sprengung",
+      "desc": "Geschosse von Triplikartoffelmine lösen beim Treffen eines Zombies nun eine Kartoffelminenexplosion aus"
+    },
+    "12004": {
+      "name": "Aufstieg: Verderben",
+      "desc": "Greift Unheilsschnapper an, löst er eine Düsterexplosion aus, ob er einen Zombie verschlingt oder nicht. Verschlingt er einen, löst er zwei Düsterexplosionen aus"
+    },
+    "12005": {
+      "name": "Aufstieg: Auslöschung",
+      "desc": "Vergessenheitenpilz löst beim Tod eine Düsterpilzexplosion mit 1-Million Schaden aus"
+    },
+    "12006": {
+      "name": "Aufstieg: Lichtschild",
+      "desc": "Pharos' Schirm kann Energie verbrauchen, um Zombies in einem 3×3-Bereich zurückzustoßen. Normale Angriffe können ×3 Ziele treffen"
+    },
+    "12007": {
+      "name": "Aufstieg: Schwerkraft",
+      "desc": "Schwarze Löcher ziehen Zombies mit weniger als 50% ihrer maximalen LP an"
+    },
+    "12008": {
+      "name": "Aufstieg: Durchschlagskraft",
+      "desc": "Phönix-Triplikator schießt nun in alle Reihen, und seine Geschosse durchdringen unbegrenzt viele Ziele"
+    },
+    "12009": {
+      "name": "Aufstieg: Der Schlund",
+      "desc": "Die Anziehungsreichweite von Tyrannoflora Lux nach der Verdauung wird stark erhöht"
+    },
+    "12010": {
+      "name": "Aufstieg: Chaosstrahl",
+      "desc": "2 benachbarte Himmelsstrahl lösen regelmäßig kleine Explosionen schwarzer Löcher aus"
+    },
+    "12011": {
+      "name": "Aufstieg: Querschläger",
+      "desc": "Eisenerbsenpilz-Trio kann keine Kopfschüsse mehr erzielen, doch seine Geschosse prallen am Rasenrand ab (wie bei Knallerbse), bis zu (Anzahl der Durchschläge + 2) Mal"
+    },
+    "12012": {
+      "name": "Aufstieg: Kampferfahrung",
+      "desc": "Kaiserinpilz beschwört nun Zombies mit stark erhöhten Werten"
+    },
+    "12013": {
+      "name": "Aufstieg: Dichte",
+      "desc": "Eisenschuss-Kommander feuert während ultimativer Angriffe noch größere und stärkere Geschosse"
+    },
+    "12014": {
+      "name": "Aufstieg: Blutung",
+      "desc": "Von beliebigen Stachelstein anvisierte Zombies verlieren 2s lang fortlaufend LP in Höhe von 400% des Angriffs"
+    },
+    "12015": {
+      "name": "Aufstieg: Glück",
+      "desc": "Bamblock-Fichtensäger kann nun der Maus folgen. Verbesserungen des Angriffstempos erhöhen die Bewegungsgeschwindigkeit. Verursacht Schaden an allen Zombies auf seinem Weg"
+    },
+    "12016": {
+      "name": "Aufstieg: Entschlüsselung",
+      "desc": "Neu erscheinende Zombies werden mit 3 Stapeln Entschlüsselungsmagie verflucht. In jeder Welle erhält der Zombie mit den meisten LP 100 Stapel Entschlüsselung. Jeder Stapel erhöht den erlittenen Schaden um 100%. Stirbt ein mit Entschlüsselung verfluchter Zombie, gehen seine Stapel auf nahe Zombies über."
+    },
+    "12017": {
+      "name": "Aufstieg: Streubombe",
+      "desc": "Das Geschoss von Melonuss explodiert in der Luft und zerfällt in mehrere Mini-Wassermelonen, die auf Zombies auf dem ganzen Feld geschleudert werden"
+    },
+    "12018": {
+      "name": "Aufstieg: Goldener Beschuss",
+      "desc": "Die ultimative Fähigkeit von Goldmelone schleudert zusätzlich goldene Melonen auf alle Zombies. Anzahl der Teilungen der ultimativen Fähigkeit ×2"
+    },
+    "12019": {
+      "name": "Aufstieg: Gehärtete Säge",
+      "desc": "Geschosse von Aloe Schnee-Fichtenschütze erhalten zusätzlich 0.6% seines aktuellen Schilds als Angriffsschaden, höchstens 300% seines Grundangriffs"
+    },
+    "12020": {
+      "name": "Aufstieg: Totalausbruch",
+      "desc": "Die Zielreichweite von Eruptionsgeschütz wächst um +1 Reihe nach oben und unten. Er feuert gleichzeitig auf alle Ziele (ist die Zielzahl kleiner als die maximale Streuschusszahl, werden übrige Schüsse gleichmäßig auf die Ziele verteilt) | Geschossflugzeit um 50% reduziert"
+    },
+    "12021": {
+      "name": "Aufstieg: Schwertkunst",
+      "desc": "Für je 2 von Schwertkämpferstern beschworene Riesenschwerter feuert jeder Angriff zusätzlich 1 wirbelndes Kurzschwert"
+    },
+    "12022": {
+      "name": "Aufstieg: Todeskreis",
+      "desc": "Geschosse um Magnetis-Nuss durchdringen nun unbegrenzt viele Ziele, halten aber nur noch 10s"
+    },
+    "12023": {
+      "name": "Aufstieg: Flächenbrand",
+      "desc": "Angriffe von Drachenatem-Fackler lösen zusätzlich Jalapeño-Effekte in allen Reihen aus"
+    },
+    "12024": {
+      "name": "Aufstieg: Gigantismus",
+      "desc": "Obsidian-Nuss und ihre holografischen Projektionen haben deutlich größere Trefferflächen und sind gegen das Zerquetschen durch Bosse immun\nHeilungsabklingzeit: 15s → 10s"
+    },
+    "12025": {
+      "name": "Aufstieg: Beschwörung",
+      "desc": "Hypnotisierte Abgrund-Gargantuas beschwören beim Zuschlagen hypnotisierte Abgrund-Wicht-Zombies"
+    },
+    "12026": {
+      "name": "Aufstieg: Magischer Index",
+      "desc": "Apocalerbsen-Kanone feuert nun einen dauerhaften Lichtstrahl"
+    },
+    "12027": {
+      "name": "Aufstieg: Trauer",
+      "desc": "Melancholiekommando setzt nun immer seine ultimative Fähigkeit ein, aber mit halb so vielen Geschossen"
+    },
+    "13000": {
+      "name": "Explosionsschutz",
+      "desc": "Schaden durch Springteufel-Explosionen von Zombies wird auf 1000 reduziert"
+    },
+    "13001": {
+      "name": "Verzauberter Schild",
+      "desc": "Pflanzen mit Schild regenerieren jede Sekunde LP in Höhe von 0.1% ihres Schilds"
+    },
+    "13002": {
+      "name": "Voodoo-Puppe",
+      "desc": "Beschwört einen Übungszombie auf dem Rasen, der 60% seines erlittenen Schadens auf alle Zombies verteilt. Mit dem Zombie-Handschuh verschiebbar. Kann Schaden hypnotisierter Zombies nicht übertragen"
+    },
+    "13003": {
+      "name": "Voodoo-Puppe - A",
+      "desc": "Der Übungszombie verteilt nun 100% seines erlittenen Schadens auf alle Zombies"
+    },
+    "13004": {
+      "name": "Voodoo-Puppe - B",
+      "desc": "Beschwört einen weiteren Übungszombie"
+    },
+    "13005": {
+      "name": "Voodoo-Puppe - X",
+      "desc": "Erleidet der Übungszombie Schaden, fügt er zusätzlich 100% dieses Schadens dem Zombie mit den meisten LP auf dem Rasen zu"
+    },
+    "13006": {
+      "name": "Sonneneruption",
+      "desc": "Beschwört einen Solarreaktor, der regelmäßig allen Zombies auf dem Rasen Schaden zufügt"
+    },
+    "13007": {
+      "name": "Sonneneruption - A",
+      "desc": "Verringert die Angriffsabklingzeit des Solarreaktors um 50%"
+    },
+    "13008": {
+      "name": "Sonneneruption - B",
+      "desc": "Erhöht den Schaden des Solarreaktors um 100%"
+    },
+    "13009": {
+      "name": "Sonneneruption - X",
+      "desc": "Bei jedem Angriff ruft der Solarreaktor zusätzlich einen Helios-Meteor herab"
+    },
+    "13010": {
+      "name": "Kriegshammer",
+      "desc": "Verringert den Schaden des Hammers, senkt seine Abklingzeit aber auf 3s"
+    },
+    "13011": {
+      "name": "Kriegshammer - A",
+      "desc": "Vergrößert die Wirkungsreichweite des Hammerangriffs stark"
+    },
+    "13012": {
+      "name": "Kriegshammer - B",
+      "desc": "Verringert die Abklingzeit des Hammers weiter"
+    },
+    "13013": {
+      "name": "Kriegshammer - X",
+      "desc": "Trifft der Hammer einen Zombie, erscheint dort ein großer Hammer, der Zombies fortlaufend Schaden zufügt und nach einiger Zeit verschwindet"
+    },
+    "13014": {
+      "name": "G-Fisch-Bomber",
+      "desc": "Ein Himmelsgleiter-Mecha kämpft für dich"
+    },
+    "13015": {
+      "name": "G-Fisch-Bomber - A",
+      "desc": "Benötigte Angriffe für eine Salve des Himmelsgleiter-Mechas -1"
+    },
+    "13016": {
+      "name": "G-Fisch-Bomber - B",
+      "desc": "Verringert die Angriffsabklingzeit des Himmelsgleiter-Mechas"
+    },
+    "13017": {
+      "name": "G-Fisch-Bomber - X",
+      "desc": "Salvengranaten des Himmelsgleiter-Mechas können sich in der Luft fortlaufend teilen"
+    },
+    "13018": {
+      "name": "Mondlichtschleier",
+      "desc": "Beschwört einen Mondreaktor, der regelmäßig alle Pflanzen auf dem Rasen heilt"
+    },
+    "13019": {
+      "name": "Mondlichtschleier - A",
+      "desc": "Erhöht die Heilung des Mondreaktors stark"
+    },
+    "13020": {
+      "name": "Mondlichtschleier - B",
+      "desc": "Bei jeder Aktivierung des Mondreaktors erhalten alle Pflanzen auf dem Rasen einen Schild mit 1000 LP"
+    },
+    "13021": {
+      "name": "Mondlichtschleier - X",
+      "desc": "Bei jeder Aktivierung des Mondreaktors fällt Mondlicht auf jede Pflanze des Rasens. Es tötet normale Zombies in einem 3x3-Bereich sofort und macht Pflanzen kurzzeitig unverwundbar"
+    },
+    "13022": {
+      "name": "Eiserner Vorhang",
+      "desc": "Verringert den erlittenen Schaden aller Pflanzen um 20%"
+    },
+    "13023": {
+      "name": "Eiserner Vorhang - A",
+      "desc": "Verringert den erlittenen Schaden aller Pflanzen um 40%"
+    },
+    "13024": {
+      "name": "Eiserner Vorhang - B",
+      "desc": "Verringert den erlittenen Schaden aller Pflanzen um 60%"
+    },
+    "13025": {
+      "name": "Eiserner Vorhang - X",
+      "desc": "Verringert den erlittenen Schaden aller Pflanzen um 90%. Verliert eine Pflanze LP, feuert sie von ihrer Position aus eine Erbse mit Schaden in Höhe ihrer maximalen LP | Hat der Zombie den Modifikator Gegenangriff, wird der Effekt stattdessen zu einer Schadensreduktion von 99%"
+    },
+    "13026": {
+      "name": "Glück • Darlehen",
+      "desc": "Erhalte eine Modifikator-Auswahl mit 500 Glück und verliere danach 25 Glück"
+    },
+    "13027": {
+      "name": "Glück • Darlehen - A",
+      "desc": "Erhalte eine Modifikator-Auswahl mit 1000 Glück und verliere danach 50 Glück"
+    },
+    "13028": {
+      "name": "Glück • Darlehen - B",
+      "desc": "Erhalte eine Modifikator-Auswahl mit 1500 Glück und verliere danach 75 Glück"
+    },
+    "13029": {
+      "name": "Glück • Darlehen - X",
+      "desc": "Setzt dein Glück sofort auf 250 und deine Neuwürfe auf 5, verdreifacht dein Glückslimit und verhindert dauerhaft die Auswahl von Glücksmodifikatoren und [Einfallsreichtum]\nJede Modifikator-Auswahl gewährt 25 Glück sowie zusätzlich 20% deines aktuellen Glücks (höchstens 100). Bronze, Silber, Gold/Zufall bzw. Diamant/Prisma/Fluch kosten jeweils 20/40/60/100 Glück. Jeder Neuwurf kostet 50 Glück"
+    },
+    "13030": {
+      "name": "Glück • Kopfgeld",
+      "desc": "Erzeugt sofort eine Zombiewelle mit 2× LP und Tempo. Besiegst du sie alle, erhältst du eine Modifikator-Auswahl mit 500 Glück"
+    },
+    "13031": {
+      "name": "Glück • Kopfgeld - A",
+      "desc": "Erzeugt sofort eine Zombiewelle mit 3× LP und Tempo. Besiegst du sie alle, erhältst du eine Modifikator-Auswahl mit 1000 Glück"
+    },
+    "13032": {
+      "name": "Glück • Kopfgeld - B",
+      "desc": "Erzeugt sofort eine Zombiewelle mit 4× LP und Tempo. Besiegst du sie alle, erhältst du eine Modifikator-Auswahl mit 1500 Glück"
+    },
+    "13033": {
+      "name": "Glück • Kopfgeld - X",
+      "desc": "Verdoppelt sofort dein aktuelles Glück und dein Glückslimit (bei negativem Glück wird vor der Verdopplung der Absolutwert genommen, z. B.: -50 Glück → 100)"
+    },
+    "13034": {
+      "name": "Höllenverbrennung",
+      "desc": "Ein Klick an beliebiger Stelle löst dort eine Höllenverbrennung aus. Abklingzeit: 10s bzw. 1 Sekunde, wenn ein Zombie getötet wird"
+    },
+    "13035": {
+      "name": "Höllenverbrennung - A",
+      "desc": "Erhöht den Schaden der Höllenverbrennung um 100%"
+    },
+    "13036": {
+      "name": "Höllenverbrennung - B",
+      "desc": "Verringert die normale Abklingzeit und die Abklingzeit nach einem Abschuss der Höllenverbrennung um 50%"
+    },
+    "13037": {
+      "name": "Höllenverbrennung - X",
+      "desc": "Höllenverbrennung kann nun Pflanzen schädigen. Das Töten einer Pflanze löst Jalapeño-Effekte in allen Reihen aus und setzt die Abklingzeit zurück. Der Schaden steigt mit der Gesamtzahl der Modifikatoren der Pflanze"
+    },
+    "13038": {
+      "name": "Prismenjäger",
+      "desc": "Gewährt einen Mecha-Jäger, der fortlaufend den am weitesten links stehenden Zombie anvisiert und angreift"
+    },
+    "13039": {
+      "name": "Prismenjäger - A",
+      "desc": "Erhöht die Zahl der Brechungen des Mecha-Jäger-Angriffs um 1"
+    },
+    "13040": {
+      "name": "Prismenjäger - B",
+      "desc": "Erhöht die Zahl der Brechungen des Mecha-Jäger-Angriffs um 2"
+    },
+    "13041": {
+      "name": "Prismenjäger - X",
+      "desc": "Prismenangriffe des Mecha-Jägers durchdringen unbegrenzt viele Ziele. Brechungen können dasselbe Ziel wiederholt treffen"
+    },
+    "13042": {
+      "name": "Gewittersturm",
+      "desc": "Beschwört Blitze als Mitstreiter, die regelmäßig Zombies auf dem Rasen schädigen"
+    },
+    "13043": {
+      "name": "Gewittersturm - A",
+      "desc": "Erhöht die Dauer der Blitze um 100%"
+    },
+    "13044": {
+      "name": "Gewittersturm - B",
+      "desc": "Erhöht die Angriffshäufigkeit der Blitze um 100%"
+    },
+    "13045": {
+      "name": "Gewittersturm - X",
+      "desc": "Die Blitze greifen nun durchgehend ohne Unterbrechung an"
+    },
+    "13046": {
+      "name": "Allmacht",
+      "desc": "Erhöht Glück um 25, gesamten Angriffsschaden um 10%, Neuwürfe um 1 und die Wiederbelebungszeitreduktion um 10%"
+    },
+    "13047": {
+      "name": "Allmacht - A",
+      "desc": "Erhöht Glück um 50, gesamten Angriffsschaden um 20%, Neuwürfe um 2 und die Wiederbelebungszeitreduktion um 20%"
+    },
+    "13048": {
+      "name": "Allmacht - B",
+      "desc": "Erhöht Glück um 75, gesamten Angriffsschaden um 10%, Neuwürfe um 3 und die Wiederbelebungszeitreduktion um 30%"
+    },
+    "13049": {
+      "name": "Allmacht - X",
+      "desc": "Alle Pflanzen auf dem Rasen erhalten 500% zusätzliche LP, 300% unabhängigen zusätzlichen Angriffsschaden, 200% zusätzliches Angriffstempo, 60% kritische Trefferchance und 150% kritischen Schaden"
+    },
+    "14000": {
+      "name": "Ohne Fleiß kein Preis",
+      "desc": "Tötet alle deine Pflanzen und halbiert die unabhängigen Schadens- und Tempoboni aller deiner Pflanzen;\nnach 20 Wellen geschieht dasselbe, doch diesmal werden die Boni verdoppelt"
+    },
+    "14001": {
+      "name": "Alles oder nichts",
+      "desc": "Liegt dein Glück unter 75, wird es sofort auf 75 gesetzt. Greift der Garantieschutz nicht, werden silberne und goldene Modifikatoren auf Bronze abgestuft, diamantene dagegen auf Prisma aufgewertet"
+    },
+    "14002": {
+      "name": "Höhenvorteil",
+      "desc": "Pflanzen verursachen 30% mehr Schaden oberhalb von Zombies und 30% weniger unterhalb von Zombies. Entscheidend ist die vertikale Position ihrer Grafik auf dem Bildschirm"
+    },
+    "14003": {
+      "name": "Raubtierinstinkt",
+      "desc": "Pflanzen verursachen 30% mehr Schaden an Zombies mit über 50% Gesundheit und 30% weniger an solchen mit unter 50% Gesundheit"
+    },
+    "15000": {
+      "name": "Fluch von MCDXXXVII",
+      "desc": "Das Angriffstempo von Magnetar wird halbiert. Nach 1,437 Angriffen kehrt sich der Fluch um. Jede Salve zählt als 5 Angriffe\nUmkehreffekt: Quasargeschosse von Magnetar erhalten 1,437 zusätzlichen Grundschaden"
+    },
+    "15001": {
+      "name": "Segen von MCDXXXVII",
+      "desc": "Quasargeschosse von Magnetar erhalten 1,437 zusätzlichen Grundschaden"
+    },
+    "15002": {
+      "name": "Fluch der Aggression",
+      "desc": "Der Schaden von MG-Kirschkanone sinkt um 50%. Nach insgesamt 300M verursachtem Schaden kehrt sich der Fluch um\nUmkehreffekt: Bei jedem Angriff feuert MG-Kirschkanone zusätzliche Geschosse vom linken Bildschirmrand. Ihr Angriff entspricht 0.0001% des insgesamt von anderen Pflanzen verursachten Schadens"
+    },
+    "15003": {
+      "name": "Segen der Aggression",
+      "desc": "Bei jedem Angriff feuert MG-Kirschkanone zusätzliche Geschosse vom linken Bildschirmrand. Ihr Angriff entspricht 0.0001% des insgesamt von anderen Pflanzen verursachten Schadens"
+    },
+    "15004": {
+      "name": "Fluch der Gleichheit",
+      "desc": "Für jedes Ziel von Eruptionsgeschütz sinkt sein Geschossschaden um 1%, bis zu einer maximalen Reduktion von 70%. Nach insgesamt 50,000% Reduktion durch diesen Effekt kehrt sich der Fluch um\nUmkehreffekt: Für jedes Ziel von Eruptionsgeschütz steigt sein Geschossschaden um 1%"
+    },
+    "15005": {
+      "name": "Segen der Gleichheit",
+      "desc": "Für jedes Ziel von Eruptionsgeschütz steigt sein Geschossschaden um 1%"
+    },
+    "15006": {
+      "name": "Fluch der Ausdauer",
+      "desc": "Magnetis-Nuss feuert keine Geschosse mehr. Nach dem Anziehen von 5,000 Geschossen kehrt sich der Fluch um\nUmkehreffekt: Bei jedem Angriff feuert Magnetis-Nuss zusätzlich ein Geschoss des Typs, den sie am häufigsten angezogen hat"
+    },
+    "15007": {
+      "name": "Segen der Ausdauer",
+      "desc": "Bei jedem Angriff feuert Magnetis-Nuss zusätzlich ein Geschoss des Typs, den sie am häufigsten angezogen hat"
+    }
+  },
+  "ultimateBuffs": {
+    "0": {
+      "name": "Blutrausch",
+      "desc": "Kirschzilla und Knoblauchzilla: LP-Regeneration ×3"
+    },
+    "1": {
+      "name": "Gefräßigkeit",
+      "desc": "Kirschzilla und Knoblauchzilla: Verschling-Abklingzeit auf 15s reduziert"
+    },
+    "2": {
+      "name": "Megatonnenexplosion",
+      "desc": "MG-Kirschkanone: Explosive Kirschen von Pflanzen verursachen ×3 Schaden"
+    },
+    "3": {
+      "name": "Schnelles Nachladen",
+      "desc": "MG-Kirschkanone und Kirschkanonendrohne: Angriffstempo +100%"
+    },
+    "4": {
+      "name": "Absoluter Nullpunkt",
+      "desc": "Herrscherpilz: Angriffstempo ×3; Dornimator-Angriffsschaden ×3; Angriffsschaden von Eisklauenzombies ×3"
+    },
+    "5": {
+      "name": "Temperaturschock",
+      "desc": "Herrscherpilz: Zombies erleiden beim Auftauen Schaden in Höhe von 30% ihrer aktuellen Gesundheit"
+    },
+    "6": {
+      "name": "Effizienz",
+      "desc": "Gequetschtes Infernoholz und Funkelholz: Die zum Erzeugen einer scharfen Pflanze benötigte Geschosszahl wird halbiert"
+    },
+    "7": {
+      "name": "Überhitzung",
+      "desc": "Gequetschtes Infernoholz und Funkelholz: Entzünden sofort die Reihe, wenn keine scharfe Pflanze erzeugt werden kann"
+    },
+    "8": {
+      "name": "Meteoritensturm",
+      "desc": "Magnetar: Angriffsabstand 1s → 0.5s | Gravitron: Speicherlimit ×2, Anziehungsreichweite stark erhöht"
+    },
+    "9": {
+      "name": "Syzygie",
+      "desc": "Magnetar: Stufe 1: Grundschaden ×2 und Schadenslimit (300) auf 3000 erhöht; Stufe 2: Grundschaden ×3, Schadenslimit aufgehoben | Gravitron: +10% Anziehungseffizienz und Schadensbonus je angezogenem Geschosstyp"
+    },
+    "10": {
+      "name": "Letzter Countdown",
+      "desc": "Vergessenheitenpilz: Explosionsschaden beim Tod um 1M erhöht | Atompflanterne: Lumos-Verstärkung beim Tod ×3"
+    },
+    "11": {
+      "name": "Instabile Barriere",
+      "desc": "Vergessenheitenpilz: Wird gegen Schaden immun, stirbt aber nach dem Blockieren zu vieler Treffer sofort | Atompflanterne: Angriffsschaden ×3"
+    },
+    "12": {
+      "name": "Perfekter Wurf",
+      "desc": "Welkepult und Fäulniskatapult: Streufeuer ist nun garantiert"
+    },
+    "13": {
+      "name": "Giftige Überdosis",
+      "desc": "Welkepult und Fäulniskatapult: Stufe 1: Das Ansammeln von Giftpunkten vergiftet den Zombie sofort, Giftwertlimit → 120; Stufe 2: Giftwertlimit aufgehoben"
+    },
+    "14": {
+      "name": "Explosionszentrum",
+      "desc": "Maisvergessenheit-Kanone: Schaden der Hauptexplosion ×4 | Pandämonium-Haubitze: Schaden ×4"
+    },
+    "15": {
+      "name": "Artilleriebatterie",
+      "desc": "Maisvergessenheit-Kanone und Pandämonium-Haubitze: Nachladezeit 36s → 12s"
+    },
+    "16": {
+      "name": "Äonenpanzer",
+      "desc": "Obsidian-Nuss und Obsidianmine: Maximales LP-Limit ×3"
+    },
+    "17": {
+      "name": "Wächterschild",
+      "desc": "Obsidian-Nuss und Obsidianmine: Können nun Schaden für Pflanzen direkt links und rechts von sich abfangen"
+    },
+    "18": {
+      "name": "Güte des Retters",
+      "desc": "Charmetronpilz: LP-Schwelle für Hypnose von 60% auf 100% erhöht | Charmetronkürbis: Schaden an gefangenen hypnotisierten Zombies halbiert"
+    },
+    "19": {
+      "name": "Unermüdlicher Rhythmus",
+      "desc": "Charmetronpilz: Angriffsabstand → 1s, Ladestufe fällt nicht unter 2. Metallfütterung gewährt Ladestufe 3 für 5 Minuten | Charmetronkürbis: Ladestufe 3 freigeschaltet"
+    },
+    "20": {
+      "name": "Schweres Geschütz",
+      "desc": "Titan-Apokalerbsen-Geschützturm und Apocalerbsen-Kanone: Angriffskraft ×3"
+    },
+    "21": {
+      "name": "Verzweiflungsantrieb",
+      "desc": "Titan-Apokalerbsen-Geschützturm: Stufe 1: Ultimativer Angriff erstattet 50k Energie; Stufe 2: Ultimativer Angriff verursacht zusätzlich 20% Bonusschaden, der Schadensreduktion ignoriert | Apocalerbsen-Kanone: Stufe 1: Verteidigung steigt bei sinkenden LP. Unter 500 LP immun gegen Schaden unter 1k; Stufe 2: Unter 500 LP Grundschaden ×2"
+    },
+    "22": {
+      "name": "Perihel-Schub",
+      "desc": "Helios-Kohl: Über 15k Sonne verbraucht jeder Angriff 0.5% des Überschusses und erhöht den Geschossschaden um 20 je verbrauchter 1 Sonne | Selene-Kohl: Schaden je Lumos-Stufe um 3× erhöht"
+    },
+    "23": {
+      "name": "Zenitstrahlung",
+      "desc": "Helios-Kohl: Minisonne verursacht 3× Schaden | Selene-Kohl: Minimond heilt 3× so viel"
+    },
+    "24": {
+      "name": "Dreifachschlag",
+      "desc": "Überladener Kürbis und Sprengkürbis: Anzahl der Flügelbegleiter 1 → 3"
+    },
+    "25": {
+      "name": "Lufthoheit",
+      "desc": "Überladener Kürbis: Schaden von Flügelbegleitern und Drohnen ×3"
+    },
+    "26": {
+      "name": "Überladung",
+      "desc": "Napalmpilz und Magmapilz: Ladetempo und maximale Ladung ×3"
+    },
+    "27": {
+      "name": "Verbrannte Erde",
+      "desc": "Napalmpilz: Inferno hält nun 5s (doppelt so lange) | Magmapilz: Magmabutter-Schaden ×3"
+    },
+    "28": {
+      "name": "Schatzhort",
+      "desc": "Captang Goldbeard und Habgierige Seekiste: Erhalten je 1000 vorhandener Punkte 1% Angriffstempo"
+    },
+    "29": {
+      "name": "Wagnis der Beute",
+      "desc": "Captang Goldbeard und Habgierige Seekiste: Punktebelohnungslimit für besiegte vergoldete Zombies verdoppelt | Eine Pflanzen-/Zombie-Geschenkbox auf einem leeren Feld kann ein Saatpäckchen für Captang Goldbeard bzw. Habgierige Seekiste erzeugen"
+    },
+    "30": {
+      "name": "Akkretionsscheibe",
+      "desc": "Mais Planck: Schadensumwandlung aus Geschossen für das ultimative schwarze Loch 60% → 80% | Astronuss: Erhält 33% Schadensreduktion, solange ihr schwarzes Loch aktiv ist"
+    },
+    "31": {
+      "name": "Zeitdehnung",
+      "desc": "Mais Planck und Astronuss: Dauer und maximale Dauer des ultimativen schwarzen Lochs ×2. Sein Schaden steigt pro aktiver Sekunde um 2%"
+    },
+    "32": {
+      "name": "Ausdauernde Schneide",
+      "desc": "Aloe Schnee-Fichtenschütze: Boreale Schnittersägen halten nun 15s | Bamblock-Fichtensäger: Erleidet nur noch 1/3 des eingehenden Schadens"
+    },
+    "33": {
+      "name": "Immergrüne Lebenskraft",
+      "desc": "Aloe Schnee-Fichtenschütze: Heilung wird nicht mehr unter den Pflanzen aufgeteilt | Bamblock-Fichtensäger: LP- und Schildregeneration ×2"
+    },
+    "34": {
+      "name": "Hungrige Reichweite",
+      "desc": "Tyrannoflora Lux: Reichweite des Angriffseffekts ×2 (derzeit fehlerhaft und wirkungslos)"
+    },
+    "35": {
+      "name": "Leuchtendes Festmahl",
+      "desc": "Tyrannoflora Lux: Gewährt während der Verdauung 2 Lumos-Stufen in einem 5×5-Bereich"
+    },
+    "36": {
+      "name": "Vulkanisches Chaos",
+      "desc": "Vulkanone: Vulkanbombenschaden ×3 | Eruptionsgeschütz: Pyrokohl-Schaden ×3"
+    },
+    "37": {
+      "name": "Kritische Masse",
+      "desc": "Vulkanone: Löst nun thermonukleare Detonationen aus, wenn Hauptexplosionen Kirschbomben oder Jalapenos treffen | Eruptionsgeschütz: 10% Chance, am Geschützrohr Kirschbomben- und Jalapeño-Effekte auszulösen und das Ziellimit von 10 zu ignorieren"
+    },
+    "38": {
+      "name": "Verbrennungszyklus",
+      "desc": "Prinzessin Solarnova: Trifft ein Solarschuss einen Zombie, explodieren auch nahe Geschosse"
+    },
+    "39": {
+      "name": "Energiespeicher",
+      "desc": "Prinzessin Solarnova: Energielimit ×3, erzeugte Sonnenmenge nach Speicherüberlauf ×3"
+    },
+    "40": {
+      "name": "Zielerfassung",
+      "desc": "Wintermelonokopter: Nebelriss konzentriert sich in der ersten Hälfte der Salve auf den Zombie mit den wenigsten LP | Fungularität: Erzeugt nur noch ein Portalpaar, das aber ×10 Eispartikelströme hervorbringt"
+    },
+    "41": {
+      "name": "Konzentration",
+      "desc": "Wintermelonokopter: Kryomelonenschaden ×6, aber kleinerer Flächenradius | Wintermelonokopter und Fungularität: Gegen Zeitverschiebung immune Zombies erleiden dennoch Schaden in Höhe von (verstrichene Zeit)% ihrer LP"
+    },
+    "42": {
+      "name": "Hitzewelle",
+      "desc": "Löwenschwanz: Schadenshäufigkeit des Hitzestrahls ×2 | Deukalionpilz: Schadensbonus durch gesamte Wachstumsstufen ×3"
+    },
+    "43": {
+      "name": "Heiliges Feuer",
+      "desc": "Löwenschwanz und Deukalionpilz: Schaden normaler Schüsse ×3"
+    },
+    "44": {
+      "name": "Fressrausch",
+      "desc": "Leviathanpilz: Tang-Diener können bis zu 3 Zombies ertränken (oder ×3 Schaden verursachen). Jeder ertränkte Zombie gewährt 10 Energiestapel"
+    },
+    "45": {
+      "name": "Schwarmangriff",
+      "desc": "Leviathanpilz: Feuert 3 Grundangriffsgeschosse gleichzeitig"
+    },
+    "46": {
+      "name": "Trophäenjäger",
+      "desc": "Kryo-Hielopeño und Tränen-Habanero: Seelenladungslimit auf 10 erhöht. Erhalten nun 1 Seelenladung, wenn ein Miniboss stirbt"
+    },
+    "47": {
+      "name": "Seelenvorhang",
+      "desc": "Kryo-Hielopeño und Tränen-Habanero: Der Verbrauch einer Seelenladung macht zusätzlich alle Pflanzen für 1s unverwundbar"
+    },
+    "48": {
+      "name": "Lumos-Kondensator",
+      "desc": "Photonknaller: Stufe 1: Lumos-Energielimit von 1000 auf 2000 erhöht; Stufe 2: Lumos-Energielimit weiter auf 10k erhöht | Weltraumknaller: Geschossschadensradius +50%"
+    },
+    "49": {
+      "name": "Energieentladung",
+      "desc": "Photonknaller: Übertragungseffizienz um 50% erhöht, bei Zielenergie < 1000 um 250% | Weltraumknaller: Feuert nun bei jedem Angriff 2 zusätzliche Geschosse"
+    },
+    "50": {
+      "name": "Kampfrhythmus",
+      "desc": "Eisenschuss-Kommander: Auslösechance der ultimativen Fähigkeiten aller Kommandos ×3. Erbsenkartoffel-Kommando feuert nun explosive Kartoffeln | Synchron-Sniperbse: Alle Scharfscherbsen feuern nach einem Kopfschuss einen zusätzlichen Schuss"
+    },
+    "51": {
+      "name": "Konzentriertes Feuer",
+      "desc": "Eisenschuss-Kommander: Schaden ultimativer Fähigkeiten aller Kommandos ×2 und keine Streuung mehr. Geschosse von Melancholiekommando verfolgen nun Zombies | Synchron-Sniperbse: Benötigte Schüsse aller Scharfscherbsen vor einem Kopfschuss -3"
+    },
+    "52": {
+      "name": "Obsidianformation",
+      "desc": "Obsidian-Kolossnuss: Solange sie auf dem Rasen steht, erleiden alle Obsidianpflanzen weniger Endschaden, abhängig von der Zahl verschiedener vorhandener Obsidianpflanzen"
+    },
+    "53": {
+      "name": "Frostfeuerhärtung",
+      "desc": "Obsidian-Kolossnuss: Härtungsschaden ×2"
+    },
+    "54": {
+      "name": "Verjüngende Essenz",
+      "desc": "Heilende Tannenessenz: Essenz erhöht die maximalen LP von Pflanzen für die aktuelle Runde um 0.2% ihrer Grundzähigkeit"
+    },
+    "55": {
+      "name": "Fließender Lebenssaft",
+      "desc": "Heilende Tannenessenz: Heil- und Schildkraft der Essenz ×2 | Anzahl entfernter Einfrierungen und Vereisungen ×3 | Automatisches Essenz-Regenerationstempo ×2"
+    }
+  },
+  "debuffs": {
+    "0": {
+      "name": "Durchbruch",
+      "desc": "Kirsch-MG-Zeitungszombie: Kann durch Pflanzen laufen, wenn seine Zeitung zerstört ist | Professor Cherryz: -1 Ersatzzeitung"
+    },
+    "1": {
+      "name": "Absolute Immunität",
+      "desc": "Kirsch-MG-Zeitungszombie: Nun gegen alle Statuseffekte immun | Professor Cherryz: -1 Ersatzzeitung"
+    },
+    "2": {
+      "name": "Ausbluten",
+      "desc": "Giga-Rugbynuss-Zombie: Bisse verhindern nun 1s lang die Heilung von Pflanzen"
+    },
+    "3": {
+      "name": "Entkräftung",
+      "desc": "Giga-Rugbynuss-Zombie: Bisse schwächen Pflanzen, sodass sie 1s lang 3× Schaden erleiden"
+    },
+    "4": {
+      "name": "Brandungsrückstrom",
+      "desc": "Haimarine: Bewegungstempo ×2"
+    },
+    "5": {
+      "name": "Verstärkter Rumpf",
+      "desc": "Haimarine: Erhält 50% Schadensreduktion"
+    },
+    "6": {
+      "name": "Düsenantrieb",
+      "desc": "Kirov-Zomppelin: Immun gegen Wehblatt | Bewegungstempo ×5"
+    },
+    "7": {
+      "name": "Eiserner Schwarm",
+      "desc": "Kirov-Zomppelin: Beschworene Drohnen haben nun 50× LP"
+    },
+    "8": {
+      "name": "Kurze Zündschnur",
+      "desc": "Springstab-Clown-Zombie: Explodiert nun immer beim Tod. Ladezeit für den großen Sprung um 90% reduziert | Jetski-Clown-Zombie: Bombenschaden +500"
+    },
+    "9": {
+      "name": "Ansteckende Explosion",
+      "desc": "Springstab-Clown-Zombie: Von der Explosion getroffene Springteufel-Zombies verwandeln sich in Springstab-Clown-Zombie | Jetski-Clown-Zombie: Bombenschaden +500"
+    },
+    "10": {
+      "name": "Dreizackflut",
+      "desc": "Gigadreizack-Zombie und Harpunier-Frost-Riesennuss-Zombie: Werfen pro Angriff 2 zusätzliche Dreizacke/Schneeharpunen | Pozeidon wirft 3 riesige Dreizacke"
+    },
+    "11": {
+      "name": "Streuwurf",
+      "desc": "Gigadreizack-Zombie: Ignoriert nun Schirmpflanzen und greift zufällige Pflanzen an"
+    },
+    "12": {
+      "name": "Spitzenbesetzung",
+      "desc": "Superstar-Zombie: Kann nun Super-Tanz-Stabhochspringer beschwören"
+    },
+    "13": {
+      "name": "Phantomwalzer",
+      "desc": "Superstar-Zombie: Gleitet beim Einzug nun durch Pflanzen hindurch"
+    },
+    "14": {
+      "name": "Nachbeben",
+      "desc": "Unsterbliches Gespenst: Explosionsschaden ignoriert nun die Immunität von Jokerkürbis und anderen entsprechenden Pflanzen"
+    },
+    "15": {
+      "name": "Erbarmungslose Verfolgung",
+      "desc": "Unsterbliches Gespenst: Ansturm-Abklingzeit reduziert | Angriffskraft stark erhöht"
+    },
+    "16": {
+      "name": "Unzählige Dreizacke",
+      "desc": "Dreizack-Hwacha: Nun gegen die meisten Statuseffekte immun und wirft 5× so viele Dreizacke"
+    },
+    "17": {
+      "name": "Erstschlag",
+      "desc": "Dreizack-Hwacha: Greift nun früher an"
+    },
+    "18": {
+      "name": "Weltweite Parade",
+      "desc": "Michael-Zomboni: Erscheint nun jede Runde | Erzeugt beim Tod einen zusätzlichen Superstar-Zombie"
+    },
+    "19": {
+      "name": "Vollgas",
+      "desc": "Michael-Zomboni: Bewegungstempo von Michael-Zomboni und Jackson Worldwide ×5"
+    },
+    "20": {
+      "name": "Ass-Abwurf",
+      "desc": "Bungee-Zombies können einen Odyssee-Zombie ab der 4. Spalte oder weiter rechts absetzen und erhalten 90% Schadensreduktion"
+    },
+    "21": {
+      "name": "Unsterblichkeit",
+      "desc": "Alpha-Assassinenkommando kann sich nun unbegrenzt oft von Kampfunfähigkeit erholen"
+    },
+    "22": {
+      "name": "Weitsicht",
+      "desc": "Zermürberscheibe der Frostlegion: Auflösungsstrahlen zielen nun auf die am weitesten entfernte Pflanze in Reichweite"
+    },
+    "23": {
+      "name": "Weiträumiger Sog",
+      "desc": "Zermürberscheibe der Frostlegion: Absauger-Reichweite: 1 Feld → 3×3-Bereich"
+    },
+    "24": {
+      "name": "Elementare Vereinigung",
+      "desc": "Element-Gargantua: Aussehen spielt keine Rolle mehr. Besitzt nun gleichzeitig die Zusatzfähigkeiten aller vier Elemente"
+    },
+    "25": {
+      "name": "Erwachte Affinität",
+      "desc": "Element-Gargantua: Beim Zuschlagen erscheinen nun zugehörige Element-Wicht-Zombies"
+    },
+    "26": {
+      "name": "Schnelles Laden",
+      "desc": "Dreizack-Kolossnuss-Gargantua: Dreizack-Nachladetempo ×3"
+    },
+    "27": {
+      "name": "Pozeidons Segen",
+      "desc": "Dreizack-Kolossnuss-Gargantua: Regeneriert beim Dreizackwurf nun 10% der maximalen LP"
+    },
+    "28": {
+      "name": "Stoßdämpfer",
+      "desc": "Giga Mecha-Nuss-Zombie: Während der ersten 50 Treffer erleiden alle Zombies nur 1 Schaden"
+    },
+    "29": {
+      "name": "Reaktive Panzerung",
+      "desc": "Giga Mecha-Nuss-Zombie: Alle Zombies erhalten nach jedem Treffer 0.2s Immunität gegen Schaden, der den vorherigen nicht übersteigt. Löst bis zu 100 Mal aus"
+    },
+    "30": {
+      "name": "Stampede",
+      "desc": "Kriegselefanten-Zombie: Erscheint nun in Gruppen zu 3"
+    },
+    "31": {
+      "name": "Alpha-Eskorte",
+      "desc": "Kriegselefanten-Zombie: Für jedes Exemplar auf dem Feld erhalten Miniboss-Zombies +100 Schadensreduktionswert"
+    },
+    "32": {
+      "name": "Isolierende Beschichtung",
+      "desc": "Schrotflinten-Bobbrigade: Immun gegen Butter und Einfrieren"
+    },
+    "33": {
+      "name": "Blitzeinzug",
+      "desc": "Schrotflinten-Bobbrigade: Betritt das Feld sehr schnell, wird mit der Zeit aber langsamer"
+    },
+    "34": {
+      "name": "Kobrahaltung",
+      "desc": "Giga-Football-Akrobat-Zombie und Giga-Rugby-Nuss-Akrobat-Zombie: Rollen direkt beim Erscheinen einmal"
+    },
+    "35": {
+      "name": "Heiße Verfolgung",
+      "desc": "Giga-Football-Akrobat-Zombie und Giga-Rugby-Nuss-Akrobat-Zombie: Verursachen nach dem Rollen ×2 Schaden"
+    },
+    "36": {
+      "name": "Marsch der Untoten",
+      "desc": "Schrotflinten-Kommandozombie: Ignoriert beim Bewegen nun Pflanzen"
+    },
+    "37": {
+      "name": "Fluch des Todesreiters",
+      "desc": "Schrotflinten-Kommandozombie: Feuert stattdessen nun verfluchte Eisenerbsen"
+    },
+    "38": {
+      "name": "Abgrundtief böse",
+      "desc": "Kistenteufel-Zombie: Von Bombenkisten verursachte Fluchstapel ×2. Regeneriert alle 6s eine Bombenkiste"
+    },
+    "39": {
+      "name": "Sich vermehrende Bombe",
+      "desc": "Kistenteufel-Zombie: Bombenkisten sind nun gegen Schirmabwehr immun und erzeugen beim Landen einen weiteren Kistenteufel-Zombie"
+    },
+    "40": {
+      "name": "Weiträumiger Ansturm",
+      "desc": "Schwarzer-Ritter-Zombie: Der Ansturm belegt nun Pflanzen in einem 3×3-Bereich mit Fluchstapeln"
+    },
+    "41": {
+      "name": "Standhaft",
+      "desc": "Schwarzer-Ritter-Zombie: Alle zerquetschenden Zombies erleiden nun nur halb so viel Rückstoß durch Pflanzen mit Quetschschutz"
+    },
+    "1000": {
+      "name": "Verdunkelung",
+      "desc": "Deine Sonne wird auf 0 zurückgesetzt"
+    },
+    "1001": {
+      "name": "Bankrott",
+      "desc": "Deine Punkte werden auf 0 zurückgesetzt"
+    },
+    "1002": {
+      "name": "Begrenzter Platz",
+      "desc": "Du kannst höchstens 120 Pflanzen auf dem Feld haben"
+    },
+    "1003": {
+      "name": "Welkeseuche",
+      "desc": "Jede deiner vorhandenen Pflanzen stirbt mit einer Wahrscheinlichkeit von 1/3 (einmaliger Effekt)"
+    },
+    "1004": {
+      "name": "Nekrotisches Wachstum",
+      "desc": "Zuwachs der maximalen Zombie-LP nach jeder Runde: 20% → 30%"
+    },
+    "1005": {
+      "name": "Wiederauferstehung",
+      "desc": "Alle Zombies einschließlich Bosse können beim Tod mit einer Wahrscheinlichkeit von 1/3 einmal mit vollen LP wiederauferstehen"
+    },
+    "1006": {
+      "name": "Megahorde",
+      "desc": "Erhöht die maximale Zahl von Zombies pro Welle auf 100"
+    },
+    "1007": {
+      "name": "Veteranentruppen",
+      "desc": "Die maximale Zombieanzahl pro Welle wird halbiert, aber alle Zombies erhalten ×2 LP und Angriff"
+    },
+    "1008": {
+      "name": "Heilungsunterdrückung",
+      "desc": "Alle Heilungen und Schilde von Pflanzen werden um 50% reduziert"
+    },
+    "1009": {
+      "name": "Bleibender Schaden",
+      "desc": "Erleiden Pflanzen Schaden, verlieren sie maximale LP in Höhe von 10% des erlittenen Schadens (höchstens 40%, wird zwischen Runden zurückgesetzt)"
+    },
+    "1010": {
+      "name": "Inflation",
+      "desc": "Alle Pflanzen kosten nun 3× Sonne"
+    },
+    "1011": {
+      "name": "Ruheloser Ansturm",
+      "desc": "Die Zeit bis zur ersten Zombiewelle sinkt auf 5s, der Abstand zwischen Zombiewellen auf 15s"
+    },
+    "1012": {
+      "name": "Siegel der Fäule",
+      "desc": "Alle Pflanzen erleiden ×1.5 mehr Schaden"
+    },
+    "1013": {
+      "name": "Macht des Kriegsherrn",
+      "desc": "Miniboss-Zombies erhalten 30% mehr Tempo und maximale LP"
+    },
+    "1014": {
+      "name": "Großangriff",
+      "desc": "Zombies außer Minibossen erhalten 30% mehr Tempo und maximale LP"
+    },
+    "1015": {
+      "name": "Fliegende Festung",
+      "desc": "Fliegende Zombies haben nun 2× maximale LP"
+    },
+    "1016": {
+      "name": "Kollateralschaden",
+      "desc": "Getötete Pflanzen fügen anderen Pflanzen in einem 3×3-Bereich Schaden in Höhe ihrer maximalen LP zu"
+    },
+    "1017": {
+      "name": "Massenmutation",
+      "desc": "Alle Nicht-Odyssee-Zombies erhalten nun ×2 LP und Angriff sowie ×1.5 Tempo"
+    },
+    "1018": {
+      "name": "Verlorene Diagnostik",
+      "desc": "Die LP-Anzeige der Pflanzen wird deaktiviert"
+    },
+    "1019": {
+      "name": "Nebel des Krieges",
+      "desc": "Die LP-Anzeige der Zombies wird deaktiviert"
+    },
+    "2000": {
+      "name": "Krise",
+      "desc": "Himmels-Gargantua erscheint"
+    },
+    "2001": {
+      "name": "Krise",
+      "desc": "Gatling-Düster-Zeitungszombie erscheint"
+    },
+    "2002": {
+      "name": "Krise",
+      "desc": "D.A.M.P.-Scheibe erscheint"
+    },
+    "2003": {
+      "name": "Krise",
+      "desc": "Alpha-Assassinen-Auftragsmörder erscheint"
+    },
+    "2004": {
+      "name": "Krise",
+      "desc": "Schrotflinten-Ritterhauptmann-Zombie erscheint"
+    },
+    "2005": {
+      "name": "Krise",
+      "desc": "Giga-Rugby-Nuss-Akrobat-Zombie erscheint"
+    },
+    "2006": {
+      "name": "Krise",
+      "desc": "Harpunier-Frost-Riesennuss-Zombie erscheint"
+    },
+    "3000": {
+      "name": "Nemesis",
+      "desc": "Abgrund-Gargantua erscheint als Miniboss"
+    },
+    "3001": {
+      "name": "Zomboss-Protokoll",
+      "desc": "Abgrund-Gargantua: Erzeugt beim Tod Dr. Zomboss"
+    },
+    "3002": {
+      "name": "Nemesis",
+      "desc": "Imperators Enten-Arche erscheint als Miniboss"
+    },
+    "3003": {
+      "name": "Königliche Zähigkeit",
+      "desc": "Imperators Enten-Arche: Regeneriert nun bei jedem ausgewichenen Angriff 500 LP"
+    },
+    "3004": {
+      "name": "Nemesis",
+      "desc": "Jackson Worldwide erscheint als Miniboss"
+    },
+    "3005": {
+      "name": "Schattentanz",
+      "desc": "Jackson Worldwide: Erhält nun 50% Reduktion des erlittenen Schadens"
+    },
+    "3006": {
+      "name": "Nemesis",
+      "desc": "Giga-Football-Stürmer erscheint als Miniboss"
+    },
+    "3007": {
+      "name": "Adrenalinrausch",
+      "desc": "Giga-Football-Stürmer: Erhält nun 2× schneller Verstärkungen"
+    },
+    "3008": {
+      "name": "Nemesis",
+      "desc": "Pozeidon erscheint als Miniboss"
+    },
+    "3010": {
+      "name": "Nemesis",
+      "desc": "Ultra-Mecha-Nuss-Zombie erscheint als Miniboss"
+    },
+    "3012": {
+      "name": "Nemesis",
+      "desc": "Himmelsläufer-Mecha erscheint als Miniboss"
+    },
+    "3014": {
+      "name": "Nemesis",
+      "desc": "Professor Cherryz erscheint als Miniboss"
+    },
+    "3016": {
+      "name": "Nemesis",
+      "desc": "Königin Jill-in-der-Kiste erscheint als Miniboss"
+    },
+    "3018": {
+      "name": "Nemesis",
+      "desc": "Omega-Assassinenkommando erscheint als Miniboss"
+    },
+    "3020": {
+      "name": "Nemesis",
+      "desc": "Erzherzog Todesreiter erscheint als Miniboss"
+    },
+    "3021": {
+      "name": "Düsterer Aufstieg",
+      "desc": "Erzherzog Todesreiter: Nach dem Absitzen verwandelt der Erzherzog sein Kriegsross in eine Sense und verstärkt seine Fähigkeiten erheblich."
+    },
+    "3022": {
+      "name": "Nemesis",
+      "desc": "Jahrtausenddrache und Wächter erscheinen als Miniboss"
+    },
+    "3024": {
+      "name": "Nemesis",
+      "desc": "Cerasocetus-Reiter erscheint als Miniboss"
+    },
+    "3026": {
+      "name": "Nemesis",
+      "desc": "König Nekrofeuer erscheint als Miniboss"
+    },
+    "4000": {
+      "name": "Majestätische Präsenz",
+      "desc": "Abgrund-Gargantua gewährt allen Zombies +400 Schadensreduktionswert, solange er anwesend ist"
+    },
+    "4001": {
+      "name": "Majestätische Präsenz",
+      "desc": "Imperators Enten-Arche gewährt allen Zombies +400 Schadensreduktionswert, solange er anwesend ist"
+    },
+    "4002": {
+      "name": "Majestätische Präsenz",
+      "desc": "Giga-Football-Stürmer gewährt allen Zombies +400 Schadensreduktionswert, solange er anwesend ist"
+    },
+    "4003": {
+      "name": "Majestätische Präsenz",
+      "desc": "Jackson Worldwide gewährt allen Zombies +400 Schadensreduktionswert, solange er anwesend ist"
+    },
+    "4004": {
+      "name": "Majestätische Präsenz",
+      "desc": "Erzherzog Todesreiter gewährt allen Zombies +400 Schadensreduktionswert, solange er anwesend ist"
+    },
+    "5000": {
+      "name": "Erworbene Antikörper",
+      "desc": "Zombies erhalten 3s Immunität gegen aufhaltende Statuseffekte, nachdem sie 5s lang durchgehend einem solchen Effekt ausgesetzt waren"
+    },
+    "5001": {
+      "name": "Rasereispirale",
+      "desc": "Der Angriffsschaden aller Zombies auf dem Feld steigt alle 3s um +100% (linear), bis zu 1M"
+    },
+    "5002": {
+      "name": "Schmerzreaktion",
+      "desc": "Erleiden Zombies mehr als 100 Schaden, erhalten sie Schadensreduktionswert in Höhe von 1% des eingehenden Schadens, bis zu +1000 Schadensreduktionswert"
+    },
+    "5003": {
+      "name": "Zombie-Parade",
+      "desc": "Weichen Zombies einem Angriff aus, werfen sie 100% Schaden auf Pflanzen zurück. Abklingzeit: 3s"
+    },
+    "5004": {
+      "name": "Mal des Ruins",
+      "desc": "Fügt ein Zombie einer Pflanze Quetschschaden zu, erhält sie Fluchstapel in Höhe von [1%×(Pflanzen-LP + Pflanzenzähigkeit)/2]"
+    },
+    "10000": {
+      "name": "Pechsträhne",
+      "desc": "Verliere 75 Glückspunkte"
+    },
+    "10001": {
+      "name": "Wiedergeburt: Tiryak",
+      "desc": "Zombies in der 1. Wiedergeburtsschleife haben 20% mehr LP und Tempo"
+    },
+    "10002": {
+      "name": "Wiedergeburt: Preta",
+      "desc": "Zombies in der 2. Wiedergeburtsschleife haben 40% mehr LP und 25% mehr Tempo"
+    },
+    "10003": {
+      "name": "Wiedergeburt: Naraka",
+      "desc": "Zombies in der 3. Wiedergeburtsschleife haben 60% mehr LP und 30% mehr Tempo"
+    },
+    "10004": {
+      "name": "Nemesis-Krise",
+      "desc": "Ab Welle 50 erscheinen bei Flaggenwellen zufällig Minibosse"
+    },
+    "10005": {
+      "name": "Schandfrist",
+      "desc": "Pflanzen können in den ersten 2 Sekunden einer neuen Welle Zombies nur 1 Schaden zufügen"
+    },
+    "10006": {
+      "name": "Fluch des Neids",
+      "desc": "Der Pflanzentyp mit dem höchsten Gesamtschaden verursacht nur 70% Schaden, andere Pflanzen verursachen 110% Schaden"
+    },
+    "10007": {
+      "name": "Experten-Schnelldurchlauf",
+      "desc": "Ab Welle 8 erscheint in den ersten 50 Wellen des Levels zufällig ein Zombie, der normalerweise erst in den Wellen 38 bis 88 vorkommt"
+    },
+    "10008": {
+      "name": "Zombie-Ensemble",
+      "desc": "Zombies außer Minibossen können beim Erscheinen ein weiteres Exemplar ihrer selbst erzeugen. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10009": {
+      "name": "Zombie-Opfer",
+      "desc": "Zombies außer Minibossen können direkt beim Erscheinen verschwinden und einem anderen Zombie 80% ihrer LP gewähren. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10010": {
+      "name": "Winterschlaf",
+      "desc": "Pflanzen sind nach der Wiederbelebung 3s lang eingefroren"
+    },
+    "10011": {
+      "name": "Schwerer K. o.",
+      "desc": "Pflanzen brauchen 1.5× so lange zur Wiederbelebung"
+    },
+    "10012": {
+      "name": "Kambrische Hirnexplosion",
+      "desc": "Der Evolutionsabstand der Zombies sinkt auf 4 Wellen"
+    },
+    "10013": {
+      "name": "Grand Theft Rasenmäher",
+      "desc": "Rasenmäher sind deaktiviert"
+    },
+    "10014": {
+      "name": "Heimtückisches Übel",
+      "desc": "Verschwindet eine Pflanze, erscheint an ihrer Stelle ein zufälliger Zombie mit erhöhten LP und erhöhtem Tempo"
+    },
+    "10015": {
+      "name": "Jacksons bunte Stunde",
+      "desc": "Mit fortschreitenden Wellen steigt die Chance, dass zusätzliche besondere Michael-Zombies erscheinen"
+    },
+    "10016": {
+      "name": "Koordinierter Angriff",
+      "desc": "In jeder neuen Welle können zusätzliche Zombies anderer Routen erscheinen. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10017": {
+      "name": "Heldenfluch",
+      "desc": "Der unabhängige Schadensbonus der Pflanze mit den meisten Modifikatoren sinkt mit jeder neuen Welle um 1%, bis auf mindestens 0"
+    },
+    "10018": {
+      "name": "Gegenangriff",
+      "desc": "Erleiden Zombies Schaden, erzeugen sie gegen die Pflanzen ein zombieeigenes Fluchgeschoss mit Schaden in Höhe von 10% ihrer Angriffskraft (mindestens 20). Löst höchstens 10 Mal alle 0.02s aus"
+    },
+    "10019": {
+      "name": "Rückkehr der Handlanger",
+      "desc": "Ab Welle 51 erscheinen zufällig 5 Zombies, die normalerweise nur in den Wellen 1 bis 50 vorkommen. Sie haben jedoch 10× LP und 2× Tempo"
+    },
+    "10020": {
+      "name": "Pedantische Gier",
+      "desc": "Mit fortschreitenden Wellen steigt die Chance, dass zusätzliche besondere Zeitungszombies erscheinen"
+    },
+    "10021": {
+      "name": "Extremsport",
+      "desc": "Mit fortschreitenden Wellen steigt die Chance, dass zusätzliche besondere Bungee-Zombies erscheinen"
+    },
+    "10022": {
+      "name": "Glücksdarlehen",
+      "desc": "Erhalte 75 Glückspunkte, verliere aber ab der 50. Welle jede Welle 1 Glückspunkt"
+    },
+    "10023": {
+      "name": "Nekropole",
+      "desc": "Zu Beginn jeder Runde erscheinen 3 Spalten Grabsteine auf dem Rasen. Bei Flaggenwellen beschwören sie Zombies, die in dieser Welle vorkommen dürfen"
+    },
+    "10024": {
+      "name": "Nitroschub",
+      "desc": "Nach dem Erscheinen der Zombies erhalten in jeder Welle 3 zufällige Zombies 100% zusätzliches Tempo"
+    },
+    "10025": {
+      "name": "Fauliger Gestank",
+      "desc": "Alle Pflanzen auf dem Feld erhalten alle 3s einen Fluch in Höhe von 5% der maximalen LP"
+    },
+    "10026": {
+      "name": "Unheiliger Gral",
+      "desc": "Getötete Zombies außer Minibossen können als anderer Zombie in der äußersten rechten Spalte derselben Reihe wiedererscheinen. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10027": {
+      "name": "Reiner Schaden",
+      "desc": "Erleiden Pflanzen Schaden, erhalten sie zusätzlichen reinen Schaden in Höhe von 30% des ursprünglichen Schadens"
+    },
+    "10028": {
+      "name": "Heilungsparasit",
+      "desc": "Werden Pflanzen geheilt, heilen sie auch einen zufälligen Zombie um 25% seiner maximalen LP. Diese Heilung kann das Maximum überschreiten"
+    },
+    "10029": {
+      "name": "Chaosberührung",
+      "desc": "Deine Pflanzen werden jede 5. Welle an zufällige Positionen verschoben"
+    },
+    "10030": {
+      "name": "Eskalierende Apokalypse",
+      "desc": "Der Wellenabstand sinkt. Jede Welle kann sofort noch einmal dieselben Zombies erzeugen. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10031": {
+      "name": "Verzweifelte Detonation",
+      "desc": "Zombies außer Minibossen können unter 10% ihrer maximalen LP bei einem Treffer sofort explodieren"
+    },
+    "10032": {
+      "name": "Horn der Macht",
+      "desc": "Alle Zombies auf dem Rasen erhalten beim Erscheinen einer neuen Welle 20% mehr LP und Tempo"
+    },
+    "10033": {
+      "name": "Überragende Präsenz",
+      "desc": "Bosse erhalten 30% mehr LP, ihre beschworenen Zombies 60% mehr LP"
+    },
+    "10034": {
+      "name": "Klein, aber flink",
+      "desc": "Zombies außer Bossen haben 30% weniger maximale LP und Größe, sind aber 100% schneller"
+    },
+    "10035": {
+      "name": "Aufgeblähte Zombies",
+      "desc": "Zombies außer Bossen haben 60% mehr maximale LP und Größe, ihr Tempo sinkt aber um 60%"
+    },
+    "10036": {
+      "name": "Billige Ästhetik",
+      "desc": "Verstärkt die Effekte silberner und niedrigerer Modifikatoren um 10%, während die Effekte goldener und diamantener Modifikatoren um 30% sinken"
+    },
+    "10037": {
+      "name": "Erlesene Ästhetik",
+      "desc": "Verstärkt die Effekte goldener und höherer Modifikatoren um 10%, während die Effekte bronzener und silberner Modifikatoren um 30% sinken"
+    },
+    "10038": {
+      "name": "Midas-Berührung",
+      "desc": "Greift der Garantieschutz nicht, werden alle Modifikatoren, die Diamantqualität hätten, durch ihre entsprechende Variante in Goldqualität ersetzt"
+    },
+    "10039": {
+      "name": "Stärke durch Masse",
+      "desc": "Bei 0/1/2/3/4/5/6 oder mehr Pflanzen auf dem Feld erleiden Zombies jeweils 50%/60%/70%/80%/90%/100%/105% Schaden"
+    },
+    "10040": {
+      "name": "Silberstreif",
+      "desc": "Greift der Garantieschutz nicht, erscheinen Modifikatoren mit mehreren Qualitätsstufen nur in Silberqualität. Besitzt du auch Midas-Berührung, werden Modifikatoren in Gold- und Diamantqualität stattdessen auf Bronze abgestuft"
+    },
+    "10041": {
+      "name": "Äon des Nyan",
+      "desc": "Zombies können direkt beim Erscheinen verschwinden und einen Neko Matschkürbis-Zombie mit ihren LP erzeugen. Die Wahrscheinlichkeit steigt mit fortschreitenden Wellen"
+    },
+    "10042": {
+      "name": "Ungesundes Sterben",
+      "desc": "Jeder Tod deiner Pflanze verlängert ihre Wiederbelebungszeit um 0.5s"
+    },
+    "10043": {
+      "name": "Strafe fürs Zögern",
+      "desc": "Jeder Neuwurf von Modifikatoren kostet 25 Glückspunkte"
+    },
+    "10044": {
+      "name": "Launen des Schicksals",
+      "desc": "Jede Modifikator-Auswahl gewährt zufällig -27 bis +33 Glückspunkte"
+    }
+  },
+  "unlocks": {
+    "0": {
+      "name": "",
+      "desc": "Kirschzilla freischalten: Kauzilla + Kirschnapper\nund seine Unterart Knoblauchzilla\nWechsel: Kirschbombe <-> Knoblauch"
+    },
+    "1": {
+      "name": "",
+      "desc": "MG-Kirschkanone freischalten: MG-Kirsche + Explod-o-Kanone\nund seine Unterart Kirschkanonendrohne\nWechsel: Schaufel <-> Wehblatt"
+    },
+    "2": {
+      "name": "",
+      "desc": "Herrscherpilz freischalten: Unheilbergpilz + Frostschleierpilz\nund seine Unterart Dornimator\nWechsel: Qualmpilz <-> Kaktee"
+    },
+    "3": {
+      "name": "",
+      "desc": "Gequetschtes Infernoholz freischalten: Scharfmatschkürbis + Infernoholz\nund seine Unterart Funkelholz des Teufels\nWechsel: Matschkürbis <-> Sternenfrucht"
+    },
+    "4": {
+      "name": "",
+      "desc": "Magnetar freischalten: Sternenfall + Magnedorn\nund seine Unterart Gravitron\nWechsel: Sternenfrucht <-> Wehblatt"
+    },
+    "5": {
+      "name": "",
+      "desc": "Vergessenheitenpilz freischalten: Unheilbergpilz + Schnee-Stinkmorchel\nund seine Unterart Atompflanterne\nWechsel: Stinkmorchel <-> Planterne"
+    },
+    "6": {
+      "name": "",
+      "desc": "Welkepult freischalten: Salatpult + Melonaknoblauchpult\nund seine Unterart Schleuderpult\nWechsel: ×3 + Melonapult <-> Puffpilz"
+    },
+    "7": {
+      "name": "",
+      "desc": "Maisvergessenheit-Kanone freischalten: Kryokanone + Kryo-Unheilpilz\nund seine Unterart Pandämonium-Haubitze\nWechsel: Kornapult <-> Melonapult"
+    },
+    "8": {
+      "name": "",
+      "desc": "Obsidian-Nuss freischalten: Frost-Nuss + Scharf-Nuss\nund seine Unterart Obsidianmine\nWechsel: Riesennuss <-> Kartoffelmine"
+    },
+    "9": {
+      "name": "",
+      "desc": "Charmetronpilz freischalten: Charmepilz + Hypnomagnet\nund seine Unterart Charmetronkürbis\nWechsel: Schaufel <-> Charmetronpilz mit dem Handschuh auf einen Kürbis setzen"
+    },
+    "10": {
+      "name": "",
+      "desc": "Titan-Apokalerbsen-Geschützturm freischalten: MG-Erbsen-Geschützturm + Stacheleis\nund seine Unterart Apocalerbsen-Kanone\nWechsel: Erbsenkanone <-> Scharfscherbse"
+    },
+    "11": {
+      "name": "",
+      "desc": "Helios-Kohl freischalten: Solarpult + Goldkohl\nund seine Unterart Selene-Kohl\nWechsel: Sonnenblume <-> Planterne"
+    },
+    "12": {
+      "name": "",
+      "desc": "Überladener Kürbis freischalten: Stachelwehblatt Kürbis + Magwehblatt\nund seine Unterart Sprengkürbis\nWechsel: Kaktee <-> Kirschbombe"
+    },
+    "13": {
+      "name": "",
+      "desc": "Napalmpilz freischalten: Sommermelone + Rugbypilz\nund seine Unterart Magmapilz\nWechsel: Kornapult <-> Melonapult"
+    },
+    "14": {
+      "name": "",
+      "desc": "Captang Goldbeard freischalten: Doppelringelblume > Krakerberus\nund seine Unterart Habgierige Seekiste\nWechsel: Pflanzen-Geschenkbox <-> Zombie-Geschenkbox"
+    },
+    "15": {
+      "name": "",
+      "desc": "Mais Planck freischalten: Mais-Zwille ×3 + Portalpult\nund seine Unterart Astronuss\nWechsel: Kornapult <-> Wallnuss"
+    },
+    "16": {
+      "name": "",
+      "desc": "Aloe Schnee-Fichtenschütze freischalten: Super-Fichtenschütze + Schneefichtenzieler\nund seine Unterart Bamblock-Fichtensäger\nWechsel: Fichtenschütze <-> Bamblock"
+    },
+    "17": {
+      "name": "",
+      "desc": "Tyrannoflora Lux freischalten: Angelfresser > Titan-Schnappermaul"
+    },
+    "18": {
+      "name": "",
+      "desc": "Vulkanone freischalten: Pyrokanone + Paprikaschote\nund seine Unterart Eruptionsgeschütz\nWechsel: Kornapult <-> Kohlapult"
+    },
+    "19": {
+      "name": "",
+      "desc": "Prinzessin Solarnova freischalten: Zundersonne + Gold-Sonnenblume"
+    },
+    "20": {
+      "name": "",
+      "desc": "Wintermelonokopter freischalten: Wintermelone + Chronomelone\nund seine Unterart Fungularität\nWechsel: Melonapult <-> Düsterpilz"
+    },
+    "21": {
+      "name": "",
+      "desc": "Löwenschwanz freischalten: Flammen Katzenschwanz + Paprikaschote\nund seine Unterart Deukalionpilz\nWechsel: Katzenschwanz <-> Meerpilz"
+    },
+    "22": {
+      "name": "",
+      "desc": "Leviathanpilz freischalten: Elritzpilz + Krakenpilz"
+    },
+    "23": {
+      "name": "",
+      "desc": "Kryo-Hielopeño freischalten: Stacheleis + Stacheleis\nund seine Unterart Tränen-Habanero\nWechsel: ×3 + Jicamagier <-> Puffpilz"
+    },
+    "24": {
+      "name": "",
+      "desc": "Photonknaller freischalten: Spaltstrahl + Chronokanone\nund seine Unterart Weltraumknaller\nWechsel: Planterne <-> Knoblauch"
+    },
+    "25": {
+      "name": "",
+      "desc": "Eisenschuss-Kommander freischalten: Football-MG-Erbse + Eimerkanone\nund seine Unterart Synchron-Sniperbse\nWechsel: Footballhelm <-> Chronokern"
+    },
+    "26": {
+      "name": "",
+      "desc": "Obsidian-Kolossnuss freischalten: Stacheleis > Jugger-Nuss"
+    },
+    "27": {
+      "name": "",
+      "desc": "Heilende Tannenessenz freischalten: Heilfirn + Aloe Nivea"
+    }
+  },
+  "investmentBuffs": {
+    "0": {
+      "name": "",
+      "desc": "Pflanzen verursachen in den ersten 50% der Runde 40% mehr Schaden"
+    },
+    "1": {
+      "name": "",
+      "desc": "Am Ende jeder Runde erhältst du 300 Punkte pro Pflanzenart, die in dieser Runde 0 Schaden verursacht hat, bis zu 10 Arten"
+    },
+    "2": {
+      "name": "",
+      "desc": "Erreicht in dieser Runde keine deiner Pflanzen 0 LP, erhältst du am Rundenende 1.5k Punkte und alle Pflanzen 5% mehr maximale LP"
+    },
+    "3": {
+      "name": "",
+      "desc": "Verwandelt alle Pflanzen auf dem Rasen in zufällige Pflanzen. Du erhältst sofort 1000 Punkte, und der Handschuh hat in dieser Runde keine Abklingzeit"
+    },
+    "4": {
+      "name": "",
+      "desc": "Du erhältst sofort Samenkarten für 10 zufällige Odyssee-Pflanzen"
+    },
+    "5": {
+      "name": "",
+      "desc": "Bei jedem besiegten Miniboss heilen alle Pflanzen um 10% ihrer maximalen LP"
+    },
+    "6": {
+      "name": "",
+      "desc": "Alle Zombies außer Minibossen haben 10% weniger LP"
+    },
+    "7": {
+      "name": "",
+      "desc": "Alle Minibosse haben 10% weniger LP"
+    },
+    "8": {
+      "name": "",
+      "desc": "In jeder Welle erleidet der Zombie mit den meisten LP Schaden in Höhe von 1500% Grundschaden"
+    },
+    "9": {
+      "name": "",
+      "desc": "Die Pflanzenart mit dem höchsten Schadensanteil verursacht 25% zusätzlichen Schaden"
+    },
+    "10": {
+      "name": "",
+      "desc": "Zu Beginn jeder Runde erhalten deine Pflanzen pro Nicht-Odyssee-Pflanzenart auf dem Rasen 3% Schadensverringerung, bis zu 30%"
+    },
+    "11": {
+      "name": "",
+      "desc": "Zu Beginn jeder Runde erhalten die 6 Pflanzen mit dem höchsten Schaden einen Schadensbonus von 20%"
+    },
+    "12": {
+      "name": "",
+      "desc": "Hast du beim letzten Ladenbesuch nichts gekauft, erhältst du 6 zusätzliche Laden-Neuwürfe"
+    },
+    "13": {
+      "name": "",
+      "desc": "Du erhältst 11 zusätzliche Laden-Neuwürfe"
+    },
+    "1000": {
+      "name": "",
+      "desc": "<color=#AF4900>Alle deine Pflanzen werden ausgegraben. Dafür verdoppelt sich deine Sonne. Zu Beginn jeder Runde erhalten alle Pflanzen einen Schild in Höhe der gesamten Sonnenkosten der ausgegrabenen Pflanzen"
+    },
+    "1001": {
+      "name": "",
+      "desc": "<color=#AF4900>Alle deine Pflanzen werden ausgegraben. Dafür verdoppelt sich deine Sonne, und Samenkarten haben in dieser Runde keine Abklingzeit"
+    },
+    "1002": {
+      "name": "",
+      "desc": "<color=#AF4900>Deine Truppen erhalten 18% kritische Trefferchance"
+    },
+    "1003": {
+      "name": "",
+      "desc": "<color=#AF4900>Zu Beginn jeder Runde erhalten deine Pflanzen pro Pflanzenart auf dem Rasen 3% mehr LP und 6% mehr Angriffsschaden"
+    },
+    "1004": {
+      "name": "",
+      "desc": "<color=#AF4900>Die Pflanzenart mit dem höchsten Schadensanteil verursacht 40% zusätzlichen Schaden. Außerdem verursachen alle deine Truppen 10% mehr Schaden"
+    },
+    "1005": {
+      "name": "",
+      "desc": "<color=#AF4900>Zu Beginn jeder Runde erhält die am weitesten links stehende normale Pflanze jeder Reihe 150% Angriffstempobonus. Zu Beginn jeder Welle erleidet sie jedoch Schaden in Höhe von 1000% ihrer maximalen LP"
+    },
+    "1006": {
+      "name": "",
+      "desc": "<color=#AF4900>Zu Beginn jeder Runde erhält die am weitesten links stehende normale Pflanze jeder Reihe einen Schadensbonus in Höhe von 0.1% der maximalen LP der rechten äußeren normalen Pflanze. Diese erhält zusätzliche maximale LP in Höhe von 1000% des Schadens der linken äußeren normalen Pflanze"
+    },
+    "1007": {
+      "name": "",
+      "desc": "<color=#AF4900>Zu Beginn jeder Runde erhalten deine Truppen 25% kritische Trefferchance und 30% weniger maximale LP"
+    },
+    "1008": {
+      "name": "",
+      "desc": "<color=#AF4900>Deine Truppen erhalten 10% kritische Trefferchance. Zu Beginn jeder Runde erhöht sie sich um 1%"
+    },
+    "1009": {
+      "name": "",
+      "desc": "<color=#AF4900>Deine Truppen erhalten 10% Angriffsschadensbonus. Hast du zu Rundenbeginn mindestens 200 Pflanzen, erhalten alle Pflanzen zusätzlich 50% Angriffsschadensbonus"
+    },
+    "1010": {
+      "name": "",
+      "desc": "<color=#AF4900>Du erhältst sofort und zu Beginn jeder Runde 1.5k Punkte und einen zusätzlichen Neuwurf"
+    },
+    "1011": {
+      "name": "",
+      "desc": "<color=#AF4900>Zu Beginn jeder Runde wird eine zufällige Nicht-Odyssee-Pflanze auf Rang 2 angehoben"
+    },
+    "1012": {
+      "name": "",
+      "desc": "<color=#AF4900>Bei jeder Fusion erhältst du eine Pflanzen-Geschenkbox"
+    },
+    "1013": {
+      "name": "",
+      "desc": "<color=#AF4900>Deine Pflanzen verursachen in den letzten 50% der Runde 40% mehr Schaden"
+    },
+    "2000": {
+      "name": "",
+      "desc": "<color=#007FFF>Deine Truppen erhalten 25% kritische Trefferchance. Außerdem wird erlittener Schaden mit einer Wahrscheinlichkeit in Höhe von 30% ihrer kritischen Trefferchance auf 1 verringert"
+    },
+    "2001": {
+      "name": "",
+      "desc": "<color=#007FFF>Deine Truppen erhalten 25% Schadensverringerung und kritische Trefferchance in Höhe ihrer Schadensverringerung"
+    },
+    "2002": {
+      "name": "",
+      "desc": "<color=#007FFF>Zu Beginn jeder Runde erhält jede Pflanze mit 50% Wahrscheinlichkeit 100% Angriffsschadensbonus"
+    },
+    "2003": {
+      "name": "",
+      "desc": "<color=#007FFF>Jeder besiegte Miniboss gibt deinen Truppen dauerhaft 8% Angriffsschadensbonus"
+    },
+    "2004": {
+      "name": "",
+      "desc": "<color=#007FFF>Zu Beginn jeder Runde wird eine zufällige Nicht-Odyssee-Pflanze auf Rang 3 angehoben"
+    },
+    "2005": {
+      "name": "",
+      "desc": "<color=#007FFF>Erhöht die kritische Trefferchance deiner Truppen um 30%. Liegt sie über 100%, steigt der kritische Schaden um 40%"
+    },
+    "2006": {
+      "name": "",
+      "desc": "<color=#007FFF>Eine äußerst seltene Endflamme voller Punkte erscheint. Du erhältst 20k Punkte"
+    },
+    "2007": {
+      "name": "",
+      "desc": "<color=#007FFF>Du erhältst sofort 5k Punkte. Ab jetzt erhältst du 3k Punkte, wenn du ohne einen Ladenkauf in die nächste Runde gehst"
+    },
+    "2008": {
+      "name": "",
+      "desc": "<color=#007FFF>Mit 45% Wahrscheinlichkeit erhältst du beim Neuwürfeln einen zusätzlichen Neuwurf"
+    },
+    "2009": {
+      "name": "",
+      "desc": "<color=#007FFF>Zu Beginn jeder Runde erhältst du 2k Punkte"
+    },
+    "2010": {
+      "name": "",
+      "desc": "<color=#007FFF>Zu Beginn jeder Runde erhältst du einen Sternen-Imitater. Auf einer Pflanze mit Sternenform eingesetzt, verwandelt er sie in ihre Sternenvariante"
+    },
+    "2011": {
+      "name": "",
+      "desc": "<color=#007FFF>Du erhältst bei jedem Neuwurf im Laden oder bei der Zombiemodifikatorwahl 500 Punkte"
+    },
+    "2012": {
+      "name": "",
+      "desc": "<color=#007FFF>Verbraucht alle deine aktuellen Punkte. Deine Pflanzen erhalten für je 1k verbrauchte Punkte 1% kritische Trefferchance"
+    },
+    "2013": {
+      "name": "",
+      "desc": "<color=#007FFF>Nur in dieser Runde erhältst du 10k Punkte und gewinnst die Runde, falls ein Zombie dein Haus betritt"
+    }
+  }
+}
