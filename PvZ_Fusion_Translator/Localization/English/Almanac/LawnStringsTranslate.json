@@ -2699,7 +2699,7 @@
             "seedType": 1178,
             "name": "Boomwood",
             "introduce": "<align=left><size=36><color=black>Boomwood's Afro bounces rhythmically, as if dancing to a beat only it can hear. Some say his groove inspires his fiery creations, while others just appreciate the spectacle — both the style and the explosions leave a lasting impact.</color>",
-            "info": "<size=36>Once Boomwood ignites enough projeciles, it summons a heat seaking explosive drone!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates a homing cherry drone for every 30 peas that pass through.\n<color=black>•</color> Converts any explosive cherry that passes through into a cherry drone.\n<color=black>•</color> There can be up to 3 cherry drones at once.\n<color=black>•</color> Upon death, it triggers a Cherry Bomb explosion.</color>",
+            "info": "<size=36>Once Boomwood ignites enough projeciles, it summons a heat-seeking explosive drone!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates a homing cherry drone for every 30 peas that pass through.\n<color=black>•</color> Converts any explosive cherry that passes through into a cherry drone.\n<color=black>•</color> There can be up to 3 cherry drones at once.\n<color=black>•</color> Upon death, it triggers a Cherry Bomb explosion.</color>",
             "cost": "\n<size=36>Fusion Recipe: <color=#8B0000>Torchwood + Cherry Bomb</color>"
         },
         {
