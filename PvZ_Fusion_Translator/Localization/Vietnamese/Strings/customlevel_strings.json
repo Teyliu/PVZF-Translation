@@ -1,0 +1,12 @@
+{
+  "<size=22>受事件机制影响，该关卡无法在第10列种植植物": "<size=22>Do ảnh hưởng của cơ chế sự kiện, màn chơi này không thể trồng cây tại cột 10",
+  "<size=18>......你是自己融合了一个地刺花盆吗，你要知道地刺花盆是不会参与面积计算的\n而且，到了特定波次<color=red>所有地刺花盆</color>上的植物都会进行面积判定，所以我觉得你最好还是把它铲了.......": "<size=18>......Bạn tự tay ghép thêm một Chậu Gai đấy à? Bạn nên biết rằng Chậu Gai không tham gia vào việc tính toán diện tích đâu\nHơn nữa, đến các đợt chỉ định thì cây trên <color=red>tất cả Chậu Gai</color> đều sẽ bị phán định diện tích, nên tôi nghĩ tốt nhất là bạn nên xẻng nó đi.......",
+  "<size=20>受事件影响，此关卡禁用玩偶南瓜": "<size=20>Do ảnh hưởng của sự kiện, màn chơi này cấm sử dụng Bí Ngô Hề",
+  "<size=18><size=18>......如果你没听懂的话，这个关卡融合地刺花盆是没有任何好处的\n它不仅没有攻击力还会给你多添加一个面积负担......懂了吗": "<size=18><size=18>......Nếu bạn vẫn chưa hiểu, thì việc ghép Chậu Gai trong màn này chẳng đem lại lợi ích gì cả\nNó không chỉ không có lực tấn công mà còn tạo thêm gánh nặng diện tích cho bạn nữa......Hiểu chưa nào?",
+  "<size=18>lol那就随你了，我到底为什么要浪费时间给地刺花盆写这么多提示": "<size=18>lol Thôi tùy bạn vậy, rốt cuộc tại sao tôi lại phải tốn thời gian viết nhiều gợi ý cho cái Chậu Gai này thế không biết",
+  "<size=20>进行面积判定时可能会略有卡顿，请稍作等候": "<size=20>Khi tiến hành phán định diện tích có thể sẽ hơi giật lag một chút, vui lòng chờ trong giây lát",
+  "<size=18>tip：小丑爆炸不会伤害到地刺花盆，保护好你自己种植的植物即可\n另外，地刺花盆<color=red>不会</color>参与面积计算，所有空格子的面积均视为0": "<size=18>Mẹo: Vụ nổ Chú Hề sẽ không gây sát thương lên Chậu Gai, bạn chỉ cần bảo vệ tốt cây trồng của mình là được\nNgoài ra, Chậu Gai <color=red>không</color> tham gia vào việc tính diện tích, diện tích của tất cả các ô trống đều được tính là 0",
+  "<size=18>tip：你可以使用南瓜或者花盆这类可叠种的植物来灵活调整面积": "<size=18>Mẹo: Bạn có thể sử dụng các cây trồng có thể xếp chồng như Bí Ngô hoặc Chậu Cây để linh hoạt điều chỉnh diện tích",
+  "<size=18>如果在第5波前没有进行任何右键操作，游戏将开启<color=#79FF79>兼容模式</color>\n兼容模式启用后，你将可以通过种植植物卡片来测量特定格子的面积": "<size=18>Nếu trước đợt 5 bạn không thực hiện thao tác nhấp chuột phải nào, trò chơi sẽ bật <color=#79FF79>Chế độ tương thích</color>\nSau khi bật Chế độ tương thích, bạn có thể đo diện tích của ô cụ thể bằng cách trồng thẻ bài thực vật",
+  "<size=18><color=#79FF79>兼容模式已开启</color>\n你可以通过种植<color=#CF9E9E>多功能南瓜</color>来查看植物面积": "<size=18><color=#79FF79>Đã bật Chế độ tương thích</color>\nBạn có thể kiểm tra diện tích cây trồng bằng cách trồng <color=#CF9E9E>Bí Ngô Đa Năng</color>"
+}
