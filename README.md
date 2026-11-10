@@ -41,8 +41,9 @@ The download links for the Multi-language Mod and the translation files of the M
 
 The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
+	Up-to-date 4.1 - Vietnamese
 	Up-to-date 3.8.1 - English, Korean
-	Last Updated 3.7 - Indonesian, Vietnamese
+	Last Updated 3.7 - Indonesian
 	Last Updated 3.6.1 - Spanish
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
@@ -113,7 +114,7 @@ German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu, lucazz, Mauricio, Vict | Hairy Nugget, Moonlight, Arooming
 Portuguese | EduardoSA8006 | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
-Vietnamese | Shion, Cryda, JustNull | 
+Vietnamese | Shion, Cryda, JustNull, HMSFLASH | 
 Indonesian | Probkn, Ilham Gimank | 由羅 (Yura), Xelag, Seroja, Star Apple
 Russian | No active translator | Nekosha, LancerX0 (Coder), Kammerer
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
