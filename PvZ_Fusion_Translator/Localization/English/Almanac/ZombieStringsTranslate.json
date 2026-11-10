@@ -124,7 +124,7 @@
             "theZombieType": 20,
             "name": "Trident Zombie",
             "introduce": "<align=left><size=36><color=black>Trident Zombie was originally just a regular javelin thrower who became a fisherman after retiring. However, when he went to the river to fish, he sank because he couldn't swim. When he came ashore, he realized he had become what he is now.</color>",
-            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>4 Tiles in Front</color>"
+            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident that applies drenched, causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3 Tiles in Front</color>"
         },
         {
             "theZombieType": 21,
@@ -262,7 +262,7 @@
             "theZombieType": 43,
             "name": "Armored Gargantuar",
             "introduce": "<align=left><size=36><color=black>The Armored Gargantuar is a big fan of a skin called 'Cavalier' from his favorite game. So, he spent a fortune custom-ordering a set of medieval armor tailored just for him. However, when he tried to take it off, he found it was stuck for good... And that's how he ended up with a permanent 'Cadavelier' skin.</color>",
-            "info": "<size=36>Spawns Imps every time he smashes with his mace!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss & giant zombie. Moves at half the speed of regular Gargantuars.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized, devoured and knocked back, other status effects only last half as long.\n<color=black>•</color> Throws a Mecha-nut ball when its Toughness is at half, spawning 5 Imps when it breaks.\n<color=black>•</color> Spawns 1-3 Imps every time he slams the ground with his mace.\n<color=black>•</color> Always appears in the last wave of stages that has 4 Flags or higher on Difficulty 5 in the first playthrough.</color>"
+            "info": "<size=36>Spawns Imps every time he smashes with his mace!\n\n<color=black>Toughness: </color><color=#4B0082>8000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss & giant zombie. Moves at half the speed of regular Gargantuars.\n<color=black>•</color> Takes a maximum of 5000 damage per hit before damage reduction calculations.\n<color=black>•</color> Immune to being hypnotized, devoured and knocked back, other status effects only last half as long.\n<color=black>•</color> Throws a Mecha-nut ball when its Toughness is at half, spawning 5 Imps when it breaks.\n<color=black>•</color> Deals 3600 damage against zombies that're on opposite teams.\n<color=black>•</color> Spawns 1-3 Imps every time he slams the ground with his mace.\n<color=black>•</color> Always appears in the last wave of stages that has 4 Flags or higher on Difficulty 5 in the first playthrough.</color>"
         },
         {
             "theZombieType": 44,
@@ -460,7 +460,7 @@
             "theZombieType": 76,
             "name": "Trident Gargantuar",
             "introduce": "<align=left><size=36><color=black>Zombies with higher body fat float more easily, but the Trident Gargantuar Zombie, convinced he is a descendant of the legendary Pozeidon, claims in his case it is divine favor. That said, with his size, walking straight along the bottom of the water would not be difficult either…</color>",
-            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Immune to Drowning.\n<color=black>•</color> Throws 4 Tridents upon reaching half health, each causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
+            "info": "<size=36>An aquatic Gargantuar zombie that throws tridents instead of Imp zombies.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. Immune to Drowning.\n<color=black>•</color> Throws 4 Tridents upon reaching half health, each applying drenched and causing damage to plants equal to 20% (minimum of 60) of their current HP. Smashing deals 500 Damage to anti-crush plants, 50 Damage to Spike Rocks and 1800 Damage to hypnotized zombies each slam.</color>"
         },
         {
             "theZombieType": 77,
@@ -556,7 +556,7 @@
             "theZombieType": 92,
             "name": "Lost Automaton",
             "introduce": "<align=left><size=36><color=black>\"Beep beep... boop... beep beep.\" The lost machines of an ancient civilization still patrol this land, guarding the slumber of a long-forgotten age. Look, here they come.</color>",
-            "info": "<size=36>An automaton designed to explore during blizzards.\n\n<color=black>Toughness: </color>500\n<color=black>Damage: </color><color=#4B0082>50 (Non-bite)</color>\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082> Immune to Chill. When affected by a Blizzard effect, fully restores its HP and gains a block of ice with 370 HP, or upgrades the existing ice into Packed Ice with 1100 HP. Both Ice and Packed Ice are Type I armor.</color>"
+            "info": "<size=36>An automaton designed to explore during blizzards.\n\n<color=black>Toughness: </color>500\n<color=black>Damage: </color><color=#4B0082>50 (Non-bite)</color>\n<color=black>Movement Speed: </color>Slow\n<color=black>Traits: </color><color=#4B0082> Immune to Chill. Has Ice & Packed Ice variant. When affected by a Blizzard effect, fully restores its HP and gains a block of ice with 370 HP, or upgrades the existing ice into Packed Ice with 1100 HP. Both Ice and Packed Ice are Type I armor.</color>"
         },
         {
             "theZombieType": 93,
@@ -592,7 +592,7 @@
             "theZombieType": 98,
             "name": "Snowbeak (Hostile)",
             "introduce": "<align=left><size=36><color=black>Snowbeaks were once thought to be extinct, until a population was discovered living in the tundra. The discovery baffled researchers, who had no idea how the dodo's descendants had survived in such an inhospitable environment. It was eventually found that this unusual branch of dodo bird had somehow evolved the ability to photosynthesise, using its tail to absorb and store sunlight. Professor Cherryz was particularly fascinated by the discovery, though he still hasn't quite gotten over being fooled by their supposed extinction.</color>",
-            "info": "<size=36>An ancient tundra creature known only from old records, enraged because it was attacked by the plants first.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Drops 50 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by a plant projectile, switches to the enemy side and stops wandering.</color>"
+            "info": "<size=36>An ancient tundra creature known only from old records, enraged because it was attacked by the plants first.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>200 (Non-bite)</color>\n<color=black>Movement Speed: </color>Medium Fast\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Drops 50 Sun upon death or leaving the field.\n<color=black>•</color> Initially wanders between Columns 6 and 10. After being hit by a plant projectile or shoveled, switches to the enemy side and stops wandering.</color>"
         },
         {
             "theZombieType": 99,
@@ -820,7 +820,7 @@
             "theZombieType": 202,
             "name": "Giga Trident-nut Zombie",
             "introduce": "<align=left><size=36><color=black>Giga Trident-nut Zombie is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen. \"In fact, I used to be a part-time javelin thrower...\" Giga Trident-nut Zombie admitted.</color>",
-            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents at one target, each causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Additionally throws tridents at the nearest plants 3 and 5 tiles ahead | Pozeidon throws 3 giant tridents\n2. Now targets random plants outside of minimum range</color>"
+            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents at one target, each applying drenched and causing damage to plants equal to 20% (minimum of 60) of their current HP.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Additionally throws tridents at the nearest plants 3 and 5 tiles ahead | Pozeidon throws 3 giant tridents\n2. Now targets plants in range that're the closest, has the highest health, & the lowest health. In that order.</color>"
         },
         {
             "theZombieType": 203,
