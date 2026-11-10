@@ -124,7 +124,7 @@
             "theZombieType": 20,
             "name": "三叉戟僵尸",
             "introduce": "<color=#3D1400>三叉戟僵尸原本只是个普通的标枪运动员，退役后成为渔民，但他试图下河捕鱼后发现自己并不会游泳，就这么沉入了河底，再次上岸后就发现自己变成现在这个样子了。\n</color>",
-            "info": "扔出三叉戟进行远程攻击。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>投射范围：</color><color=red>前方4列外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，投射三叉戟，造成植物当前血量20%的伤害，最低60</color>"
+            "info": "扔出三叉戟进行远程攻击。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>投射范围：</color><color=red>前方3列外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，投射三叉戟，施加潮湿状态，造成植物当前血量20%的伤害，最低60</color>"
         },
         {
             "theZombieType": 21,
@@ -141,7 +141,7 @@
         {
             "theZombieType": 23,
             "name": "白银套娃僵尸",
-            "introduce": "<color=#3D1400>白银套娃僵尸觉得自己头上套着的盒子是个锅，那他头上套着的盒子就是个锅，这个僵尸都这样了，那你为什么不去理解他的想法呢？你也知道他的盒子上面有一个感叹号吧？\n</color>",
+            "introduce": "<color=#3D1400>其实并没有多少人好奇白银盲盒下是什么东西，因为一共就给这几种僵尸分发这种帽子。\n</color>",
             "info": "白银制成的套娃，里面有什么呢？\n\n<color=#3D1400>韧性：</color><color=red>2000+720（一类）</color>\n<color=#3D1400>特点：</color><color=red>防具损坏时退场，生成路障僵尸</color>"
         },
         {
@@ -262,7 +262,7 @@
             "theZombieType": 43,
             "name": "武装巨人僵尸",
             "introduce": "<color=#3D1400>武装巨人僵尸非常喜欢他最经常玩的游戏内一款名为“骑士”的皮肤，所以他斥巨资为自己量身订购了一款中世纪铠甲，不过当他想脱下来这铠甲时就脱不下来了......然后他就获得了骑“尸”的永久皮肤。\n</color>",
-            "info": "冒险尽头的巨人。\n\n<color=#3D1400>韧性：</color><color=red>8000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>极慢</color>\n<color=#3D1400>特性：</color><color=red>BOSS，巨型</color>\n<color=#3D1400>特点：</color><color=red>免疫击退，受到控制时间减半。本体半血时扔出机械保龄球僵尸。锤击时召唤1~3个小鬼僵尸。未通关[冒险模式 第45关]时，固定在难度5的四旗及以上关卡的最后一波出场</color>"
+            "info": "冒险尽头的巨人。\n\n<color=#3D1400>韧性：</color><color=red>8000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>极慢</color>\n<color=#3D1400>特性：</color><color=red>BOSS，巨型</color>\n<color=#3D1400>特点：</color><color=red>免疫击退，受到控制时间减半。本体半血时扔出机械保龄球僵尸。锤击对僵尸伤害3600。锤击时召唤1~3个小鬼僵尸。未通关[冒险模式 第45关]时，固定在难度5的四旗及以上关卡的最后一波出场</color>"
         },
         {
             "theZombieType": 44,
@@ -328,7 +328,7 @@
             "theZombieType": 54,
             "name": "木桩僵尸",
             "introduce": "<color=#3D1400>\n</color>",
-            "info": "用于测试伤害的木桩。\n\n<color=#3D1400>韧性：</color><color=red>10000</color>\n<color=#3D1400>特点：</color><color=red>免疫伤害和灰烬斩杀。会显示最后一次受到的伤害、10秒内平均每秒受到的伤害和受到的总伤害</color>"
+            "info": "用于测试伤害的木桩。\n\n<color=#3D1400>韧性：</color><color=red>10000</color>\n<color=#3D1400>特点：</color><color=red>免疫传送、伤害和灰烬斩杀。会显示最后一次受到的伤害、10秒内平均每秒受到的伤害和受到的总伤害</color>"
         },
         {
             "theZombieType": 55,
@@ -460,7 +460,7 @@
             "theZombieType": 76,
             "name": "三叉戟巨人僵尸",
             "introduce": "<color=#3D1400>体脂率高的僵尸更容易浮在水上，但坚信自己是海神后裔的三叉戟巨人僵尸宣称这是海神的眷顾。不过，以他的体型，直接踏着水底行走似乎也不是什么难事……\n</color>",
-            "info": "水栖的巨人僵尸，投出的是三叉戟，而非小鬼僵尸。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特性：</color><color=red>巨型</color>\n<color=#3D1400>特点：</color><color=red>血量低于50%时，以固定角度投射4发三叉戟。三叉戟造成植物当前血量20%的伤害，最低60</color>"
+            "info": "水栖的巨人僵尸，投出的是三叉戟，而非小鬼僵尸。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特性：</color><color=red>巨型</color>\n<color=#3D1400>特点：</color><color=red>血量低于50%时，以固定角度投射4发三叉戟。三叉戟施加潮湿状态，造成植物当前血量20%的伤害，最低60</color>"
         },
         {
             "theZombieType": 77,
@@ -556,7 +556,7 @@
             "theZombieType": 92,
             "name": "失落机关",
             "introduce": "<color=#3D1400>“滴滴……哔……滴滴”，失落的科技造物仍然巡逻在这片土地，守卫着文明的安眠。你看，他们来了。\n</color>",
-            "info": "一种古老的自律机关，适于在暴风雪中探索。\r\n\r\n<color=#3D1400>韧性：</color><color=red>500</color>\r\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\r\n<color=#3D1400>移速：</color><color=red>慢</color>\r\n<color=#3D1400>特点：</color><color=red>防寒等级1。受到暴风雪效果时回满血量，并获得韧性370的冰块或将冰块强化为韧性1100的蓝冰。冰块和蓝冰均为一类防具</color>"
+            "info": "一种古老的自律机关，适于在暴风雪中探索。\n\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。有冰块、蓝冰的变种。受到暴风雪效果时回满血量，并获得韧性370的冰块或将冰块强化为韧性1100的蓝冰。冰块和蓝冰均为一类防具</color>"
         },
         {
             "theZombieType": 93,
@@ -592,7 +592,7 @@
             "theZombieType": 98,
             "name": "愤怒的雪行鸟",
             "introduce": "<color=#3D1400>雪行鸟是一种非常狡猾的生物，它们出了名地喜欢捉弄它们见到的生物——比如偷走豌豆子弹、把僵尸困在某处，甚至劫持研究基地的机关设备。它们最恶作剧的一次是伪装成已经灭绝的样子；直到今天，究极Z教授还在为自己竟然被一群鸟给耍了而耿耿于怀。\n</color>",
-            "info": "只于笔记中记载的古老雪原生物，因受植物攻击而愤怒。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>200（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>死亡时掉落50阳光</color>\n<color=#3D1400>激怒：</color><color=red>初始在第6至10列徘徊。被植物方子弹命中后，转变为敌方并不再徘徊</color>"
+            "info": "只于笔记中记载的古老雪原生物，因受植物攻击而愤怒。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>200（非啃咬）</color>\n<color=#3D1400>移速：</color><color=red>中等偏快</color>\n<color=#3D1400>特点：</color><color=red>死亡时掉落50阳光</color>\n<color=#3D1400>激怒：</color><color=red>初始在第6至10列徘徊。被植物方子弹命中或被铲除后，转变为敌方并不再徘徊</color>"
         },
         {
             "theZombieType": 99,
@@ -820,7 +820,7 @@
             "theZombieType": 202,
             "name": "超级三叉戟僵尸",
             "introduce": "<color=#3D1400>超级三叉戟僵尸是名渔夫，他抛出的四支三叉戟精准无比，因此成为了渔王。“其实我之前还兼职过标枪运动员来着……”超级三叉戟僵尸如是说到。\n</color>",
-            "info": "一轮投射出四发三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>720+7500（一类）</color>\n<color=#3D1400>投射范围：</color><color=red>前方4列外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，连续对一个目标投射4发三叉戟，每发造成植物当前血量20%的伤害，最小伤害60</color>\n<color=#3D1400>词条1：</color><color=red>饱和投射：额外向前方3、5列外最近的植物投射三叉戟，渊海三叉戟扔出巨型三叉戟×3</color>\n<color=#3D1400>词条2：</color><color=red>轨迹多端：投射的三叉戟随机命中4列外的目标</color>"
+            "info": "一轮投射出四发三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>720+7500（一类）</color>\n<color=#3D1400>投射范围：</color><color=red>前方3列外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，连续投射4发三叉戟，每发施加潮湿状态，造成植物当前血量20%的伤害，最小伤害60</color>\n<color=#3D1400>词条1：</color><color=red>饱和投射：额外向前方3、5列外最近的植物投射三叉戟，究极渊海三叉戟扔出巨型三叉戟×3</color>\n<color=#3D1400>词条2：</color><color=red>轨迹多端：依次投射范围内最近、血量最高、血量最低的植物</color>"
         },
         {
             "theZombieType": 203,
@@ -916,7 +916,7 @@
             "theZombieType": 218,
             "name": "究极渊海三叉戟",
             "introduce": "<color=#3D1400>它来自渊海，启于神话世代，所跨越的时间不可胜计；它是永恒的，不灭的，即使击毁它，也是暂时的胜利，它永远追随浪潮——这些都是说三叉戟，而不是它那一次性的发射架子。\n</color>",
-            "info": "溺水者之王的到来，意味着源源不绝的三叉戟投来。\n\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特性：</color><color=red>领袖</color>\n<color=#3D1400>特点：</color><color=red>在场时，三叉戟伤害x5，三叉戟橄榄类僵尸不消耗武器。拥有1列超级三叉戟僵尸作为随从，每行动1.5秒将其数量补齐。会掷出巨型三叉戟，对穿过的植物造成100万伤害，落地30秒后自毁并释放造成物理伤害的玩偶匣爆炸</color>"
+            "info": "溺水者之王降临后，连绵不绝的三叉戟雨将压制后场。\n\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特性：</color><color=red>领袖</color>\n<color=#3D1400>特点：</color><color=red>免疫击退。啃咬会追加三叉戟的伤害和效果。渊海之威不可撼动，因此手持巨型三叉戟时，无法被僵尸手套挪动至第十列以内。本体在场时，三叉戟橄榄类僵尸不消耗武器。本体和巨型三叉戟每有一种在场，就使投射的三叉戟伤害×3、潮湿减速幅度+25%</color>\n<color=#A86A44>巨型三叉戟：</color><color=red>韧性等同于其投掷者。被掷出时，对穿过的植物造成100万伤害。落地后，每10秒生成半径1.5格的涡流，5秒内持续施加潮湿状态并吸引子弹</color>\n<color=#A86A44>随从召唤：</color><color=red>拥有1列超级三叉戟僵尸作为随从，每行动1.5秒将其数量补齐。在旅行生存模式的炼狱或诅咒难度中，每少选取[饱和投射][轨迹多端]中的1个，就额外携带1列随从</color>"
         },
         {
             "theZombieType": 219,
@@ -1048,7 +1048,7 @@
             "theZombieType": 240,
             "name": "堡垒三叉戟巨人",
             "introduce": "<color=#3D1400>当不同谱系的巨人僵尸在战场上相遇，他们会用低沉的咆哮互聊家常，而堡垒三叉戟巨人总能在这时挺直腰杆。他头顶的堡垒如同一块充满荣耀的徽章——那是累计砸扁三百个坚果才能拥有的荣誉证明。\n</color>",
-            "info": "强韧的三叉戟巨人，防御力随着场上巨型僵尸种类增多而提高。\n\n<color=#3D1400>韧性：</color><color=red>18000</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特性：</color><color=red>巨型</color>\n<color=#3D1400>特点：</color><color=red>场上每有1种巨型或领袖僵尸，自身受伤额外降低10%。背篓最多装载7发三叉戟。每次受伤后，若血量低于50%且背篓已满，以固定角度全部投射。背篓未满时，每行动1秒填充1发</color>\n<color=#3D1400>词条1：</color><color=red>应急装填：填充三叉戟的速度×3</color>\n<color=#3D1400>词条2：</color><color=red>海神眷顾：投射三叉戟时回复0.1倍韧性的血量</color>"
+            "info": "强韧的三叉戟巨人，防御力随着场上巨型僵尸种类增多而提高。\n\n<color=#3D1400>韧性：</color><color=red>18000</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特性：</color><color=red>巨型</color>\n<color=#3D1400>特点：</color><color=red>场上每有1种巨型或领袖僵尸，自身受伤额外降低10%。背篓最多装载7发三叉戟。每次受伤后，若背篓已满，以固定角度全部投射。背篓未满时，每行动1秒填充1发</color>\n<color=#3D1400>词条1：</color><color=red>应急装填：填充三叉戟的速度×3</color>\n<color=#3D1400>词条2：</color><color=red>海神眷顾：投射三叉戟时回复0.1倍韧性的血量</color>"
         },
         {
             "theZombieType": 241,
@@ -1168,13 +1168,13 @@
             "theZombieType": 261,
             "name": "<BOSS>舞台巡演车",
             "introduce": "<color=#3D1400>这是世界巡演的终站，这是舞台传奇的绝唱，全世界的歌迷都聚集于此，参加这最后的疯狂。歌舞一遍遍重来，谁都不愿意就此结束，舞台的烟雾腾起，只为遮挡住不舍的目光。\n</color>",
-            "info": "在完美无瑕的舞台上，献上永不谢幕的巡演。\n\n<color=#3D1400>韧性：</color><color=red>90000</color>\n<color=#3D1400>特点：</color><color=red>免疫寒冷、冻结、定身、红温、蒜毒、扎胎。免疫寒冷状态或剧毒效果、红温状态时，受到0.01%、0.04%血量的伤害。秒杀植物和魅惑僵尸，对地刺则持续造成伤害。在地图右半场来回移动。每5秒换行一次。每约10秒，召唤4个舞王指挥官和4个白色撑杆舞王</color>"
+            "info": "在完美无瑕的舞台上，献上永不谢幕的巡演。\n\n<color=#3D1400>韧性：</color><color=red>90000</color>\n<color=#3D1400>特点：</color><color=red>免疫冻结、定身、扎胎。以受到0.01%血量的伤害为代价，免疫寒冷、蒜毒、红温状态，其中免疫红温时受到的伤害×4。秒杀植物和魅惑僵尸，对地刺则持续造成伤害。在地图右半场来回移动。每5秒换行一次。每约10秒，召唤4个舞王指挥官和4个白色撑杆舞王</color>"
         },
         {
             "theZombieType": 262,
             "name": "冰封三叉戟僵尸",
             "introduce": "<color=#3D1400>冰封三叉戟僵尸是生活在北极圈最著名的渔夫。他的鱼叉用来捕捉冰层下最新鲜的活鱼，高坚果脑袋用来敲开保存了几十年的冻鱼。\n</color>",
-            "info": "投射雪叉冰封猎物，再以刺击逐一宰割。\n\n<color=#3D1400>韧性：</color><color=red>3000+6000（一类）</color>\n<color=#3D1400>伤害：</color><color=red>200</color>\n<color=#3D1400>移速：</color><color=red>中等</color>\n<color=#3D1400>投射对象：</color><color=red>前方4列外随机植物</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。出场6~9秒或被植物阻挡后，投射3发雪叉，每发命中植物后造成[20%植物血量，最低60]伤害并施加冰封。之后近程攻击，对前方两格的植物施加1秒冻结和10冰封值。累积100冰封值后植物会被冰封</color>"
+            "info": "投射雪叉冰封猎物，再以刺击逐一宰割。\n\n<color=#3D1400>韧性：</color><color=red>3000+6000（一类）</color>\n<color=#3D1400>伤害：</color><color=red>200</color>\n<color=#3D1400>移速：</color><color=red>中等</color>\n<color=#3D1400>投射对象：</color><color=red>前方3列外最近植物</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1。出场6~9秒或被植物阻挡后，投射3发雪叉，每发命中植物后造成[20%植物血量，最低60]伤害并施加冰封。之后近程攻击，对前方两格的植物施加1秒冻结和10冰封值。累积100冰封值后植物会被冰封</color>"
         },
         {
             "theZombieType": 300,
@@ -1336,7 +1336,7 @@
             "theZombieType": 326,
             "name": "惊魂玩偶匣跳跳王",
             "introduce": "<color=#3D1400>在花费了许多时间后，他终于从失恋的痛苦中走出。现在这家伙打扮得花枝招展，正准备向新的女神献爱。可怜的家伙，他的新目标是究极玩偶匣皇后，希望他的承受能力比过去强。\n</color>",
-            "info": "改良了弹射装置，跳杆的爆炸硝烟是他替身乔装的遮幕。\n\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。拥有玩偶匣跳跳王的特点。其蓄力间隔降至0.5秒，且持有弹跳杆死亡时会额外复活</color>"
+            "info": "改良了弹射装置，跳杆的爆炸硝烟是他替身乔装的遮幕。\n\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。拥有玩偶匣跳跳王的特点。其蓄力间隔降至0.5秒，且持有弹跳杆死亡时会额外复活（最多3次）</color>"
         },
         {
             "theZombieType": 327,
@@ -1409,6 +1409,24 @@
             "name": "黑橄榄重装战象",
             "introduce": "<color=#3D1400>黑橄榄重装战象愤怒地嘶吼，四脚猛跺着地面，大地颤动。逃出研究所多年，它不仅早已入选黑橄榄部队，甚至还成长为优秀的战象、披上了特制重甲，可当初混乱中扎的那根仙人掌刺至今还在它的脚上。\n</color>",
             "info": "在猛攻中推兵入阵，再造成威力巨大的震击。\n\n<color=#3D1400>韧性：</color><color=red>72000</color>\n<color=#3D1400>伤害：</color><color=red>7200</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特性：</color><color=red>巨型</color>\n<color=#3D1400>特点：</color><color=red>三级僵尸。免疫击退、魅惑。每第5次攻击造成碾压，向前推动脚前一定距离的非boss僵尸0.74格，并在前方造成半径1.5格范围伤害</color>"
+        },
+        {
+            "theZombieType": 339,
+            "name": "<BOSS>渊海三叉戟",
+            "introduce": "<color=#3D1400>经历了漫长的磨炼后，究极三叉戟僵尸终于得到了渊海三叉戟的认可，完成了从被驱使的工具到风暴驾驭者的蜕变，摒弃了啃食与破坏的低级本能。此时此刻，他与三叉戟皆代表着古老渊海的意志，在绝对的雷光面前，无论何等激烈的挣扎，也不过是永恒浪潮中一朵短暂的浪花。\n</color>",
+            "info": "于风暴中降临，三叉戟的怒涛将使一切沉沦。\n\n<color=#3D1400>韧性：</color><color=red>90000</color>\n<color=#3D1400>特点：</color><color=red>免疫冻结、定身、击退。在引雷和驱雷两种行动间循环切换</color>\n<color=#A86A44>引雷：</color><color=red>随机向植物投掷巨型三叉戟，随后持续召唤共两列深海三叉戟骁将，9秒后回收巨戟并获得雷电之力</color>\n<color=#A86A44>驱雷：</color><color=red>50%概率将雷电导向随机一株植物，造成120伤害12次；否则导入自身，化为球状闪电横贯战场，秒杀沿途植物</color>"
+        },
+        {
+            "theZombieType": 134,
+            "name": "海豚橄榄高坚果僵尸",
+            "introduce": "<color=#3D1400>辛勤的锻炼给了海豚橄榄高坚果僵尸强健的体魄，但也给了他尖尖的头顶。虽然他坚称这是为了减少风阻，但僵尸们一致认为是他从海里爬出来时没进化完全。\n</color>",
+            "info": "在场上来回穿梭造成干扰，状态良好时步伐更加精巧。\n\n<color=#3D1400>啃咬伤害：</color><color=red>100</color>\n<color=#3D1400>韧性：</color><color=red>3000+12000（一类）</color>\n<color=#3D1400>移速：</color><color=red>快</color>\n<color=#3D1400>特点：</color><color=red>免疫定身、击退。在第一列右侧来回移动。接触植物时，施加潮湿状态。一类防具血量高于2/3时，无视植物移动</color>"
+        },
+        {
+            "theZombieType": 135,
+            "name": "樱桃战神僵尸",
+            "introduce": "<color=#3D1400>在被究极樱桃战神阻碍许久之后，僵尸们终于决定培养属于僵尸的战神。虽然这场实验最终的产物并不完全可控，但已经足够成功了，毕竟他真的什么都吃...哦天啊，谁把他放出来了？！\n</color>",
+            "info": "会在撕咬中不断强健体魄。\n\n<color=#3D1400>啃咬伤害：</color><color=red>50</color>\n<color=#3D1400>撕咬伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>2200</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>免疫击退。攻击时每1.5秒对前方1.5格造成撕咬，回复[10倍啃咬伤害]的血量并吐出爆炸樱桃。前132次撕咬，额外回复[1倍啃咬伤害]的韧性</color>"
         }
     ]
 }
