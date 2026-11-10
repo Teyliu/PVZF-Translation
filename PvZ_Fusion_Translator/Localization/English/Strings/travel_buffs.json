@@ -1784,8 +1784,6 @@
             "name": "Whims of Fate",
             "desc": "Randomly gain -27 to +33 points of Luck with every Modifier draw"
         }
-
-
     },
     "unlocks": {
         "0": {
