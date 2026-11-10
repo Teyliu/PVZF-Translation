@@ -192,6 +192,14 @@
             "name": "Large Ender Chest",
             "desc": "Ender Pumpkin Chest: The stack limit for each individual slot is now doubled for all Pumpkin Chests."
         },
+        "48": {
+            "name": "Smasher",
+            "desc": "Gravi-nut: Attack range and splash range increased to full-lane"
+        },
+        "49": {
+            "name": "Capacity",
+            "desc": "Projectile capacity increased to 30"
+        },
         "1000": {
             "name": "Quick Hands",
             "desc": "Gloves' cooldown is reduced by 10s (No CD for the plant Glove), and can now move Mini-bosses"
@@ -283,6 +291,10 @@
         "1022": {
             "name": "Coldsnap Insight II",
             "desc": "Upgrade SP Cryomancer Pea to Level 2"
+        },
+        "1023": {
+            "name": "Investing",
+            "desc": "You gain [120% - (current round number) x 10%] more points"
         },
         "2000": {
             "name": "Doomsday",
@@ -686,7 +698,15 @@
         },
         "12027": {
             "name": "Ascend: Sorrow",
-            "desc": "Melancholy Commando now always unleashes its Ultimate, but with half the projectiles"
+            "desc": "Melancholy Commando always unleashes its Ultimate but with half the projectiles"
+        },
+        "12028": {
+            "name": "Ascend: Focus Fire",
+            "desc": "Massively reduced spread but with full-lane range for both attack modes, Dragon attack cost 2 less energy"
+        },
+        "12029": {
+            "name": "Supreme Fire",
+            "desc": "Dragon attack has a fixed projectile count of 9. Its range is slightly reduced but with 14x damage."
         },
         "12030": {
             "name": "World of Ice",
@@ -910,7 +930,7 @@
         },
         "13052": {
             "name": "Vanguard - B",
-            "desc": "Immediately gain Anti-crush and Blast Protection. All plants gain 25000 shield."
+            "desc": "Immediately gain the Anti-crush and [Blast Protection] modifiers. All plants gain 25000 shield."
         },
         "13053": {
             "name": "Vanguard - X",
@@ -1194,11 +1214,11 @@
     "debuffs": {
         "0": {
             "name": "Breakthrough",
-            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken | Professor Cherryz: -1 Spare Newspaper"
+            "desc": "Gatling Cherry Newspaper Zombie: Ability to walk through plants when its newspaper's broken | Professor Cherryz: +1 Spare Newspaper if not selected"
         },
         "1": {
             "name": "Absolute Immunity",
-            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects | Professor Cherryz: -1 Spare Newspaper"
+            "desc": "Gatling Cherry Newspaper Zombie: Now immune to all status effects | Professor Cherryz: +1 Spare Newspaper if not selected"
         },
         "2": {
             "name": "Exsanguination",
@@ -1234,11 +1254,11 @@
         },
         "10": {
             "name": "Trident Torrents",
-            "desc": "Giga Trident-nut Zombie & Harpooneer Frost Tall-nut Zombie: Now throws 2 extra tridents/snow harpoons each attack | Pozeidon throws 3 giant tridents"
+            "desc": "Giga Trident-nut Zombie & Harpooneer Frost Tall-nut Zombie: Now throws 2 extra tridents/snow harpoons each attack | Pozeidon: +1 column of Giga Trident-nut spawned if not selected"
         },
         "11": {
             "name": "Scatterthrow",
-            "desc": "Giga Trident-nut Zombie: Now ignores Umbrella-type plants and targets random plants to attack"
+            "desc": "Giga Trident-nut Zombie: Now cycles through targeting the nearest, highest-HP, lowest-HP plants | Pozeidon: +1 column of Giga Trident-nut spawned if not selected"
         },
         "12": {
             "name": "Premium Cast",
@@ -1246,7 +1266,7 @@
         },
         "13": {
             "name": "Phantom Waltz",
-            "desc": "Superstar Zombie: Will now phase through plants when sliding in"
+            "desc": "Superstar Zombie: Now phases through plants when sliding in, up to the 5th leftmost column"
         },
         "14": {
             "name": "Aftershock",
@@ -1606,7 +1626,7 @@
         },
         "10005": {
             "name": "Disgrace Period",
-            "desc": "Plants can only deal 1 damage to zombies in the first 2 seconds after a new wave appears"
+            "desc": "Plants can only deal 1 damage to all zombies in the first 2 seconds after a new wave appears"
         },
         "10006": {
             "name": "Curse of Envy",
@@ -1618,11 +1638,11 @@
         },
         "10008": {
             "name": "Zombie Ensemble",
-            "desc": "Non-mini-boss zombies have a chance to spawn another one of itself when they appear; this chance increases as wave progresses"
+            "desc": "As the current round progresses, non-mini-boss zombies have an increasing chance to spawn again when they appear"
         },
         "10009": {
             "name": "Zombie Sacrifice",
-            "desc": "Non-mini-boss zombies have a chance to disappear immediately upon spawning and grant another zombie 80% of their HP; this chance increases as wave progresses"
+            "desc": "As the current round progresses, non-mini-boss zombies have an increasing chance to disappear upon spawning and grant another zombie 80% of their HP; can overheal"
         },
         "10010": {
             "name": "Hibernation",
@@ -1630,7 +1650,7 @@
         },
         "10011": {
             "name": "Heavy Knockout",
-            "desc": "Plants take 1.5× more time to respawn"
+            "desc": "Plants take 50% more time to respawn"
         },
         "10012": {
             "name": "Cam-brain Explosion",
@@ -1646,11 +1666,11 @@
         },
         "10015": {
             "name": "Jackson Variety Hour",
-            "desc": "As wave progresses, extra special Michael Zombies have increasing chances to appear"
+            "desc": "As the current round progresses, extra dangerous Michael Zombies have an increasing chance to appear each wave"
         },
         "10016": {
             "name": "Coordinated Attack",
-            "desc": "Extra zombies from other routes have a chance to appear each new wave; this chance increases as wave progresses"
+            "desc": "As the current round progresses, extra zombies from other routes have an increasing chance to appear each wave"
         },
         "10017": {
             "name": "Hero's Bane",
@@ -1658,7 +1678,7 @@
         },
         "10018": {
             "name": "Counterstrike",
-            "desc": "When zombies take damage, they spawn a zombie-side curse projectile with damage equal to 10% of the zombie's attack power (at least 20) against the plants; this can trigger at most 10 times every 0.02s"
+            "desc": "When zombies take damage, they spawn a zombie-side curse projectile with damage equal to 50% of the zombie's attack power (at least 100) against the plants; this can trigger at most 10 times every 0.02s"
         },
         "10019": {
             "name": "Lackey Comeback",
@@ -1666,11 +1686,11 @@
         },
         "10020": {
             "name": "Pedantic Crave",
-            "desc": "As wave progresses, extra special Newspaper Zombies have increasing chances to appear"
+            "desc": "As the current round progresses, extra dangerous Newspaper Zombies have an increasing chance to appear"
         },
         "10021": {
             "name": "Extreme Sport",
-            "desc": "As wave progresses, extra special Bungee Zombies have increasing chances to appear"
+            "desc": "As the current round progresses, extra dangerous Bungee Zombies have an increasing chance to appear"
         },
         "10022": {
             "name": "Lucky Loan",
@@ -1682,7 +1702,7 @@
         },
         "10024": {
             "name": "Nitro Rush",
-            "desc": "3 random zombies receive a 100% speed buff each wave after the zombies are spawned"
+            "desc": "3 random zombies receive a 100% speed buff each wave after the zombies are spawned. This buff can stack"
         },
         "10025": {
             "name": "Putrid Odor",
@@ -1690,7 +1710,7 @@
         },
         "10026": {
             "name": "Unholy Grail",
-            "desc": "Non-mini-boss zombies have a chance to respawn as another zombie at the rightmost column of the same lane when they are killed; this chance increases as wave progresses"
+            "desc": "As the current round progresses, non-mini-boss zombies have an increasing chance to respawn as another zombie at the rightmost column of the same lane when they are killed"
         },
         "10027": {
             "name": "True Damage",
@@ -1706,11 +1726,11 @@
         },
         "10030": {
             "name": "Escalating Apocalypse",
-            "desc": "Wave interval is reduced, and each wave has a chance to immediately spawn the same zombies in this wave again; this chance increases as wave progresses"
+            "desc": "Wave interval is reduced. As the current round progresses, each wave has an increasing chance to spawn the same zombies in this wave again"
         },
         "10031": {
             "name": "Desperate Detonation",
-            "desc": "Non-mini-boss zombies under 5% max HP will immediately self-explode when hit"
+            "desc": "Non-mini-boss zombies under 5% max HP will immediately self-explode (jack-in-the-box) when hit"
         },
         "10032": {
             "name": "Horn of Power",
@@ -1742,15 +1762,15 @@
         },
         "10039": {
             "name": "Power in Number",
-            "desc": "When you have 0/1/2/3/4/5/6 or more plants on the field, zombies receive 50%/60%/70%/80%/90%/100%/105% damage respectively"
+            "desc": "For 0/1/2/3/4/5/6 plants on the field, zombies receive 50%/60%/70%/80%/90%/100%/105% damage respectively"
         },
         "10040": {
             "name": "Silver Lining",
-            "desc": "When not on pity system, Modifiers with different quality levels appear in Silver quality only; if you also have Midas Touch, Golden and Diamond quality Modifiers are downgraded to Bronze quality instead"
+            "desc": "When not on the pity system, Modifiers with different quality levels appear as Silver quality only; if you also have Midas Touch, Golden and Diamond quality Modifiers are downgraded to Bronze quality instead"
         },
         "10041": {
             "name": "Eon of Nyan",
-            "desc": "Zombies have a chance to disappear immediately upon spawning and spawn a Nyan Squash Zombie with its HP; this chance increases as wave progresses"
+            "desc": "As the current round progresses, zombies have an increasing chance to disappear immediately upon spawning and spawn a Nyan Squash Zombie with its HP"
         },
         "10042": {
             "name": "Unhealthy Dying",
@@ -1764,8 +1784,6 @@
             "name": "Whims of Fate",
             "desc": "Randomly gain -27 to +33 points of Luck with every Modifier draw"
         }
-
-
     },
     "unlocks": {
         "0": {
