@@ -705,19 +705,19 @@
             "desc": "Massively reduced spread but with full-lane range for both attack modes, Dragon attack cost 2 less energy"
         },
         "12029": {
-            "name": "Supreme Fire",
+            "name": "Ascend: Supreme Fire",
             "desc": "Dragon attack has a fixed projectile count of 9. Its range is slightly reduced but with 14x damage."
         },
         "12030": {
-            "name": "World of Ice",
+            "name": "Ascend: World of Ice",
             "desc": "When a zombie receives 10 direct hits from Maelonstorm, it triggers an ice explosion that deals massive area damage."
         },
         "12031": {
-            "name": "Partnership",
+            "name": "Ascend: Partnership",
             "desc": "If the unit with the highest total damage is a plant, it becomes the \"Partner\". Every time Gatling Icicle-shroom attacks, the Partner releases the same attack from its position if it's currently on the lawn."
         },
         "12032": {
-            "name": "Devourer",
+            "name": "Ascend: Summoner",
             "desc": "After each devour, Cherrizilla summons a column of hypnotized Cherrizilla zombies."
         },
         "13000": {
