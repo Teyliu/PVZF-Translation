@@ -5053,6 +5053,153 @@
             "introduce": "<align=left><size=36><color=black>Habitué du parc d’attractions, le Cactus Boule s’entraîne dur à viser juste pour décrocher le gros lot au mini-jeu de fléchettes. Hélas, vu sa taille, il n’arrive même pas à atteindre le centre de la cible. Il serait bien plus doué pour éclater des ballons...</color>",
             "info": "<size=36>Les projectiles du Cactus Boule rétrécissent les zombies volants !\n\n<color=black>Dégâts : </color><color=#8B0000>30/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Peut attaquer à la fois les zombies terrestres et volants sur toute la ligne. Cible en priorité les zombies volants et les rétrécit.</color>",
             "cost": "<size=36>Formule de Fusion : <color=#8B0000>Cactus > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1489,
+            "name": "Chou Magnétique",
+            "introduce": "<align=left><size=36><color=black>\" Ce magnétisme est insupportable : il n’arrête pas d’envoyer la limaille de fer droit sur le sommet de mon crâne \", se plaint le Chou Magnétique. Et par rapport à ses frères, sa coiffure est bien plus difficile à dompter. Résultat, chaque fois qu’il est invité à une soirée, il est toujours le dernier à arriver.</color>",
+            "info": "<size=36>Le Chou Magnétique peut fusionner avec des objets métalliques pour adopter la forme correspondante selon le type d’objet.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000> Peut fusionner avec le Seau et le Noyau Temporel.\n</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Champi-aimant</color>"
+        },
+        {
+            "seedType": 1490,
+            "name": "Chou Renforcé",
+            "introduce": "<align=left><size=36><color=black>Le Chou Renforcé est fou de célesta. Décidé à goûter cet art jusque sur le champ de bataille, il a spécialement enveloppé les touches dans des choux, pour jouer de sublimes mouvements au rythme des cliquetis du métal. Les zombies assez chanceux pour l’entendre racontent que la mélodie leur traverse le crâne de part en part.</color>",
+            "info": "<size=36>Les choux rebondissent pendant que les casques des zombies résonnent.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>160/3s</color>\n<color=black>Spécial : </color><color=#8B0000> Plante métallique. Son projectile rebondit une fois de plus à chaque fois qu’il touche une armure métallique de Type 1.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Seau > Chou Magnétique</color>"
+        },
+        {
+            "seedType": 1491,
+            "name": "Chou Temporel",
+            "introduce": "<align=left><size=36><color=black>\" Pour comprendre la nature feuilletée de l’espace-temps, dont les couches se chevauchent, il faut d’abord comprendre la structure d’un chou. Les ressemblances sont nombreuses \", explique le Chou Temporel. \" Interstellar ? Vous feriez mieux d’en discuter avec le Lance-portail. Je ne suis pas très fan des trous de ver. \"</color>",
+            "info": "<size=36>Lance des choux à toute vitesse pour appliquer Distorsion temporelle, mais surchauffe brièvement s’il attaque trop vite.\n\n<color=black>Spécial : </color><color=#8B0000> Plante métallique. Ses attaques n’infligent aucun dégât mais appliquent Distorsion temporelle, avec le même effet que le Pois Temporel. Son projectile rebondit une fois de plus s’il applique Distorsion temporelle à 2 zombies. Après 16 attaques, doit se reposer pendant 10 secondes</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Noyau Temporel > Chou Magnétique</color>"
+        },
+        {
+            "seedType": 1492,
+            "name": "Champi-ballon",
+            "introduce": "<align=left><size=36><color=black>Grâce à sa sincère amitié avec le Triple Champi-fumée, le Champi-ballon est tout naturellement devenu le tout premier joueur de <i>Bad Fungi</i>. \" Je suis très satisfait de l’expérience de jeu ! \" a-t-il confié après sa partie. \" Même si je ne comprends toujours pas pourquoi je devais rester suspendu à l’extérieur du cockpit. \"</color>",
+            "info": "<size=36>Émet des fumées pour frapper les ennemis volants tout en laissant tomber une pluie de spores qui parsème le sol.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000> Plante volante. Ses fumées ne touchent que les zombies aériens. Mais chaque attaque laisse aussi tomber 12 spores qui infligent 10 dégâts sur toute sa portée d’attaque, touchant les zombies terrestres en dessous.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Troufle</color>"
+        },
+        {
+            "seedType": 1493,
+            "name": "Pot Enfumé",
+            "introduce": "<align=left><size=36><color=black>Le Pot Enfumé n’est pas vraiment un pot de fleurs. \" Avant, j’étais un simple Champi-fumée… \" avoue-t-il. \" Ne sortez jamais la tête à l’aveuglette quand ils jouent à Tape la Taupe Zombie. Ne me demandez pas pourquoi… \"</color>",
+            "info": "<size=36>Améliore les fusions de Champi-fumée placées au-dessus de lui.\n\n<color=black>Spécial : </color><color=#8B0000> Plante basse. Chaque fois qu’une plante améliorable placée dessus attaque, toutes les plantes du même type sur la pelouse gagnent le même bonus d’attaque (cumulable).\nPlantes améliorables :\n<color=black>•</color> Champi-glace Maudit : 4 %\n<color=black>•</color> Champi-colonies : 8 %\n<color=black>•</color> Fusions de Champi-sombre : 4 %\n<color=black>•</color> Fusions de Champi-fumée : 1 %</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1494,
+            "name": "Écraseur Magnétique",
+            "introduce": "<align=left><size=36><color=black>L’Écraseur Magnétique est entraîneur à l’académie d’arts martiaux, où il affûte son art depuis vingt ans. D’innombrables élèves ont appris sous sa direction la technique ultime, \" l’Écrasement du Mont Tai \". Même les armes en fer du râtelier l’ont apprise.</color>",
+            "info": "<size=36>Fait s’abattre des objets métalliques sur les zombies à l’atterrissage.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000> À l’atterrissage, attire les objets métalliques dans un rayon de 1,5 case. Les objets attirés écrasent les zombies comme un Écraseur.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Champi-aimant</color>"
+        },
+        {
+            "seedType": 1495,
+            "name": "Écraseur Ombrelle",
+            "introduce": "<align=left><size=36><color=black>\" Mes cheveux ont poussé ! \" s’écria l’Écraseur Ombrelle, tout excité. Il était le seul écraseur du coin à arborer une épaisse chevelure, mais ça ne durerait pas. \" Rends-moi mes cheveux !!!! \" rugit-il de colère en bondissant sur le zombie, bien décidé à venger sa tignasse.</color>",
+            "info": "<size=36>Un Écraseur déguisé en Ombrelle. Dès que sa feuille se fane, il passe à l’offensive.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Les répulsions n’infligent aucun dégât.\n<color=black>•</color> Les projectiles déviés ciblent un zombie aléatoire sur la pelouse et l’écrasent en lui infligeant 600 dégâts.\n<color=black>•</color> Peut dévier/repousser 3 fois au maximum. Après 3 déviations/répulsions, écrase le zombie le plus proche dans sa ligne</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Ombrelle</color>"
+        },
+        {
+            "seedType": 1496,
+            "name": "Pisto-pastèque",
+            "introduce": "<align=left><size=36><color=black>\" Tout le monde dit qu’on récolte ce que l’on sème. Moi, je n’y crois pas \", déclare le Pisto-pastèque. \" Je vais prouver qu’en plantant des pastèques, on récolte des haricots. \" Persuadé d’avoir renversé tout l’édifice de la biologie, il était très fier, mais sa fierté n’a duré que très peu de temps : il a vite découvert que les caractères acquis par greffe ne se transmettent pas.</color>",
+            "info": "<size=36>Le Pisto-pastèque tire en rafale de petites pastèques, mais redevient un Lance-pastèque une fois ses munitions épuisées.\n\n<color=black>Dégâts : </color><color=#8B0000>60×4/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Pendant les 15 premières attaques, tire 4 projectiles qui infligent des dégâts de zone.\n<color=black>•</color> À la 16e attaque, tire sa tête de pois, qui inflige ×5 dégâts (dégâts de zone compris), puis redevient un Lance-pastèque.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1497,
+            "name": "Triple Champi-peureux",
+            "introduce": "<align=left><size=36><color=black>Le Triple Champi-peureux a remporté la première place pour l’équipe des Peureux lors de la 6e édition du Concours annuel de la Bravoure. Certes, il n’a réussi aucun niveau d’épreuve, mais au moins il n’a pas peur des deux autres têtes collées à lui.</color>",
+            "info": "<size=36>Tire sur trois lignes tout en augmentant fortement sa vitesse d’attaque. Libère une rafale de pois lorsqu’il se cache.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne 5 % de vitesse d’attaque après chaque attaque, jusqu’à +150 % de vitesse d’attaque. Ce bonus est réinitialisé lorsqu’il est entièrement effrayé.\n<color=black>•</color> Lorsqu’un zombie supplémentaire se trouve dans sa zone environnante de 3×3, cache une tête, dans l’ordre : celle qui vise la ligne du bas, puis celle de la ligne du haut, puis celle de sa propre ligne. Lorsque les trois têtes sont cachées, tire rapidement 20 pois sur chacune des trois lignes.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1498,
+            "name": "Champi-écraseur",
+            "introduce": "<align=left><size=36><color=black>Bien que régulièrement signalé pour violence physique, le Champi-écraseur jure qu’il n’a jamais levé la main sur personne. Il explique qu’au pire, il se contente de souffler quelques spores inoffensives ; quant aux Écraseurs que l’on voit le plus souvent bondir derrière lui pour écraser ses adversaires, il prétend qu’il s’agit d’une pure hallucination causée par l’inhalation de ses spores.</color>",
+            "info": "<size=36>Tire des fumées qui invoquent une paire d’Écraseurs pour écraser les cibles.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000> Fait apparaître une paire d’Écraseurs lorsqu’il attaque, qui infligent ×20 dégâts de base au zombie le plus à gauche de sa ligne. Cette capacité a une recharge de 10 s.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Écraseur</color>"
+        },
+        {
+            "seedType": 1499,
+            "name": "Pisto-chou",
+            "introduce": "<align=left><size=36><color=black>Le Pisto-chou fut un temps le manager de Pisto-pois : il gérait ses déplacements, son agenda d’interviews et son exploitation de petits pois. Il faisait un excellent travail, mais il a fini par être renvoyé pour avoir glissé en cachette des feuilles de chou dans les produits dérivés de Pisto-pois.</color>",
+            "info": "<size=36>Le Pisto-chou tire en rafale des choux, puis lance sa tête de pois au Lance-chou placé devant lui une fois à court de munitions.\n\n<color=black>Dégâts : </color><color=#8B0000>40×4/1.5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Pendant les 15 premières attaques, tire 4 projectiles qui rebondissent une fois.\n<color=black>•</color> À la 16e attaque, tire sa tête de pois sur le Lance-chou le plus proche dans sa portée d’attaque, le fusionnant en un autre Pisto-chou tandis que lui-même redevient un Lance-chou. S’il n’y a aucun Lance-chou à portée, tire sa tête de pois sur les zombies à la place, et inflige alors ×5 dégâts.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Lance-chou + Pisto-pois</color>"
+        },
+        {
+            "seedType": 1500,
+            "name": "Champi-ressort",
+            "introduce": "<align=left><size=36><color=black>\" B-Bienvenue chez moi… \" Recroquevillé derrière le canapé, le Champi-ressort accueille son invité. \" Sur ce mur, vous verrez la photo de famille des Champi-peureux. Tout le monde est si timide qu’on a dû se faire photographier chacun de son côté, puis assembler le tout… S’il vous plaît, ne touchez pas à cette médaille d’or… \" C’est la médaille qu’il a remportée au 10e Championnat d’haltérophilie des Champi-peureux, où il a décroché le titre avec un score d’une demi-pastèque.</color>",
+            "info": "<size=36>Augmente fortement sa vitesse d’attaque et se charge lorsqu’il est effrayé.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne 10 % de vitesse d’attaque après chaque attaque, jusqu’à +200 % de vitesse d’attaque. Ce bonus est réinitialisé lorsqu’il est entièrement effrayé.\n<color=black>•</color> Se charge lorsqu’il est effrayé. Cible le zombie le plus proche lorsqu’il ressort. Dégâts maximum : 1800.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-peureux + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1501,
+            "name": "Écraseur Puant",
+            "introduce": "<align=left><size=36><color=black>L’Écraseur Puant a toujours les yeux humides. Certains disent qu’il ne supporte pas sa propre odeur. D’autres, que c’est parce qu’il rate sans cesse ses cibles en écrasant les zombies. Lui seul connaît la vérité : c’est le chagrin de n’avoir pas perdu un gramme après des mois de \" régime anti-graisse à l’ail \".</color>",
+            "info": "<size=36>Un écraseur parfumé à l’ail. Rien qu’en se dressant, il intimide les zombies… mais cela le fait aussi rater facilement sa cible.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000> En sautant, force les zombies en dessous à changer de ligne. Si le zombie n’est pas un zombie géant et que ses PV sont inférieurs aux dégâts de l’Écraseur Puant, lui applique 1 point de Poison et l’empoisonne… Ensuite, le zombie fait demi-tour et détale hors de la pelouse !</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Ail</color>"
+        },
+        {
+            "seedType": 1502,
+            "name": "Écraseur Argenté",
+            "introduce": "<align=left><size=36><color=black>\" On pourrait me confondre avec l’Écraseur Renforcé. Je tiens à déclarer solennellement que lui est en fer, et moi en argent \", déclara l’Écraseur Argenté d’un air grave. \" L’argent est plus ductile, alors je peux faire des expressions bien plus vivantes quand j’écrase ! \"</color>",
+            "info": "<size=36>L’Écraseur Argenté inflige des dégâts d’écrasement supplémentaires… sans égaler l’Écraseur Renforcé.\n\n<color=black>Dégâts : </color><color=#8B0000>2400 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Écraseur + Souci</color>"
+        },
+        {
+            "seedType": 1503,
+            "name": "Écraseur Doré",
+            "introduce": "<align=left><size=36><color=black>Étoile montante de Wall Street, l’Écraseur Doré s’est récemment retrouvé au cœur d’une polémique : on l’accuse d’avoir violé les brevets de l’Écraseur Étoilé et du Champi-écraseur. \" Un zombie cherche à me calomnier ! \" fulmina l’Écraseur Doré, qui décida d’offrir une généreuse récompense aux autres écraseurs pour qu’ils aillent aplatir tous les suspects.</color>",
+            "info": "<size=36>Appelle d’autres Écraseurs Dorés pour faire le sale boulot.\n\n<color=black>Dégâts : </color><color=#8B0000>3600 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0,5 case à gauche ; 1 case à droite</color>\n<color=black>Ultime : </color><color=#8B0000>Coût : 3000 pièces, Recharge : 15 s ; invoque 3 Écraseurs Dorés qui ciblent chacun un zombie aléatoire sur la pelouse. Chacun inflige ×0,5 dégâts.",
+            "cost": "<size=36>Coût d’Amélioration : </color><color=#8B0000>3000 pièces"
+        },
+        {
+            "seedType": 5006,
+            "name": "Champi-calamité Épique",
+            "introduce": "<align=left><size=36><color=black>La légende raconte que, lorsque la réalité de chacun est sur le point de s’effondrer, une voix chaleureuse résonne à son oreille. Celui qui parvient à rester fidèle à lui-même peut s’épanouir dans sa propre lumière ; celui qui sombre dans le désir se déforme en monstre incontrôlable. Il est à la fois une invitation au salut et un leurre vers la désillusion ; le choix n’a jamais appartenu qu’à celui qui écoute, mais ceux qui en réchappent se comptent sur les doigts d’une main.</color>",
+            "info": "<size=36>Hypnotise les zombies et invoque un Gargantua Abyssal hypnotisé temporaire pour renverser le cours de la bataille.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillage automatique après l’obtention des 2 modificateurs du Champi-calamité</color>\n<color=black>Dégâts : </color><color=#8B0000>7200 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion du Champi-calamité, hérite de tous ses autres traits.\n<color=black>•</color> Possède la portée du Champi-mort. Hypnotise les zombies s’ils sont :\n· En dessous de 75 % de PV, ou maudits.\n<color=black>•</color> Qu’ils aient été hypnotisés ou non, tous les zombies à portée sont maudits (ils explosent à leur mort comme des Champi-mort)\n<color=black>•</color> Invoque un Gargantua Abyssal hypnotisé. Toutes les plantes bénéficient de 90 % de réduction des dégâts pendant les 6 premières secondes, après quoi il se transforme en Gargantua Gladiateur hypnotisé.</color>\n<color=black>Modificateurs Odyssée :\n<color=#8B0000>1. Toutes les explosions de Champi-mort ne créent plus de cratère | Sous-espèce Champi-avare débloquée\n2. Le Gargantua Gladiateur hypnotisé invoque des Diablotins ayant la même Robustesse. Le Diablotin s’autodétruit en fonction de ses PV actuels lorsqu’il attaque, libérant un effet de Champi-mort. Les dégâts du Diablotin Abyssal ignorent la réduction des dégâts. Lorsque le Gargantua Gladiateur hypnotisé attaque, et à chaque seconde où ses Diablotins agissent, il perd 10 % de sa Robustesse.</color><size=36>",
+            "cost": "\nFormule de Promotion : <color=#8B0000>Champi-mort > Champi-calamité</color>"
+        },
+        {
+            "seedType": 5007,
+            "name": "Champi-avare Épique",
+            "introduce": "<align=left><size=36><color=black>Pour ceux qui ont jadis placé la richesse matérielle au-dessus de tout, le Champi-avare Épique incarne à lui seul ce désir glacé. Si vous convoitez l’argent, il vous le rendra au décuple ; mais chaque prêt a son prix. Et il réclamera toujours son dû, jusqu’au dernier sou…</color>",
+            "info": "<size=36>Transforme les zombies Dorés en or et invoque un Zombie Mini-boss à affronter ; risque élevé, gain élevé.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillage automatique après l’obtention des 2 modificateurs du Champi-calamité</color>\n<color=black>Dégâts : </color><color=#8B0000>7200 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Promotion du Champi-avare, hérite de tous ses autres traits ; sous-espèce du Champi-calamité Épique.\n<color=black>•</color> Possède la portée du Champi-mort.\n<color=black>•</color> Applique l’état Doré à tous les zombies à portée. Les zombies à portée en dessous de 75 % de PV sont transformés en Statues de Zombie en Argent, et les zombies Dorés en Statues de Zombie en Or.\n<color=black>•</color> Octroie au prochain Zombie Mini-boss à apparaître le bonus Galvanisé (confère 100 de Valeur de RD). Vaincre ce Zombie Mini-boss rapporte 1000 points. Invoque également un Gargantua Abyssal Galvanisé qui rapporte 2000 points une fois vaincu.\n<color=black>•</color> Ne peut être invoqué qu’une seule fois par manche. Cette plante ne peut pas apparaître via un Cadeau Florale.</color>\n<color=black>Modificateurs Odyssée :\n<color=#8B0000>1. Sous-espèce Champi-avare débloquée\n2. Vaincre le Zombie Mini-boss Galvanisé rapporte désormais 2000 points.</color><size=36>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Champi-hypno <-> Souci</color>\nFormule de Promotion : <color=#8B0000>Champi-mort > Champi-avare</color>"
+        },
+        {
+            "seedType": 5008,
+            "name": "Gravi-noix",
+            "introduce": "<align=left><size=36><color=black>La Gravi-noix souffre d’un TOC extrêmement sévère. Elle ne supporte absolument pas le chaos, même en plein combat. Instinctivement, elle attire les projectiles sur ses lignes de champ magnétique pour les ranger bien proprement. Bien sûr, les zombies se plaignent souvent : \" Il n’y a rien de plus chaotique que son apparence ! \" C’est alors qu’ils ont le privilège d’assister à quelque chose de plus chaotique encore : une Gravi-noix en furie.</color>",
+            "info": "<size=36>Attire les projectiles environnants, puis les écrase tous ensemble en direction des zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée</color>\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écrasement)</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Attire les projectiles à tir direct des plantes proches dans un rayon de 1,5 case. Ajoute ses propres dégâts à ceux du projectile, mais supprime les propriétés de celui-ci.\n<color=black>•</color> Après avoir attiré 10 projectiles, les répartit équitablement entre les zombies à portée, chacun infligeant des dégâts dans une petite zone. Elle est en l’air pendant la distribution des projectiles, de sorte que la Gravi-noix ne bloque pas les zombies durant cette brève fenêtre d’attaque.\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Portée d’attaque étendue à toute la ligne\n2. Attire désormais 30 projectiles avant d’attaquer</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Noix Écraseuse + Noix Magnétique</color>"
+        },
+        {
+            "seedType": 210,
+            "name": "Tournesol Peintre",
+            "introduce": "<align=left><size=36><color=black>Le Tournesol Peintre est diplômé du Département d’Art de l’Université Soleil et réputé dans tout le milieu de l’art abstrait pour son célèbre style de peinture, qui laisse la toile en blanc. \" Le blanc représente des possibilités infinies \", a déclaré le Tournesol Peintre lors d’une interview. \" Même si l’essence que perçoit l’œil d’un peintre reste inchangée, aux yeux de mille plantes, il y a mille lianes entremêlées et mille fleurs en bouton. \"</color>",
+            "info": "<size=36>Produit du Soleil et des portraits de plantes.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Équipe/range son pinceau lorsqu’on clique dessus. Tant que le pinceau est équipé, cliquer sur une autre plante permet de la dessiner.\n<color=black>•</color> 5 secondes après avoir été planté, crée devant lui une plante mystérieuse aléatoire (elle puise dans la même réserve de plantes que le Cadeau Florale). Si la plante mystérieuse n’est pas dessinée dans les 30 secondes, elle disparaît.\n<color=black>•</color> En mode Bac à Sable ou dans l’Éditeur de Niveau, la plante créée n’est pas mystérieuse.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>7.5s</color>"
+        },
+        {
+            "seedType": 312,
+            "name": "Dragon de l’Ouragan",
+            "introduce": "<align=left><size=36><color=black>Une ancienne histoire raconte qu’un vieil artisan malade mit tout son cœur dans ce qui devait être sa dernière fournée de pétards du Nouvel An. Mais lorsqu’il alluma la mèche, le feu d’artifice s’envola dans le ciel et se changea en une créature de flammes, éclipsant les autres pétards du village et guérissant le vieil artisan de son mal.</color>",
+            "info": "<size=36>Des projectiles dispersés se condensent en vagues de Flammes du Dragon lorsque l’esprit du dragon s’éveille.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Dégâts : </color><color=#8B0000>Mode Basique : 300×10/0.33s\nMode Dragon : 1500×5/0.66s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tire des projectiles dans un cône de ±15°.\n<color=black>•</color> Cliquez pour changer de mode d’attaque :\n\t· Mode Basique : chaque attaque génère 1 point d’énergie.\n\t· Mode Dragon : chaque attaque consomme 3 points d’énergie. Les projectiles infligent désormais des dégâts massifs avec perforation infinie, mais ne parcourent que 5 cases devant eux.</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 313,
+            "name": "Torche Parallèle",
+            "introduce": "<align=left><size=36><color=black>La Torche Parallèle était fière du creux de son tronc : il abritait un univers parallèle miniature et pouvait encore accueillir bien d’autres choses, comme des livres, de la nourriture et des poupées. Comme cet univers parallèle chevauchait en réalité l’espace du sien dans d’autres dimensions, elle avait soigneusement choisi son emplacement afin de le préserver.</color>",
+            "info": "<size=36>Manipule l’espace-temps parallèle pour copier sur chaque ligne les projectiles qui passent.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Copie les projectiles des plantes dans toutes les lignes. Efface certaines propriétés des projectiles.\n<color=black>•</color> Chaque ligne ne peut contenir qu’une seule Torche Parallèle, et toutes les Torches Parallèles doivent se trouver dans la même colonne.</color>",
+            "cost": ""
         }
     ]
 }
