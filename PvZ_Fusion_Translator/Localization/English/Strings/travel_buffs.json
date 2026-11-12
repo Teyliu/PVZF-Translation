@@ -194,11 +194,11 @@
         },
         "48": {
             "name": "Smasher",
-            "desc": "Gravi-nut: Attack range and splash range increased to full-lane"
+            "desc": "Gravi-nut: Attack range increased to full-lane"
         },
         "49": {
             "name": "Capacity",
-            "desc": "Projectile capacity increased to 30"
+            "desc": "Gravi-nut: Now attracts 30 projectiles before attacking"
         },
         "1000": {
             "name": "Quick Hands",
