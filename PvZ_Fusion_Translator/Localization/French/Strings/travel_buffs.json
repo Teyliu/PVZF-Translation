@@ -78,7 +78,7 @@
         },
         "19": {
             "name": "",
-            "desc": "Champi-calamité : génère désormais 3 Gargantuas et Zombonis hypnotisés supplémentaires lorsqu'il explose"
+            "desc": "Champi-calamité : quand le Gargantua Gladiateur hypnotisé attaque, il perd des PV et invoque des Diablotins maudits | Champi-avare : vaincre le Zombie Mini-boss Galvanisé rapporte désormais 2000 points | Effets appliqués aussi aux variantes Épiques | Champi-calamité Épique : les Diablotins Abyssaux infligent des dégâts purs"
         },
         "20": {
             "name": "",
@@ -1276,11 +1276,11 @@
     "debuffs": {
         "0": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit | Professeur Ceriz : -1 journal de rechange"
+            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit | Professeur Ceriz : +1 journal de rechange si non sélectionné"
         },
         "1": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut | Professeur Ceriz : -1 journal de rechange"
+            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut | Professeur Ceriz : +1 journal de rechange si non sélectionné"
         },
         "2": {
             "name": "",
@@ -1316,11 +1316,11 @@
         },
         "10": {
             "name": "",
-            "desc": "Giga-noix à Trident et Zombie Noix Glacée Harponneur : lancent désormais 2 tridents/harpons de neige supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants"
+            "desc": "Giga-noix à Trident et Zombie Noix Glacée Harponneur : lancent désormais 2 tridents/harpons de neige supplémentaires à chaque attaque | Pozeidon : +1 colonne de Giga-noix à Trident invoquée si non sélectionné"
         },
         "11": {
             "name": "",
-            "desc": "Giga-noix à Trident : ignore désormais les plantes de type Ombrelle et cible des plantes aléatoires à attaquer"
+            "desc": "Giga-noix à Trident : cible désormais tour à tour la plante la plus proche, celle qui a le plus de PV, puis celle qui a le moins de PV | Pozeidon : +1 colonne de Giga-noix à Trident invoquée si non sélectionné"
         },
         "12": {
             "name": "",
@@ -1328,7 +1328,7 @@
         },
         "13": {
             "name": "",
-            "desc": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur"
+            "desc": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur, jusqu'à la 5e colonne en partant de la gauche"
         },
         "14": {
             "name": "",
@@ -1708,7 +1708,7 @@
         },
         "10009": {
             "name": "Sacrifice zombie",
-            "desc": "Les zombies (hors mini-boss) ont une chance de disparaître dès leur apparition et de conférer 80% de leurs PV à un autre zombie ; cette chance augmente au fil des vagues"
+            "desc": "Les zombies (hors mini-boss) ont une chance de disparaître dès leur apparition et de conférer 80% de leurs PV à un autre zombie (ses PV max peuvent être dépassés) ; cette chance augmente au fil des vagues"
         },
         "10010": {
             "name": "Hibernation",
@@ -1716,7 +1716,7 @@
         },
         "10011": {
             "name": "K.-O. sévère",
-            "desc": "Les plantes mettent 1,5× plus de temps à réapparaître"
+            "desc": "Les plantes mettent 50% de temps en plus à réapparaître"
         },
         "10012": {
             "name": "Explosion cerv-ambrienne",
@@ -1744,7 +1744,7 @@
         },
         "10018": {
             "name": "Riposte",
-            "desc": "Quand les zombies subissent des dégâts, ils génèrent un projectile de malédiction côté zombies qui inflige aux plantes des dégâts égaux à 10% de la puissance d’attaque du zombie (20 au minimum) ; cela peut se déclencher au plus 10 fois toutes les 0,02 s"
+            "desc": "Quand les zombies subissent des dégâts, ils génèrent un projectile de malédiction côté zombies qui inflige aux plantes des dégâts égaux à 50% de la puissance d’attaque du zombie (100 au minimum) ; cela peut se déclencher au plus 10 fois toutes les 0,02 s"
         },
         "10019": {
             "name": "Retour des sbires",
@@ -1768,7 +1768,7 @@
         },
         "10024": {
             "name": "Ruée nitro",
-            "desc": "À chaque vague, une fois les zombies apparus, 3 zombies aléatoires reçoivent un bonus de vitesse de 100%"
+            "desc": "À chaque vague, une fois les zombies apparus, 3 zombies aléatoires reçoivent un bonus de vitesse de 100%. Ce bonus est cumulable"
         },
         "10025": {
             "name": "Odeur putride",
@@ -1792,11 +1792,11 @@
         },
         "10030": {
             "name": "Apocalypse croissante",
-            "desc": "L’intervalle entre les vagues est réduit, et chaque vague a une chance de faire apparaître immédiatement une seconde fois les mêmes zombies ; cette chance augmente au fil des vagues"
+            "desc": "L’intervalle entre les vagues est réduit, et chaque vague a une chance de faire apparaître une seconde fois les mêmes zombies ; cette chance augmente au fil des vagues"
         },
         "10031": {
             "name": "Détonation désespérée",
-            "desc": "Les zombies (hors mini-boss) dont les PV sont sous 5% de leurs PV max explosent spontanément dès qu’ils sont touchés"
+            "desc": "Les zombies (hors mini-boss) dont les PV sont sous 5% de leurs PV max explosent spontanément (explosion de Diable à ressort) dès qu’ils sont touchés"
         },
         "10032": {
             "name": "Cor de puissance",
