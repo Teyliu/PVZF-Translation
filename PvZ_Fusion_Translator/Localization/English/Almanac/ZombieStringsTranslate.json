@@ -1048,7 +1048,7 @@
             "theZombieType": 240,
             "name": "Trident Jugger-nut Gargantuar",
             "introduce": "<align=left><size=36><color=black>When Gargantuars of different lineages meet on the battlefield, they exchange pleasantries with deep roars, and the Trident Jugger-nut Gargantuar always straightens his back at such moments. The Jugger-nut atop his head is like a badge filled with glory - proof of honor earned only after smashing three hundred Wall-nuts.</color>",
-            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. For each type of Giant or Mini-boss zombie present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When HP falls below 50% and the basket is full, throws all his tridents are thrown at fixed angles on taking damage. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
+            "info": "<size=36>Has increased defense as different types of Gargantuars are present on the field.\n\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Giant zombie. For each type of Giant or Mini-boss zombie present on the field, damage taken is additionally reduced by 10%.\n<color=black>•</color> His basket can hold up to 7 tridents. When taking damage while the basket is full, throws all his tridents at fixed angles. The basket is refilled with 1 trident per second.</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>1. Trident Reload Speed ×3\n2. Now recovers 10% max HP when throwing tridents</color>"
         },
         {
             "theZombieType": 241,
@@ -1174,7 +1174,7 @@
             "theZombieType": 261,
             "name": "<u><i>Jackson Universe</i></u>",
             "introduce": "<align=left><size=36><color=red>This is the final frontier of his world tour, the swan song of a stage legend. Fans from around the galaxy have gathered for one last show of madness. The songs and dances go on again and again; no one wants it to end. Stage smoke rises, if only to hide the reluctant eyes of those who cannot bear to say goodbye.</color>",
-            "info": "<color=red>A flawless stage tour that never takes its final bow.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Movement Speed: </color>Fast\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to chill, freeze, stuns, poison, enflamed and tire puncturing. While negating chill, poison, or enflamed effects, takes damage equal to 0.01%, 0.04% or 0.04% of its HP, respectively.\n<color=black>•</color> Instantly kills any plants or hypnotized zombies it touches and deals continuous damage to Spikeweeds and Spikerocks.\n<color=black>•</color> Moves back and forth across the right half of the lawn. Changes lanes every 5s. Approximately every 10s, summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters.</color>"
+            "info": "<color=red>A flawless stage tour that never takes its final bow.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Movement Speed: </color>Fast\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to freeze, stuns, and tire puncturing. Also negates chill, poison, and enflamed effects. But takes damage equal to 0.01% of its HP. And takes ×4 damage when negating enflamed.\n<color=black>•</color> Instantly kills any plants or hypnotized zombies it touches and deals continuous damage to Spikeweeds and Spikerocks.\n<color=black>•</color> Moves back and forth across the right half of the lawn. Changes lanes every 5s. Approximately every 10s, summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters.</color>"
         },
         {
             "theZombieType": 262,
@@ -1342,7 +1342,7 @@
             "theZombieType": 326,
             "name": "Emperor Clown-on-the-Pogo Zombie",
             "introduce": "<align=left><size=36><color=black>After much time, he's finally overcome the pain of his breakup. Now he's dressed in flashy colors and ready to court a new goddess. He's now pursuing Queen Jill-in-the-Box. Hopefully, his emotional stamina has improved.</color>",
-            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-on-the-Pogo Zombie but charging duration is reduced to 0.5s.\n<color=black>•</color> Can cheat death if holding his pogo stick.</color>"
+            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-on-the-Pogo Zombie but charging duration is reduced to 0.5s.\n<color=black>•</color> Can cheat death if holding his pogo stick.(Can be activated 3 times at most)</color>"
         },
         {
             "theZombieType": 327,
@@ -1415,6 +1415,24 @@
             "name": "Crimson Elephant",
             "introduce": "<align=left><size=36><color=black>Crimson Elephant lets out an enraged roar and stomps the ground with all four feet, shaking the earth itself. After escaping the laboratory years ago, it not only rejoined the Giga Football forces, but grew into an elite war elephant and was equipped with specialized heavy armor. Yet the cactus spine it stepped on during that chaotic escape is still stuck in its foot to this day.</color>",
             "info": "<size=36>Launches a devastating assault on the front lines, pushing troops forward and unleashing a powerful shockwave.\n\n<color=black>Damage: </color><color=#4B0082>7200 (Non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>72000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Giant zombie. Immune to knockback and hypnotization. Every 5th attack performs a crush attack, pushing non-boss zombies in front of it forward by 0.74 tiles and dealing area damage within a 1.5-tile radius.</color>"
-        }
+        },
+        {
+            "theZombieType": 339,
+            "name": "<u><i>Channeler Pozeidon</i></u>",
+            "introduce": "<align=left><size=36><color=red>After a long and arduous training, Pozeidon has finally won the recognition of the sea, completing its metamorphosis from a mear tool into the wielder of the storm, casting aside the base instincts of biting and destruction. At this very moment, both it and the trident represent the will of the ancient abyss; before absolute lightning, no matter how fierce the struggle, it is nothing more than a fleeting splash in the eternal waves.</color>",
+            "info": "<color=red>Descending amid the storm, the raging waves of the trident shall plunge everything into the abyss.</color>\n\n<color=black>Toughness: </color>90000\n<color=black>Traits:</color>\n<color=black>•</color> Boss. Immune to freeze, stuns, and knockbacks.\n<color=black>•</color> Switches between channeling & casting lightning:\n\t<color=black>•</color> Channeling: throws his giant trident at a random plant. Then summons 2 Giga Trident-nut Captain Zombies on every lane. After 9 seconds, retrieves his giant trident and gains electric charge.\n\t<color=black>•</color> Casting: 50% chance to guide the electicity to a random plant, dealing 120 × 12 damage. Otherwise, turns into a ball of lightning and zaps around the lawn. frying any plants in the way.</color>"
+        },
+        {
+            "theZombieType": 134,
+            "name": "Giga Dolphin-nut Zombie",
+            "introduce": "<align=left><size=36><color=black>His rigorous workouts gave the Giga Dolphin-nut Zombie a robust physique, but also left him with a pointy head. Although he insists it's to reduce wind resistance, the other zombies unanimously agree it's just because he wasn't fully evolved when he crawled out of the sea.</color>",
+            "info": "<size=36>Weaving back and forth across the field to cause disruption, his footwork becomes even more disruptive now that he's in top form.\n\n<color=black>Damage: </color><color=#4B0082>100</color>\n<color=black>Toughness: </color><color=#4B0082>3000+12000 (Type 1)</color>\n<color=black>Movement Speed: </color><color=#4B0082>Fast</color>\n<color=black>Traits: </color><color=#4B0082> Immune to stuns & knockbacks. Reverses direction upon reaching the first column or the edge of the lawn. Applies drenched to bitten plants. While having 2/3 of Type 1 armor's toughness, ignores plants.</color>"
+        },
+        {
+            "theZombieType": 135,
+            "name": "Cherrizilla Zombie",
+            "introduce": "<align=left><size=36><color=black>After being blocked by Cherrizilla for a long time, the zombies finally decided to cultivate a powerhouse of their own. Although the final product of this experiment wasn't completely controllable, it was successful enough. After all, he literally eats everything... Oh god, who let him out?!</color>",
+            "info": "<size=36>It constantly strengthens its physique through tearing and biting.\n\n<color=black>Damage: </color><color=#4B0082>1000/1.5s (chomping)</color>\n<color=black>Toughness: </color><color=#4B0082>2200</color>\n<color=black>Movement Speed: </color><color=#4B0082>Slow</color>\n<color=black>Traits: </color><color=#4B0082> Immune to knockbacks. Deals damage in a 1.5 tile range in front. Heals for [10× bite damage (aka 10×50)] and spits out an explosive cherry afterwards. For the first 132 chomps, additionally restores Toughness for the same amount as bite damage(50).</color>"
+		}
     ]
 }
