@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **5076**
-* Traductions ajustées : **348**
+* Nouvelles traductions : **5147**
+* Traductions ajustées : **425**
 * Reviews effectuées : **637**
 
 ---
@@ -37,6 +37,192 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `09/11/26 → 15/11/26`
+> *à venir*
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **71**
+* Traductions ajustées : **77**
+* Reviews effectuées : **0**
+
+> Mise à jour 4.1 (version finale) : 21 nouvelles plantes (famille Chou Magnétique / Renforcé / Temporel, Écraseurs,
+> champignons, promotions Épiques, 2 plantes légendaires) et 3 nouveaux zombies (dont le boss Pozeidon Canalisateur),
+> 34 strings, 13 travel buffs, et mise à jour des entrées déjà traduites dont le texte EN a changé depuis la PR#234
+> (dont 17 entrées FR en retard sur l’EN réalignées).
+
+---
+
+#### Détail
+
+## 🌱 Newly Added Translations
+* **Chou Magnétique** (`seedType: 1489`)
+* **Chou Renforcé** (`seedType: 1490`)
+* **Chou Temporel** (`seedType: 1491`)
+* **Champi-ballon** (`seedType: 1492`)
+* **Pot Enfumé** (`seedType: 1493`)
+* **Écraseur Magnétique** (`seedType: 1494`)
+* **Écraseur Ombrelle** (`seedType: 1495`)
+* **Pisto-pastèque** (`seedType: 1496`)
+* **Triple Champi-peureux** (`seedType: 1497`)
+* **Champi-écraseur** (`seedType: 1498`)
+* **Pisto-chou** (`seedType: 1499`)
+* **Champi-ressort** (`seedType: 1500`)
+* **Écraseur Puant** (`seedType: 1501`)
+* **Écraseur Argenté** (`seedType: 1502`)
+* **Écraseur Doré** (`seedType: 1503`)
+* **Champi-calamité Épique** (`seedType: 5006`)
+* **Champi-avare Épique** (`seedType: 5007`)
+* **Gravi-noix** (`seedType: 5008`)
+* **Tournesol Peintre** (`seedType: 210`)
+* **Dragon de l’Ouragan** (`seedType: 312`)
+* **Torche Parallèle** (`seedType: 313`)
+
+## 🧩 Modified Plant Entries
+* **Nénuphar** (`seedType: 12`) — `info` : ajout de Champi-fumée dans la liste des variantes
+* **Ail** (`seedType: 29`) — `info` : phrases interverties (dégâts par morsure d’abord) ; réalignement de la structure sur l’EN 4.1 (première phrase en puce, absente du FR actuel)
+* **Champi-sabre** (`seedType: 42`) — `info` : « 200 de Valeur de RD » → « 50 % de la Valeur de RD »
+* **Carambole Sage Épéiste** (`seedType: 300`) — `info` : condition d’utilisation → « Mode Récolte | Plante Odyssée Légendaire. » ; ajout de « et peut toucher les cibles aériennes »
+* **Cerizilla** (`seedType: 903`) — `info` : morsure reformulée (soin puis cerise explosive) ; ajout de la ligne « [Odyssée : Évolué] » (+(5 × charges de Dévoration)% de dégâts de morsure)
+* **Canon Apocalyptique** (`seedType: 915`) — `info` : réalignement complet sur l’EN 4.1 (le FR était en retard sur l’ancien EN) : puce « Canon latéral » remontée avant « Dégâts additionnels » (balises de l’EN reproduites) ; ajout de « [Odyssée : Évolué] : Devient 10 × 1800 à la place » ; Citrouilles ajoutées aux exceptions de l’imprégnation ; Chill rendu par Froid (au lieu de Gel) ; label « Modificateurs Odyssée » et balises de fin alignés sur l’EN
+* **Ombrelle de Midas** (`seedType: 916`) — `info` : ajout de « cette plante sera considérée comme la " cible la plus proche " face aux Tridents »
+* **Tourelle Apoicalypse** (`seedType: 927`) — `info` : réalignement complet sur l’EN 4.1 (le FR actuel décrivait l’ancienne version : dégâts 120×3, autoperte de Robustesse, recul/perforation, modificateurs différents) ; introduction raccourcie (plus d’auto-dégâts ni « dévastateur »)
+* **Champi-calamité** (`seedType: 928`) — `info` : réalignement complet sur l’EN 4.1 — nouvelle phrase d’accroche, ajout de la ligne Dégâts 3600 (Incendiaire), mécanique détaillée (portée du Champi-mort, hypnose sous 50 % de PV ou maudit sous 75 %, malédiction de tous les zombies à portée, Gargantua Gladiateur hypnotisé) ; modificateur 2 remplacé (Diablotins, autodestruction, perte de 10 % de Robustesse)
+* **Citrouille Mécanique** (`seedType: 935`) — `info` : réalignement complet sur l’EN 4.1 (puce Jack-in-the-Box complétée, soin des objets métalliques → 50 % de ses PV max, modificateurs Odyssée « À déterminer » remplacés par les deux modificateurs EN ; « Plante métallique », « objets métalliques » comme le reste du corpus)
+* **Champi-avare** (`seedType: 938`) — `info` : réalignement complet sur l’EN 4.1 — nouvelle phrase d’accroche ; l’invocation de Mini-boss et de variantes Odyssée est remplacée par la transformation en Statues (Argent sous 50 % de PV, Or pour les Dorés sous 75 %) et l’état Doré ; bonus Galvanisé (100 de Valeur de RD) sur le prochain Zombie Mini-boss, 1000 points ; ajout du modificateur 2 (2000 points) ; accords au masculin (« du Champi-calamité », « invoqué »)
+* **Noix Astrale** (`seedType: 945`) — `info` : suppression de « et ses dégâts augmentent de 2 % chaque seconde où il reste actif » dans le modificateur 2
+* **Sulfateuse Mortelle Épique** (`seedType: 971`) — `info` : les Obus Ardents Ultimes n’infligent plus « deux explosions » mais des dégâts de zone de grande portée ; les effets selon les altérations ne s’obtiennent qu’une seule fois
+* **Champi-sulfateuse Furieux Épique** (`seedType: 972`) — `info` : réalignement complet sur l’EN 4.1 (le FR était en retard sur l’ancien EN) : intro « à cadence croissante » (suppression de la clause sur la réinitialisation, retirée de l’EN), label « Dégâts », minimum 0,2, « effrayé » (accord), Poison « se cumulent désormais deux fois », noms Champi-sulfateuse Furieux / Drone à Grenades corrigés, « le second gagne 0,1 énergie », « Glacé » → Froid (terme arrêté pour Chill)
+* **Cryolina Reaper** (`seedType: 977`) — `info` : réalignement complet sur l’EN 4.1 (le FR était en retard sur l’ancien EN) : « quel que soit le camp » retiré de la règle de gain de charge d’âme ; ajout de la puce manquante sur le nombre maximal de Cryolina Reaper [(nombre de lignes de la carte) + 2] ; « Cremator » → Incendiaire ; Champi-Gel / Piment Explosif → Champi-glace / Jalapeño ; tabulations retirées et label « Modificateurs Odyssée » comme l’EN
+* **Champi-singularité** (`seedType: 981`) — `info` : réalignement complet sur l’EN 4.1 (le FR était en retard sur l’ancien EN) : nouvelle intro, Distorsion temporelle 4s (et ajout du temps écoulé pour les zombies déjà affectés), portails de 4s au lieu de 10s, flux appliquent Froid + 1s de Distorsion (plus d’augmentation du temps écoulé), « Champi-destruction » → Champi-mort, « Cremator » → Incendiaire / incendiaires
+* **Pleureur Habanero** (`seedType: 990`) — `info` : « quel que soit le camp » retiré de la règle de gain de charge d’âme
+* **Champi-Deucalion** (`seedType: 996`) — `info` : ciblage limité à sa ligne actuelle, projectiles non à tête chercheuse ; les projectiles (et non plus le Champi-Deucalion) appliquent Enflammé, infligent le recul et déclenchent l’explosion
+* **Noix Quarterback** (`seedType: 1028`) — `info` : soin par objets métalliques : 500 points de robustesse → tous les PV
+* **Noix Renforcée** (`seedType: 1029`) — `info` : soin par objets métalliques : 500 de robustesse → 50 % des PV max
+* **Citrouille Renforcée** (`seedType: 1097`) — `info` : soin par objets métalliques : 500 points de Robustesse → 50 % des PV max
+* **Troufle Magnétique** (`seedType: 1102`) — `info` : ajout « puis est relâché » (l’objet est relâché après traitement)
+* **Mine Suralimentée** (`seedType: 1162`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : plante basse, explosion comme une Mine Patate, 5 s d’armement absents) ; ajout « N’a pas besoin d’être armée », « upon defeat » supprimé ; structure de balises alignée sur l’EN
+* **Mine d’Espelette** (`seedType: 1163`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : plante basse, explosion comme une Mine Patate absentes) ; ajout « N’a pas besoin d’être armée », « après sa destruction » supprimé ; structure de balises alignée sur l’EN (sans </size> final)
+* **Mort Dormante** (`seedType: 1213`) — `info` : ajout de « Peut être fusionnée avec Seau, Diable à ressort et Noyau Temporel. » ; « a corresponding form » → « the corresponding form » sans effet en FR
+* **Noix Écraseuse** (`seedType: 1250`) — `info` : réalignement complet sur l’EN 4.1 (phrase d’intro, labels « Robustesse : » / « Dégâts : » / « Spécial : » et « (Écrasement) » étaient absents ou obsolètes) ; ajout de la propulsion des zombies vers le haut
+* **Noix Pastèque** (`seedType: 1261`) — `info` : plafond de la Jauge de Riposte 4× → 1× les PV max
+* **Citrouille Ensoleillée** (`seedType: 1324`) — `info` : production de soleil 25/25s → 25/15s ; Bouclier accordé 50 → 150 PV
+* **Coquille de Pastèque** (`seedType: 1352`) — `info` : ajout de la pastèque lancée quand une fusion catapulte de Triple Pisto-pois d’une case au-dessus/en dessous attaque
+* **Écraseur Pois** (`seedType: 1366`) — `info` : précision des 20 dégâts par projectile de pois
+* **Lévipatate** (`seedType: 1426`) — `info` : TR de réarmement 15 s → 10 s
+* **Triple Lance-pastèque** (`seedType: 1433`) — `info` : cadence 80×3/1.5s → 80×3/2.25s
+* **Triple Lance-maïs** (`seedType: 1434`) — `info` : cadence 20×3/1.5s → 20×3/2.25s ; projectiles supplémentaires répartis sur l’une des rangées ciblées
+* **Pot de Troufle** (`seedType: 1437`) — `info` : soin 150 → 300 PV ; bonus d’attaque 5s → 30s, ajout de « (non cumulable) »
+* **Triple Lance-chou** (`seedType: 1439`) — `info` : cadence 40×3/1.5s → 40×3/2.25s
+* **Champi-sabre d'Eau** (`seedType: 1469`) — `info` : ajout de « Applique Gel Profond s’il a de la charge. » ; renommage EN sans effet
+* **Champi-bouclier d'Eau** (`seedType: 1470`) — `info` : ajout de « Applique Gel Profond s’il a de la charge. » ; renommage EN sans effet
+* **Commando Drone** (`seedType: 1471`) — `info` : retrait de « certain other » (« un autre Commando compatible » → « un Commando »)
+* **Pot Enflammé** (`seedType: 1474`) — `info` : ajout de « Cet effet ne s’applique pas en Mode Odyssée. »
+* **Cactus Boule** (`seedType: 1488`) — `introduce` : texte ajouté (traduit en entier, accords au masculin d’après « Cactus Boule ») ; `info` : « Prioritizes and shrinks flying zombies » remplace la note de développement « Rétrécit actuellement tous les zombies. Ce n’est pas voulu. »
+* **<color=red>Tournesol Maléfique</color>** (`seedType: 3501`) — `info` : ajout de l’invocation d’un Gargantua à Trident sur les lignes d’eau
+
+## 🧟‍♂️ Newly Added Zombie Translations
+* **<u><i>Pozeidon Canalisateur</i></u>** (`theZombieType: 339`)
+* **Zombie QB Giga-noix Dauphin** (`theZombieType: 134`)
+* **Zombie Cerizilla** (`theZombieType: 135`)
+
+## 🛠️ Modified Zombies
+* **Zombie Trident** (`theZombieType: 20`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : label Spécial, portée 3,5 grilles, Robustesse actuelle) ; le trident applique Trempé ; portée de détection minimale 4 → 3 cases
+* **Gargantua Gladiateur** (`theZombieType: 43`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : « Boss et zombie géant » absent, dernière puce d’apparition en vague finale absente) ; ajout de la puce « 3600 dégâts aux zombies du camp adverse »
+* **Gargantua à Trident** (`theZombieType: 76`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : « Zombie géant » absent, label Spécial) ; les tridents lancés appliquent désormais Trempé
+* **Automate Perdu** (`theZombieType: 92`) — `info` : ajout de la mention des variantes Glace et Glace Compacte
+* **Givrebec (hostile)** (`theZombieType: 98`) — `info` : passe aussi dans le camp ennemi lorsqu’il est touché par la pelle
+* **Giga-noix à Trident** (`theZombieType: 202`) — `info` : chaque trident applique Trempé ; modificateur 2 : cible tour à tour, parmi les plantes à portée, la plus proche, celle qui a le plus de PV puis celle qui en a le moins (au lieu de plantes aléatoires hors portée minimale)
+* **<u>Pozeidon</u>** (`theZombieType: 218`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : renouvellement toutes les 1,5 s absent, effets des tridents obsolètes) ; Trident Géant et tourbillon, morsures appliquant Trempé, invocation de Giga-noix à Trident par colonne, tridents ×3 et ralentissement de Trempé +25 %
+* **Gargantua Jugger-noix à Trident** (`theZombieType: 240`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : ligne Vitesse de déplacement et mention Géant/Mini-boss absentes) ; le panier plein lance ses tridents dès qu’il subit des dégâts (condition « PV sous 50 % » supprimée)
+* **Gargantua Céleste** (`theZombieType: 241`) — `info` : réalignement complet sur l’EN 4.1 (FR en retard : « Zombie géant » absent, label Spécial) ; nom du clone aligné sur le glossaire (Gargantua Élémentaire) ; le bonus de dégâts de zone des attaques ne s’applique qu’une seule fois
+* **<u><i>Jackson Universe</i></u>** (`theZombieType: 261`) — `info` : Froid, Poison et Enflammé ne sont plus des immunités mais des effets annulés, avec 0,01 % de PV de dégâts ×4 pour Enflammé (au lieu de 0,01 % / 0,04 % / 0,04 %)
+* **Zombie Empereur Clown-Pogo** (`theZombieType: 326`) — `info` : ajout de la limite de 3 activations de l’échappatoire à la mort
+
+## 🧵 New String Entries Added
+* **僵尸机制-三叉戟**
+* **豌豆射手升级到火辣机枪射手**
+* **火辣机枪射手升级到飓风之龙**
+* **龙炎推进**
+* **飓风之龙的普攻子弹数+2，龙炎子弹数 + 4**
+* **聚能弹道**
+* **质变-聚能弹道：极大幅度减小子弹发射偏转角度，大幅提高龙炎弹射程，龙炎弹耗能-2**
+* **九龙至尊**
+* **质变-九龙至尊：龙炎弹弹道数固定为9，小幅降低龙炎弹射程，龙炎弹伤害提高1300%**
+* **噬化**
+* **质变-噬化万军：战神吞噬僵尸后，将在每行生成一只幻化战神僵尸为你作战**
+* **伙伴一起**
+* **质变-伙伴一起：伤害统一排名第一位的称为伙伴，小冰机每次攻击时，若伙伴为植物且存在于场上，则在伙伴位置额外释放一次攻击**
+* **【<nobr>真正的毁灭菇</nobr>】: **
+* **烈焰竹龙释放的飞天爆竹数+1**
+* **质变-冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害**
+* **子弹飞行时间+1秒，每飞行1秒，造成的伤害增加10%**
+* **获得新植物：平行时空树桩**
+* **赋能**
+* **平行时空树桩分裂的子弹伤害+30%**
+* **究极浴火射手连射 + 1**
+* **在场上生成一个木桩僵尸，木桩僵尸会把受到伤害的60%均摊给全场僵尸，可以使用僵尸手套移动木桩僵尸\n木桩会秒杀解除到的魅惑僵尸**
+* **狂战-铁卫**
+* **植物在右4列时，对僵尸额外造成30%伤害**
+* **植物在右4列时，对僵尸额外造成100%伤害**
+* **立即获得碾压保护、爆炸保护，并使全体植物立即获得25000护盾**
+* **铁卫-不灭之躯**
+* **植物在3格内造成伤害时可回复生命值和护盾（有上限）**
+* **大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的大的**
+* **-----------4.1 STRINGS**
+* **该模式下，平行时空树桩分裂的子弹只有原来1/3的伤害**
+* **每行只能存在一株**
+* **只能和其他平行时空树桩放在同一列**
+* **扔叉之前不能至第十列左侧**
+
+## ♻️ Modified String Entries
+* **僵尸机制-僵尸肥料** — `value` : catégorie « Gameplay » → « Zombie Mechanics » (« Mécaniques des zombies - »)
+* **激光炮** — `value` : Modificateur renommé « Continuity » → « Magical Index » (« Index magique », comme `advancedBuffs.12026`)
+* **超进化：星辉** — `value` : passage en capitales comme l’EN (« EVOLVE: STELLAR »)
+* **祝福-壹肆叁柒：究极杨桃大帝发射的多功能子弹额外获得1437点基础伤害** — `value` : « 1 437 » → « 1437 » (plus de séparateur de milliers)
+* **冰天雪地** — `value` : Modificateur renommé « ZombiesTD 6 » → « World of Ice »
+* **超质变：力量会给予希望** — `value` : préfixe en capitales comme l’EN (« APEX: »)
+* **超质变：步步高升** — `value` : préfixe en capitales comme l’EN (« APEX: »)
+* **僵尸受到伤害时，原地生成一个僵尸方的诅咒子弹，伤害为自身攻击力的50%，最低100，0.02秒内最多触发1次** — `value` : dégâts 10% → 50% de la puissance d’attaque, minimum 20 → 100
+* **僵尸出现时，有概率立即消失，并使随机的一个其他僵尸获得自身80%生命值（对领袖和boss无效），概率随关卡波次提高** — `value` : ajout « can overheal » (PV max dépassables)
+* **植物复活时间延长50%** — `value` : « 1.5× more time » → « 50% more time »
+* **刷新间隔缩短，每次刷新僵尸时，有概率重新刷新本波僵尸，概率随波次增加** — `value` : « immediately » retiré
+* **僵尸血量低于5%时受击则立即自爆（对领袖和boss无效）** — `value` : précision « (jack-in-the-box) » sur le type d’explosion
+* **场上植物数量为0/1/2/3/4/5/6及以上时，僵尸受到50%/60%/70%/80%/90%/100%/105%伤害** — `value` : paliers 75/80/85/90/95% → 50/60/70/80/90% ; saut de ligne retiré
+
+## 🧭 New Travel Buff Entries Added
+* **Broyeur** (`advancedBuffs: 48`)
+* **Capacité** (`advancedBuffs: 49`)
+* **Ceriz Prodige** (`advancedBuffs: 4008`)
+* **Évolution Épique** (`advancedBuffs: 7004`)
+* **Transcendance : Tir concentré** (`advancedBuffs: 12028`)
+* **Transcendance : Feu suprême** (`advancedBuffs: 12029`)
+* **Transcendance : Monde de glace** (`advancedBuffs: 12030`)
+* **Transcendance : Partenariat** (`advancedBuffs: 12031`)
+* **Transcendance : Invocateur** (`advancedBuffs: 12032`)
+* **Avant-garde** (`advancedBuffs: 13050`)
+* **Avant-garde - A** (`advancedBuffs: 13051`)
+* **Avant-garde - B** (`advancedBuffs: 13052`)
+* **Avant-garde - X** (`advancedBuffs: 13053`)
+
+## 🔁 Modified Travel Buff Entries
+* **advancedBuffs.19** — `desc` : refonte complète (le Gargantua Gladiateur hypnotisé perd des PV et invoque des Diablotins maudits ; 2000 points pour le Mini-boss Galvanisé ; variantes Épiques). 2ᵉ segment attribué au Champi-avare d’après le chinois (贪欲菇), l’EN écrit « Calamity-shroom »
+* **debuffs.0** — `desc` : Professor Cherryz « -1 Spare Newspaper » → « +1 Spare Newspaper if not selected »
+* **debuffs.1** — `desc` : Professor Cherryz « -1 Spare Newspaper » → « +1 Spare Newspaper if not selected »
+* **debuffs.10** — `desc` : effet Pozeidon remplacé (3 tridents géants → +1 colonne de Giga Trident-nut si non sélectionné)
+* **debuffs.11** — `desc` : refonte (ciblage cyclique plus proche / plus de PV / moins de PV ; effet Pozeidon ajouté)
+* **debuffs.13** — `desc` : ajout de la limite « up to the 5th leftmost column »
+* **Sacrifice zombie** (`debuffs: 10009`) — `desc` : ajout « can overheal » (PV max dépassables)
+* **K.-O. sévère** (`debuffs: 10011`) — `desc` : « 1.5× more time » → « 50% more time »
+* **Riposte** (`debuffs: 10018`) — `desc` : dégâts 10% → 50% de la puissance d’attaque, minimum 20 → 100
+* **Ruée nitro** (`debuffs: 10024`) — `desc` : ajout « This buff can stack »
+* **Apocalypse croissante** (`debuffs: 10030`) — `desc` : « immediately » retiré
+* **Détonation désespérée** (`debuffs: 10031`) — `desc` : précision « (jack-in-the-box) » sur le type d’explosion
+
+---
 
 ---
 
