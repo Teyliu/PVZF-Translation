@@ -192,6 +192,14 @@
             "name": "Grand Coffre de l’Ender",
             "desc": "Coffre-citrouille de l’Ender : la limite de cumul de chaque emplacement est désormais doublée pour tous les Coffres-citrouilles."
         },
+        "48": {
+            "name": "Broyeur",
+            "desc": "Gravi-noix : portée d’attaque étendue à toute la ligne"
+        },
+        "49": {
+            "name": "Capacité",
+            "desc": "Gravi-noix : attire désormais 30 projectiles avant d’attaquer"
+        },
         "1000": {
             "name": "",
             "desc": "Le TR des Gants est réduit de 10 s (pas de TR pour la plante Gant), et ils peuvent désormais déplacer les Mini-boss"
@@ -408,6 +416,10 @@
             "name": "",
             "desc": "Invoque un Mecha Plané qui combat pour vous (remplace le Familier actuel). Augmente les dégâts des explosions de Diable à ressort du côté des plantes, et tire un explosif sur les zombies toutes les 1,5 s (chaque 3e attaque est tirée sur chaque rangée). Si le mini-boss Mecha Aéroglisseur est présent, l'intervalle d'attaque du familier est réduit de moitié."
         },
+        "4008": {
+            "name": "Ceriz Prodige",
+            "desc": "Augmente les dégâts des explosions de cerise du côté des plantes. Lorsqu’il est touché par une explosion de cerise, il devient enragé pendant 6 secondes et se met à tirer des cerises en rafale. Force chaque Sulfateuse à Grenades à tirer une énorme salve et convertit jusqu’à 10 zombies hypnotisés (y compris à leur mort) en Zombie-cerise-sulfateuse à Journal."
+        },
         "5000": {
             "name": "",
             "desc": "Les plantes infligent +100% aux Mini-boss et aux Boss"
@@ -483,6 +495,10 @@
         "7003": {
             "name": "Évolution Épique",
             "desc": "Débloquer la Sulfateuse Champi-stalactite Épique et la Sulfateuse Champi-rayon-solaire Épique\nUtiliser un Pisto-pois pour améliorer"
+        },
+        "7004": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer le Champi-calamité Épique et le Champi-avare Épique\nUtiliser un Champi-mort pour améliorer"
         },
         "10000": {
             "name": "",
@@ -684,6 +700,26 @@
             "name": "Transcendance : Chagrin",
             "desc": "Le Commando Mélancolique déclenche désormais toujours sa Capacité Ultime, mais avec deux fois moins de projectiles"
         },
+        "12028": {
+            "name": "Transcendance : Tir concentré",
+            "desc": "Dispersion considérablement réduite mais portée étendue à toute la ligne pour les deux modes d’attaque, l’attaque Dragon coûte 2 points d’énergie de moins"
+        },
+        "12029": {
+            "name": "Transcendance : Feu suprême",
+            "desc": "L’attaque Dragon tire un nombre fixe de 9 projectiles. Sa portée est légèrement réduite, mais ses dégâts sont multipliés par 14."
+        },
+        "12030": {
+            "name": "Transcendance : Monde de glace",
+            "desc": "Quand un zombie reçoit 10 coups directs de la Pastèque Cyclone, une explosion de glace se déclenche et inflige des dégâts de zone massifs."
+        },
+        "12031": {
+            "name": "Transcendance : Partenariat",
+            "desc": "Si l’unité ayant infligé le plus de dégâts au total est une plante, elle devient le \"Partenaire\". À chaque attaque de la Sulfateuse Champi-stalactite, le Partenaire lance la même attaque depuis sa position s’il se trouve actuellement sur la pelouse."
+        },
+        "12032": {
+            "name": "Transcendance : Invocateur",
+            "desc": "Après chaque dévoration, Cerizilla invoque une colonne de Zombies Cerizilla hypnotisés."
+        },
         "13000": {
             "name": "Protection antidéflagrante",
             "desc": "Les dégâts des explosions du Zombie Diable à ressort sont réduits à 1 000"
@@ -883,6 +919,22 @@
         "13049": {
             "name": "Omnipotence - X",
             "desc": "Toutes les plantes de la pelouse reçoivent un bonus de 500% de PV, un bonus de dégâts indépendant de 300%, un bonus de 200% de vitesse d’attaque, 60% de chance de coup critique et 150% de dégâts critiques"
+        },
+        "13050": {
+            "name": "Avant-garde",
+            "desc": "Les plantes infligent 30% de dégâts supplémentaires lorsqu’elles se trouvent dans les 4 colonnes les plus à droite."
+        },
+        "13051": {
+            "name": "Avant-garde - A",
+            "desc": "Les plantes infligent 100% de dégâts supplémentaires lorsqu’elles se trouvent dans les 4 colonnes les plus à droite."
+        },
+        "13052": {
+            "name": "Avant-garde - B",
+            "desc": "Obtenez immédiatement les Modificateurs Anti-écrasement et [Protection antidéflagrante]. Toutes les plantes gagnent un bouclier de 25000 PV."
+        },
+        "13053": {
+            "name": "Avant-garde - X",
+            "desc": "Lorsque les plantes infligent des dégâts dans un rayon de 3 cases, elles récupèrent des PV et du bouclier (dans la limite d’un plafond)."
         },
         "14000": {
             "name": "On n’a rien sans rien",
