@@ -130,7 +130,7 @@
       "seedType": 18,
       "name": "Gốc Cây Lửa",
       "introduce": "<align=justified><size=36><color=#3D1400>Mọi người rất yêu quí và kính trọng Gốc Cây Lửa. Họ yêu quí anh ta vì sự chính trực, chung thủy trong tình bạn, và khả năng tối đa hóa sát thương những viên đậu của anh ta. Thế nhưng Gốc Cây Lửa có một bí mật anh ta mù chữ.</color>",
-      "info": "<size=36>Gốc Cây Lửa biến những hạt đậu thường bay ngang qua thành những hạt đậu lửa và nhân đôi sát thương.\n\n<color=#3D1400>Khả Năng: </color><color=red>Có thể đốt 1 số loại đạn như sau: \nĐạn Đậu: Tăng 20 sát thương\nĐạn Đậu Băng: Chuyển hoá thành đậu thường.\n<color=#3D1400>Cơ chế bắt lửa: </color><color=red>Đạn đậu có thể bắt lửa nhiều gốc lửa khác nhau để tăng sát thương theo trình tự sau: Gốc Lửa -> Siêu Gốc Cây Lửa -> Gốc Lửa Địa Ngục/Hoả Bộc Bí Đao -> Gốc Lửa Huỷ Diệt</color>",
+      "info": "<size=36>Gốc Cây Lửa biến những hạt đậu thường bay ngang qua thành những hạt đậu lửa và nhân đôi sát thương.\n\n<color=#3D1400>Khả Năng: </color><color=red>Có thể đốt 1 số loại đạn như sau: \nĐạn Đậu: Tăng 20 sát thương\nĐạn Đậu Băng: Chuyển hoá thành đậu thường.\n<color=#3D1400>Cơ chế bắt lửa: </color><color=red>Đạn đậu có thể bắt lửa nhiều gốc lửa khác nhau để tăng sát thương theo trình tự sau: Gốc Lửa -> Siêu Gốc Cây Lửa -> Gốc Lửa Địa Ngục/Hoả Bộc Su Su -> Gốc Lửa Huỷ Diệt</color>",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 175</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>7.5 giây</color>"
     },
     {
@@ -501,7 +501,7 @@
       "seedType": 242,
       "name": "Hồng Liên Nữ Vương",
       "introduce": "<align=justified><size=36><align=justified><color=#3D1400>Bông hoa nhỏ rực lửa trước kia đã trở thành bậc thầy sản xuất ánh sáng mặt trời sau khi chịu đựng nhiều gian khổ. Hồng Liên Nữ Vương không còn cần phải bị tổn thương để tỏa sáng nữa. Ngọn đuốc trên đầu cô đã trở thành sức mạnh của cô, rực sáng như mặt trời. Những ngọn lửa sáng chói cứ liên tục lan tỏa, tạo ra cây Hoa Lan Lửa này đến cây Hoa Lan Lửa khác.</color>",
-      "info": "<size=36>Tiêu diệt Zombie bằng lửa chân lý.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch</color>\n<color=#4A2900>Điều Kiện Mở Khóa: Vượt qua [Chế Độ Du Lịch - Du Lịch Cổ Điển - Thiết Lập Sẵn - Sinh Tồn Du Lịch]</color>\n<color=#3D1400>Sát Thương: </color><color=red>50x8/3 giây</color>\n<color=#3D1400>Máu: </color><color=red>1000</color>.\n<color=#3D1400>Khả Năng:\n<color=black>•</color><color=red> Tăng 25 sát thương với mỗi cây Tối Thượng khác nhau trên màn hình\n<color=black>•</color> Bắn đạn đuổi, đạn sẽ tạo ra 15 mặt trời khi trúng mục tiêu\n<color=black>•</color> Đạn đi qua Gốc Lửa Địa Ngục hoặc Hoả Bộc Bí Đao sẽ gây x4 sát thương và tạo ra 25 mặt trời<color=red></color>",
+      "info": "<size=36>Tiêu diệt Zombie bằng lửa chân lý.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch</color>\n<color=#4A2900>Điều Kiện Mở Khóa: Vượt qua [Chế Độ Du Lịch - Du Lịch Cổ Điển - Thiết Lập Sẵn - Sinh Tồn Du Lịch]</color>\n<color=#3D1400>Sát Thương: </color><color=red>50x8/3 giây</color>\n<color=#3D1400>Máu: </color><color=red>1000</color>.\n<color=#3D1400>Khả Năng:\n<color=black>•</color><color=red> Tăng 25 sát thương với mỗi cây Tối Thượng khác nhau trên màn hình\n<color=black>•</color> Bắn đạn đuổi, đạn sẽ tạo ra 15 mặt trời khi trúng mục tiêu\n<color=black>•</color> Đạn đi qua Gốc Lửa Địa Ngục hoặc Hoả Bộc Su Su sẽ gây x4 sát thương và tạo ra 25 mặt trời<color=red></color>",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 200</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>30 giây</color>"
     },
     {
@@ -529,7 +529,7 @@
       "seedType": 248,
       "name": "Mèo Su Su",
       "introduce": "<color=#3D1400>\"Sự thanh lịch của loài mèo kết hợp với nét mộc mạc của quả dưa chính là vẻ đẹp độc đáo của thế giới này,\" Mèo Su Su thường lẩm bẩm một mình, \"Một khi ta hội tụ được thần thái của cả hai, nhất định sẽ tạo nên một cơn sốt trên bãi cỏ này.\" Cô chỉnh lại chiếc mũ trên đầu, ánh mắt chăm chú nhìn vào con Zombie đang nhảy nhót cách đó không xa.</color>",
-      "info": "<size=36>Lấy Thịt Đè Người.\n\n<color=#4A2900>Điều Kiện Mở Khóa: Vượt qua [Chế Độ Thử Thách - Mini Game - Sân Chơi Của Su Su]</color>\n<color=#3D1400>Khả Năng:</color><color=red> Với mỗi Zombie đánh trúng, nó sẽ tạo ra 1 thẻ Su Su, rơi ra thẻ Bí Cay khi đánh trúng ít nhất 3 Zombie, tối đa rơi ra 3 thẻ Su Su và 1 Bí Cay</color>",
+      "info": "<size=36>Lấy Thịt Đè Người.\n\n<color=#4A2900>Điều Kiện Mở Khóa: Vượt qua [Chế Độ Thử Thách - Mini Game - Sân Chơi Của Su Su]</color>\n<color=#3D1400>Khả Năng:</color><color=red> Với mỗi Zombie đánh trúng, nó sẽ tạo ra 1 thẻ Su Su, rơi ra thẻ Su Su Cay khi đánh trúng ít nhất 3 Zombie, tối đa rơi ra 3 thẻ Su Su và 1 Su Su Cay</color>",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 125</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>30 Giây</color>"
     },
     {
@@ -592,7 +592,7 @@
       "seedType": 300,
       "name": "Sao Kiếm Đại Vương",
       "introduce": "<align=justified><size=36><align=justified><color=#3D1400>Sư huynh à… Thiên hạ bây giờ, người vì chút lợi danh mà sẵn sàng bán rẻ lương tâm, bất chấp võ đạo. Huynh cứ ngó xem cái tên tiểu nhân xưng là 'Những Kế Sách Pvz' kia! Hắn dám lớn tiếng nói Tử Cơ Thương Linh đi đôi với Đậu Huỷ Diệt tạo ra, cái gì? “côm bô huỷ diệt siêu tốc độ” Á? Hừ, thiên hạ điên đảo mất rồi! Lại còn, ai cơ? “Nấm Địa Ngục” và “Ba Đầu Tối Thượng á? Thảo dược vốn để cứu người, tên tà ma nào lại bán cho thằng này dùng vậy?</color>",
-      "info": "<size=36>Đệ nhất kiếm pháp, 1 chém triệu hồi vạn binh khí.\n\n<color=#3D1400>Điều Kiện Sử Dụng: ①</color><color=red>Chế Độ Huyền Bí</color>\n<color=#3D1400>②</color><color=red>Du Lịch: Lời Nguyền (Rút Thẻ Buff)</color>\n<color=#3D1400>③</color><color=red>Vực Thẳm Màn 11~30 (Giới hạn trồng 1 cây mỗi màn)</color>\n<color=#3D1400>Sát Thương: </color><color=red>(1800*2+1800*10)/6 giây</color>.\n<color=#3D1400>Khả Năng:\n<color=black>•</color><color=red> Chỉ có thể có 1 cây trên sân cùng lúc.\n<color=black>•</color><color=red> Triệu hồi một thanh kiếm xoay quanh 1 ô gây 1800*2 sát thương cho zombie xung quanh\n<color=black>•</color> Sau khi tấn công thì sẽ triệu hồi 10 thanh kiếm tấn công Zombie toàn sân, gây 1800 sát thương AoE khi chúng chạm đất. \n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Tận Thế Ragnarok: </color><color=red>Sao Kiếm Vương sẽ thành Sao Kiếm Đại Vương, và cho phép trồng không giới hạn.</color>",
+      "info": "<size=36>Đệ nhất kiếm pháp, 1 chém triệu hồi vạn binh khí.\n\n<color=#3D1400>Điều Kiện Sử Dụng: ①</color><color=red>Chế Độ Huyền Bí</color>\n<color=#3D1400>②</color><color=red>Du Lịch: Lời Nguyền (Rút Thẻ Buff)</color>\n<color=#3D1400>③</color><color=red>Vực Thẳm Màn 11~30 (Giới hạn trồng 1 cây mỗi màn)</color>\n<color=#3D1400>Sát Thương: </color><color=red>(1800*2+1800*10)/6 giây</color>.\n<color=#3D1400>Khả Năng:\n<color=black>•</color><color=red> Chỉ có thể có 1 cây trên sân cùng lúc.\n<color=black>•</color><color=red> Triệu hồi một thanh kiếm xoay quanh 1 ô gây 1800*2 sát thương cho zombie xung quanh\n<color=black>•</color> Sau khi tấn công thì sẽ triệu hồi 10 thanh kiếm tấn công Zombie toàn sân, gây 1800 sát thương AoE khi chúng chạm đất (có thể đánh trúng mục tiêu trên không). \n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Tận Thế Ragnarok: </color><color=red>Sao Kiếm Vương sẽ thành Sao Kiếm Đại Vương, và cho phép trồng không giới hạn.</color>",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 750</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>30 giây</color>"
     },
     {
@@ -676,21 +676,21 @@
       "seedType": 901,
       "name": "Liên Pháo Anh Đào",
       "introduce": "<align=justified><size=36><color=#3D1400>Tại sao phải làm vua trong khi ta có thể làm thần?-Liên Pháo Anh Đào ngạo nghễ nói, Không hổ danh là tay thiện xạ số 1 nhà họ đậu, chỉ tiếc hôm nay người bạn Gốc Cây Lửa của nó đang bận đi nướng thịt.</color>",
-      "info": "<size=36>Loại Đậu Gây nhiều sát thương nhất.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương:</color><color=red>300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với mọi vụ nổ anh đào.\n<color=#3D1400>Công Thức: </color><color=red>Súng Máy Anh Đào + Siêu Đậu Anh Đào</color>\n\n\n<color=#3D1400>Buff 1: </color><color=red>Đạn siêu anh đào x3 sát thương</color>\n<color=#3D1400>Buff 2:</color><color=red> Giảm thời gian bắn xuống 1/2\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có đầy đủ buff của Liên Pháo Anh Đào và Hoả Bộc Bí Đao. Khi đó Liên Pháo Anh Đào sẽ bắn 3 hàng, mỗi hàng 4 viên, đạn hàng trên và hàng dưới sẽ bay theo quỹ đạo hàm số sin và cosin. Còn Hoả Bộc Bí Đao thì nếu không còn chỗ đặt Bí Cay thì sẽ đốt toàn sân.\n<color=#3D1400>Thực Anh Đào:</color><color=red> Chỉ có thể kích hoạt trong 3 màn, đạn siêu anh đào được bắn ra từ bất kì cây nào cũng phát nổ ở phạm vi 3x3 ô.\n\n<color=#3D1400>Liên Pháo Anh Đào Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 300*100/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Có mọi khả năng của Liên Pháo Anh Đào. </color>",
+      "info": "<size=36>Loại Đậu Gây nhiều sát thương nhất.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương:</color><color=red>300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Miễn nhiễm với mọi vụ nổ anh đào.\n<color=#3D1400>Công Thức: </color><color=red>Súng Máy Anh Đào + Siêu Đậu Anh Đào</color>\n\n\n<color=#3D1400>Buff 1: </color><color=red>Đạn siêu anh đào x3 sát thương</color>\n<color=#3D1400>Buff 2:</color><color=red> Giảm thời gian bắn xuống 1/2\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có đầy đủ buff của Liên Pháo Anh Đào và Hoả Bộc Su Su. Khi đó Liên Pháo Anh Đào sẽ bắn 3 hàng, mỗi hàng 4 viên, đạn hàng trên và hàng dưới sẽ bay theo quỹ đạo hàm số sin và cosin. Còn Hoả Bộc Su Su thì nếu không còn chỗ đặt Su Su Cay thì sẽ đốt toàn sân.\n<color=#3D1400>Thực Anh Đào:</color><color=red> Chỉ có thể kích hoạt trong 3 màn, đạn siêu anh đào được bắn ra từ bất kì cây nào cũng phát nổ ở phạm vi 3x3 ô.\n\n<color=#3D1400>Liên Pháo Anh Đào Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 300*100/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Có mọi khả năng của Liên Pháo Anh Đào. </color>",
       "cost": ""
     },
     {
       "seedType": 902,
-      "name": "Hoả Bộc Bí Đao",
-      "introduce": "<align=justified><size=36><color=#3D1400>Sau Nhiều Năm ở ẩn vì bị Các cây đậu chế diễu vì sức mạnh của nó thì cuối cùng nó cũng trở về sau 1 khóa huấn luyện khắc nghiệt, giờ đầy cộng thêm sức mạnh của thầy Ớt Bí thì không gì có thể ngăn nó đạt ngai vàng của Gốc Cây Lửa nữa​”</color>",
-      "info": "<size=36>Biến đổi đạn thành hình dạng Quả Bí nảy dọc hàng, đồng thời liên tục triệu hồi Bí Cay uy lực.</size>\n\n<color=#3D1400>Điều kiện sử dụng: </color><color=red>Mua công thức trong Chế Độ Du Lịch</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Mỗi 3 giây gây 300 sát thương lên Zombie trong phạm vi 3×3.</color>\n<color=#3D1400>②</color><color=red>Kế thừa toàn bộ khả năng cường hóa đạn của Siêu Gốc Lửa và tác động đặc biệt lên các loại đạn sau:\n· Đạn Hắc Diệu Thạch: Sát thương ×2\n· Đậu Phượng Hoàng: Sát thương ×4\n· Khoai Tây Nổ: Bốc cháy, sát thương ×4 (không giữ hiệu ứng nổ văng)\n· Anh Đào Nổ: Biến thành Bí Đỏ Anh Đào nảy, mỗi lần nảy nổ bán kính 1 ô\n· Đạn Hệ Nấm Nguyên Tử: Biến thành Đạn Bí Diệt Thế nảy gây nổ siêu nhỏ. Đạn cỡ lớn khi chạm trực tiếp gây nổ Nấm Nguyên Tử cùng lượng sát thương (không để lại hố). Đạn tàn tích giữ tương tác với hố tro.</color>\n<color=#3D1400>③</color><color=red>Mỗi khi tác động lên hơn 60 phát đạn, triệu hồi 1 Bí Cay phía trước (đạn Anh Đào Nổ và dòng Nấm Nguyên Tử tính là 3 phát).</color>\n<color=#3D1400>④</color><color=red>Khi chết, kích hoạt hiệu ứng Ớt Cay thiêu đốt toàn hàng.</color>\n<color=#3D1400>Buff 1 (Bán Công Bội Bội): </color><color=red>Số lượng đạn cần thiết để triệu hồi Bí Cay và Khế Cay giảm một nửa.</color>\n<color=#3D1400>Buff 2 (Bí Phát Hỏa): </color><color=red>Nếu không thể tạo Bí Cay ở phía trước, lập tức kích hoạt hiệu ứng Ớt Cay trên hàng đó.</color>\n<color=#3D1400>Buff Cộng Hưởng (Hỏa Lực Toàn Khai): </color><color=red>Súng Máy Anh Đào Tối Thượng khi tấn công sẽ bắn thêm đạn sang hai hàng lân cận theo quỹ đạo sin/cosin. Buff Bí Phát Hỏa chuyển thành kích hoạt Ớt Cay trên toàn bộ các hàng trên sân.</color>\n<color=#3D1400>Công Thức: </color><color=red>Gốc Cây Lửa Địa Ngục + Bí Cay</color>",
+      "name": "Hoả Bộc Su Su",
+      "introduce": "<align=justified><size=36><color=#3D1400>Sau Nhiều Năm ở ẩn vì bị Các cây đậu chế diễu vì sức mạnh của nó thì cuối cùng nó cũng trở về sau 1 khóa huấn luyện khắc nghiệt, giờ đầy cộng thêm sức mạnh của thầy Su Su Cay thì không gì có thể ngăn nó đạt ngai vàng của Gốc Cây Lửa nữa​”</color>",
+      "info": "<size=36>Biến đổi đạn thành hình dạng Quả Su Su nảy dọc hàng, đồng thời liên tục triệu hồi Su Su Cay uy lực.</size>\n\n<color=#3D1400>Điều kiện sử dụng: </color><color=red>Mua công thức trong Chế Độ Du Lịch</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Mỗi 3 giây gây 300 sát thương lên Zombie trong phạm vi 3×3.</color>\n<color=#3D1400>②</color><color=red>Kế thừa toàn bộ khả năng cường hóa đạn của Siêu Gốc Lửa và tác động đặc biệt lên các loại đạn sau:\n· Đạn Hắc Diệu Thạch: Sát thương ×2\n· Đậu Phượng Hoàng: Sát thương ×4\n· Khoai Tây Nổ: Bốc cháy, sát thương ×4 (không giữ hiệu ứng nổ văng)\n· Anh Đào Nổ: Biến thành Su Su Anh Đào nảy, mỗi lần nảy nổ bán kính 1 ô\n· Đạn Hệ Nấm Nguyên Tử: Biến thành Đạn Su Su Diệt Thế nảy gây nổ siêu nhỏ. Đạn cỡ lớn khi chạm trực tiếp gây nổ Nấm Nguyên Tử cùng lượng sát thương (không để lại hố). Đạn tàn tích giữ tương tác với hố tro.</color>\n<color=#3D1400>③</color><color=red>Mỗi khi tác động lên hơn 60 phát đạn, triệu hồi 1 Su Su Cay phía trước (đạn Anh Đào Nổ và dòng Nấm Nguyên Tử tính là 3 phát).</color>\n<color=#3D1400>④</color><color=red>Khi chết, kích hoạt hiệu ứng Ớt Cay thiêu đốt toàn hàng.</color>\n<color=#3D1400>Buff 1 (Bán Công Bội Bội): </color><color=red>Số lượng đạn cần thiết để triệu hồi Su Su Cay và Khế Cay giảm một nửa.</color>\n<color=#3D1400>Buff 2 (Su Su Phát Hỏa): </color><color=red>Nếu không thể tạo Su Su Cay ở phía trước, lập tức kích hoạt hiệu ứng Ớt Cay trên hàng đó.</color>\n<color=#3D1400>Buff Cộng Hưởng (Hỏa Lực Toàn Khai): </color><color=red>Súng Máy Anh Đào Tối Thượng khi tấn công sẽ bắn thêm đạn sang hai hàng lân cận theo quỹ đạo sin/cosin. Buff Su Su Phát Hỏa chuyển thành kích hoạt Ớt Cay trên toàn bộ các hàng trên sân.</color>\n<color=#3D1400>Công Thức: </color><color=red>Gốc Cây Lửa Địa Ngục + Su Su Cay</color>",
       "cost": ""
     },
     {
       "seedType": 903,
       "name": "Anh Long Đại Đế",
-      "introduce": "<align=justified><size=36><color=#3D1400>Anh Long Đại Đế, cái tên toát lên sự uy quyền mà cũng thể hiện bản tính bạo chúa của một con khủng long thực thụ, không phải đơn điệu như Nấm Hư Vô, cũng không cầu kì như Định Tinh… thôi bỏ đi. Mặc dù vậy Anh Long Đại Đế vẫn vẫn bị trêu đùa bởi các anh em cũ của mình “Ô, Khủng Long Anh Đáo à? Ây chết tôi quên mất anh đổi tên rồi’ - Hoả Bộc Bí Đao nói</color>",
-      "info": "<size=36>Đây là loại cây vừa phòng thủ vừa tấn công tốt nhất!\n\n<color=#3D1400><color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá</color>\nSát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu: </color><color=red> 8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Cây cao, có thể chặn một số Zombie nhảy qua nó. Đồng thời khả năng hồi máu từ Anh Đào sẽ tương tự như Óc Chó Anh Đào.\n<color=black>•</color> Chuyển hóa lượng hồi máu còn dư thành máu ảo (tối đa gấp 4 lần so với máu cơ bản).\n<color=black>•</color> Mất đi 800 máu mỗi giây khi không hồi máu cho đến khi về lại 8000 máu.\n<color=black>•</color> Giới hạn sát thương nhận phải: 1/3 máu hiện tại\n<color=black>•</color> Mỗi 40 giây có thể hành quyết 1 Zombie không phải Boss, hồi 4 lần số máu và nhận 1 Stack Nuốt Chứng. \n<color=black>•</color> Mỗi lần cắn sẽ gây sát thương diện rộng và gây thêm sát thương bằng: \n<color=blue>Máu Zombie*(3%+0.2%*Số Stack Nuốt Chừng)</color> \nĐồng thời hồi phục lượng máu bằng sát thương gây ra. Sau đó sẽ phun thêm 1 đạn siêu anh đào.\n<color=black>•</color> Khi bị sát thương chí mạng sẽ kích hoạt khả năng Từ Chối Tử Thần, khi đó lượng máu sẽ không dưới 1 trong 5 giây. Có thể kích hoạt mỗi 30 giây hoặc anh Long hành quyết thành công.</color>\n<color=#3D1400>Công Thức: </color><color=red>Hoa Ăn Thịt Anh Đào + Phi Long Thăng Thiên</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Khả năng hồi máu x3.</color>\n<color=#3D1400>Buff 2:</color><color=red> Có thể sử dụng Hành Quyết mỗi 15 giây.</color>\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có toàn bộ buff của Anh Long Đại Đế và Hắc Tảng. Khi đó máu của anh Long tăng lên không giới hạn. Còn Hắc Tảng giảm 90% sát thương nhận vào khi có anh Long trên sân.\n\n<color=#3D1400>Anh Long Đại Đế Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 1000/1.75 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công sẽ phun 25 đạn anh đào ra toàn sân. Sau khi nuốt chửng, phun 800 đạn siêu anh đào phạm vi 5 ô đằng trước trong 5 giây. </color></color>",
+      "introduce": "<align=justified><size=36><color=#3D1400>Anh Long Đại Đế, cái tên toát lên sự uy quyền mà cũng thể hiện bản tính bạo chúa của một con khủng long thực thụ, không phải đơn điệu như Nấm Hư Vô, cũng không cầu kì như Định Tinh… thôi bỏ đi. Mặc dù vậy Anh Long Đại Đế vẫn vẫn bị trêu đùa bởi các anh em cũ của mình “Ô, Khủng Long Anh Đáo à? Ây chết tôi quên mất anh đổi tên rồi’ - Hoả Bộc Su Su nói</color>",
+      "info": "<size=36>Đây là loại cây vừa phòng thủ vừa tấn công tốt nhất!\n\n<color=#3D1400><color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá</color>\nSát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu: </color><color=red> 8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Cây cao, có thể chặn một số Zombie nhảy qua nó. Đồng thời khả năng hồi máu từ Anh Đào sẽ tương tự như Óc Chó Anh Đào.\n<color=black>•</color> Chuyển hóa lượng hồi máu còn dư thành máu ảo (tối đa gấp 4 lần so với máu cơ bản).\n<color=black>•</color> Mất đi 800 máu mỗi giây khi không hồi máu cho đến khi về lại 8000 máu.\n<color=black>•</color> Giới hạn sát thương nhận phải: 1/3 máu hiện tại\n<color=black>•</color> Mỗi 40 giây có thể hành quyết 1 Zombie không phải Boss, hồi 4 lần số máu và nhận 1 Stack Nuốt Chứng. \n<color=black>•</color> Mỗi lần cắn sẽ gây sát thương diện rộng và gây thêm sát thương bằng: \n<color=blue>Máu Zombie*(3%+0.2%*Số Stack Nuốt Chừng)</color> \nĐồng thời hồi phục lượng máu bằng sát thương gây ra. Sau đó sẽ phun thêm 1 đạn siêu anh đào.\n[Du Lịch Tiến Hóa]: Sát thương cắn tăng thêm (5 × số tầng Nuốt)%.\n<color=black>•</color> Khi bị sát thương chí mạng sẽ kích hoạt khả năng Từ Chối Tử Thần, khi đó lượng máu sẽ không dưới 1 trong 5 giây. Có thể kích hoạt mỗi 30 giây hoặc anh Long hành quyết thành công.</color>\n<color=#3D1400>Công Thức: </color><color=red>Hoa Ăn Thịt Anh Đào + Phi Long Thăng Thiên</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Khả năng hồi máu x3.</color>\n<color=#3D1400>Buff 2:</color><color=red> Có thể sử dụng Hành Quyết mỗi 15 giây.</color>\n<color=#3D1400>Buff Cộng Hưởng:</color><color=red> Kích hoạt khi có toàn bộ buff của Anh Long Đại Đế và Hắc Tảng. Khi đó máu của anh Long tăng lên không giới hạn. Còn Hắc Tảng giảm 90% sát thương nhận vào khi có anh Long trên sân.\n\n<color=#3D1400>Anh Long Đại Đế Tinh Hệ:</color><color=red>\n<color=#3D1400>Sát Thương:</color><color=red> 1000/1.75 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công sẽ phun 25 đạn anh đào ra toàn sân. Sau khi nuốt chửng, phun 800 đạn siêu anh đào phạm vi 5 ô đằng trước trong 5 giây. </color></color>",
       "cost": ""
     },
     {
@@ -802,7 +802,7 @@
       "seedType": 919,
       "name": "Hoả Bộc Phượng Lan",
       "introduce": "<align=justified><size=36><color=#3D1400>“Như phượng hoàng vung cánh khỏi tro tàn, tựa như vực dậy từ cõi âm ti. Sau khi đậu chết cháy gục ngã, đám tro tàn kia bống rực cháy một ngọn lửa nóng đến mức dường như có thể thiêu đốt cả không khí. Hoả Bộc Phượng Lan bước ra từ đám cháy, toàn thân là một hào quang nóng tựa mặt trời hình thành từ sự đau đớn khi còn sống đang biến cả sân cỏ thành địa ngục trần gian, cũng chính là nơi Zombie sẽ thuộc về khi đối mặt với Hoả Bộc Phượng Lan.”</color>",
-      "info": "<size=36>Tái Sinh!\n\n<color=#4A2900>Điều Kiện Sử Dụng:Chế Độ Du Lịch |Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương:</color><color=red> 160*3/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Khi xuất hiện và khi bị ăn/xẻng thì sẽ đốt cháy cả sân\n<color=black>•</color> Đạn xuyên thấu 3 lần và áp dụng Hiệu Ứng Chịu Nhiệt\n<color=black>•</color> Đạn đi qua Hoả Bộc Bí Đao sẽ nhân đôi sát thương</color>\n<color=#3D1400>Công Thức: </color><color=red>Đậu Tro Tàn + Ớt</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Đạn lửa gây Hiệu Ứng Chịu Nhiệt, sát thương mà Zombie phải chịu khi bị Hiệu Ứng Chịu Nhiệt tăng lên 150%</color>\n<color=#3D1400>Buff 2:</color><color=red> Đạn của Hoả Bộc Phượng Lan xuyên thấu vô tận và gây hiệu ứng nổ nhiệt<color=#3D1400>|Mở khoá công thức:</color> Drone Phượng Hoàng</color>",
+      "info": "<size=36>Tái Sinh!\n\n<color=#4A2900>Điều Kiện Sử Dụng:Chế Độ Du Lịch |Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương:</color><color=red> 160*3/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Khi xuất hiện và khi bị ăn/xẻng thì sẽ đốt cháy cả sân\n<color=black>•</color> Đạn xuyên thấu 3 lần và áp dụng Hiệu Ứng Chịu Nhiệt\n<color=black>•</color> Đạn đi qua Hoả Bộc Su Su sẽ nhân đôi sát thương</color>\n<color=#3D1400>Công Thức: </color><color=red>Đậu Tro Tàn + Ớt</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Đạn lửa gây Hiệu Ứng Chịu Nhiệt, sát thương mà Zombie phải chịu khi bị Hiệu Ứng Chịu Nhiệt tăng lên 150%</color>\n<color=#3D1400>Buff 2:</color><color=red> Đạn của Hoả Bộc Phượng Lan xuyên thấu vô tận và gây hiệu ứng nổ nhiệt<color=#3D1400>|Mở khoá công thức:</color> Drone Phượng Hoàng</color>",
       "cost": ""
     },
     {
@@ -1005,7 +1005,7 @@
       "seedType": 948,
       "name": "Hoả Bộc Tinh Cự",
       "introduce": "<align=justified><size=36><color=#3D1400>Có 3 thứ Hoả Bộc Tinh Cự luôn thắc mắc. Thứ nhất là thằng nào dặt tên cho con Sao Tối Thượng mà dài thế? Thứ hai là tại sao tóc thằng Hàn Thiết Cung Thủ lại đẹp thế nhỉ? Cuối cùng là tại sao bọn cây từ thằng Cửu U Tiên Chương đến mấy thằng dù, thằng nào cũng làm thợ cắt tóc là sao? Khoan, hình như anh ta nhận ra câu trả lời rồi.</color></size></align>",
-      "info": "<size=36>Có thể định hình đạn thành hình dạng phi tiêu Khế tự tìm mục tiêu trên không, đồng thời triệu hồi Khế Cay.</size>\n<color=blue>Phân loài Hoả Bộc Bí Đao</color>\n\n<color=#3D1400>Điều kiện sử dụng: </color><color=red>Mua công thức trong Chế Độ Du Lịch</color>\n<color=#3D1400>Công thức chuyển đổi: </color><color=red>Su Su ←→ Khế</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Mỗi 3 giây, gây 300 sát thương lên Zombie trong phạm vi 3×3.</color>\n<color=#3D1400>②</color><color=red>Kế thừa toàn bộ khả năng tác động lên đạn của Siêu Gốc Lửa, tác động đặc biệt lên các loại đạn sau:\n· Đạn Hắc Diệu Thạch: Sát thương ×2\n· Đậu Phượng Hoàng: Sát thương ×4\n· Khoai Tây Nổ: Bốc cháy, sát thương ×4 (không giữ hiệu ứng nổ văng)\n· Anh Đào Nổ: Sát thương ×2, tự tìm mục tiêu toàn sân ưu tiên trên không\n· Đạn dòng Khế*: Bốc cháy, sát thương ×2, tự tìm mục tiêu toàn sân ưu tiên trên không (*không bao gồm Sao Hộp Hề và Sao Gai Nhọn).</color>\n<color=#3D1400>③</color><color=red>Mỗi khi tác động lên hơn 120 phát đạn, triệu hồi 1 Khế Cay phía trước (đạn Anh Đào Nổ tính là 3 phát).</color>\n<color=#3D1400>④</color><color=red>Khi chết, kích hoạt hiệu ứng Ớt Cay thiêu đốt toàn hàng.</color>",
+      "info": "<size=36>Có thể định hình đạn thành hình dạng phi tiêu Khế tự tìm mục tiêu trên không, đồng thời triệu hồi Khế Cay.</size>\n<color=blue>Phân loài Hoả Bộc Su Su</color>\n\n<color=#3D1400>Điều kiện sử dụng: </color><color=red>Mua công thức trong Chế Độ Du Lịch</color>\n<color=#3D1400>Công thức chuyển đổi: </color><color=red>Su Su ←→ Khế</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Mỗi 3 giây, gây 300 sát thương lên Zombie trong phạm vi 3×3.</color>\n<color=#3D1400>②</color><color=red>Kế thừa toàn bộ khả năng tác động lên đạn của Siêu Gốc Lửa, tác động đặc biệt lên các loại đạn sau:\n· Đạn Hắc Diệu Thạch: Sát thương ×2\n· Đậu Phượng Hoàng: Sát thương ×4\n· Khoai Tây Nổ: Bốc cháy, sát thương ×4 (không giữ hiệu ứng nổ văng)\n· Anh Đào Nổ: Sát thương ×2, tự tìm mục tiêu toàn sân ưu tiên trên không\n· Đạn dòng Khế*: Bốc cháy, sát thương ×2, tự tìm mục tiêu toàn sân ưu tiên trên không (*không bao gồm Sao Hộp Hề và Sao Gai Nhọn).</color>\n<color=#3D1400>③</color><color=red>Mỗi khi tác động lên hơn 120 phát đạn, triệu hồi 1 Khế Cay phía trước (đạn Anh Đào Nổ tính là 3 phát).</color>\n<color=#3D1400>④</color><color=red>Khi chết, kích hoạt hiệu ứng Ớt Cay thiêu đốt toàn hàng.</color>",
       "cost": ""
     },
     {
@@ -1082,7 +1082,7 @@
       "seedType": 959,
       "name": "Bom Anh Đào Nhiệt Hạch",
       "introduce": "<align=justified><size=36><color=#3D1400>2 quả anh đào cuối cùng cũng ngưng cãi lộn sau khi thống nhất rằng bọn chúng sẽ là Nhiệt Hạch. Nhưng tới khi chọn từ phát nổ hay nổ tung thì cả 2 lại gây lộn lại lần nữa.</color></size></align>",
-      "info": "<size=36>Kích nổ phóng xạ, tạo 1 vùng chết ngay giữa sân.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu</color>\n<color=#3D1400>Sát Thương: </color><color=red>3600 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Nổ: </color><color=red>5x5 ô\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Sau khi nổ, bắn 36 đạn phóng xạ ra toàn sân và để lại vùng phóng xạ với kích thước tương đương với bán kính vụ nổ.\n<color=black>•</color> Đạn phóng xạ có thể xuyên 2 mục tiêu, khi trúng mục tiêu sẽ gây hiệu ứng Bom Anh Đào và Nấm Nguyên Tử, mỗi lần gây 1800 sát thương.\n<color=#3D1400>Vùng Phóng Xạ:</color><color=red> Chỉ có thể tồn tại 1 vùng phóng xạ trong game. Tồn tại trong 7 giây, mỗi 0.5 giây sẽ gây sát thương bằng (3600*số giây tồn tại còn lại của vùng phóng xạ). Zombie không có giáp sẽ phải nhận x3 sát thương.\n<color=#3D1400>Công Thức: </color><color=red>Bom Anh Đào Hủy Diệt (cây nền) + Bom Anh Đào</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Cây bị cạp bởi Thực Thần Thập Tử sẽ luôn rớt ra thẻ.</color>\n<color=#3D1400>Buff 2:</color><color=red> Khi đạn nguyên tử/siêu anh đào, đạn bí anh đào, đạn sao anh đào bắn trúng Zombie, có tỉ lệ 1% kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch gây x12 sát thương gốc<color=#3D1400>|Mở khoá công thức:</color> Drone Phượng Hoàng</color></color>",
+      "info": "<size=36>Kích nổ phóng xạ, tạo 1 vùng chết ngay giữa sân.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu</color>\n<color=#3D1400>Sát Thương: </color><color=red>3600 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Nổ: </color><color=red>5x5 ô\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Sau khi nổ, bắn 36 đạn phóng xạ ra toàn sân và để lại vùng phóng xạ với kích thước tương đương với bán kính vụ nổ.\n<color=black>•</color> Đạn phóng xạ có thể xuyên 2 mục tiêu, khi trúng mục tiêu sẽ gây hiệu ứng Bom Anh Đào và Nấm Nguyên Tử, mỗi lần gây 1800 sát thương.\n<color=#3D1400>Vùng Phóng Xạ:</color><color=red> Chỉ có thể tồn tại 1 vùng phóng xạ trong game. Tồn tại trong 7 giây, mỗi 0.5 giây sẽ gây sát thương bằng (3600*số giây tồn tại còn lại của vùng phóng xạ). Zombie không có giáp sẽ phải nhận x3 sát thương.\n<color=#3D1400>Công Thức: </color><color=red>Bom Anh Đào Hủy Diệt (cây nền) + Bom Anh Đào</color>\n\n\n<color=#3D1400>Buff 1:</color><color=red> Cây bị cạp bởi Thực Thần Thập Tử sẽ luôn rớt ra thẻ.</color>\n<color=#3D1400>Buff 2:</color><color=red> Khi đạn nguyên tử/siêu anh đào, đạn su su anh đào, đạn sao anh đào bắn trúng Zombie, có tỉ lệ 1% kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch gây x12 sát thương gốc<color=#3D1400>|Mở khoá công thức:</color> Drone Phượng Hoàng</color></color>",
       "cost": ""
     },
     {
@@ -1122,8 +1122,8 @@
     },
     {
       "seedType": 965,
-      "name": "Bí Nhiệt Hạch",
-      "introduce": "<align=justified><size=36><color=#3D1400>Bí Nhiệt Hạch luôn cau có với mọi thứ, nhưng mà nếu so với Bom Anh Đào Nhiệt Hạch thì cậu ta còn hiền chán.</color></size></align>",
+      "name": "Su Su Nhiệt Hạch",
+      "introduce": "<align=justified><size=36><color=#3D1400>Su Su Nhiệt Hạch luôn cau có với mọi thứ, nhưng mà nếu so với Bom Anh Đào Nhiệt Hạch thì cậu ta còn hiền chán.</color></size></align>",
       "info": "<size=36>Bom hẹn giờ, sẳn sàng kích nổ khi cần thiết.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá bằng buff của Bom Anh Đào Nhiệt Hạch</color>\n<color=#3D1400>Sát Thương: </color><color=red>3600 (1 ô)+ 3600 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Nổ: </color><color=red>5x5 ô\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 ô phía trước, 2 ô phía sau\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Phân loài của Bom Anh Đào Nhiệt Hạch, chuyển đổi qua lại bằng Bom Anh Đào và Su Su.\n<color=black>•</color> Sau khi nhảy, để lại hố ở ô nó được trồng.\n<color=black>•</color> Sau khi đè, kích nổ hiệu ứng Bom Anh Đào Nhiệt Hạch và bắn 36 đạn phóng xạ ra toàn sân và để lại vùng phóng xạ với kích thước tương đương với bán kính vụ nổ.</color>\n<color=#3D1400>Công Thức Chuyển Đổi: </color><color=red>Bom Anh Đào ↔ Su Su</color>",
       "cost": ""
     },
@@ -1780,9 +1780,9 @@
     },
     {
       "seedType": 1054,
-      "name": "Bí Cay",
-      "introduce": "<align=justified><size=36><color=#3D1400>Tôi không nóng vội như anh trai tôi - Bí Cay bình tĩnh nói - Anh ta luôn muốn làm mọi việc nhanh, nhanh hơn, nhanh hơn nữa. Nhưng chờ đợi cơ hội mới là vũ khí thật sự để chiến thắng.</color>",
-      "info": "<size=36>Quả Bí mang sức mạnh nóng nảy của Ớt Cay, đè bẹp và quét sạch Zombie trên hàng.</size>\n\n<color=#3D1400>Sát thương:</color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>2 ô bên trái ~ 3 ô bên phải</color>\n<color=#3D1400>Đặc điểm:</color><color=red>Khi đáp xuống đất, phóng ra hiệu ứng Ớt Cay gây sát thương bằng đúng lực tấn công của nó trên hàng</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Ớt</color>",
+      "name": "Su Su Cay",
+      "introduce": "<align=justified><size=36><color=#3D1400>Tôi không nóng vội như anh trai tôi - Su Su Cay bình tĩnh nói - Anh ta luôn muốn làm mọi việc nhanh, nhanh hơn, nhanh hơn nữa. Nhưng chờ đợi cơ hội mới là vũ khí thật sự để chiến thắng.</color>",
+      "info": "<size=36>Quả Su Su mang sức mạnh nóng nảy của Ớt Cay, đè bẹp và quét sạch Zombie trên hàng.</size>\n\n<color=#3D1400>Sát thương:</color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>2 ô bên trái ~ 3 ô bên phải</color>\n<color=#3D1400>Đặc điểm:</color><color=red>Khi đáp xuống đất, phóng ra hiệu ứng Ớt Cay gây sát thương bằng đúng lực tấn công của nó trên hàng</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Ớt</color>",
       "cost": ""
     },
     {
@@ -1801,9 +1801,9 @@
     },
     {
       "seedType": 1057,
-      "name": "Bí Lửa",
+      "name": "Su Su Lửa",
       "introduce": "<align=justified><size=36><color=#3D1400>Tại làng khoai tây, có 1 người nặng tới 69*10^69 kí, mỗi khi người đó nhảy, cả làng khoai tây như được trải nghiệm động đất cấp độ 10, đoán thử xem :)))</color>\n\n<size=36>",
-      "info": "<size=36>Được Tạo Ra Từ Gốc Cây Lửa Bí.\n\n<color=#3D1400>Sát Thương:</color><color=red> 1800\n<color=#3D1400>Khả Năng:</color><color=red> Không thể ghép với cây khác. Có thể dùng Chậu Băng để biến nó thành Su Su thường.</color>",
+      "info": "<size=36>Được Tạo Ra Từ Gốc Cây Lửa Su Su.\n\n<color=#3D1400>Sát Thương:</color><color=red> 1800\n<color=#3D1400>Khả Năng:</color><color=red> Không thể ghép với cây khác. Có thể dùng Chậu Băng để biến nó thành Su Su thường.</color>",
       "cost": ""
     },
     {
@@ -1815,9 +1815,9 @@
     },
     {
       "seedType": 1059,
-      "name": "Gốc Cây Lửa Bí",
+      "name": "Gốc Cây Lửa Su Su",
       "introduce": "<align=justified><size=36><color=#3D1400>“Nóng quá, nóng quá” - Su Su hét lên trong ngọn lửa của Gốc Cây Cháy. Ai đã đưa tôi vào đây ? “Lẽ ra tôi phải nghiền nát Zombie chứ không phải bị cho lên bàn tiệc” Su Su bị đốt đến mức toàn thân phát quang. Cuối cùng khi không chịu nổi nữa, Su Su trở thành Ảo Ảnh Rực Lửa, quay lại chiến trường đè nát Zombie.</color>",
-      "info": "<size=36>Có thể triệu hồi Bí Lửa từ đạn đậu.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 50 viên đạn đi qua nó, nó sẽ triệu hồi một Bí Lửa.</color>\n<color=#3D1400>Công Thức: </color><color=red>Gốc Cây Lửa + Su Su</color>",
+      "info": "<size=36>Có thể triệu hồi Su Su Lửa từ đạn đậu.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 50 viên đạn đi qua nó, nó sẽ triệu hồi một Su Su Lửa.</color>\n<color=#3D1400>Công Thức: </color><color=red>Gốc Cây Lửa + Su Su</color>",
       "cost": ""
     },
     {
@@ -1845,7 +1845,7 @@
       "seedType": 1063,
       "name": "Gai Nảy Bật",
       "introduce": "<align=justified><size=36><color=#3D1400>Hả? Đúng rồi. - Đó là câu cửa miệng của gai nảy bật. Anh là là kiểu người kiệm lời và bí ẩn. Sau mỗi bữa tối, nguồn gốc của gai nảy bật thường trở thành chủ đề top trending trong giới thực vật. Người ta Cây ta nói rằng vào một buổi chiều nọ, Su Su tính nhảy lên 1 con Zombie mà không để ý dưới mông nó...</color>",
-      "info": "<size=36>Tấn công đẩy lùi Zombie và bắn bí nhỏ!!\n\n<color=#3D1400>Sát Thương:</color><color=red> 20/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công đẩy lùi toàn bộ Zombie trong phạm vi và bắn 1 bí nhỏ gây 40 sát thương</color>\n<color=#3D1400>Công Thức: </color><color=red>Gai + Su Su</color>",
+      "info": "<size=36>Tấn công đẩy lùi Zombie và bắn Su Su nhỏ!!\n\n<color=#3D1400>Sát Thương:</color><color=red> 20/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Mỗi lần tấn công đẩy lùi toàn bộ Zombie trong phạm vi và bắn 1 Su Su nhỏ gây 40 sát thương</color>\n<color=#3D1400>Công Thức: </color><color=red>Gai + Su Su</color>",
       "cost": ""
     },
     {
@@ -2279,7 +2279,7 @@
       "seedType": 1125,
       "name": "Chậu Dưa Hấu",
       "introduce": "<align=justified><size=36><color=#3D1400>Bạn nhìn tôi giống cái gì? Có phải là một cái chậu cứng cáp có thể nâng đỡ mọi thực vật trên đó, hay là… một nửa quả dưa bị bổ đôi ngọt nước? Trong khi tất cả anh em chậu khác, người thì chứa đầy đất màu mỡ, em Chậu Ngô thì chỉ toàn là lõi cứng cáp khiến cho Zombie ngán ngẫm... còn tôi ? trông có khác gì là đang mời gọi mấy thằng mắt lác da nheo kia vào ngấu nghiến tôi không chứ… Thật bất công,</color>",
-      "info": "<size=36>Chậu Cây Dưa Hấu gia tăng mạnh mẽ hiệu ứng sát thương lan của các cây hệ Dưa.</size>\n\n<color=#3D1400>Đặc tính:</color><color=red>Trồng được trên đất trần, Cây Lùn, Giá Thể</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Hoàn lại thêm 150 mặt trời khi được tạo thành qua dung hợp</color>\n<color=#3D1400>②</color><color=red>Tăng cường hiệu ứng bắn lan cho các cây hệ Dưa bên trên:\n· Đa số Cây Dưa Hấu & Bí Dưa Hấu: Sát thương lan tăng lên 2/3 sát thương đạn và không bị suy giảm theo khoảng cách\n· Dưa Hấu Xuyên Không Gian: Mục tiêu lan truyền trạng thái dịch chuyển +3\n· Dưa Hấu Thần Băng Tối Thượng: Mục tiêu lan truyền dịch chuyển +1\n· Dưa Hấu Hủy Diệt: Mở rộng bán kính nổ lan khi bắn trúng hố Than Hồng (Tro Tàn)</color>\n<color=#3D1400>Công Thức: </color><color=red>Chậu Cây (cây nền) + Dưa Hấu</color>",
+      "info": "<size=36>Chậu Cây Dưa Hấu gia tăng mạnh mẽ hiệu ứng sát thương lan của các cây hệ Dưa.</size>\n\n<color=#3D1400>Đặc tính:</color><color=red>Trồng được trên đất trần, Cây Lùn, Giá Thể</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Hoàn lại thêm 150 mặt trời khi được tạo thành qua dung hợp</color>\n<color=#3D1400>②</color><color=red>Tăng cường hiệu ứng bắn lan cho các cây hệ Dưa bên trên:\n· Đa số Cây Dưa Hấu & Su Su Dưa Hấu: Sát thương lan tăng lên 2/3 sát thương đạn và không bị suy giảm theo khoảng cách\n· Dưa Hấu Xuyên Không Gian: Mục tiêu lan truyền trạng thái dịch chuyển +3\n· Dưa Hấu Thần Băng Tối Thượng: Mục tiêu lan truyền dịch chuyển +1\n· Dưa Hấu Hủy Diệt: Mở rộng bán kính nổ lan khi bắn trúng hố Than Hồng (Tro Tàn)</color>\n<color=#3D1400>Công Thức: </color><color=red>Chậu Cây (cây nền) + Dưa Hấu</color>",
       "cost": ""
     },
     {
@@ -2816,9 +2816,9 @@
     },
     {
       "seedType": 1202,
-      "name": "Bì Bí",
-      "introduce": "<align=justified><size=36><color=#3D1400>Bên bờ bụi bặm, bí bì béo bóng bẩy bì bà bì bõm, bụng bí bự, bề bề bầu bĩnh bơ vơ bên bến bờ. Bỗng bên bển bùn bẩn bội bụi bặm ba bốn bóng bập bẹ bập bẹ - bọn zombie! Bọn bồng bột dám bén mảng bên bí bì béo. Bí bì béo bực bội bèn “HÔ BIẾN, BÙM!” bỗng, ba bốn bộ binh bí bé bon bon bên bí bì béo “BỌN BỊP BỢM BAO BIỆN!” BỊCH! Bọn zombie bị bộ binh bí bé bè bẹp. Bọn bị bắn bằng bằng bằng bằng, bọn bị bí bình bịch bình bịch. Bọn zombie buồn bã bẽn lẽn bỏ về.</color>",
-      "info": "<size=36>Các cây Bí giờ có thể tấn công tầm xa sao?.\n\n<color=#3D1400>Sát Thương:</color><color=red> 225</color>\n<color=#3D1400>Máu: </color><color=red> 4000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sẽ tạo ra một quá Bí tí hon tương ứng gây 1/6 sát thương gốc, nhảy về phía trước tối đa 1.5 ô, tối đa 6 lần trước khi biến mất. Có khả năng tìm và tấn công mục tiêu trên hàng, và sau khi biến mất thì có thể triệu hồi lại sau 3 giây.\n<color=black>•</color> Khi dùng với các loại bí đặc thù thì sẽ cho ra Bí tí hon sau đây: \n<color=black>Mèo Su Su:</color> Triệu hồi ra Mèo Su Su tí hon với khả năng tương đương Bí tí hon. \n<color=black>Bí Dưa Hấu:</color> Tạo ra Bí Dưa tí hon gây 100% sát thương gốc, có khả năng mỗi lần đè sẽ bắn ra 1 đạn dưa hấu bằng sát thương của Bí Dưa Hấu.\n<color=black>Bí Bắp Ngô:</color> Tạo ra Bí Ngô tí hon gây 100% sát thương gốc, mỗi lần đè sẽ có tỉ lệ 25% bắn ra 1 đạn bơ có khả năng bơ tối đa 3 Zombie cùng 1 lúc.\n<color=black>Hoả Bộc Bí Đao:</color> Tạo ra Bí Cay tí hon, gây 100% sát thương gốc và thiêu đốt toàn sân.\n<color=black>Bí Nhiệt Hạch</color> Tạo ra Bí Nhiệt tí hon, có khả năng gây nổ anh đào 3x3 ô mỗi khi nhảy. Lần nhảy cuối sẽ kích nổ hiệu ứng của Bom Anh Đào Nhiệt Hạch và bắn ra 6 đạn nhiệt hạch.</color>\n<color=#3D1400>Công Thức: </color><color=red>Bí Ngô (cây nền) + Su Su</color>",
+      "name": "Bí Ngô Su Su",
+      "introduce": "<align=justified><size=36><color=#3D1400>Bên bờ bụi bặm, bí bì béo bóng bẩy bì bà bì bõm, bụng bí bự, bề bề bầu bĩnh bơ vơ bên bến bờ. Bỗng bên bển bùn bẩn bội bụi bặm ba bốn bóng bập bẹ bập bẹ - bọn zombie! Bọn bồng bột dám bén mảng bên bí bì béo. Bí bì béo bực bội bèn “HÔ BIẾN, BÙM!” bỗng, ba bốn bộ binh Su Su bé bon bon bên bí bì béo “BỌN BỊP BỢM BAO BIỆN!” BỊCH! Bọn zombie bị bộ binh Su Su bé bè bẹp. Bọn bị bắn bằng bằng bằng bằng, bọn bị bí bình bịch bình bịch. Bọn zombie buồn bã bẽn lẽn bỏ về.</color>",
+      "info": "<size=36>Các cây Su Su giờ có thể tấn công tầm xa sao?.\n\n<color=#3D1400>Sát Thương:</color><color=red> 225</color>\n<color=#3D1400>Máu: </color><color=red> 4000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sẽ tạo ra một quả Su Su tí hon tương ứng gây 1/6 sát thương gốc, nhảy về phía trước tối đa 1.5 ô, tối đa 6 lần trước khi biến mất. Có khả năng tìm và tấn công mục tiêu trên hàng, và sau khi biến mất thì có thể triệu hồi lại sau 3 giây.\n<color=black>•</color> Khi dùng với các loại Su Su đặc thù thì sẽ cho ra Su Su tí hon sau đây: \n<color=black>Mèo Su Su:</color> Triệu hồi ra Mèo Su Su tí hon với khả năng tương đương Su Su tí hon. \n<color=black>Su Su Dưa Hấu:</color> Tạo ra Su Su Dưa tí hon gây 100% sát thương gốc, có khả năng mỗi lần đè sẽ bắn ra 1 đạn dưa hấu bằng sát thương của Su Su Dưa Hấu.\n<color=black>Su Su Bắp Ngô:</color> Tạo ra Su Su Bắp Ngô tí hon gây 100% sát thương gốc, mỗi lần đè sẽ có tỉ lệ 25% bắn ra 1 đạn bơ có khả năng bơ tối đa 3 Zombie cùng 1 lúc.\n<color=black>Hoả Bộc Su Su:</color> Tạo ra Su Su Cay tí hon, gây 100% sát thương gốc và thiêu đốt toàn sân.\n<color=black>Su Su Nhiệt Hạch</color> Tạo ra Su Su Nhiệt tí hon, có khả năng gây nổ anh đào 3x3 ô mỗi khi nhảy. Lần nhảy cuối sẽ kích nổ hiệu ứng của Bom Anh Đào Nhiệt Hạch và bắn ra 6 đạn nhiệt hạch.</color>\n<color=#3D1400>Công Thức: </color><color=red>Bí Ngô (cây nền) + Su Su</color>",
       "cost": ""
     },
     {
@@ -2998,14 +2998,14 @@
     },
     {
       "seedType": 1228,
-      "name": "Bí Băng",
-      "introduce": "<align=justified><size=36><color=#3D1400>“Lạnh quá! Mới hôm qua còn nằm điều hoà ngủ xong, nay bật quạt thôi cũng thấy lạnh.” Bí Tuyết phàn nàn về cái thời tiết thay đổi tựa thị trường chứng khoán mấy ngày nay, thứ kiến anh ta từ bình thường thành đông đá như này. Hình như hôm qua Bí Cay mới rủ ổng qua Trùng Khánh ăn tí lẩu, mong mọi thứ sẽ tốt hơn.</color></size></align>",
+      "name": "Su Su Băng",
+      "introduce": "<align=justified><size=36><color=#3D1400>“Lạnh quá! Mới hôm qua còn nằm điều hoà ngủ xong, nay bật quạt thôi cũng thấy lạnh.” Su Su Băng phàn nàn về cái thời tiết thay đổi tựa thị trường chứng khoán mấy ngày nay, thứ kiến anh ta từ bình thường thành đông đá như này. Hình như hôm qua Su Su Cay mới rủ ổng qua Trùng Khánh ăn tí lẩu, mong mọi thứ sẽ tốt hơn.</color></size></align>",
       "info": "<size=36>Đè Zombie và đóng băng Zombie ở phạm vi ngắn.\n\n<color=#3D1400>Sát Thương:</color><color=red> 1800\n<color=#3D1400>Khả Năng:</color><color=red> Khi đè Zombie, gây thêm 600 sát thương lan và đóng băng Zombie trong 4 giây ở phạm vi 3x3 ô. </color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Nấm Băng</color>",
       "cost": ""
     },
     {
       "seedType": 1229,
-      "name": "Bí Thôi Miên",
+      "name": "Su Su Thôi Miên",
       "introduce": "<align=justified><size=36><color=#3D1400>Hình như tôi từng thấy anh ta ở đâu rồi đúng không? Àaaaaaa, trước anh ta ở trong mod, giờ anh ta được mang về bản gốc rồi. tôi nhớ trước anh ta còn tỉnh táo lắm mà nhỉ, giờ thì… Ê *búng tay x2* cậu nhìn thấy gì không đấy?</color></size></align>",
       "info": "<size=36>Đè Zombie và thôi miên lượng lớn Zombie cùng lúc.\n\n<color=#3D1400>Sát Thương:</color><color=red> 1800\n<color=#3D1400>Khả Năng:</color><color=red> Thôi miên Zombie bị đè, nếu Zombie đó không thể bị thôi miên, gây 1800 sát thương. </color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Nấm Thôi Miên</color>",
       "cost": ""
@@ -3152,7 +3152,7 @@
     },
     {
       "seedType": 1250,
-      "name": "Bí Óc Chó",
+      "name": "Su Su Óc Chó",
       "introduce": "<align=justified><size=36><color=#3D1400>Hạt Óc Chó Nảy bị ai đó túm lấy cái cuống và lôi ra khỏi khu vui chơi trẻ em, ném thẳng lên bãi cỏ. Vì là một quả bóng lỗi, toàn thân lồi lõm nên bọn trẻ chẳng ai thích. Cậu ta rất tức giận, vừa nhảy nhót loạn xạ trên sân cỏ vừa la lớn: “Tôi phải chơi cho đã! Tôi phải chơi cho đã!”</color>",
       "info": "<size=36>Hạt Óc Chó học theo kiểu nhảy tưng tưng của Su Su!\n\n<color=#3D1400>Máu: </color><color=red> 4000</color>\n<color=#3D1400>Sát Thương:</color><color=red> 160/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color>\n<color=black>•</color><color=red> Khi có Zombie tiến lại gần, sẽ liên tục đè không ngừng và gây sát thương lan</color>\n<color=black>•</color><color=red> Không thể chặn Zombie khi đang nhảy, Zombie có thể đi qua nó trong lúc nó nhảy.</color>\n<color=#3D1400>Công Thức: </color><color=red>Óc Chó + Su Su</color>",
       "cost": ""
@@ -3175,7 +3175,7 @@
       "seedType": 1253,
       "name": "Su Su Sắt",
       "introduce": "<align=justified><size=36><color=#3D1400>Su Su Sắt trang bị cho mình những lớp sắt siêu dày để mà đè Zombie. Tuy nhiên nó không thể che được mụn trên mặt cậy ấy, mặc dù cậu ấy khăng khăng là đó chỉ là đinh tán thôi. </color>",
-      "info": "<size=36>Quả Bí bọc sắt nặng tựa ngàn cân, đè bẹp Zombie với uy lực tăng gấp bội.</size>\n\n<color=#3D1400>Máu: </color><color=red>1000</color>\n<color=#3D1400>Sát thương:</color><color=red>3240 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Cây kim loại. Giảm 50% sát thương từ bom Anh Đào Nổ</color>\n<color=#3D1400>②</color><color=red>Có thể tiêu hao đồ sắt để hồi 500 máu</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su (cây nền) + Xô Sắt</color>",
+      "info": "<size=36>Quả Su Su bọc sắt nặng tựa ngàn cân, đè bẹp Zombie với uy lực tăng gấp bội.</size>\n\n<color=#3D1400>Máu: </color><color=red>1000</color>\n<color=#3D1400>Sát thương:</color><color=red>3240 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Cây kim loại. Giảm 50% sát thương từ bom Anh Đào Nổ</color>\n<color=#3D1400>②</color><color=red>Có thể tiêu hao đồ sắt để hồi 500 máu</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su (cây nền) + Xô Sắt</color>",
       "cost": ""
     },
     {
@@ -3413,7 +3413,7 @@
       "seedType": 1287,
       "name": "Chậu Băng",
       "introduce": "<align=justified><size=36><color=#3D1400>Mùa hè này là mùa của Chậu Băng, vô số cây thường tìm đếm cậu ấy để hạ nhiệt. À mà đừng kêu cấy dưa hấu tới đây, không ai có thể ăn nổi mấy quả dưa hấu băng đâu.</color></color>",
-      "info": "<size=36>Có khả năng tản nhiệt và giúp cây trở về bình thường.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 10 giây có thể hạ nhiệt cây lửa và biến nó thành cây thường. Bao gồm: Bí Lửa, Óc Chó Lửa, Bí Ngô Lửa.</color>\n<color=#3D1400>Công Thức: </color><color=red>Chậu Cây (cây nền) + Nấm Băng</color>",
+      "info": "<size=36>Có khả năng tản nhiệt và giúp cây trở về bình thường.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 10 giây có thể hạ nhiệt cây lửa và biến nó thành cây thường. Bao gồm: Su Su Lửa, Óc Chó Lửa, Bí Ngô Lửa.</color>\n<color=#3D1400>Công Thức: </color><color=red>Chậu Cây (cây nền) + Nấm Băng</color>",
       "cost": ""
     },
     {
@@ -3637,7 +3637,7 @@
       "seedType": 1319,
       "name": "Đậu Lửa",
       "introduce": "<align=justified><size=36><color=#3D1400>Đậu Lửa vô cùng háu ăn, ngay cả khi chiến đấu cậu ta cũng phải mở túi đậu ra để ăn. Nếu cậu ta bắn đậu lửa, đó là vì cậu ta phun ra đấy.</color></color>",
-      "info": "<size=36>Bắn đạn đậu cực nóng.\n\n<color=#3D1400>Sát Thương: </color><color=red>30/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đạn có thể gây hiệu ứng Chịu Nhiệt. \n<color=black>•</color> Nếu đạn đi qua Gốc Lửa Hủy Diệt/Hỏa Bộc Bí Đao, nâng cấp thành đạn đậu phượng hoàng với khả năng xuyên 2 Zombie và +30 sát thương.</color>\n<color=#3D1400>Công Thức: </color><color=red>Đậu Hà Lan + Ớt</color>",
+      "info": "<size=36>Bắn đạn đậu cực nóng.\n\n<color=#3D1400>Sát Thương: </color><color=red>30/1.5 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đạn có thể gây hiệu ứng Chịu Nhiệt. \n<color=black>•</color> Nếu đạn đi qua Gốc Lửa Hủy Diệt/Hoả Bộc Su Su, nâng cấp thành đạn đậu phượng hoàng với khả năng xuyên 2 Zombie và +30 sát thương.</color>\n<color=#3D1400>Công Thức: </color><color=red>Đậu Hà Lan + Ớt</color>",
       "cost": ""
     },
     {
@@ -3803,23 +3803,23 @@
     },
     {
       "seedType": 1343,
-      "name": "Bí Dưa Hấu",
-      "introduce": "<align=justified><size=36><color=#3D1400>Bí Dưa Hấu thì nặng nhưng lại vô cùng mềm, Dưa Hấu thì nặng nhưng dễ vỡ. Giờ thì không phải lo nữa… à không, có lẽ phải lo cả hai.</color></color>",
-      "info": "<size=36>Những quả dưa hấu hình trái bí\n\n<color=#3D1400>Sát Thương: </color><color=red>120/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>Đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. Sau đó sẽ vỡ ra và gây sát thương lan 3x3 ô bằng 1/3 sát thương chính.</color>\n<color=#3D1400>Công Thức: </color><color=red>Dưa Hấu + Su Su</color>",
+      "name": "Su Su Dưa Hấu",
+      "introduce": "<align=justified><size=36><color=#3D1400>Su Su Dưa Hấu thì nặng nhưng lại vô cùng mềm, Dưa Hấu thì nặng nhưng dễ vỡ. Giờ thì không phải lo nữa… à không, có lẽ phải lo cả hai.</color></color>",
+      "info": "<size=36>Những quả dưa hấu hình trái Su Su\n\n<color=#3D1400>Sát Thương: </color><color=red>120/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>Đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. Sau đó sẽ vỡ ra và gây sát thương lan 3x3 ô bằng 1/3 sát thương chính.</color>\n<color=#3D1400>Công Thức: </color><color=red>Dưa Hấu + Su Su</color>",
       "cost": ""
     },
     {
       "seedType": 1344,
       "name": "Su Su Anh Đào",
       "introduce": "<align=justified><size=36><color=#3D1400>Trong số các Su Su, Su Su Anh Đào nổi tiếng siêu nóng tính, chỉ cần chạm nhẹ là nổ. “Khi phải cõng trên lưng một gánh nặng lớn như vậy, ai mà chẳng cáu,” cậu ta nói. Mà so với tính khí thất thường ấy, các Su Su khác lại tò mò hơn về việc tại sao chiếc lá trên đầu vẫn chưa hóa thành bụi nhỉ?</color></color>",
-      "info": "<size=36>Bí sơn màu anh đào để tăng sức mạnh\n\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+ 1800 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 ô phía trước</color>\n<color=#3D1400>Khả Năng: </color><color=red>Sau khi đè Zombie, kích nổ Bom Anh Đào gây sát thương lan 3x3 ô.</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Bom Anh Đào</color>",
+      "info": "<size=36>Su Su sơn màu anh đào để tăng sức mạnh\n\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+ 1800 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 ô phía trước</color>\n<color=#3D1400>Khả Năng: </color><color=red>Sau khi đè Zombie, kích nổ Bom Anh Đào gây sát thương lan 3x3 ô.</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Bom Anh Đào</color>",
       "cost": ""
     },
     {
       "seedType": 1345,
       "name": "Su Su Hủy Diệt",
       "introduce": "<align=justified><size=36><color=#3D1400>Su Su Hủy Diệt lầm lì trên bãi cỏ, mặt thì đen như than, đi đâu cũng như muốn thủng nền nhà. À phải rồi, biệt danh của cậu ta là “Béo”.</color></color>",
-      "info": "<size=36>Bí sơn màu hủy diệt để nổ ở phạm vi rộng hơn\n\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+ 1800 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 ô phía trước</color>\n<color=#3D1400>Khả Năng: </color><color=red>Sau khi đè Zombie, kích nổ Nấm Nguyên Tử gây sát thương lan 5x5 ô. Để lại hố ở nơi nó nhảy, có thể tiêu diệt cả cây trong ô đó.</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Nấm Nguyên Tử</color>",
+      "info": "<size=36>Su Su sơn màu hủy diệt để nổ ở phạm vi rộng hơn\n\n<color=#3D1400>Sát Thương: </color><color=red>1800 (1 ô)+ 1800 (Sát Thương Nổ)\n<color=#3D1400>Phạm Vi Tấn Công: </color><color=red>3 ô phía trước</color>\n<color=#3D1400>Khả Năng: </color><color=red>Sau khi đè Zombie, kích nổ Nấm Nguyên Tử gây sát thương lan 5x5 ô. Để lại hố ở nơi nó nhảy, có thể tiêu diệt cả cây trong ô đó.</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Nấm Nguyên Tử</color>",
       "cost": ""
     },
     {
@@ -3859,9 +3859,9 @@
     },
     {
       "seedType": 1351,
-      "name": "Bí Hướng Dương",
-      "introduce": "<align=justified><size=36><color=#3D1400>Bí Hướng Dương tự hào với mọi người rằng, mái tóc của cậu ta suôn mượt như Sunsilk, nhưng thật ra cậu ta bị hói.</color></color>",
-      "info": "<size=36>Quả Bí mang sức sống Hướng Dương, tiêu hao mặt trời để tiếp tục bám trụ sau khi đè bẹp Zombie.\n\n<color=#3D1400>Sát thương: </color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm: </color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Khi rời sân (ngoại trừ bị xẻng đào), có thể tiêu hao 50 Mặt Trời để lập tức trở lại sân tại vị trí hiện tại.</color>\n<color=#3D1400>②</color><color=red>Mỗi lần trở lại sân, lượng Mặt Trời tiêu hao lần sau tăng thêm 25.</color>\n<color=#3D1400>③</color><color=red>Khi không thể trở lại sân (thiếu Mặt Trời), hoàn lại 50 Mặt Trời.</color>\n<color=#3D1400>Công thức ghép: </color><color=red>Su Su + Hoa Hướng Dương</color>",
+      "name": "Su Su Hướng Dương",
+      "introduce": "<align=justified><size=36><color=#3D1400>Su Su Hướng Dương tự hào với mọi người rằng, mái tóc của cậu ta suôn mượt như Sunsilk, nhưng thật ra cậu ta bị hói.</color></color>",
+      "info": "<size=36>Quả Su Su mang sức sống Hướng Dương, tiêu hao mặt trời để tiếp tục bám trụ sau khi đè bẹp Zombie.\n\n<color=#3D1400>Sát thương: </color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm vi dò tìm: </color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Đặc điểm: ①</color><color=red>Khi rời sân (ngoại trừ bị xẻng đào), có thể tiêu hao 50 Mặt Trời để lập tức trở lại sân tại vị trí hiện tại.</color>\n<color=#3D1400>②</color><color=red>Mỗi lần trở lại sân, lượng Mặt Trời tiêu hao lần sau tăng thêm 25.</color>\n<color=#3D1400>③</color><color=red>Khi không thể trở lại sân (thiếu Mặt Trời), hoàn lại 50 Mặt Trời.</color>\n<color=#3D1400>Công thức ghép: </color><color=red>Su Su + Hoa Hướng Dương</color>",
       "cost": ""
     },
     {
@@ -3943,8 +3943,8 @@
     },
     {
       "seedType": 1363,
-      "name": "Bí Bắp Ngô",
-      "introduce": "<align=justified><size=36><color=#3D1400>Bí Bắp Ngô ngày xưa học môn Sinh rất kém. Và giờ cậu ta thay vì cố gắng giấu rằng mình dốt môn Sinh thì lại giấu việc mình thật ra phát triển không đồng đều như 1 quả ngô.</color></color>",
+      "name": "Su Su Bắp Ngô",
+      "introduce": "<align=justified><size=36><color=#3D1400>Su Su Bắp Ngô ngày xưa học môn Sinh rất kém. Và giờ cậu ta thay vì cố gắng giấu rằng mình dốt môn Sinh thì lại giấu việc mình thật ra phát triển không đồng đều như 1 quả ngô.</color></color>",
       "info": "<size=36>Những trái ngô căng mọng.\n\n<color=#3D1400>Sát Thương: </color><color=red>60/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. \n<color=black>•</color> Có tỉ lệ 25% gây bơ gây 80 sát thương và bơ tối đa 3 Zombie cùng lúc trong 4 giây.</color>\n<color=#3D1400>Công Thức: </color><color=red>Bắp Ngô + Su Su</color>",
       "cost": ""
     },
@@ -3964,7 +3964,7 @@
     },
     {
       "seedType": 1366,
-      "name": "Bí Hà Lan",
+      "name": "Su Su Hà Lan",
       "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta phân vân trong việc trở thành 1 Su Su hoặc thành 1 Đậu Hà Lan, thế là cậu ta vẫn chọn làm Su Su, nhưng khi đè xong cậu ta lại bắn đậu ra khắp mọi nơi.</color></color>",
       "info": "<size=36>Sau khi đè sẽ bắn ra rất nhiều đậu. (Chắc chắn không phải Pea Bomb từ mod nào đó)\n\n<color=#3D1400>Sát Thương: </color><color=red>1800\n<color=#3D1400>Khả Năng: </color><color=red>Sau khi đè, bắn 108 đạn đậu ra mọi hướng.</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Đậu Hà Lan</color>",
       "cost": ""
@@ -3992,9 +3992,9 @@
     },
     {
       "seedType": 1370,
-      "name": "Bí Tí Hon",
+      "name": "Su Su Tí Hon",
       "introduce": "<align=justified><size=36><color=#3D1400>Chúng chỉ là ba đứa trẻ thích xin kẹo. Điểm đặc biệt duy nhất là nếu từ chối yêu cầu của chúng, bạn có thể phải chịu một chút “áp lực” tí hon ấy.</color></color>",
-      "info": "<size=36>Những quả bí non chưa được thu hoạch.\n\n<color=#3D1400>Sát Thương: </color><color=red>300/1 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đè Zombie trong phạm vi của nó, không biến mất sau khi đè.\n<color=black>•</color> Sau khi đè, trong 0.6 giây tiếp theo có thể bị Zombie tấn công.\n<color=black>•</color> Không bị nghiền nát, thay vào đó sẽ nhận 500 sát thương mỗi 0.02 giây khi bị cán.</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Lùn (cây nền) + Su Su</color>",
+      "info": "<size=36>Những quả Su Su non chưa được thu hoạch.\n\n<color=#3D1400>Sát Thương: </color><color=red>300/1 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đè Zombie trong phạm vi của nó, không biến mất sau khi đè.\n<color=black>•</color> Sau khi đè, trong 0.6 giây tiếp theo có thể bị Zombie tấn công.\n<color=black>•</color> Không bị nghiền nát, thay vào đó sẽ nhận 500 sát thương mỗi 0.02 giây khi bị cán.</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Lùn (cây nền) + Su Su</color>",
       "cost": ""
     },
     {
@@ -4020,8 +4020,8 @@
     },
     {
       "seedType": 1374,
-      "name": "Bí Bay",
-      "introduce": "<align=justified><size=36><color=#3D1400>Nhớ khả năng bay lượn, Bí Bay có thể đè cực mạnh lên bất kì thứ gì.</color></color>",
+      "name": "Su Su Bay",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nhớ khả năng bay lượn, Su Su Bay có thể đè cực mạnh lên bất kì thứ gì.</color></color>",
       "info": "<size=36>Su Su bay lượn lơ lửng, liên tục nện bẹp kẻ thù bên dưới mà không hề biến mất.</size>\n\n<color=#3D1400>Sát thương:</color><color=red>100 (Đè bẹp)/2 giây</color>\n<color=#3D1400>Đặc tính:</color><color=red>Bay lượn</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>Ô hiện tại</color>\n<color=#3D1400>Đặc điểm:</color><color=red>Mỗi 2 giây nện bẹp toàn bộ Zombie ở ô đất bên dưới nó một lần</color>\n<color=#3D1400>Công Thức: </color><color=red>Su Su + Cỏ Ba Lá</color>",
       "cost": ""
     },
@@ -4048,9 +4048,9 @@
     },
     {
       "seedType": 1378,
-      "name": "Bí Bắp Cải",
-      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta mang theo Bí Bắp Cải Tí Hon để giúp ném thêm nhiều bí, ai dè đám đó lại ném phân thân của bọn chúng, và nó thành 1 vòng lặp rồi.</color></color>",
-      "info": "<size=36>Ném những bí bắp cải tí hon.\n\n<color=#3D1400>Sát Thương: </color><color=red>60/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Ném đạn Bí Bắp Cải Tí Hon, đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. \n<color=black>•</color> Sau đó đạn sẽ ném 2 đạn Bí Bắp Cải Tí Hon, gây 50% sát thương trong phạm vi 1 ô đằng trước.\n<color=black>•</color> Sau đó đạn sẽ tiếp tục ném thêm 2 đạn Bí Bắp Cải Tí Hon, gây 25% sát thương trong phạm vi 1 ô đằng trước.</color>\n<color=#3D1400>Công Thức: </color><color=red>Bắp Cải + Su Su</color>",
+      "name": "Su Su Bắp Cải",
+      "introduce": "<align=justified><size=36><color=#3D1400>Cậu ta mang theo Su Su Bắp Cải Tí Hon để giúp ném thêm nhiều Su Su, ai dè đám đó lại ném phân thân của bọn chúng, và nó thành 1 vòng lặp rồi.</color></color>",
+      "info": "<size=36>Ném những Su Su Bắp Cải tí hon.\n\n<color=#3D1400>Sát Thương: </color><color=red>60/3 giây\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Ném đạn Su Su Bắp Cải Tí Hon, đạn khi trúng Zombie sẽ đè gây sát thương trong phạm vi 1 ô. \n<color=black>•</color> Sau đó đạn sẽ ném 2 đạn Su Su Bắp Cải Tí Hon, gây 50% sát thương trong phạm vi 1 ô đằng trước.\n<color=black>•</color> Sau đó đạn sẽ tiếp tục ném thêm 2 đạn Su Su Bắp Cải Tí Hon, gây 25% sát thương trong phạm vi 1 ô đằng trước.</color>\n<color=#3D1400>Công Thức: </color><color=red>Bắp Cải + Su Su</color>",
       "cost": ""
     },
     {
@@ -4148,7 +4148,7 @@
       "seedType": 1392,
       "name": "Su Su Biển",
       "introduce": "<align=justified><size=36><color=#3D1400>Su Su Biển là 1 bảo vệ hồ hơi, mọi người đều choáng ngợp khi cậu ta có thể bơi 1 cách điêu luyện kể cả với thân hình đồ sộ của cậu ta. Cậu ta luôn giữ bí mất về khả năng bơi của mình 'Đó không phải điều dễ dàng đâu'. Thật ra, cậu ta có thể nổi nhờ cái nón đặc biệt trên đầu cậu, mà nơi sản xuất cái nón đó phá sản 3 đời nay rồi.</color>",
-      "info": "<size=36>Quả Bí dưới nước rình rập nhấn chìm lũ Zombie xâm nhập vào làn nước.</size>\n\n<color=#3D1400>Sát thương:</color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Đặc tính:</color><color=red>Thủy Sinh</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Biển (cây nền) + Su Su</color>",
+      "info": "<size=36>Quả Su Su dưới nước rình rập nhấn chìm lũ Zombie xâm nhập vào làn nước.</size>\n\n<color=#3D1400>Sát thương:</color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Đặc tính:</color><color=red>Thủy Sinh</color>\n<color=#3D1400>Phạm vi dò tìm:</color><color=red>0.5 ô bên trái ~ 1 ô bên phải</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Biển (cây nền) + Su Su</color>",
       "cost": ""
     },
     {
@@ -4762,9 +4762,9 @@
     },
     {
       "seedType": 367,
-      "name": "Bí Óc Chó [Thủ Tháp]",
+      "name": "Su Su Óc Chó [Thủ Tháp]",
       "introduce": "<align=justified><size=36><color=#3D1400>Hạt Óc Chó Nảy bị ai đó túm lấy cái cuống và lôi ra khỏi khu vui chơi trẻ em, ném thẳng lên bãi cỏ. Vì là một quả bóng lỗi, toàn thân lồi lõm nên bọn trẻ chẳng ai thích. Cậu ta rất tức giận, vừa nhảy nhót loạn xạ trên sân cỏ vừa la lớn: “Tôi phải chơi cho đã! Tôi phải chơi cho đã!”</color>",
-      "info": "<size=36>Hạt Óc Chó học theo kiểu nhảy tưng tưng của Su Su!\n\n<color=#3D1400>Máu: </color><color=red> 1000</color>\n<color=#3D1400>Sát Thương:</color><color=red> 80/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color>\n<color=black>•</color><color=red> Khi có Zombie tiến lại gần, sẽ liên tục đè không ngừng và gây sát thương lan</color>\n<color=black>•</color><color=red> Không thể chặn Zombie khi đang nhảy, Zombie có thể đi qua nó trong lúc nó nhảy.\n<color=#3D1400>Nâng Cấp Cơ Bản (30 mặt trời):</color><color=red> +50% sát thương\n<color=#3D1400>Nhánh 1 (75 mặt trời):</color><color=red> Mỗi lần gây sát thương sẽ hồi máu bằng 50% sát thương gây ra.\n<color=#3D1400>Nhánh 2 (75 mặt trời):</color><color=red> Zombie bị nhận sát thương bởi Óc Chó Bí sẽ nhận thêm 50% sát thương.</color>",
+      "info": "<size=36>Hạt Óc Chó học theo kiểu nhảy tưng tưng của Su Su!\n\n<color=#3D1400>Máu: </color><color=red> 1000</color>\n<color=#3D1400>Sát Thương:</color><color=red> 80/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color>\n<color=black>•</color><color=red> Khi có Zombie tiến lại gần, sẽ liên tục đè không ngừng và gây sát thương lan</color>\n<color=black>•</color><color=red> Không thể chặn Zombie khi đang nhảy, Zombie có thể đi qua nó trong lúc nó nhảy.\n<color=#3D1400>Nâng Cấp Cơ Bản (30 mặt trời):</color><color=red> +50% sát thương\n<color=#3D1400>Nhánh 1 (75 mặt trời):</color><color=red> Mỗi lần gây sát thương sẽ hồi máu bằng 50% sát thương gây ra.\n<color=#3D1400>Nhánh 2 (75 mặt trời):</color><color=red> Zombie bị nhận sát thương bởi Su Su Óc Chó sẽ nhận thêm 50% sát thương.</color>",
       "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 75</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>30 giây</color>"
     },
     {
@@ -5113,7 +5113,7 @@
     {
       "seedType": 1495,
       "name": "Su Su Lá Dù",
-      "introduce": "<align=justified><size=36><color=#3D1400>\"Tôi mọc tóc rồi!\" Su Su Lá Dù phấn khích hét lớn, anh là trái bí duy nhất ở đây có mái tóc dày mượt, nhưng rất nhanh sau đó thì không còn nữa, \"Trả tóc lại cho tao!!!!\" Su Su Lá Dù tức giận nhảy bổ về phía Zombie để báo thù cho mái tóc của mình.</color>",
+      "introduce": "<align=justified><size=36><color=#3D1400>\"Tôi mọc tóc rồi!\" Su Su Lá Dù phấn khích hét lớn, anh là trái Su Su duy nhất ở đây có mái tóc dày mượt, nhưng rất nhanh sau đó thì không còn nữa, \"Trả tóc lại cho tao!!!!\" Su Su Lá Dù tức giận nhảy bổ về phía Zombie để báo thù cho mái tóc của mình.</color>",
       "info": "<size=36>Su Su ngụy trang thành Lá Dù, sau khi lá dù bị lợi dụng đến mức khô héo sẽ chủ động xuất kích.</size>\n\n<color=#3D1400>Sát Thương: </color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Đặc Điểm: ① </color><color=red>Vật phẩm ném bị bật lại sẽ rơi ngẫu nhiên đè xuống Zombie trên sân, gây 600 sát thương</color>\n<color=#3D1400>② </color><color=red>Sau khi bật lại vật phẩm ném hoặc đẩy lùi dạng dù tích lũy đủ 3 lần, biến thành Su Su lao tới nện vào Zombie gần nhất trên sân (ưu tiên cùng hàng)</color>\n<color=#3D1400>③ </color><color=red>Đẩy lùi dạng dù: Không có sát thương</color>\n<color=#3D1400>Công Thức Dung Hợp: </color><color=red>Su Su + Lá Dù</color>",
       "cost": ""
     },
@@ -5134,8 +5134,8 @@
     {
       "seedType": 1498,
       "name": "Su Su Nấm Mũm Mĩm",
-      "introduce": "<align=justified><size=36><color=#3D1400>Dù thường xuyên bị khiếu nại vì giải quyết tranh chấp bằng bạo lực vật lý, Su Su Nấm Mũm Mĩm vẫn khăng khăng mình chưa từng động thủ. Anh giải thích rằng mình tối đa chỉ phun ra vài hạt bào tử vô hại, còn việc thường xuyên bị bắt gặp có trái bí nhảy ra từ sau lưng nện người thì anh bảo đó thuần túy là ảo giác do hít phải bào tử mà thôi.</color>",
-      "info": "<size=36>Phun sương khói tấn công bầy Zombie, đồng thời triệu hồi anh em Su Su đè bẹp mục tiêu ở gần.</size>\n\n<color=#3D1400>Sát Thương: </color><color=red>40/1.5 giây</color>\n<color=#3D1400>Đặc Điểm: </color><color=red>Khi tấn công, thò ra hai quả bí có sát thương bằng 20 lần lực tấn công, sau 2 giây lao tới đè bẹp con Zombie ở phía ngoài cùng bên trái trên sân (ưu tiên cùng hàng), sau đó cần đợi 10 giây để kích hoạt lại</color>\n<color=#3D1400>Công Thức Dung Hợp: </color><color=red>Nấm Mũm Mĩm + Su Su</color>",
+      "introduce": "<align=justified><size=36><color=#3D1400>Dù thường xuyên bị khiếu nại vì giải quyết tranh chấp bằng bạo lực vật lý, Su Su Nấm Mũm Mĩm vẫn khăng khăng mình chưa từng động thủ. Anh giải thích rằng mình tối đa chỉ phun ra vài hạt bào tử vô hại, còn việc thường xuyên bị bắt gặp có trái Su Su nhảy ra từ sau lưng nện người thì anh bảo đó thuần túy là ảo giác do hít phải bào tử mà thôi.</color>",
+      "info": "<size=36>Phun sương khói tấn công bầy Zombie, đồng thời triệu hồi anh em Su Su đè bẹp mục tiêu ở gần.</size>\n\n<color=#3D1400>Sát Thương: </color><color=red>40/1.5 giây</color>\n<color=#3D1400>Đặc Điểm: </color><color=red>Khi tấn công, thò ra hai quả Su Su có sát thương bằng 20 lần lực tấn công, sau 2 giây lao tới đè bẹp con Zombie ở phía ngoài cùng bên trái trên sân (ưu tiên cùng hàng), sau đó cần đợi 10 giây để kích hoạt lại</color>\n<color=#3D1400>Công Thức Dung Hợp: </color><color=red>Nấm Mũm Mĩm + Su Su</color>",
       "cost": ""
     },
     {
@@ -5191,7 +5191,7 @@
       "seedType": 5008,
       "name": "Óc Chó Su Su Từ Năng",
       "introduce": "<align=justified><size=36><color=#3D1400>Óc Chó Su Su Từ Năng mắc chứng ám ảnh cưỡng chế cực kỳ nghiêm trọng, anh không tài nào chịu nổi sự lộn xộn, ngay cả trong chiến đấu cũng bất chấp tất cả kéo đạn về xếp thẳng tắp trên các đường sức từ của mình. Đương nhiên, lũ Zombie thường châm chọc \"chẳng có thứ gì hỗn loạn hơn gương mặt của hắn\", và rồi sau đó chúng được chứng kiến thứ còn hỗn loạn gấp bội: cơn thịnh nộ của Óc Chó Su Su Từ Năng.</color>",
-      "info": "<size=36>Hút đạn xung quanh và truyền thêm trọng năng của bản thân, sau đó cùng lao tới đè bẹp Zombie.</size>\n\n<color=#4A2900>Điều Kiện Sử Dụng: </color><color=red>Chế Độ Du Lịch</color>\n<color=#3D1400>Công Thức Dung Hợp: </color><color=red>Bí Óc Chó + Óc Chó Nam Châm</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm Vi Quét Địch: </color><color=red>5×5</color>\n<color=#3D1400>Đặc Điểm: ① </color><color=red>Hút đạn bắn thẳng theo chiều ngang trong bán kính 1.5 ô, tăng sát thương của đạn thêm [Sát thương bản thân], sau đó hợp nhất vào cơ thể (không giữ đặc tính của đạn và không bắn vào Zombie)</color>\n<color=#3D1400>② </color><color=red>Sau khi hút đủ 10 viên đạn, chia đều đạn lao tới nện vào từng con Zombie trong phạm vi, mỗi viên đều gây sát thương đè bẹp diện hẹp. Trong thời gian này bản thân không chặn đường Zombie</color>\n<color=#3D1400>Buff 1: </color><color=red>Su Su Thích Nện: Tầm quét địch chuyển thành toàn bộ 1 hàng</color>\n<color=#3D1400>Buff 2: </color><color=red>Su Su Thích Hút: Phải hút đủ 30 viên đạn mới xuất kích tấn công</color>",
+      "info": "<size=36>Hút đạn xung quanh và truyền thêm trọng năng của bản thân, sau đó cùng lao tới đè bẹp Zombie.</size>\n\n<color=#4A2900>Điều Kiện Sử Dụng: </color><color=red>Chế Độ Du Lịch</color>\n<color=#3D1400>Công Thức Dung Hợp: </color><color=red>Su Su Óc Chó + Óc Chó Nam Châm</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Sát Thương: </color><color=red>1800 (Đè bẹp)</color>\n<color=#3D1400>Phạm Vi Quét Địch: </color><color=red>5×5</color>\n<color=#3D1400>Đặc Điểm: ① </color><color=red>Hút đạn bắn thẳng theo chiều ngang trong bán kính 1.5 ô, tăng sát thương của đạn thêm [Sát thương bản thân], sau đó hợp nhất vào cơ thể (không giữ đặc tính của đạn và không bắn vào Zombie)</color>\n<color=#3D1400>② </color><color=red>Sau khi hút đủ 10 viên đạn, chia đều đạn lao tới nện vào từng con Zombie trong phạm vi, mỗi viên đều gây sát thương đè bẹp diện hẹp. Trong thời gian này bản thân không chặn đường Zombie</color>\n<color=#3D1400>Buff 1: </color><color=red>Su Su Thích Nện: Tầm quét địch chuyển thành toàn bộ 1 hàng</color>\n<color=#3D1400>Buff 2: </color><color=red>Su Su Thích Hút: Phải hút đủ 30 viên đạn mới xuất kích tấn công</color>",
       "cost": ""
     }
   ]

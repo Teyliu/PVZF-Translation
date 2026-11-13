@@ -650,8 +650,8 @@
     },
     {
       "theZombieType": 116,
-      "name": "Zombie Bí Cay",
-      "introduce": "<size=36><color=black>Zombie Bí Cay là con Zombie \"nóng\" nhất trong đám Zombie. Ngay khi xuất hiện, nó đã hất văng những con zombie khác sang một bên! Nó muốn đứng thẳng dậy và hét lên, \"Verbrenne Sie Alle!\" như tên A H nào đó.</color>",
+      "name": "Zombie Su Su Cay",
+      "introduce": "<size=36><color=black>Zombie Su Su Cay là con Zombie \"nóng\" nhất trong đám Zombie. Ngay khi xuất hiện, nó đã hất văng những con zombie khác sang một bên! Nó muốn đứng thẳng dậy và hét lên, \"Verbrenne Sie Alle!\" như tên A H nào đó.</color>",
       "info": "<size=36>Nhảy Và Tiêu Diệt Cả 1 Hàng Cây!\n\n<color=black>Máu: </color><color=#4B0082>1500</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Đè cây đầu tiên nó gặp và đốt cháy 1 hàng. Không cháy khi bị đóng băng.</color>"
     },
     {
@@ -1415,6 +1415,24 @@
       "name": "Zombie Đinh Ba Băng Giá",
       "introduce": "<color=#3D1400>Zombie Đinh Ba Băng Giá là ngư dân lừng danh nhất sống tại vùng Bắc Cực. Cây đinh ba của hắn dùng để săn những con cá tươi ngon nhất dưới lớp băng, còn cái đầu Quả Óc Chó Cao dùng để đập vỡ những con cá đông lạnh đã bảo quản hàng chục năm.</color>",
       "info": "Phóng lao băng phong tỏa con mồi, sau đó dùng đòn đâm xé xác từng mục tiêu.\n\n<color=#3D1400>Độ Bền:</color><color=red>3000 + 6000 (Loại 1)</color>\n<color=#3D1400>Sát Thương:</color><color=red>200</color>\n<color=#3D1400>Tốc Độ Di Chuyển:</color><color=red>Trung bình</color>\n<color=#3D1400>Mục Tiêu Ném:</color><color=red>Cây ngẫu nhiên cách phía trước hơn 4 cột</color>\n<color=#3D1400>Đặc Điểm:</color><color=red>Kháng lạnh cấp 1. Xuất hiện 6~9 giây hoặc khi bị cây cản đường, ném 3 cây lao tuyết, mỗi cây bắn trúng cây trồng gây [20% máu cây, tối thiểu 60] sát thương và đóng băng. Sau đó chuyển sang đánh cận chiến, gây 1 giây đông cứng và 10 điểm tích lũy băng phong cho cây trồng trong phạm vi 2 ô phía trước. Khi tích lũy đủ 100 điểm, cây sẽ bị đóng băng hoàn toàn</color>"
+    },
+    {
+      "theZombieType": 339,
+      "name": "<u><i>Hải Thần Ngự Lôi Pozeidon</i></u>",
+      "introduce": "<align=left><size=36><color=red>Trải qua quá trình rèn luyện gian khổ, Zombie Cây Ba Chĩa Tối Thượng cuối cùng đã được Ba Chĩa Biển Sâu thừa nhận, hoàn thành cuộc lột xác từ một công cụ bị sai khiến thành kẻ ngự trị bão tố, vứt bỏ bản năng cắn phá cấp thấp. Vào lúc này, hắn và cây ba chĩa đều đại diện cho ý chí của biển sâu cổ đại; trước lôi quang tuyệt đối, mọi sự giãy giụa đều chỉ là một gợn sóng phù du giữa đại dương vĩnh hằng.</color>",
+      "info": "<color=red>Giáng lâm giữa giông bão, cuồng nộ của cây ba chĩa sẽ nhấn chìm tất cả xuống đáy vực thẳm.</color>\n\n<color=black>Máu: </color>90000\n<color=black>Đặc Điểm:</color>\n<color=black>•</color> Trùm. Miễn nhiễm đóng băng, bất động và đẩy lùi. Luân chuyển giữa Dẫn Lôi và Khu Lôi:\n\t<color=black>•</color> Dẫn Lôi: Ném cây ba chĩa khổng lồ vào một thực vật ngẫu nhiên, sau đó triệu hồi 2 hàng Đội Trưởng Ba Chĩa Khổng Nhân trên mỗi làn. Sau 9 giây, thu hồi cây ba chĩa khổng lồ và nhận sức mạnh sấm sét.\n\t<color=black>•</color> Khu Lôi: 50% tỉ lệ dẫn điện vào một thực vật ngẫu nhiên, gây 120 sát thương 12 lần; nếu không, sẽ biến thành quả cầu sét lao ngang chiến trường, tiêu diệt toàn bộ thực vật trên đường đi.</color>"
+    },
+    {
+      "theZombieType": 134,
+      "name": "Zombie Óc Chó Cao Bầu Dục Cá Heo",
+      "introduce": "<align=left><size=36><color=black>Những buổi tập luyện chăm chỉ đã đem lại cho Zombie Óc Chó Cao Bầu Dục Cá Heo một thân hình cường tráng, nhưng cũng để lại cho hắn chiếc đầu nhọn hoắt. Dù hắn khăng khăng rằng điều đó giúp giảm sức cản của gió, các zombie khác đều nhất trí rằng đó chỉ là vì hắn chưa tiến hóa hoàn thiện khi bò lên từ biển cả.</color>",
+      "info": "<size=36>Di chuyển qua lại trên sân để quấy nhiễu, bước chân càng trở nên tinh tế hơn khi thể trạng tốt.\n\n<color=black>Sát Thương Cắn: </color><color=#4B0082>100</color>\n<color=black>Máu: </color><color=#4B0082>3000+12000 (Loại 1)</color>\n<color=black>Tốc Độ Di Chuyển: </color><color=#4B0082>Nhanh</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm bất động và đẩy lùi. Di chuyển qua lại ở bên phải cột đầu tiên. Khi tiếp xúc thực vật, gây trạng thái Ẩm Ướt. Khi lượng máu của giáp Loại 1 trên 2/3, phớt lờ thực vật mà di chuyển.</color>"
+    },
+    {
+      "theZombieType": 135,
+      "name": "Zombie Chiến Thần Anh Đào",
+      "introduce": "<align=left><size=36><color=black>Sau một thời gian dài bị Anh Long Đại Đế cản bước, lũ zombie cuối cùng đã quyết định bồi dưỡng một chiến thần của riêng mình. Mặc dù sản phẩm cuối cùng của cuộc thí nghiệm này không hoàn toàn kiểm soát được, nhưng đã đủ thành công rồi, dù sao thì hắn thực sự ăn sạch mọi thứ... Ôi trời ơi, ai đã thả hắn ra ngoài vậy?!</color>",
+      "info": "<size=36>Không ngừng tăng cường thể chất thông qua việc xé cắn.\n\n<color=black>Sát Thương Cắn: </color><color=#4B0082>50</color>\n<color=black>Sát Thương Xé Rách: </color><color=#4B0082>1000/1.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>2200</color>\n<color=black>Tốc Độ Di Chuyển: </color><color=#4B0082>Chậm</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm đẩy lùi. Đòn tấn công mỗi 1.5 giây gây xé rách trong phạm vi 1.5 ô phía trước, hồi lượng máu bằng [10 lần sát thương cắn] (500) và nhả ra quả anh đào phát nổ. Trong 132 lần xé cắn đầu tiên, hồi thêm lượng máu bằng [1 lần sát thương cắn] (50).</color>"
     }
   ]
 }
