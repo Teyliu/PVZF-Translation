@@ -77,8 +77,8 @@
             "desc": "Khống Chế Biến Số: Các vụ nổ Nguyên Tử không còn để lại hố | Mở khóa Công Thức: Nấm Tham Lam"
         },
         "19": {
-            "name": "Công Xưởng Bộc Phá",
-            "desc": "<color=red>Nấm Tai Họa</color>: Khổng Nhân Vũ Trang được triệu hồi khi vung búa sẽ tổn hao máu để triệu hồi Quỷ Lùn Tự Sát phát nổ hủy diệt | <color=red>Nấm Hám Lợi</color>: Tiêu diệt Thủ Lĩnh Bị Nguyền Rủa nhận thêm 2.000 điểm | Kế thừa hiệu ứng cho dạng SP | <color=red>Nấm Tai Họa SP</color>: Vụ tự nổ của Quỷ Lùn Hắc Diệu Thạch gây sát thương chuẩn"
+            "name": "Binh Xưởng Tự Sát",
+            "desc": "<color=red>Nấm Phóng Xạ</color>: Khổng Nhân Vũ Trang được triệu hồi khi vung búa sẽ mất máu để triệu hồi Zombie Quỷ Nhỏ tự phát nổ Nấm Nguyên Tử | <color=red>Nấm Tham Lam</color>: Tiêu diệt Thủ Lĩnh Bị Nguyền Rủa nhận thêm 2.000 Điểm Tích Lũy | Áp dụng cho dạng Cực Hạn | <color=red>Nấm Phóng Xạ Cực Hạn</color>: Vụ tự nổ của Quỷ Nhỏ Hắc Diệu Thạch bỏ qua giảm sát thương"
         },
         "20": {
             "name": "",
@@ -193,12 +193,12 @@
             "desc": "Nâng Cấp Xếp Chồng:\nGiới hạn xếp chồng của một ô chứa trên tất cả Hộp Bí Ngô tăng gấp đôi"
         },
         "48": {
-            "name": "Đập Bẹp",
-            "desc": "Óc Chó Trọng Lực: Tăng phạm vi tìm địch lên toàn hàng"
+            "name": "Su Su Thích Nện",
+            "desc": "<color=red>Óc Chó Su Su Từ Năng</color>: Tầm quét địch chuyển thành toàn bộ 1 hàng"
         },
         "49": {
-            "name": "Dung Lượng",
-            "desc": "Óc Chó Trọng Lực: Hút đủ 30 viên đạn mới phát động tấn công"
+            "name": "Su Su Thích Hút",
+            "desc": "<color=red>Óc Chó Su Su Từ Năng</color>: Phải hút đủ 30 viên đạn mới xuất kích tấn công"
         },
         "1000": {
             "name": "",
@@ -293,8 +293,8 @@
             "desc": "<color=#800080>Nâng Cấp Ma Lực</color>: Ma lực của Đậu Băng Pháp Sư tăng lên cấp 2"
         },
         "1023": {
-            "name": "Đầu Tư",
-            "desc": "Nhận thêm [120% - (vòng hiện tại x 10%)] điểm"
+            "name": "Bỏ Túi An Tâm",
+            "desc": "Hiệu suất nhận Điểm Tích Lũy tăng [120% - (số vòng hiện tại × 10%)]"
         },
         "2000": {
             "name": "",
@@ -417,8 +417,8 @@
             "desc": "Tia Thu Nhỏ VIII: Triệu hồi Tiểu Quái Ngư. Nó sẽ tăng sát thương vụ nổ hề cho phe cây và bắn bom vào Zombie mỗi 1.5 giây (mỗi 3 lần tấn công sẽ tấn công mỗi hàng). Nếu Quái Ngư trên sân, x2 sát thương gây ra."
         },
         "4008": {
-            "name": "Thần Đồng Cherryz",
-            "desc": "Tăng sát thương nổ anh đào của phe thực vật. Khi trúng vụ nổ anh đào, cuồng nộ trong 6 giây và bắn anh đào nhanh. Buộc tất cả Súng Máy Anh Đào xả đạn dữ dội và chuyển tối đa 10 zombie bị thôi miên (kể cả khi chết) thành Zombie Đọc Báo Súng Máy Anh Đào. Trong chuỗi buff này chỉ có 1 buff có hiệu lực."
+            "name": "Tia Thu Nhỏ IX",
+            "desc": "Triệu hồi Giáo Sư Z Tí Hon cùng chiến đấu. Tăng sát thương nổ anh đào của phe thực vật. Khi trúng vụ nổ anh đào, nổi giận trong 6 giây: lập tức giáo hóa 10 zombie và khiến Liên Pháo Anh Đào xả đạn dữ dội, trong thời gian đó giáo hóa 10 zombie rời sân. Chuỗi buff này chỉ có 1 buff có hiệu lực."
         },
         "5000": {
             "name": "",
@@ -498,7 +498,7 @@
         },
         "7004": {
             "name": "<color=#800080>【Tiến Hóa SP】</color>",
-            "desc": "<nobr>Mở khóa <color=red>Nấm Tai Họa SP</color>\nNấm Tai Họa + Nấm Nguyên Tử</nobr>\n<nobr>Mở khóa <color=red>Nấm Hám Lợi SP</color>\nNấm Hám Lợi + Nấm Nguyên Tử</nobr>\nKế thừa công thức chuyển đổi gốc"
+            "desc": "<nobr>Mở khóa <color=red>Nấm Phóng Xạ Cực Hạn</color>\nNấm Phóng Xạ + Nấm Nguyên Tử</nobr>\n<nobr>Mở khóa <color=red>Nấm Tham Lam Cực Hạn</color>\nNấm Tham Lam + Nấm Nguyên Tử</nobr>\nKế thừa công thức chuyển đổi gốc"
         },
         "10000": {
             "name": "",
@@ -587,6 +587,10 @@
         "11001": {
             "name": "",
             "desc": "Đặc Tính Màn Chơi: Nấm Biển Tối Thượng khi xuất trận tự mang 10 tầng số vòng Du Lịch"
+        },
+        "11002": {
+            "name": "Đặc Tính Màn Chơi",
+            "desc": "Đặc Tính Màn Chơi: Toàn bộ thực vật đều biến thành Dấu Hỏi"
         },
         "12000": {
             "name": "",
@@ -701,24 +705,24 @@
             "desc": "Đột Phá - Nổi Trận Lôi Đình：Nấm U Mê Siêu Súng Máy mỗi lần tấn công chắc chắn thi triển tuyệt chiêu, nhưng số lượng đạn tuyệt chiêu giảm một nửa"
         },
         "12028": {
-            "name": "Thăng Hoa: Tụ Năng Tiêu Cự",
-            "desc": "Giảm cực mạnh góc lệch đạn, tăng mạnh tầm bắn của Long Diệm, đòn Long Diệm tiêu hao ít hơn 2 năng lượng"
+            "name": "Đột Phá - Đạn Đạo Tụ Năng",
+            "desc": "Giảm cực mạnh góc lệch phát đạn, tăng mạnh tầm bắn đạn Long Viêm, tiêu hao năng lượng đạn Long Viêm giảm 2"
         },
         "12029": {
-            "name": "Thăng Hoa: Cửu Long Chí Tôn",
-            "desc": "Số tia đạn Long Diệm cố định là 9, giảm nhẹ tầm bắn của Long Diệm, sát thương Long Diệm tăng 1300% (gấp 14 lần)"
+            "name": "Đột Phá - Cửu Long Chí Tôn",
+            "desc": "Số lượng đường đạn Long Viêm cố định là 9, giảm nhẹ tầm bắn đạn Long Viêm, sát thương đạn Long Viêm tăng 1300% (gấp 14 lần)"
         },
         "12030": {
-            "name": "Thăng Hoa: Băng Giới",
-            "desc": "Khi zombie chịu 10 phát trúng trực tiếp từ Dưa Hấu Thần Băng, kích hoạt sóng xung kích băng gây sát thương diện rộng cực lớn cho zombie xung quanh"
+            "name": "Đột Phá - Băng Thiên Tuyết Địa",
+            "desc": "Khi một zombie chịu 10 phát trúng trực tiếp từ Thời Không Cực Hàn, kích hoạt sóng xung kích băng gây sát thương diện rộng cực lớn cho zombie xung quanh"
         },
         "12031": {
-            "name": "Thăng Hoa: Cộng Sự",
-            "desc": "Đơn vị có tổng sát thương xếp hạng nhất gọi là Cộng Sự. Mỗi khi Nấm Băng Bắn Tỉa tấn công, nếu Cộng Sự là thực vật và đang ở trên sân, nó sẽ phóng thêm một đòn tấn công tương tự từ vị trí của Cộng Sự"
+            "name": "Đột Phá - Cộng Sự",
+            "desc": "Đơn vị có tổng sát thương xếp hạng nhất gọi là Cộng Sự. Mỗi khi Băng Hà Lan Linh tấn công, nếu Cộng Sự là thực vật và đang ở trên sân, nó sẽ phóng thêm một đòn tấn công tương tự tại vị trí của Cộng Sự"
         },
         "12032": {
-            "name": "Thăng Hoa: Triệu Hồi",
-            "desc": "Sau khi nuốt chửng zombie, Chiến Thần Anh Đào sẽ triệu hồi một hàng Zombie Chiến Thần Anh Đào bị thôi miên chiến đấu cho bạn"
+            "name": "Đột Phá - Phệ Hóa Vạn Quân",
+            "desc": "Sau khi Anh Long Đại Đế nuốt chửng zombie, sẽ triệu hồi một hàng Zombie Chiến Thần Anh Đào bị thôi miên chiến đấu cho bạn"
         },
         "13000": {
             "name": "",
@@ -921,20 +925,20 @@
             "desc": "Toàn Năng - Hoàn Hảo Không Tì Vết：Toàn bộ cây trồng trên sân nhận 500% máu cộng thêm, 300% tăng sát thương độc lập, 200% tăng tốc độ, 60% tỷ lệ Đòn Chí Mạng May Mắn, 150% sát thương Đòn Chí Mạng May Mắn"
         },
         "13050": {
-            "name": "Tiền Tuyến",
-            "desc": "Thực vật gây thêm 30% sát thương khi đứng ở 4 cột ngoài cùng bên phải."
+            "name": "Cuồng Chiến - Thiết Vệ (I)",
+            "desc": "Thực vật đứng ở 4 cột bên phải gây thêm 30% sát thương lên zombie."
         },
         "13051": {
-            "name": "Tiền Tuyến - A",
-            "desc": "Thực vật gây thêm 100% sát thương khi đứng ở 4 cột ngoài cùng bên phải."
+            "name": "Cuồng Chiến - Thiết Vệ (II)",
+            "desc": "Thực vật đứng ở 4 cột bên phải gây thêm 100% sát thương lên zombie."
         },
         "13052": {
-            "name": "Tiền Tuyến - B",
-            "desc": "Lập tức nhận bổ trợ Kháng Đè Bẹp và [Bảo Vệ Nổ]. Toàn bộ thực vật nhận 25.000 khiên."
+            "name": "Cuồng Chiến - Thiết Vệ (III)",
+            "desc": "Lập tức nhận bổ trợ Kháng Nghiền Nát và [Bảo Vệ Vụ Nổ]. Toàn bộ thực vật lập tức nhận 25.000 khiên."
         },
         "13053": {
-            "name": "Tiền Tuyến - X",
-            "desc": "Khi thực vật gây sát thương trong phạm vi 3 ô, chúng hồi máu và khiên (lên đến giới hạn tối đa)."
+            "name": "Thiết Vệ - Thân Thể Bất Diệt",
+            "desc": "Khi thực vật gây sát thương trong phạm vi 3 ô, chúng hồi phục máu và khiên (có giới hạn)."
         },
         "14000": {
             "name": "Lời Nguyền: 1437",
@@ -1230,11 +1234,11 @@
     "debuffs": {
         "0": {
             "name": "Thế Không Thể Cản",
-            "desc": "Zombie Đọc Báo Súng Máy Anh Đào: Có thể đi xuyên qua thực vật khi bị rách báo | Giáo Sư Cherryz: +1 Báo Dự Phòng nếu không chọn"
+            "desc": "Liên Báo Anh Đào: Có thể đi xuyên qua thực vật khi nổi giận | Giáo Sư Z Tối Thượng: +1 Báo Dự Phòng nếu không chọn"
         },
         "1": {
-            "name": "Tuyệt Đối Miễn Dịch",
-            "desc": "Zombie Đọc Báo Súng Máy Anh Đào: Miễn nhiễm mọi hiệu ứng bất lợi | Giáo Sư Cherryz: +1 Báo Dự Phòng nếu không chọn"
+            "name": "Nộ Khí Xung Thiên",
+            "desc": "Liên Báo Anh Đào: Miễn nhiễm hầu hết mọi hiệu ứng bất lợi | Giáo Sư Z Tối Thượng: +1 Báo Dự Phòng nếu không chọn"
         },
         "2": {
             "name": "",
