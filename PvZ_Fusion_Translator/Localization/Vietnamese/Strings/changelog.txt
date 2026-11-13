@@ -15,8 +15,8 @@ Dòng Cực Hạn: Nấm Phóng Xạ Cực Hạn, Nấm Tham Lam Cực Hạn, Ó
 
 3. Zombie Mới
 Zombie Biến Thể: Zombie Chiến Thần Anh Đào
-Zombie Cực Hạn: Zombie Óc Chó Cao Bầu Dục Cá Heo
-BOSS: Đinh Ba Biển Sâu
+Zombie Cực Hạn: Zombie Cá Heo Bóng Bầu Dục Óc Chó Cao
+BOSS: Đinh Ba Vực Sâu
 
 4. Cập Nhật Màn Chơi
 · Siêu Ngẫu Nhiên: Đại Chiến Dấu Hỏi: Vẽ chân dung cho các cây trồng ngẫu nhiên được Hướng Dương Họa Sĩ chiêu mộ, và sử dụng những cây này để nghênh chiến Zombie
@@ -31,7 +31,7 @@ Tia Thu Nhỏ -- Giáo Sư Z Tí Hon!
 · Cỏ Ba Lá Nam Châm: Sau khi tiêu hóa đồ sắt sẽ biến chúng thành vật phẩm rơi
 · Nấm Phóng Xạ & Nấm Tham Lam: Làm lại hiệu ứng cơ chế. Gỡ bỏ hạn chế sử dụng Nấm Tham Lam trong độ khó Lời Nguyền Du Lịch
 · Đinh Ba: Thêm hiệu ứng Làm Chậm khi áp đặt trạng thái Ẩm Ướt
-· Đinh Ba Biển Sâu Cực Hạn: Có thể cắn nuốt và cường hóa trạng thái suy yếu Ẩm Ướt như Đinh Ba, cây Đinh Ba khổng lồ tạo xoáy nước hút đạn
+· Đinh Ba Vực Sâu Tối Thượng: Có thể cắn nuốt và cường hóa trạng thái suy yếu Ẩm Ướt như Đinh Ba, cây Đinh Ba khổng lồ tạo xoáy nước hút đạn
 · Khổng Lồ Đinh Ba Pháo Đài: Ném đinh ba không còn yêu cầu máu phải dưới 50%
 
 7. Tối Ưu Khác
