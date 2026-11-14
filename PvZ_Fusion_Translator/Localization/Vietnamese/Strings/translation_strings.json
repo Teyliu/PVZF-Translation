@@ -11002,5 +11002,21 @@
   "提交5个究极投手可以获得1个星辉投手": "Giao nộp 5 Độc Lan Đế để nhận 1 Độc Lan Đế Tinh Tú!",
   "星辉体验：究极投手": "Trải Nghiệm Tinh Tú | Độc Lan Đế",
   "需要一次提交5个究极投手": "Bạn cần giao nộp 5 Độc Lan Đế cùng lúc!",
-  "LEVEL_UNNAMED": "Màn Chơi Chưa Đặt Tên"
+  "LEVEL_UNNAMED": "Màn Chơi Chưa Đặt Tên",
+  "刮刮乐规则：\n刮出两个相同植物，则立即获得1张该植物卡牌\\n刮出三个：立即获得3张该植物卡牌\\n3个以上：立即获得本张刮刮乐的全部卡牌": "Quy Tắc Thẻ Cào:\nCào trúng 2 cây giống nhau: nhận ngay 1 thẻ bài của cây đó\nCào trúng 3 cây: nhận ngay 3 thẻ bài của cây đó\nTrên 3 cây: nhận ngay toàn bộ thẻ bài trên thẻ cào này",
+  "卡牌的冷却加快了": "Thời gian hồi của thẻ bài đã được tăng tốc",
+  "手套的冷却加快了": "Thời gian hồi của găng tay đã được tăng tốc",
+  "模仿者的冷却加快了": "Thời gian hồi của Bắt Chước đã được tăng tốc",
+  "全体植物获得100%伤害增幅": "Toàn bộ thực vật nhận 100% tăng sát thương",
+  "只能和其他平行时空树桩放在同一列": "Chỉ có thể đặt cùng cột với các Gốc Cây Thời Không Song Song khác",
+  "每行只能存在一株": "Mỗi hàng chỉ có thể tồn tại 1 cây",
+  "总有一天": "Sẽ có một ngày",
+  "总有一天，就是今天": "Sẽ có một ngày, chính là hôm nay",
+  "点击神笔作画，可以画出植物或魅惑僵尸\n画作看起来越强，画出的单位就会越强\n高级画笔画出的数值上限更高": "Nhấn Bút Thần để vẽ, có thể vẽ ra thực vật hoặc Zombie bị thôi miên\nTranh vẽ trông càng mạnh, đơn vị tạo ra sẽ càng mạnh\nBút vẽ cao cấp có giới hạn chỉ số tối đa cao hơn",
+  "以你的画作代替画出的植物或魅惑僵尸贴图": "Dùng tranh bạn vẽ thay thế cho hình ảnh thực vật hoặc Zombie bị thôi miên được tạo ra",
+  "植物信息": "Thông Tin Cây",
+  "战斗属性": "Thuộc Tính Chiến Đấu",
+  "生命值": "Máu",
+  "属性计数": "Bộ Đếm Thuộc Tính",
+  "Esc 返回游戏": "Esc Tiếp Tục"
 }
