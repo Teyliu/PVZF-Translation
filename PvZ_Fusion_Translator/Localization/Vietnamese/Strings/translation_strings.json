@@ -9943,7 +9943,7 @@
   "关卡特性：植物全部都变成问号": "Đặc tính màn chơi: Toàn bộ thực vật đều biến thành dấu hỏi",
   "Đột Phá - 聚能弹道：极大幅度减小子弹发射偏转角度，大幅提高龙炎弹射程，龙炎弹耗能-2": "Đột Phá - Đạn Đạo Tụ Năng: Giảm cực mạnh góc lệch phát đạn, tăng mạnh tầm bắn đạn Long Viêm, tiêu hao năng lượng đạn Long Viêm -2",
   "Đột Phá - 九龙至尊：龙炎弹弹道数固定为9，小幅降低龙炎弹射程，龙炎弹伤害提高1300%": "Đột Phá - Cửu Long Chí Tôn: Số lượng đường đạn Long Viêm cố định là 9, giảm nhẹ tầm bắn đạn Long Viêm, sát thương đạn Long Viêm tăng 1300%",
-  "Đột Phá - 冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害": "Đột Phá - Băng Thiên Tuyết Địa: Khi một zombie bị Băng Thần Dưa Hấu đánh trúng trực diện 10 lần, sẽ giải phóng sóng xung kích băng giá, gây lượng lớn sát thương cho zombie xung quanh",
+  "Đột Phá - 冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害": "Đột Phá - Băng Thiên Tuyết Địa: Khi một zombie bị Thời Không Cực Hàn đánh trúng trực diện 10 lần, sẽ giải phóng sóng xung kích băng giá, gây lượng lớn sát thương cho zombie xung quanh",
   "Đột Phá - 伙伴一起：伤害统一排名第一位的称为伙伴，小冰机每次攻击时，若伙伴为植物且存在于场上，则在伙伴位置额外释放一次攻击": "Đột Phá - Bạn Đồng Hành: Đơn vị xếp hạng nhất về tổng sát thương được gọi là Bạn Đồng Hành, mỗi khi Xe Băng Nhỏ tấn công, nếu Bạn Đồng Hành là thực vật và còn trên sân thì sẽ giải phóng thêm một đòn tấn công tại vị trí Bạn Đồng Hành",
   "质变-噬化 * 10k": "Biến Chất - Phệ Hóa * 10k",
   "狂战-铁卫：植物在右4列时，对僵尸额外造成30%伤害": "Cuồng Chiến - Thiết Vệ: Khi thực vật ở 4 cột bên phải, gây thêm 30% sát thương lên zombie",
@@ -11018,5 +11018,14 @@
   "战斗属性": "Thuộc Tính Chiến Đấu",
   "生命值": "Máu",
   "属性计数": "Bộ Đếm Thuộc Tính",
-  "Esc 返回游戏": "Esc Tiếp Tục"
+  "Esc 返回游戏": "Esc Tiếp Tục",
+  "生产间隔": "Chu Kỳ Sản Xuất",
+  "场上植物数量为0/1/2/3/4/5/6及以上时，僵尸受到50%/60%/70%/80%/90%/100%/105%伤害": "Khi số lượng cây trên sân là 0/1/2/3/4/5/6 trở lên, zombie nhận 50%/60%/70%/80%/90%/100%/105% sát thương",
+  "非boss僵尸的生命值和体型提高60%，但速度降低60%": "Zombie không phải Boss tăng 60% máu và kích thước, nhưng giảm 60% tốc độ",
+  "冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害": "Băng Thiên Tuyết Địa: Khi một zombie bị Thời Không Cực Hàn đánh trúng trực diện 10 lần, sẽ giải phóng sóng xung kích băng giá, gây lượng lớn sát thương cho zombie xung quanh",
+  "质变-冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害": "Đột Phá - Băng Thiên Tuyết Địa: Khi một zombie bị Thời Không Cực Hàn đánh trúng trực diện 10 lần, sẽ giải phóng sóng xung kích băng giá, gây lượng lớn sát thương cho zombie xung quanh",
+  "攻速加成": "Tăng Tốc Đánh",
+  "幸运一击率": "Tỉ Lệ Chí Mạng",
+  "幸运一击伤害": "Sát Thương Chí Mạng",
+  "该模式下，平行时空树桩分裂的子弹只有原来1/3的伤害": "Ở chế độ này, đạn tách từ Gốc Cây Thời Không Song Song chỉ còn 1/3 sát thương gốc"
 }
