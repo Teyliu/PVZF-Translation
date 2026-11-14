@@ -5043,8 +5043,8 @@
     {
       "seedType": 1488,
       "name": "Nấm Lùn Xương Rồng",
-      "introduce": "<align=justified><size=36><color=#3D1400>Sự kết hợp giữa Nấm Lùn và Xương Rồng mang đến những chiếc gai sắc bén có thể phóng từ xa. Cậu ấy nhỏ nhắn nhưng luôn sẵn sàng đối phó với kẻ địch trên không lẫn dưới đất.</color></size></align>",
-      "info": "<size=36>Bắn gai xương rồng về phía trước, có thể bắn hạ Zombie bóng bay.\n\n<color=#3D1400>Máu: </color><color=red>300</color>\n<color=#3D1400>Sát Thương: </color><color=red>20 / 1.5 giây</color>\n<color=#3D1400>Thuộc Tính: </color><color=red>Tầm thấp</color>\n<color=#3D1400>Đặc Điểm: ①</color><color=red>Bắn gai xương rồng tầm xa (đơn mục tiêu, không xuyên thấu), có thể bắn hạ Zombie bóng bay trên không</color>\n<color=#3D1400>②</color><color=red>Gai xương rồng bắn ra từ cây này sẽ thu nhỏ Zombie trúng đòn (còn 70% kích thước)</color>\n<color=#3D1400>③</color><color=red>Là thực vật tầm thấp, có thể né các loại đạn tầm cao của Zombie</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Xương Rồng</color></size>",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là khách quen của khu vui chơi, Nấm Lùn Xương Rồng luôn khổ luyện độ chuẩn xác để giành giải thưởng lớn ở trò ném phi tiêu, nhưng xét đến chiều cao chẳng với tới tâm bia của cô bé, có lẽ cô bé hợp chơi trò chọc bóng bay hơn……</color></size></align>",
+      "info": "<size=36>Pháo phòng không cỡ nhỏ, có thể làm Zombie bay thu nhỏ lại.\n\n<color=#3D1400>Sát Thương: </color><color=red>30 / 1 giây</color>\n<color=#3D1400>Thuộc Tính: </color><color=red>Tầm thấp, Có thể trồng chung ô</color>\n<color=#3D1400>Đặc Điểm: </color><color=red>Ưu tiên dò tìm Zombie bay ở phía trước và sau trên hàng này. Sau khi gây sát thương sẽ áp đặt trạng thái Thu Nhỏ lên Zombie bay</color>\n<color=#3D1400>Công Thức: </color><color=red>Nấm Lùn (cây nền) + Xương Rồng</color></size>",
       "cost": ""
     },
     {
