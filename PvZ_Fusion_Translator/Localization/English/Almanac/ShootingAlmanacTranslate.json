@@ -1,0 +1,4262 @@
+{
+    "schemaVersion": 4,
+    "sourceHash": "41FC5D29EBC42E7CA62BAE83678E8CEE1ECD88208D3E5FFE0DA31C3EDE1856E4",
+    "roots": [
+        "Peashooter",
+        "WallNut",
+        "PotatoMine",
+        "Chomper",
+        "SmallPuff",
+        "FumeShroom",
+        "ScaredyShroom",
+        "Squash",
+        "HypnoShroom",
+        "Jalapeno",
+        "ThreePeater",
+        "Caltrop",
+        "Cactus",
+        "StarFruit",
+        "Cabbagepult",
+        "Melonpult",
+        "Cornpult",
+        "Umbrellaleaf",
+        "Bamboo",
+        "SpruceShooter"
+    ],
+    "plants": [
+        {
+            "plant": "Peashooter",
+            "configType": "GameLevel.RogueShooting.Peashooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "LanternSplit"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "SniperPea"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "CherryGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "HelmetGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "SnowPeaShooter"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "JalaGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "WallNut",
+            "configType": "GameLevel.RogueShooting.WallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "SuperChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "TallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "CabbageNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "MagnetNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PotatoMine",
+            "configType": "GameLevel.RogueShooting.PotatoMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PotatoMine",
+                        "PeaMine"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Chomper",
+            "configType": "GameLevel.RogueShooting.Chomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Chomper",
+                        "CherryChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Chomper",
+                        "BigChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SmallPuff",
+            "configType": "GameLevel.RogueShooting.SmallPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SmallPuff",
+                        "IcePuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SmallPuff",
+                        "IronPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FumeShroom",
+            "configType": "GameLevel.RogueShooting.FumeShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "IceFumeShroom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "GloomShroom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "GarlicFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoShroom",
+            "configType": "GameLevel.RogueShooting.HypnoShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoShroom",
+                        "HypnoNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoShroom",
+                        "HypnoDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ScaredyShroom",
+            "configType": "GameLevel.RogueShooting.ScaredyShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyShroom",
+                        "SuperHypno"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyShroom",
+                        "ScaredyDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Squash",
+            "configType": "GameLevel.RogueShooting.Squash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squash",
+                        "Squalour"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squash",
+                        "CherrySquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreePeater",
+            "configType": "GameLevel.RogueShooting.ThreePeater",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreePeater",
+                        "ThreeSquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreePeater",
+                        "BigGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Jalapeno",
+            "configType": "GameLevel.RogueShooting.Jalapeno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Jalapeno",
+                        "Firecracker"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Caltrop",
+            "configType": "GameLevel.RogueShooting.Caltrop",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Caltrop",
+                        "SpikeRock"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Caltrop",
+                        "CaltropNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cactus",
+            "configType": "GameLevel.RogueShooting.Cactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cactus",
+                        "DoomCactus"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "StarFruit",
+            "configType": "GameLevel.RogueShooting.StarFruit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "StarFruit",
+                        "SuperStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "StarFruit",
+                        "SwordStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cabbagepult",
+            "configType": "GameLevel.RogueShooting.Cabbagepult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cabbagepult",
+                        "GoldCabbage"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cabbagepult",
+                        "CabbageCannon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cornpult",
+            "configType": "GameLevel.RogueShooting.Cornpult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cornpult",
+                        "PortalCorn"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Umbrellaleaf",
+            "configType": "GameLevel.RogueShooting.Umbrellaleaf",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Umbrellaleaf",
+                        "LanternUmbrella"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Melonpult",
+            "configType": "GameLevel.RogueShooting.Melonpult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "SuperMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "FireMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "WinterMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "SilverMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SpruceShooter",
+            "configType": "GameLevel.RogueShooting.SpruceShooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SpruceShooter",
+                        "SuperSpruce"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Bamboo",
+            "configType": "GameLevel.RogueShooting.Bamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Bamboo",
+                        "LotusBamboo"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Firecracker",
+            "configType": "GameLevel.RogueShooting.Firecracker",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Firecracker",
+                        "BambooDragon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Squalour",
+            "configType": "GameLevel.RogueShooting.Squalour",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squalour",
+                        "CattailLour"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SwordStar",
+            "configType": "GameLevel.RogueShooting.SwordStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SwordStar",
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "AbyssSwordStar",
+            "configType": "GameLevel.RogueShooting.AbyssSwordStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.AbyssSwordStar+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.AbyssSwordStar+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-万剑归宗：究极剑仙杨桃每有2发大剑，每次攻击额外发射1发旋转小剑"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateMinigun",
+            "configType": "GameLevel.RogueShooting.UltimateMinigun",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateMinigun"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateMinigun"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMinigun+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHypnoDoom",
+            "configType": "GameLevel.RogueShooting.UltimateHypnoDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "Synergy_魅惑僵尸"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHypnoDoom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypnoDoom+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypnoDoom+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-小鬼当家：魅惑黑曜石巨人砸击时会生成魅惑黑曜石小鬼僵尸"
+                }
+            ]
+        },
+        {
+            "plant": "UltimatePoisonFume",
+            "configType": "GameLevel.RogueShooting.UltimatePoisonFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimatePoisonFume+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimatePoisonFume+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSniperGatling",
+            "configType": "GameLevel.RogueShooting.UltimateSniperGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSniperGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSniperGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSniperGatling+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateJalaGatling",
+            "configType": "GameLevel.RogueShooting.UltimateJalaGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-聚能弹道：极大幅度减小子弹发射偏转角度，大幅提高龙炎弹射程，龙炎弹耗能-2"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade2",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-九龙至尊：龙炎弹弹道数固定为9，小幅降低龙炎弹射程，龙炎弹伤害提高1300%"
+                }
+            ]
+        },
+        {
+            "plant": "BlackHoleTorch",
+            "configType": "GameLevel.RogueShooting.BlackHoleTorch",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.BlackHoleTorch+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoEmperor",
+            "configType": "GameLevel.RogueShooting.HypnoEmperor",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "Synergy_魅惑僵尸"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "HypnoEmperor"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.HypnoEmperor+CountBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.HypnoEmperor+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-精英：魅帝菇召唤的僵尸强度大幅提高"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateGatling",
+            "configType": "GameLevel.RogueShooting.UltimateGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+SuperForceUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+CherryCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "诅咒-争强好胜：究极樱桃射手发射的子弹伤害降低50%，累计造成3亿伤害后反转诅咒\n反转效果：究极樱桃射手每次攻击，额外从屏幕左方发射若干樱桃子弹，攻击力等同于其他植物已造成伤害的0.0001%"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateChomper",
+            "configType": "GameLevel.RogueShooting.UltimateChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateChomper+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-噬化万军：战神吞噬僵尸后，将在每行生成一只幻化战神僵尸为你作战"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateFume",
+            "configType": "GameLevel.RogueShooting.UltimateFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateFume+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateFume+BuffUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ObsidianSpike",
+            "configType": "GameLevel.RogueShooting.ObsidianSpike",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianSpike+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianSpike+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-流血：被任意地刺王命中的僵尸会在2秒内持续损失相当于本次伤害400%的生命值"
+                }
+            ]
+        },
+        {
+            "plant": "SnowGatlingPuff",
+            "configType": "GameLevel.RogueShooting.SnowGatlingPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SnowGatlingPuff+SlowBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SnowGatlingPuff+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-伙伴一起：伤害统一排名第一位的称为伙伴，小冰机每次攻击时，若伙伴为植物且存在于场上，则在伙伴位置额外释放一次攻击"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateStar",
+            "configType": "GameLevel.RogueShooting.UltimateStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+StarCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "诅咒-壹肆叁柒：究极杨桃大帝的攻击间隔翻倍，在攻击1437次后反转诅咒，每轮攻击计入5次\n反转效果：发射的多功能子弹额外获得1437点基础伤害"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateGloom",
+            "configType": "GameLevel.RogueShooting.UltimateGloom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGloom+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGloom+DoomBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateTallNut",
+            "configType": "GameLevel.RogueShooting.UltimateTallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateTallNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateTallNut+HolographicBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateTallNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-虚无黑曜：究极黑曜石高坚果及其分身的碰撞体积大幅增加，且免疫boss碾压\n回血间隔15→10秒"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateMelon",
+            "configType": "GameLevel.RogueShooting.UltimateMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMelon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMelon+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "EmeraldUmbrella",
+            "configType": "GameLevel.RogueShooting.EmeraleBlover",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "EmeraldUmbrella"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperThreePeater",
+            "configType": "GameLevel.RogueShooting.SuperThreePeater",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBlover",
+            "configType": "GameLevel.RogueShooting.UltimateBlover",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBlover+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHypno",
+            "configType": "GameLevel.RogueShooting.UltimateHypno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+MindContolledBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+HypnoEffect",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+BombEffect",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CattailLour",
+            "configType": "GameLevel.RogueShooting.CattailLour",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "CattailLour"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "CattailLour"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.CattailLour+FlySupply",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.CattailLour+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigGatling",
+            "configType": "GameLevel.RogueShooting.UltimateBigGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateBigGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+HealthUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+PierceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ObsidianWallNut",
+            "configType": "GameLevel.RogueShooting.ObsidianWallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianWallNut+ShootCountBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianWallNut+ShootBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCactus",
+            "configType": "GameLevel.RogueShooting.UltimateCactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCactus+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCabbage",
+            "configType": "GameLevel.RogueShooting.UltimateCabbage",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbage+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LaserUmbrella",
+            "configType": "GameLevel.RogueShooting.LaserUmbrella",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.LaserUmbrella+ExplodeBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.LaserUmbrella+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-光盾：流光伞会消耗能量击退3x3范围内的僵尸，普攻目标数x3"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSpring",
+            "configType": "GameLevel.RogueShooting.UltimateSpring",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpring+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpring+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IFVIronPuff",
+            "configType": "GameLevel.RogueShooting.IFVIronPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.IFVIronPuff+PierceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.IFVIronPuff+HeadShotBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-反弹：铁豆小队的狙击不再能爆头，但弹道触碰场地边缘后会反弹，反弹数为穿透数+2"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCorn",
+            "configType": "GameLevel.RogueShooting.UltimateCorn",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCorn"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCorn+ExtraDamageBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCorn+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-引力：黑洞会吸引生命值低于50%的僵尸"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigSniper",
+            "configType": "GameLevel.RogueShooting.UltimateBigSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigSniper+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigSniper+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-激光炮：究极激光炮台发射不间断的激光射线"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSpruce",
+            "configType": "GameLevel.RogueShooting.UltimateSpruce",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpruce+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpruce+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateStarTorch",
+            "configType": "GameLevel.RogueShooting.UltimateStarTorch",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStarTorch+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigChomper",
+            "configType": "GameLevel.RogueShooting.UltimateBigChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBigChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigChomper+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-吞噬：巨嘴花吞咽后的吸引范围大幅增加"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateWinterMelon",
+            "configType": "GameLevel.RogueShooting.UltimateWinterMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateWinterMelon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateWinterMelon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害"
+                }
+            ]
+        },
+        {
+            "plant": "NuclearSquash",
+            "configType": "GameLevel.RogueShooting.NuclearSquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "NuclearSquash"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SquashPumpkin"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.NuclearSquash+DuringBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.NuclearSquash+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCabbageCannon",
+            "configType": "GameLevel.RogueShooting.UltimateCabbageCannon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-饱和弹射：火菜炮索敌范围上下额外拓展1行，同时向所有目标发射子弹。若索敌目标数小于最大散射数，将剩余弹药平均分配给索敌目标。子弹飞行时间降低50%"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+CannonCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "诅咒-见者有份：究极火菜炮每有一个目标，发射的子弹伤害降低1%，最低降低为原来的30%，累计通过此方式降低50000%后反转诅咒\n反转效果：究极火菜炮每有一个目标，发射的子弹伤害增加1%"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateDoomScaredy",
+            "configType": "GameLevel.RogueShooting.UltimateDoomScared",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateDoomScaredy"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateDoomScared+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "【<nobr>真正的毁灭菇</nobr>】：毁灭菇子弹会在命中时释放毁灭菇爆炸（不留坑洞）"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateDoomScared+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BambooDragon",
+            "configType": "GameLevel.RogueShooting.BambooDragon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "BambooDragon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "BambooDragon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.BambooDragon+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.BambooDragon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-烈火燎原：烈焰竹龙的吐息时额外在全场释放火爆辣椒效果"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBamboo",
+            "configType": "GameLevel.RogueShooting.UltimateBamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBamboo"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+DefenceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+HealthBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-大运：究极冬笋路障会跟随鼠标移动，速度可提高移动速度，且遇到僵尸后强制执行撞击"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateLanternSplit",
+            "configType": "GameLevel.RogueShooting.UltimateLanternSplit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateLanternSplit+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateLanternSplit+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-湮灭之核：相邻的两束天网之间会定期释放迷你黑洞爆炸"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHelmetGatling",
+            "configType": "GameLevel.RogueShooting.UltimateHelmetGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHelmetGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHelmetGatling+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-致密：超级黑橄榄机枪射手的大招会发射更强大的巨型子弹"
+                }
+            ]
+        },
+        {
+            "plant": "SuperThreePeater_sp",
+            "configType": "GameLevel.RogueShooting.SuperThreePeater_sp",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "SuperThreePeater_sp"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SuperThreePeater_sp"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater_sp+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PeaMine",
+            "configType": "GameLevel.RogueShooting.PeaMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PeaMine",
+                        "ThreeMine"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperChomper",
+            "configType": "GameLevel.RogueShooting.SuperChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperChomper",
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherryChomper",
+            "configType": "GameLevel.RogueShooting.CherryChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherryChomper",
+                        "DoomChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherryGatling",
+            "configType": "GameLevel.RogueShooting.CherryGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherryGatling",
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperHypno",
+            "configType": "GameLevel.RogueShooting.SuperHypno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperHypno",
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "TallNut",
+            "configType": "GameLevel.RogueShooting.TallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "TallNut",
+                        "UltimateTallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SnowPeaShooter",
+            "configType": "GameLevel.RogueShooting.SnowPeaShooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SnowPeaShooter",
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IcePuff",
+            "configType": "GameLevel.RogueShooting.IcePuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IcePuff",
+                        "SnowGatlingPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IceFumeShroom",
+            "configType": "GameLevel.RogueShooting.IceFumeShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IceFumeShroom",
+                        "UltimateFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ScaredyDoom",
+            "configType": "GameLevel.RogueShooting.ScaredyDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyDoom",
+                        "UltimateDoomScaredy"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoDoom",
+            "configType": "GameLevel.RogueShooting.HypnoDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoDoom",
+                        "UltimateHypnoDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreeSquash",
+            "configType": "GameLevel.RogueShooting.ThreeSquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreeSquash",
+                        "SuperThreePeater"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CaltropNut",
+            "configType": "GameLevel.RogueShooting.CaltropNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CaltropNut",
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SpikeRock",
+            "configType": "GameLevel.RogueShooting.SpikeRock",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SpikeRock",
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GloomShroom",
+            "configType": "GameLevel.RogueShooting.GloomShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GloomShroom",
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GloomShroom",
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperStar",
+            "configType": "GameLevel.RogueShooting.SuperStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperStar",
+                        "UltimateStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SniperPea",
+            "configType": "GameLevel.RogueShooting.SniperPea",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "DoomSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "FireSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "WinterMelon",
+            "configType": "GameLevel.RogueShooting.WinterMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WinterMelon",
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperMelon",
+            "configType": "GameLevel.RogueShooting.SuperMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperMelon",
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GoldCabbage",
+            "configType": "GameLevel.RogueShooting.GoldCabbage",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GoldCabbage",
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SilverMelon",
+            "configType": "GameLevel.RogueShooting.SilverMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SilverMelon",
+                        "GoldMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GoldMelon",
+            "configType": "GameLevel.RogueShooting.GoldMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "GoldMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "GoldMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.GoldMelon+UniqueUpgrage",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.GoldMelon+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-人人有份：金瓜大招额外给全场僵尸发射西瓜，且大招分裂数x2"
+                }
+            ]
+        },
+        {
+            "plant": "HypnoNut",
+            "configType": "GameLevel.RogueShooting.HypnoNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoNut",
+                        "HypnoEmperor"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FireMelon",
+            "configType": "GameLevel.RogueShooting.FireMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FireMelon",
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IronPuff",
+            "configType": "GameLevel.RogueShooting.IronPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IronPuff",
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BigGatling",
+            "configType": "GameLevel.RogueShooting.BigGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "BigGatling",
+                        "UltimateBigGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FireSniper",
+            "configType": "GameLevel.RogueShooting.FireSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "FireSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "FireSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.FireSniper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.FireSniper+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GarlicFume",
+            "configType": "GameLevel.RogueShooting.GarlicFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GarlicFume",
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BigChomper",
+            "configType": "GameLevel.RogueShooting.BigChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "BigChomper",
+                        "UltimateBigChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LanternUmbrella",
+            "configType": "GameLevel.RogueShooting.LanternUmbrella",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LanternUmbrella",
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomCactus",
+            "configType": "GameLevel.RogueShooting.DoomCactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "DoomCactus",
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomChomper",
+            "configType": "GameLevel.RogueShooting.DoomChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "DoomChomper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "DoomChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomChomper+ChompBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PortalCorn",
+            "configType": "GameLevel.RogueShooting.PortalCorn",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PortalCorn",
+                        "UltimateCorn"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperSpruce",
+            "configType": "GameLevel.RogueShooting.SuperSpruce",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperSpruce",
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreeMine",
+            "configType": "GameLevel.RogueShooting.ThreeMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ThreeMine"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ThreeMine"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ThreeMine+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ThreeMine+ExplodeBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LotusBamboo",
+            "configType": "GameLevel.RogueShooting.LotusBamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LotusBamboo",
+                        "UltimateBamboo"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "MelonNut",
+            "configType": "GameLevel.RogueShooting.MelonNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MelonNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+HealthBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+SaveDamageBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-谁劈了我的瓜：西瓜坚果发射的西瓜飞到最高点时会瞬间炸开，并分裂成若干个小西瓜扔向全场僵尸"
+                }
+            ]
+        },
+        {
+            "plant": "CabbageNut",
+            "configType": "GameLevel.RogueShooting.CabbageNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CabbageNut",
+                        "MelonNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomSniper",
+            "configType": "GameLevel.RogueShooting.DoomSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "DoomSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "DoomSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomSniper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomSniper+HeartUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "MagnetNut",
+            "configType": "GameLevel.RogueShooting.MagnetNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+BaseUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MagnetNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "MagnetNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-杀戮光环：磁力坚果发射的子弹可无限穿透，但存在时间降低为10秒"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+BulletCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "诅咒-千锤百炼：磁力坚果不再发射子弹，累计吸引5000发子弹后反转诅咒\n反转效果：每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹"
+                }
+            ]
+        },
+        {
+            "plant": "HelmetGatling",
+            "configType": "GameLevel.RogueShooting.HelmetGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HelmetGatling",
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "JalaGatling",
+            "configType": "GameLevel.RogueShooting.JalaGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "JalaGatling",
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CabbageCannon",
+            "configType": "GameLevel.RogueShooting.CabbageCannon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CabbageCannon",
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherrySquash",
+            "configType": "GameLevel.RogueShooting.CherrySquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherrySquash",
+                        "NuclearSquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LanternSplit",
+            "configType": "GameLevel.RogueShooting.LanternSplit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LanternSplit",
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperGatlingGloom",
+            "configType": "GameLevel.RogueShooting.SuperGatlingGloom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperGatlingGloom+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperGatlingGloom+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-勃然大怒：超级机枪忧郁菇每次攻击一定释放大招，但大招子弹数减半"
+                }
+            ]
+        },
+        {
+            "plant": "MagicSnowPea2",
+            "configType": "GameLevel.RogueShooting.MagicSnowPea2",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+SuperUpgrade2",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "质变-拿来吧你：普通攻击叠加解读的概率翻倍。敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸"
+                }
+            ]
+        }
+    ],
+    "portraits": [
+        {
+            "plant": "Peashooter",
+            "resourcePath": "Plants/PeaShooter/Peashooterpreview"
+        },
+        {
+            "plant": "WallNut",
+            "resourcePath": "Plants/WallNut/WallNutpreview"
+        },
+        {
+            "plant": "PotatoMine",
+            "resourcePath": "Plants/PotatoMine/PotatoMinepreview"
+        },
+        {
+            "plant": "Chomper",
+            "resourcePath": "Plants/Chomper/Chomperpreview"
+        },
+        {
+            "plant": "SmallPuff",
+            "resourcePath": "Plants/SmallPuff/SmallPuffpreview"
+        },
+        {
+            "plant": "FumeShroom",
+            "resourcePath": "Plants/FumeShroom/FumeShroompreview"
+        },
+        {
+            "plant": "HypnoShroom",
+            "resourcePath": "Plants/HypnoShroom/HypnoShroompreview"
+        },
+        {
+            "plant": "ScaredyShroom",
+            "resourcePath": "Plants/ScaredyShroom/ScaredyShroompreview"
+        },
+        {
+            "plant": "Squash",
+            "resourcePath": "Plants/Squash/Squashpreview"
+        },
+        {
+            "plant": "ThreePeater",
+            "resourcePath": "Plants/ThreePeater/ThreePeaterpreview"
+        },
+        {
+            "plant": "Jalapeno",
+            "resourcePath": "Plants/Jalapeno/Jalapenopreview"
+        },
+        {
+            "plant": "Caltrop",
+            "resourcePath": "Plants/Caltrop/Caltroppreview"
+        },
+        {
+            "plant": "Cactus",
+            "resourcePath": "Plants/Cactus/Cactuspreview"
+        },
+        {
+            "plant": "StarFruit",
+            "resourcePath": "Plants/Starfruit/Starfruitpreview"
+        },
+        {
+            "plant": "Cabbagepult",
+            "resourcePath": "Plants/Cabbagepult/Cabbagepultpreview"
+        },
+        {
+            "plant": "Cornpult",
+            "resourcePath": "Plants/Cornpult/Cornpultpreview"
+        },
+        {
+            "plant": "Umbrellaleaf",
+            "resourcePath": "Plants/Umbrellaleaf/Umbrellaleafpreview"
+        },
+        {
+            "plant": "Melonpult",
+            "resourcePath": "Plants/Melonpult/Melonpultpreview"
+        },
+        {
+            "plant": "SpruceShooter",
+            "resourcePath": "Plants/SpruceShooter/SpruceShooterpreview"
+        },
+        {
+            "plant": "Bamboo",
+            "resourcePath": "Plants/Bamboo/Bamboopreview"
+        },
+        {
+            "plant": "Firecracker",
+            "resourcePath": "Plants/CherryBomb/CherryJalapeno/CherryJalapeno1preview"
+        },
+        {
+            "plant": "LuckyBlover",
+            "resourcePath": "Plants/Blover/LuckyBlover/LuckyBloverpreview"
+        },
+        {
+            "plant": "Squalour",
+            "resourcePath": "Plants/Squash/Squalour/Squalourpreview"
+        },
+        {
+            "plant": "SwordStar",
+            "resourcePath": "Plants/Starfruit/SwordStar/SwordStarpreview"
+        },
+        {
+            "plant": "EndoFlame",
+            "resourcePath": "Plants/UniquePlants/Endoflame/EndoFlamepreview"
+        },
+        {
+            "plant": "AbyssSwordStar",
+            "resourcePath": "Plants/Starfruit/SwordStar/AbyssSwordStar/AbyssSwordStarpreview"
+        },
+        {
+            "plant": "UltimateMinigun",
+            "resourcePath": "Plants/UltimateGatling/UltimateMinigun/UltimateMinigunpreview"
+        },
+        {
+            "plant": "UltimateHypnoDoom",
+            "resourcePath": "Plants/_Mixer/HypnoDoom/UltimateHypnoDoom/UltimateHypnoDoompreview"
+        },
+        {
+            "plant": "UltimatePoisonFume",
+            "resourcePath": "Plants/_Mixer/IceDoomFume/UltimatePoisonFume/UltimatePoisonFumepreview"
+        },
+        {
+            "plant": "UltimateSniperGatling",
+            "resourcePath": "Plants/_Mixer/SuperChomper/UltimateSniperGatling/UltimateSniperGatlingpreview"
+        },
+        {
+            "plant": "UltimateJalaGatling",
+            "resourcePath": "Plants/PeaShooter/JalaPeashooter/UltimateJalaGatling/UltimateJalaGatlingpreview"
+        },
+        {
+            "plant": "BlackHoleTorch",
+            "resourcePath": "Plants/_Mixer/ThreeTorch/GoldThreeTorch/BlackHoleTorch/BlackHoleTorchpreview"
+        },
+        {
+            "plant": "HypnoEmperor",
+            "resourcePath": "Plants/Travel/HyponoT/HypnoEmperorpreview"
+        },
+        {
+            "plant": "UltimateGatling",
+            "resourcePath": "Plants/UltimateGatling/UltimateGatlingpreview"
+        },
+        {
+            "plant": "UltimateChomper",
+            "resourcePath": "Plants/_Mixer/SuperChomper/UltimateChomperpreview"
+        },
+        {
+            "plant": "UltimateFume",
+            "resourcePath": "Plants/_Mixer/IceDoomFume/FinalFumepreview"
+        },
+        {
+            "plant": "ObsidianSpike",
+            "resourcePath": "Plants/Travel/ObsidianSpike/ObsidianSpikepreview"
+        },
+        {
+            "plant": "SnowGatlingPuff",
+            "resourcePath": "Plants/_Mixer/DoublePuff/SnowGatlingPuff/SnowGatlingPuffpreview"
+        },
+        {
+            "plant": "UltimateStar",
+            "resourcePath": "Plants/Travel/UltimateStar/UltimateStarpreview"
+        },
+        {
+            "plant": "UltimateGloom",
+            "resourcePath": "Plants/Travel/UltimateGloom/UltimateGloompreview"
+        },
+        {
+            "plant": "UltimateTallNut",
+            "resourcePath": "Plants/TallNut/UltimateTallNut/UltimateTallNutpreview"
+        },
+        {
+            "plant": "UltimateMelon",
+            "resourcePath": "Plants/Melonpult/UltimateMelon/UltimateMelonpreview"
+        },
+        {
+            "plant": "EmeraldUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/EmeraldUmbrella/EmeraldUmbrellapreview"
+        },
+        {
+            "plant": "SuperThreePeater",
+            "resourcePath": "Plants/ThreePeater/SuperThreePeater/SuperThreePeaterpreview"
+        },
+        {
+            "plant": "UltimateBlover",
+            "resourcePath": "Plants/Blover/UltimateBlover/UltimateBloverpreview"
+        },
+        {
+            "plant": "UltimateHypno",
+            "resourcePath": "Plants/_Mixer/SuperHypno/UltimateHypno/UltimateHypnopreview"
+        },
+        {
+            "plant": "CattailLour",
+            "resourcePath": "Plants/CattailPlant/CattailLour/CattailLourpreview"
+        },
+        {
+            "plant": "UltimateBigGatling",
+            "resourcePath": "Plants/GatlingPea/UltimateBigGatling/UltimateBigGatlingpreview"
+        },
+        {
+            "plant": "ObsidianWallNut",
+            "resourcePath": "Plants/WallNut/ObsidianWallNut/ObsidianWallNutpreview"
+        },
+        {
+            "plant": "UltimateCactus",
+            "resourcePath": "Plants/Cactus/UltimateCactus/UltimateCactuspreview"
+        },
+        {
+            "plant": "UltimateCabbage",
+            "resourcePath": "Plants/Cabbagepult/SolarCabbage/SolarCabbagepreview"
+        },
+        {
+            "plant": "LaserUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/LaserUmbrella/LaserUmbrellapreview"
+        },
+        {
+            "plant": "UltimateSpring",
+            "resourcePath": "Plants/FumeShroom/UltimateSpring/UltimateSpringpreview"
+        },
+        {
+            "plant": "IFVIronPuff",
+            "resourcePath": "Plants/IFVIronPuff/IFVIronPuffpreview"
+        },
+        {
+            "plant": "UltimateCorn",
+            "resourcePath": "Plants/Cornpult/UltimateCorn/UltimateCornpreview"
+        },
+        {
+            "plant": "UltimateBigSniper",
+            "resourcePath": "Plants/GatlingPea/UltimateBigGatling/UltimateBigSniper/UltimateBigSniperpreview"
+        },
+        {
+            "plant": "UltimateSpruce",
+            "resourcePath": "Plants/SpruceShooter/UltimateSpruce/UltimateSprucepreview"
+        },
+        {
+            "plant": "UltimateStarTorch",
+            "resourcePath": "Plants/Starfruit/UltimateStarTorch/UltimateStarTorchpreview"
+        },
+        {
+            "plant": "UltimateBigChomper",
+            "resourcePath": "Plants/Chomper/BigChomper/UltimateBigChomperpreview"
+        },
+        {
+            "plant": "UltimateWinterMelon",
+            "resourcePath": "Plants/Melonpult/UltimateWinterMelon/UlimateWinterMelonpreview"
+        },
+        {
+            "plant": "NuclearSquash",
+            "resourcePath": "Plants/Squash/NuclearSquash/NuclearSquashpreview"
+        },
+        {
+            "plant": "UltimateCabbageCannon",
+            "resourcePath": "Plants/CobCannon/CabbageCannon/UltimateCabbageCannon/UltimateCabbageCannonpreview"
+        },
+        {
+            "plant": "UltimateJalaNut",
+            "resourcePath": "Plants/Travel/SuperSunNut/UltimateJalaNut/UltimateSunNutpreview"
+        },
+        {
+            "plant": "UltimateDoomScaredy",
+            "resourcePath": "Plants/ScaredyShroom/SuperDoomScaredy/UltimateDoomScared/UltimateDoomScaredpreview"
+        },
+        {
+            "plant": "BambooDragon",
+            "resourcePath": "Plants/CherryBomb/CherryJalapeno/BambooDragon/BambooDragonpreview"
+        },
+        {
+            "plant": "UltimateBamboo",
+            "resourcePath": "Plants/Bamboo/UltimateBamboo/UltimateBamboopreview"
+        },
+        {
+            "plant": "UltimateLanternSplit",
+            "resourcePath": "Plants/PeaShooter/LanternPea/UltimateLanternSplit/UltimateLanternSplitpreview"
+        },
+        {
+            "plant": "UltimateHelmetGatling",
+            "resourcePath": "Plants/GatlingPea/SuperGatling/UltimateHelmetGatling/UltimateHelmetGatlingpreview"
+        },
+        {
+            "plant": "SuperThreePeater_sp",
+            "resourcePath": "Plants/ThreePeater/SuperThreePeater/SuperThreePeater_sp/SuperThreePeater_sppreview"
+        },
+        {
+            "plant": "PeaMine",
+            "resourcePath": "Plants/_Mixer/PeaMine/PeaMinepreview"
+        },
+        {
+            "plant": "SuperChomper",
+            "resourcePath": "Plants/_Mixer/SuperChomper/SuperChomperpreview"
+        },
+        {
+            "plant": "CherryChomper",
+            "resourcePath": "Plants/_Mixer/CherryChomper/CherryChomperpreview"
+        },
+        {
+            "plant": "CherryGatling",
+            "resourcePath": "Plants/_Mixer/CherryGatlingPea/CherryGatlingpreview"
+        },
+        {
+            "plant": "SuperHypno",
+            "resourcePath": "Plants/_Mixer/SuperHypno/SuperHypnopreview"
+        },
+        {
+            "plant": "TallNut",
+            "resourcePath": "Plants/TallNut/TallNutpreview"
+        },
+        {
+            "plant": "SnowPeaShooter",
+            "resourcePath": "Plants/ShowPeaShooter/SnowPeaShooterpreview"
+        },
+        {
+            "plant": "IcePuff",
+            "resourcePath": "Plants/_Mixer/IcePuff/IcePuffpreview"
+        },
+        {
+            "plant": "IceFumeShroom",
+            "resourcePath": "Plants/_Mixer/IceFumeShroom/IceFumeShroompreview"
+        },
+        {
+            "plant": "ScaredyDoom",
+            "resourcePath": "Plants/_Mixer/ScaredyDoom/ScaredyDoompreview"
+        },
+        {
+            "plant": "HypnoDoom",
+            "resourcePath": "Plants/_Mixer/HypnoDoom/HypnoDoompreview"
+        },
+        {
+            "plant": "ThreeSquash",
+            "resourcePath": "Plants/_Mixer/ThreeSquash/ThreeSquashpreview"
+        },
+        {
+            "plant": "CaltropNut",
+            "resourcePath": "Plants/WallNut/CaltropNut/CaltropNutpreview"
+        },
+        {
+            "plant": "SpikeRock",
+            "resourcePath": "Plants/Caltrop/SpikeRock/Spikerockpreview"
+        },
+        {
+            "plant": "GloomShroom",
+            "resourcePath": "Plants/GloomShroom/GloomShroompreview"
+        },
+        {
+            "plant": "SuperStar",
+            "resourcePath": "Plants/Starfruit/SuperStar/SuperStarpreview"
+        },
+        {
+            "plant": "SniperPea",
+            "resourcePath": "Plants/Travel/SniperPea/SniperPeapreview"
+        },
+        {
+            "plant": "WinterMelon",
+            "resourcePath": "Plants/Melonpult/WinterMelon/WinterMelonpreview"
+        },
+        {
+            "plant": "SuperMelon",
+            "resourcePath": "Plants/Melonpult/SuperMelon/SuperMelonpreview"
+        },
+        {
+            "plant": "GoldCabbage",
+            "resourcePath": "Plants/Cabbagepult/MoneyCabbage/GoldCabbagepreview"
+        },
+        {
+            "plant": "SilverMelon",
+            "resourcePath": "Plants/Melonpult/MoneyMelon/SilverMelonpreview"
+        },
+        {
+            "plant": "GoldMelon",
+            "resourcePath": "Plants/Melonpult/MoneyMelon/GoldMelonpreview"
+        },
+        {
+            "plant": "HypnoNut",
+            "resourcePath": "Plants/WallNut/HypnoNut/HypnoNutpreview"
+        },
+        {
+            "plant": "FireMelon",
+            "resourcePath": "Plants/Melonpult/FireMelon/FireMelonpreview"
+        },
+        {
+            "plant": "IronPuff",
+            "resourcePath": "Plants/SmallPuff/IronPuff/IronPuffpreview"
+        },
+        {
+            "plant": "BigGatling",
+            "resourcePath": "Plants/GatlingPea/BigGatlingPea/BigGatlingPeapreview"
+        },
+        {
+            "plant": "FireSniper",
+            "resourcePath": "Plants/Travel/SniperPea/FireSniper/FireSniperpreview"
+        },
+        {
+            "plant": "GarlicFume",
+            "resourcePath": "Plants/FumeShroom/GarlicFume/Garlicfumepreview"
+        },
+        {
+            "plant": "BigChomper",
+            "resourcePath": "Plants/Chomper/BigChomper/BigChomperpreview"
+        },
+        {
+            "plant": "LanternUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/LanternUmbrella/LanternUmbrellaleafpreview"
+        },
+        {
+            "plant": "DoomCactus",
+            "resourcePath": "Plants/Cactus/DoomCactus/DoomCactuspreview"
+        },
+        {
+            "plant": "DoomChomper",
+            "resourcePath": "Plants/Chomper/DoomChomper/DoomChomperpreview"
+        },
+        {
+            "plant": "SquashPumpkin",
+            "resourcePath": "Plants/Pumpkin/SquashPumpkin/SquashPumpkinpreview"
+        },
+        {
+            "plant": "PortalCorn",
+            "resourcePath": "Plants/Cornpult/PortalCorn/PortalCornpreview"
+        },
+        {
+            "plant": "SuperSpruce",
+            "resourcePath": "Plants/SpruceShooter/SuperSpruce/SuperSprucepreview"
+        },
+        {
+            "plant": "ThreeMine",
+            "resourcePath": "Plants/PotatoMine/ThreeMine/ThreeMinepreview"
+        },
+        {
+            "plant": "LotusBamboo",
+            "resourcePath": "Plants/Bamboo/LotusBamboo/LotusBamboopreview"
+        },
+        {
+            "plant": "MelonNut",
+            "resourcePath": "Plants/WallNut/MelonNut/MelonNutpreview"
+        },
+        {
+            "plant": "CabbageNut",
+            "resourcePath": "Plants/WallNut/CabbageNut/CabbageNutpreview"
+        },
+        {
+            "plant": "DoomSniper",
+            "resourcePath": "Plants/Travel/SniperPea/DoomSniper/DoomSniperpreview"
+        },
+        {
+            "plant": "MagnetNut",
+            "resourcePath": "Plants/WallNut/MagnetNut/MagnetNutpreview"
+        },
+        {
+            "plant": "HelmetGatling",
+            "resourcePath": "Plants/GatlingPea/HelmetGatling/HelmetGatlingpreview"
+        },
+        {
+            "plant": "JalaGatling",
+            "resourcePath": "Plants/PeaShooter/JalaPeashooter/Gatling/GatlingPeapreview"
+        },
+        {
+            "plant": "CabbageCannon",
+            "resourcePath": "Plants/CobCannon/CabbageCannon/CabbageCannonpreview"
+        },
+        {
+            "plant": "CherrySquash",
+            "resourcePath": "Plants/Squash/CherrySquash/CherrySquashpreview"
+        },
+        {
+            "plant": "LanternSplit",
+            "resourcePath": "Plants/PeaShooter/LanternPea/LanternSplit/LanternSplitpreview"
+        },
+        {
+            "plant": "SuperGatlingGloom",
+            "resourcePath": "Plants/GloomShroom/SuperGatlingGloom/SuperGatlingGloompreview"
+        },
+        {
+            "plant": "MagicSnowPea2",
+            "resourcePath": "Plants/ShowPeaShooter/MagicSnow/MagicSnowpreview"
+        },
+        {
+            "plant": "EndPumpiner",
+            "resourcePath": "Plants/Pumpkin/Pumpiner/EnderPumpiner/EndPumpinerpreview"
+        }
+    ],
+    "entries": [
+        {
+            "id": "Other:幸运:0",
+            "category": "Other",
+            "title": "幸运",
+            "description": "幸运提高25，幸运可以提高好词条出现概率\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。\n幸运尚未达到上限时可出现。\n尚未获得“交易-孤注一掷”时可出现。",
+            "quality": "Default",
+            "relatedPlant": "LuckyBlover",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:伤害增幅:0",
+            "category": "Other",
+            "title": "伤害增幅",
+            "description": "全体植物获得10%伤害增幅\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:合理投资:0",
+            "category": "Other",
+            "title": "合理投资",
+            "description": "获得1次词条刷新的机会\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。\n尚未获得“交易-孤注一掷”时可出现。",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:保护:0",
+            "category": "Other",
+            "title": "保护",
+            "description": "全体植物获得5000护盾，复活后依然生效\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。\n僵尸类型不是豌豆僵尸或随机僵尸时生效。",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:保护:0:variant:0",
+            "category": "Other",
+            "title": "保护",
+            "description": "全体植物获得50000护盾，复活后依然生效\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。\n僵尸类型为豌豆僵尸或随机僵尸时生效。",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:复活:0",
+            "category": "Other",
+            "title": "复活",
+            "description": "复活时间降低99%",
+            "condition": "抽取概率受幸运影响。\n已获得“超质变：步步高升”时可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:复活:1",
+            "category": "Other",
+            "title": "复活",
+            "description": "复活时间降低10%\n普通品质基准，实际效果随品质及当前构筑变化。",
+            "condition": "抽取概率受幸运影响。\n尚未获得“超质变：步步高升”时可出现。",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:碾压保护:0",
+            "category": "Other",
+            "title": "碾压保护",
+            "description": "全体植物获得抵御碾压的能力，复活后依然生效，并立即获得3000护盾",
+            "condition": "抽取概率受幸运影响。\n尚未获得碾压保护时可出现。",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:爆炸保护:0",
+            "category": "Other",
+            "title": "爆炸保护",
+            "description": "僵尸方的小丑爆炸伤害降低至1000，并立即获得3000护盾",
+            "condition": "抽取概率受幸运影响。\n尚未获得“爆炸保护”时可出现。",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:护盾保护:0",
+            "category": "Other",
+            "title": "护盾保护",
+            "description": "持有护盾的植物每秒回复0.1%护盾量的生命值，并立即获得6000护盾",
+            "condition": "抽取概率受幸运影响。\n尚未获得“护盾保护”时可出现。",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：腐化:0",
+            "category": "SuperUpgrade",
+            "title": "超质变：腐化",
+            "description": "获得词条：腐化",
+            "condition": "每次判定有 0.01% 概率进入超质变抽取。",
+            "quality": "iridescent",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：步步高升:0",
+            "category": "SuperUpgrade",
+            "title": "超质变：步步高升",
+            "description": "所有词条一定是最高品质，且钻石词条的加成x5\n注意：部分植物攻速过快时会丢失动画导致无法攻击或攻速降低",
+            "condition": "每次判定有 0.01% 概率进入超质变抽取。",
+            "quality": "iridescent",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：力量会给予希望:0",
+            "category": "SuperUpgrade",
+            "title": "超质变：力量会给予希望",
+            "description": "获得词条：力量会给予希望\n获得植物：[[plant:UltimateJalaNut]]\n获得植物：[[plant:UltimateExplodeCannon]]\n[[plant:UltimateExplodeCannon]]获得600%攻击力加成",
+            "condition": "每次判定有 0.01% 概率进入超质变抽取。",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateJalaNut",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：神秘大炮:0",
+            "category": "SuperUpgrade",
+            "title": "超质变：神秘大炮",
+            "description": "获得一个神秘大炮",
+            "condition": "每次判定有 0.01% 概率进入超质变抽取。",
+            "quality": "iridescent",
+            "relatedPlant": "WallNut",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:invitation:专家邀请",
+            "category": "Expert",
+            "title": "专家邀请",
+            "description": "从多个选项中自选一株专家植物",
+            "condition": "仍有尚未获得的专家植物时有概率出现，概率受幸运影响。",
+            "quality": "diamond",
+            "relatedPlant": "EndPumpiner",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateMinigun",
+            "category": "Expert",
+            "title": "[[plant:UltimateMinigun]]",
+            "description": "获得新植物：[[plant:UltimateMinigun]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateMinigun",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateBlover",
+            "category": "Expert",
+            "title": "[[plant:UltimateBlover]]",
+            "description": "获得新植物：[[plant:UltimateBlover]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "diamond",
+            "relatedPlant": "UltimateBlover",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:EmeraldUmbrella",
+            "category": "Expert",
+            "title": "[[plant:EmeraldUmbrella]]",
+            "description": "获得新植物：[[plant:EmeraldUmbrella]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "diamond",
+            "relatedPlant": "EmeraldUmbrella",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateStarTorch",
+            "category": "Expert",
+            "title": "[[plant:UltimateStarTorch]]",
+            "description": "获得新植物：[[plant:UltimateStarTorch]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "diamond",
+            "relatedPlant": "UltimateStarTorch",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateSniperGatling",
+            "category": "Expert",
+            "title": "[[plant:UltimateSniperGatling]]",
+            "description": "获得新植物：[[plant:UltimateSniperGatling]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateSniperGatling",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:SuperThreePeater_sp",
+            "category": "Expert",
+            "title": "[[plant:SuperThreePeater_sp]]",
+            "description": "获得新植物：[[plant:SuperThreePeater_sp]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "diamond",
+            "relatedPlant": "SuperThreePeater_sp",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:BlackHoleTorch",
+            "category": "Expert",
+            "title": "[[plant:BlackHoleTorch]]",
+            "description": "获得新植物：[[plant:BlackHoleTorch]]\n可查看其全部专属词条。",
+            "condition": "尚未获得此专家植物时可选择。",
+            "quality": "iridescent",
+            "relatedPlant": "BlackHoleTorch",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Tactics:invitation:通用战术",
+            "category": "Tactics",
+            "title": "通用战术",
+            "description": "从多个选项中自选一种战术词条",
+            "condition": "抽取通用战术时有概率出现，概率受幸运影响；可自选一种仍有可领取等级的战术。",
+            "quality": "diamond",
+            "relatedPlant": "EndoFlame",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Tactics:Shooting_木桩1",
+            "category": "Tactics",
+            "title": "群攻-木桩",
+            "description": "在场上生成一个木桩僵尸，木桩僵尸会把受到伤害的60%均摊给全场僵尸，可以使用僵尸手套移动木桩僵尸\n木桩会秒杀解除到的魅惑僵尸",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_木桩2",
+            "category": "Tactics",
+            "title": "群攻-木桩",
+            "description": "木桩僵尸的均摊比例提升至100%",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_木桩3",
+            "category": "Tactics",
+            "title": "群攻-木桩",
+            "description": "在场上多生成一个木桩僵尸",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_木桩Max",
+            "category": "Tactics",
+            "title": "木桩-弱点洞悉",
+            "description": "木桩僵尸受到伤害时会额外对全场血量最高的僵尸造成100%伤害",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_烈阳1",
+            "category": "Tactics",
+            "title": "群攻-烈阳",
+            "description": "在场上生成一个阳光反应器，周期性对全场僵尸造成伤害",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_烈阳2",
+            "category": "Tactics",
+            "title": "群攻-烈阳",
+            "description": "阳光反应器的攻击间隔降低50%",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_烈阳3",
+            "category": "Tactics",
+            "title": "群攻-烈阳",
+            "description": "阳光反应器的伤害提高100%",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_烈阳Max",
+            "category": "Tactics",
+            "title": "烈阳-撕裂长空",
+            "description": "阳光反应器攻击时额外释放太阳神流星落下",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_战锤1",
+            "category": "Tactics",
+            "title": "不朽-战锤",
+            "description": "锤子的伤害降低，但冷却时间降低至3秒",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_战锤2",
+            "category": "Tactics",
+            "title": "不朽-战锤",
+            "description": "锤子的攻击范围大幅增加",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_战锤3",
+            "category": "Tactics",
+            "title": "不朽-战锤",
+            "description": "进一步降低锤子的冷却时间",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_战锤Max",
+            "category": "Tactics",
+            "title": "战锤-千锤百炼",
+            "description": "锤子命中僵尸后，在原地生成一个大锤子，持续对僵尸造成伤害，一段时间后消失",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_裂空1",
+            "category": "Tactics",
+            "title": "支援-飞艇",
+            "description": "获得一个迷你鱼型裂空机甲",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_裂空2",
+            "category": "Tactics",
+            "title": "支援-裂空",
+            "description": "迷你鱼型裂空机甲齐射所需攻击数-1",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_裂空3",
+            "category": "Tactics",
+            "title": "支援-裂空",
+            "description": "迷你鱼型裂空机甲攻击间隔降低",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_裂空Max",
+            "category": "Tactics",
+            "title": "裂空-苍穹之跃",
+            "description": "迷你鱼型裂空机甲齐射时的子弹在空中可持续分裂",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_明月1",
+            "category": "Tactics",
+            "title": "铁幕-明月",
+            "description": "在场上生成一个月光反应器，周期性为全场植物回复生命值",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_明月2",
+            "category": "Tactics",
+            "title": "铁幕-明月",
+            "description": "月光反应器的恢复量大幅提高",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_明月3",
+            "category": "Tactics",
+            "title": "铁幕-明月",
+            "description": "月光反应器生效时为全场植物赋予1000护盾",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_明月Max",
+            "category": "Tactics",
+            "title": "明月-照彻万川",
+            "description": "月光反应器生效时，为全场每株植物降下月华\n月华会秒杀3x3范围内的普通僵尸，并使植物无敌一段时间",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_硬化1",
+            "category": "Tactics",
+            "title": "铁幕-硬化",
+            "description": "全体植物受到的伤害降低20%",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_硬化2",
+            "category": "Tactics",
+            "title": "铁幕-硬化",
+            "description": "全体植物受到的伤害降低40%",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_硬化3",
+            "category": "Tactics",
+            "title": "铁幕-硬化",
+            "description": "全体植物受到的伤害降低60%",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_硬化Max",
+            "category": "Tactics",
+            "title": "硬化-坚不可摧",
+            "description": "全体植物受到的伤害降低90%，生命值降低时在原地发射一枚攻击力等同于自身最大生命值的豌豆子弹\n若拥有僵尸词条正当防卫则改为受到的伤害降低99%",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_交易1",
+            "category": "Tactics",
+            "title": "幸运-交易",
+            "description": "获得一次500幸运的词条抽取机会，随后扣除你25幸运",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_交易2",
+            "category": "Tactics",
+            "title": "幸运-交易",
+            "description": "获得一次1000幸运的词条抽取机会，随后扣除你50幸运",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_交易3",
+            "category": "Tactics",
+            "title": "幸运-交易",
+            "description": "获得一次1500幸运的词条抽取机会，随后扣除你75幸运",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_交易Max",
+            "category": "Tactics",
+            "title": "交易-孤注一掷",
+            "description": "立即将你的幸运设置为250，刷新机会设置为5，并使幸运上限x3，且从此不再能抽取幸运与合理投资\n每次抽取词条时，获得25幸运，并额外获得当前幸运20%的幸运（最高100），选择木头、白银、黄金/随机、钻石/棱彩/诅咒将分别扣除20/40/60/100幸运，每次刷新消耗50幸运",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_宝藏1",
+            "category": "Tactics",
+            "title": "幸运-宝藏",
+            "description": "立即生成一波2倍血量和速度的僵尸，全部消灭后获得一次500幸运的词条抽取机会",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_宝藏2",
+            "category": "Tactics",
+            "title": "幸运-宝藏",
+            "description": "立即生成一波3倍血量和速度的僵尸，全部消灭后获得一次1000幸运的词条抽取机会",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_宝藏3",
+            "category": "Tactics",
+            "title": "幸运-宝藏",
+            "description": "立即生成一波4倍血量和速度的僵尸，全部消灭后获得一次1500幸运的词条抽取机会",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_宝藏Max",
+            "category": "Tactics",
+            "title": "宝藏-双倍幸运",
+            "description": "立即使你当前幸运与幸运值上限翻倍\n若为负数则取绝对值后再翻倍，如-50幸运时：-50→100",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_业火1",
+            "category": "Tactics",
+            "title": "不朽-业火",
+            "description": "点击任意地方时，在点击位置释放业火爆炸，这个技能有10秒的冷却，如果击杀了僵尸则将冷却降为1秒",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_业火2",
+            "category": "Tactics",
+            "title": "不朽-业火",
+            "description": "业火获得100%伤害加成",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_业火3",
+            "category": "Tactics",
+            "title": "不朽-业火",
+            "description": "业火的冷却和击杀冷却降低50%",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_业火Max",
+            "category": "Tactics",
+            "title": "业火-燃尽此生",
+            "description": "业火可对植物造成伤害，击杀植物后后在全场释放火爆辣椒效果并刷新冷却，伤害基于该植物拿的总词条数而提高",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_光棱1",
+            "category": "Tactics",
+            "title": "支援-光棱",
+            "description": "获得一艘机械飞船，持续锁定并攻击最靠左的僵尸",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_光棱2",
+            "category": "Tactics",
+            "title": "支援-光棱",
+            "description": "机械飞船的折射次数+1",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_光棱3",
+            "category": "Tactics",
+            "title": "支援-光棱",
+            "description": "机械飞船的折射次数+2",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_光棱Max",
+            "category": "Tactics",
+            "title": "光棱-一枪穿雲",
+            "description": "光凌改为无限穿透，且折射可重复命中同一目标",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_天罚1",
+            "category": "Tactics",
+            "title": "护航-天罚",
+            "description": "闪电将为你作战，间歇性对场上僵尸造成伤害",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_天罚2",
+            "category": "Tactics",
+            "title": "护航-天罚",
+            "description": "闪电的持续时间提高100%",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_天罚3",
+            "category": "Tactics",
+            "title": "护航-天罚",
+            "description": "闪电的攻击频率提高100%",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_天罚Max",
+            "category": "Tactics",
+            "title": "天罚-闪电风暴",
+            "description": "闪电风暴将不间断的发动攻击",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_全能1",
+            "category": "Tactics",
+            "title": "沉淀-全能",
+            "description": "幸运提高25，全体伤害增幅提高10%，获得1次刷新机会，复活时间降低10%",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_全能2",
+            "category": "Tactics",
+            "title": "沉淀-全能",
+            "description": "幸运提高50，全体伤害增幅提高20%，获得2次刷新机会，复活时间降低20%",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_全能3",
+            "category": "Tactics",
+            "title": "沉淀-全能",
+            "description": "幸运提高75，全体伤害增幅提高30%，获得3次刷新机会，复活时间降低30%",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_全能Max",
+            "category": "Tactics",
+            "title": "全能-无懈可击",
+            "description": "在场的全体植物获得500%生命值加成，300%独立伤害增幅，200%速度增幅，60%幸运一击率，150%幸运一击伤害",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_铁卫1",
+            "category": "Tactics",
+            "title": "狂战-铁卫",
+            "description": "植物在右4列时，对僵尸额外造成30%伤害",
+            "condition": "尚未获得本组战术时可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_铁卫2",
+            "category": "Tactics",
+            "title": "狂战-铁卫",
+            "description": "植物在右4列时，对僵尸额外造成100%伤害",
+            "condition": "已获得本组前 1 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_铁卫3",
+            "category": "Tactics",
+            "title": "狂战-铁卫",
+            "description": "立即获得碾压保护、爆炸保护，并使全体植物立即获得25000护盾",
+            "condition": "已获得本组前 2 级词条后可出现。尚未获得此级词条。",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_铁卫Max",
+            "category": "Tactics",
+            "title": "铁卫-不灭之躯",
+            "description": "植物在3格内造成伤害时可回复生命值和护盾（有上限）",
+            "condition": "已获得本组前 3 级词条后可出现。尚未获得此级词条。需在图鉴消耗300诸神币购买本战术满阶后才可出现。",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 4
+        },
+        {
+            "id": "Trials:Shooting_不破不立",
+            "category": "Trials",
+            "title": "试炼：不破不立",
+            "description": "杀死你的全部植物，并将全场植物的独立伤害增幅和速度增幅减半\n在20波后重复这一操作，但改为增幅翻倍",
+            "condition": "仅炼狱模式可出现；尚未获得此试炼词条。\n轮回阶段不超过 1；仅第 20 / 40 / 60 / 80 波可出现。",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_两极分化",
+            "category": "Trials",
+            "title": "试炼：两极分化",
+            "description": "若你的幸运低于75，则立即将幸运设置为75非保底时，你的白银、黄金词条降级为木头品质，但钻石词条升级为棱彩品质",
+            "condition": "仅炼狱模式可出现；尚未获得此试炼词条。",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_傲慢之罚",
+            "category": "Trials",
+            "title": "试炼：傲慢",
+            "description": "当你的植物在僵尸上方时，额外造成30%伤害，当你的植物在僵尸下方时，少造成30%伤害，方位以屏幕上下判定",
+            "condition": "仅炼狱模式可出现；尚未获得此试炼词条。",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_嫉妒之惩",
+            "category": "Trials",
+            "title": "试炼：嫉妒",
+            "description": "当僵尸血量高于50%时，额外造成30%伤害，当僵尸血量低于50%时，少造成30%伤害",
+            "condition": "仅炼狱模式可出现；尚未获得此试炼词条。",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        }
+    ]
+}

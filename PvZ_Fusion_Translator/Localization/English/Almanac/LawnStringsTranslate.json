@@ -389,7 +389,7 @@
             "seedType": 221,
             "name": "Fusion Animation",
             "introduce": "<align=left><size=36><color=black></color>",
-            "info": "<size=36>Not a plant. It's an animation of base plants fusing into an Odyssey plant. You must have the setting \"Easier Odyssey\" enabled.",
+            "info": "<size=36>Not a plant. It's an animation of base plants fusing into an Odyssey plant. You must have the setting \"Easy Odyssey\" enabled to directly fuse an Odyssey plant.",
             "cost": ""
         },
         {
@@ -998,7 +998,7 @@
             "seedType": 941,
             "name": "Kelptain Goldbeard",
             "introduce": "<align=left><size=36><color=black>Since sailin' back from the Abyss, Kelptain Goldbeard be a changed beast - fiercer, greedier, an' twice as hearted. Captain o' the cursed ship, the Raidin' Goldplant, he bears two hearts, one torn from his own breast, t'other plundered from a fallen rival, and clutches a gilded giftbox stuffed with plunder from the Seven Seas. Touch his hearts or his treasure, an' yer ship sinks straight to Davy Jones' Locker.</color>",
-            "info": "<size=36>Kelptain Goldbeard is the greedy overlord of the seven seas, capable of squeezing every last drop of point value from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>40×3/5s + Insta-kill (Drown) × ∞</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Retains all traits of Hydra Kelp, but can drag zombies underwater an infinite amount of times (CD: 10s).\n<color=black>•</color> Greed Kelp projectile: Greed Kelps inflict Gilded to zombies on hit. When damaging aquatic zombies, applies 1 Kelp value. On bouncing, deals additional damage equal to the current points. Gilded zombies drop points equal to 0.03% of their Toughness on death, capped at 4.5 points per zombie, and 500 points per wave.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Gain 1% Attack Speed for every 1000 points owned\n2. Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox on an empty tile has a chance to spawn a seed packet for Kelptain Goldbeard</color>",
+            "info": "<size=36>Kelptain Goldbeard is the greedy overlord of the seven seas, capable of squeezing every last drop of point value from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>40×3/5s + Insta-kill (Drown) × ∞</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Retains all traits of Hydra Kelp, but can drag zombies underwater an infinite amount of times (CD: 10s).\n<color=black>•</color> Greed Kelp projectile: Greed Kelps inflict Gilded to zombies on hit. When damaging aquatic zombies, applies 1 Kelp value. On bouncing, deals additional damage equal to the current points. Gilded zombies drop points equal to 0.03% of their Toughness on death, capped at 4.5 points per zombie, and 500 points per wave.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Gain 1% Attack Speed for every 1000 points owned\n2. Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox has a chance to spawn a seed packet for Kelptain Goldbeard</color>",
             "cost": "<size=33>\nFusion Recipe: <color=#8B0000>Twin Marigold > Hydra Kelp</color>"
         },
         {
@@ -1432,7 +1432,7 @@
             "seedType": 5003,
             "name": "Sea-greed Zombox",
             "introduce": "<align=left><size=36><color=black>Sea-greed Zombox has always believed that the mysterious treasure chest from the deepest vaults of Atlantis completely changed his life. This box, which happens to fit his body perfectly, can summon zombies buried beneath Atlantis, store excess hearts and vines, and most importantly, keep the seawater inside it from ever going bad. With it, he can finally set foot on the land he has always dreamed of.</color>",
-            "info": "<size=36>Sea-greed Zombox summons an undead crew on land, allowing plants to expand their full-field offensive coverage.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Kelptain Goldbeard</color>\n<color=black>Damage: </color><color=#8B0000>40×3/5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Kelptain Goldbeard. Does not block zombies.\n<color=black>•</color> Any Tingle Kelp generated while it is on the lawn bursts into Greed Kelp projectiles instead.\n<color=black>•</color> Before each attack, spawns a Gold-box Zombie. If it is defeated within 10s, it will burst into 3 Greed Kelp projectiles.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Gain 1% Attack Speed for every 1000 points owned\n2. Point reward cap from defeating Gilded zombies is doubled | Using a Zombie Giftbox on an empty tile has a chance to spawn a seed packet for Sea-greed Zombox</color>",
+            "info": "<size=36>Sea-greed Zombox summons an undead crew on land, allowing plants to expand their full-field offensive coverage.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Kelptain Goldbeard</color>\n<color=black>Damage: </color><color=#8B0000>40×3/5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Kelptain Goldbeard. Does not block zombies.\n<color=black>•</color> Any Tingle Kelp generated while it is on the lawn bursts into Greed Kelp projectiles instead.\n<color=black>•</color> Before each attack, spawns a Gold-box Zombie. If it is defeated within 10s, it will burst into 3 Greed Kelp projectiles.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Gain 1% Attack Speed for every 1000 points owned\n2. Point reward cap from defeating Gilded zombies is doubled | Using a Zombie Giftbox has a chance to spawn a seed packet for Sea-greed Zombox</color>",
             "cost": "\n<size=36>Conversion Recipe: <color=#8B0000>Plant Giftbox <-> Zombie Giftbox</color>"
         },
         {
@@ -4876,21 +4876,21 @@
             "seedType": 1489,
             "name": "Cabbage Morph",
             "introduce": "<align=left><size=36><color=black>\"Annoying magnetism. It keeps making iron filings fly right toward the top of my head,\" complained Cabbage Morph. and compared to his brothers, his hairstyle is a lot harder to manage. Therefore, whenever he attends an event. He’s always the last one to show up.</color>",
-            "info": "<size=36>Cabbage Morph can merge with metal objects to change into the corresponding form based on the type of object\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000> Can fuse with Bucket and Chrono Core.\n</color>",
+            "info": "<size=36>Cabbage Morph can merge with fuse objects to change into the corresponding form based on the type of the object.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000> Can fuse with Bucket and Chrono Core.\n</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Cabbage-pult + Magnet-shroom</color>"
         },
         {
             "seedType": 1490,
             "name": "Scrap-pult",
             "introduce": "<align=left><size=36><color=black>Scrap-pult is obsessed with the celesta. Determined to appreciate this art even on the battlefield. He specially wrapped the keys in cabbages. Playing gorgeous movements with the clashing sound of metal. Zombies lucky enough to hear it say that the melody shoots straight through their skulls.</color>",
-            "info": "<size=36>Cabbages bounce while zombie helmets clang.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>160/3s</color>\n<color=black>Special: </color><color=#8B0000> Metal plant. projectile can bounce one more time everytime it hits a metallic Type 1 Armor.</color>",
+            "info": "<size=36>Cabbages bounce while zombie helmets clang.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>160/3s</color>\n<color=black>Special: </color><color=#8B0000> Metal plant. Projectiles can bounce one more time, each time they hit metallic Type 1 Armor.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Bucket > Cabbage Morph</color>"
         },
         {
             "seedType": 1491,
             "name": "Chrono-pult",
             "introduce": "<align=left><size=36><color=black>\"To understand the multi-layered and overlapping nature of space-time. You first have to understand the structure of a cabbage. There are many similarities between them.\" introduced Chrono-pult. \"Interstellar? You’d better go discuss that with Portal-pult. I’m not too fond of wormholes.\"</color>",
-            "info": "<size=36>Quickly throw cabbages to apply Chronoshift, but it will briefly overload if it attacks too fast.\n\n<color=black>Special: </color><color=#8B0000> Metal plant. Attacks deal no damage but apply Chronoshift. Has the same effect as Chrono Pea. projectile can bounce one more time if it applies chronoshift to 2 zombies. After 16 attacks, needs to rest for 10 seconds</color>",
+            "info": "<size=36>Quickly throws cabbages to apply Chronoshift, but it will briefly overload if it attacks too fast.\n\n<color=black>Special: </color><color=#8B0000> Metal plant. Attacks deal no damage but apply Chronoshift. Has the same effect as Chrono Pea. Projectiles can bounce one more time if it applies chronoshift to 2 zombies. After 16 attacks, needs to rest for 10 seconds.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Chrono Core > Cabbage Morph</color>"
         },
         {
