@@ -257,8 +257,8 @@
             "desc": "True Cherry Bomb: Explosive cherries will now deal at least 1800 damage, have increased explosion range and cause Cremator damage"
         },
         "1014": {
-            "name": "Recycling Fission",
-            "desc": "Clicking on the same plant when you have it on your Glove will disassemble it at the cost of 500 Sun | 20s cooldown"
+            "name": "Disassemble",
+            "desc": "Clicking on the same plant when you have it on your Glove will split it to its components, costs 500 sun | 20s cooldown"
         },
         "1015": {
             "name": "Phalanx",
@@ -1104,7 +1104,7 @@
         },
         "29": {
             "name": "Gamble of Bounty",
-            "desc": "Kelptain Goldbeard & Sea-greed Zombox: Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox/Zombie Giftbox on an empty tile has a chance to spawn a seed packet for Kelptain Goldbeard/Sea-greed Zombox, respectively"
+            "desc": "Kelptain Goldbeard & Sea-greed Zombox: Point reward cap from defeating Gilded zombies is doubled | Using a Plant Giftbox/Zombie Giftbox has a chance to spawn a seed packet for Kelptain Goldbeard/Sea-greed Zombox, respectively"
         },
         "30": {
             "name": "Accretion Disk",
