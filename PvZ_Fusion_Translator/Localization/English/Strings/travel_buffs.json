@@ -588,6 +588,10 @@
             "name": "Instant Growth",
             "desc": "Level gimmick: Deucalion-shroom starts with 1000 Growth Stages"
         },
+        "11002": {
+            "name": "Hidden Plants",
+            "desc": "Level gimmick: All seed packets are turned into question marks? I don't know where this shows up."
+        },
         "12000": {
             "name": "Ascend: Inferno",
             "desc": "Napalm-shroom's melons create an extra sea of fire upon hitting the ground and can split up to 2 more times when hitting zombies"
