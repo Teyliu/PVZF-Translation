@@ -598,7 +598,7 @@
         },
         "12001": {
             "name": "Ascend: Burst",
-            "desc": "When Apeacalypse Minigun is casting its ultimate ability, they will release 4 extra waves of Frostflame dealing 50 instances of damage each. Each instance deals damage equal to 10,000% of the turret's attack power to a random zombie in range"
+            "desc": "Its ultimate move now releases 4 extra Jalapeno effects, each of them doing 50 instances of damage, each instance of damage doing damage equal to 100x of Apeacalypse Minigun's attack power to a random zombie in range."
         },
         "12002": {
             "name": "Ascend: True Aim",
