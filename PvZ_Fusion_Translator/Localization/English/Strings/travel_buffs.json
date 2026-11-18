@@ -418,7 +418,7 @@
         },
         "4008": {
             "name": "Prodigy Cherryz",
-            "desc": "Increases the damage of plant-side cherry explosions. When hit by a cherry explosion, becomes enraged for 6 seconds and starts rapidly shooting cherries. Forces all Gatling Cherrybombers to fire a massive barrage and converts up to 10 hypnotized zombies (including when they die) into Gatling Cherry Newspaper zombies."
+            "desc": "Increases the damage of plant-side cherry explosions and stays on top of the rightmost Gatling Cherrybomber. When hit by a cherry explosion, becomes enraged for 6 seconds and starts shooting cherries, forces all Gatling Cherrybombers to fire a barrage and converts up to 10 hypnotized zombies into Gatling Cherry Newspaper zombies."
         },
         "5000": {
             "name": "Goliath Slayer",
