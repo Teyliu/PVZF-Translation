@@ -434,7 +434,7 @@
   "魅惑僵尸获得(\\d+)%独立伤害增幅": "Hypnotized zombies gain {0}% extra damage.",
   "魅惑僵尸获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%": "Hypnotized zombies gain {0}% extra damage.\nCurrent Bonus: {1}%",
   "魅惑僵尸获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%\n已选了(\\d+)次": "Hypnotized zombies gain {0}% extra damage.\nCurrent Bonus: {1}%\nSelected {2} time(s).",
-   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅": "{1}% extra damage.",
+  "^([\\s\\S]+)获得(\\d+)%独立伤害增幅": "{1}% extra damage.",
   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%": "{1}% extra damage.\nCurrent Bonus: {2}%",
   "^([\\s\\S]+)获得(\\d+)%独立伤害增幅\n当前增幅：(\\d+)%\n已选了(\\d+)次": "{1}% extra damage.\nCurrent Bonus: {2}%\nSelected {3} time(s).",
   "^([\\s\\S]+)获得(\\d+)%速度增幅": "{1}% extra speed.",
