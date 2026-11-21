@@ -597,7 +597,7 @@
                     "type": "GameLevel.RogueShooting.AbyssSwordStar+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-万剑归宗：究极剑仙杨桃每有2发大剑，每次攻击额外发射1发旋转小剑"
+                    "descriptionOverride": "For every 2 giant swords summoned Swordsage Starfruit, each attack additionally fires 1 spinning shortsword"
                 }
             ]
         },
@@ -659,7 +659,7 @@
                     "type": "GameLevel.RogueShooting.UltimateHypnoDoom+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-小鬼当家：魅惑黑曜石巨人砸击时会生成魅惑黑曜石小鬼僵尸"
+                    "descriptionOverride": "Hypnotized Abyssal Garg now spawns hypnotized Abyssal Imps when smashing"
                 }
             ]
         },
