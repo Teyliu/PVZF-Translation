@@ -4897,7 +4897,7 @@
             "seedType": 1492,
             "name": "Balloon-shroom",
             "introduce": "<align=left><size=36><color=black>Due to its sincere friendship with Fume-spreader, Balloon-shroom natrually became the very first player of <i>Bad Fungi</i>. \"I'm very satisfied with the gaming experience!\" After playing, Balloon-shroom shared its thoughts, \"Though I still don't quite understand why I had to hang outside the cockpit.\"</color>",
-            "info": "<size=36>Emits fumes to strike flying enemies while also dropping rains of spores to pepper the ground.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. Fumes only hits aerial zombies. But each attack also drops 12 spores that deals 10 damage across its attack range. Hitting non-aerial zombies below.</color>",
+            "info": "<size=36>Emits fumes to strike flying enemies while also dropping rains of spores to pepper the ground.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000> Flying plant. Fumes only hit aerial zombies. Each attack also drops 12 spores that deal 10 damage across their attack range, hitting non-aerial zombies below.</color>",
             "cost": "<size=36>Fusion Recipe: <color=#8B0000>Fume-Shroom + Blover</color>"
         },
         {
