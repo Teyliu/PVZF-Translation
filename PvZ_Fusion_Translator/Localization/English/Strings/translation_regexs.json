@@ -504,7 +504,8 @@
   "^2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n该难度已经通关了(\\d+)次": "Dr. Zomboss Auric Prime will appear at the end of round 3. Clear for 100 TGE coins.\n\nHas been cleared {0} time(s).",
   "^无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币\n\n最大轮数：(\\d+)": "Endlessly face Dr. Zomboss Auric Prime and gain 25 TGE coins every round. Type \"shoothard\" for a much harder challenge.\n\nHighest round: {0}.",
   "^诸神进化：无尽，第(\\d+)轮": "The Gods Evolved Endless, Round: {0}",
-  "诸神币：(\\d+)": "TGE Coins: {0s}",
+  "^诸神币：(\\d+)$": "TGE Coins: {0}",
+  "^(\\d+)币$": "{0} Coins",
   "START_UNDISCOVERED": "<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n{0} + {1}",
   "CONT_UNDISCOVERED": "or {0} + {1}"
 }
