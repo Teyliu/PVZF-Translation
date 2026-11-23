@@ -597,7 +597,7 @@
                     "type": "GameLevel.RogueShooting.AbyssSwordStar+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-万剑归宗：究极剑仙杨桃每有2发大剑，每次攻击额外发射1发旋转小剑"
+                    "descriptionOverride": "For every 2 giant swords summoned Swordsage Starfruit, each attack additionally fires 1 spinning shortsword"
                 }
             ]
         },
@@ -659,7 +659,7 @@
                     "type": "GameLevel.RogueShooting.UltimateHypnoDoom+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-小鬼当家：魅惑黑曜石巨人砸击时会生成魅惑黑曜石小鬼僵尸"
+                    "descriptionOverride": "Hypnotized Abyssal Garg now spawns hypnotized Abyssal Imps when smashing"
                 }
             ]
         },
@@ -755,13 +755,13 @@
                     "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-聚能弹道：极大幅度减小子弹发射偏转角度，大幅提高龙炎弹射程，龙炎弹耗能-2"
+                    "descriptionOverride": "Massively reduced spread but with full-lane range for both attack modes, Dragon attack costs 2 less energy."
                 },
                 {
                     "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade2",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-九龙至尊：龙炎弹弹道数固定为9，小幅降低龙炎弹射程，龙炎弹伤害提高1300%"
+                    "descriptionOverride": "Dragon attack has a fixed projectile count of 9. Its range is slightly reduced but with 14x damage."
                 }
             ]
         },
@@ -807,7 +807,7 @@
                     "type": "GameLevel.RogueShooting.HypnoEmperor+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-精英：魅帝菇召唤的僵尸强度大幅提高"
+                    "descriptionOverride": "Can now summon vastly stronger zombies, including Mini-bosses"
                 }
             ]
         },
@@ -847,7 +847,7 @@
                     "type": "GameLevel.RogueShooting.UltimateGatling+CherryCurse",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "诅咒-争强好胜：究极樱桃射手发射的子弹伤害降低50%，累计造成3亿伤害后反转诅咒\n反转效果：究极樱桃射手每次攻击，额外从屏幕左方发射若干樱桃子弹，攻击力等同于其他植物已造成伤害的0.0001%"
+                    "descriptionOverride": "Gatling Cherrybomber's damage is reduced by 50%. After dealing a cumulative 300M damage, reverse the curse\nReversal effect: Each time Gatling Cherrybomber attacks, it additionally fires several projectiles from the left side of the screen, with attack equal to 0.0001% of the cumulative damage dealt by other plants"
                 }
             ]
         },
@@ -881,7 +881,7 @@
                     "type": "GameLevel.RogueShooting.UltimateChomper+SuperUpgrade",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-噬化万军：战神吞噬僵尸后，将在每行生成一只幻化战神僵尸为你作战"
+                    "descriptionOverride": "After each devour, Cherrizilla summons a column of hypnotized Cherrizilla zombies."
                 },
                 {
                     "type": "GameLevel.RogueShooting.StarUpBuff",
@@ -965,7 +965,7 @@
                     "type": "GameLevel.RogueShooting.ObsidianSpike+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-流血：被任意地刺王命中的僵尸会在2秒内持续损失相当于本次伤害400%的生命值"
+                    "descriptionOverride": "Zombies targeted by any Spikerock continuously lose HP equal to 400% the attack for 2s"
                 }
             ]
         },
@@ -983,7 +983,7 @@
                     "type": "GameLevel.RogueShooting.SnowGatlingPuff+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-伙伴一起：伤害统一排名第一位的称为伙伴，小冰机每次攻击时，若伙伴为植物且存在于场上，则在伙伴位置额外释放一次攻击"
+                    "descriptionOverride": "If the unit with the highest total damage is a plant, it becomes the \"Partner\". Every time Gatling Icicle-shroom attacks, the Partner releases the same attack from its position if it's currently on the lawn."
                 }
             ]
         },
@@ -1031,7 +1031,7 @@
                     "type": "GameLevel.RogueShooting.UltimateStar+StarCurse",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "诅咒-壹肆叁柒：究极杨桃大帝的攻击间隔翻倍，在攻击1437次后反转诅咒，每轮攻击计入5次\n反转效果：发射的多功能子弹额外获得1437点基础伤害"
+                    "descriptionOverride": "Magnetar's attack speed is halved. After 1,437 attacks, reverse the curse, with each volley counting as 5 attacks\nReversal effect: Quasar projectiles from Magnetar gain an additional 1437 base damage"
                 }
             ]
         },
@@ -1099,7 +1099,7 @@
                     "type": "GameLevel.RogueShooting.UltimateTallNut+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-虚无黑曜：究极黑曜石高坚果及其分身的碰撞体积大幅增加，且免疫boss碾压\n回血间隔15→10秒"
+                    "descriptionOverride": "Obsidian Tall-nut and its projections have vastly larger hitboxes and are immune to crushing from bosses\nHealing CD: 15s→10s"
                 }
             ]
         },
@@ -1415,7 +1415,7 @@
                     "type": "GameLevel.RogueShooting.LaserUmbrella+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-光盾：流光伞会消耗能量击退3x3范围内的僵尸，普攻目标数x3"
+                    "descriptionOverride": "Can consume energy to repel zombies in a 3×3 area and regular attacks can target 3x as many zombies"
                 }
             ]
         },
@@ -1483,7 +1483,7 @@
                     "type": "GameLevel.RogueShooting.IFVIronPuff+HeadShotBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-反弹：铁豆小队的狙击不再能爆头，但弹道触碰场地边缘后会反弹，反弹数为穿透数+2"
+                    "descriptionOverride": "Can no longer headshot but lasers ricochet on lawn edges (like Split Pea), up to (number of pierces + 2) times."
                 }
             ]
         },
@@ -1509,7 +1509,7 @@
                     "type": "GameLevel.RogueShooting.UltimateCorn+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-引力：黑洞会吸引生命值低于50%的僵尸"
+                    "descriptionOverride": "Black holes will attract zombies with less than 50% max HP"
                 }
             ]
         },
@@ -1543,7 +1543,7 @@
                     "type": "GameLevel.RogueShooting.UltimateBigSniper+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-激光炮：究极激光炮台发射不间断的激光射线"
+                    "descriptionOverride": "Now fires continuously."
                 }
             ]
         },
@@ -1577,7 +1577,7 @@
                     "type": "GameLevel.RogueShooting.UltimateSpruce+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-固甲摧锋：究极云杉发射的子弹额外附带当前护盾量0.6%的攻击力，最高不超过基础攻击力的300%"
+                    "descriptionOverride": "Lifereaver Spruce's projectiles gain an additional 0.6% of its current Shield as Attack Damage, capped at 300% of its base Attack"
                 }
             ]
         },
@@ -1615,7 +1615,7 @@
                     "type": "GameLevel.RogueShooting.UltimateBigChomper+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-吞噬：巨嘴花吞咽后的吸引范围大幅增加"
+                    "descriptionOverride": "Attraction range after digestion is vastly increased"
                 }
             ]
         },
@@ -1649,7 +1649,7 @@
                     "type": "GameLevel.RogueShooting.UltimateWinterMelon+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-冰天雪地：当一个僵尸被冰神西瓜直击命中10次后，释放寒冰冲击波，对附近僵尸造成大量伤害"
+                    "descriptionOverride": "When a zombie receives 10 direct hits from Maelonstorm, it triggers an ice explosion that deals massive area damage."
                 }
             ]
         },
@@ -1717,13 +1717,13 @@
                     "type": "GameLevel.RogueShooting.UltimateCabbageCannon+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-饱和弹射：火菜炮索敌范围上下额外拓展1行，同时向所有目标发射子弹。若索敌目标数小于最大散射数，将剩余弹药平均分配给索敌目标。子弹飞行时间降低50%"
+                    "descriptionOverride": "Kaledera Eruptor's targeting range is +1 lane above and below, and fires at all targets simultaneously (if the number of targets is less than the max scatter count, the leftover shots are evenly distributed among the targets) | Projectile flight time reduced by 50%"
                 },
                 {
                     "type": "GameLevel.RogueShooting.UltimateCabbageCannon+CannonCurse",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "诅咒-见者有份：究极火菜炮每有一个目标，发射的子弹伤害降低1%，最低降低为原来的30%，累计通过此方式降低50000%后反转诅咒\n反转效果：究极火菜炮每有一个目标，发射的子弹伤害增加1%"
+                    "descriptionOverride": "For each target Kaledera Eruptor has, its projectile damage is reduced by 1%, up to a max reduction of 70%. After a cumulative reduction of 50,000% through this effect, reverse the curse.\nReversal effect: For each target Kaledera Eruptor has, its projectile damage is increased by 1%"
                 }
             ]
         },
@@ -1743,7 +1743,7 @@
                     "type": "GameLevel.RogueShooting.UltimateDoomScared+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "【<nobr>真正的毁灭菇</nobr>】：毁灭菇子弹会在命中时释放毁灭菇爆炸（不留坑洞）"
+                    "descriptionOverride": "Ultimate Doom Shells now trigger a crater-less Doom explosion on impact"
                 },
                 {
                     "type": "GameLevel.RogueShooting.UltimateDoomScared+UniqueBuff",
@@ -1783,7 +1783,7 @@
                     "type": "GameLevel.RogueShooting.BambooDragon+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-烈火燎原：烈焰竹龙的吐息时额外在全场释放火爆辣椒效果"
+                    "descriptionOverride": "Attacks also release jalapeno effects in all lanes."
                 }
             ]
         },
@@ -1815,7 +1815,7 @@
                     "type": "GameLevel.RogueShooting.UltimateBamboo+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-大运：究极冬笋路障会跟随鼠标移动，速度可提高移动速度，且遇到僵尸后强制执行撞击"
+                    "descriptionOverride": "Soulrender Bamboo will follow mouse movements with attack speed upgrades increasing the movement speed, deals damage to any zombies caught in its way."
                 }
             ]
         },
@@ -1849,7 +1849,7 @@
                     "type": "GameLevel.RogueShooting.UltimateLanternSplit+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-湮灭之核：相邻的两束天网之间会定期释放迷你黑洞爆炸"
+                    "descriptionOverride": "Adjacent 2 Celestial Beams releases mini black hole explosions periodically."
                 }
             ]
         },
@@ -1883,7 +1883,7 @@
                     "type": "GameLevel.RogueShooting.UltimateHelmetGatling+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-致密：超级黑橄榄机枪射手的大招会发射更强大的巨型子弹"
+                    "descriptionOverride": "Shoots even larger, stronger projectiles during Ultimate Moves. These projectiles can pierce, knock back zombies and will explode into smaller projectiles."
                 }
             ]
         },
@@ -2287,7 +2287,7 @@
                     "type": "GameLevel.RogueShooting.GoldMelon+SuperUpgrade",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-人人有份：金瓜大招额外给全场僵尸发射西瓜，且大招分裂数x2"
+                    "descriptionOverride": "Golden Melon's Ultimate additionally launches Golden melons at all zombies, and the Ultimate's split count ×2"
                 }
             ]
         },
@@ -2586,7 +2586,7 @@
                     "type": "GameLevel.RogueShooting.MelonNut+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-谁劈了我的瓜：西瓜坚果发射的西瓜飞到最高点时会瞬间炸开，并分裂成若干个小西瓜扔向全场僵尸"
+                    "descriptionOverride": "Melon-nut's projectile explodes mid-air and splits into several melons thrown at zombies across the lawn."
                 }
             ]
         },
@@ -2675,13 +2675,13 @@
                     "type": "GameLevel.RogueShooting.MagnetNut+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-杀戮光环：磁力坚果发射的子弹可无限穿透，但存在时间降低为10秒"
+                    "descriptionOverride": "Projectiles surrounding Mag-nut can now pierce infinitely, but their duration is reduced to 10s"
                 },
                 {
                     "type": "GameLevel.RogueShooting.MagnetNut+BulletCurse",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "诅咒-千锤百炼：磁力坚果不再发射子弹，累计吸引5000发子弹后反转诅咒\n反转效果：每次攻击时，额外发射一颗已吸引子弹中数量最多的类型的子弹"
+                    "descriptionOverride": "Mag-nut no longer fires projectiles. After attracting 5,000 projectiles, reverse the curse\nReversal effect: Each time Mag-nut attacks, it additionally fires one projectile of the type it has attracted the most"
                 }
             ]
         },
@@ -2790,7 +2790,7 @@
                     "type": "GameLevel.RogueShooting.SuperGatlingGloom+SuperBuff",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-勃然大怒：超级机枪忧郁菇每次攻击一定释放大招，但大招子弹数减半"
+                    "descriptionOverride": "Melancholy Commando always unleashes its Ultimate but with half the projectiles"
                 }
             ]
         },
@@ -2830,7 +2830,7 @@
                     "type": "GameLevel.RogueShooting.MagicSnowPea2+SuperUpgrade2",
                     "arguments": [],
                     "maxCount": 0,
-                    "descriptionOverride": "质变-拿来吧你：普通攻击叠加解读的概率翻倍。敌方目标进入战斗时，魔法寒冰射手对其施加3层“解读”。每一波开始时，对全场血量最高的僵尸施加100层“解读”，每层解读额外使本次伤害提高100%，僵尸死亡后，将剩余解读层数传递给其他僵尸"
+                    "descriptionOverride": "Zombies that spawn will be cursed with 3 stacks of Decryption Magic. Every wave, the zombie with the highest HP will gain 100 stacks of Decryption. Each stack increases the damage a zombie takes by 100%, and when a zombie cursed with Decryption dies their stacks will be spread to nearby zombies."
                 }
             ]
         }
