@@ -293,8 +293,8 @@
             "desc": "Upgrade SP Cryomancer Pea to Level 2"
         },
         "1023": {
-            "name": "Investing",
-            "desc": "You gain [120% - (current round number) x 10%] more points"
+            "name": "Fast Points",
+            "desc": "Get a 2.2x point multiplier, but this is decreased by 0.1x(round number) each round. E.g : Round 9 -> 1.3x multiplier"
         },
         "2000": {
             "name": "Doomsday",
