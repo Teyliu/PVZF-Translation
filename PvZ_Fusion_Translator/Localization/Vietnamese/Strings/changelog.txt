@@ -1,23 +1,45 @@
-<align=center><size=20>Xin Lưu Ý</size></align>
-Bản Fusion gốc chỉ có thể tìm thấy tại: 蓝飘飘fly's Bilibili</color>
-Nguồn chính thống có thể truy cập từ link server: <color=#64DD17>discord.gg/DPAC5ZVJ8T</color> va trang GitHub.
-Xin hãy tránh khỏi các trang tải game như <color=#8B0000>pvzfusion.net</color> hay <color=#8B0000>pvzfusion.pro</color> vì bọn họ đã phân phối lại bản mod mà không có sự cho phép chính thức. 
-Bản Việt Hóa được làm bởi team CBD và team Bloom.
+【Bản Cập Nhật Fusion 4.1】
 
-<align=center><size=130%>PvZ Fusion 3.6 Changelog</size></align>
+Nội dung cập nhật:
 
-1. Làm lại chế độ Luyện Ngục
-- Cho phép lựa chọn các hướng miniboss, kết hợp, chỉnh sửa độ khó mới.
-- Chỉnh sửa chọn miniboss và Cửa Hàng Buff
+1. Chế Độ Du Lịch: Tiến Hóa Làm Lại
+Nhận Điểm Tích Lũy qua mỗi màn chơi, dùng để mua cây trồng, nâng cấp và làm mới cửa hàng
+Dung hợp hoặc nâng cấp cửa hàng để nhận thẻ bài có phẩm chất cao hơn
+Có thể trang bị nhiều loại trang bị cho thẻ cây, mang lại các hiệu ứng cộng thêm
+Cây trồng trên sân sau khi dung hợp sẽ kế thừa trọn vẹn phẩm chất và trang bị của cả hai cây nguyên liệu
+Zombie tiến vào nhà sẽ không làm thất bại màn chơi ngay lập tức, mà bị trừ một lượng máu nhất định
 
-2. Màn chơi mới
-- Minigame mới: Dò Mìn, Osu, Tôi là Zomboss
-- Phiêu Lưu Tinh Hệ: Tuyết
-- Tôi là Zombie Phiêu Lưu chương 5
-- Đêm Tuyết Phiêu Lưu
-- Chế độ Thu Hoạch
+2. Cây Trồng Mới
+Dòng Phổ Thông: Hướng Dương Họa Sĩ, Cầu Xương Rồng Nhỏ, Bắp Cải Nam Châm, Bắp Cải Sắt, Bắp Cải Thời Không, Drone Nấm Mũm Mĩm, Chậu Cây Nấm Mũm Mĩm, Su Su Nam Châm, Su Su Lá Dù, Dưa Hấu Bắn Đậu, Nấm Nhút Nhát Ba Đầu, Su Su Nấm Mũm Mĩm, Bắp Cải Bắn Đậu, Dưa Hấu Nhút Nhát, Su Su Tỏi, Su Su Bạc, Su Su Vàng
+Dòng Cực Hạn: Nấm Phóng Xạ Cực Hạn, Nấm Tham Lam Cực Hạn, Óc Chó Su Su Từ Năng, Rồng Cuồng Phong, Gốc Cây Thời Không Song Song
 
-3. Làm lại Almanac hoàn toàn
-- Almanac giờ sẽ chỉ mở khóa công thức cây một khi bạn ghép cây thành công hoặc được trồng xuống. Bạn cũng có thể mở khóa toàn bộ ở Cài Đặt.
+3. Zombie Mới
+Zombie Biến Thể: Zombie Chiến Thần Anh Đào
+Zombie Cực Hạn: Zombie Cá Heo Bóng Bầu Dục Óc Chó Cao
+BOSS: Đinh Ba Vực Sâu
 
-4. Chỉnh sửa bug và tối ưu game
+4. Cập Nhật Màn Chơi
+· Siêu Ngẫu Nhiên: Đại Chiến Dấu Hỏi: Vẽ chân dung cho các cây trồng ngẫu nhiên được Hướng Dương Họa Sĩ chiêu mộ, và sử dụng những cây này để nghênh chiến Zombie
+
+5. Buff / Thẻ Phạt Mới
+Tia Thu Nhỏ -- Giáo Sư Z Tí Hon!
+
+6. Điều Chỉnh Cân Bằng
+· Chậu Cây Ba Lá, Khoai Tây Ba Lá, Bí Ngô Ánh Dương: Tăng chỉ số
+· Dòng Đậu Pháo Thủ Ba Đầu: Giảm tốc độ tấn công
+· Óc Chó Xô Sắt, Bí Ngô Xô Sắt, Óc Chó Cao Bầu Dục: Lượng hồi máu khi sử dụng đồ sắt tương ứng tăng mạnh
+· Cỏ Ba Lá Nam Châm: Sau khi tiêu hóa đồ sắt sẽ biến chúng thành vật phẩm rơi
+· Nấm Phóng Xạ & Nấm Tham Lam: Làm lại hiệu ứng cơ chế. Gỡ bỏ hạn chế sử dụng Nấm Tham Lam trong độ khó Lời Nguyền Du Lịch
+· Đinh Ba: Thêm hiệu ứng Làm Chậm khi áp đặt trạng thái Ẩm Ướt
+· Đinh Ba Vực Sâu Tối Thượng: Có thể cắn nuốt và cường hóa trạng thái suy yếu Ẩm Ướt như Đinh Ba, cây Đinh Ba khổng lồ tạo xoáy nước hút đạn
+· Khổng Lồ Đinh Ba Pháo Đài: Ném đinh ba không còn yêu cầu máu phải dưới 50%
+
+7. Tối Ưu Khác
+· Chế độ ngẫu nhiên giờ đây không còn lập tức làm mới đợt tiếp theo khi tổng lượng máu Zombie trên sân còn thấp
+· Tối ưu hóa hoạt ảnh biểu cảm của một số cây trồng
+· Plugin nhận diện hình vẽ Thần Bút Mã Lương đã được triển khai lên máy chủ, không còn phụ thuộc vào thiết bị đầu cuối
+· Tối ưu hóa nhịp độ Điểm Tích Lũy và Buff trong chế độ Du Lịch cổ điển
+
+8. Sửa một số lỗi đã biết và cải thiện trải nghiệm chơi game
+Sửa lỗi Drone Đậu Súng Máy biến mất không dấu vết sau khi chuyển cảnh
+Sửa lỗi Buff Điểm Đầy Tay bị áp dụng thêm điểm thưởng từ độ khó Lời Nguyền
