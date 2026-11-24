@@ -5,93 +5,78 @@ Stay away from other sources like <color=#8B0000>pvzfusion.net</color> or <color
 If you'd like to change the language of the translation, make sure to check out the "Languages" menu in the bottom right of this menu.
 Please visit our community for future updates and support.
 
-<align=center><size=130%>Plants VS. Zombies: Fusion - Update 4.0.5 Changelog</size></align>
+<align=center><size=130%>Plants VS. Zombies: Fusion - Update 4.1 Changelog</size></align>
+1. Odyssey: Evolved OVERHAULED
+- Earn points by clearing rounds; use these points to purchase plants, upgrade, or refresh the shop.
+- Synthesize plants or upgrade the shop to obtain higher-quality cards.
+- Equip plant cards with various items to gain additional bonuses.
+- When plants on the field are fused, the resulting plant inherits the quality and equipment of the materials used.
+- Zombies reaching your house no longer cause an immediate level failure; instead, you lose a portion of your health.
+<size=115%>CAUTION: THIS MODE IS UNTRANSLATED
 
-1. Memory - Snowy Night Update!
-- Pre-requisite: Defeat Ice-borg Executrix Mk. Alpha in Adventure Extra - Snow Level 9
-- Enter through Recommended Levels
-
-2. The Gods Evolved
-- New The Gods Almanac where you can buy paths and upgrades
-- New level progression and currency
-
-3. New Plants
-- Snowy Night Base Plants:
-  - Tundraweed
-  - Sword-shroom
-  - Shield-shroom
-  - Lithops
+2. New Plants
+- Unique Plants:
+  - Painter Sunflower
 - Basic Fusions:
-  - Frostbiter (Chomper + Ice-shroom)
-  - Cactus Squash (Squash + Cactus)
-  - Spiky Pumpkin (Spikeweed > Pumpkin)
-  - Fume-spreader (Fume-shroom + Threepeater)
-  - Hot Pot (Jalapeno > Flower Pot)
-  - Sword Tundraweed (Tundraweed + Sword-shroom)
-  - Shield Tundraweed (Tundraweed + Shield-shroom)
-  - Clash-shroom (Sword-shroom + Shield-shroom)
-  - Aqua Tundraweed (Aloe Aqua + Tundraweed)
-  - Aqua Sword-shroom (Aloe Aqua + Sword-shroom)
-  - Aqua Shield-shroom (Aloe Aqua + Shield-shroom)
-  - Lithops Tundraweed (Tundraweed + Lithops)
-  - Sword Lithops (Sword-shroom + Lithops)
-  - Shield Lithops (Shield-shroom + Lithops)
-  - Aqua Lithops (Aloe Aqua + Lithops)
-  - Lichen Firnace (Firnace + Hoarfrost Lichen)
-  - Tundraweed Firnace (Firnace + Tundraweed)
-  - Sword Firnace (Firnace + Sword-shroom)
-  - Shield Firnace (Firnace + Shield-shroom)
-  - Snow Threepeater (Ice-shroom + Threepeater)
-  - Flytrapper (Chomper + Blover)
-  - Ball Cactus (Cactus > Puff-shroom, bugged)
-- Titan Fusion:
-  - Mandiboulder (Spikeweed ∞ [Spikerock] ∞ Spikeweed)
+  - Ball Cactus
+  - Cabbage Morph
+  - Scrap-pult
+  - Chrono-pult
+  - Balloon-shroom
+  - Fume Pot
+  - Magnet Squash
+  - Umbrella Squash
+  - Melon Pod
+  - Trinity-shroom
+  - Crush-shroom
+  - Cabbage Pod
+  - Springy-shroom
+  - Stinky Squash
+  - Silver Squash
+  - Gold Squash.
 - Odyssey Fusions:
-  - Common Subspecies:
-    - Pyroboros Pot (Dragonbreath Torcher > Flower Pot)
+  - SP Odyssey:
+    - SP Calamity-shroom
+    - SP Avarice-shroom 
+  - Common Odyssey:
+    - Gravi-nut
   - Legendary:
-    - Final Magnetar
-  - Unique:
-    - Drone Commando (Pea-storm Commando + Blover)
-    - Snipurr (Snipea > Cattail)
-    - Snipad (Shovel a Snipot)
-    - Melancholy Commando (Pea-storm Commando + Gloom-shroom)
+    - Longfeng Torcher
+    - Temporal Torch
 
-4. New Zombies
-- Common:
-  - Lost Automaton
-  - Force Shield Automaton
-  - Vibroblade Automaton
-  - Penguin Automaton
-  - Snowfur Automaton
-  - Snow Crab
-  - Turrethead Automaton
-- Neutral:
-    - Snowbeak
-- Odyssey:
-    - Harpooneer Frost Tall-nut Zombie
+3. New Zombies
+- Extra Zombies:
+  - Cherrizilla Zombie
+- Odyssey Zombies:
+  - Giga Dolphin-nut Zombie
+- BOSS: 
+  - <u><i>Channeler Pozeidon<i><u>
 
-5. New Levels
-- Odyssey Gacha: Scratch Off!
-- New I, Zombie default level group levels to replace the crappy old RNG ones
-- ZombiesTD Classic 1 & 2 (enter through Recommended Levels)
+4. Level Updates
+- Magic Paintbrush
+  – Create "portraits" (summon random plants) for Painter Sunflower, then use these plants to fend off the zombies.
+<size=115%>CAUTION: THIS MODE IS UNTRANSLATED
 
-6. Noteworthy Balance Changes
-- Odyssey Cursed Mode now has incremental Modifier price increase
-- Reworked Gatling Cherrybomber + Infernal Squashwood synergy
-- New Infernal Sparkwood + SP Phoenix Threepeater/Drone synergy
-- Firnace: buffed Sun production and duration, increased seed packet CD, to reduce micro-management
-- Doom Kelp: No longer leaves a Doom Lily Pad on explosion
-- Charm-shroom & Charmatron: buffed attack speed, nerfed attack damage
-- Both Magnetar Synergy Modifiers [Astral Convergence], [Celestial Beacon] reworked
-- Pulsar: Now Magnetar Modifiers also have effects for Pulsar
-- Coach Zombie: Pole-vaulting distance buff no longer stacks
-- Professor Cherryz: Now more threatening the longer he remains on the field
+5. New Odyssey Buff
+- Pet Modifiers:
+  - Prodigy Cherryz
 
-7. New Skins
-Tidebreaker Wither-pult
-Moon Festival Selene Cabbage
+6. Balance Adjustments
+- Blover Pot, Levitater, Solar Pumpkin: Stats buffed.
+- Threepeater Series: Attack speed nerfed.
+- Metallic Plants: Significantly increased healing when consuming the corresponding metal items.
+- Magnet Blover: Converts consumed metal items into collectible drops.
+- Calamity-shroom & Avarice-shroom: Effects reworked. Removed usage restrictions for Avarice-shroom in the "Cursed" Odyssey difficulty.
+- Tridents: Now apply a slowing effect to targets with the "Drenched" status.
+- Pozeidon: Bites deal equal damage to a trident and apply Drenched; the Giant Trident generates a vortex that draws in projectiles.
+- Trident Jugger-nut Gargantuar: Throws trident upon being hit instead of reaching 50% hp or lower, refills tridents at 1 trident per second.
 
-8. Overhauled Super Level Editor's code editor (untranslated)
+7. Other Optimizations
+- In Gacha Modes, the next wave will no longer spawn immediately if the total HP of zombies currently on the field is at or under half.
+- Optimized facial expression animations for certain plants.
+- The "Magic Brush" (Image Recognition) plugin has been made server-side, eliminating dependency on the user's local device.
+- Optimized the pacing of score accumulation and modifier ​​triggers in Classic Odyssey Mode.
 
-9. Miscellaneous bug fixes and optimizations.
+8. Fixed known bugs and improved the overall gaming experience.
+- Fixed a bug where the Mecha Fighter would vanish after a scene transition in The Gods: Evolution.
+- Fixed a bug where the "Investing" modifier was incorrectly receiving score multipliers from the Cursed Odyssey difficulty setting.
