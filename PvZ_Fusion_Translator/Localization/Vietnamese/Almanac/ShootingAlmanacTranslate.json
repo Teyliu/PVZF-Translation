@@ -1,0 +1,4262 @@
+{
+    "schemaVersion": 4,
+    "sourceHash": "41FC5D29EBC42E7CA62BAE83678E8CEE1ECD88208D3E5FFE0DA31C3EDE1856E4",
+    "roots": [
+        "Peashooter",
+        "WallNut",
+        "PotatoMine",
+        "Chomper",
+        "SmallPuff",
+        "FumeShroom",
+        "ScaredyShroom",
+        "Squash",
+        "HypnoShroom",
+        "Jalapeno",
+        "ThreePeater",
+        "Caltrop",
+        "Cactus",
+        "StarFruit",
+        "Cabbagepult",
+        "Melonpult",
+        "Cornpult",
+        "Umbrellaleaf",
+        "Bamboo",
+        "SpruceShooter"
+    ],
+    "plants": [
+        {
+            "plant": "Peashooter",
+            "configType": "GameLevel.RogueShooting.Peashooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "LanternSplit"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "SniperPea"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "CherryGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "HelmetGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "SnowPeaShooter"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Peashooter",
+                        "JalaGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "WallNut",
+            "configType": "GameLevel.RogueShooting.WallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "SuperChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "TallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "CabbageNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WallNut",
+                        "MagnetNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PotatoMine",
+            "configType": "GameLevel.RogueShooting.PotatoMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PotatoMine",
+                        "PeaMine"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Chomper",
+            "configType": "GameLevel.RogueShooting.Chomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Chomper",
+                        "CherryChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Chomper",
+                        "BigChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SmallPuff",
+            "configType": "GameLevel.RogueShooting.SmallPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SmallPuff",
+                        "IcePuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SmallPuff",
+                        "IronPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FumeShroom",
+            "configType": "GameLevel.RogueShooting.FumeShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "IceFumeShroom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "GloomShroom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FumeShroom",
+                        "GarlicFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoShroom",
+            "configType": "GameLevel.RogueShooting.HypnoShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoShroom",
+                        "HypnoNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoShroom",
+                        "HypnoDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ScaredyShroom",
+            "configType": "GameLevel.RogueShooting.ScaredyShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyShroom",
+                        "SuperHypno"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyShroom",
+                        "ScaredyDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Squash",
+            "configType": "GameLevel.RogueShooting.Squash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squash",
+                        "Squalour"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squash",
+                        "CherrySquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreePeater",
+            "configType": "GameLevel.RogueShooting.ThreePeater",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreePeater",
+                        "ThreeSquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreePeater",
+                        "BigGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Jalapeno",
+            "configType": "GameLevel.RogueShooting.Jalapeno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Jalapeno",
+                        "Firecracker"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Caltrop",
+            "configType": "GameLevel.RogueShooting.Caltrop",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Caltrop",
+                        "SpikeRock"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Caltrop",
+                        "CaltropNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cactus",
+            "configType": "GameLevel.RogueShooting.Cactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cactus",
+                        "DoomCactus"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "StarFruit",
+            "configType": "GameLevel.RogueShooting.StarFruit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "StarFruit",
+                        "SuperStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "StarFruit",
+                        "SwordStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cabbagepult",
+            "configType": "GameLevel.RogueShooting.Cabbagepult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cabbagepult",
+                        "GoldCabbage"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cabbagepult",
+                        "CabbageCannon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Cornpult",
+            "configType": "GameLevel.RogueShooting.Cornpult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Cornpult",
+                        "PortalCorn"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Umbrellaleaf",
+            "configType": "GameLevel.RogueShooting.Umbrellaleaf",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Umbrellaleaf",
+                        "LanternUmbrella"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Melonpult",
+            "configType": "GameLevel.RogueShooting.Melonpult",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "SuperMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "FireMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "WinterMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Melonpult",
+                        "SilverMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SpruceShooter",
+            "configType": "GameLevel.RogueShooting.SpruceShooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SpruceShooter",
+                        "SuperSpruce"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Bamboo",
+            "configType": "GameLevel.RogueShooting.Bamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Bamboo",
+                        "LotusBamboo"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Firecracker",
+            "configType": "GameLevel.RogueShooting.Firecracker",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Firecracker",
+                        "BambooDragon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "Squalour",
+            "configType": "GameLevel.RogueShooting.Squalour",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "Squalour",
+                        "CattailLour"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SwordStar",
+            "configType": "GameLevel.RogueShooting.SwordStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SwordStar",
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "AbyssSwordStar",
+            "configType": "GameLevel.RogueShooting.AbyssSwordStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "AbyssSwordStar"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.AbyssSwordStar+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.AbyssSwordStar+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Vạn Kiếm Quy Tông: Cứ mỗi 2 thanh Đại Kiếm của Sao Kiếm Đại Vương, mỗi đòn tấn công bắn thêm 1 thanh Tiểu Kiếm Xoay"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateMinigun",
+            "configType": "GameLevel.RogueShooting.UltimateMinigun",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateMinigun"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateMinigun"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMinigun+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHypnoDoom",
+            "configType": "GameLevel.RogueShooting.UltimateHypnoDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "Synergy_魅惑僵尸"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHypnoDoom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypnoDoom+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypnoDoom+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Tiểu Quỷ Nổi Loạn: Zombie Khổng Lồ Hắc Diệu Thạch bị thôi miên khi đập sẽ tạo ra Zombie Tí Hon Hắc Diệu Thạch bị thôi miên"
+                }
+            ]
+        },
+        {
+            "plant": "UltimatePoisonFume",
+            "configType": "GameLevel.RogueShooting.UltimatePoisonFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimatePoisonFume+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimatePoisonFume+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSniperGatling",
+            "configType": "GameLevel.RogueShooting.UltimateSniperGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSniperGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSniperGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSniperGatling+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateJalaGatling",
+            "configType": "GameLevel.RogueShooting.UltimateJalaGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Đạn Đạo Tụ Năng: Giảm cực mạnh góc lệch phát đạn, tăng mạnh tầm bắn đạn Long Viêm, tiêu hao năng lượng đạn Long Viêm -2"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateJalaGatling+SuperUpgrade2",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Cửu Long Chí Tôn: Số lượng đường đạn Long Viêm cố định là 9, giảm nhẹ tầm bắn đạn Long Viêm, sát thương đạn Long Viêm tăng 1300%"
+                }
+            ]
+        },
+        {
+            "plant": "BlackHoleTorch",
+            "configType": "GameLevel.RogueShooting.BlackHoleTorch",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.BlackHoleTorch+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoEmperor",
+            "configType": "GameLevel.RogueShooting.HypnoEmperor",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "Synergy_魅惑僵尸"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "HypnoEmperor"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.HypnoEmperor+CountBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.HypnoEmperor+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Tinh Anh: Sức mạnh của Zombie do Nấm Công Chúa triệu hồi tăng mạnh"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateGatling",
+            "configType": "GameLevel.RogueShooting.UltimateGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+SuperForceUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGatling+CherryCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Lời Nguyền - Hiếu Thắng: Sát thương đạn của Đậu Anh Đào Tối Thượng giảm 50%. Sau khi gây tích lũy đủ 300 triệu sát thương, Lời Nguyền sẽ tự hóa giải thành Phước Lành.\nHiệu ứng đảo ngược: Mỗi khi tấn công, bắn thêm các đạn bom anh đào từ mép trái màn hình với sát thương bằng 0.0001% tổng sát thương mà các cây khác đã gây ra."
+                }
+            ]
+        },
+        {
+            "plant": "UltimateChomper",
+            "configType": "GameLevel.RogueShooting.UltimateChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateChomper+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Phệ Hóa Vạn Quân: Sau khi Chiến Thần nuốt chửng Zombie, sẽ tạo ra một Zombie Chiến Thần Ảo Hóa ở mỗi hàng chiến đấu cho bạn"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateFume",
+            "configType": "GameLevel.RogueShooting.UltimateFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateFume+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateFume+BuffUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ObsidianSpike",
+            "configType": "GameLevel.RogueShooting.ObsidianSpike",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianSpike+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianSpike+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Chảy Máu: Zombie bị bất kỳ Gai Thép nào đánh trúng sẽ liên tục mất Máu bằng 400% sát thương đòn đánh trong 2 giây"
+                }
+            ]
+        },
+        {
+            "plant": "SnowGatlingPuff",
+            "configType": "GameLevel.RogueShooting.SnowGatlingPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SnowGatlingPuff+SlowBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SnowGatlingPuff+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Bạn Đồng Hành: Đơn vị xếp hạng nhất về tổng sát thương được gọi là Bạn Đồng Hành, mỗi khi Xe Băng Nhỏ tấn công, nếu Bạn Đồng Hành là thực vật và còn trên sân thì sẽ giải phóng thêm một đòn tấn công tại vị trí Bạn Đồng Hành"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateStar",
+            "configType": "GameLevel.RogueShooting.UltimateStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStar+StarCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Lời Nguyền - 1437: Tốc độ bắn của Sao Năm Cánh Tối Thượng giảm 50% (giãn cách tấn công tăng gấp đôi). Sau khi bắn tích lũy đủ 1.437 phát (mỗi lượt bắn tính là 5 phát), Lời Nguyền sẽ tự hóa giải thành Phước Lành.\nHiệu ứng đảo ngược: Mọi viên đạn đa năng bắn ra được cộng thêm 1.437 sát thương cơ bản."
+                }
+            ]
+        },
+        {
+            "plant": "UltimateGloom",
+            "configType": "GameLevel.RogueShooting.UltimateGloom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGloom+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateGloom+DoomBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateTallNut",
+            "configType": "GameLevel.RogueShooting.UltimateTallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateTallNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateTallNut+HolographicBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateTallNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Hắc Diệu Hư Vô: Kích thước va chạm của Óc Chó Cao Hắc Diệu Thạch Tối Thượng và phân thân tăng mạnh, đồng thời miễn nhiễm Boss đè bẹp\nKhoảng cách hồi máu 15 → 10 giây"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateMelon",
+            "configType": "GameLevel.RogueShooting.UltimateMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMelon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateMelon+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.StarUpBuff",
+                    "arguments": [
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "EmeraldUmbrella",
+            "configType": "GameLevel.RogueShooting.EmeraleBlover",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "EmeraldUmbrella"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperThreePeater",
+            "configType": "GameLevel.RogueShooting.SuperThreePeater",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBlover",
+            "configType": "GameLevel.RogueShooting.UltimateBlover",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBlover+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHypno",
+            "configType": "GameLevel.RogueShooting.UltimateHypno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+MindContolledBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+HypnoEffect",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHypno+BombEffect",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CattailLour",
+            "configType": "GameLevel.RogueShooting.CattailLour",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "CattailLour"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "CattailLour"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.CattailLour+FlySupply",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.CattailLour+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigGatling",
+            "configType": "GameLevel.RogueShooting.UltimateBigGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateBigGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+HealthUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigGatling+PierceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ObsidianWallNut",
+            "configType": "GameLevel.RogueShooting.ObsidianWallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianWallNut+ShootCountBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ObsidianWallNut+ShootBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCactus",
+            "configType": "GameLevel.RogueShooting.UltimateCactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCactus+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCabbage",
+            "configType": "GameLevel.RogueShooting.UltimateCabbage",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbage+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LaserUmbrella",
+            "configType": "GameLevel.RogueShooting.LaserUmbrella",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.LaserUmbrella+ExplodeBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.LaserUmbrella+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Khiên Quang: Dù Lưu Quang tiêu hao năng lượng đẩy lùi Zombie trong phạm vi 3x3, số mục tiêu đánh thường x3"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSpring",
+            "configType": "GameLevel.RogueShooting.UltimateSpring",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpring+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpring+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IFVIronPuff",
+            "configType": "GameLevel.RogueShooting.IFVIronPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.IFVIronPuff+PierceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.IFVIronPuff+HeadShotBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Nảy Bật: Phát bắn của Thiết Đậu Tiểu Đội không thể headshot nữa nhưng đường đạn chạm mép sân sẽ nảy lại, số lần nảy bằng số lần xuyên thấu +2"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCorn",
+            "configType": "GameLevel.RogueShooting.UltimateCorn",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCorn"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCorn+ExtraDamageBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCorn+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Hấp Lực: Hố Đen sẽ hút Zombie có lượng Máu dưới 50%"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigSniper",
+            "configType": "GameLevel.RogueShooting.UltimateBigSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigSniper+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigSniper+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Pháo Laser: Pháo Đài Laser Tối Thượng bắn chùm tia laser không ngắt quãng"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateSpruce",
+            "configType": "GameLevel.RogueShooting.UltimateSpruce",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpruce+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateSpruce+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Cố Giáp Tồi Phong: Đạn của Vân Sam Tối Thượng được cộng thêm 0.6% lượng Khiên hiện tại vào sát thương, tối đa không quá 300% sát thương cơ bản"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateStarTorch",
+            "configType": "GameLevel.RogueShooting.UltimateStarTorch",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UltimateStarTorch+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBigChomper",
+            "configType": "GameLevel.RogueShooting.UltimateBigChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBigChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBigChomper+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Thôn Phệ: Phạm vi hút sau khi nuốt của Đại Khẩu Thực Thảo tăng mạnh"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateWinterMelon",
+            "configType": "GameLevel.RogueShooting.UltimateWinterMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateWinterMelon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateWinterMelon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Băng Thiên Tuyết Địa: Khi một Zombie bị Thời Không Cực Hàn bắn trúng trực tiếp 10 lần, sẽ giải phóng Sóng Xung Kích Hàn Băng, gây lượng lớn sát thương lên Zombie xung quanh"
+                }
+            ]
+        },
+        {
+            "plant": "NuclearSquash",
+            "configType": "GameLevel.RogueShooting.NuclearSquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "NuclearSquash"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SquashPumpkin"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.NuclearSquash+DuringBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.NuclearSquash+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "UltimateCabbageCannon",
+            "configType": "GameLevel.RogueShooting.UltimateCabbageCannon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Bão Đạn Bão Hòa: Tầm ngắm của Pháo Bắp Cải Lửa mở rộng thêm 1 hàng trên và dưới, đồng thời bắn đạn vào tất cả mục tiêu. Nếu số mục tiêu ít hơn số đạn tỏa tối đa, lượng đạn dư sẽ chia đều cho các mục tiêu. Thời gian bay của đạn giảm 50%."
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateCabbageCannon+CannonCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Lời Nguyền - Thấy Là Có Phần: Với mỗi mục tiêu mà Pháo Bắp Cải Lửa Tối Thượng nhắm tới, sát thương đạn giảm 1% (giảm tối đa còn 30% gốc). Sau khi tích lũy đủ 50.000% lượng sát thương bị giảm theo cách này, Lời Nguyền sẽ tự hóa giải thành Phước Lành.\nHiệu ứng đảo ngược: Với mỗi mục tiêu nhắm tới, sát thương đạn tăng thêm 1%."
+                }
+            ]
+        },
+        {
+            "plant": "UltimateDoomScaredy",
+            "configType": "GameLevel.RogueShooting.UltimateDoomScared",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateDoomScaredy"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateDoomScared+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "【<nobr>Nấm Hủy Diệt Đích Thực</nobr>】: Đạn Nấm Hủy Diệt khi bắn trúng sẽ kích hoạt vụ nổ Nấm Hủy Diệt (không để lại hố)"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateDoomScared+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BambooDragon",
+            "configType": "GameLevel.RogueShooting.BambooDragon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "BambooDragon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "BambooDragon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.BambooDragon+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.BambooDragon+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Liệt Hỏa Liêu Nguyên: Hơi thở của Trúc Hỏa Long kích hoạt thêm hiệu ứng Ớt Hiểm trên toàn sân"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateBamboo",
+            "configType": "GameLevel.RogueShooting.UltimateBamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateBamboo"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+DefenceBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+HealthBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateBamboo+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Đại Vận: Hàn Trúc Vĩnh Hằng sẽ di chuyển theo con trỏ chuột, tốc độ đánh giúp tăng tốc độ di chuyển và cưỡng chế húc khi gặp Zombie"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateLanternSplit",
+            "configType": "GameLevel.RogueShooting.UltimateLanternSplit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateLanternSplit+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateLanternSplit+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Lõi Tận Diệt: Giữa 2 luồng Thiên Võng liền kề sẽ định kỳ giải phóng vụ nổ Hố Đen mini"
+                }
+            ]
+        },
+        {
+            "plant": "UltimateHelmetGatling",
+            "configType": "GameLevel.RogueShooting.UltimateHelmetGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHelmetGatling+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UltimateHelmetGatling+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Đậm Đặc: Chiêu cuối của Bão Tố Hắc Bầu Dục sẽ bắn ra viên đạn khổng lồ uy lực hơn"
+                }
+            ]
+        },
+        {
+            "plant": "SuperThreePeater_sp",
+            "configType": "GameLevel.RogueShooting.SuperThreePeater_sp",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "SuperThreePeater_sp"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SuperThreePeater_sp"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperThreePeater_sp+UniqueBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PeaMine",
+            "configType": "GameLevel.RogueShooting.PeaMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PeaMine",
+                        "ThreeMine"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperChomper",
+            "configType": "GameLevel.RogueShooting.SuperChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperChomper",
+                        "UltimateChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherryChomper",
+            "configType": "GameLevel.RogueShooting.CherryChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherryChomper",
+                        "DoomChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherryGatling",
+            "configType": "GameLevel.RogueShooting.CherryGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherryGatling",
+                        "UltimateGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperHypno",
+            "configType": "GameLevel.RogueShooting.SuperHypno",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperHypno",
+                        "UltimateHypno"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "TallNut",
+            "configType": "GameLevel.RogueShooting.TallNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "TallNut",
+                        "UltimateTallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SnowPeaShooter",
+            "configType": "GameLevel.RogueShooting.SnowPeaShooter",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SnowPeaShooter",
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IcePuff",
+            "configType": "GameLevel.RogueShooting.IcePuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IcePuff",
+                        "SnowGatlingPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IceFumeShroom",
+            "configType": "GameLevel.RogueShooting.IceFumeShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IceFumeShroom",
+                        "UltimateFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ScaredyDoom",
+            "configType": "GameLevel.RogueShooting.ScaredyDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ScaredyDoom",
+                        "UltimateDoomScaredy"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "HypnoDoom",
+            "configType": "GameLevel.RogueShooting.HypnoDoom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoDoom",
+                        "UltimateHypnoDoom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreeSquash",
+            "configType": "GameLevel.RogueShooting.ThreeSquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "ThreeSquash",
+                        "SuperThreePeater"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CaltropNut",
+            "configType": "GameLevel.RogueShooting.CaltropNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CaltropNut",
+                        "ObsidianWallNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SpikeRock",
+            "configType": "GameLevel.RogueShooting.SpikeRock",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SpikeRock",
+                        "ObsidianSpike"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GloomShroom",
+            "configType": "GameLevel.RogueShooting.GloomShroom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GloomShroom",
+                        "UltimateGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GloomShroom",
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperStar",
+            "configType": "GameLevel.RogueShooting.SuperStar",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperStar",
+                        "UltimateStar"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SniperPea",
+            "configType": "GameLevel.RogueShooting.SniperPea",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "DoomSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "FireSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SniperPea",
+                        "UltimateBigSniper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "WinterMelon",
+            "configType": "GameLevel.RogueShooting.WinterMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "WinterMelon",
+                        "UltimateWinterMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperMelon",
+            "configType": "GameLevel.RogueShooting.SuperMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperMelon",
+                        "UltimateMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GoldCabbage",
+            "configType": "GameLevel.RogueShooting.GoldCabbage",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GoldCabbage",
+                        "UltimateCabbage"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SilverMelon",
+            "configType": "GameLevel.RogueShooting.SilverMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SilverMelon",
+                        "GoldMelon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GoldMelon",
+            "configType": "GameLevel.RogueShooting.GoldMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "GoldMelon"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "GoldMelon"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.GoldMelon+UniqueUpgrage",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.GoldMelon+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Ai Cũng Có Phần: Tuyệt kỹ của Dưa Hấu Vàng bắn thêm dưa hấu vào toàn bộ Zombie trên sân, và số lượng phân tách x2"
+                }
+            ]
+        },
+        {
+            "plant": "HypnoNut",
+            "configType": "GameLevel.RogueShooting.HypnoNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HypnoNut",
+                        "HypnoEmperor"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FireMelon",
+            "configType": "GameLevel.RogueShooting.FireMelon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "FireMelon",
+                        "UltimateSpring"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "IronPuff",
+            "configType": "GameLevel.RogueShooting.IronPuff",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "IronPuff",
+                        "IFVIronPuff"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BigGatling",
+            "configType": "GameLevel.RogueShooting.BigGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "BigGatling",
+                        "UltimateBigGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "FireSniper",
+            "configType": "GameLevel.RogueShooting.FireSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "FireSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "FireSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.FireSniper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.FireSniper+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "GarlicFume",
+            "configType": "GameLevel.RogueShooting.GarlicFume",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "GarlicFume",
+                        "UltimatePoisonFume"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "BigChomper",
+            "configType": "GameLevel.RogueShooting.BigChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "BigChomper",
+                        "UltimateBigChomper"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LanternUmbrella",
+            "configType": "GameLevel.RogueShooting.LanternUmbrella",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LanternUmbrella",
+                        "LaserUmbrella"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomCactus",
+            "configType": "GameLevel.RogueShooting.DoomCactus",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "DoomCactus",
+                        "UltimateCactus"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomChomper",
+            "configType": "GameLevel.RogueShooting.DoomChomper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "DoomChomper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "DoomChomper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomChomper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomChomper+ChompBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "PortalCorn",
+            "configType": "GameLevel.RogueShooting.PortalCorn",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "PortalCorn",
+                        "UltimateCorn"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperSpruce",
+            "configType": "GameLevel.RogueShooting.SuperSpruce",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "SuperSpruce",
+                        "UltimateSpruce"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "ThreeMine",
+            "configType": "GameLevel.RogueShooting.ThreeMine",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "ThreeMine"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "ThreeMine"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ThreeMine+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.ThreeMine+ExplodeBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LotusBamboo",
+            "configType": "GameLevel.RogueShooting.LotusBamboo",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LotusBamboo",
+                        "UltimateBamboo"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "MelonNut",
+            "configType": "GameLevel.RogueShooting.MelonNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MelonNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+HealthBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+SaveDamageBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MelonNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Ai Bổ Dưa Của Tôi: Quả dưa hấu do Óc Chó Dưa Hấu bắn ra khi bay đến điểm cao nhất sẽ nổ tung, tách thành nhiều quả dưa hấu nhỏ ném vào toàn bộ Zombie trên sân."
+                }
+            ]
+        },
+        {
+            "plant": "CabbageNut",
+            "configType": "GameLevel.RogueShooting.CabbageNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CabbageNut",
+                        "MelonNut"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "DoomSniper",
+            "configType": "GameLevel.RogueShooting.DoomSniper",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "DoomSniper"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "DoomSniper"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomSniper+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DoomSniper+HeartUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "MagnetNut",
+            "configType": "GameLevel.RogueShooting.MagnetNut",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+BaseUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MagnetNut"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "MagnetNut"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Hào Quang Sát Lục: Đạn do Óc Chó Nam Châm bắn ra có thể xuyên thấu vô hạn, nhưng thời gian tồn tại giảm xuống 10 giây"
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagnetNut+BulletCurse",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Lời Nguyền - Nghìn Lần Tôi Luyện: Óc Chó Nam Châm không bắn đạn nữa. Sau khi hút tích lũy đủ 5.000 viên đạn, Lời Nguyền sẽ tự hóa giải thành Phước Lành.\nHiệu ứng đảo ngược: Mỗi lần tấn công sẽ bắn thêm 1 viên đạn thuộc loại đạn được hút nhiều nhất."
+                }
+            ]
+        },
+        {
+            "plant": "HelmetGatling",
+            "configType": "GameLevel.RogueShooting.HelmetGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "HelmetGatling",
+                        "UltimateHelmetGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "JalaGatling",
+            "configType": "GameLevel.RogueShooting.JalaGatling",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "JalaGatling",
+                        "UltimateJalaGatling"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CabbageCannon",
+            "configType": "GameLevel.RogueShooting.CabbageCannon",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CabbageCannon",
+                        "UltimateCabbageCannon"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "CherrySquash",
+            "configType": "GameLevel.RogueShooting.CherrySquash",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "CherrySquash",
+                        "NuclearSquash"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "LanternSplit",
+            "configType": "GameLevel.RogueShooting.LanternSplit",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.UpgradeBuff",
+                    "arguments": [
+                        "LanternSplit",
+                        "UltimateLanternSplit"
+                    ],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                }
+            ]
+        },
+        {
+            "plant": "SuperGatlingGloom",
+            "configType": "GameLevel.RogueShooting.SuperGatlingGloom",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "SuperGatlingGloom"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperGatlingGloom+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SuperGatlingGloom+SuperBuff",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Nổi Trận Lôi Đình: Nấm U Sầu Siêu Súng Máy mỗi lần tấn công chắc chắn tung tuyệt kỹ, nhưng số đạn tuyệt kỹ giảm một nửa"
+                }
+            ]
+        },
+        {
+            "plant": "MagicSnowPea2",
+            "configType": "GameLevel.RogueShooting.MagicSnowPea2",
+            "buffs": [
+                {
+                    "type": "GameLevel.RogueShooting.DamageBuff",
+                    "arguments": [
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 1000,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.SpeedBuff",
+                    "arguments": [
+                        "MagicSnowPea2"
+                    ],
+                    "maxCount": 50,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+UniqueUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+SuperUpgrade",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": ""
+                },
+                {
+                    "type": "GameLevel.RogueShooting.MagicSnowPea2+SuperUpgrade2",
+                    "arguments": [],
+                    "maxCount": 0,
+                    "descriptionOverride": "Đột Phá - Lấy Đi Nào: Tỷ lệ tích Giải Mã từ đòn đánh thường tăng gấp đôi. Kẻ địch khi vào trận sẽ bị Đậu Băng Ma Thuật gắn 3 tầng 'Giải Mã'. Đầu mỗi đợt, gắn 100 tầng 'Giải Mã' cho Zombie nhiều Máu nhất toàn sân, mỗi tầng tăng 100% sát thương nhận vào; khi Zombie chết sẽ truyền số tầng còn lại cho Zombie khác."
+                }
+            ]
+        }
+    ],
+    "portraits": [
+        {
+            "plant": "Peashooter",
+            "resourcePath": "Plants/PeaShooter/Peashooterpreview"
+        },
+        {
+            "plant": "WallNut",
+            "resourcePath": "Plants/WallNut/WallNutpreview"
+        },
+        {
+            "plant": "PotatoMine",
+            "resourcePath": "Plants/PotatoMine/PotatoMinepreview"
+        },
+        {
+            "plant": "Chomper",
+            "resourcePath": "Plants/Chomper/Chomperpreview"
+        },
+        {
+            "plant": "SmallPuff",
+            "resourcePath": "Plants/SmallPuff/SmallPuffpreview"
+        },
+        {
+            "plant": "FumeShroom",
+            "resourcePath": "Plants/FumeShroom/FumeShroompreview"
+        },
+        {
+            "plant": "HypnoShroom",
+            "resourcePath": "Plants/HypnoShroom/HypnoShroompreview"
+        },
+        {
+            "plant": "ScaredyShroom",
+            "resourcePath": "Plants/ScaredyShroom/ScaredyShroompreview"
+        },
+        {
+            "plant": "Squash",
+            "resourcePath": "Plants/Squash/Squashpreview"
+        },
+        {
+            "plant": "ThreePeater",
+            "resourcePath": "Plants/ThreePeater/ThreePeaterpreview"
+        },
+        {
+            "plant": "Jalapeno",
+            "resourcePath": "Plants/Jalapeno/Jalapenopreview"
+        },
+        {
+            "plant": "Caltrop",
+            "resourcePath": "Plants/Caltrop/Caltroppreview"
+        },
+        {
+            "plant": "Cactus",
+            "resourcePath": "Plants/Cactus/Cactuspreview"
+        },
+        {
+            "plant": "StarFruit",
+            "resourcePath": "Plants/Starfruit/Starfruitpreview"
+        },
+        {
+            "plant": "Cabbagepult",
+            "resourcePath": "Plants/Cabbagepult/Cabbagepultpreview"
+        },
+        {
+            "plant": "Cornpult",
+            "resourcePath": "Plants/Cornpult/Cornpultpreview"
+        },
+        {
+            "plant": "Umbrellaleaf",
+            "resourcePath": "Plants/Umbrellaleaf/Umbrellaleafpreview"
+        },
+        {
+            "plant": "Melonpult",
+            "resourcePath": "Plants/Melonpult/Melonpultpreview"
+        },
+        {
+            "plant": "SpruceShooter",
+            "resourcePath": "Plants/SpruceShooter/SpruceShooterpreview"
+        },
+        {
+            "plant": "Bamboo",
+            "resourcePath": "Plants/Bamboo/Bamboopreview"
+        },
+        {
+            "plant": "Firecracker",
+            "resourcePath": "Plants/CherryBomb/CherryJalapeno/CherryJalapeno1preview"
+        },
+        {
+            "plant": "LuckyBlover",
+            "resourcePath": "Plants/Blover/LuckyBlover/LuckyBloverpreview"
+        },
+        {
+            "plant": "Squalour",
+            "resourcePath": "Plants/Squash/Squalour/Squalourpreview"
+        },
+        {
+            "plant": "SwordStar",
+            "resourcePath": "Plants/Starfruit/SwordStar/SwordStarpreview"
+        },
+        {
+            "plant": "EndoFlame",
+            "resourcePath": "Plants/UniquePlants/Endoflame/EndoFlamepreview"
+        },
+        {
+            "plant": "AbyssSwordStar",
+            "resourcePath": "Plants/Starfruit/SwordStar/AbyssSwordStar/AbyssSwordStarpreview"
+        },
+        {
+            "plant": "UltimateMinigun",
+            "resourcePath": "Plants/UltimateGatling/UltimateMinigun/UltimateMinigunpreview"
+        },
+        {
+            "plant": "UltimateHypnoDoom",
+            "resourcePath": "Plants/_Mixer/HypnoDoom/UltimateHypnoDoom/UltimateHypnoDoompreview"
+        },
+        {
+            "plant": "UltimatePoisonFume",
+            "resourcePath": "Plants/_Mixer/IceDoomFume/UltimatePoisonFume/UltimatePoisonFumepreview"
+        },
+        {
+            "plant": "UltimateSniperGatling",
+            "resourcePath": "Plants/_Mixer/SuperChomper/UltimateSniperGatling/UltimateSniperGatlingpreview"
+        },
+        {
+            "plant": "UltimateJalaGatling",
+            "resourcePath": "Plants/PeaShooter/JalaPeashooter/UltimateJalaGatling/UltimateJalaGatlingpreview"
+        },
+        {
+            "plant": "BlackHoleTorch",
+            "resourcePath": "Plants/_Mixer/ThreeTorch/GoldThreeTorch/BlackHoleTorch/BlackHoleTorchpreview"
+        },
+        {
+            "plant": "HypnoEmperor",
+            "resourcePath": "Plants/Travel/HyponoT/HypnoEmperorpreview"
+        },
+        {
+            "plant": "UltimateGatling",
+            "resourcePath": "Plants/UltimateGatling/UltimateGatlingpreview"
+        },
+        {
+            "plant": "UltimateChomper",
+            "resourcePath": "Plants/_Mixer/SuperChomper/UltimateChomperpreview"
+        },
+        {
+            "plant": "UltimateFume",
+            "resourcePath": "Plants/_Mixer/IceDoomFume/FinalFumepreview"
+        },
+        {
+            "plant": "ObsidianSpike",
+            "resourcePath": "Plants/Travel/ObsidianSpike/ObsidianSpikepreview"
+        },
+        {
+            "plant": "SnowGatlingPuff",
+            "resourcePath": "Plants/_Mixer/DoublePuff/SnowGatlingPuff/SnowGatlingPuffpreview"
+        },
+        {
+            "plant": "UltimateStar",
+            "resourcePath": "Plants/Travel/UltimateStar/UltimateStarpreview"
+        },
+        {
+            "plant": "UltimateGloom",
+            "resourcePath": "Plants/Travel/UltimateGloom/UltimateGloompreview"
+        },
+        {
+            "plant": "UltimateTallNut",
+            "resourcePath": "Plants/TallNut/UltimateTallNut/UltimateTallNutpreview"
+        },
+        {
+            "plant": "UltimateMelon",
+            "resourcePath": "Plants/Melonpult/UltimateMelon/UltimateMelonpreview"
+        },
+        {
+            "plant": "EmeraldUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/EmeraldUmbrella/EmeraldUmbrellapreview"
+        },
+        {
+            "plant": "SuperThreePeater",
+            "resourcePath": "Plants/ThreePeater/SuperThreePeater/SuperThreePeaterpreview"
+        },
+        {
+            "plant": "UltimateBlover",
+            "resourcePath": "Plants/Blover/UltimateBlover/UltimateBloverpreview"
+        },
+        {
+            "plant": "UltimateHypno",
+            "resourcePath": "Plants/_Mixer/SuperHypno/UltimateHypno/UltimateHypnopreview"
+        },
+        {
+            "plant": "CattailLour",
+            "resourcePath": "Plants/CattailPlant/CattailLour/CattailLourpreview"
+        },
+        {
+            "plant": "UltimateBigGatling",
+            "resourcePath": "Plants/GatlingPea/UltimateBigGatling/UltimateBigGatlingpreview"
+        },
+        {
+            "plant": "ObsidianWallNut",
+            "resourcePath": "Plants/WallNut/ObsidianWallNut/ObsidianWallNutpreview"
+        },
+        {
+            "plant": "UltimateCactus",
+            "resourcePath": "Plants/Cactus/UltimateCactus/UltimateCactuspreview"
+        },
+        {
+            "plant": "UltimateCabbage",
+            "resourcePath": "Plants/Cabbagepult/SolarCabbage/SolarCabbagepreview"
+        },
+        {
+            "plant": "LaserUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/LaserUmbrella/LaserUmbrellapreview"
+        },
+        {
+            "plant": "UltimateSpring",
+            "resourcePath": "Plants/FumeShroom/UltimateSpring/UltimateSpringpreview"
+        },
+        {
+            "plant": "IFVIronPuff",
+            "resourcePath": "Plants/IFVIronPuff/IFVIronPuffpreview"
+        },
+        {
+            "plant": "UltimateCorn",
+            "resourcePath": "Plants/Cornpult/UltimateCorn/UltimateCornpreview"
+        },
+        {
+            "plant": "UltimateBigSniper",
+            "resourcePath": "Plants/GatlingPea/UltimateBigGatling/UltimateBigSniper/UltimateBigSniperpreview"
+        },
+        {
+            "plant": "UltimateSpruce",
+            "resourcePath": "Plants/SpruceShooter/UltimateSpruce/UltimateSprucepreview"
+        },
+        {
+            "plant": "UltimateStarTorch",
+            "resourcePath": "Plants/Starfruit/UltimateStarTorch/UltimateStarTorchpreview"
+        },
+        {
+            "plant": "UltimateBigChomper",
+            "resourcePath": "Plants/Chomper/BigChomper/UltimateBigChomperpreview"
+        },
+        {
+            "plant": "UltimateWinterMelon",
+            "resourcePath": "Plants/Melonpult/UltimateWinterMelon/UlimateWinterMelonpreview"
+        },
+        {
+            "plant": "NuclearSquash",
+            "resourcePath": "Plants/Squash/NuclearSquash/NuclearSquashpreview"
+        },
+        {
+            "plant": "UltimateCabbageCannon",
+            "resourcePath": "Plants/CobCannon/CabbageCannon/UltimateCabbageCannon/UltimateCabbageCannonpreview"
+        },
+        {
+            "plant": "UltimateJalaNut",
+            "resourcePath": "Plants/Travel/SuperSunNut/UltimateJalaNut/UltimateSunNutpreview"
+        },
+        {
+            "plant": "UltimateDoomScaredy",
+            "resourcePath": "Plants/ScaredyShroom/SuperDoomScaredy/UltimateDoomScared/UltimateDoomScaredpreview"
+        },
+        {
+            "plant": "BambooDragon",
+            "resourcePath": "Plants/CherryBomb/CherryJalapeno/BambooDragon/BambooDragonpreview"
+        },
+        {
+            "plant": "UltimateBamboo",
+            "resourcePath": "Plants/Bamboo/UltimateBamboo/UltimateBamboopreview"
+        },
+        {
+            "plant": "UltimateLanternSplit",
+            "resourcePath": "Plants/PeaShooter/LanternPea/UltimateLanternSplit/UltimateLanternSplitpreview"
+        },
+        {
+            "plant": "UltimateHelmetGatling",
+            "resourcePath": "Plants/GatlingPea/SuperGatling/UltimateHelmetGatling/UltimateHelmetGatlingpreview"
+        },
+        {
+            "plant": "SuperThreePeater_sp",
+            "resourcePath": "Plants/ThreePeater/SuperThreePeater/SuperThreePeater_sp/SuperThreePeater_sppreview"
+        },
+        {
+            "plant": "PeaMine",
+            "resourcePath": "Plants/_Mixer/PeaMine/PeaMinepreview"
+        },
+        {
+            "plant": "SuperChomper",
+            "resourcePath": "Plants/_Mixer/SuperChomper/SuperChomperpreview"
+        },
+        {
+            "plant": "CherryChomper",
+            "resourcePath": "Plants/_Mixer/CherryChomper/CherryChomperpreview"
+        },
+        {
+            "plant": "CherryGatling",
+            "resourcePath": "Plants/_Mixer/CherryGatlingPea/CherryGatlingpreview"
+        },
+        {
+            "plant": "SuperHypno",
+            "resourcePath": "Plants/_Mixer/SuperHypno/SuperHypnopreview"
+        },
+        {
+            "plant": "TallNut",
+            "resourcePath": "Plants/TallNut/TallNutpreview"
+        },
+        {
+            "plant": "SnowPeaShooter",
+            "resourcePath": "Plants/ShowPeaShooter/SnowPeaShooterpreview"
+        },
+        {
+            "plant": "IcePuff",
+            "resourcePath": "Plants/_Mixer/IcePuff/IcePuffpreview"
+        },
+        {
+            "plant": "IceFumeShroom",
+            "resourcePath": "Plants/_Mixer/IceFumeShroom/IceFumeShroompreview"
+        },
+        {
+            "plant": "ScaredyDoom",
+            "resourcePath": "Plants/_Mixer/ScaredyDoom/ScaredyDoompreview"
+        },
+        {
+            "plant": "HypnoDoom",
+            "resourcePath": "Plants/_Mixer/HypnoDoom/HypnoDoompreview"
+        },
+        {
+            "plant": "ThreeSquash",
+            "resourcePath": "Plants/_Mixer/ThreeSquash/ThreeSquashpreview"
+        },
+        {
+            "plant": "CaltropNut",
+            "resourcePath": "Plants/WallNut/CaltropNut/CaltropNutpreview"
+        },
+        {
+            "plant": "SpikeRock",
+            "resourcePath": "Plants/Caltrop/SpikeRock/Spikerockpreview"
+        },
+        {
+            "plant": "GloomShroom",
+            "resourcePath": "Plants/GloomShroom/GloomShroompreview"
+        },
+        {
+            "plant": "SuperStar",
+            "resourcePath": "Plants/Starfruit/SuperStar/SuperStarpreview"
+        },
+        {
+            "plant": "SniperPea",
+            "resourcePath": "Plants/Travel/SniperPea/SniperPeapreview"
+        },
+        {
+            "plant": "WinterMelon",
+            "resourcePath": "Plants/Melonpult/WinterMelon/WinterMelonpreview"
+        },
+        {
+            "plant": "SuperMelon",
+            "resourcePath": "Plants/Melonpult/SuperMelon/SuperMelonpreview"
+        },
+        {
+            "plant": "GoldCabbage",
+            "resourcePath": "Plants/Cabbagepult/MoneyCabbage/GoldCabbagepreview"
+        },
+        {
+            "plant": "SilverMelon",
+            "resourcePath": "Plants/Melonpult/MoneyMelon/SilverMelonpreview"
+        },
+        {
+            "plant": "GoldMelon",
+            "resourcePath": "Plants/Melonpult/MoneyMelon/GoldMelonpreview"
+        },
+        {
+            "plant": "HypnoNut",
+            "resourcePath": "Plants/WallNut/HypnoNut/HypnoNutpreview"
+        },
+        {
+            "plant": "FireMelon",
+            "resourcePath": "Plants/Melonpult/FireMelon/FireMelonpreview"
+        },
+        {
+            "plant": "IronPuff",
+            "resourcePath": "Plants/SmallPuff/IronPuff/IronPuffpreview"
+        },
+        {
+            "plant": "BigGatling",
+            "resourcePath": "Plants/GatlingPea/BigGatlingPea/BigGatlingPeapreview"
+        },
+        {
+            "plant": "FireSniper",
+            "resourcePath": "Plants/Travel/SniperPea/FireSniper/FireSniperpreview"
+        },
+        {
+            "plant": "GarlicFume",
+            "resourcePath": "Plants/FumeShroom/GarlicFume/Garlicfumepreview"
+        },
+        {
+            "plant": "BigChomper",
+            "resourcePath": "Plants/Chomper/BigChomper/BigChomperpreview"
+        },
+        {
+            "plant": "LanternUmbrella",
+            "resourcePath": "Plants/Umbrellaleaf/LanternUmbrella/LanternUmbrellaleafpreview"
+        },
+        {
+            "plant": "DoomCactus",
+            "resourcePath": "Plants/Cactus/DoomCactus/DoomCactuspreview"
+        },
+        {
+            "plant": "DoomChomper",
+            "resourcePath": "Plants/Chomper/DoomChomper/DoomChomperpreview"
+        },
+        {
+            "plant": "SquashPumpkin",
+            "resourcePath": "Plants/Pumpkin/SquashPumpkin/SquashPumpkinpreview"
+        },
+        {
+            "plant": "PortalCorn",
+            "resourcePath": "Plants/Cornpult/PortalCorn/PortalCornpreview"
+        },
+        {
+            "plant": "SuperSpruce",
+            "resourcePath": "Plants/SpruceShooter/SuperSpruce/SuperSprucepreview"
+        },
+        {
+            "plant": "ThreeMine",
+            "resourcePath": "Plants/PotatoMine/ThreeMine/ThreeMinepreview"
+        },
+        {
+            "plant": "LotusBamboo",
+            "resourcePath": "Plants/Bamboo/LotusBamboo/LotusBamboopreview"
+        },
+        {
+            "plant": "MelonNut",
+            "resourcePath": "Plants/WallNut/MelonNut/MelonNutpreview"
+        },
+        {
+            "plant": "CabbageNut",
+            "resourcePath": "Plants/WallNut/CabbageNut/CabbageNutpreview"
+        },
+        {
+            "plant": "DoomSniper",
+            "resourcePath": "Plants/Travel/SniperPea/DoomSniper/DoomSniperpreview"
+        },
+        {
+            "plant": "MagnetNut",
+            "resourcePath": "Plants/WallNut/MagnetNut/MagnetNutpreview"
+        },
+        {
+            "plant": "HelmetGatling",
+            "resourcePath": "Plants/GatlingPea/HelmetGatling/HelmetGatlingpreview"
+        },
+        {
+            "plant": "JalaGatling",
+            "resourcePath": "Plants/PeaShooter/JalaPeashooter/Gatling/GatlingPeapreview"
+        },
+        {
+            "plant": "CabbageCannon",
+            "resourcePath": "Plants/CobCannon/CabbageCannon/CabbageCannonpreview"
+        },
+        {
+            "plant": "CherrySquash",
+            "resourcePath": "Plants/Squash/CherrySquash/CherrySquashpreview"
+        },
+        {
+            "plant": "LanternSplit",
+            "resourcePath": "Plants/PeaShooter/LanternPea/LanternSplit/LanternSplitpreview"
+        },
+        {
+            "plant": "SuperGatlingGloom",
+            "resourcePath": "Plants/GloomShroom/SuperGatlingGloom/SuperGatlingGloompreview"
+        },
+        {
+            "plant": "MagicSnowPea2",
+            "resourcePath": "Plants/ShowPeaShooter/MagicSnow/MagicSnowpreview"
+        },
+        {
+            "plant": "EndPumpiner",
+            "resourcePath": "Plants/Pumpkin/Pumpiner/EnderPumpiner/EndPumpinerpreview"
+        }
+    ],
+    "entries": [
+        {
+            "id": "Other:幸运:0",
+            "category": "Other",
+            "title": "May Mắn",
+            "description": "Tăng 25 May Mắn, May Mắn có thể tăng xác suất xuất hiện buff tốt\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi May Mắn chưa đạt giới hạn.\nCó thể xuất hiện khi chưa sở hữu \"Giao Dịch - Đặt Cược Tất Tay\".",
+            "quality": "Default",
+            "relatedPlant": "LuckyBlover",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:伤害增幅:0",
+            "category": "Other",
+            "title": "Tăng Sát Thương",
+            "description": "Toàn bộ thực vật nhận 10% tăng sát thương\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:合理投资:0",
+            "category": "Other",
+            "title": "Đầu Tư Hợp Lí",
+            "description": "Nhận 1 lượt làm mới buff\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi chưa sở hữu \"Giao Dịch - Đặt Cược Tất Tay\".",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:保护:0",
+            "category": "Other",
+            "title": "Bảo Hộ",
+            "description": "Toàn bộ thực vật nhận 5000 Khiên, vẫn có hiệu lực sau khi hồi sinh\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó hiệu lực khi loại Zombie không phải Zombie Đậu Hà Lan hoặc Zombie Ngẫu Nhiên.",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:保护:0:variant:0",
+            "category": "Other",
+            "title": "Bảo Hộ",
+            "description": "Toàn bộ thực vật nhận 50000 Khiên, vẫn có hiệu lực sau khi hồi sinh\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó hiệu lực khi loại Zombie là Zombie Đậu Hà Lan hoặc Zombie Ngẫu Nhiên.",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:复活:0",
+            "category": "Other",
+            "title": "Hồi Sinh",
+            "description": "Thời gian hồi sinh giảm 99%",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi đã sở hữu \"Ban Phước: Tham Lam\".",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:复活:1",
+            "category": "Other",
+            "title": "Hồi Sinh",
+            "description": "Thời gian hồi sinh giảm 10%\nChuẩn phẩm chất Thường, hiệu quả thực tế thay đổi theo phẩm chất và đội hình hiện tại.",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi chưa sở hữu \"Ban Phước: Tham Lam\".",
+            "quality": "Default",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:碾压保护:0",
+            "category": "Other",
+            "title": "Bảo Hộ Nghiền Nát",
+            "description": "Toàn bộ thực vật nhận khả năng chống nghiền nát, vẫn có hiệu lực sau khi hồi sinh, đồng thời nhận ngay 3000 Khiên",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi chưa sở hữu Bảo Hộ Nghiền Nát.",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:爆炸保护:0",
+            "category": "Other",
+            "title": "Bảo Hộ Phát Nổ",
+            "description": "Sát thương nổ của Zombie Hộp Hề giảm xuống 1000, đồng thời nhận ngay 3000 Khiên",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi chưa sở hữu \"Bảo Hộ Phát Nổ\".",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Other:护盾保护:0",
+            "category": "Other",
+            "title": "Bảo Hộ Khiên",
+            "description": "Thực vật đang có Khiên mỗi giây hồi lượng Máu bằng 0.1% lượng Khiên, đồng thời nhận ngay 6000 Khiên",
+            "condition": "Tỷ lệ rút chịu ảnh hưởng bởi May Mắn.\nCó thể xuất hiện khi chưa sở hữu \"Bảo Hộ Khiên\".",
+            "quality": "silver",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：腐化:0",
+            "category": "SuperUpgrade",
+            "title": "Ban Phước: Suy Đồi",
+            "description": "Nhận buff: Suy Đồi",
+            "condition": "Mỗi lần phán định có 0.01% xác suất bước vào lượt rút Siêu Biến Chất.",
+            "quality": "iridescent",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：步步高升:0",
+            "category": "SuperUpgrade",
+            "title": "Ban Phước: Tham Lam",
+            "description": "Toàn bộ buff đều đạt phẩm chất cao nhất, và hiệu ứng buff Kim Cương x5\nLưu ý: Một số cây nếu tốc đánh quá nhanh có thể bị mất hoạt ảnh dẫn đến không tấn công được hoặc giảm tốc đánh",
+            "condition": "Mỗi lần phán định có 0.01% xác suất bước vào lượt rút Siêu Biến Chất.",
+            "quality": "iridescent",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：力量会给予希望:0",
+            "category": "SuperUpgrade",
+            "title": "Ban Phước: Hỏa Ngục",
+            "description": "Nhận buff: Sức Mạnh Mang Lại Hy Vọng\nNhận cây: [[plant:UltimateJalaNut]]\nNhận cây: [[plant:UltimateExplodeCannon]]\n[[plant:UltimateExplodeCannon]] tăng 600% tấn công",
+            "condition": "Mỗi lần phán định có 0.01% xác suất bước vào lượt rút Siêu Biến Chất.",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateJalaNut",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "SuperUpgrade:超质变：神秘大炮:0",
+            "category": "SuperUpgrade",
+            "title": "Siêu Biến Chất: Đại Bác Bí Ẩn",
+            "description": "Nhận được một Đại Bác Bí Ẩn",
+            "condition": "Mỗi lần phán định có 0.01% xác suất bước vào lượt rút Siêu Biến Chất.",
+            "quality": "iridescent",
+            "relatedPlant": "WallNut",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:invitation:专家邀请",
+            "category": "Expert",
+            "title": "Lời Mời Chuyên Gia",
+            "description": "Tự chọn 1 cây Chuyên Gia trong nhiều lựa chọn",
+            "condition": "Có xác suất xuất hiện khi vẫn còn cây Chuyên Gia chưa sở hữu, tỷ lệ chịu ảnh hưởng bởi May Mắn.",
+            "quality": "diamond",
+            "relatedPlant": "EndPumpiner",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateMinigun",
+            "category": "Expert",
+            "title": "[[plant:UltimateMinigun]]",
+            "description": "Nhận cây mới: [[plant:UltimateMinigun]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateMinigun",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateBlover",
+            "category": "Expert",
+            "title": "[[plant:UltimateBlover]]",
+            "description": "Nhận cây mới: [[plant:UltimateBlover]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "diamond",
+            "relatedPlant": "UltimateBlover",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:EmeraldUmbrella",
+            "category": "Expert",
+            "title": "[[plant:EmeraldUmbrella]]",
+            "description": "Nhận cây mới: [[plant:EmeraldUmbrella]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "diamond",
+            "relatedPlant": "EmeraldUmbrella",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateStarTorch",
+            "category": "Expert",
+            "title": "[[plant:UltimateStarTorch]]",
+            "description": "Nhận cây mới: [[plant:UltimateStarTorch]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "diamond",
+            "relatedPlant": "UltimateStarTorch",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:UltimateSniperGatling",
+            "category": "Expert",
+            "title": "[[plant:UltimateSniperGatling]]",
+            "description": "Nhận cây mới: [[plant:UltimateSniperGatling]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "iridescent",
+            "relatedPlant": "UltimateSniperGatling",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:SuperThreePeater_sp",
+            "category": "Expert",
+            "title": "[[plant:SuperThreePeater_sp]]",
+            "description": "Nhận cây mới: [[plant:SuperThreePeater_sp]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "diamond",
+            "relatedPlant": "SuperThreePeater_sp",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Expert:plant:BlackHoleTorch",
+            "category": "Expert",
+            "title": "[[plant:BlackHoleTorch]]",
+            "description": "Nhận cây mới: [[plant:BlackHoleTorch]]\nCó thể xem toàn bộ buff riêng của cây này.",
+            "condition": "Có thể chọn khi chưa sở hữu cây Chuyên Gia này.",
+            "quality": "iridescent",
+            "relatedPlant": "BlackHoleTorch",
+            "showPlantBuffs": true,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Tactics:invitation:通用战术",
+            "category": "Tactics",
+            "title": "Chiến Thuật Chung",
+            "description": "Tự chọn 1 buff chiến thuật trong nhiều lựa chọn",
+            "condition": "Có xác suất xuất hiện khi rút Chiến Thuật Chung, tỷ lệ chịu ảnh hưởng bởi May Mắn; có thể tự chọn một chiến thuật vẫn còn cấp chưa nhận.",
+            "quality": "diamond",
+            "relatedPlant": "EndoFlame",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Tactics:Shooting_木桩1",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Cọc Gỗ",
+            "description": "Tạo ra một Zombie Cọc Gỗ trên sân, Zombie Cọc Gỗ sẽ chia đều 60% sát thương nhận vào cho toàn bộ Zombie trên sân, có thể dùng Găng Tay Zombie để di chuyển Zombie Cọc Gỗ\nCọc Gỗ sẽ tiêu diệt ngay lập tức Zombie bị thôi miên chạm phải",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_木桩2",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Cọc Gỗ",
+            "description": "Tỷ lệ chia sẻ sát thương của Zombie Cọc Gỗ tăng lên 100%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_木桩3",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Cọc Gỗ",
+            "description": "Tạo thêm 1 Zombie Cọc Gỗ trên sân",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_木桩Max",
+            "category": "Tactics",
+            "title": "Cọc Gỗ - Nhận Biết Điểm Yếu",
+            "description": "Khi Zombie Cọc Gỗ nhận sát thương, gây thêm 100% sát thương lên Zombie có Máu cao nhất toàn sân",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "木桩",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_烈阳1",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Rực Dương",
+            "description": "Tạo một Lò Phản Ứng Ánh Sáng trên sân, định kỳ gây sát thương lên toàn bộ Zombie trên sân",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_烈阳2",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Rực Dương",
+            "description": "Giãn cách tấn công của Lò Phản Ứng Ánh Sáng giảm 50%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_烈阳3",
+            "category": "Tactics",
+            "title": "Đòn Nhóm - Rực Dương",
+            "description": "Sát thương của Lò Phản Ứng Ánh Sáng tăng 100%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_烈阳Max",
+            "category": "Tactics",
+            "title": "Rực Dương - Xé Toạc Bầu Trời",
+            "description": "Lò Phản Ứng Ánh Sáng khi tấn công sẽ phóng thêm Sao Băng Thái Dương rơi xuống",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "烈阳",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_战锤1",
+            "category": "Tactics",
+            "title": "Bất Hủ - Chiến Chùy",
+            "description": "Sát thương của Búa giảm, nhưng thời gian hồi chiêu giảm còn 3 giây",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_战锤2",
+            "category": "Tactics",
+            "title": "Bất Hủ - Chiến Chùy",
+            "description": "Phạm vi tấn công của Búa tăng mạnh",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_战锤3",
+            "category": "Tactics",
+            "title": "Bất Hủ - Chiến Chùy",
+            "description": "Giảm thêm thời gian hồi chiêu của Búa",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_战锤Max",
+            "category": "Tactics",
+            "title": "Chiến Chùy - Nghìn Lần Tôi Luyện",
+            "description": "Búa sau khi đánh trúng Zombie sẽ để lại một Đại Chiến Chùy tại chỗ, liên tục gây sát thương lên Zombie rồi biến mất sau một khoảng thời gian",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "战锤",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_裂空1",
+            "category": "Tactics",
+            "title": "Chi Viện - Phi Thuyền",
+            "description": "Nhận một Cơ Giáp Liệt Không Dạng Cá Mini",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_裂空2",
+            "category": "Tactics",
+            "title": "Chi Viện - Liệt Không",
+            "description": "Số đòn đánh cần thiết để Cơ Giáp Liệt Không Dạng Cá Mini bắn đồng loạt -1",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_裂空3",
+            "category": "Tactics",
+            "title": "Chi Viện - Liệt Không",
+            "description": "Giãn cách tấn công của Cơ Giáp Liệt Không Dạng Cá Mini giảm",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_裂空Max",
+            "category": "Tactics",
+            "title": "Liệt Không - Cú Nhảy Vòm Trời",
+            "description": "Đạn bắn đồng loạt của Cơ Giáp Liệt Không Dạng Cá Mini có thể liên tục phân tách giữa không trung",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "裂空",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_明月1",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Minh Nguyệt",
+            "description": "Tạo một Lò Phản Ứng Nguyệt Quang trên sân, định kỳ hồi Máu cho toàn bộ thực vật trên sân",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_明月2",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Minh Nguyệt",
+            "description": "Lượng hồi phục của Lò Phản Ứng Nguyệt Quang tăng mạnh",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_明月3",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Minh Nguyệt",
+            "description": "Khi Lò Phản Ứng Nguyệt Quang kích hoạt, ban 1000 Khiên cho toàn bộ thực vật trên sân",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_明月Max",
+            "category": "Tactics",
+            "title": "Minh Nguyệt - Ánh Trăng Soi Rọi",
+            "description": "Khi Lò Phản Ứng Nguyệt Quang kích hoạt, giáng Ánh Nguyệt Quang xuống từng cây trên sân\nÁnh Nguyệt Quang tiêu diệt ngay lập tức Zombie thường trong phạm vi 3x3 và khiến thực vật bất tử trong một khoảng thời gian",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "明月",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_硬化1",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Cứng Hóa",
+            "description": "Sát thương mà toàn bộ thực vật phải chịu giảm 20%",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_硬化2",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Cứng Hóa",
+            "description": "Sát thương mà toàn bộ thực vật phải chịu giảm 40%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_硬化3",
+            "category": "Tactics",
+            "title": "Bức Màn Sắt - Cứng Hóa",
+            "description": "Sát thương mà toàn bộ thực vật phải chịu giảm 60%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_硬化Max",
+            "category": "Tactics",
+            "title": "Cứng Hóa - Bất Khả Xâm Phạm",
+            "description": "Sát thương mà toàn bộ thực vật phải chịu giảm 90%, khi Máu giảm sẽ bắn ra tại chỗ 1 viên đạn đậu có sát thương bằng Máu Tối Đa của bản thân\nNếu có buff Zombie Phòng Vệ Chính Đáng thì đổi thành giảm 99% sát thương nhận vào",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "硬化",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_交易1",
+            "category": "Tactics",
+            "title": "May Mắn - Giao Dịch",
+            "description": "Nhận 1 lần rút buff với 500 May Mắn, sau đó trừ của bạn 25 May Mắn",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_交易2",
+            "category": "Tactics",
+            "title": "May Mắn - Giao Dịch",
+            "description": "Nhận 1 lần rút buff với 1000 May Mắn, sau đó trừ của bạn 50 May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_交易3",
+            "category": "Tactics",
+            "title": "May Mắn - Giao Dịch",
+            "description": "Nhận 1 lần rút buff với 1500 May Mắn, sau đó trừ của bạn 75 May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_交易Max",
+            "category": "Tactics",
+            "title": "Giao Dịch - Đặt Cược Tất Tay",
+            "description": "Lập tức đặt May Mắn thành 250, lượt làm mới thành 5, giới hạn May Mắn x3, đồng thời từ nay không thể rút May Mắn và Đầu Tư Hợp Lí nữa\nMỗi khi rút buff, nhận 25 May Mắn và thêm 20% May Mắn hiện tại (tối đa 100); chọn Gỗ, Bạc, Vàng/Ngẫu Nhiên, Kim Cương/Lăng Kính/Lời Nguyền sẽ lần lượt trừ 20/40/60/100 May Mắn; mỗi lần làm mới tiêu hao 50 May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "交易",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_宝藏1",
+            "category": "Tactics",
+            "title": "May Mắn - Kho Báu",
+            "description": "Lập tức tạo 1 đợt Zombie có Máu và tốc độ x2, sau khi tiêu diệt toàn bộ sẽ nhận 1 lần rút buff với 500 May Mắn",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_宝藏2",
+            "category": "Tactics",
+            "title": "May Mắn - Kho Báu",
+            "description": "Lập tức tạo 1 đợt Zombie có Máu và tốc độ x3, sau khi tiêu diệt toàn bộ sẽ nhận 1 lần rút buff với 1000 May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_宝藏3",
+            "category": "Tactics",
+            "title": "May Mắn - Kho Báu",
+            "description": "Lập tức tạo 1 đợt Zombie có Máu và tốc độ x4, sau khi tiêu diệt toàn bộ sẽ nhận 1 lần rút buff với 1500 May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_宝藏Max",
+            "category": "Tactics",
+            "title": "Kho Báu - Nhân Đôi May Mắn",
+            "description": "Lập tức nhân đôi May Mắn hiện tại và giới hạn May Mắn\nNếu là số âm thì lấy giá trị tuyệt đối rồi nhân đôi, ví dụ -50 May Mắn: -50 → 100",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "宝藏",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_业火1",
+            "category": "Tactics",
+            "title": "Bất Hủ - Nghiệp Hỏa",
+            "description": "Khi nhấn vào vị trí bất kỳ, kích hoạt vụ nổ Nghiệp Hỏa tại vị trí đó; kỹ năng này hồi chiêu 10 giây, nếu hạ gục được Zombie thì hồi chiêu giảm còn 1 giây",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_业火2",
+            "category": "Tactics",
+            "title": "Bất Hủ - Nghiệp Hỏa",
+            "description": "Nghiệp Hỏa nhận 100% tăng sát thương",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_业火3",
+            "category": "Tactics",
+            "title": "Bất Hủ - Nghiệp Hỏa",
+            "description": "Hồi chiêu và hồi chiêu khi hạ gục của Nghiệp Hỏa giảm 50%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_业火Max",
+            "category": "Tactics",
+            "title": "Nghiệp Hỏa - Thiêu Rụi Kiếp Này",
+            "description": "Nghiệp Hỏa có thể gây sát thương lên thực vật, sau khi hạ gục thực vật sẽ kích hoạt hiệu ứng Ớt Hiểm trên toàn sân và làm mới hồi chiêu, sát thương tăng theo tổng số buff cây đó sở hữu",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "业火",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_光棱1",
+            "category": "Tactics",
+            "title": "Chi Viện - Lăng Kính",
+            "description": "Nhận một Phi Thuyền Cơ Giới, liên tục khóa mục tiêu và tấn công Zombie ở xa nhất về bên trái",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_光棱2",
+            "category": "Tactics",
+            "title": "Chi Viện - Lăng Kính",
+            "description": "Số lần khúc xạ của Phi Thuyền Cơ Giới +1",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_光棱3",
+            "category": "Tactics",
+            "title": "Chi Viện - Lăng Kính",
+            "description": "Số lần khúc xạ của Phi Thuyền Cơ Giới +2",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_光棱Max",
+            "category": "Tactics",
+            "title": "Lăng Kính - Nhất Kích Xuyên Mây",
+            "description": "Tia Lăng Kính chuyển thành xuyên thấu vô hạn, và khúc xạ có thể đánh trúng cùng một mục tiêu nhiều lần",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "光棱",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_天罚1",
+            "category": "Tactics",
+            "title": "Hộ Hàng - Thiên Phạt",
+            "description": "Sấm Sét sẽ chiến đấu cho bạn, định kỳ gây sát thương lên Zombie trên sân",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_天罚2",
+            "category": "Tactics",
+            "title": "Hộ Hàng - Thiên Phạt",
+            "description": "Thời gian duy trì của Sấm Sét tăng 100%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_天罚3",
+            "category": "Tactics",
+            "title": "Hộ Hàng - Thiên Phạt",
+            "description": "Tần suất tấn công của Sấm Sét tăng 100%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_天罚Max",
+            "category": "Tactics",
+            "title": "Thiên Phạt - Bão Tố Sấm Sét",
+            "description": "Bão Tố Sấm Sét sẽ tấn công không ngừng nghỉ",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "天罚",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_全能1",
+            "category": "Tactics",
+            "title": "Lắng Đọng - Toàn Năng",
+            "description": "May Mắn tăng 25, sát thương toàn bộ cây tăng 10%, nhận 1 lượt làm mới, thời gian hồi sinh giảm 10%",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_全能2",
+            "category": "Tactics",
+            "title": "Lắng Đọng - Toàn Năng",
+            "description": "May Mắn tăng 50, sát thương toàn bộ cây tăng 20%, nhận 2 lượt làm mới, thời gian hồi sinh giảm 20%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_全能3",
+            "category": "Tactics",
+            "title": "Lắng Đọng - Toàn Năng",
+            "description": "May Mắn tăng 75, sát thương toàn bộ cây tăng 30%, nhận 3 lượt làm mới, thời gian hồi sinh giảm 30%",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_全能Max",
+            "category": "Tactics",
+            "title": "Toàn Năng - Bất Khả Xâm Phạm",
+            "description": "Toàn bộ thực vật trên sân nhận +500% Máu, +300% Sát Thương Độc Lập, +200% Tốc Độ Đánh, +60% Tỉ Lệ Đánh May Mắn, +150% Sát Thương Đánh May Mắn",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "全能",
+            "tier": 4
+        },
+        {
+            "id": "Tactics:Shooting_铁卫1",
+            "category": "Tactics",
+            "title": "Cuồng Chiến - Thiết Vệ",
+            "description": "Khi thực vật ở 4 cột bên phải, gây thêm 30% sát thương lên Zombie",
+            "condition": "Có thể xuất hiện khi chưa sở hữu nhóm chiến thuật này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 1
+        },
+        {
+            "id": "Tactics:Shooting_铁卫2",
+            "category": "Tactics",
+            "title": "Cuồng Chiến - Thiết Vệ",
+            "description": "Khi thực vật ở 4 cột bên phải, gây thêm 100% sát thương lên Zombie",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 1 của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 2
+        },
+        {
+            "id": "Tactics:Shooting_铁卫3",
+            "category": "Tactics",
+            "title": "Cuồng Chiến - Thiết Vệ",
+            "description": "Lập tức nhận Bảo Hộ Nghiền Nát, Bảo Hộ Phát Nổ, đồng thời giúp toàn bộ thực vật nhận ngay 25000 Khiên",
+            "condition": "Có thể xuất hiện sau khi đã nhận buff cấp 2 trước đó của nhóm này. Chưa sở hữu buff cấp này.",
+            "quality": "gold",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 3
+        },
+        {
+            "id": "Tactics:Shooting_铁卫Max",
+            "category": "Tactics",
+            "title": "Thiết Vệ - Bất Diệt Thần Thể",
+            "description": "Thực vật khi gây sát thương trong phạm vi 3 ô có thể hồi phục Máu và Khiên (có giới hạn)",
+            "condition": "Có thể xuất hiện sau khi đã nhận 3 cấp buff trước đó của nhóm này. Chưa sở hữu buff cấp này. Cần tiêu hao 300 Xu Chư Thần trong Sổ Tay để mua bậc tối đa của chiến thuật này mới có thể xuất hiện.",
+            "quality": "diamond",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "铁卫",
+            "tier": 4
+        },
+        {
+            "id": "Trials:Shooting_不破不立",
+            "category": "Trials",
+            "title": "Thử Thách: Phá Bỏ Tái Sinh",
+            "description": "Tiêu diệt toàn bộ thực vật của bạn, đồng thời giảm một nửa Sát Thương Độc Lập và Tốc Độ Đánh của toàn bộ cây trên sân\nSau 20 đợt lặp lại thao tác này, nhưng đổi thành nhân đôi các mức tăng",
+            "condition": "Chỉ xuất hiện ở chế độ Luyện Ngục; chưa sở hữu buff thử thách này.\nGiai đoạn luân hồi không quá 1; chỉ xuất hiện ở đợt 20 / 40 / 60 / 80.",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_两极分化",
+            "category": "Trials",
+            "title": "Thử Thách: Phân Cực Lưỡng Cực",
+            "description": "Nếu May Mắn của bạn dưới 75 thì lập tức đặt thành 75; khi không phải bảo hiểm, các buff Bạc và Vàng sẽ bị hạ xuống phẩm chất Gỗ, nhưng buff Kim Cương được nâng cấp lên phẩm chất Lăng Kính",
+            "condition": "Chỉ xuất hiện ở chế độ Luyện Ngục; chưa sở hữu buff thử thách này.",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_傲慢之罚",
+            "category": "Trials",
+            "title": "Thử Thách: Ngạo Mạn",
+            "description": "Khi thực vật ở phía trên Zombie gây thêm 30% sát thương, khi ở phía dưới Zombie gây ít hơn 30% sát thương (xác định theo vị trí trên/dưới trên màn hình)",
+            "condition": "Chỉ xuất hiện ở chế độ Luyện Ngục; chưa sở hữu buff thử thách này.",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        },
+        {
+            "id": "Trials:Shooting_嫉妒之惩",
+            "category": "Trials",
+            "title": "Thử Thách: Đố Kỵ",
+            "description": "Khi Máu Zombie trên 50% gây thêm 30% sát thương, khi Máu Zombie dưới 50% gây ít hơn 30% sát thương",
+            "condition": "Chỉ xuất hiện ở chế độ Luyện Ngục; chưa sở hữu buff thử thách này.",
+            "quality": "curse",
+            "relatedPlant": "",
+            "showPlantBuffs": false,
+            "group": "",
+            "tier": 0
+        }
+    ]
+}

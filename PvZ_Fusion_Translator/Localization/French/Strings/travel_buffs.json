@@ -78,7 +78,7 @@
         },
         "19": {
             "name": "",
-            "desc": "Champi-calamité : génère désormais 3 Gargantuas et Zombonis hypnotisés supplémentaires lorsqu'il explose"
+            "desc": "Champi-calamité : quand le Gargantua Gladiateur hypnotisé attaque, il perd des PV et invoque des Diablotins maudits | Champi-avare : vaincre le Zombie Mini-boss Galvanisé rapporte désormais 2000 points | Effets appliqués aussi aux variantes Épiques | Champi-calamité Épique : les Diablotins Abyssaux infligent des dégâts purs"
         },
         "20": {
             "name": "",
@@ -191,6 +191,14 @@
         "47": {
             "name": "Grand Coffre de l’Ender",
             "desc": "Coffre-citrouille de l’Ender : la limite de cumul de chaque emplacement est désormais doublée pour tous les Coffres-citrouilles."
+        },
+        "48": {
+            "name": "Broyeur",
+            "desc": "Gravi-noix : portée d’attaque étendue à toute la ligne"
+        },
+        "49": {
+            "name": "Capacité",
+            "desc": "Gravi-noix : attire désormais 30 projectiles avant d’attaquer"
         },
         "1000": {
             "name": "",
@@ -408,6 +416,10 @@
             "name": "",
             "desc": "Invoque un Mecha Plané qui combat pour vous (remplace le Familier actuel). Augmente les dégâts des explosions de Diable à ressort du côté des plantes, et tire un explosif sur les zombies toutes les 1,5 s (chaque 3e attaque est tirée sur chaque rangée). Si le mini-boss Mecha Aéroglisseur est présent, l'intervalle d'attaque du familier est réduit de moitié."
         },
+        "4008": {
+            "name": "Ceriz Prodige",
+            "desc": "Augmente les dégâts des explosions de cerise du côté des plantes. Lorsqu’il est touché par une explosion de cerise, il devient enragé pendant 6 secondes et se met à tirer des cerises en rafale. Force chaque Sulfateuse à Grenades à tirer une énorme salve et convertit jusqu’à 10 zombies hypnotisés (y compris à leur mort) en Zombie-cerise-sulfateuse à Journal."
+        },
         "5000": {
             "name": "",
             "desc": "Les plantes infligent +100% aux Mini-boss et aux Boss"
@@ -483,6 +495,10 @@
         "7003": {
             "name": "Évolution Épique",
             "desc": "Débloquer la Sulfateuse Champi-stalactite Épique et la Sulfateuse Champi-rayon-solaire Épique\nUtiliser un Pisto-pois pour améliorer"
+        },
+        "7004": {
+            "name": "Évolution Épique",
+            "desc": "Débloquer le Champi-calamité Épique et le Champi-avare Épique\nUtiliser un Champi-mort pour améliorer"
         },
         "10000": {
             "name": "",
@@ -684,6 +700,26 @@
             "name": "Transcendance : Chagrin",
             "desc": "Le Commando Mélancolique déclenche désormais toujours sa Capacité Ultime, mais avec deux fois moins de projectiles"
         },
+        "12028": {
+            "name": "Transcendance : Tir concentré",
+            "desc": "Dispersion considérablement réduite mais portée étendue à toute la ligne pour les deux modes d’attaque, l’attaque Dragon coûte 2 points d’énergie de moins"
+        },
+        "12029": {
+            "name": "Transcendance : Feu suprême",
+            "desc": "L’attaque Dragon tire un nombre fixe de 9 projectiles. Sa portée est légèrement réduite, mais ses dégâts sont multipliés par 14."
+        },
+        "12030": {
+            "name": "Transcendance : Monde de glace",
+            "desc": "Quand un zombie reçoit 10 coups directs de la Pastèque Cyclone, une explosion de glace se déclenche et inflige des dégâts de zone massifs."
+        },
+        "12031": {
+            "name": "Transcendance : Partenariat",
+            "desc": "Si l’unité ayant infligé le plus de dégâts au total est une plante, elle devient le \"Partenaire\". À chaque attaque de la Sulfateuse Champi-stalactite, le Partenaire lance la même attaque depuis sa position s’il se trouve actuellement sur la pelouse."
+        },
+        "12032": {
+            "name": "Transcendance : Invocateur",
+            "desc": "Après chaque dévoration, Cerizilla invoque une colonne de Zombies Cerizilla hypnotisés."
+        },
         "13000": {
             "name": "Protection antidéflagrante",
             "desc": "Les dégâts des explosions du Zombie Diable à ressort sont réduits à 1 000"
@@ -883,6 +919,22 @@
         "13049": {
             "name": "Omnipotence - X",
             "desc": "Toutes les plantes de la pelouse reçoivent un bonus de 500% de PV, un bonus de dégâts indépendant de 300%, un bonus de 200% de vitesse d’attaque, 60% de chance de coup critique et 150% de dégâts critiques"
+        },
+        "13050": {
+            "name": "Avant-garde",
+            "desc": "Les plantes infligent 30% de dégâts supplémentaires lorsqu’elles se trouvent dans les 4 colonnes les plus à droite."
+        },
+        "13051": {
+            "name": "Avant-garde - A",
+            "desc": "Les plantes infligent 100% de dégâts supplémentaires lorsqu’elles se trouvent dans les 4 colonnes les plus à droite."
+        },
+        "13052": {
+            "name": "Avant-garde - B",
+            "desc": "Obtenez immédiatement les Modificateurs Anti-écrasement et [Protection antidéflagrante]. Toutes les plantes gagnent un bouclier de 25000 PV."
+        },
+        "13053": {
+            "name": "Avant-garde - X",
+            "desc": "Lorsque les plantes infligent des dégâts dans un rayon de 3 cases, elles récupèrent des PV et du bouclier (dans la limite d’un plafond)."
         },
         "14000": {
             "name": "On n’a rien sans rien",
@@ -1276,11 +1328,11 @@
     "debuffs": {
         "0": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit | Professeur Ceriz : -1 journal de rechange"
+            "desc": "Zombie-cerise-sulfateuse à Journal : capacité de traverser les plantes quand son journal est détruit | Professeur Ceriz : +1 journal de rechange si non sélectionné"
         },
         "1": {
             "name": "",
-            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut | Professeur Ceriz : -1 journal de rechange"
+            "desc": "Zombie-cerise-sulfateuse à Journal : désormais insensible à tous les effets de statut | Professeur Ceriz : +1 journal de rechange si non sélectionné"
         },
         "2": {
             "name": "",
@@ -1316,11 +1368,11 @@
         },
         "10": {
             "name": "",
-            "desc": "Giga-noix à Trident et Zombie Noix Glacée Harponneur : lancent désormais 2 tridents/harpons de neige supplémentaires à chaque attaque | Pozeidon lance 3 tridents géants"
+            "desc": "Giga-noix à Trident et Zombie Noix Glacée Harponneur : lancent désormais 2 tridents/harpons de neige supplémentaires à chaque attaque | Pozeidon : +1 colonne de Giga-noix à Trident invoquée si non sélectionné"
         },
         "11": {
             "name": "",
-            "desc": "Giga-noix à Trident : ignore désormais les plantes de type Ombrelle et cible des plantes aléatoires à attaquer"
+            "desc": "Giga-noix à Trident : cible désormais tour à tour la plante la plus proche, celle qui a le plus de PV, puis celle qui a le moins de PV | Pozeidon : +1 colonne de Giga-noix à Trident invoquée si non sélectionné"
         },
         "12": {
             "name": "",
@@ -1328,7 +1380,7 @@
         },
         "13": {
             "name": "",
-            "desc": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur"
+            "desc": "Michael Superstar : traverse désormais les plantes en se glissant à l'intérieur, jusqu'à la 5e colonne en partant de la gauche"
         },
         "14": {
             "name": "",
@@ -1708,7 +1760,7 @@
         },
         "10009": {
             "name": "Sacrifice zombie",
-            "desc": "Les zombies (hors mini-boss) ont une chance de disparaître dès leur apparition et de conférer 80% de leurs PV à un autre zombie ; cette chance augmente au fil des vagues"
+            "desc": "Les zombies (hors mini-boss) ont une chance de disparaître dès leur apparition et de conférer 80% de leurs PV à un autre zombie (ses PV max peuvent être dépassés) ; cette chance augmente au fil des vagues"
         },
         "10010": {
             "name": "Hibernation",
@@ -1716,7 +1768,7 @@
         },
         "10011": {
             "name": "K.-O. sévère",
-            "desc": "Les plantes mettent 1,5× plus de temps à réapparaître"
+            "desc": "Les plantes mettent 50% de temps en plus à réapparaître"
         },
         "10012": {
             "name": "Explosion cerv-ambrienne",
@@ -1744,7 +1796,7 @@
         },
         "10018": {
             "name": "Riposte",
-            "desc": "Quand les zombies subissent des dégâts, ils génèrent un projectile de malédiction côté zombies qui inflige aux plantes des dégâts égaux à 10% de la puissance d’attaque du zombie (20 au minimum) ; cela peut se déclencher au plus 10 fois toutes les 0,02 s"
+            "desc": "Quand les zombies subissent des dégâts, ils génèrent un projectile de malédiction côté zombies qui inflige aux plantes des dégâts égaux à 50% de la puissance d’attaque du zombie (100 au minimum) ; cela peut se déclencher au plus 10 fois toutes les 0,02 s"
         },
         "10019": {
             "name": "Retour des sbires",
@@ -1768,7 +1820,7 @@
         },
         "10024": {
             "name": "Ruée nitro",
-            "desc": "À chaque vague, une fois les zombies apparus, 3 zombies aléatoires reçoivent un bonus de vitesse de 100%"
+            "desc": "À chaque vague, une fois les zombies apparus, 3 zombies aléatoires reçoivent un bonus de vitesse de 100%. Ce bonus est cumulable"
         },
         "10025": {
             "name": "Odeur putride",
@@ -1792,11 +1844,11 @@
         },
         "10030": {
             "name": "Apocalypse croissante",
-            "desc": "L’intervalle entre les vagues est réduit, et chaque vague a une chance de faire apparaître immédiatement une seconde fois les mêmes zombies ; cette chance augmente au fil des vagues"
+            "desc": "L’intervalle entre les vagues est réduit, et chaque vague a une chance de faire apparaître une seconde fois les mêmes zombies ; cette chance augmente au fil des vagues"
         },
         "10031": {
             "name": "Détonation désespérée",
-            "desc": "Les zombies (hors mini-boss) dont les PV sont sous 5% de leurs PV max explosent spontanément dès qu’ils sont touchés"
+            "desc": "Les zombies (hors mini-boss) dont les PV sont sous 5% de leurs PV max explosent spontanément (explosion de Diable à ressort) dès qu’ils sont touchés"
         },
         "10032": {
             "name": "Cor de puissance",
