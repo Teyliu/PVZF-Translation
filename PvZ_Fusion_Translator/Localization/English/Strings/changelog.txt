@@ -18,28 +18,28 @@ Please visit our community for future updates and support.
 - Unique Plants:
   - Painter Sunflower
 - Basic Fusions:
-  - Ball Cactus
-  - Cabbage Morph
-  - Scrap-pult
-  - Chrono-pult
-  - Balloon-shroom
-  - Fume Pot
-  - Magnet Squash
-  - Umbrella Squash
-  - Melon Pod
-  - Trinity-shroom
-  - Crush-shroom
-  - Cabbage Pod
-  - Springy-shroom
-  - Stinky Squash
-  - Silver Squash
-  - Gold Squash.
+  - Ball Cactus (Puff-shroom + Cactus)
+  - Cabbage Morph (Cabbage-pult + Magnet-shroom)
+  - Scrap-pult (Cabbage Morph + Bucket)
+  - Chrono-pult (Cabbage Morph + Chrono Piece)
+  - Balloon-shroom (Fume-shroom + Blover)
+  - Fume Pot (Fume-shroom + Flower Pot)
+  - Magnet Squash (Squash + Magnet-shroom)
+  - Umbrella Squash (Umbrella Leaf + Squash)
+  - Melon Pod (Peashooter + Melon-pult)
+  - Trinity-shroom (Threepeater + Scaredy-shroom)
+  - Crush-shroom (Fume-shroom + Squash)
+  - Cabbage Pod (Peashooter + Cabbage-pult)
+  - Springy-shroom (Melon-pult + Scaredy-shroom)
+  - Stinky Squash (Garlic + Squash)
+  - Silver Squash (Marigold + Squash)
+  - Gold Squash (Gold Bean + Silver Squash)
 - Odyssey Fusions:
   - SP Odyssey:
-    - SP Calamity-shroom
-    - SP Avarice-shroom 
+    - SP Calamity-shroom (Calamity-shroom + Doom-shroom)
+    - SP Avarice-shroom (Avarice-shroom + Marigold)
   - Common Odyssey:
-    - Gravi-nut
+    - Gravi-nut (Squash-nut + Magnut)
   - Legendary:
     - Longfeng Torcher
     - Temporal Torch
