@@ -588,6 +588,10 @@
             "name": "Croissance instantanée",
             "desc": "Mécanique du niveau : Champi-Deucalion commence avec l'équivalent de 10 manches d'Odyssée en stades de croissance (cela signifie-t-il 1 000 stades de croissance, puisque chaque manche est plafonnée à 100 ? Il faudrait que quelqu'un le teste)"
         },
+        "11002": {
+            "name": "Plantes cachées",
+            "desc": "Mécanique du niveau : tous les paquets de graines sont transformés en points d’interrogation ? Je ne sais pas où cela apparaît."
+        },
         "12000": {
             "name": "",
             "desc": "Les pastèques du Champi-napalm créent une mer de feu supplémentaire en touchant le sol et peuvent se diviser jusqu'à 2 fois de plus en touchant des zombies."
