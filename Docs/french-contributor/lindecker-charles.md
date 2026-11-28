@@ -28,8 +28,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **5147**
-* Traductions ajustées : **425**
+* Nouvelles traductions : **5173**
+* Traductions ajustées : **548**
 * Reviews effectuées : **637**
 
 ---
@@ -37,6 +37,240 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `23/11/26 → 29/11/26`
+> *à venir*
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **26**
+* Traductions ajustées : **123**
+* Reviews effectuées : **0**
+
+> Mise à jour 4.1 (post-release) : écran « Panthéon des Plantes » de Les Dieux : Évolué (20 strings), 2 regex,
+> 1 travel buff et 3 tips Fusion Showcase ; 43 tips re-keyés (dont 14 mis à jour), 8 clés de strings / regex renommées
+> en place, préfixe « Nom de plante : » retiré d’une soixantaine de modificateurs comme en EN, et travel buffs
+> 1019–1023 réalignés (décalage d’un cran).
+
+---
+
+#### Détail
+
+## 🧩 Modified Plant Entries
+* **Capitaine Algue-d'or** (`seedType: 941`) — `info` : modificateur 2 : « sur une case vide » retiré
+* **Zomboîte Algue-avide** (`seedType: 5003`) — `info` : modificateur 2 : « sur une case vide » retiré
+* **Chou Renforcé** (`seedType: 1490`) — `info` : rebond : précise « un zombie doté d’une armure métallique de Type 1 » ; projectiles au pluriel
+* **Écraseur Magnétique** (`seedType: 1494`) — `info` : point final ajouté à la portée de détection
+* **Écraseur Ombrelle** (`seedType: 1495`) — `info` : point final ajouté
+* **Champi-ressort** (`seedType: 1500`) — `info` : saut de ligne avant « Dégâts maximum »
+* **Écraseur Puant** (`seedType: 1501`) — `info` : points de suspension → point
+* **Champi-calamité Épique** (`seedType: 5006`) — `info` : modificateur 2 : « ignorent la réduction des dégâts » → « dégâts purs » (balise de couleur)
+
+## 🧵 New String Entries Added
+* **植物图鉴**
+* **专家词条**
+* **其他词条**
+* **超质变**
+* **战术词条**
+* **试炼词条**
+* **浏览植物进化路线与诸神模式的各类词条**
+* **点击卡牌或条目查看详细说明 · 滚轮浏览更多内容**
+* **词条效果**
+* **专家**
+* **基础**
+* **超级随机\n问号大战**
+* **问号大战**
+* **使用绘画向日葵会定期在前方种植随机植物\n可以点击绘画向日葵拿起画笔为植物绘制贴图\n绘画向日葵生产问号后，如果你在30秒内没有画出植物，植物将被回收**
+* **总有一天**
+* **总有一天，就是今天**
+* **旅行：进化\n全新升级**
+* **超级叠叠乐**
+* **自动下一波\n已关闭**
+* **自动下一波\n已开启**
+
+### ♻️ Re-keyed String Entries (clé renommée en place — non comptées, sauf retraduction)
+
+* **超级机枪忧郁菇的子弹命中次数 + 5** ← `<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n超级机枪忧郁菇的子弹命中次数 + 5`
+* **究极魔法寒冰射手攻击僵尸时有4%概率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数 + 1。多选每次提高4%概率** ← `<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n究极魔法寒冰射手攻击僵尸时有4%概率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数 + 1。多选每次提高4%概率`
+* **机械飞船的折射次数+1** ← `<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n机械飞船的折射次数 + 1`
+* **机械飞船的折射次数+2** ← `<size=90%>You haven't discovered this plant yet! You can find it by fusing:\n机械飞船的折射次数 + 2`
+* **点击神笔作画，可以画出植物或魅惑僵尸\n画作看起来越强，画出的单位就会越强\n高级画笔画出的数值上限更高** ← `点击神笔作画，画出什么就给什么植物\n如果你画的植物看起来越强，他就会真的越强\n高级画笔画出植物数值上限更高`
+* **以你的画作代替画出的植物或魅惑僵尸贴图** ← `以你画出的植物代替植物的贴图` — valeur retraduite (EN modifié), comptée dans les ajustées
+
+## ♻️ Modified String Entries
+* **植物的贴图丢失了，因此数值降低99%\n鼠标放在植物上点按键盘D为其绘制贴图，画的越像植物强度越高** — `value` : « N/A » remplacé par un vrai texte
+* **究极流光射手在前方生成一束天网攻击僵尸** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-湮灭之核：相邻的两束天网之间会定期释放迷你黑洞爆炸** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **死神猎手释放的毁灭菇伤害+100%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **死神猎手每一发子弹都会造成爆头伤害** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **火焰狙击射手的火墙密度+3\n需要重新手动建立火墙** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **火焰狙击射手的火墙顶点数加2** — `value` : préfixe « Nom de plante : » retiré, comme en EN (coquille EN « BFirewall » traduite selon le sens)
+* **质变-激光炮：究极激光炮台发射不间断的激光射线** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极樱桃射手每次攻击多发射一发子弹** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极黑橄榄机枪射手保底时大招所需射击子弹数-10** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-致密：超级黑橄榄机枪射手的大招会发射更强大的巨型子弹** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; 2e phrase manquante ajoutée
+* **获得词条：魔力升级II\n获得词条：举世无双** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **飓风之龙的普攻子弹数+2，龙炎子弹数 + 4** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极樱桃战神百分比伤害+5%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **生命值上限+50%，其他植物受伤时，获得相当于5%伤害量的蓄能** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **蓄能获取效率增加+100%** — `value` : point final ajouté
+* **质变-谁劈了我的瓜：西瓜坚果发射的西瓜飞到最高点时会瞬间炸开，并分裂成若干个小西瓜扔向全场僵尸** — `value` : point final ajouté
+* **三线土豆雷大招持续时间+5秒** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **发射的子弹升级为爆破子弹** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **毁灭大嘴花爆炸数+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; « explosion » → « explosion de Champi-mort »
+* **毁灭大嘴花攻击时没有吞噬僵尸也将释放爆炸，吞下则释放两次** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极灯笼巨嘴花范围+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-吞噬：巨嘴花吞咽后的吸引范围大幅增加** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **僵尸的基础速度降低10%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **狙击穿透+2** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **质变-反弹：铁豆小队的狙击不再能爆头，但弹道触碰场地边缘后会反弹，反弹数为穿透数+2** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **究极大喷菇每次攻击额外发射一枚黑冰刺** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **获得旅行词条：凛风刺骨** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **升级成星辉大喷菇** — `value` : « Stellaire » en capitales et point d’exclamation, comme en EN
+* **究极忧郁菇伤害半径+0.5** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; point final ajouté
+* **获得词条：真-万籁俱寂** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **子弹发射数+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **获得词条：普度众生** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **魅惑概率提高7.5%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **获得词条：定时炸弹** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **【<nobr>真正的毁灭菇</nobr>】: ** — `value` : nom du Modificateur entre crochets et description de son effet ajoutés
+* **真正的毁灭菇：毁灭菇子弹会在命中时释放毁灭菇爆炸（不留坑洞）** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **大子弹所需射击数-4** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **每3秒自动生成一个僚机，攻速加成可缩短这个间隔** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **获得词条：特制弹药、一针见血** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **辐射持续时间+1秒** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; unité « s » manquante ajoutée
+* **红温伤害增幅提高60%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **浴火三线射手变为五线射手，子弹可无限穿透** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极机枪炮台生命偷取+50%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **子弹弹射数量+1\n究极机枪炮台的子弹命中僵尸时额外造成多次伤害，每次伤害对小范围内的敌方随机单体造成相当于子弹伤害100%的伤害** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **炮台在释放大招过程中额外释放4次火爆辣椒效果，每次造成50段伤害，每次伤害对敌方随机单体造成等同于炮台10000%攻击力的伤害** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; « à portée » ajouté
+* **烈焰竹龙释放的飞天爆竹数+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-烈火燎原：烈焰竹龙的吐息时额外在全场释放火爆辣椒效果** — `value` : nom de la plante retiré (« Ses attaques »), point final ajouté
+* **获得两株地刺王在周围，地刺王拥有相当于玄钢地刺王100%的独立伤害增幅和100%的速度增幅，基础攻击力为玄钢地刺王的75%，地刺王的属性根据场地上冰火植物数量来决定** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; « Glaces Épineuses OU » et dernière phrase manquantes ajoutées
+* **质变-流血：被任意地刺王命中的僵尸会在2秒内持续损失相当于本次伤害400%的生命值** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **玄钢地刺王横向范围+100%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **保龄球发射数量+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **每次攻击在每行发射一发保龄球** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极仙人掌大招所需杀敌数-20** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极杨桃大帝每轮攻击额外发射一轮多功能杨桃子弹** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; « supplémentaires » → « +5 »
+* **大帝每60秒将会进行一次抽奖，死亡后重新计时，奖励品质会被幸运影响** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极杨桃大帝升级成星辉形态** — `value` : « Stellaire » en capitales, comme en EN
+* **究极剑仙杨桃大剑数量+11** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极太阳神卷心菜陨星+1\n陨星锁定全场血量最高的僵尸，落地时造成相当于卷心菜攻击力100%的群体伤害\n然后造成30次伤害，每次伤害对范围内敌方随机单体造成100%的爆炸伤害** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极爆破迫击炮最大散射数+10** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-引力：黑洞会吸引生命值低于50%的僵尸** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **黑洞会对附近的僵尸造成伤害，每拥有一个该词条，伤害比例增加100%** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **能量上限+5000，能量恢复效率+300%，每次攻击额外附带等同于当前能量25%的伤害** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **质变-光盾：流光伞会消耗能量击退3x3范围内的僵尸，普攻目标数x3** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极投手连射、散射概率增加12%** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; formulation compacte « +12% »
+* **究极火神弹弹菇火海时间+3秒** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **火神的子弹命中地面时也会生成火海，命中僵尸最多额外分裂2次** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极冰神西瓜的发射数量+1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **每次召唤多生成一只僵尸** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; « un zombie hypnotisé est invoqué » → « elle invoque un zombie »
+* **质变-精英：魅帝菇召唤的僵尸强度大幅提高** — `value` : préfixe « Nom de plante : » retiré, comme en EN ; réaligné sur l’EN (« y compris des Mini-boss »)
+* **质变-大运：究极冬笋路障会跟随鼠标移动，速度可提高移动速度，且遇到僵尸后强制执行撞击** — `value` : « peut désormais suivre » → « suit » ; nom intégré à la phrase ; point final ajouté
+* **究极樱桃战神升级成星辉形态** — `value` : « Stellaire » en capitales et point d’exclamation, comme en EN
+* **究极大喷菇升级成星辉形态** — `value` : « Stellaire » en capitales et point d’exclamation, comme en EN
+* **究极忧郁菇升级成星辉形态** — `value` : « Stellaire » en capitales et point d’exclamation, comme en EN
+* **持续射击时，每过1秒，伤害增加10%，停止攻击后重置** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **生成杨桃所需子弹数-10** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极武装大嘴花爆头所需次数-1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极浴火射手连射 + 1** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **究极魔法寒冰射手攻击僵尸时有几率施加一层“解读”标记。若弹射击中已标记的僵尸，则会消耗此标记，使本次弹射次数+1。多选提高概率** — `value` : préfixe « Nom de plante : » retiré, comme en EN
+* **专家邀请** — `value` : « Reinforcement » → « Expert Support » (parallèle à « Soutien tactique »)
+* **从多个选项中自选一株专家植物** — `value` : « plante de Renfort » → « plante Experte »
+* **Evolve: 究极** — `value` : « Polarity » → « SP » (Épique)
+* **护航-天罚** — `value` : renommé « Lightning Storm » (même nom que `advancedBuffs.13042`)
+* **天罚-闪电风暴** — `value` : renommé « Lightning Storm » (même nom que `advancedBuffs.13042`)
+* **天罚** — `value` : renommé « Lightning Storm » (même nom que `advancedBuffs.13042`)
+
+## 🧪 New Regex Patterns Added
+* **^诸神币：(\d+)$**
+* **^(\d+)币$**
+
+### ♻️ Re-keyed Regex Patterns (clé renommée en place — non comptées)
+
+* **START_UNDISCOVERED** ← `^([\s\S]+)\+([\S]+)$`
+* **CONT_UNDISCOVERED** ← `^或 ([\s\S]+)\+([\S]+)$`
+
+## 🔄 Modified Regex Patterns
+* **^([\s\S]+)获得(\d+)%独立伤害增幅** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+* **^([\s\S]+)获得(\d+)%独立伤害增幅\n当前增幅：(\d+)%** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+* **^([\s\S]+)获得(\d+)%独立伤害增幅\n当前增幅：(\d+)%\n已选了(\d+)次** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+* **^([\s\S]+)获得(\d+)%速度增幅** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+* **^([\s\S]+)获得(\d+)%速度增幅\n当前增幅：(\d+)%** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+* **^([\s\S]+)获得(\d+)%速度增幅\n当前增幅：(\d+)%\n已选了(\d+)次** — `value` : préfixe « {0} : Gagne » retiré, comme en EN (le nom de la plante n’est plus affiché)
+
+## 🧭 New Travel Buff Entries Added
+* **Plantes cachées** (`advancedBuffs: 11002`)
+
+## 🔁 Modified Travel Buff Entries
+* **Démontage** (`advancedBuffs: 1014`) — `name` : « Recycling Fission » → « Disassemble » (« Démontage ») ; `desc` inchangé (reformulation EN sans changement de sens)
+* **advancedBuffs.1019** — `desc` : décalage d’un cran corrigé : l’entrée portait la traduction du buff précédent (EN inchangé, FR existant déplacé tel quel)
+* **advancedBuffs.1020** — `desc` : décalage d’un cran corrigé : l’entrée portait la traduction du buff précédent (EN inchangé, FR existant déplacé tel quel)
+* **Magie Renforcée I** (`advancedBuffs: 1021`) — `name`, `desc` : décalage d’un cran corrigé : l’entrée portait la traduction du buff précédent (EN inchangé, FR existant déplacé tel quel)
+* **Magie Renforcée II** (`advancedBuffs: 1022`) — `name`, `desc` : décalage d’un cran corrigé : l’entrée portait la traduction du buff précédent (EN inchangé, FR existant déplacé tel quel)
+* **Points rapides** (`advancedBuffs: 1023`) — `name`, `desc` : « Investing » → « Fast Points » (multiplicateur de points 2,2× dégressif) ; l’entrée portait « Magie Renforcée II », déplacé en 1022 (décalage d’un cran)
+* **Ceriz Prodige** (`advancedBuffs: 4008`) — `desc` : ajout « reste au-dessus de la Sulfateuse à Grenades la plus à droite » ; « en rafale », « énorme » et « (y compris à leur mort) » retirés
+* **advancedBuffs.12001** — `desc` : réécrit — 4 effets Jalapeño (au lieu de vagues de Givre-flamme), 100× la puissance d’attaque ; même texte que la string TGE correspondante
+* **ultimateBuffs.29** — `desc` : FR périmé (ancien texte « 30% de remise ») réaligné sur l’EN (plafond de points doublé, paquets de graines via Cadeau Florale/Zombie)
+
+## 📌 New Tips Entries Added (Fusion Showcase)
+* **level1462-寒冰大嘴花4.1**
+* **level1472-三线大喷菇4.1**
+* **level1493-大喷菇花盆4.1**
+
+## 🛠️ Updated Tips Entries (Fusion Showcase)
+> Clé renommée et traduction FR existante mise à jour (EN modifié, FR en retard sur l’EN ou nom aligné sur l’almanach).
+* **level1191-毁灭仙人掌4.1** ← `level1191-毁灭仙人掌DoomCactus`
+* **level1198-火爆杨桃4.1** ← `level1198-火爆杨桃`
+* **level1213-磁性毁灭菇4.1** ← `level1213-磁力毁灭菇`
+* **level1250-窝瓜坚果4.1** ← `level1250-窝瓜坚果`
+* **level1275-毁灭三叶草4.1** ← `level1275-毁灭三叶草DoomBlover`
+* **level1280-西瓜小投手4.1** ← `level1280-西瓜小投手`
+* **level1295-“高”坚果射手4.1** ← `level1295-“高”坚果射手`
+* **level1314-磁性西瓜投手4.1** ← `level1314-磁力西瓜投手`
+* **level1323-大蒜南瓜4.1** ← `level1323-大蒜南瓜`
+* **level1335-魅惑大嘴花4.1** ← `level1335-魅惑大嘴花`
+* **level1347-特种三线射手4.1** ← `level1347-特种三线射手`
+* **level1421-火炬土豆雷4.1** ← `level1421-火炬土豆雷TorchMine`
+* **level1436-寒冰南瓜4.1** ← `level1436-寒冰南瓜IcePumpkin`
+* **level1442-三线花盆4.1** ← `level1442-三线花盆ThreePot`
+
+### ♻️ Re-keyed Tips Entries (sans modification — drift de clé)
+* **level1031-阳光菇** ← `level1031-阳光菇SunShroom`
+* **level1034-寒冰射手** ← `level1034-寒冰射手SnowPeaShooter`
+* **level1158-磁性大喷菇4.1** ← `level1158-磁力大喷菇`
+* **level1209-磁性玉米投手4.1** ← `level1209-磁力玉米投手`
+* **level1294-海螺胆小菇4.1** ← `level1294-海螺胆小菇`
+* **level1296-寻宝土豆雷** ← `level1296-寻宝土豆雷TreasureMine`
+* **level1308-阳光辣椒4.1** ← `level1308-阳光辣椒`
+* **level1351-阳光窝瓜4.1** ← `level1351-阳光窝瓜`
+* **level1369-卷心菜乒乓菇4.1** ← `level1369-卷心菜乒乓菇`
+* **level1413-火爆南瓜** ← `level1413-火爆南瓜JalaPumpkin`
+* **level1426-三叶土豆4.1** ← `level1426-三叶土豆BloverMineBloverMine`
+* **level1427-寒冰仙人掌4.1** ← `level1427-寒冰仙人掌IceCactus`
+* **level1428-樱桃大喷菇** ← `level1428-樱桃大喷菇CherryFume`
+* **level1433-三线西瓜炮手4.1** ← `level1433-三线西瓜炮手ThreeMelon`
+* **level1434-三线玉米炮手4.1** ← `level1434-三线玉米炮手ThreeCorn`
+* **level1435-三线南瓜** ← `level1435-三线南瓜ThreePumpkin`
+* **level1438-地刺大喷菇** ← `level1438-地刺大喷菇CaltropFume`
+* **level1439-三线卷心菜炮手** ← `level1439-三线卷心菜炮手ThreeCabbage`
+* **level1441-杨桃窝瓜** ← `level1441-杨桃窝瓜StarSquash`
+* **level1447-金盏大蘑菇** ← `level1447-金盏大蘑菇BigCoinShroom`
+* **level1449-银魅惑菇4.1** ← `level1449-银魅惑菇SilverHypnoShroomSilverHypnoShroom`
+* **level1451-樱桃小蘑菇4.1** ← `level1451-樱桃小蘑菇CherryPuff`
+* **level1452-大嘴胆小菇4.1** ← `level1452-大嘴胆小菇ChomperScaredy`
+* **level1453-保护伞大喷菇4.1** ← `level1453-保护伞大喷菇UmbrellaFume`
+* **level1456-海大嘴花4.1** ← `level1456-海大嘴花SeaChomper`
+* **level1457-寒冰杨桃** ← `level1457-寒冰杨桃IceStar`
+* **level1458-大嘴喷菇** ← `level1458-大嘴喷菇FumeChomper`
+* **level1459-小嘴菇** ← `level1459-小嘴菇PuffChomper`
+* **level1461-大蒜杨桃4.1** ← `level1461-大蒜杨桃GarlicStar`
+
+---
 
 ---
 

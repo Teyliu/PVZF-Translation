@@ -17,8 +17,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **5147**
-* Traductions ajustées : **425**
+* Nouvelles traductions : **5173**
+* Traductions ajustées : **548**
 * Reviews effectuées : **637**
 
 **Réseaux & contacts**
