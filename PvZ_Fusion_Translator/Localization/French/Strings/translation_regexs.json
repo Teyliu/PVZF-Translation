@@ -444,8 +444,8 @@
   "旅行： 鬼王线 第(\\d+)轮": "Odyssée : Voie de l'Empereur | Manche {0}",
   "旅行： 白车线 第(\\d+)轮": "Odyssée : Voie de Jackson | Manche {0}",
   "旅行： 将军线 第(\\d+)轮": "Odyssée : Voie du Striker | Manche {0}",
-  "^([\\s\\S]+)\\+([\\S]+)$": "<size=90%>Vous n'avez pas encore découvert cette plante ! Vous pouvez l'obtenir en fusionnant :\n{0} + {1}",
-  "^或 ([\\s\\S]+)\\+([\\S]+)$": "ou {0} + {1}",
+  "START_UNDISCOVERED": "<size=90%>Vous n'avez pas encore découvert cette plante ! Vous pouvez l'obtenir en fusionnant :\n{0} + {1}",
+  "CONT_UNDISCOVERED": "ou {0} + {1}",
   "成功保存(\\d+)张卡牌至自定义卡组中": "{0} paquets de graines enregistrées avec succès dans une configuration personnalisée !",
   "^时间: ([^\\s:]+)$": "Temps : {0}",
   "^第([^\\s:]+)拍$": "Battement : {0}",
@@ -550,6 +550,8 @@
   "^2次轮回，最终面临黄金僵王的挑战\n通关获得100诸神币\n\n该难度已经通关了(\\d+)次": "Le Dr. Zomboss Aurique Suprême apparaîtra à la fin de la manche 3. Récompense : 100 pièces des Dieux.\n\nVous avez terminé cette difficulté {0} fois.",
   "^无尽模式，你能撑到第几轮？\n每完成一轮获得25诸神币\n\n最大轮数：(\\d+)": "Affrontez sans fin le Dr. Zomboss Aurique Suprême et gagnez 25 pièces des Dieux à chaque manche. Tapez \"shoothard\" pour un défi bien plus difficile.\n\nMeilleure manche : {0}.",
   "^诸神进化：无尽，第(\\d+)轮": "Les Dieux : Évolué (Sans Fin), Manche {0}",
+  "^诸神币：(\\d+)$": "Pièces des Dieux : {0}",
+  "^(\\d+)币$": "{0} pièces",
   "^速度x ([^\\s:]+)": "Vitesse de jeu : ×{0}",
   "^当前幸运：(\\d+)\n场上敌人数量：(\\d+)\n难度积分：(\\d+)": "Chance actuelle : {0}\nZombie(s) : {1}\nPoints de difficulté : {2}"
 }
